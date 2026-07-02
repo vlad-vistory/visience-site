@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/0tgycj2schvt9.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T497e,<style>
+2:T49e9,<style>
 .ct-hero {
   position: relative;
   padding: calc(var(--nav-h) + 80px) 0 60px;
@@ -553,21 +553,21 @@
           </p>
           <p>
             <span class="wpcf7-form-control-wrap" data-name="your-email">
-              <input type="email" name="your-email" placeholder=" " autocomplete="email" value="">
+              <input type="email" name="your-email" aria-label="Email" placeholder=" " autocomplete="email" value="">
               <span class="floating-label">Email</span>
             </span>
             <span class="wpcf7-form-control-wrap" data-name="tel-626">
-              <input type="tel" name="tel-626" placeholder=" " value="">
+              <input type="tel" name="tel-626" aria-label="Telefon" placeholder=" " value="">
               <span class="floating-label">Telefon <span style="color:var(--acc)">*</span></span>
             </span>
             <span class="wpcf7-form-control-wrap" data-name="text-477">
-              <input type="text" name="text-477" placeholder=" " value="">
+              <input type="text" name="text-477" aria-label="Detalii proiect" placeholder=" " value="">
               <span class="floating-label">Detalii proiect</span>
             </span>
           </p>
           <p>
             <span class="wpcf7-form-control-wrap" data-name="your-subject">
-              <input type="text" name="your-subject" placeholder=" " value="">
+              <input type="text" name="your-subject" aria-label="Când să te contactăm?" placeholder=" " value="">
               <span class="floating-label">Când să te contactăm?</span>
             </span>
           </p>
@@ -602,6 +602,6 @@
 </section>
 
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"ContactPage\",\"name\":\"Contact Visience\",\"url\":\"https://visience.ro/contact\",\"mainEntity\":{\"@type\":\"Organization\",\"name\":\"Visience Creative Experience\",\"telephone\":\"+40771486499\",\"email\":\"contact@visience.ro\",\"url\":\"https://visience.ro/\"}}"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XLiQQktmqJoG3-3IBETrL"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"ContactPage\",\"name\":\"Contact Visience\",\"url\":\"https://visience.ro/contact\",\"mainEntity\":{\"@type\":\"Organization\",\"name\":\"Visience Creative Experience\",\"telephone\":\"+40771486499\",\"email\":\"contact@visience.ro\",\"url\":\"https://visience.ro/\"}}"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"5QEoHtypA08KBbOemrGgY"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
