@@ -1,0 +1,218 @@
+1:"$Sreact.fragment"
+c:I[68027,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"default",1]
+:HL["/_next/static/chunks/3b23shbd_73w9.css","style"]
+:HL["/_next/static/media/017d9bea37084d9b-s.p.41rroleoq1br7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/26daee0352f50a5f-s.p.2e115y8-hourl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/36363bfb06833f56-s.p.38hmww4cj4vme.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5c285b27cdda1fe8-s.p.2_mbdogr7ni8i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a73419dd2ba2d841-s.p.2yee423r7ahpo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b12e986493c137cf-s.p.2njitm-prmz2_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b2fa3ef4ca165ab4-s.p.12_ml6bnugnre.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c3cb240f9c892514-s.p.3z_x6eowsw16y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/1mvqsvr3qlqt5.css","style"]
+:HL["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css","style"]
+2:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}3:Tb9a,<header class="nav" id="nav" role="banner">
+  <div class="wrap nav__in">
+    <a href="/" class="nav__logo" aria-label="Visience — Acasă">
+      <img class="nav__logo-img nav__logo-img--light" src="/media/sigla-mark-visience-new-colors.avif"
+           alt="Visience" width="160" height="30" fetchpriority="high">
+      <img class="nav__logo-img nav__logo-img--dark" src="/media/sigla-visience-dark.avif"
+           alt="" aria-hidden="true" width="160" height="30">
+    </a>
+
+    <nav class="nav__links" aria-label="Navigare principală">
+      <div class="nav__has-drop">
+        <a href="/#servicii">Servicii</a>
+        <div class="nav__drop">
+          <a href="/creare-site-prezentare/">Creare site de prezentare</a>
+          <a href="/creare-magazin-online/">Creare magazin online</a>
+          <a href="/branding-identitate-vizuala/">Branding &amp; identitate</a>
+          <a href="/social-media-management/">Social media</a>
+          <a href="/google-meta-ads/">Google &amp; Meta Ads</a>
+          <a href="/optimizare-seo/">SEO &amp; content</a>
+          <a href="/dezvoltare-software/">Dezvoltare software</a>
+          <a href="/marketing-dezvoltatori-imobiliari/">Marketing imobiliar</a>
+        </div>
+      </div>
+      <a href="/portofoliu/">Proiecte</a>
+      <a href="/preturi/">Prețuri</a>
+      <a href="/blog/">Blog</a>
+      <a href="/#rezultate">Rezultate</a>
+      <a href="/#despre">Despre</a>
+      <a href="/contact/">Contact</a>
+    </nav>
+
+    <a href="/#contact" class="nav__cta">Solicită ofertă</a>
+
+    <button class="nav__burger" id="navBurger"
+            aria-label="Deschide meniul" aria-expanded="false" aria-controls="navMob">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<nav class="nav__mob" id="navMob" aria-label="Meniu mobil">
+  <a href="/#servicii"  class="nm-l">Servicii</a>
+  <a href="/creare-site-prezentare/" class="nm-l nm-sub">Creare site de prezentare</a>
+  <a href="/creare-magazin-online/" class="nm-l nm-sub">Creare magazin online</a>
+  <a href="/branding-identitate-vizuala/" class="nm-l nm-sub">Branding &amp; identitate</a>
+  <a href="/social-media-management/" class="nm-l nm-sub">Social media</a>
+  <a href="/google-meta-ads/" class="nm-l nm-sub">Google &amp; Meta Ads</a>
+  <a href="/optimizare-seo/" class="nm-l nm-sub">SEO &amp; content</a>
+  <a href="/dezvoltare-software/" class="nm-l nm-sub">Dezvoltare software</a>
+  <a href="/marketing-dezvoltatori-imobiliari/" class="nm-l nm-sub">Marketing imobiliar</a>
+  <a href="/portofoliu/"  class="nm-l">Proiecte</a>
+  <a href="/preturi/"    class="nm-l">Prețuri</a>
+  <a href="/blog/"       class="nm-l">Blog</a>
+  <a href="/#rezultate" class="nm-l">Rezultate</a>
+  <a href="/#despre"    class="nm-l">Despre</a>
+  <a href="/contact/"    class="nm-l">Contact</a>
+  <a href="/#contact" class="btn btn-solid" style="margin-top:8px">Solicită ofertă</a>
+</nav>
+0:{"P":null,"c":["","blog","top-10-lucruri-esentiale-pe-care-le-face-un-manager-de-social-media-pentru-a-obtine-succes-in-marketingul-digital",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","top-10-lucruri-esentiale-pe-care-le-face-un-manager-de-social-media-pentru-a-obtine-succes-in-marketingul-digital","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0a_4n0l8z1myf.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"bricolage_grotesque_4d7004bd-module__Hoo0MG__variable dm_sans_371c950d-module__4cga4q__variable dm_mono_6c018cca-module__6UXbpq__variable","children":[["$","head",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5","$L6"]}]]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$@a"]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"XLiQQktmqJoG3-3IBETrL"}
+e:I[39756,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
+f:I[37457,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
+11:I[27961,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
+13:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+17:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"ViewportBoundary"]
+19:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"MetadataBoundary"]
+4:["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lf",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
+10:T13f0,<footer class="footer" role="contentinfo">
+  <div class="wrap">
+
+    <div class="footer__grid">
+
+      <div>
+        <div class="footer__logo">
+          <img src="/media/sigla-mark-visience-new-colors.avif"
+               alt="Visience" width="148" height="28" loading="lazy">
+        </div>
+
+        <p class="footer__brand">
+          Agenție de marketing digital cu 12 ani de experiență. Transformăm imaginea companiilor prin branding, website, social media și marketing precis configurat.
+        </p>
+
+        <p class="footer__trust">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M20 6 9 17l-5-5"/>
+          </svg>
+          Prețuri publice, fără costuri ascunse — <a href="/preturi/">vezi prețurile</a>.
+        </p>
+
+        <div class="footer__contact">
+          <a href="tel:+40771486499">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.67A2 2 0 012 .92h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L6.91 8.09a16 16 0 006 6l1.27-.83a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/>
+            </svg>
+            +40 771 486 499
+          </a>
+          <a href="mailto:contact@visience.ro">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+              <polyline points="22,6 12,13 2,6"/>
+            </svg>
+            contact@visience.ro
+          </a>
+        </div>
+
+        <div class="footer__anpc">
+          <a class="anpc-b" href="https://anpc.ro/" target="_blank" rel="noopener noreferrer"
+             aria-label="ANPC — Autoritatea Națională pentru Protecția Consumatorilor">
+            <img src="https://anpc.ro/wp-content/themes/anpc/img/anpc_logo.png"
+                 alt="ANPC" width="50" height="18" loading="lazy"
+                 onerror="this.style.display='none'">
+            ANPC
+          </a>
+          <a class="anpc-b" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage"
+             target="_blank" rel="noopener noreferrer"
+             aria-label="SOL — Soluționare Online a Litigiilor">
+            SOL
+          </a>
+        </div>
+      </div>
+
+      <nav aria-label="Servicii">
+        <div class="footer__col-title">Servicii</div>
+        <ul class="footer__links">
+          <li><a href="/creare-site-prezentare/">Creare site de prezentare</a></li>
+          <li><a href="/creare-site-prezentare-iasi/">Creare site de prezentare Iași</a></li>
+          <li><a href="/creare-magazin-online/">Creare magazin online</a></li>
+          <li><a href="/branding-identitate-vizuala/">Branding &amp; identitate</a></li>
+          <li><a href="/social-media-management/">Social Media</a></li>
+          <li><a href="/google-meta-ads/">Google &amp; Meta Ads</a></li>
+          <li><a href="/optimizare-seo/">SEO &amp; Content</a></li>
+          <li><a href="/dezvoltare-software/">Dezvoltare software</a></li>
+          <li><a href="/marketing-dezvoltatori-imobiliari/">Marketing imobiliar</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Companie">
+        <div class="footer__col-title">Companie</div>
+        <ul class="footer__links">
+          <li><a href="/portofoliu/">Portofoliu</a></li>
+          <li><a href="/parteneri/">Parteneri</a></li>
+          <li><a href="/blog/">Blog</a></li>
+          <li><a href="/preturi/">Prețuri</a></li>
+          <li><a href="/#rezultate">Studii de caz</a></li>
+          <li><a href="/#despre">Despre noi</a></li>
+          <li><a href="/contact/">Contact</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Legal">
+        <div class="footer__col-title">Legal &amp; GDPR</div>
+        <ul class="footer__links">
+          <li><a href="/termeni-si-conditii/">Termeni și Condiții</a></li>
+          <li><a href="/politica-de-confidentialitate/">Politică Confidențialitate</a></li>
+          <li><a href="/politica-cookies/">Politică Cookies</a></li>
+        </ul>
+      </nav>
+
+    </div>
+
+    <div class="footer__bottom">
+      <div class="footer__bottom-in">
+        <p class="footer__copy">
+          © 2026 Visience Creative Experience SRL · Toate drepturile rezervate
+        </p>
+        <div class="footer__legal">
+          <a href="/termeni-si-conditii/">Termeni</a>
+          <a href="/politica-de-confidentialitate/">Confidențialitate</a>
+          <a href="/politica-cookies/">Cookies</a>
+          <a href="/gdpr/">GDPR</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</footer>
+5:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$10"}}]
+6:["$","$L11",null,{}]
+7:["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lf",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+8:["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lf",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":["$L12",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1mvqsvr3qlqt5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}]
+16:[]
+a:"$W16"
+b:["$","$1","h",{"children":[null,["$","$L17",null,{"children":"$L18"}],["$","div",null,{"hidden":true,"children":["$","$L19",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":"$L1a"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1b:T579,{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://visience.ro/blog/top-10-lucruri-esentiale-pe-care-le-face-un-manager-de-social-media-pentru-a-obtine-succes-in-marketingul-digital/#article","headline":"Top 10 lucruri esențiale pe care le face un Manager de Social Media pentru a obține succes în marketingul digital","description":"În era digitală în care trăim, Social Media Managerii reprezintă o piesă-cheie în strategia de marketing a oricărei afaceri. Aceștia sunt responsabili pentru ","datePublished":"2023-02-24","dateModified":"2023-02-24","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#organization"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/top-10-lucruri-esentiale-pe-care-le-face-un-manager-de-social-media-pentru-a-obtine-succes-in-marketingul-digital/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Top 10 lucruri esențiale pe care le face un Manager de Social Media pentru a obține succes în marketingul digital","item":"https://visience.ro/blog/top-10-lucruri-esentiale-pe-care-le-face-un-manager-de-social-media-pentru-a-obtine-succes-in-marketingul-digital/"}]}]}1c:T11a1,<p>În era digitală în care trăim, Social Media Managerii reprezintă o piesă-cheie în strategia de marketing a oricărei afaceri. Aceștia sunt responsabili pentru dezvoltarea și implementarea strategiilor de social media, crearea și administrarea conținutului, interacțiunea cu publicul, monitorizarea și analizarea datelor, gestionarea bugetului și utilizarea instrumentelor de social media. Cu o experiență de 15 ani în domeniu și cu clienți din diverse arii de activitate, am compilat în cele ce urmează cele mai importante 10 lucruri pe care le face un Manager de Social Media pentru a obține rezultate optime într-o lume în continuă schimbare și evoluție.</p>
+<p>Înțelegerea nevoilor și așteptărilor clienților - Un bun Manager de Social Media trebuie să fie capabil să înțeleagă obiectivele și nevoile clienților, să comunice eficient cu aceștia și să ofere soluții personalizate pentru fiecare client în parte.</p>
+<p>Planificarea strategiilor de social media - Un Manager de Social Media eficient trebuie să fie capabil să dezvolte strategii de social media în funcție de nevoile și obiectivele clienților, să identifice canalele de social media potrivite pentru fiecare client și să stabilească obiective clare și realiste.</p>
+<p>Crearea și administrarea conținutului - Un Manager de Social Media trebuie să fie capabil să creeze și să administreze conținutul pentru fiecare canal de social media, să fie atent la detalii, să monitorizeze și să optimizeze performanța conținutului în funcție de obiectivele clienților.</p>
+<p>Interacțiunea cu publicul - Un Manager de Social Media trebuie să fie capabil să interacționeze cu publicul, să răspundă la întrebări, să rezolve probleme, să încurajeze participarea și să crească angajamentul publicului prin intermediul rețelelor de social media.</p>
+<p>Monitorizarea și analizarea datelor - Un Manager de Social Media trebuie să fie capabil să monitorizeze și să analizeze datele pentru a evalua performanța campaniilor de social media, pentru a identifica tendințe și pentru a face recomandări pentru îmbunătățirea campaniilor viitoare.</p>
+<p>Colaborarea cu echipa - Un bun Manager de Social Media trebuie să fie capabil să colaboreze cu ceilalți membri ai echipei pentru a dezvolta strategii și pentru a asigura coerența mesajelor și brandului pe toate canalele de social media.</p>
+<p>Gestionarea bugetului - Un Manager de Social Media trebuie să fie capabil să gestioneze bugetul alocat pentru campaniile de social media, să aloce resursele în mod eficient și să optimizeze costurile pentru a obține rezultatele dorite.</p>
+<p>Utilizarea instrumentelor de social media - Un Manager de Social Media trebuie să fie capabil să folosească instrumentele de social media, să identifice cele mai eficiente instrumente pentru fiecare client și să fie la curent cu ultimele tendințe și tehnologii în acest domeniu.</p>
+<p>Învățarea continuă - Un Manager de Social Media trebuie să fie pasionat de acest domeniu și să fie în permanență la curent cu ultimele tendințe și tehnologii. Este important să fie deschis la schimbare și să fie dispus să învețe mereu lucruri noi.</p>
+<p>Evaluarea performanței și îmbunătățirea rezultatelor - Un Manager de Social Media trebuie să fie capabil să evalueze performanța campaniilor de social media și să identifice punctele tari și cele slabe pentru a face recomandări și pentru a îmbunătăți rezultatele viitoare. De asemenea, este important să aibă capacitatea de a face ajustări și de a se adapta la schimbări pentru a menține campaniile de social media în funcție de obiectivele și nevoile clienților.</p>
+<p>În concluzie, un Manager de Social Media este un profesionist esențial în industria de marketing digital, iar rolul său este crucial pentru succesul unei afaceri. Pentru a fi eficient, un Manager de Social Media trebuie să fie în permanență la curent cu noile tendințe și tehnologii în domeniu, să înțeleagă nevoile și obiectivele clienților, să creeze și să administreze conținutul adecvat, să interacționeze cu publicul, să monitorizeze și să analizeze datele și să gestioneze bugetul în mod eficient. Prin aplicarea acestor abilități, un Manager de Social Media poate ajuta o afacere să își construiască o prezență solidă și să obțină rezultate optime prin intermediul rețelelor de social media.</p>12:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$1b"}}],["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Top 10 lucruri esențiale pe care le face un Manager de Social Media pentru a obține succes în marketingul digital"}],["$","div",null,{"className":"blog-article__meta","children":[["$","time",null,{"dateTime":"2023-02-24","children":"24 februarie 2023"}],["$","span",null,{"className":"blog-article__author","children":"de echipa Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$1c"}}],"$L1d"]}]}]]
+1d:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
+18:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1e:I[27201,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"IconMark"]
+15:null
+1a:[["$","title","0",{"children":"Top 10 lucruri esențiale pe care le face un Manager de Social Media pentru a obține succes în marketingul digital | Visience"}],["$","meta","1",{"name":"description","content":"În era digitală în care trăim, Social Media Managerii reprezintă o piesă-cheie în strategia de marketing a oricărei afaceri. Aceștia sunt responsabili pentru "}],["$","link","2",{"rel":"canonical","href":"https://visience.ro/blog/top-10-lucruri-esentiale-pe-care-le-face-un-manager-de-social-media-pentru-a-obtine-succes-in-marketingul-digital/"}],["$","meta","3",{"property":"og:title","content":"Top 10 lucruri esențiale pe care le face un Manager de Social Media pentru a obține succes în marketingul digital"}],["$","meta","4",{"property":"og:description","content":"În era digitală în care trăim, Social Media Managerii reprezintă o piesă-cheie în strategia de marketing a oricărei afaceri. Aceștia sunt responsabili pentru "}],["$","meta","5",{"property":"og:url","content":"https://visience.ro/blog/top-10-lucruri-esentiale-pe-care-le-face-un-manager-de-social-media-pentru-a-obtine-succes-in-marketingul-digital/"}],["$","meta","6",{"property":"og:locale","content":"ro_RO"}],["$","meta","7",{"property":"og:image","content":"https://visience.ro/media/og-visience.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Visience — agenție de marketing & creare site-uri în Iași"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2023-02-24"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Top 10 lucruri esențiale pe care le face un Manager de Social Media pentru a obține succes în marketingul digital"}],["$","meta","15",{"name":"twitter:description","content":"În era digitală în care trăim, Social Media Managerii reprezintă o piesă-cheie în strategia de marketing a oricărei afaceri. Aceștia sunt responsabili pentru "}],["$","meta","16",{"name":"twitter:image","content":"https://visience.ro/media/og-visience.jpg"}],["$","link","17",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L1e","18",{}]]

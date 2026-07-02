@@ -1,0 +1,1054 @@
+1:"$Sreact.fragment"
+6:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+2:T1348,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/social-media-management/#service","name":"Social media management","serviceType":"Gestionarea rețelelor sociale (Facebook, Instagram, TikTok, LinkedIn)","description":"Strategie, conținut, postare și gestionarea completă a rețelelor sociale: calendar editorial pe 12 luni, design postări, community management și raportare lunară. De la 100€/lună.","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Pachete social media management","itemListElement":[{"@type":"Offer","name":"Full SMM","description":"30 de postări pe lună, management complet al conturilor, voce și ton de brand, comentarii strategice, engagement organic și consultanță 1:1 lunară.","price":"500","priceCurrency":"EUR","priceSpecification":{"@type":"UnitPriceSpecification","price":"500","priceCurrency":"EUR","unitText":"lună"}},{"@type":"Offer","name":"Postări Standard","description":"15 postări pe lună, 4+ story-uri, cercetare hashtag-uri, monitorizarea comentariilor și raport lunar de rezultate.","price":"250","priceCurrency":"EUR","priceSpecification":{"@type":"UnitPriceSpecification","price":"250","priceCurrency":"EUR","unitText":"lună"}},{"@type":"Offer","name":"Postări Basic","description":"6 postări organice pe lună, design profesional și texte personalizate pentru brandul tău.","price":"100","priceCurrency":"EUR","priceSpecification":{"@type":"UnitPriceSpecification","price":"100","priceCurrency":"EUR","unitText":"lună"}},{"@type":"Offer","name":"Strategie SMM","description":"Analiza publicului, cercetarea competiției, voce și ton de brand, calendar editorial pe 12 luni și 2 ședințe de lucru. Cost unic.","price":"500","priceCurrency":"EUR"},{"@type":"Offer","name":"Research influenceri","description":"Listă de influenceri potriviți, prețuri de colaborare, statistici de cont și nivel de engagement.","price":"250","priceCurrency":"EUR"}]}},{"@type":"FAQPage","@id":"https://visience.ro/social-media-management/#faq","mainEntity":[{"@type":"Question","name":"Pe ce rețele sociale lucrați?","acceptedAnswer":{"@type":"Answer","text":"Gestionăm conturile de Facebook, Instagram, TikTok și LinkedIn. Recomandăm rețelele potrivite în funcție de publicul tău și de tipul afacerii — nu are sens să fii peste tot, ci acolo unde sunt clienții tăi. Stabilim împreună mixul ideal la etapa de strategie."}},{"@type":"Question","name":"Ce include o postare?","acceptedAnswer":{"@type":"Answer","text":"Fiecare postare include textul scris special pentru brandul tău și designul grafic (sau prelucrarea materialului pe care îl ai), plus hashtag-urile relevante și programarea la ora optimă. Pe pachetele cu management complet, adăugăm și comentarii strategice și interacțiunea cu urmăritorii."}},{"@type":"Question","name":"Cât durează până se văd rezultate?","acceptedAnswer":{"@type":"Answer","text":"Social media este un canal care construiește în timp. Primele semne (creșterea interacțiunii și a numărului de urmăritori) apar de obicei în 1–2 luni, iar rezultatele solide în comunitate și notorietate se consolidează în 3–6 luni de prezență constantă. De aceea consecvența contează mai mult decât orice postare izolată."}},{"@type":"Question","name":"Există un contract minim?","acceptedAnswer":{"@type":"Answer","text":"Pachetele lunare funcționează cel mai bine cu un angajament de câteva luni, pentru că rezultatele apar din consecvență, nu dintr-o singură lună. Discutăm condițiile concrete la începutul colaborării și le adaptăm la obiectivele tale, fără clauze surpriză."}},{"@type":"Question","name":"Creați și conținutul foto/video?","acceptedAnswer":{"@type":"Answer","text":"Realizăm designul grafic și prelucrăm materialele pe care ni le pui la dispoziție. Pentru ședințe foto sau producție video dedicată, coordonăm cu partenerii noștri și îți facem o ofertă separată. Multe branduri pornesc cu materiale existente și fotografii de pe telefon, pe care le transformăm în postări profesionale."}},{"@type":"Question","name":"Cum raportați rezultatele?","acceptedAnswer":{"@type":"Answer","text":"Primești un raport lunar clar, cu indicatorii care contează: creșterea numărului de urmăritori, interacțiunea (engagement), reach-ul postărilor și ce tip de conținut a funcționat cel mai bine. Pe pachetul Full SMM adăugăm și o ședință de consultanță 1:1 în care discutăm rezultatele și pașii următori."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Social media management","item":"https://visience.ro/social-media-management/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XLiQQktmqJoG3-3IBETrL"}
+5:T8eb5,<style>
+.sm-hero {
+  position: relative;
+  padding: calc(var(--nav-h) + 90px) 0 90px;
+  background: var(--cream);
+  overflow: hidden;
+}
+.sm-hero__inner {
+  display: grid;
+  grid-template-columns: 1.15fr 1fr;
+  gap: 70px;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+}
+.sm-hero__breadcrumbs {
+  font-family: var(--f-m);
+  font-size: 11px;
+  color: var(--mid);
+  letter-spacing: .06em;
+  margin-bottom: 24px;
+}
+.sm-hero__breadcrumbs a       { color: var(--mid); transition: color .2s; }
+.sm-hero__breadcrumbs a:hover { color: var(--acc); }
+.sm-hero__breadcrumbs .sep    { margin: 0 10px; opacity: .4; }
+
+.sm-hero__h1 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(38px, 5.2vw, 70px);
+  line-height: .98;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 26px;
+}
+.sm-hero__h1 .acc {
+  background: var(--acc);
+  color: var(--acc-ink);
+  padding: 0 12px 4px;
+  border-radius: 10px;
+  display: inline-block;
+  line-height: 1.05;
+}
+.sm-hero__lead {
+  font-size: 17px;
+  line-height: 1.78;
+  color: var(--mid);
+  margin-bottom: 32px;
+  font-weight: 300;
+  max-width: 540px;
+}
+
+.sm-hero__pts {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-bottom: 36px;
+  max-width: 540px;
+}
+.sm-pt {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 14px;
+  color: var(--ink);
+  font-weight: 500;
+}
+.sm-pt-dot {
+  width: 18px; height: 18px;
+  background: var(--acc);
+  color: var(--acc-ink);
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 10px; font-weight: 700;
+  flex-shrink: 0; margin-top: 2px;
+}
+
+.sm-hero__cta {
+  display: flex; gap: 10px; flex-wrap: wrap;
+}
+
+.sm-hero__visual {
+  position: relative;
+  height: 480px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sm-phone {
+  position: relative;
+  width: 100%;
+  max-width: 320px;
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 28px;
+  padding: 18px 16px 20px;
+  box-shadow: 0 30px 80px rgba(17,16,16,.10);
+  z-index: 2;
+}
+.sm-phone__top {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 14px;
+}
+.sm-phone__avatar {
+  width: 34px; height: 34px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--acc) 0%, var(--acc2) 100%);
+  flex-shrink: 0;
+}
+.sm-phone__handle {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.sm-phone__name {
+  font-size: 12px; font-weight: 700; color: var(--ink);
+}
+.sm-phone__tag {
+  font-family: var(--f-m);
+  font-size: 10px; color: var(--light);
+}
+.sm-phone__post {
+  height: 150px;
+  border-radius: 14px;
+  background-image: radial-gradient(circle, rgba(232,152,10,.18) 1px, transparent 1px);
+  background-size: 16px 16px;
+  background-color: var(--cream2);
+  border: 1px solid var(--border);
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 14px;
+}
+.sm-phone__post::after {
+  content: '';
+  position: absolute;
+  top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+  width: 52px; height: 52px;
+  background: var(--acc);
+  opacity: .35;
+  border-radius: 14px;
+}
+.sm-phone__actions {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  margin-bottom: 14px;
+  color: var(--mid);
+  font-size: 15px;
+}
+.sm-phone__actions .sm-heart { color: var(--acc); }
+.sm-phone__stats {
+  display: flex;
+  gap: 10px;
+}
+.sm-phone__stat {
+  flex: 1;
+  background: var(--cream);
+  border-radius: 10px;
+  padding: 10px 12px;
+}
+.sm-phone__stat-num {
+  font-family: var(--f-d);
+  font-size: 16px; font-weight: 800;
+  color: var(--acc);
+  letter-spacing: -.02em;
+  line-height: 1;
+  margin-bottom: 4px;
+}
+.sm-phone__stat-lbl {
+  font-family: var(--f-m);
+  font-size: 8px;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--mid);
+}
+
+
+.sm-intro {
+  background: var(--white);
+  padding: 90px 0;
+  position: relative;
+}
+.sm-intro__inner {
+  max-width: 880px;
+  margin: 0 auto;
+}
+.sm-intro h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(28px, 3.5vw, 44px);
+  line-height: 1.1;
+  letter-spacing: -.025em;
+  color: var(--ink);
+  margin: 56px 0 18px;
+}
+.sm-intro h2:first-child { margin-top: 0; }
+.sm-intro p {
+  font-size: 16px;
+  line-height: 1.84;
+  color: var(--mid);
+  font-weight: 300;
+  margin-bottom: 16px;
+}
+.sm-intro p strong { color: var(--ink); font-weight: 600; }
+.sm-intro p a       { color: var(--acc); border-bottom: 1px solid var(--acc); transition: opacity .2s; }
+.sm-intro p a:hover { opacity: .65; }
+
+
+.sm-incl {
+  padding: 100px 0;
+  background: var(--cream);
+}
+.sm-incl__head {
+  max-width: 760px;
+  margin: 0 auto 56px;
+  text-align: center;
+}
+.sm-incl__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(30px, 4vw, 52px);
+  line-height: 1.04;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 16px;
+}
+.sm-incl__h2 .acc { color: var(--acc); }
+.sm-incl__sub {
+  font-size: 16px; line-height: 1.8;
+  color: var(--mid); font-weight: 300;
+}
+.sm-incl__grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+.sm-card {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 32px 26px 30px;
+  transition: .3s;
+}
+.sm-card:hover {
+  border-color: rgba(232,152,10,.3);
+  transform: translateY(-4px);
+  box-shadow: 0 18px 36px rgba(17,16,16,.06);
+}
+.sm-card__ico {
+  width: 48px; height: 48px;
+  border-radius: 12px;
+  background: var(--acc-bg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 22px;
+  color: var(--acc);
+  font-size: 20px;
+  transition: .3s;
+}
+.sm-card:hover .sm-card__ico {
+  background: var(--acc);
+  color: var(--acc-ink);
+}
+.sm-card h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.015em;
+  margin: 0 0 12px;
+  line-height: 1.2;
+  color: var(--ink);
+}
+.sm-card p {
+  font-size: 13px;
+  color: var(--mid);
+  line-height: 1.7;
+  font-weight: 300;
+  margin: 0;
+}
+
+
+.sm-prices {
+  padding: 100px 0;
+  background: var(--white);
+}
+.sm-prices__head {
+  text-align: center;
+  max-width: 720px;
+  margin: 0 auto 56px;
+}
+.sm-prices__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(34px, 4.5vw, 60px);
+  line-height: 1.0;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 18px;
+}
+.sm-prices__h2 .acc { color: var(--acc); }
+.sm-prices__sub {
+  font-size: 16px; line-height: 1.8;
+  color: var(--mid); font-weight: 300;
+}
+
+.sm-pkg-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  align-items: stretch;
+}
+.sm-pkg {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 36px 32px 32px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  transition: .3s;
+}
+.sm-pkg:hover {
+  border-color: rgba(232,152,10,.3);
+  transform: translateY(-6px);
+  box-shadow: 0 20px 48px rgba(232,152,10,.08);
+}
+.sm-pkg.featured {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--white);
+}
+.sm-pkg.featured:hover { box-shadow: 0 24px 56px rgba(17,16,16,.2); }
+.sm-pkg__badge {
+  position: absolute;
+  top: -12px; left: 50%;
+  transform: translateX(-50%);
+  background: var(--acc);
+  color: var(--acc-ink);
+  font-family: var(--f-m);
+  font-size: 9px;
+  font-weight: 500;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  padding: 5px 14px;
+  border-radius: 100px;
+}
+.sm-pkg__name {
+  font-family: var(--f-m);
+  font-size: 11px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--mid);
+  margin-bottom: 8px;
+}
+.sm-pkg.featured .sm-pkg__name { color: rgba(255,255,255,.5); }
+.sm-pkg__price {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(34px, 3.8vw, 48px);
+  letter-spacing: -.04em;
+  line-height: 1;
+  color: var(--acc);
+  margin-bottom: 4px;
+}
+.sm-pkg__price .per {
+  font-family: var(--f-m);
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0;
+  color: var(--mid);
+}
+.sm-pkg.featured .sm-pkg__price .per { color: rgba(255,255,255,.5); }
+.sm-pkg__price-note {
+  font-size: 12px;
+  color: var(--light);
+  margin-bottom: 22px;
+}
+.sm-pkg.featured .sm-pkg__price-note { color: rgba(255,255,255,.4); }
+.sm-pkg__desc {
+  font-size: 14px;
+  line-height: 1.7;
+  color: var(--mid);
+  margin-bottom: 26px;
+  font-weight: 300;
+  padding-bottom: 22px;
+  border-bottom: 1px solid var(--border);
+}
+.sm-pkg.featured .sm-pkg__desc {
+  color: rgba(255,255,255,.55);
+  border-bottom-color: rgba(255,255,255,.1);
+}
+.sm-pkg__feats {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 28px;
+  flex: 1;
+}
+.sm-pkg__feat {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 13px;
+  line-height: 1.55;
+  color: var(--ink);
+}
+.sm-pkg.featured .sm-pkg__feat { color: rgba(255,255,255,.85); }
+.sm-pkg__feat-tick {
+  color: var(--acc);
+  flex-shrink: 0;
+  margin-top: 2px;
+  font-weight: 700;
+}
+
+.sm-extra {
+  max-width: 760px;
+  margin: 36px auto 0;
+  display: flex;
+  align-items: center;
+  gap: 22px;
+  background: var(--cream);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 26px 30px;
+}
+.sm-extra__ico {
+  width: 50px; height: 50px;
+  flex-shrink: 0;
+  border-radius: 14px;
+  background: var(--acc-bg);
+  color: var(--acc);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+}
+.sm-extra__body { flex: 1; }
+.sm-extra__title {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: -.01em;
+  color: var(--ink);
+  margin-bottom: 4px;
+}
+.sm-extra__txt {
+  font-size: 13px;
+  line-height: 1.65;
+  color: var(--mid);
+  font-weight: 300;
+}
+.sm-extra__price {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: 24px;
+  letter-spacing: -.03em;
+  color: var(--acc);
+  flex-shrink: 0;
+}
+
+
+.sm-process {
+  padding: 100px 0;
+  background: var(--cream2);
+}
+.sm-process__head {
+  max-width: 700px;
+  margin: 0 auto 56px;
+  text-align: center;
+}
+.sm-process__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(30px, 4vw, 50px);
+  line-height: 1.04;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 16px;
+}
+.sm-process__h2 .acc { color: var(--acc); }
+.sm-process__sub {
+  font-size: 16px; line-height: 1.8;
+  color: var(--mid); font-weight: 300;
+}
+.sm-process__list {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+.sm-step {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 30px 28px;
+  transition: .3s;
+}
+.sm-step:hover {
+  border-color: rgba(232,152,10,.3);
+  transform: translateY(-4px);
+  box-shadow: 0 14px 28px rgba(17,16,16,.06);
+}
+.sm-step__n {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: 36px;
+  color: var(--acc);
+  letter-spacing: -.03em;
+  line-height: 1;
+  margin-bottom: 14px;
+}
+.sm-step h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.015em;
+  margin: 0 0 10px;
+  color: var(--ink);
+  line-height: 1.2;
+}
+.sm-step p {
+  font-size: 13px;
+  color: var(--mid);
+  line-height: 1.7;
+  font-weight: 300;
+  margin: 0;
+}
+
+
+.sm-faq {
+  padding: 100px 0;
+  background: var(--white);
+}
+.sm-faq__head {
+  text-align: center;
+  max-width: 640px;
+  margin: 0 auto 50px;
+}
+.sm-faq__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(28px, 3.6vw, 44px);
+  line-height: 1.06;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 16px;
+}
+.sm-faq__h2 .acc { color: var(--acc); }
+.sm-faq__list {
+  max-width: 860px;
+  margin: 0 auto;
+  border-top: 1px solid var(--border);
+}
+.sm-faq-item {
+  border-bottom: 1px solid var(--border);
+  padding: 24px 0;
+}
+.sm-faq-item summary {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.01em;
+  color: var(--ink);
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding-right: 8px;
+  transition: color .22s;
+}
+.sm-faq-item summary::-webkit-details-marker { display: none; }
+.sm-faq-item summary::after {
+  content: '+';
+  font-family: var(--f-d);
+  font-size: 26px;
+  font-weight: 300;
+  color: var(--acc);
+  transition: transform .3s;
+  flex-shrink: 0;
+  line-height: 1;
+}
+.sm-faq-item[open] summary::after { transform: rotate(45deg); }
+.sm-faq-item:hover summary { color: var(--acc); }
+.sm-faq-item p {
+  margin-top: 14px;
+  font-size: 14px;
+  color: var(--mid);
+  line-height: 1.75;
+  font-weight: 300;
+  max-width: 740px;
+}
+
+
+.sm-cta {
+  padding: 110px 0;
+  background: var(--ink);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.sm-cta::before {
+  content: '';
+  position: absolute;
+  top: -100px; right: -100px;
+  width: 420px; height: 420px;
+  background: radial-gradient(circle, rgba(232,152,10,.22) 0%, transparent 70%);
+  pointer-events: none;
+}
+.sm-cta > .wrap { position: relative; z-index: 1; }
+.sm-cta__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(34px, 5vw, 64px);
+  line-height: 1.0;
+  letter-spacing: -.03em;
+  color: var(--white);
+  margin-bottom: 20px;
+}
+.sm-cta__h2 .acc {
+  background: linear-gradient(135deg, var(--acc) 0%, var(--acc2) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.sm-cta__p {
+  font-size: 16px;
+  color: rgba(255,255,255,.5);
+  font-weight: 300;
+  max-width: 540px;
+  margin: 0 auto 32px;
+  line-height: 1.78;
+}
+.sm-cta__btns {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 1024px) {
+  .sm-hero { padding: calc(var(--nav-h) + 60px) 0 70px; }
+  .sm-hero__inner { grid-template-columns: 1fr; gap: 50px; }
+  .sm-hero__visual { height: 420px; order: -1; }
+  .sm-intro { padding: 70px 0; }
+  .sm-incl { padding: 80px 0; }
+  .sm-incl__grid { grid-template-columns: repeat(2, 1fr); }
+  .sm-prices { padding: 80px 0; }
+  .sm-pkg-grid { grid-template-columns: 1fr; gap: 20px; max-width: 480px; margin: 0 auto; }
+  .sm-pkg.featured { transform: none; }
+  .sm-extra { flex-direction: column; text-align: center; gap: 16px; }
+  .sm-process { padding: 70px 0; }
+  .sm-process__list { grid-template-columns: repeat(2, 1fr); }
+  .sm-faq { padding: 70px 0; }
+  .sm-cta { padding: 80px 0; }
+}
+
+@media (max-width: 640px) {
+  .sm-hero__pts { grid-template-columns: 1fr; }
+  .sm-hero__cta { flex-direction: column; }
+  .sm-hero__cta .btn { justify-content: center; }
+  .sm-incl__grid { grid-template-columns: 1fr; }
+  .sm-pkg { padding: 28px 24px 26px; }
+  .sm-process__list { grid-template-columns: 1fr; }
+  .sm-faq-item summary { font-size: 15px; }
+}
+</style>
+
+
+<main id="main">
+
+<section class="sm-hero" aria-labelledby="sm-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="20%" x2="100%" y2="60%"/>
+      <line x1="0" y1="50%" x2="100%" y2="90%"/>
+      <line x1="0" y1="80%" x2="100%" y2="30%"/>
+      <line x1="25%" y1="0" x2="75%" y2="100%"/>
+      <line x1="60%" y1="0" x2="10%" y2="100%"/>
+    </svg>
+  </div>
+
+  <div class="wrap">
+    <div class="sm-hero__inner">
+
+      <div class="rv">
+        <nav class="sm-hero__breadcrumbs" aria-label="Breadcrumbs">
+          <a href="/">Acasă</a>
+          <span class="sep">/</span>
+          <a href="/#servicii">Servicii</a>
+          <span class="sep">/</span>
+          <span>Social media management</span>
+        </nav>
+
+        <div class="eyebrow">
+          <span class="ey-dot"></span>
+          Social media management Iași
+        </div>
+
+        <h1 class="sm-hero__h1" id="sm-h1">
+          Conturi de social media<br>
+          <span class="acc">care chiar lucrează.</span>
+        </h1>
+
+        <p class="sm-hero__lead">
+          Gestionăm complet prezența ta pe Facebook, Instagram, TikTok și LinkedIn — strategie, conținut, postare și răspuns la comunitate. O voce de brand constantă, care construiește încredere și aduce clienți, nu doar like-uri.
+        </p>
+
+        <div class="sm-hero__pts">
+          <div class="sm-pt"><span class="sm-pt-dot">✓</span><span>Calendar editorial pe 12 luni</span></div>
+          <div class="sm-pt"><span class="sm-pt-dot">✓</span><span>Conținut &amp; design profesional</span></div>
+          <div class="sm-pt"><span class="sm-pt-dot">✓</span><span>Gestionare comunitate</span></div>
+          <div class="sm-pt"><span class="sm-pt-dot">✓</span><span>Raport lunar de rezultate</span></div>
+        </div>
+
+        <div class="sm-hero__cta">
+          <a href="/contact/" class="btn btn-solid">Solicită ofertă</a>
+          <a href="tel:+40771486499" class="btn btn-ghost">0771 486 499</a>
+        </div>
+      </div>
+
+      <div class="sm-hero__visual rv rv-d2">
+        <div class="sm-phone" aria-hidden="true">
+          <div class="sm-phone__top">
+            <span class="sm-phone__avatar"></span>
+            <span class="sm-phone__handle">
+              <span class="sm-phone__name">brandul.tau</span>
+              <span class="sm-phone__tag">Postare programată</span>
+            </span>
+          </div>
+          <div class="sm-phone__post"></div>
+          <div class="sm-phone__actions">
+            <i class="fas fa-heart sm-heart"></i>
+            <i class="far fa-comment"></i>
+            <i class="far fa-paper-plane"></i>
+            <i class="far fa-bookmark" style="margin-left:auto"></i>
+          </div>
+          <div class="sm-phone__stats">
+            <div class="sm-phone__stat">
+              <div class="sm-phone__stat-num">+38%</div>
+              <div class="sm-phone__stat-lbl">Engagement</div>
+            </div>
+            <div class="sm-phone__stat">
+              <div class="sm-phone__stat-num">30</div>
+              <div class="sm-phone__stat-lbl">Postări / lună</div>
+            </div>
+            <div class="sm-phone__stat">
+              <div class="sm-phone__stat-num">4</div>
+              <div class="sm-phone__stat-lbl">Rețele</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="sm-intro" aria-labelledby="sm-intro-h2">
+  <div class="wrap">
+    <div class="sm-intro__inner rv">
+
+      <h2 id="sm-intro-h2">Gestionăm rețelele sociale pentru branduri care vor să conteze</h2>
+      <p>
+        Suntem o <strong>agenție de marketing din Iași</strong> care preia complet partea de <strong>social media management</strong> — de la strategie până la postarea zilnică și răspunsul la mesaje. Nu punem doar poze pe pereți: construim o prezență coerentă, cu o voce de brand clară, care transformă urmăritorii într-o comunitate fidelă și, în timp, în clienți.
+      </p>
+      <p>
+        Lucrăm pe <strong>Facebook, Instagram, TikTok și LinkedIn</strong> pentru companii din Iași și din toată țara. Începem fiecare colaborare cu o <strong>analiză a publicului țintă</strong>, cercetăm competiția și definim un <strong>calendar editorial pe 12 luni</strong> — astfel încât fiecare postare să aibă un rol, nu să umple un gol. <a href="/contact/">Solicită o ofertă →</a>
+      </p>
+
+      <h2>Cât costă gestionarea rețelelor sociale?</h2>
+      <p>
+        Prețul depinde de numărul de rețele, frecvența postărilor și nivelul de implicare pe care îl dorești. Pachetul nostru complet, <strong>Full SMM</strong>, este de <strong>500€/lună</strong> și include 30 de postări plus management integral al conturilor. Pentru un ritm mediu, pachetul <strong>Postări Standard</strong> este <strong>250€/lună</strong>, iar pentru un start curat, <strong>Postări Basic</strong> pornește de la <strong>100€/lună</strong>.
+      </p>
+      <p>
+        Recomandăm ca orice colaborare să înceapă cu pachetul de <strong>Strategie SMM</strong> (500€, cost unic): analiza publicului, cercetarea competiției, definirea vocii și tonului de brand și calendarul editorial pe 12 luni. Pe această fundație, postările de fiecare lună au sens și direcție. <a href="#sm-preturi">Vezi pachetele detaliate mai jos →</a>
+      </p>
+
+      <h2>De ce să alegi Visience pentru social media?</h2>
+      <p>
+        <strong>Consecvență, calitate și o strategie reală în spate.</strong> Cea mai mare greșeală pe social media este să postezi haotic, „când îți aduci aminte". Noi îți garantăm un ritm constant și un mesaj unitar pe toate rețelele, susținut de design profesional și texte scrise special pentru brandul tău — nu șabloane generice.
+      </p>
+      <p>
+        În plus, suntem o agenție completă: pe lângă social media putem prelua și <strong>Google Ads, Meta Ads</strong> sau <strong>SEO</strong>, astfel încât toate canalele tale de marketing să tragă în aceeași direcție. <a href="#sm-faq">Vezi întrebările frecvente →</a>
+      </p>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="sm-incl" aria-labelledby="sm-incl-h2">
+  <div class="wrap">
+
+    <div class="sm-incl__head rv">
+      <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Ce includem</div>
+      <h2 class="sm-incl__h2" id="sm-incl-h2">Tot ce ține rețelele tale <span class="acc">active și coerente</span></h2>
+      <p class="sm-incl__sub">
+        Preluăm fiecare etapă, de la planificare la interacțiunea cu urmăritorii, ca tu să te poți concentra pe afacerea ta.
+      </p>
+    </div>
+
+    <div class="sm-incl__grid rv rv-d2">
+      <div class="sm-card">
+        <div class="sm-card__ico"><i class="fa-solid fa-calendar-check"></i></div>
+        <h3>Strategie &amp; calendar editorial</h3>
+        <p>Definim publicul țintă, vocea de brand și un calendar de conținut pe 12 luni, cu teme și obiective clare pentru fiecare lună.</p>
+      </div>
+      <div class="sm-card">
+        <div class="sm-card__ico"><i class="fa-solid fa-pen-ruler"></i></div>
+        <h3>Conținut &amp; design postări</h3>
+        <p>Texte scrise pentru brandul tău și grafică profesională pentru fiecare postare și story — vizual unitar, mesaj convingător.</p>
+      </div>
+      <div class="sm-card">
+        <div class="sm-card__ico"><i class="fa-solid fa-clock-rotate-left"></i></div>
+        <h3>Postare &amp; programare</h3>
+        <p>Programăm și publicăm la orele optime, pe toate rețelele alese, fără să te gândești tu vreodată la „ce postăm azi".</p>
+      </div>
+      <div class="sm-card">
+        <div class="sm-card__ico"><i class="fa-solid fa-comments"></i></div>
+        <h3>Comunitate &amp; răspuns la mesaje</h3>
+        <p>Răspundem la comentarii și mesaje, moderăm conversațiile și construim relații reale cu urmăritorii tăi.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="sm-prices" id="sm-preturi" aria-labelledby="sm-prices-h2">
+  <div class="wrap">
+
+    <div class="sm-prices__head rv">
+      <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Pachete &amp; prețuri</div>
+      <h2 class="sm-prices__h2" id="sm-prices-h2">
+        Prețuri social media management —<br><span class="acc">pachete clare</span>
+      </h2>
+      <p class="sm-prices__sub">
+        Alege ritmul potrivit pentru brandul tău. Prețurile sunt lunare, fără costuri ascunse — primești ofertă personalizată în 24 de ore.
+      </p>
+    </div>
+
+    <div class="sm-pkg-grid">
+
+      <div class="sm-pkg featured rv">
+        <span class="sm-pkg__badge">Recomandat</span>
+        <div class="sm-pkg__name">Full SMM</div>
+        <div class="sm-pkg__price">500€<span class="per"> / lună</span></div>
+        <div class="sm-pkg__price-note">Management complet al conturilor</div>
+        <p class="sm-pkg__desc">
+          Preluăm integral prezența ta pe rețele: strategie, conținut, postare și gestionarea comunității. Cea mai bună variantă pentru branduri care vor rezultate constante.
+        </p>
+        <div class="sm-pkg__feats">
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>30 de postări pe lună</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Management complet al conturilor</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Voce și ton de brand definite</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Comentarii strategice &amp; engagement organic</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Răspuns la mesaje &amp; comentarii</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Consultanță 1:1 lunară</span></div>
+        </div>
+        <a href="/contact/" class="btn btn-solid" style="justify-content:center">Solicită ofertă</a>
+      </div>
+
+      <div class="sm-pkg rv rv-d1">
+        <div class="sm-pkg__name">Postări Standard</div>
+        <div class="sm-pkg__price">250€<span class="per"> / lună</span></div>
+        <div class="sm-pkg__price-note">Ritm mediu, prezență solidă</div>
+        <p class="sm-pkg__desc">
+          Un flux constant de conținut pe rețele, cu monitorizarea comunității și raportare lunară. Pentru branduri care vor să fie active fără management integral.
+        </p>
+        <div class="sm-pkg__feats">
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>15 postări pe lună</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>4+ story-uri pe lună</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Cercetare hashtag-uri relevante</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Monitorizarea comentariilor</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Raport lunar de rezultate</span></div>
+        </div>
+        <a href="/contact/" class="btn btn-ghost" style="justify-content:center">Solicită ofertă</a>
+      </div>
+
+      <div class="sm-pkg rv rv-d2">
+        <div class="sm-pkg__name">Postări Basic</div>
+        <div class="sm-pkg__price">100€<span class="per"> / lună</span></div>
+        <div class="sm-pkg__price-note">Start curat pe rețele</div>
+        <p class="sm-pkg__desc">
+          Pachetul ideal de pornire: prezență organică, design îngrijit și texte personalizate, ca brandul tău să arate profesional din prima zi.
+        </p>
+        <div class="sm-pkg__feats">
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>6 postări organice pe lună</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Design profesional pentru fiecare postare</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Texte personalizate pentru brandul tău</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Postare pe rețeaua aleasă</span></div>
+        </div>
+        <a href="/contact/" class="btn btn-ghost" style="justify-content:center">Solicită ofertă</a>
+      </div>
+
+    </div>
+
+    <div class="sm-extra rv rv-d2" style="margin-bottom:24px">
+      <div class="sm-extra__ico"><i class="fa-solid fa-compass-drafting"></i></div>
+      <div class="sm-extra__body">
+        <div class="sm-extra__title">Strategie SMM — fundația oricărei colaborări</div>
+        <div class="sm-extra__txt">Analiza publicului, cercetarea competiției, definirea vocii și tonului de brand, calendar editorial pe 12 luni și 2 ședințe de lucru. Cost unic.</div>
+      </div>
+      <div class="sm-extra__price">500€</div>
+    </div>
+
+    <div class="sm-extra rv rv-d2">
+      <div class="sm-extra__ico"><i class="fa-solid fa-star"></i></div>
+      <div class="sm-extra__body">
+        <div class="sm-extra__title">Research influenceri (opțional)</div>
+        <div class="sm-extra__txt">Listă de influenceri potriviți pentru brandul tău, prețuri de colaborare, statistici de cont și nivel de engagement, ca să investești în parteneriate care chiar funcționează.</div>
+      </div>
+      <div class="sm-extra__price">250€</div>
+    </div>
+
+  </div>
+</section>
+
+
+<section class="sm-process" aria-labelledby="sm-process-h2">
+  <div class="wrap">
+
+    <div class="sm-process__head rv">
+      <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Cum lucrăm</div>
+      <h2 class="sm-process__h2" id="sm-process-h2">De la strategie la <span class="acc">postare zilnică</span></h2>
+      <p class="sm-process__sub">
+        Un proces clar, care pune strategia înaintea conținutului — așa cum ar trebui să fie.
+      </p>
+    </div>
+
+    <div class="sm-process__list rv rv-d2">
+      <article class="sm-step">
+        <div class="sm-step__n">01</div>
+        <h3>Analiză &amp; strategie</h3>
+        <p>Studiem publicul țintă, competiția și obiectivele tale. Definim vocea, tonul de brand și calendarul editorial pe 12 luni.</p>
+      </article>
+      <article class="sm-step">
+        <div class="sm-step__n">02</div>
+        <h3>Creație conținut</h3>
+        <p>Scriem textele și pregătim designul fiecărei postări și story, în linie cu identitatea ta vizuală și mesajul lunii.</p>
+      </article>
+      <article class="sm-step">
+        <div class="sm-step__n">03</div>
+        <h3>Postare &amp; comunitate</h3>
+        <p>Programăm la orele optime, publicăm pe toate rețelele și răspundem la comentarii și mesaje pe parcursul lunii.</p>
+      </article>
+      <article class="sm-step">
+        <div class="sm-step__n">04</div>
+        <h3>Raport &amp; optimizare</h3>
+        <p>Analizăm lunar ce a funcționat, raportăm rezultatele și ajustăm strategia pentru luna următoare.</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+
+<section class="sm-faq" id="sm-faq" aria-labelledby="sm-faq-h2">
+  <div class="wrap">
+
+    <div class="sm-faq__head rv">
+      <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Întrebări frecvente</div>
+      <h2 class="sm-faq__h2" id="sm-faq-h2">Ce trebuie să știi despre <span class="acc">social media management</span></h2>
+    </div>
+
+    <div class="sm-faq__list rv rv-d2">
+
+      <details class="sm-faq-item">
+        <summary>Pe ce rețele sociale lucrați?</summary>
+        <p>Gestionăm conturile de Facebook, Instagram, TikTok și LinkedIn. Recomandăm rețelele potrivite în funcție de publicul tău și de tipul afacerii — nu are sens să fii peste tot, ci acolo unde sunt clienții tăi. Stabilim împreună mixul ideal la etapa de strategie.</p>
+      </details>
+
+      <details class="sm-faq-item">
+        <summary>Ce include o postare?</summary>
+        <p>Fiecare postare include textul scris special pentru brandul tău și designul grafic (sau prelucrarea materialului pe care îl ai), plus hashtag-urile relevante și programarea la ora optimă. Pe pachetele cu management complet, adăugăm și comentarii strategice și interacțiunea cu urmăritorii.</p>
+      </details>
+
+      <details class="sm-faq-item">
+        <summary>Cât durează până se văd rezultate?</summary>
+        <p>Social media este un canal care construiește în timp. Primele semne (creșterea interacțiunii și a numărului de urmăritori) apar de obicei în 1–2 luni, iar rezultatele solide în comunitate și notorietate se consolidează în 3–6 luni de prezență constantă. De aceea consecvența contează mai mult decât orice postare izolată.</p>
+      </details>
+
+      <details class="sm-faq-item">
+        <summary>Există un contract minim?</summary>
+        <p>Pachetele lunare funcționează cel mai bine cu un angajament de câteva luni, pentru că rezultatele apar din consecvență, nu dintr-o singură lună. Discutăm condițiile concrete la începutul colaborării și le adaptăm la obiectivele tale, fără clauze surpriză.</p>
+      </details>
+
+      <details class="sm-faq-item">
+        <summary>Creați și conținutul foto/video?</summary>
+        <p>Realizăm designul grafic și prelucrăm materialele pe care ni le pui la dispoziție. Pentru ședințe foto sau producție video dedicată, coordonăm cu partenerii noștri și îți facem o ofertă separată. Multe branduri pornesc cu materiale existente și fotografii de pe telefon, pe care le transformăm în postări profesionale.</p>
+      </details>
+
+      <details class="sm-faq-item">
+        <summary>Cum raportați rezultatele?</summary>
+        <p>Primești un raport lunar clar, cu indicatorii care contează: creșterea numărului de urmăritori, interacțiunea (engagement), reach-ul postărilor și ce tip de conținut a funcționat cel mai bine. Pe pachetul Full SMM adăugăm și o ședință de consultanță 1:1 în care discutăm rezultatele și pașii următori.</p>
+      </details>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="sm-cta" aria-labelledby="sm-cta-h2">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="sm-cta__h2" id="sm-cta-h2">
+        Gata să dai viață<br>
+        <span class="acc">rețelelor tale?</span>
+      </h2>
+      <p class="sm-cta__p">
+        Spune-ne despre brandul tău și primești o ofertă personalizată în maxim 24 de ore. Consultanță gratuită, fără obligații.
+      </p>
+      <div class="sm-cta__btns">
+        <a href="/contact/" class="btn btn-solid">Solicită ofertă</a>
+        <a href="tel:+40771486499" class="btn btn-dark">Sună acum: 0771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Servicii conexe și prețuri transparente">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Nu lucrăm cu tarife ascunse sau surprize în factură. Toate pachetele și prețurile noastre sunt publice — alegi în cunoștință de cauză, fără presiune.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Continuă cu</div>
+      <div class="rel-links__grid">
+        <a href="/google-meta-ads/" class="rel-link"><span class="rel-link__name">Google & Meta Ads <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Campanii cu focus pe leaduri și vânzări.</span></a>
+        <a href="/branding-identitate-vizuala/" class="rel-link"><span class="rel-link__name">Branding & identitate <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Logo, brand book și identitate vizuală completă.</span></a>
+        <a href="/optimizare-seo/" class="rel-link"><span class="rel-link__name">SEO & content <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Ajungi pe prima pagină Google, organic.</span></a>
+        <a href="/portofoliu/" class="rel-link"><span class="rel-link__name">Portofoliu <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Proiecte reale livrate de echipa noastră.</span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+3:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$5"}}]
+4:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

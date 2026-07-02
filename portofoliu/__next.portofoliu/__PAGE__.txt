@@ -1,0 +1,1360 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+2:T6ba,{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://visience.ro/portofoliu/#webpage","url":"https://visience.ro/portofoliu/","name":"Portofoliu Visience","description":"Selecție de proiecte web, branding, social media și marketing realizate de Visience pentru clienți din România, Italia, Franța și Germania.","isPartOf":{"@id":"https://visience.ro/#website"},"about":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"},{"@type":"ItemList","@id":"https://visience.ro/portofoliu/#proiecte-marcante","name":"Proiecte marcante","itemListOrder":"https://schema.org/ItemListOrderDescending","numberOfItems":8,"itemListElement":[{"@type":"ListItem","position":1,"name":"Vlaicu87 — Cartier & Parc","url":"https://vlaicu87.ro/"},{"@type":"ListItem","position":2,"name":"Amodelic — Proiectare & Consultanță","url":"https://amodelic.com"},{"@type":"ListItem","position":3,"name":"Casa Vatră — Restaurant & Hotel","url":"https://casavatra.ro"},{"@type":"ListItem","position":4,"name":"Carmangeria Evei","url":"https://carmangeriaevei.ro/"},{"@type":"ListItem","position":5,"name":"Cameo — Apartamente Moderne","url":"https://cameoresidence.ro/"},{"@type":"ListItem","position":6,"name":"Soluții Alpensam","url":"https://solutiialpensam.ro/"},{"@type":"ListItem","position":7,"name":"2M Tech — Dezvoltator Imobiliar","url":"https://2mtech.ro/"},{"@type":"ListItem","position":8,"name":"Ecologica2000 Italia","url":"https://ecologica2000.eu/"}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Portofoliu","item":"https://visience.ro/portofoliu/"}]}]}3:Tcc1b,<style>
+/* PROJECT CARDS — pj-* (reused din home) */
+.pj-card {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  flex: 0 0 auto;
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  overflow: hidden;
+  width: 100%;
+  max-width: 20%;
+  transition: transform .35s cubic-bezier(.25,.46,.45,.94),
+              box-shadow .35s cubic-bezier(.25,.46,.45,.94);
+}
+.pj-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 40px rgba(17,16,16,.08);
+}
+.pj-card__vis {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.pj-phone {
+  width: 100%;
+  aspect-ratio: 543 / 916;
+  position: relative;
+  background: var(--cream3);
+  overflow: hidden;
+  border-radius: 8px;
+}
+.pj-phone__vid {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.pj-phone.has-vid { cursor: pointer; }
+.pj-phone__play {
+  position: absolute;
+  bottom: 14px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 8px 14px;
+  background: rgba(17,16,16,.78);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  color: rgba(255,255,255,.95);
+  border-radius: 100px;
+  font-family: var(--f-m);
+  font-size: 10px;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  font-weight: 500;
+  z-index: 5;
+  pointer-events: none;
+  white-space: nowrap;
+  transition: opacity .3s ease, transform .3s ease;
+}
+.pj-phone__play i { font-size: 9px; }
+.pj-phone.is-playing .pj-phone__play {
+  opacity: 0;
+  transform: translate(-50%, 6px);
+}
+.pj-card--v1 .pj-right {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  width: 100%;
+}
+.pj-card--v1 .pj-logo,
+.pj-card--v1 .pj-social {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1 / 1;
+  flex: none;
+  overflow: hidden;
+  border-radius: 8px;
+}
+.pj-card--v1 .pj-logo {
+  background: var(--white);
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 0;
+}
+.pj-card--v1 .pj-logo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.pj-card--v1 .pj-social {
+  background: var(--cream2);
+}
+.pj-card--v1 .pj-social img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  padding: 0;
+  transition: transform .5s cubic-bezier(.25,.46,.45,.94);
+}
+.pj-card:hover .pj-social img { transform: scale(1.05); }
+.pj-card--v2 .pj-desktop {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1898 / 949;
+  background: var(--cream2);
+  overflow: hidden;
+  border-radius: 8px;
+}
+.pj-card--v2 .pj-desktop img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform .6s cubic-bezier(.25,.46,.45,.94);
+}
+.pj-card:hover .pj-desktop img { transform: scale(1.03); }
+.pj-card__body {
+  padding: 16px 6px 4px;
+  background: var(--white);
+}
+.pj-card__pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 14px;
+}
+.pj-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 5px 12px;
+  font-family: var(--f-m);
+  font-size: 10px;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  border-radius: 100px;
+  font-weight: 500;
+}
+.pj-pill--svc { background: var(--acc-bg); color: var(--acc-ink); }
+.pj-pill--ind { background: var(--cream2); color: var(--mid); }
+.pj-card__title {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 22px;
+  letter-spacing: -.015em;
+  color: var(--ink);
+  margin: 0 0 16px;
+  line-height: 1.18;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  hyphens: auto;
+}
+.pj-card__foot {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding-top: 14px;
+  border-top: 1px solid var(--border);
+}
+.pj-card__url {
+  font-family: var(--f-m);
+  font-size: 12px;
+  color: var(--acc);
+  font-weight: 500;
+  letter-spacing: .02em;
+  text-decoration: none;
+  transition: color .2s;
+}
+.pj-card__url:hover { color: var(--acc-dark); }
+.pj-card__collab {
+  font-family: var(--f-m);
+  font-size: 10px;
+  color: var(--light);
+  letter-spacing: .12em;
+  text-transform: uppercase;
+}
+
+/* PORTFOLIO PAGE — pf-* */
+.pf-hero {
+  padding: clamp(70px, 10vw, 130px) 0 clamp(60px, 8vw, 100px);
+  background: var(--white);
+  border-bottom: 1px solid var(--border);
+}
+.pf-hero__h { margin-bottom: 28px; }
+.pf-hero__h .hi { color: var(--mid); font-style: italic; font-weight: 300; }
+.pf-hero__sub { max-width: 620px; margin-bottom: 0; }
+.pf-hero__stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 40px;
+  margin-top: 64px;
+  padding-top: 40px;
+  border-top: 1px solid var(--border);
+}
+.pf-stat { display: flex; flex-direction: column; }
+.pf-stat__num {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(32px, 4vw, 52px);
+  color: var(--acc);
+  letter-spacing: -.03em;
+  line-height: 1;
+  margin-bottom: 8px;
+}
+.pf-stat__lbl {
+  font-family: var(--f-m);
+  font-size: 10px;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--light);
+}
+.pf-tabs {
+  position: sticky;
+  top: var(--nav-h);
+  z-index: 30;
+  background: rgba(245, 240, 230, .92);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border);
+}
+.pf-tabs > .wrap {
+  display: flex;
+  gap: 6px;
+  overflow-x: auto;
+  padding: 14px var(--gut);
+  scrollbar-width: none;
+}
+.pf-tabs > .wrap::-webkit-scrollbar { display: none; }
+.pf-tabs a {
+  padding: 9px 18px;
+  font-family: var(--f-m);
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--mid);
+  border-radius: 100px;
+  border: 1px solid transparent;
+  white-space: nowrap;
+  transition: .22s;
+  flex-shrink: 0;
+}
+.pf-tabs a:hover {
+  background: var(--white);
+  border-color: var(--border);
+  color: var(--ink);
+}
+.pf-tabs a.on {
+  background: var(--acc);
+  color: var(--acc-ink);
+}
+.pf-section {
+  padding: clamp(60px, 9vw, 110px) 0;
+  background: var(--cream);
+}
+.pf-section--alt { background: var(--white); }
+.pf-section__head { margin-bottom: 56px; max-width: 720px; }
+.pf-section__head h2 { margin-bottom: 16px; }
+.pf-section__head p { margin-top: 16px; }
+.pf-feat-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+}
+.pf-feat-grid .pj-card { max-width: 100%; width: 100%; }
+.pf-web-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+}
+.pf-web-card {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  overflow: hidden;
+  padding: 10px;
+  display: block;
+  text-decoration: none;
+  transition: transform .35s cubic-bezier(.25,.46,.45,.94),
+              box-shadow .35s cubic-bezier(.25,.46,.45,.94),
+              border-color .25s;
+}
+.pf-web-card:hover {
+  transform: translateY(-4px);
+  border-color: rgba(232,152,10,.3);
+  box-shadow: 0 18px 36px rgba(17,16,16,.08);
+}
+.pf-web-card__img {
+  width: 100%;
+  aspect-ratio: 2 / 1;
+  border-radius: 8px;
+  overflow: hidden;
+  background: var(--cream2);
+}
+.pf-web-card__img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform .6s cubic-bezier(.25,.46,.45,.94);
+}
+.pf-web-card:hover .pf-web-card__img img { transform: scale(1.04); }
+.pf-web-card__body { padding: 14px 8px 4px; }
+.pf-web-card__title {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: -.015em;
+  color: var(--ink);
+  margin: 0 0 4px;
+  line-height: 1.2;
+}
+.pf-web-card__url {
+  font-family: var(--f-m);
+  font-size: 11px;
+  color: var(--acc);
+  font-weight: 500;
+  letter-spacing: .02em;
+}
+.pf-grid-1to1 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+}
+.pf-square {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  overflow: hidden;
+  aspect-ratio: 1 / 1;
+  position: relative;
+  transition: transform .35s, box-shadow .35s, border-color .25s;
+}
+.pf-square:hover {
+  transform: translateY(-3px);
+  border-color: rgba(232,152,10,.3);
+  box-shadow: 0 14px 28px rgba(17,16,16,.08);
+}
+.pf-square img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform .5s cubic-bezier(.25,.46,.45,.94);
+}
+.pf-square:hover img { transform: scale(1.05); }
+.pf-square--logo {
+  background: var(--cream);
+  padding: 16%;
+}
+.pf-square--logo img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.pf-square--logo:hover img { transform: none; }
+.pf-clients-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 18px;
+}
+.pf-client-card {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 28px 22px 22px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  text-decoration: none;
+  transition: .25s;
+}
+.pf-client-card:hover {
+  border-color: rgba(232,152,10,.3);
+  transform: translateY(-3px);
+  box-shadow: 0 14px 28px rgba(17,16,16,.06);
+}
+.pf-client-card__logo {
+  width: 84px;
+  height: 84px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 16px;
+  filter: grayscale(1);
+  opacity: .55;
+  transition: .25s;
+}
+.pf-client-card:hover .pf-client-card__logo {
+  filter: grayscale(0);
+  opacity: 1;
+}
+.pf-client-card__logo img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.pf-client-card__name {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--ink);
+  margin: 0 0 6px;
+  letter-spacing: -.01em;
+}
+.pf-client-card__desc {
+  font-size: 12px;
+  color: var(--mid);
+  line-height: 1.55;
+  font-weight: 300;
+  margin: 0;
+}
+.pf-cta {
+  padding: clamp(70px, 10vw, 130px) 0;
+  background: var(--ink);
+  color: var(--white);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.pf-cta::before {
+  content: '';
+  position: absolute;
+  top: -100px; right: -100px;
+  width: 320px;
+  height: 320px;
+  background: radial-gradient(circle, rgba(232,152,10,.3) 0%, transparent 70%);
+  pointer-events: none;
+}
+.pf-cta > .wrap { position: relative; z-index: 1; }
+.pf-cta__h { color: var(--white); margin-bottom: 20px; }
+.pf-cta__h .hi { font-weight: 300; font-style: italic; color: var(--acc2); }
+.pf-cta__p {
+  color: rgba(255,255,255,.65);
+  font-size: clamp(15px, 1.3vw, 18px);
+  max-width: 540px;
+  margin: 0 auto 40px;
+  line-height: 1.7;
+  font-weight: 300;
+}
+.pf-cta__acts {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+@media (max-width: 1024px) {
+  .pf-hero__stats { grid-template-columns: repeat(2, 1fr); gap: 32px; }
+  .pf-feat-grid { grid-template-columns: repeat(2, 1fr); }
+  .pf-web-grid { grid-template-columns: repeat(2, 1fr); }
+  .pf-grid-1to1 { grid-template-columns: repeat(3, 1fr); }
+  .pf-clients-grid { grid-template-columns: repeat(3, 1fr); }
+  .pf-section__head { margin-bottom: 40px; }
+}
+@media (max-width: 640px) {
+  .pf-hero__stats {
+    grid-template-columns: 1fr 1fr;
+    gap: 22px;
+    margin-top: 44px;
+    padding-top: 30px;
+  }
+  .pf-tabs > .wrap { padding: 10px var(--gut); }
+  .pf-tabs a { padding: 8px 14px; font-size: 10px; }
+  .pf-feat-grid { grid-template-columns: 1fr; gap: 20px; }
+  .pf-web-grid { grid-template-columns: 1fr; gap: 16px; }
+  .pf-grid-1to1 { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+  .pf-clients-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+  .pf-client-card { padding: 20px 14px 16px; }
+  .pf-client-card__logo { width: 60px; height: 60px; margin-bottom: 12px; }
+  .pf-cta__acts { flex-direction: column; }
+  .pf-cta__acts .btn { width: 100%; justify-content: center; }
+}
+.pf-feat-grid .pj-card,
+.pf-feat-grid .pj-card--v1,
+.pf-feat-grid .pj-card--v2 {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+</style>
+
+<main class="portfolio-page">
+
+  <section class="pf-hero">
+    <div class="wrap">
+      <div class="rv">
+        <div class="eyebrow"><span class="ey-dot"></span>Portofoliu din 2014 până azi</div>
+        <h1 class="dd dd-xl pf-hero__h">Munca noastră,<br><span class="hi">la lumină.</span></h1>
+        <p class="body-lg pf-hero__sub">
+          Peste 120 de proiecte web, branding, social media și marketing —
+          pentru clienți din România, Italia, Franța și Germania.
+          Fiecare proiect, o relație construită pe încredere și rezultate.
+        </p>
+      </div>
+
+      <div class="pf-hero__stats rv rv-d2">
+        <div class="pf-stat">
+          <span class="pf-stat__num">120+</span>
+          <span class="pf-stat__lbl">Proiecte livrate</span>
+        </div>
+        <div class="pf-stat">
+          <span class="pf-stat__num">12</span>
+          <span class="pf-stat__lbl">Ani experiență</span>
+        </div>
+        <div class="pf-stat">
+          <span class="pf-stat__num">4</span>
+          <span class="pf-stat__lbl">Țări active</span>
+        </div>
+        <div class="pf-stat">
+          <span class="pf-stat__num">96%</span>
+          <span class="pf-stat__lbl">Clienți reveniți</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <nav class="pf-tabs">
+    <div class="wrap">
+      <a href="#proiecte-marcante" class="on">Proiecte Marcante</a>
+      <a href="#website-uri">Website-uri</a>
+      <a href="#brand">Brand &amp; Identitate</a>
+      <a href="#social-media">Social Media</a>
+      <a href="#clienti">Clienți</a>
+    </div>
+  </nav>
+
+
+  <section class="pf-section" id="proiecte-marcante">
+    <div class="wrap">
+      <div class="pf-section__head rv">
+        <div class="eyebrow"><span class="ey-dot"></span>Proiecte de referință</div>
+        <h2 class="dd dd-lg">Proiecte marcante</h2>
+        <p class="body-lg">Cele mai recente proiecte complete — website, branding, ads și social media.</p>
+      </div>
+
+<div class="pf-feat-grid rv rv-d2">
+
+  <article class="pj-card pj-card--v1">
+    <div class="pj-card__vis">
+      <div class="pj-phone">
+        <video class="pj-phone__vid"
+               poster="/media/vlaicu-placeholder.avif"
+               data-src="/media/Vlaicu87-Vlaicu87-Google-Chrome-2026-05-15-23-26-11-3.webm"
+               muted loop playsinline preload="none"></video>
+        <span class="pj-phone__play">
+          <i class="fa-regular fa-hand-pointer"></i>Vezi preview
+        </span>
+      </div>
+      <div class="pj-right">
+        <div class="pj-logo">
+          <img src="/media/vlaiculogo.avif" alt="Vlaicu87 logo" loading="lazy" width="1200" height="1200">
+        </div>
+        <div class="pj-social">
+          <img src="/media/vlaicusocial.avif" alt="Vlaicu87 social" loading="lazy" width="1200" height="1200">
+        </div>
+      </div>
+    </div>
+    <div class="pj-card__body">
+      <div class="pj-card__pills">
+        <span class="pj-pill pj-pill--svc">Website</span>
+        <span class="pj-pill pj-pill--svc">Branding</span>
+        <span class="pj-pill pj-pill--svc">Google, Meta ads</span>
+        <span class="pj-pill pj-pill--svc">Prezență Online</span>
+        <span class="pj-pill pj-pill--ind">Ansamblu Rezidențial</span>
+        <span class="pj-pill pj-pill--ind">B2C</span>
+      </div>
+      <h3 class="pj-card__title">Vlaicu87 — Cartier &amp; Parc</h3>
+      <div class="pj-card__foot">
+        <a href="https://vlaicu87.ro/" target="_blank" rel="noopener" class="pj-card__url">vlaicu87.ro ↗</a>
+        <span class="pj-card__collab">cu Vistory</span>
+      </div>
+    </div>
+  </article>
+
+
+  <article class="pj-card pj-card--v1">
+    <div class="pj-card__vis">
+      <div class="pj-phone">
+        <video class="pj-phone__vid"
+               poster="/media/amodelic-placeholder.avif"
+               data-src="/media/amodelic.webm"
+               muted loop playsinline preload="none"></video>
+        <span class="pj-phone__play">
+          <i class="fa-regular fa-hand-pointer"></i>Vezi preview
+        </span>
+      </div>
+      <div class="pj-right">
+        <div class="pj-logo">
+          <img src="/media/amodelic-logo.avif" alt="Amodelic logo" loading="lazy" width="1200" height="1200">
+        </div>
+        <div class="pj-social">
+          <img src="/media/amodelic-brand.avif" alt="Amodelic social" loading="lazy" width="1200" height="1200">
+        </div>
+      </div>
+    </div>
+    <div class="pj-card__body">
+      <div class="pj-card__pills">
+        <span class="pj-pill pj-pill--svc">Website</span>
+        <span class="pj-pill pj-pill--svc">Branding</span>
+        <span class="pj-pill pj-pill--svc">Prezență Online</span>
+        <span class="pj-pill pj-pill--ind">Proiectare</span>
+        <span class="pj-pill pj-pill--ind">B2B</span>
+      </div>
+      <h3 class="pj-card__title">Amodelic — Proiectare &amp; Consultanță</h3>
+      <div class="pj-card__foot">
+        <a href="https://amodelic.com" target="_blank" rel="noopener" class="pj-card__url">amodelic.com ↗</a>
+      </div>
+    </div>
+  </article>
+
+
+  <article class="pj-card pj-card--v2">
+    <div class="pj-card__vis">
+      <div class="pj-phone">
+        <video class="pj-phone__vid"
+               poster="/media/casa-vatra-placeholder.avif"
+               data-src="/media/casa-vatra.webm"
+               muted loop playsinline preload="none"></video>
+        <span class="pj-phone__play">
+          <i class="fa-regular fa-hand-pointer"></i>Vezi preview
+        </span>
+      </div>
+      <div class="pj-desktop">
+        <img src="/media/casa-vatra-desk.avif" alt="Casa Vatră desktop" loading="lazy" width="1898" height="949">
+      </div>
+    </div>
+    <div class="pj-card__body">
+      <div class="pj-card__pills">
+        <span class="pj-pill pj-pill--svc">Website</span>
+        <span class="pj-pill pj-pill--svc">Meniu</span>
+        <span class="pj-pill pj-pill--ind">Restaurant</span>
+        <span class="pj-pill pj-pill--ind">Hotel</span>
+      </div>
+      <h3 class="pj-card__title">Casa Vatră — Restaurant &amp; Hotel</h3>
+      <div class="pj-card__foot">
+        <a href="https://casavatra.ro" target="_blank" rel="noopener" class="pj-card__url">casavatra.ro ↗</a>
+      </div>
+    </div>
+  </article>
+
+
+  <article class="pj-card pj-card--v1">
+    <div class="pj-card__vis">
+      <div class="pj-phone">
+        <video class="pj-phone__vid"
+               poster="/media/carmangeria-evei-placeholder.avif"
+               data-src="/media/carmangeria-evei.webm"
+               muted loop playsinline preload="none"></video>
+        <span class="pj-phone__play">
+          <i class="fa-regular fa-hand-pointer"></i>Vezi preview
+        </span>
+      </div>
+      <div class="pj-right">
+        <div class="pj-logo">
+          <img src="/media/carmangeria-evei-social-2.avif" alt="Carmangeria Evei logo" loading="lazy" width="1200" height="1200">
+        </div>
+        <div class="pj-social">
+          <img src="/media/carmangeria-evei-social-1.avif" alt="Carmangeria Evei social" loading="lazy" width="1200" height="1200">
+        </div>
+      </div>
+    </div>
+    <div class="pj-card__body">
+      <div class="pj-card__pills">
+        <span class="pj-pill pj-pill--svc">Magazin Online</span>
+        <span class="pj-pill pj-pill--svc">Social Media</span>
+        <span class="pj-pill pj-pill--svc">Google, Meta ads</span>
+        <span class="pj-pill pj-pill--svc">Prezență Online</span>
+        <span class="pj-pill pj-pill--ind">Carmangerie</span>
+      </div>
+      <h3 class="pj-card__title">Carmangeria Evei</h3>
+      <div class="pj-card__foot">
+        <a href="https://carmangeriaevei.ro/" target="_blank" rel="noopener" class="pj-card__url">carmangeriaevei.ro ↗</a>
+      </div>
+    </div>
+  </article>
+
+
+  <article class="pj-card pj-card--v1">
+    <div class="pj-card__vis">
+      <div class="pj-phone">
+        <video class="pj-phone__vid"
+               poster="/media/cameo-placeholder.avif"
+               data-src="/media/cameo.webm"
+               muted loop playsinline preload="none"></video>
+        <span class="pj-phone__play">
+          <i class="fa-regular fa-hand-pointer"></i>Vezi preview
+        </span>
+      </div>
+      <div class="pj-right">
+        <div class="pj-logo">
+          <img src="/media/cameo-logo.avif" alt="Cameo logo" loading="lazy" width="1200" height="1200">
+        </div>
+        <div class="pj-social">
+          <img src="/media/cameo-social-media-post.avif" alt="Cameo social" loading="lazy" width="1200" height="1200">
+        </div>
+      </div>
+    </div>
+    <div class="pj-card__body">
+      <div class="pj-card__pills">
+        <span class="pj-pill pj-pill--svc">Website</span>
+        <span class="pj-pill pj-pill--svc">Branding</span>
+        <span class="pj-pill pj-pill--svc">Google, Meta ads</span>
+        <span class="pj-pill pj-pill--svc">Prezență Online</span>
+        <span class="pj-pill pj-pill--ind">Ansamblu Rezidențial</span>
+        <span class="pj-pill pj-pill--ind">B2C</span>
+      </div>
+      <h3 class="pj-card__title">Cameo — Apartamente Moderne</h3>
+      <div class="pj-card__foot">
+        <a href="https://cameoresidence.ro/" target="_blank" rel="noopener" class="pj-card__url">cameoresidence.ro ↗</a>
+        <span class="pj-card__collab">cu Vistory</span>
+      </div>
+    </div>
+  </article>
+
+
+  <article class="pj-card pj-card--v1">
+    <div class="pj-card__vis">
+      <div class="pj-phone">
+        <video class="pj-phone__vid"
+               poster="/media/alpensam-placeholder.avif"
+               data-src="/media/solutii-alpensa.webm"
+               muted loop playsinline preload="none"></video>
+        <span class="pj-phone__play">
+          <i class="fa-regular fa-hand-pointer"></i>Vezi preview
+        </span>
+      </div>
+      <div class="pj-right">
+        <div class="pj-logo">
+          <img src="/media/logo-solutii-alpensam.avif" alt="Soluții Alpensam logo" loading="lazy" width="1200" height="1200">
+        </div>
+        <div class="pj-social">
+          <img src="/media/alpensam-social-media.avif" alt="Soluții Alpensam social" loading="lazy" width="1200" height="1200">
+        </div>
+      </div>
+    </div>
+    <div class="pj-card__body">
+      <div class="pj-card__pills">
+        <span class="pj-pill pj-pill--svc">Magazin Online</span>
+        <span class="pj-pill pj-pill--svc">Branding</span>
+        <span class="pj-pill pj-pill--svc">Google, Meta ads</span>
+        <span class="pj-pill pj-pill--svc">Prezență Online</span>
+        <span class="pj-pill pj-pill--ind">Rezervoare de Propan</span>
+        <span class="pj-pill pj-pill--ind">B2C</span>
+      </div>
+      <h3 class="pj-card__title">Soluții Alpensam</h3>
+      <div class="pj-card__foot">
+        <a href="https://solutiialpensam.ro/" target="_blank" rel="noopener" class="pj-card__url">solutiialpensam.ro ↗</a>
+      </div>
+    </div>
+  </article>
+
+
+  <article class="pj-card pj-card--v2">
+    <div class="pj-card__vis">
+      <div class="pj-phone">
+        <video class="pj-phone__vid"
+               poster="/media/2m-tech-placeholder.avif"
+               data-src="/media/2mtech.webm"
+               muted loop playsinline preload="none"></video>
+        <span class="pj-phone__play">
+          <i class="fa-regular fa-hand-pointer"></i>Vezi preview
+        </span>
+      </div>
+      <div class="pj-desktop">
+        <img src="/media/2m-tech-desk.avif" alt="2M Tech desktop" loading="lazy" width="1898" height="949">
+      </div>
+    </div>
+    <div class="pj-card__body">
+      <div class="pj-card__pills">
+        <span class="pj-pill pj-pill--svc">Website</span>
+        <span class="pj-pill pj-pill--ind">Complex Imobiliar</span>
+        <span class="pj-pill pj-pill--ind">Dezvoltator Imobiliar</span>
+      </div>
+      <h3 class="pj-card__title">2M Tech — Dezvoltator Imobiliar</h3>
+      <div class="pj-card__foot">
+        <a href="https://2mtech.ro/" target="_blank" rel="noopener" class="pj-card__url">2mtech.ro ↗</a>
+        <span class="pj-card__collab">cu Vistory</span>
+      </div>
+    </div>
+  </article>
+
+
+  <article class="pj-card pj-card--v2">
+    <div class="pj-card__vis">
+      <div class="pj-phone">
+        <video class="pj-phone__vid"
+               poster="/media/ecologica-placeholder.avif"
+               data-src="/media/eco2000.webm"
+               muted loop playsinline preload="none"></video>
+        <span class="pj-phone__play">
+          <i class="fa-regular fa-hand-pointer"></i>Vezi preview
+        </span>
+      </div>
+      <div class="pj-desktop">
+        <img src="/media/ecologica-desk.avif" alt="Ecologica2000 desktop" loading="lazy" width="1898" height="949">
+      </div>
+    </div>
+    <div class="pj-card__body">
+      <div class="pj-card__pills">
+        <span class="pj-pill pj-pill--svc">Website</span>
+        <span class="pj-pill pj-pill--ind">Waste Management</span>
+      </div>
+      <h3 class="pj-card__title">Ecologica2000 Italia — Waste Management</h3>
+      <div class="pj-card__foot">
+        <a href="https://ecologica2000.eu/" target="_blank" rel="noopener" class="pj-card__url">ecologica2000.eu ↗</a>
+      </div>
+    </div>
+  </article>
+
+</div>
+    </div>
+  </section>
+
+
+  <section class="pf-section pf-section--alt" id="website-uri">
+    <div class="wrap">
+      <div class="pf-section__head rv">
+        <div class="eyebrow"><span class="ey-dot"></span>Peste 30 de proiecte web</div>
+        <h2 class="dd dd-lg">Website-uri</h2>
+        <p class="body-lg">Click pe imagine pentru a accesa site-ul. Proiecte pentru clienți din 2014 până azi.</p>
+      </div>
+
+      <div class="pf-web-grid rv rv-d2">
+
+        <a href="https://2mtech.ro" target="_blank" rel="noopener" class="pf-web-card">
+          <div class="pf-web-card__img">
+            <img src="/media/2mtech-1024x510.avif" alt="2MTech" loading="lazy">
+          </div>
+          <div class="pf-web-card__body">
+            <h3 class="pf-web-card__title">2MTech</h3>
+            <span class="pf-web-card__url">2mtech.ro ↗</span>
+          </div>
+        </a>
+
+        <a href="https://l-arte.ro/" target="_blank" rel="noopener" class="pf-web-card">
+          <div class="pf-web-card__img">
+            <img src="/media/lartesumisura-1024x506.avif" alt="L'Arte" loading="lazy">
+          </div>
+          <div class="pf-web-card__body">
+            <h3 class="pf-web-card__title">L'Arte Su Misura</h3>
+            <span class="pf-web-card__url">l-arte.ro ↗</span>
+          </div>
+        </a>
+
+        <a href="https://ecologica2000.eu/" target="_blank" rel="noopener" class="pf-web-card">
+          <div class="pf-web-card__img">
+            <img src="/media/ecologica-1-1024x514.avif" alt="Ecologica 2000" loading="lazy">
+          </div>
+          <div class="pf-web-card__body">
+            <h3 class="pf-web-card__title">Ecologica 2000</h3>
+            <span class="pf-web-card__url">ecologica2000.eu ↗</span>
+          </div>
+        </a>
+
+        <a href="https://alexanderprivatetailor.com/" target="_blank" rel="noopener" class="pf-web-card">
+          <div class="pf-web-card__img">
+            <img src="/media/alexander-private-stylist-bacau-creare-site-iasi-suceava-bucuresti-moinesti-visience-1024x523.avif" alt="Alexander Tailor" loading="lazy">
+          </div>
+          <div class="pf-web-card__body">
+            <h3 class="pf-web-card__title">Alexander Private Tailor</h3>
+            <span class="pf-web-card__url">alexanderprivatetailor.com ↗</span>
+          </div>
+        </a>
+
+        <a href="https://luciarosca.ro/" target="_blank" rel="noopener" class="pf-web-card">
+          <div class="pf-web-card__img">
+            <img src="/media/luciarosca-creare-site-iasi-bucuresti-suceava-visience-1024x542.avif" alt="Lucia Roșca" loading="lazy">
+          </div>
+          <div class="pf-web-card__body">
+            <h3 class="pf-web-card__title">Lucia Roșca</h3>
+            <span class="pf-web-card__url">luciarosca.ro ↗</span>
+          </div>
+        </a>
+
+        <a href="https://wts.srl/" target="_blank" rel="noopener" class="pf-web-card">
+          <div class="pf-web-card__img">
+            <img src="/media/wts-1024x513.avif" alt="Website WTS SRL — reciclare și management deșeuri, Italia" loading="lazy">
+          </div>
+          <div class="pf-web-card__body">
+            <h3 class="pf-web-card__title">WTS</h3>
+            <span class="pf-web-card__url">wts.srl ↗</span>
+          </div>
+        </a>
+
+        <a href="https://bsp.srl/" target="_blank" rel="noopener" class="pf-web-card">
+          <div class="pf-web-card__img">
+            <img src="/media/bsp-1024x511.avif" alt="Website BSP SRL — management deșeuri și consultanță, Italia" loading="lazy">
+          </div>
+          <div class="pf-web-card__body">
+            <h3 class="pf-web-card__title">BSP</h3>
+            <span class="pf-web-card__url">bsp.srl ↗</span>
+          </div>
+        </a>
+
+        <a href="https://rumpel-m-info.de/" target="_blank" rel="noopener" class="pf-web-card">
+          <div class="pf-web-card__img">
+            <img src="/media/rumpel-m-info-de-1024x493.avif" alt="Rumpel-M" loading="lazy">
+          </div>
+          <div class="pf-web-card__body">
+            <h3 class="pf-web-card__title">Rumpel-M-INFO</h3>
+            <span class="pf-web-card__url">rumpel-m-info.de ↗</span>
+          </div>
+        </a>
+
+        <a href="https://bryanmesnager.fr/" target="_blank" rel="noopener" class="pf-web-card">
+          <div class="pf-web-card__img">
+            <img src="/media/bryan-1024x477.avif" alt="Bryan Mesnager" loading="lazy">
+          </div>
+          <div class="pf-web-card__body">
+            <h3 class="pf-web-card__title">Bryan Mesnager</h3>
+            <span class="pf-web-card__url">bryanmesnager.fr ↗</span>
+          </div>
+        </a>
+
+        <a href="https://edu-net.academy/" target="_blank" rel="noopener" class="pf-web-card">
+          <div class="pf-web-card__img">
+            <img src="/media/edu-net-academy-1024x476.avif" alt="Edu-Net Academy" loading="lazy">
+          </div>
+          <div class="pf-web-card__body">
+            <h3 class="pf-web-card__title">Edu-Net Academy</h3>
+            <span class="pf-web-card__url">edu-net.academy ↗</span>
+          </div>
+        </a>
+
+        <a href="https://toatanunta.ro/" target="_blank" rel="noopener" class="pf-web-card">
+          <div class="pf-web-card__img">
+            <img src="/media/toata-nunta-1024x494.avif" alt="Toata Nunta" loading="lazy">
+          </div>
+          <div class="pf-web-card__body">
+            <h3 class="pf-web-card__title">Toată Nunta</h3>
+            <span class="pf-web-card__url">toatanunta.ro ↗</span>
+          </div>
+        </a>
+
+        <a href="https://www.alitermica.it/" target="_blank" rel="noopener" class="pf-web-card">
+          <div class="pf-web-card__img">
+            <img src="/media/alitermica-1024x542.avif" alt="Alitermica" loading="lazy">
+          </div>
+          <div class="pf-web-card__body">
+            <h3 class="pf-web-card__title">Alitermica</h3>
+            <span class="pf-web-card__url">alitermica.it ↗</span>
+          </div>
+        </a>
+
+        <a href="https://btgromania.ro/" target="_blank" rel="noopener" class="pf-web-card">
+          <div class="pf-web-card__img">
+            <img src="/media/Screenshot_8-1024x659.avif" alt="BTG Romania" loading="lazy">
+          </div>
+          <div class="pf-web-card__body">
+            <h3 class="pf-web-card__title">BTG Romania</h3>
+            <span class="pf-web-card__url">btgromania.ro ↗</span>
+          </div>
+        </a>
+
+        <a href="https://www.fontlegno.it/" target="_blank" rel="noopener" class="pf-web-card">
+          <div class="pf-web-card__img">
+            <img src="/media/Screenshot_22-1024x658.avif" alt="Font Legno" loading="lazy">
+          </div>
+          <div class="pf-web-card__body">
+            <h3 class="pf-web-card__title">Font Legno</h3>
+            <span class="pf-web-card__url">fontlegno.it ↗</span>
+          </div>
+        </a>
+
+        <a href="https://www.piesemoto.ro/" target="_blank" rel="noopener" class="pf-web-card">
+          <div class="pf-web-card__img">
+            <img src="/media/Screenshot_17-1024x671.avif" alt="Piese Moto" loading="lazy">
+          </div>
+          <div class="pf-web-card__body">
+            <h3 class="pf-web-card__title">Revo / Piese Moto</h3>
+            <span class="pf-web-card__url">piesemoto.ro ↗</span>
+          </div>
+        </a>
+
+        <a href="https://gsgommasrl.it/" target="_blank" rel="noopener" class="pf-web-card">
+          <div class="pf-web-card__img">
+            <img src="/media/Screenshot_23-1024x656.avif" alt="GS Gomma" loading="lazy">
+          </div>
+          <div class="pf-web-card__body">
+            <h3 class="pf-web-card__title">GS Gomma</h3>
+            <span class="pf-web-card__url">gsgommasrl.it ↗</span>
+          </div>
+        </a>
+
+        <a href="https://happyhosting.it/" target="_blank" rel="noopener" class="pf-web-card">
+          <div class="pf-web-card__img">
+            <img src="/media/Screenshot_9-1024x668.avif" alt="Happy Hosting" loading="lazy">
+          </div>
+          <div class="pf-web-card__body">
+            <h3 class="pf-web-card__title">Happy Hosting</h3>
+            <span class="pf-web-card__url">happyhosting.it ↗</span>
+          </div>
+        </a>
+
+        <a href="https://www.castellodibagnolo.it/" target="_blank" rel="noopener" class="pf-web-card">
+          <div class="pf-web-card__img">
+            <img src="/media/Screenshot_21-1-1024x663.avif" alt="Castello di Bagnolo" loading="lazy">
+          </div>
+          <div class="pf-web-card__body">
+            <h3 class="pf-web-card__title">Castello di Bagnolo</h3>
+            <span class="pf-web-card__url">castellodibagnolo.it ↗</span>
+          </div>
+        </a>
+
+        <a href="https://www.malpaga.it/" target="_blank" rel="noopener" class="pf-web-card">
+          <div class="pf-web-card__img">
+            <img src="/media/Screenshot_12-1024x673.avif" alt="Malpaga" loading="lazy">
+          </div>
+          <div class="pf-web-card__body">
+            <h3 class="pf-web-card__title">Malpaga</h3>
+            <span class="pf-web-card__url">malpaga.it ↗</span>
+          </div>
+        </a>
+
+        <a href="https://studiovezzosi.com/en/" target="_blank" rel="noopener" class="pf-web-card">
+          <div class="pf-web-card__img">
+            <img src="/media/Screenshot_25-1024x660.avif" alt="Studio Vezzosi" loading="lazy">
+          </div>
+          <div class="pf-web-card__body">
+            <h3 class="pf-web-card__title">Studio Vezzosi</h3>
+            <span class="pf-web-card__url">studiovezzosi.com ↗</span>
+          </div>
+        </a>
+
+        <a href="https://studiolunghini.it/" target="_blank" rel="noopener" class="pf-web-card">
+          <div class="pf-web-card__img">
+            <img src="/media/lunghini-1024x543.avif" alt="Studio Lunghini" loading="lazy">
+          </div>
+          <div class="pf-web-card__body">
+            <h3 class="pf-web-card__title">Studio Lunghini</h3>
+            <span class="pf-web-card__url">studiolunghini.it ↗</span>
+          </div>
+        </a>
+
+        <a href="https://www.vincasoft.it/" target="_blank" rel="noopener" class="pf-web-card">
+          <div class="pf-web-card__img">
+            <img src="/media/vincasoft-1024x541.avif" alt="Vincasoft" loading="lazy">
+          </div>
+          <div class="pf-web-card__body">
+            <h3 class="pf-web-card__title">Vincasoft</h3>
+            <span class="pf-web-card__url">vincasoft.it ↗</span>
+          </div>
+        </a>
+
+        <a href="https://bransha.ro/" target="_blank" rel="noopener" class="pf-web-card">
+          <div class="pf-web-card__img">
+            <img src="/media/bransha-1024x542.avif" alt="Bransha" loading="lazy">
+          </div>
+          <div class="pf-web-card__body">
+            <h3 class="pf-web-card__title">Bransha</h3>
+            <span class="pf-web-card__url">bransha.ro ↗</span>
+          </div>
+        </a>
+
+        <a href="https://dqdesign.co.th/" target="_blank" rel="noopener" class="pf-web-card">
+          <div class="pf-web-card__img">
+            <img src="/media/dq-firma-crearesite-bijuterii-lux-iasi-bacau-suceava-bucuresti-visience-1024x542.avif" alt="DQ Design" loading="lazy">
+          </div>
+          <div class="pf-web-card__body">
+            <h3 class="pf-web-card__title">DQ Design</h3>
+            <span class="pf-web-card__url">dqdesign.co.th ↗</span>
+          </div>
+        </a>
+
+        <a href="https://velomed.ro/" target="_blank" rel="noopener" class="pf-web-card">
+          <div class="pf-web-card__img">
+            <img src="/media/velomed-1024x542.avif" alt="Velomed" loading="lazy">
+          </div>
+          <div class="pf-web-card__body">
+            <h3 class="pf-web-card__title">Velomed</h3>
+            <span class="pf-web-card__url">velomed.ro ↗</span>
+          </div>
+        </a>
+
+        <a href="https://im-ds.ro/" target="_blank" rel="noopener" class="pf-web-card">
+          <div class="pf-web-card__img">
+            <img src="/media/imds-iasi-roman-vladut-constantin-visience.avif" alt="IM Design Studio" loading="lazy">
+          </div>
+          <div class="pf-web-card__body">
+            <h3 class="pf-web-card__title">IM Design Studio</h3>
+            <span class="pf-web-card__url">im-ds.ro ↗</span>
+          </div>
+        </a>
+
+      </div>
+    </div>
+  </section>
+
+
+  <section class="pf-section" id="brand">
+    <div class="wrap">
+      <div class="pf-section__head rv">
+        <div class="eyebrow"><span class="ey-dot"></span>Identitate vizuală</div>
+        <h2 class="dd dd-lg">Brand &amp; Logo</h2>
+        <p class="body-lg">Identități vizuale create de la zero — logo, sistem cromatic, tipografie, brand book.</p>
+      </div>
+
+      <div class="pf-grid-1to1 rv rv-d2">
+        <div class="pf-square pf-square--logo">
+          <img src="/media/amisfera-logo-1024x1024.avif" alt="Amisfera" loading="lazy">
+        </div>
+        <div class="pf-square pf-square--logo">
+          <img src="/media/amodelic-logo-1024x1024.avif" alt="Amodelic" loading="lazy">
+        </div>
+        <div class="pf-square pf-square--logo">
+          <img src="/media/larte-logo-1024x1024.avif" alt="L'Arte" loading="lazy">
+        </div>
+        <div class="pf-square pf-square--logo">
+          <img src="/media/armur-design-1024x1024.avif" alt="Armur Design" loading="lazy">
+        </div>
+        <div class="pf-square pf-square--logo">
+          <img src="/media/bbg-logo-1024x1024.avif" alt="Logo BBG Maison Euxine" loading="lazy">
+        </div>
+        <div class="pf-square pf-square--logo">
+          <img src="/media/mier-logo-1024x1024.avif" alt="Mier" loading="lazy">
+        </div>
+        <div class="pf-square pf-square--logo">
+          <img src="/media/muv-logo-1024x1024.avif" alt="Logo brand MUV" loading="lazy">
+        </div>
+        <div class="pf-square pf-square--logo">
+          <img src="/media/picolina-logo-1024x1024.avif" alt="Picolina" loading="lazy">
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="pf-section pf-section--alt" id="social-media">
+    <div class="wrap">
+      <div class="pf-section__head rv">
+        <div class="eyebrow"><span class="ey-dot"></span>Conținut social media</div>
+        <h2 class="dd dd-lg">Social Media</h2>
+        <p class="body-lg">Postări create pentru Instagram și Facebook — strategie, copy, design, programare.</p>
+      </div>
+
+      <div class="pf-grid-1to1 rv rv-d2">
+        <div class="pf-square">
+          <img src="/media/279143084_1904641356591751_3785680707280688979_n-1024x1024.avif" alt="Social media post" loading="lazy">
+        </div>
+        <div class="pf-square">
+          <img src="/media/278584516_1904688643253689_3749741788862491792_n-1024x1024.avif" alt="Social media post" loading="lazy">
+        </div>
+        <div class="pf-square">
+          <img src="/media/278574269_1905284623194091_2441108854142110256_n-1024x1024.avif" alt="Social media post" loading="lazy">
+        </div>
+        <div class="pf-square">
+          <img src="/media/urs.avif" alt="Social media post" loading="lazy">
+        </div>
+        <div class="pf-square">
+          <img src="/media/fewfew.avif" alt="Social media post" loading="lazy">
+        </div>
+        <div class="pf-square">
+          <img src="/media/reclama-.avif" alt="Reclamă" loading="lazy">
+        </div>
+        <div class="pf-square">
+          <img src="/media/machete-08-1024x1024.avif" alt="Machetă" loading="lazy">
+        </div>
+        <div class="pf-square">
+          <img src="/media/machete-07-1024x1024.avif" alt="Machetă" loading="lazy">
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="pf-section" id="clienti">
+    <div class="wrap">
+      <div class="pf-section__head rv">
+        <div class="eyebrow"><span class="ey-dot"></span>Au lucrat cu noi</div>
+        <h2 class="dd dd-lg">Câțiva dintre clienții noștri</h2>
+        <p class="body-lg">Companii din România, Italia, Franța și Germania care au ales să crească alături de noi. <a href="/parteneri/" style="color:var(--acc);border-bottom:1px solid var(--acc)">Vezi toți partenerii →</a></p>
+      </div>
+
+      <div class="pf-clients-grid rv rv-d2">
+
+        <a href="https://wts.srl/" target="_blank" rel="noopener" class="pf-client-card">
+          <div class="pf-client-card__logo">
+            <img src="/media/wts-srl-logo-visience.avif" alt="Logo WTS SRL — reciclare și management deșeuri" loading="lazy">
+          </div>
+          <h4 class="pf-client-card__name">WTS SRL</h4>
+          <p class="pf-client-card__desc">Companie italiană de reciclare și management deșeuri</p>
+        </a>
+
+        <a href="https://rumpel-m-info.de/" target="_blank" rel="noopener" class="pf-client-card">
+          <div class="pf-client-card__logo">
+            <img src="/media/logo-rumpel.avif" alt="Rumpel-M" loading="lazy">
+          </div>
+          <h4 class="pf-client-card__name">Rumpel-M-INFO</h4>
+          <p class="pf-client-card__desc">Servicii germane de eliminare profesională a deșeurilor</p>
+        </a>
+
+        <a href="https://bsp.srl/" target="_blank" rel="noopener" class="pf-client-card">
+          <div class="pf-client-card__logo">
+            <img src="/media/bsp-srl-logo-visience.avif" alt="Logo BSP SRL — management deșeuri, Italia" loading="lazy">
+          </div>
+          <h4 class="pf-client-card__name">BSP SRL</h4>
+          <p class="pf-client-card__desc">Management deșeuri și consultanță, Italia</p>
+        </a>
+
+        <a href="https://ecologica2000.eu/" target="_blank" rel="noopener" class="pf-client-card">
+          <div class="pf-client-card__logo">
+            <img src="/media/ecologica-2000-logo-nero-visience.avif" alt="Ecologica 2000" loading="lazy">
+          </div>
+          <h4 class="pf-client-card__name">Ecologica 2000</h4>
+          <p class="pf-client-card__desc">Una din cele mai mari companii italiene de gestionare deșeuri</p>
+        </a>
+
+        <a href="https://alyyabeauty.com/" target="_blank" rel="noopener" class="pf-client-card">
+          <div class="pf-client-card__logo">
+            <img src="/media/allyabeauty-visience-marketing-branding-creare-site-logo-.avif" alt="Alyya Beauty" loading="lazy">
+          </div>
+          <h4 class="pf-client-card__name">Alyya Beauty</h4>
+          <p class="pf-client-card__desc">Make-up profesional, dermopigmentare și microneedling</p>
+        </a>
+
+        <a href="https://dqdesign.co.th/" target="_blank" rel="noopener" class="pf-client-card">
+          <div class="pf-client-card__logo">
+            <img src="/media/dq-design.avif" alt="DQ Design" loading="lazy">
+          </div>
+          <h4 class="pf-client-card__name">DQ Design</h4>
+          <p class="pf-client-card__desc">Designer și magazin de bijuterii, Bangkok</p>
+        </a>
+
+        <a href="https://edu-net.academy/" target="_blank" rel="noopener" class="pf-client-card">
+          <div class="pf-client-card__logo">
+            <img src="/media/EDU-NET-BRAND-black-.avif" alt="Edu-Net" loading="lazy">
+          </div>
+          <h4 class="pf-client-card__name">Edu-Net Academy</h4>
+          <p class="pf-client-card__desc">Portal global românesc pentru educație</p>
+        </a>
+
+        <a href="https://alexanderprivatetailor.com/" target="_blank" rel="noopener" class="pf-client-card">
+          <div class="pf-client-card__logo">
+            <img src="/media/Private-Stylist-logo-2.avif" alt="Alexander" loading="lazy">
+          </div>
+          <h4 class="pf-client-card__name">Alexander Tailor</h4>
+          <p class="pf-client-card__desc">Private stylist din România, croitor în UK</p>
+        </a>
+
+        <a href="https://luciarosca.ro/" target="_blank" rel="noopener" class="pf-client-card">
+          <div class="pf-client-card__logo">
+            <img src="/media/LR_logo_light-1-200x78-1.avif" alt="Lucia Roșca" loading="lazy">
+          </div>
+          <h4 class="pf-client-card__name">Lucia Roșca</h4>
+          <p class="pf-client-card__desc">Fashion designer independentă din România</p>
+        </a>
+
+        <a href="https://bbgmaisoneuxine.com/" target="_blank" rel="noopener" class="pf-client-card">
+          <div class="pf-client-card__logo">
+            <img src="/media/bbg-maison-euxine-visience-marketing-branding-webdesign-afacere-startup-antreprenoriat-design-development-site-copy.avif" alt="Logo BBG Maison Euxine — exportator de fructe de mare" loading="lazy">
+          </div>
+          <h4 class="pf-client-card__name">BBG Maison Euxine</h4>
+          <p class="pf-client-card__desc">Unul din cei mai mari exportatori români de fructe de mare</p>
+        </a>
+
+        <a href="https://velomed.ro/" target="_blank" rel="noopener" class="pf-client-card">
+          <div class="pf-client-card__logo">
+            <img src="/media/velomed-visience-marketing-branding-webdesign-afacere-startup-antreprenoriat-design-development-site-copy.avif" alt="Velomed" loading="lazy">
+          </div>
+          <h4 class="pf-client-card__name">Velomed</h4>
+          <p class="pf-client-card__desc">Management în healthcare, transport, manufacturing</p>
+        </a>
+
+        <a href="https://www.piesemoto.ro/" target="_blank" rel="noopener" class="pf-client-card">
+          <div class="pf-client-card__logo">
+            <img src="/media/revo.avif" alt="Revo" loading="lazy">
+          </div>
+          <h4 class="pf-client-card__name">Revo</h4>
+          <p class="pf-client-card__desc">Magazin de piese auto, moto și altele</p>
+        </a>
+
+        <a href="https://btgromania.ro/" target="_blank" rel="noopener" class="pf-client-card">
+          <div class="pf-client-card__logo">
+            <img src="/media/btg.avif" alt="Logo BTG Romania — automatizări clădiri" loading="lazy">
+          </div>
+          <h4 class="pf-client-card__name">BTG Romania</h4>
+          <p class="pf-client-card__desc">Una dintre cele mai mari companii de automatizări clădiri</p>
+        </a>
+
+        <a href="https://bransha.ro/" target="_blank" rel="noopener" class="pf-client-card">
+          <div class="pf-client-card__logo">
+            <img src="/media/bransha-visience-marketing-branding-webdesign-afacere-startup-antreprenoriat-design-development-site-.avif" alt="Bransha" loading="lazy">
+          </div>
+          <h4 class="pf-client-card__name">Bransha</h4>
+          <p class="pf-client-card__desc">Brand BTG dedicat automatizărilor smart</p>
+        </a>
+
+        <a href="https://happyhosting.it/" target="_blank" rel="noopener" class="pf-client-card">
+          <div class="pf-client-card__logo">
+            <img src="/media/happy20hosting-visience-marketing-branding-webdesign-afacere-startup-antreprenoriat-design-development-site-.avif" alt="Happy Hosting" loading="lazy">
+          </div>
+          <h4 class="pf-client-card__name">Happy Hosting</h4>
+          <p class="pf-client-card__desc">Companie italiană de hosting</p>
+        </a>
+
+        <a href="https://studiolunghini.it/" target="_blank" rel="noopener" class="pf-client-card">
+          <div class="pf-client-card__logo">
+            <img src="/media/giacomo-visience-marketing-branding-webdesign-afacere-startup-antreprenoriat-design-development-site-.avif" alt="Giacomo Lunghini" loading="lazy">
+          </div>
+          <h4 class="pf-client-card__name">Studio Lunghini</h4>
+          <p class="pf-client-card__desc">Giacomo Lunghini — cabinet de avocatură, Italia</p>
+        </a>
+
+      </div>
+    </div>
+  </section>
+
+
+  <section class="pf-cta">
+    <div class="wrap">
+      <div class="rv">
+        <div class="eyebrow" style="color: var(--acc2);"><span class="ey-dot"></span>Hai să discutăm</div>
+        <h2 class="dd dd-lg pf-cta__h">Următorul proiect<br><span class="hi">e al tău</span></h2>
+        <p class="pf-cta__p">Spune-ne despre afacerea ta. În 30 de minute îți construim împreună o foaie de parcurs.</p>
+        <div class="pf-cta__acts">
+          <a href="/contact/" class="btn btn-solid">Solicită ofertă <span style="margin-left:4px">→</span></a>
+          <a href="https://wa.me/40771486499" target="_blank" rel="noopener" class="btn btn-dark">WhatsApp →</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+<section class="rel-strip" aria-label="Servicii conexe și prețuri transparente">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Curios cât costă un proiect ca acestea?</h2>
+      <p>Prețurile noastre sunt publice, fără surprize. Vezi de la cât pornește fiecare tip de proiect înainte să ne scrii.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Servicii și parteneri</div>
+      <div class="rel-links__grid">
+        <a href="/creare-site-prezentare/" class="rel-link"><span class="rel-link__name">Creare site de prezentare <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Site-uri de companie rapide, cu design pe brandul tău.</span></a>
+        <a href="/creare-magazin-online/" class="rel-link"><span class="rel-link__name">Creare magazin online <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">WooCommerce și Shopify optimizate pentru vânzări.</span></a>
+        <a href="/optimizare-seo/" class="rel-link"><span class="rel-link__name">SEO & content <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Ajungi pe prima pagină Google, organic.</span></a>
+        <a href="/parteneri/" class="rel-link"><span class="rel-link__name">Parteneri <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Clienții și brandurile cu care lucrăm.</span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XLiQQktmqJoG3-3IBETrL"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

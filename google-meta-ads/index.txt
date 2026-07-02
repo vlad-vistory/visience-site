@@ -1,0 +1,1199 @@
+1:"$Sreact.fragment"
+b:I[68027,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"default",1]
+:HL["/_next/static/chunks/3b23shbd_73w9.css","style"]
+:HL["/_next/static/media/017d9bea37084d9b-s.p.41rroleoq1br7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/26daee0352f50a5f-s.p.2e115y8-hourl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/36363bfb06833f56-s.p.38hmww4cj4vme.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5c285b27cdda1fe8-s.p.2_mbdogr7ni8i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a73419dd2ba2d841-s.p.2yee423r7ahpo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b12e986493c137cf-s.p.2njitm-prmz2_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b2fa3ef4ca165ab4-s.p.12_ml6bnugnre.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c3cb240f9c892514-s.p.3z_x6eowsw16y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css","style"]
+2:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}3:Tb9a,<header class="nav" id="nav" role="banner">
+  <div class="wrap nav__in">
+    <a href="/" class="nav__logo" aria-label="Visience — Acasă">
+      <img class="nav__logo-img nav__logo-img--light" src="/media/sigla-mark-visience-new-colors.avif"
+           alt="Visience" width="160" height="30" fetchpriority="high">
+      <img class="nav__logo-img nav__logo-img--dark" src="/media/sigla-visience-dark.avif"
+           alt="" aria-hidden="true" width="160" height="30">
+    </a>
+
+    <nav class="nav__links" aria-label="Navigare principală">
+      <div class="nav__has-drop">
+        <a href="/#servicii">Servicii</a>
+        <div class="nav__drop">
+          <a href="/creare-site-prezentare/">Creare site de prezentare</a>
+          <a href="/creare-magazin-online/">Creare magazin online</a>
+          <a href="/branding-identitate-vizuala/">Branding &amp; identitate</a>
+          <a href="/social-media-management/">Social media</a>
+          <a href="/google-meta-ads/">Google &amp; Meta Ads</a>
+          <a href="/optimizare-seo/">SEO &amp; content</a>
+          <a href="/dezvoltare-software/">Dezvoltare software</a>
+          <a href="/marketing-dezvoltatori-imobiliari/">Marketing imobiliar</a>
+        </div>
+      </div>
+      <a href="/portofoliu/">Proiecte</a>
+      <a href="/preturi/">Prețuri</a>
+      <a href="/blog/">Blog</a>
+      <a href="/#rezultate">Rezultate</a>
+      <a href="/#despre">Despre</a>
+      <a href="/contact/">Contact</a>
+    </nav>
+
+    <a href="/#contact" class="nav__cta">Solicită ofertă</a>
+
+    <button class="nav__burger" id="navBurger"
+            aria-label="Deschide meniul" aria-expanded="false" aria-controls="navMob">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<nav class="nav__mob" id="navMob" aria-label="Meniu mobil">
+  <a href="/#servicii"  class="nm-l">Servicii</a>
+  <a href="/creare-site-prezentare/" class="nm-l nm-sub">Creare site de prezentare</a>
+  <a href="/creare-magazin-online/" class="nm-l nm-sub">Creare magazin online</a>
+  <a href="/branding-identitate-vizuala/" class="nm-l nm-sub">Branding &amp; identitate</a>
+  <a href="/social-media-management/" class="nm-l nm-sub">Social media</a>
+  <a href="/google-meta-ads/" class="nm-l nm-sub">Google &amp; Meta Ads</a>
+  <a href="/optimizare-seo/" class="nm-l nm-sub">SEO &amp; content</a>
+  <a href="/dezvoltare-software/" class="nm-l nm-sub">Dezvoltare software</a>
+  <a href="/marketing-dezvoltatori-imobiliari/" class="nm-l nm-sub">Marketing imobiliar</a>
+  <a href="/portofoliu/"  class="nm-l">Proiecte</a>
+  <a href="/preturi/"    class="nm-l">Prețuri</a>
+  <a href="/blog/"       class="nm-l">Blog</a>
+  <a href="/#rezultate" class="nm-l">Rezultate</a>
+  <a href="/#despre"    class="nm-l">Despre</a>
+  <a href="/contact/"    class="nm-l">Contact</a>
+  <a href="/#contact" class="btn btn-solid" style="margin-top:8px">Solicită ofertă</a>
+</nav>
+0:{"P":null,"c":["","google-meta-ads",""],"q":"","i":false,"f":[[["",{"children":["google-meta-ads",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0a_4n0l8z1myf.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"bricolage_grotesque_4d7004bd-module__Hoo0MG__variable dm_sans_371c950d-module__4cga4q__variable dm_mono_6c018cca-module__6UXbpq__variable","children":[["$","head",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5","$L6"]}]]}]]}],{"children":["$L7",{"children":["$L8",{},null,false,null]},null,false,"$@9"]},null,false,null],"$La",false]],"m":"$undefined","G":["$b",["$Lc"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"XLiQQktmqJoG3-3IBETrL"}
+d:I[39756,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
+e:I[37457,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
+10:I[27961,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
+15:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"ViewportBoundary"]
+17:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"MetadataBoundary"]
+18:"$Sreact.suspense"
+4:["$","$Ld",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Le",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
+f:T13f0,<footer class="footer" role="contentinfo">
+  <div class="wrap">
+
+    <div class="footer__grid">
+
+      <div>
+        <div class="footer__logo">
+          <img src="/media/sigla-mark-visience-new-colors.avif"
+               alt="Visience" width="148" height="28" loading="lazy">
+        </div>
+
+        <p class="footer__brand">
+          Agenție de marketing digital cu 12 ani de experiență. Transformăm imaginea companiilor prin branding, website, social media și marketing precis configurat.
+        </p>
+
+        <p class="footer__trust">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M20 6 9 17l-5-5"/>
+          </svg>
+          Prețuri publice, fără costuri ascunse — <a href="/preturi/">vezi prețurile</a>.
+        </p>
+
+        <div class="footer__contact">
+          <a href="tel:+40771486499">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.67A2 2 0 012 .92h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L6.91 8.09a16 16 0 006 6l1.27-.83a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/>
+            </svg>
+            +40 771 486 499
+          </a>
+          <a href="mailto:contact@visience.ro">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+              <polyline points="22,6 12,13 2,6"/>
+            </svg>
+            contact@visience.ro
+          </a>
+        </div>
+
+        <div class="footer__anpc">
+          <a class="anpc-b" href="https://anpc.ro/" target="_blank" rel="noopener noreferrer"
+             aria-label="ANPC — Autoritatea Națională pentru Protecția Consumatorilor">
+            <img src="https://anpc.ro/wp-content/themes/anpc/img/anpc_logo.png"
+                 alt="ANPC" width="50" height="18" loading="lazy"
+                 onerror="this.style.display='none'">
+            ANPC
+          </a>
+          <a class="anpc-b" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage"
+             target="_blank" rel="noopener noreferrer"
+             aria-label="SOL — Soluționare Online a Litigiilor">
+            SOL
+          </a>
+        </div>
+      </div>
+
+      <nav aria-label="Servicii">
+        <div class="footer__col-title">Servicii</div>
+        <ul class="footer__links">
+          <li><a href="/creare-site-prezentare/">Creare site de prezentare</a></li>
+          <li><a href="/creare-site-prezentare-iasi/">Creare site de prezentare Iași</a></li>
+          <li><a href="/creare-magazin-online/">Creare magazin online</a></li>
+          <li><a href="/branding-identitate-vizuala/">Branding &amp; identitate</a></li>
+          <li><a href="/social-media-management/">Social Media</a></li>
+          <li><a href="/google-meta-ads/">Google &amp; Meta Ads</a></li>
+          <li><a href="/optimizare-seo/">SEO &amp; Content</a></li>
+          <li><a href="/dezvoltare-software/">Dezvoltare software</a></li>
+          <li><a href="/marketing-dezvoltatori-imobiliari/">Marketing imobiliar</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Companie">
+        <div class="footer__col-title">Companie</div>
+        <ul class="footer__links">
+          <li><a href="/portofoliu/">Portofoliu</a></li>
+          <li><a href="/parteneri/">Parteneri</a></li>
+          <li><a href="/blog/">Blog</a></li>
+          <li><a href="/preturi/">Prețuri</a></li>
+          <li><a href="/#rezultate">Studii de caz</a></li>
+          <li><a href="/#despre">Despre noi</a></li>
+          <li><a href="/contact/">Contact</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Legal">
+        <div class="footer__col-title">Legal &amp; GDPR</div>
+        <ul class="footer__links">
+          <li><a href="/termeni-si-conditii/">Termeni și Condiții</a></li>
+          <li><a href="/politica-de-confidentialitate/">Politică Confidențialitate</a></li>
+          <li><a href="/politica-cookies/">Politică Cookies</a></li>
+        </ul>
+      </nav>
+
+    </div>
+
+    <div class="footer__bottom">
+      <div class="footer__bottom-in">
+        <p class="footer__copy">
+          © 2026 Visience Creative Experience SRL · Toate drepturile rezervate
+        </p>
+        <div class="footer__legal">
+          <a href="/termeni-si-conditii/">Termeni</a>
+          <a href="/politica-de-confidentialitate/">Confidențialitate</a>
+          <a href="/politica-cookies/">Cookies</a>
+          <a href="/gdpr/">GDPR</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</footer>
+5:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}]
+6:["$","$L10",null,{}]
+7:["$","$1","c",{"children":[null,["$","$Ld",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Le",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+11:T1388,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/google-meta-ads/#service","name":"Google & Meta Ads (PPC)","serviceType":"Management campanii Google Ads, Facebook și Instagram Ads","description":"Campanii PPC de Lead Generation, remarketing și Google Shopping pe Google Ads, Facebook și Instagram, configurate pe audiența exactă și orientate pe conversii și ROI. Bugetul media plătit platformelor este separat de costul de management.","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Pachete management campanii PPC","itemListElement":[{"@type":"Offer","name":"Remarketing & Automatizări","description":"Anunțuri personalizate Google + Facebook, email-uri automate de follow-up, email coș abandonat, targetare pe istoricul de navigare și optimizare continuă.","price":"600","priceCurrency":"EUR"},{"@type":"Offer","name":"Google Shopping","description":"Setup Google Merchant Center, optimizare feed produse, Smart sau Standard Shopping, strategie de licitare și monitorizare lunară.","price":"500","priceCurrency":"EUR"},{"@type":"Offer","name":"Lead Generation","description":"Campanii Google, Facebook sau Instagram pentru clienți calificați: minimum 2 postări publicitare, conținut vizual + text, strategie, implementare, monitorizare și 2-3 optimizări.","price":"200","priceCurrency":"EUR"}]},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"200","highPrice":"600","offerCount":"3"}},{"@type":"FAQPage","@id":"https://visience.ro/google-meta-ads/#faq","mainEntity":[{"@type":"Question","name":"Care e bugetul minim de publicitate?","acceptedAnswer":{"@type":"Answer","text":"Depinde de platformă și de obiective. Pentru Lead Generation pe servicii locale, un buget media de 300-500€/lună este un punct de pornire realist; pentru Google Shopping sau remarketing pe magazine online, recomandăm de la 500€/lună în sus. Cu cât bugetul e mai mare și constant, cu atât costul per lead scade, pentru că algoritmii au mai multe date de optimizare. Îți recomandăm bugetul exact după ce înțelegem afacerea ta."}},{"@type":"Question","name":"Costul de management include și bugetul de ads?","acceptedAnswer":{"@type":"Answer","text":"Nu. Tariful nostru (de exemplu 200€ pentru o campanie de Lead Generation sau 600€ pentru Remarketing & Automatizări) acoperă strategia, crearea anunțurilor, implementarea, optimizarea și raportarea. Bugetul de publicitate — banii cheltuiți efectiv pe reclame — se plătește direct către Google și Meta, din contul tău, și este complet separat de costul colaborării cu noi. Așa ai control total asupra bugetului media și transparență deplină."}},{"@type":"Question","name":"Pe ce platforme rulați campanii?","acceptedAnswer":{"@type":"Answer","text":"Rulăm campanii pe Google Ads (Search, Display, Shopping, YouTube), pe Facebook Ads și pe Instagram Ads. Alegem combinația potrivită în funcție de unde se află clienții tăi: Google pentru cei care caută activ un serviciu sau produs, Meta pentru a-i atrage și a face remarketing. Pentru magazinele online, recomandăm Google Shopping pentru clienții cu intenție mare de cumpărare."}},{"@type":"Question","name":"Cât durează până vin primele rezultate?","acceptedAnswer":{"@type":"Answer","text":"Campaniile pot genera primele click-uri și lead-uri în câteva zile de la lansare. Totuși, primele 2-3 săptămâni sunt o perioadă de învățare: testăm anunțuri, audiențe și licitări ca să găsim ce funcționează. Rezultatele stabile și un cost per lead optimizat apar de regulă după 4-6 săptămâni de rulare și optimizare continuă."}},{"@type":"Question","name":"Lucrați cu magazine online (Shopping)?","acceptedAnswer":{"@type":"Answer","text":"Da. Pentru magazinele online configurăm Google Shopping: setup Google Merchant Center, optimizarea feed-ului de produse, campanii Smart sau Standard Shopping și o strategie de licitare gândită pentru profit. Combinăm Shopping cu remarketing și email-uri de coș abandonat pentru a recupera vânzările pierdute. Dacă nu ai încă magazin, te putem ajuta și cu crearea unui magazin online."}},{"@type":"Question","name":"Cum raportați performanța?","acceptedAnswer":{"@type":"Answer","text":"Primești un raport lunar clar, fără jargon: afișări, click-uri, cost per click, lead-uri sau vânzări, cost per lead și ROI. Nu ne ascundem după „cifre de vanitate” — ne uităm la ce contează cu adevărat pentru afacerea ta. Îți explicăm ce am optimizat, ce a funcționat și ce propunem pentru luna următoare."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Google & Meta Ads","item":"https://visience.ro/google-meta-ads/"}]}]}8:["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$11"}}],"$L12"],null,"$L13"]}]
+14:[]
+9:"$W14"
+a:["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$L16"}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$18",null,{"name":"Next.Metadata","children":"$L19"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+c:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1b:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+1a:T8b1a,<style>
+.ads-hero {
+  position: relative;
+  padding: calc(var(--nav-h) + 90px) 0 90px;
+  background: var(--cream);
+  overflow: hidden;
+}
+.ads-hero__inner {
+  display: grid;
+  grid-template-columns: 1.15fr 1fr;
+  gap: 70px;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+}
+.ads-hero__breadcrumbs {
+  font-family: var(--f-m);
+  font-size: 11px;
+  color: var(--mid);
+  letter-spacing: .06em;
+  margin-bottom: 24px;
+}
+.ads-hero__breadcrumbs a       { color: var(--mid); transition: color .2s; }
+.ads-hero__breadcrumbs a:hover { color: var(--acc); }
+.ads-hero__breadcrumbs .sep    { margin: 0 10px; opacity: .4; }
+
+.ads-hero__h1 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(38px, 5.2vw, 70px);
+  line-height: .98;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 26px;
+}
+.ads-hero__h1 .acc {
+  background: var(--acc);
+  color: var(--acc-ink);
+  padding: 0 12px 4px;
+  border-radius: 10px;
+  display: inline-block;
+  line-height: 1.05;
+}
+.ads-hero__lead {
+  font-size: 17px;
+  line-height: 1.78;
+  color: var(--mid);
+  margin-bottom: 32px;
+  font-weight: 300;
+  max-width: 540px;
+}
+.ads-hero__pts {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-bottom: 36px;
+  max-width: 540px;
+}
+.ads-pt {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 14px;
+  color: var(--ink);
+  font-weight: 500;
+}
+.ads-pt-dot {
+  width: 18px; height: 18px;
+  background: var(--acc);
+  color: var(--acc-ink);
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 10px; font-weight: 700;
+  flex-shrink: 0; margin-top: 2px;
+}
+.ads-hero__cta {
+  display: flex; gap: 10px; flex-wrap: wrap;
+}
+
+.ads-hero__visual {
+  position: relative;
+  height: 480px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ads-hero__panel {
+  position: relative;
+  width: 100%;
+  max-width: 440px;
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  padding: 24px 22px 22px;
+  box-shadow: 0 30px 80px rgba(17,16,16,.08);
+  z-index: 2;
+}
+.ads-panel__bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 18px;
+}
+.ads-panel__title {
+  font-family: var(--f-d);
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--ink);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.ads-panel__title i { color: var(--acc); font-size: 14px; }
+.ads-panel__live {
+  font-family: var(--f-m);
+  font-size: 9px;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: #28C840;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+.ads-panel__live::before {
+  content: '';
+  width: 7px; height: 7px;
+  border-radius: 50%;
+  background: #28C840;
+}
+.ads-panel__stats {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 10px;
+  margin-bottom: 18px;
+}
+.ads-panel__stat {
+  background: var(--cream);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 14px 12px;
+}
+.ads-panel__stat-num {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: 22px;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  line-height: 1;
+  margin-bottom: 6px;
+}
+.ads-panel__stat-num.acc { color: var(--acc); }
+.ads-panel__stat-lbl {
+  font-family: var(--f-m);
+  font-size: 8px;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--light);
+}
+.ads-panel__chart {
+  background: var(--cream);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 16px 14px 12px;
+}
+.ads-panel__chart-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 12px;
+}
+.ads-panel__chart-lbl {
+  font-family: var(--f-m);
+  font-size: 9px;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--mid);
+}
+.ads-panel__chart-val {
+  font-family: var(--f-d);
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--acc);
+}
+.ads-panel__bars {
+  display: flex;
+  align-items: flex-end;
+  gap: 7px;
+  height: 56px;
+}
+.ads-panel__bars span {
+  flex: 1;
+  background: var(--cream3);
+  border-radius: 3px 3px 0 0;
+}
+.ads-panel__bars span:nth-child(1) { height: 32%; }
+.ads-panel__bars span:nth-child(2) { height: 46%; }
+.ads-panel__bars span:nth-child(3) { height: 40%; }
+.ads-panel__bars span:nth-child(4) { height: 64%; }
+.ads-panel__bars span:nth-child(5) { height: 58%; }
+.ads-panel__bars span:nth-child(6) { height: 82%; background: var(--acc); }
+.ads-panel__bars span:nth-child(7) { height: 100%; background: var(--acc); }
+
+.ads-intro {
+  background: var(--white);
+  padding: 90px 0;
+  position: relative;
+}
+.ads-intro__inner {
+  max-width: 880px;
+  margin: 0 auto;
+}
+.ads-intro h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(28px, 3.5vw, 44px);
+  line-height: 1.1;
+  letter-spacing: -.025em;
+  color: var(--ink);
+  margin: 56px 0 18px;
+}
+.ads-intro h2:first-child { margin-top: 0; }
+.ads-intro p {
+  font-size: 16px;
+  line-height: 1.84;
+  color: var(--mid);
+  font-weight: 300;
+  margin-bottom: 16px;
+}
+.ads-intro p strong { color: var(--ink); font-weight: 600; }
+.ads-intro p a       { color: var(--acc); border-bottom: 1px solid var(--acc); transition: opacity .2s; }
+.ads-intro p a:hover { opacity: .65; }
+
+.ads-include {
+  padding: 100px 0;
+  background: var(--cream);
+}
+.ads-include__head {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto 56px;
+}
+.ads-include__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(32px, 4vw, 52px);
+  line-height: 1.02;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 18px;
+}
+.ads-include__h2 .acc { color: var(--acc); }
+.ads-include__sub {
+  font-size: 16px; line-height: 1.8;
+  color: var(--mid); font-weight: 300;
+}
+.ads-include__grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+.ads-icard {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 34px 28px 30px;
+  transition: .3s;
+}
+.ads-icard:hover {
+  border-color: rgba(232,152,10,.3);
+  transform: translateY(-5px);
+  box-shadow: 0 18px 40px rgba(17,16,16,.06);
+}
+.ads-icard__ico {
+  width: 50px; height: 50px;
+  border-radius: 13px;
+  background: var(--acc-bg);
+  color: var(--acc);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 21px;
+  margin-bottom: 22px;
+  transition: .3s;
+}
+.ads-icard:hover .ads-icard__ico {
+  background: var(--acc);
+  color: var(--acc-ink);
+}
+.ads-icard h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: -.015em;
+  margin: 0 0 12px;
+  color: var(--ink);
+  line-height: 1.22;
+}
+.ads-icard p {
+  font-size: 13px;
+  color: var(--mid);
+  line-height: 1.7;
+  font-weight: 300;
+  margin: 0;
+}
+
+.ads-prices {
+  padding: 100px 0;
+  background: var(--white);
+}
+.ads-prices__head {
+  text-align: center;
+  max-width: 720px;
+  margin: 0 auto 56px;
+}
+.ads-prices__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(34px, 4.5vw, 60px);
+  line-height: 1.0;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 18px;
+}
+.ads-prices__h2 .acc { color: var(--acc); }
+.ads-prices__sub {
+  font-size: 16px; line-height: 1.8;
+  color: var(--mid); font-weight: 300;
+}
+.ads-pkg-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  align-items: stretch;
+}
+.ads-pkg {
+  background: var(--cream);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 36px 32px 32px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  transition: .3s;
+}
+.ads-pkg:hover {
+  border-color: rgba(232,152,10,.3);
+  transform: translateY(-6px);
+  box-shadow: 0 20px 48px rgba(232,152,10,.08);
+}
+.ads-pkg.featured {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--white);
+}
+.ads-pkg.featured:hover { box-shadow: 0 24px 56px rgba(17,16,16,.2); }
+.ads-pkg__badge {
+  position: absolute;
+  top: -12px; left: 50%;
+  transform: translateX(-50%);
+  background: var(--acc);
+  color: var(--acc-ink);
+  font-family: var(--f-m);
+  font-size: 9px;
+  font-weight: 500;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  padding: 5px 14px;
+  border-radius: 100px;
+  white-space: nowrap;
+}
+.ads-pkg__name {
+  font-family: var(--f-m);
+  font-size: 11px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--mid);
+  margin-bottom: 8px;
+}
+.ads-pkg.featured .ads-pkg__name { color: rgba(255,255,255,.5); }
+.ads-pkg__price {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(36px, 4vw, 52px);
+  letter-spacing: -.04em;
+  line-height: 1;
+  color: var(--acc);
+  margin-bottom: 4px;
+}
+.ads-pkg__price-note {
+  font-size: 12px;
+  color: var(--light);
+  margin-bottom: 22px;
+}
+.ads-pkg.featured .ads-pkg__price-note { color: rgba(255,255,255,.4); }
+.ads-pkg__desc {
+  font-size: 14px;
+  line-height: 1.7;
+  color: var(--mid);
+  margin-bottom: 26px;
+  font-weight: 300;
+  padding-bottom: 22px;
+  border-bottom: 1px solid var(--border);
+}
+.ads-pkg.featured .ads-pkg__desc {
+  color: rgba(255,255,255,.55);
+  border-bottom-color: rgba(255,255,255,.1);
+}
+.ads-pkg__feats {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 28px;
+  flex: 1;
+}
+.ads-pkg__feat {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 13px;
+  line-height: 1.55;
+  color: var(--ink);
+}
+.ads-pkg.featured .ads-pkg__feat { color: rgba(255,255,255,.85); }
+.ads-pkg__feat-tick {
+  color: var(--acc);
+  flex-shrink: 0;
+  margin-top: 2px;
+  font-weight: 700;
+}
+.ads-pkg__note {
+  text-align: center;
+  max-width: 720px;
+  margin: 40px auto 0;
+  font-size: 13px;
+  line-height: 1.7;
+  color: var(--mid);
+  font-weight: 300;
+}
+.ads-pkg__note strong { color: var(--ink); font-weight: 600; }
+
+.ads-process {
+  padding: 100px 0;
+  background: var(--cream2);
+}
+.ads-process__head {
+  text-align: center;
+  max-width: 680px;
+  margin: 0 auto 56px;
+}
+.ads-process__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(32px, 4vw, 52px);
+  line-height: 1.02;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 18px;
+}
+.ads-process__h2 .acc { color: var(--acc); }
+.ads-process__list {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+.ads-step {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 30px 28px;
+  transition: .3s;
+}
+.ads-step:hover {
+  border-color: rgba(232,152,10,.3);
+  transform: translateY(-4px);
+  box-shadow: 0 14px 28px rgba(17,16,16,.06);
+}
+.ads-step__n {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: 36px;
+  color: var(--acc);
+  letter-spacing: -.03em;
+  line-height: 1;
+  margin-bottom: 16px;
+}
+.ads-step h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.015em;
+  margin: 0 0 10px;
+  color: var(--ink);
+  line-height: 1.2;
+}
+.ads-step p {
+  font-size: 13px;
+  color: var(--mid);
+  line-height: 1.7;
+  font-weight: 300;
+  margin: 0;
+}
+
+.ads-faq {
+  padding: 100px 0;
+  background: var(--white);
+}
+.ads-faq__head {
+  text-align: center;
+  max-width: 640px;
+  margin: 0 auto 50px;
+}
+.ads-faq__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(28px, 3.6vw, 44px);
+  line-height: 1.04;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 18px;
+}
+.ads-faq__h2 .acc { color: var(--acc); }
+.ads-faq__list {
+  max-width: 860px;
+  margin: 0 auto;
+  border-top: 1px solid var(--border);
+}
+.ads-faq-item {
+  border-bottom: 1px solid var(--border);
+  padding: 24px 0;
+}
+.ads-faq-item summary {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.01em;
+  color: var(--ink);
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding-right: 8px;
+  transition: color .22s;
+}
+.ads-faq-item summary::-webkit-details-marker { display: none; }
+.ads-faq-item summary::after {
+  content: '+';
+  font-family: var(--f-d);
+  font-size: 26px;
+  font-weight: 300;
+  color: var(--acc);
+  transition: transform .3s;
+  flex-shrink: 0;
+  line-height: 1;
+}
+.ads-faq-item[open] summary::after { transform: rotate(45deg); }
+.ads-faq-item:hover summary { color: var(--acc); }
+.ads-faq-item p {
+  margin-top: 14px;
+  font-size: 14px;
+  color: var(--mid);
+  line-height: 1.78;
+  font-weight: 300;
+  max-width: 760px;
+}
+.ads-faq-item p strong { color: var(--ink); font-weight: 600; }
+
+.ads-cta {
+  padding: 110px 0;
+  background: var(--ink);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.ads-cta::before {
+  content: '';
+  position: absolute;
+  top: -120px; right: -120px;
+  width: 440px; height: 440px;
+  background: radial-gradient(circle, rgba(232,152,10,.22) 0%, transparent 70%);
+  pointer-events: none;
+}
+.ads-cta > .wrap { position: relative; z-index: 1; }
+.ads-cta__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(34px, 5vw, 64px);
+  line-height: 1.0;
+  letter-spacing: -.03em;
+  color: var(--white);
+  margin-bottom: 20px;
+}
+.ads-cta__h2 .acc {
+  background: linear-gradient(135deg, var(--acc) 0%, var(--acc2) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.ads-cta__p {
+  font-size: 16px;
+  color: rgba(255,255,255,.5);
+  font-weight: 300;
+  max-width: 540px;
+  margin: 0 auto 32px;
+  line-height: 1.78;
+}
+.ads-cta__btns {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 1024px) {
+  .ads-hero { padding: calc(var(--nav-h) + 60px) 0 70px; }
+  .ads-hero__inner { grid-template-columns: 1fr; gap: 50px; }
+  .ads-hero__visual { height: auto; order: -1; }
+  .ads-intro { padding: 70px 0; }
+  .ads-include { padding: 80px 0; }
+  .ads-include__grid { grid-template-columns: repeat(2, 1fr); }
+  .ads-prices { padding: 80px 0; }
+  .ads-pkg-grid { grid-template-columns: 1fr; gap: 20px; }
+  .ads-pkg.featured { transform: none; }
+  .ads-process { padding: 80px 0; }
+  .ads-process__list { grid-template-columns: repeat(2, 1fr); }
+  .ads-faq { padding: 70px 0; }
+  .ads-cta { padding: 80px 0; }
+}
+
+@media (max-width: 640px) {
+  .ads-hero__pts { grid-template-columns: 1fr; }
+  .ads-hero__cta { flex-direction: column; }
+  .ads-hero__cta .btn { justify-content: center; }
+  .ads-include__grid { grid-template-columns: 1fr; }
+  .ads-process__list { grid-template-columns: 1fr; }
+  .ads-pkg { padding: 28px 24px 26px; }
+  .ads-faq-item summary { font-size: 15px; }
+  .ads-cta__btns { flex-direction: column; }
+  .ads-cta__btns .btn { justify-content: center; }
+}
+</style>
+
+
+<main id="main">
+
+<section class="ads-hero" aria-labelledby="ads-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="20%" x2="100%" y2="60%"/>
+      <line x1="0" y1="50%" x2="100%" y2="90%"/>
+      <line x1="0" y1="80%" x2="100%" y2="30%"/>
+      <line x1="25%" y1="0" x2="75%" y2="100%"/>
+      <line x1="60%" y1="0" x2="10%" y2="100%"/>
+    </svg>
+  </div>
+
+  <div class="wrap">
+    <div class="ads-hero__inner">
+
+      <div class="rv">
+        <nav class="ads-hero__breadcrumbs" aria-label="Breadcrumbs">
+          <a href="/">Acasă</a>
+          <span class="sep">/</span>
+          <a href="/#servicii">Servicii</a>
+          <span class="sep">/</span>
+          <span>Google &amp; Meta Ads</span>
+        </nav>
+
+        <div class="eyebrow">
+          <span class="ey-dot"></span>
+          Google &amp; Meta Ads Iași
+        </div>
+
+        <h1 class="ads-hero__h1" id="ads-h1">
+          Campanii care aduc<br>
+          <span class="acc">clienți, nu doar click-uri.</span>
+        </h1>
+
+        <p class="ads-hero__lead">
+          Configurăm și optimizăm campanii Google Ads, Facebook și Instagram Ads pe audiența ta exactă — Lead Generation, remarketing și Google Shopping. Lucrăm pe conversii și ROI, nu pe cifre de vanitate.
+        </p>
+
+        <div class="ads-hero__pts">
+          <div class="ads-pt"><span class="ads-pt-dot">✓</span><span>Targetare precisă pe audiență</span></div>
+          <div class="ads-pt"><span class="ads-pt-dot">✓</span><span>Urmărire conversii corectă</span></div>
+          <div class="ads-pt"><span class="ads-pt-dot">✓</span><span>Remarketing &amp; automatizări</span></div>
+          <div class="ads-pt"><span class="ads-pt-dot">✓</span><span>Raportare lunară transparentă</span></div>
+        </div>
+
+        <div class="ads-hero__cta">
+          <a href="/contact/" class="btn btn-solid">Solicită ofertă</a>
+          <a href="tel:+40771486499" class="btn btn-ghost">Sună: 0771 486 499</a>
+        </div>
+      </div>
+
+      <div class="ads-hero__visual rv rv-d2">
+        <div class="ads-hero__panel" aria-hidden="true">
+          <div class="ads-panel__bar">
+            <span class="ads-panel__title"><i class="fa-solid fa-chart-line"></i> Performanță campanii</span>
+            <span class="ads-panel__live">Activ</span>
+          </div>
+          <div class="ads-panel__stats">
+            <div class="ads-panel__stat">
+              <div class="ads-panel__stat-num">14.2k</div>
+              <div class="ads-panel__stat-lbl">Afișări</div>
+            </div>
+            <div class="ads-panel__stat">
+              <div class="ads-panel__stat-num">486</div>
+              <div class="ads-panel__stat-lbl">Click-uri</div>
+            </div>
+            <div class="ads-panel__stat">
+              <div class="ads-panel__stat-num acc">62</div>
+              <div class="ads-panel__stat-lbl">Lead-uri</div>
+            </div>
+          </div>
+          <div class="ads-panel__chart">
+            <div class="ads-panel__chart-top">
+              <span class="ads-panel__chart-lbl">Conversii / săptămână</span>
+              <span class="ads-panel__chart-val">↑ 38%</span>
+            </div>
+            <div class="ads-panel__bars">
+              <span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="ads-intro" aria-labelledby="ads-intro-h2">
+  <div class="wrap">
+    <div class="ads-intro__inner rv">
+
+      <h2 id="ads-intro-h2">Agenție Google Ads &amp; Meta Ads pentru rezultate măsurabile</h2>
+      <p>
+        Suntem o <strong>agenție de publicitate online din Iași</strong> care construiește campanii PPC pe <strong>Google Ads</strong>, <strong>Facebook</strong> și <strong>Instagram Ads</strong>, orientate pe un singur lucru: <strong>clienți reali și vânzări</strong>. Nu rulăm bugete „ca să fie” — fiecare campanie are obiective clare, urmărire a conversiilor și o strategie de licitare gândită pentru profit, nu pentru click-uri goale.
+      </p>
+      <p>
+        Acoperim întregul spectru: <strong>Lead Generation</strong> pentru servicii și B2B, <strong>remarketing și automatizări</strong> care recuperează vizitatorii care nu au cumpărat, și <strong>Google Shopping</strong> pentru magazinele online care vor să-și afișeze produsele direct în rezultatele Google. Lucrăm pentru clienți din Iași și din toată țara. <a href="/contact/">Cere o ofertă personalizată →</a>
+      </p>
+
+      <h2>Bugetul de publicitate este separat de costul de management</h2>
+      <p>
+        Vrem să fie clar de la început: <strong>tariful nostru de management acoperă strategia, crearea anunțurilor, implementarea, optimizarea și raportarea</strong>. Banii pe care îi cheltui efectiv pe reclame se plătesc <strong>direct către Google și Meta</strong> și sunt separați de costul colaborării cu noi. Așa ai control total asupra bugetului media și o factură transparentă, fără comisioane ascunse.
+      </p>
+      <p>
+        Recomandăm bugetul media în funcție de obiective și de piața ta, iar tu decizi cât investești lunar în platforme. <a href="#ads-faq">Vezi întrebările frecvente →</a>
+      </p>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="ads-include" aria-labelledby="ads-include-h2">
+  <div class="wrap">
+
+    <div class="ads-include__head rv">
+      <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Ce includem</div>
+      <h2 class="ads-include__h2" id="ads-include-h2">Tot ce ține de o campanie <span class="acc">care performează</span></h2>
+      <p class="ads-include__sub">
+        De la prima analiză a audienței până la raportul lunar, ne ocupăm complet de campaniile tale — tu primești rezultate, nu bătăi de cap.
+      </p>
+    </div>
+
+    <div class="ads-include__grid rv rv-d1">
+      <div class="ads-icard">
+        <div class="ads-icard__ico"><i class="fa-solid fa-bullseye"></i></div>
+        <h3>Strategie &amp; audiențe</h3>
+        <p>Analizăm piața, definim obiectivele și construim audiențele exacte pe care merită să investești — după interese, comportament, locație și intenție de cumpărare.</p>
+      </div>
+      <div class="ads-icard">
+        <div class="ads-icard__ico"><i class="fa-solid fa-pen-nib"></i></div>
+        <h3>Creație anunțuri</h3>
+        <p>Realizăm conținutul vizual și textul publicitar pentru Google, Facebook și Instagram. Anunțuri care opresc scroll-ul și transmit clar oferta ta.</p>
+      </div>
+      <div class="ads-icard">
+        <div class="ads-icard__ico"><i class="fa-solid fa-gauge-high"></i></div>
+        <h3>Implementare &amp; tracking</h3>
+        <p>Configurăm corect campaniile, conversiile și pixelii (Google Tag, Meta Pixel) ca să măsurăm exact ce aduce vânzări — nu doar trafic.</p>
+      </div>
+      <div class="ads-icard">
+        <div class="ads-icard__ico"><i class="fa-solid fa-chart-pie"></i></div>
+        <h3>Optimizare &amp; raportare</h3>
+        <p>Optimizăm continuu licitările, audiențele și anunțurile, apoi îți trimitem un raport lunar clar cu cost per lead, conversii și ROI.</p>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
+<section class="ads-prices" id="preturi" aria-labelledby="ads-prices-h2">
+  <div class="wrap">
+
+    <div class="ads-prices__head rv">
+      <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Pachete &amp; prețuri</div>
+      <h2 class="ads-prices__h2" id="ads-prices-h2">
+        Prețuri management campanii —<br><span class="acc">3 pachete clare</span>
+      </h2>
+      <p class="ads-prices__sub">
+        Prețurile de mai jos sunt pentru managementul campaniilor. Bugetul plătit platformelor (Google / Meta) este separat. Primești ofertă personalizată în 24 de ore.
+      </p>
+    </div>
+
+    <div class="ads-pkg-grid">
+
+      <div class="ads-pkg featured rv">
+        <span class="ads-pkg__badge">Recomandat</span>
+        <div class="ads-pkg__name">Remarketing &amp; Automatizări</div>
+        <div class="ads-pkg__price">600€</div>
+        <div class="ads-pkg__price-note">Management campanie</div>
+        <p class="ads-pkg__desc">
+          Recuperează vizitatorii care nu au cumpărat și crește rata de conversie cu anunțuri personalizate și email-uri automate. Cel mai bun raport rezultat/investiție.
+        </p>
+        <div class="ads-pkg__feats">
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Anunțuri personalizate Google + Facebook</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Email-uri automate de follow-up</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Email coș abandonat</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Targetare pe istoricul de navigare</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Optimizare continuă</span></div>
+        </div>
+        <a href="/contact/" class="btn btn-solid" style="justify-content:center">Solicită oferta</a>
+      </div>
+
+      <div class="ads-pkg rv rv-d1">
+        <div class="ads-pkg__name">Google Shopping</div>
+        <div class="ads-pkg__price">500€</div>
+        <div class="ads-pkg__price-note">Sau 300€ / produs</div>
+        <p class="ads-pkg__desc">
+          Pentru magazine online: afișăm produsele tale direct în Google, în fața clienților cu intenție mare de cumpărare.
+        </p>
+        <div class="ads-pkg__feats">
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Setup Google Merchant Center</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Optimizare feed produse</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Smart sau Standard Shopping</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Strategie de licitare optimizată</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Monitorizare &amp; optimizare lunară</span></div>
+        </div>
+        <a href="/contact/" class="btn btn-ghost" style="justify-content:center">Solicită oferta</a>
+      </div>
+
+      <div class="ads-pkg rv rv-d2">
+        <div class="ads-pkg__name">Lead Generation</div>
+        <div class="ads-pkg__price">200€</div>
+        <div class="ads-pkg__price-note">Per campanie</div>
+        <p class="ads-pkg__desc">
+          Punctul de start ideal: campanii Google, Facebook sau Instagram pentru atragerea de clienți calificați către serviciul tău.
+        </p>
+        <div class="ads-pkg__feats">
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Minimum 2 postări publicitare</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Conținut vizual + text</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Strategie de campanie</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Implementare + monitorizare</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>2-3 optimizări</span></div>
+        </div>
+        <a href="/contact/" class="btn btn-ghost" style="justify-content:center">Solicită oferta</a>
+      </div>
+
+    </div>
+
+    <p class="ads-pkg__note rv">
+      <strong>Important:</strong> prețurile de mai sus acoperă strategia, creația, implementarea, optimizarea și raportarea campaniilor. <strong>Bugetul de publicitate</strong> (sumele cheltuite efectiv pe reclame) se plătește direct către Google și Meta și nu este inclus în costul de management.
+    </p>
+
+  </div>
+</section>
+
+
+<section class="ads-process" aria-labelledby="ads-process-h2">
+  <div class="wrap">
+
+    <div class="ads-process__head rv">
+      <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Cum lucrăm</div>
+      <h2 class="ads-process__h2" id="ads-process-h2">De la brief la <span class="acc">primele conversii</span></h2>
+    </div>
+
+    <div class="ads-process__list rv rv-d1">
+      <article class="ads-step">
+        <div class="ads-step__n">01</div>
+        <h3>Analiză &amp; strategie</h3>
+        <p>Înțelegem afacerea, oferta și clientul ideal. Stabilim obiectivele, platformele potrivite și audiențele pe care merită să investim.</p>
+      </article>
+      <article class="ads-step">
+        <div class="ads-step__n">02</div>
+        <h3>Creație &amp; setup</h3>
+        <p>Realizăm anunțurile (vizual + text), configurăm campaniile, conversiile și tracking-ul corect pe Google și Meta.</p>
+      </article>
+      <article class="ads-step">
+        <div class="ads-step__n">03</div>
+        <h3>Lansare &amp; testare</h3>
+        <p>Pornim campaniile și testăm mai multe variante de anunțuri și audiențe ca să găsim ce aduce cele mai bune rezultate.</p>
+      </article>
+      <article class="ads-step">
+        <div class="ads-step__n">04</div>
+        <h3>Optimizare &amp; raport</h3>
+        <p>Optimizăm continuu și îți trimitem lunar un raport clar: cost per lead, conversii, vânzări și pașii următori.</p>
+      </article>
+    </div>
+
+  </div>
+</section>
+
+
+<section class="ads-faq" id="ads-faq" aria-labelledby="ads-faq-h2">
+  <div class="wrap">
+
+    <div class="ads-faq__head rv">
+      <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Întrebări frecvente</div>
+      <h2 class="ads-faq__h2" id="ads-faq-h2">Ce trebuie să știi despre <span class="acc">campaniile plătite</span></h2>
+    </div>
+
+    <div class="ads-faq__list rv rv-d1">
+
+      <details class="ads-faq-item">
+        <summary>Care e bugetul minim de publicitate?</summary>
+        <p>Depinde de platformă și de obiective. Pentru Lead Generation pe servicii locale, un buget media de <strong>300-500€/lună</strong> este un punct de pornire realist; pentru Google Shopping sau remarketing pe magazine online, recomandăm de la <strong>500€/lună</strong> în sus. Cu cât bugetul e mai mare și constant, cu atât costul per lead scade, pentru că algoritmii au mai multe date de optimizare. Îți recomandăm bugetul exact după ce înțelegem afacerea ta.</p>
+      </details>
+
+      <details class="ads-faq-item">
+        <summary>Costul de management include și bugetul de ads?</summary>
+        <p><strong>Nu.</strong> Tariful nostru (de exemplu 200€ pentru o campanie de Lead Generation sau 600€ pentru Remarketing &amp; Automatizări) acoperă strategia, crearea anunțurilor, implementarea, optimizarea și raportarea. <strong>Bugetul de publicitate</strong> — banii cheltuiți efectiv pe reclame — se plătește direct către Google și Meta, din contul tău, și este complet separat de costul colaborării cu noi. Așa ai control total asupra bugetului media și transparență deplină.</p>
+      </details>
+
+      <details class="ads-faq-item">
+        <summary>Pe ce platforme rulați campanii?</summary>
+        <p>Rulăm campanii pe <strong>Google Ads</strong> (Search, Display, Shopping, YouTube), pe <strong>Facebook Ads</strong> și pe <strong>Instagram Ads</strong>. Alegem combinația potrivită în funcție de unde se află clienții tăi: Google pentru cei care caută activ un serviciu sau produs, Meta pentru a-i atrage și a face remarketing. Pentru magazinele online, recomandăm Google Shopping pentru clienții cu intenție mare de cumpărare.</p>
+      </details>
+
+      <details class="ads-faq-item">
+        <summary>Cât durează până vin primele rezultate?</summary>
+        <p>Campaniile pot genera primele click-uri și lead-uri în <strong>câteva zile</strong> de la lansare. Totuși, primele 2-3 săptămâni sunt o perioadă de învățare: testăm anunțuri, audiențe și licitări ca să găsim ce funcționează. Rezultatele stabile și un cost per lead optimizat apar de regulă după <strong>4-6 săptămâni</strong> de rulare și optimizare continuă.</p>
+      </details>
+
+      <details class="ads-faq-item">
+        <summary>Lucrați cu magazine online (Shopping)?</summary>
+        <p>Da. Pentru magazinele online configurăm <strong>Google Shopping</strong>: setup Google Merchant Center, optimizarea feed-ului de produse, campanii Smart sau Standard Shopping și o strategie de licitare gândită pentru profit. Combinăm Shopping cu remarketing și email-uri de coș abandonat pentru a recupera vânzările pierdute. Dacă nu ai încă magazin, te putem ajuta și cu <a href="/creare-magazin-online/">crearea unui magazin online</a>.</p>
+      </details>
+
+      <details class="ads-faq-item">
+        <summary>Cum raportați performanța?</summary>
+        <p>Primești un <strong>raport lunar clar</strong>, fără jargon: afișări, click-uri, cost per click, lead-uri sau vânzări, cost per lead și ROI. Nu ne ascundem după „cifre de vanitate” — ne uităm la ce contează cu adevărat pentru afacerea ta. Îți explicăm ce am optimizat, ce a funcționat și ce propunem pentru luna următoare.</p>
+      </details>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="ads-cta" aria-labelledby="ads-cta-h2">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="ads-cta__h2" id="ads-cta-h2">
+        Gata să atragi<br>
+        <span class="acc">clienți prin Ads?</span>
+      </h2>
+      <p class="ads-cta__p">
+        Spune-ne despre afacerea ta și primești o ofertă personalizată în maxim 24 de ore. Consultanță gratuită, fără obligații.
+      </p>
+      <div class="ads-cta__btns">
+        <a href="/contact/" class="btn btn-solid">Solicită ofertă</a>
+        <a href="tel:+40771486499" class="btn btn-dark">Sună acum: 0771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Servicii conexe și prețuri transparente">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Nu lucrăm cu tarife ascunse sau surprize în factură. Toate pachetele și prețurile noastre sunt publice — alegi în cunoștință de cauză, fără presiune.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Continuă cu</div>
+      <div class="rel-links__grid">
+        <a href="/optimizare-seo/" class="rel-link"><span class="rel-link__name">SEO & content <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Ajungi pe prima pagină Google, organic.</span></a>
+        <a href="/social-media-management/" class="rel-link"><span class="rel-link__name">Social media <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Strategie, conținut și administrare pe rețele.</span></a>
+        <a href="/creare-magazin-online/" class="rel-link"><span class="rel-link__name">Creare magazin online <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">WooCommerce și Shopify optimizate pentru vânzări.</span></a>
+        <a href="/portofoliu/" class="rel-link"><span class="rel-link__name">Portofoliu <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Proiecte reale livrate de echipa noastră.</span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+12:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$1a"}}]
+13:["$","$L1b",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1d:I[27201,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"IconMark"]
+19:[["$","title","0",{"children":"Google & Meta Ads (PPC) Iași — Campanii care aduc clienți | Visience"}],["$","meta","1",{"name":"description","content":"Agenție Google Ads, Facebook și Instagram Ads din Iași. Lead Generation, remarketing și Google Shopping pe conversii și ROI. Ofertă în 24h."}],["$","link","2",{"rel":"canonical","href":"https://visience.ro/google-meta-ads/"}],["$","meta","3",{"property":"og:title","content":"Google & Meta Ads (PPC) — Visience Iași"}],["$","meta","4",{"property":"og:description","content":"Campanii PPC pe Google, Facebook și Instagram, orientate pe conversii și ROI. Lead Generation, remarketing și Google Shopping."}],["$","meta","5",{"property":"og:url","content":"https://visience.ro/google-meta-ads/"}],["$","meta","6",{"property":"og:locale","content":"ro_RO"}],["$","meta","7",{"property":"og:image","content":"https://visience.ro/media/og-visience.jpg"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Agenție de Marketing & Creare Site-uri în Iași | Visience"}],["$","meta","11",{"name":"twitter:description","content":"Branding, website-uri, magazine online, Google & Meta Ads, SEO. Prețuri publice, fără costuri ascunse."}],["$","meta","12",{"name":"twitter:image","content":"https://visience.ro/media/og-visience.jpg"}],["$","link","13",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L1d","14",{}]]
+1c:null

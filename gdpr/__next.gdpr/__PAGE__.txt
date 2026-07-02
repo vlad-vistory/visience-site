@@ -1,0 +1,34 @@
+1:"$Sreact.fragment"
+3:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+:HL["/_next/static/chunks/1mvqsvr3qlqt5.css","style"]
+2:T99e,<p>Începând cu 25 mai 2018 se aplică Regulamentul (UE) 2016/679 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal (GDPR). Pe această pagină găsești, pe scurt, cine îți prelucrează datele atunci când folosești www.visience.ro și ce drepturi ai.</p>
+
+<h2>Operatorul de date</h2>
+<p><strong>Visience Creative Experience SRL</strong>, Bulevardul Nicolae Iorga 18, Iași 700224, România, CUI RO44755311.<br>
+Email: <a href="mailto:contact@visience.ro">contact@visience.ro</a> · Telefon: +40 771 486 499</p>
+
+<h2>Ce date prelucrăm și de ce</h2>
+<p>Prelucrăm doar datele pe care ni le furnizezi voluntar — nume, email, număr de telefon, detalii despre proiect — atunci când ne contactezi prin formular, email, telefon sau WhatsApp, în scopul de a-ți răspunde la solicitare și de a-ți transmite oferta cerută. La vizitarea site-ului pot fi prelucrate date tehnice (adresă IP, dată și oră) și module cookie, conform <a href="/politica-cookies/">Politicii de cookies</a>.</p>
+
+<h2>Drepturile tale</h2>
+<ul>
+<li>dreptul de acces la datele tale și de a primi o copie a lor;</li>
+<li>dreptul la rectificarea datelor incorecte sau incomplete;</li>
+<li>dreptul la ștergerea datelor („dreptul de a fi uitat");</li>
+<li>dreptul la restricționarea prelucrării și dreptul la opoziție;</li>
+<li>dreptul la portabilitatea datelor;</li>
+<li>dreptul de a-ți retrage oricând consimțământul, fără a afecta legalitatea prelucrărilor anterioare;</li>
+<li>dreptul de a depune o plângere la autoritatea de supraveghere.</li>
+</ul>
+<p>Pentru exercitarea oricărui drept, scrie-ne la <a href="mailto:contact@visience.ro">contact@visience.ro</a>. Răspundem în termenele prevăzute de lege.</p>
+
+<h2>Autoritatea de supraveghere</h2>
+<p>Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal (ANSPDCP), Bd. Gheorghe Magheru nr. 28-30, București — <a href="https://www.dataprotection.ro/" target="_blank" rel="noopener noreferrer">dataprotection.ro</a>.</p>
+
+<h2>Mai multe detalii</h2>
+<p>Modul complet în care colectăm, folosim și protejăm datele este descris în <a href="/politica-de-confidentialitate/">Politica de confidențialitate</a> și în <a href="/politica-cookies/">Politica de cookies</a>. Condițiile de utilizare a site-ului sunt în <a href="/termeni-si-conditii/">Termeni și Condiții</a>.</p>
+
+<p>Ultima actualizare: 29 iunie 2026.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"GDPR"}]]}],["$","header",null,{"className":"blog-article__head","children":["$","h1",null,{"children":"GDPR — Protecția datelor"}]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$2"}}]]}]}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1mvqsvr3qlqt5.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XLiQQktmqJoG3-3IBETrL"}
+5:null

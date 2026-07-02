@@ -1,0 +1,1183 @@
+1:"$Sreact.fragment"
+b:I[68027,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"default",1]
+:HL["/_next/static/chunks/3b23shbd_73w9.css","style"]
+:HL["/_next/static/media/017d9bea37084d9b-s.p.41rroleoq1br7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/26daee0352f50a5f-s.p.2e115y8-hourl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/36363bfb06833f56-s.p.38hmww4cj4vme.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5c285b27cdda1fe8-s.p.2_mbdogr7ni8i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a73419dd2ba2d841-s.p.2yee423r7ahpo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b12e986493c137cf-s.p.2njitm-prmz2_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b2fa3ef4ca165ab4-s.p.12_ml6bnugnre.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c3cb240f9c892514-s.p.3z_x6eowsw16y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css","style"]
+2:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}3:Tb9a,<header class="nav" id="nav" role="banner">
+  <div class="wrap nav__in">
+    <a href="/" class="nav__logo" aria-label="Visience — Acasă">
+      <img class="nav__logo-img nav__logo-img--light" src="/media/sigla-mark-visience-new-colors.avif"
+           alt="Visience" width="160" height="30" fetchpriority="high">
+      <img class="nav__logo-img nav__logo-img--dark" src="/media/sigla-visience-dark.avif"
+           alt="" aria-hidden="true" width="160" height="30">
+    </a>
+
+    <nav class="nav__links" aria-label="Navigare principală">
+      <div class="nav__has-drop">
+        <a href="/#servicii">Servicii</a>
+        <div class="nav__drop">
+          <a href="/creare-site-prezentare/">Creare site de prezentare</a>
+          <a href="/creare-magazin-online/">Creare magazin online</a>
+          <a href="/branding-identitate-vizuala/">Branding &amp; identitate</a>
+          <a href="/social-media-management/">Social media</a>
+          <a href="/google-meta-ads/">Google &amp; Meta Ads</a>
+          <a href="/optimizare-seo/">SEO &amp; content</a>
+          <a href="/dezvoltare-software/">Dezvoltare software</a>
+          <a href="/marketing-dezvoltatori-imobiliari/">Marketing imobiliar</a>
+        </div>
+      </div>
+      <a href="/portofoliu/">Proiecte</a>
+      <a href="/preturi/">Prețuri</a>
+      <a href="/blog/">Blog</a>
+      <a href="/#rezultate">Rezultate</a>
+      <a href="/#despre">Despre</a>
+      <a href="/contact/">Contact</a>
+    </nav>
+
+    <a href="/#contact" class="nav__cta">Solicită ofertă</a>
+
+    <button class="nav__burger" id="navBurger"
+            aria-label="Deschide meniul" aria-expanded="false" aria-controls="navMob">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<nav class="nav__mob" id="navMob" aria-label="Meniu mobil">
+  <a href="/#servicii"  class="nm-l">Servicii</a>
+  <a href="/creare-site-prezentare/" class="nm-l nm-sub">Creare site de prezentare</a>
+  <a href="/creare-magazin-online/" class="nm-l nm-sub">Creare magazin online</a>
+  <a href="/branding-identitate-vizuala/" class="nm-l nm-sub">Branding &amp; identitate</a>
+  <a href="/social-media-management/" class="nm-l nm-sub">Social media</a>
+  <a href="/google-meta-ads/" class="nm-l nm-sub">Google &amp; Meta Ads</a>
+  <a href="/optimizare-seo/" class="nm-l nm-sub">SEO &amp; content</a>
+  <a href="/dezvoltare-software/" class="nm-l nm-sub">Dezvoltare software</a>
+  <a href="/marketing-dezvoltatori-imobiliari/" class="nm-l nm-sub">Marketing imobiliar</a>
+  <a href="/portofoliu/"  class="nm-l">Proiecte</a>
+  <a href="/preturi/"    class="nm-l">Prețuri</a>
+  <a href="/blog/"       class="nm-l">Blog</a>
+  <a href="/#rezultate" class="nm-l">Rezultate</a>
+  <a href="/#despre"    class="nm-l">Despre</a>
+  <a href="/contact/"    class="nm-l">Contact</a>
+  <a href="/#contact" class="btn btn-solid" style="margin-top:8px">Solicită ofertă</a>
+</nav>
+0:{"P":null,"c":["","marketing-dezvoltatori-imobiliari",""],"q":"","i":false,"f":[[["",{"children":["marketing-dezvoltatori-imobiliari",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0a_4n0l8z1myf.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"bricolage_grotesque_4d7004bd-module__Hoo0MG__variable dm_sans_371c950d-module__4cga4q__variable dm_mono_6c018cca-module__6UXbpq__variable","children":[["$","head",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5","$L6"]}]]}]]}],{"children":["$L7",{"children":["$L8",{},null,false,null]},null,false,"$@9"]},null,false,null],"$La",false]],"m":"$undefined","G":["$b",["$Lc"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"XLiQQktmqJoG3-3IBETrL"}
+d:I[39756,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
+e:I[37457,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
+10:I[27961,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
+15:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"ViewportBoundary"]
+17:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"MetadataBoundary"]
+18:"$Sreact.suspense"
+4:["$","$Ld",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Le",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
+f:T13f0,<footer class="footer" role="contentinfo">
+  <div class="wrap">
+
+    <div class="footer__grid">
+
+      <div>
+        <div class="footer__logo">
+          <img src="/media/sigla-mark-visience-new-colors.avif"
+               alt="Visience" width="148" height="28" loading="lazy">
+        </div>
+
+        <p class="footer__brand">
+          Agenție de marketing digital cu 12 ani de experiență. Transformăm imaginea companiilor prin branding, website, social media și marketing precis configurat.
+        </p>
+
+        <p class="footer__trust">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M20 6 9 17l-5-5"/>
+          </svg>
+          Prețuri publice, fără costuri ascunse — <a href="/preturi/">vezi prețurile</a>.
+        </p>
+
+        <div class="footer__contact">
+          <a href="tel:+40771486499">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.67A2 2 0 012 .92h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L6.91 8.09a16 16 0 006 6l1.27-.83a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/>
+            </svg>
+            +40 771 486 499
+          </a>
+          <a href="mailto:contact@visience.ro">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+              <polyline points="22,6 12,13 2,6"/>
+            </svg>
+            contact@visience.ro
+          </a>
+        </div>
+
+        <div class="footer__anpc">
+          <a class="anpc-b" href="https://anpc.ro/" target="_blank" rel="noopener noreferrer"
+             aria-label="ANPC — Autoritatea Națională pentru Protecția Consumatorilor">
+            <img src="https://anpc.ro/wp-content/themes/anpc/img/anpc_logo.png"
+                 alt="ANPC" width="50" height="18" loading="lazy"
+                 onerror="this.style.display='none'">
+            ANPC
+          </a>
+          <a class="anpc-b" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage"
+             target="_blank" rel="noopener noreferrer"
+             aria-label="SOL — Soluționare Online a Litigiilor">
+            SOL
+          </a>
+        </div>
+      </div>
+
+      <nav aria-label="Servicii">
+        <div class="footer__col-title">Servicii</div>
+        <ul class="footer__links">
+          <li><a href="/creare-site-prezentare/">Creare site de prezentare</a></li>
+          <li><a href="/creare-site-prezentare-iasi/">Creare site de prezentare Iași</a></li>
+          <li><a href="/creare-magazin-online/">Creare magazin online</a></li>
+          <li><a href="/branding-identitate-vizuala/">Branding &amp; identitate</a></li>
+          <li><a href="/social-media-management/">Social Media</a></li>
+          <li><a href="/google-meta-ads/">Google &amp; Meta Ads</a></li>
+          <li><a href="/optimizare-seo/">SEO &amp; Content</a></li>
+          <li><a href="/dezvoltare-software/">Dezvoltare software</a></li>
+          <li><a href="/marketing-dezvoltatori-imobiliari/">Marketing imobiliar</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Companie">
+        <div class="footer__col-title">Companie</div>
+        <ul class="footer__links">
+          <li><a href="/portofoliu/">Portofoliu</a></li>
+          <li><a href="/parteneri/">Parteneri</a></li>
+          <li><a href="/blog/">Blog</a></li>
+          <li><a href="/preturi/">Prețuri</a></li>
+          <li><a href="/#rezultate">Studii de caz</a></li>
+          <li><a href="/#despre">Despre noi</a></li>
+          <li><a href="/contact/">Contact</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Legal">
+        <div class="footer__col-title">Legal &amp; GDPR</div>
+        <ul class="footer__links">
+          <li><a href="/termeni-si-conditii/">Termeni și Condiții</a></li>
+          <li><a href="/politica-de-confidentialitate/">Politică Confidențialitate</a></li>
+          <li><a href="/politica-cookies/">Politică Cookies</a></li>
+        </ul>
+      </nav>
+
+    </div>
+
+    <div class="footer__bottom">
+      <div class="footer__bottom-in">
+        <p class="footer__copy">
+          © 2026 Visience Creative Experience SRL · Toate drepturile rezervate
+        </p>
+        <div class="footer__legal">
+          <a href="/termeni-si-conditii/">Termeni</a>
+          <a href="/politica-de-confidentialitate/">Confidențialitate</a>
+          <a href="/politica-cookies/">Cookies</a>
+          <a href="/gdpr/">GDPR</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</footer>
+5:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}]
+6:["$","$L10",null,{}]
+7:["$","$1","c",{"children":[null,["$","$Ld",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Le",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+11:Tac0,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari/#service","name":"Marketing imobiliar pentru dezvoltatori","serviceType":"Marketing și branding pentru ansambluri rezidențiale","description":"Branding de ansamblu, website cu pagini de apartamente, campanii Google și Meta Ads, producție vizuală și CRM pentru dezvoltatori imobiliari.","provider":{"@type":"Organization","name":"Visience Creative Experience","url":"https://visience.ro/"},"areaServed":{"@type":"Country","name":"România"}},{"@type":"FAQPage","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari/#faq","mainEntity":[{"@type":"Question","name":"În cât timp pot lansa site-ul ansamblului meu?","acceptedAnswer":{"@type":"Answer","text":"De la brief la live: 4–8 săptămâni. Site-uri simple cu 5–7 pagini pot fi gata în 4 săptămâni; pentru cartiere mari cu 15+ pagini și configurator de apartamente, planificăm 8 săptămâni."}},{"@type":"Question","name":"Cât cheltui lunar pe Google și Meta Ads?","acceptedAnswer":{"@type":"Answer","text":"Bugetul de Ads nu e inclus în pachete — îl plătești direct la Google și Meta. Recomandăm minim 1.000€/lună pe Google + 800€/lună pe Meta pentru un cartier mediu."}},{"@type":"Question","name":"Aveți experiență cu vânzări pe credit ipotecar?","acceptedAnswer":{"@type":"Answer","text":"Da. Site-urile includ pagini despre opțiunile de plată, simulator credit și parteneri bancari. Lucrăm cu agenți de creditare pentru a integra un calculator interactiv."}},{"@type":"Question","name":"Puteți colabora cu agenția de PR sau agentul imobiliar al meu?","acceptedAnswer":{"@type":"Answer","text":"Da, lucrăm frecvent în echipe extinse: cu agentul imobiliar pentru lead handover, cu PR-ul pentru consistența mesajului și cu fotografi/3D pentru asset-uri vizuale."}},{"@type":"Question","name":"Ce se întâmplă după sold-out? Mai am nevoie de site?","acceptedAnswer":{"@type":"Answer","text":"Păstrăm site-ul live pentru încrederea de brand și reducem bugetul de Ads la minimum. Dacă lansezi următoarea fază, începem ușor — brandul și CRM-ul există deja."}},{"@type":"Question","name":"Lucrați și cu dezvoltatori din afara Iașiului?","acceptedAnswer":{"@type":"Answer","text":"Da. Avem clienți în București, Cluj, Timișoara, Brașov și internațional (Italia, Franța, Germania). Colaborarea se poate face complet remote."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Marketing dezvoltatori imobiliari","item":"https://visience.ro/marketing-dezvoltatori-imobiliari/"}]}]}12:T7fee,<style>
+@keyframes chipP {
+  0%, 100% { opacity: 1;  transform: scale(1);   }
+  50%      { opacity: .3; transform: scale(.65); }
+}
+
+.dev-page { background: var(--cream); }
+
+.dev-section__head {
+  margin-bottom: clamp(40px, 6vw, 70px);
+  max-width: 760px;
+}
+.dev-section__head h2 { margin-bottom: 16px; }
+.dev-section__head h2 .hi {
+  color: var(--mid);
+  font-style: italic;
+  font-weight: 300;
+}
+
+.dev-hero {
+  padding: clamp(80px, 12vw, 150px) 0 clamp(70px, 10vw, 120px);
+  background: var(--ink);
+  color: var(--white);
+  position: relative;
+  overflow: hidden;
+}
+.dev-hero::before {
+  content: '';
+  position: absolute;
+  top: -100px; right: -200px;
+  width: 600px; height: 600px;
+  background: radial-gradient(circle, rgba(232,152,10,.15) 0%, transparent 60%);
+  pointer-events: none;
+}
+.dev-hero::after {
+  content: '';
+  position: absolute;
+  bottom: -200px; left: -200px;
+  width: 500px; height: 500px;
+  background: radial-gradient(circle, rgba(232,152,10,.08) 0%, transparent 60%);
+  pointer-events: none;
+}
+.dev-hero > .wrap { position: relative; z-index: 1; max-width: 880px; }
+
+.dev-hero__chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 7px 16px;
+  margin-bottom: 32px;
+  border: 1px solid rgba(232,152,10,.35);
+  border-radius: 100px;
+  background: rgba(232,152,10,.12);
+}
+.dev-hero__chip-dot {
+  width: 7px; height: 7px;
+  border-radius: 50%;
+  background: var(--acc2);
+  animation: chipP 2.4s ease-in-out infinite;
+}
+.dev-hero__chip span {
+  font-family: var(--f-m);
+  font-size: 10px;
+  letter-spacing: .16em;
+  text-transform: uppercase;
+  color: var(--acc2);
+}
+
+.dev-hero__h { color: var(--white); margin-bottom: 28px; }
+.dev-hero__h .hi {
+  font-weight: 300;
+  font-style: italic;
+  color: rgba(255,255,255,.5);
+}
+.dev-hero__sub {
+  max-width: 620px;
+  color: rgba(255,255,255,.65);
+  margin-bottom: 36px;
+}
+
+.dev-hero__acts {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 64px;
+}
+.dev-hero .btn-ghost {
+  border-color: rgba(255,255,255,.25);
+  color: var(--white);
+}
+.dev-hero .btn-ghost:hover {
+  background: rgba(255,255,255,.08);
+  border-color: var(--acc);
+  color: var(--acc2);
+}
+
+.dev-hero__stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 40px;
+  padding-top: 40px;
+  border-top: 1px solid rgba(255,255,255,.1);
+}
+.dev-hero__stat { display: flex; flex-direction: column; }
+.dev-hero__stat .num {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(28px, 3.8vw, 44px);
+  color: var(--acc2);
+  letter-spacing: -.03em;
+  line-height: 1;
+  margin-bottom: 8px;
+}
+.dev-hero__stat .lbl {
+  font-family: var(--f-m);
+  font-size: 10px;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: rgba(255,255,255,.5);
+}
+
+.dev-pain {
+  padding: clamp(70px, 10vw, 130px) 0;
+  background: var(--white);
+}
+.dev-pain__grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+.dev-pain-card {
+  background: var(--cream);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 32px 26px 30px;
+  transition: .3s;
+}
+.dev-pain-card:hover {
+  border-color: rgba(232,152,10,.3);
+  transform: translateY(-4px);
+  box-shadow: 0 18px 36px rgba(17,16,16,.06);
+}
+.dev-pain-card__ico {
+  width: 48px; height: 48px;
+  border-radius: 12px;
+  background: var(--acc-bg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 22px;
+  color: var(--acc);
+  font-size: 20px;
+  transition: .3s;
+}
+.dev-pain-card:hover .dev-pain-card__ico {
+  background: var(--acc);
+  color: var(--acc-ink);
+}
+.dev-pain-card h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.015em;
+  margin: 0 0 12px;
+  line-height: 1.2;
+}
+.dev-pain-card p {
+  font-size: 13px;
+  color: var(--mid);
+  line-height: 1.7;
+  font-weight: 300;
+  margin: 0;
+}
+
+.dev-portfolio {
+  padding: clamp(70px, 10vw, 130px) 0;
+  background: var(--cream);
+}
+.dev-portfolio__grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+}
+
+.dev-services {
+  padding: clamp(70px, 10vw, 130px) 0;
+  background: var(--white);
+}
+.dev-services__grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1px;
+  background: var(--border);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  overflow: hidden;
+}
+.dev-svc {
+  background: var(--white);
+  padding: 36px 30px 34px;
+  position: relative;
+  transition: background .3s;
+}
+.dev-svc:hover { background: var(--cream); }
+.dev-svc__num {
+  position: absolute;
+  top: 24px; right: 24px;
+  font-family: var(--f-m);
+  font-size: 10px;
+  letter-spacing: .12em;
+  color: var(--light);
+  font-weight: 500;
+}
+.dev-svc__ico {
+  font-size: 28px;
+  color: var(--acc);
+  margin-bottom: 22px;
+  display: block;
+}
+.dev-svc h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: -.015em;
+  margin: 0 0 12px;
+  color: var(--ink);
+  line-height: 1.2;
+}
+.dev-svc p {
+  font-size: 13px;
+  color: var(--mid);
+  line-height: 1.7;
+  font-weight: 300;
+  margin: 0;
+}
+
+.dev-process {
+  padding: clamp(70px, 10vw, 130px) 0;
+  background: var(--cream2);
+}
+.dev-process__list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+.dev-step {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 30px 28px;
+  transition: .3s;
+}
+.dev-step:hover {
+  border-color: rgba(232,152,10,.3);
+  transform: translateY(-4px);
+  box-shadow: 0 14px 28px rgba(17,16,16,.06);
+}
+.dev-step__n {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: 36px;
+  color: var(--acc);
+  letter-spacing: -.03em;
+  line-height: 1;
+  margin-bottom: 6px;
+}
+.dev-step__time {
+  font-family: var(--f-m);
+  font-size: 10px;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--light);
+  margin-bottom: 16px;
+}
+.dev-step h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.015em;
+  margin: 0 0 10px;
+  color: var(--ink);
+  line-height: 1.2;
+}
+.dev-step p {
+  font-size: 13px;
+  color: var(--mid);
+  line-height: 1.7;
+  font-weight: 300;
+  margin: 0;
+}
+
+.dev-results {
+  padding: clamp(70px, 10vw, 130px) 0;
+  background: var(--ink);
+  color: var(--white);
+}
+.dev-results .dev-section__head h2 { color: var(--white); }
+.dev-results .dev-section__head h2 .hi { color: rgba(255,255,255,.45); }
+.dev-results .eyebrow { color: var(--acc2); }
+.dev-results__grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  border: 1px solid rgba(255,255,255,.1);
+  border-radius: var(--rlg);
+  overflow: hidden;
+}
+.dev-result {
+  padding: 44px 30px;
+  border-right: 1px solid rgba(255,255,255,.1);
+}
+.dev-result:last-child { border-right: none; }
+.dev-result__num {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(36px, 4.5vw, 56px);
+  color: var(--acc2);
+  letter-spacing: -.03em;
+  line-height: 1;
+  margin-bottom: 12px;
+}
+.dev-result__lbl {
+  font-family: var(--f-m);
+  font-size: 11px;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: rgba(255,255,255,.55);
+  line-height: 1.6;
+}
+
+.dev-pricing {
+  padding: clamp(70px, 10vw, 130px) 0;
+  background: var(--cream);
+}
+.dev-pkg-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+.dev-pkg {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 32px 28px 30px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  transition: .3s;
+}
+.dev-pkg:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 40px rgba(17,16,16,.07);
+  border-color: rgba(232,152,10,.25);
+}
+.dev-pkg--featured {
+  border-color: var(--acc);
+  background: linear-gradient(170deg, var(--white) 0%, var(--acc-bg) 100%);
+}
+.dev-pkg__tag {
+  display: inline-flex;
+  align-self: flex-start;
+  padding: 5px 12px;
+  background: var(--cream);
+  border: 1px solid var(--border);
+  border-radius: 100px;
+  font-family: var(--f-m);
+  font-size: 10px;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--mid);
+  margin-bottom: 18px;
+  font-weight: 500;
+}
+.dev-pkg--featured .dev-pkg__tag {
+  background: var(--acc);
+  color: var(--acc-ink);
+  border-color: var(--acc);
+}
+.dev-pkg__h {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: 24px;
+  letter-spacing: -.02em;
+  margin: 0 0 16px;
+  color: var(--ink);
+}
+.dev-pkg__price {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 16px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--border);
+}
+.dev-pkg__from {
+  font-family: var(--f-m);
+  font-size: 10px;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--light);
+  margin-bottom: 4px;
+}
+.dev-pkg__amt {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: 38px;
+  letter-spacing: -.03em;
+  color: var(--acc);
+  line-height: 1;
+  margin-bottom: 4px;
+}
+.dev-pkg__unit {
+  font-family: var(--f-m);
+  font-size: 11px;
+  color: var(--mid);
+  letter-spacing: .04em;
+}
+.dev-pkg__desc {
+  font-size: 13px;
+  color: var(--mid);
+  line-height: 1.7;
+  font-weight: 300;
+  margin: 0 0 20px;
+}
+.dev-pkg__list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 28px;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+}
+.dev-pkg__list li {
+  font-size: 13px;
+  color: var(--ink);
+  line-height: 1.5;
+  position: relative;
+  padding-left: 22px;
+}
+.dev-pkg__list li::before {
+  content: '';
+  position: absolute;
+  left: 0; top: 5px;
+  width: 14px; height: 14px;
+  background: var(--acc-bg) url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 14 14'><path d='M3 7l2.5 2.5L11 4' stroke='%23E8980A' stroke-width='2' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>") center/9px no-repeat;
+  border-radius: 50%;
+}
+.dev-pkg__cta {
+  margin-top: auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 13px 22px;
+  background: var(--ink);
+  color: var(--white);
+  border-radius: 100px;
+  font-family: var(--f-m);
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  transition: .24s;
+}
+.dev-pkg__cta:hover {
+  background: var(--acc);
+  color: var(--acc-ink);
+  transform: translateY(-2px);
+}
+.dev-pkg--featured .dev-pkg__cta {
+  background: var(--acc);
+  color: var(--acc-ink);
+}
+.dev-pkg--featured .dev-pkg__cta:hover {
+  background: var(--acc-dark);
+}
+
+.dev-faq {
+  padding: clamp(70px, 10vw, 130px) 0;
+  background: var(--white);
+}
+.dev-faq__list {
+  max-width: 860px;
+  margin: 0 auto;
+  border-top: 1px solid var(--border);
+}
+.dev-faq-item {
+  border-bottom: 1px solid var(--border);
+  padding: 24px 0;
+}
+.dev-faq-item summary {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.01em;
+  color: var(--ink);
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding-right: 8px;
+  transition: color .22s;
+}
+.dev-faq-item summary::-webkit-details-marker { display: none; }
+.dev-faq-item summary::after {
+  content: '+';
+  font-family: var(--f-d);
+  font-size: 26px;
+  font-weight: 300;
+  color: var(--acc);
+  transition: transform .3s;
+  flex-shrink: 0;
+  line-height: 1;
+}
+.dev-faq-item[open] summary::after { transform: rotate(45deg); }
+.dev-faq-item:hover summary { color: var(--acc); }
+.dev-faq-item p {
+  margin-top: 14px;
+  font-size: 14px;
+  color: var(--mid);
+  line-height: 1.75;
+  font-weight: 300;
+  max-width: 720px;
+}
+
+.dev-cta {
+  padding: clamp(80px, 12vw, 150px) 0;
+  background: var(--ink);
+  color: var(--white);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.dev-cta::before {
+  content: '';
+  position: absolute;
+  top: -100px; right: -100px;
+  width: 400px; height: 400px;
+  background: radial-gradient(circle, rgba(232,152,10,.25) 0%, transparent 70%);
+  pointer-events: none;
+}
+.dev-cta > .wrap {
+  position: relative;
+  z-index: 1;
+  max-width: 720px;
+}
+.dev-cta .eyebrow {
+  color: var(--acc2);
+  justify-content: center;
+}
+.dev-cta__h {
+  color: var(--white);
+  margin-bottom: 20px;
+}
+.dev-cta__h .hi {
+  font-weight: 300;
+  font-style: italic;
+  color: var(--acc2);
+}
+.dev-cta__p {
+  color: rgba(255,255,255,.6);
+  font-size: clamp(15px, 1.3vw, 18px);
+  max-width: 540px;
+  margin: 0 auto 40px;
+  line-height: 1.7;
+  font-weight: 300;
+}
+.dev-cta__acts {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 1024px) {
+  .dev-hero__stats { grid-template-columns: repeat(2, 1fr); gap: 32px; }
+  .dev-pain__grid { grid-template-columns: repeat(2, 1fr); }
+  .dev-portfolio__grid { grid-template-columns: repeat(2, 1fr); }
+  .dev-services__grid { grid-template-columns: repeat(2, 1fr); }
+  .dev-process__list { grid-template-columns: repeat(2, 1fr); }
+  .dev-results__grid { grid-template-columns: repeat(2, 1fr); }
+  .dev-results__grid .dev-result:nth-child(2) { border-right: none; }
+  .dev-results__grid .dev-result:nth-child(3),
+  .dev-results__grid .dev-result:nth-child(4) { border-top: 1px solid rgba(255,255,255,.1); }
+  .dev-pkg-grid { grid-template-columns: 1fr; max-width: 480px; margin: 0 auto; }
+}
+
+@media (max-width: 640px) {
+  .dev-hero__stats { grid-template-columns: 1fr 1fr; gap: 22px; }
+  .dev-pain__grid,
+  .dev-portfolio__grid,
+  .dev-services__grid,
+  .dev-process__list { grid-template-columns: 1fr; gap: 12px; }
+  .dev-results__grid { grid-template-columns: 1fr; }
+  .dev-results__grid .dev-result {
+    border-right: none;
+    border-top: 1px solid rgba(255,255,255,.1);
+  }
+  .dev-results__grid .dev-result:first-child { border-top: none; }
+  .dev-cta__acts { flex-direction: column; }
+  .dev-cta__acts .btn { width: 100%; justify-content: center; }
+}
+</style>
+
+
+<main class="dev-page">
+
+  <section class="dev-hero">
+    <div class="wrap">
+      <div class="dev-hero__chip rv">
+        <span class="dev-hero__chip-dot"></span>
+        <span>Marketing pentru dezvoltatori imobiliari</span>
+      </div>
+
+      <h1 class="dd dd-xl dev-hero__h rv">
+        <span class="hi">Vânzări pentru</span><br>
+        cartierul tău imobiliar.
+      </h1>
+
+      <p class="body-lg dev-hero__sub rv rv-d1">
+        Branding premium, website cu pagini de apartamente, campanii Google &amp; Meta care
+        aduc cumpărători reali — nu doar trafic. Pentru dezvoltatori care construiesc
+        cartiere de case, ansambluri rezidențiale sau complexuri.
+      </p>
+
+      <div class="dev-hero__acts rv rv-d2">
+        <a href="#contact" class="btn btn-solid">Solicită propunere <span style="margin-left:4px">→</span></a>
+        <a href="#proiecte" class="btn btn-ghost">Vezi proiectele noastre</a>
+      </div>
+
+      <div class="dev-hero__stats rv rv-d3">
+        <div class="dev-hero__stat"><span class="num">8+</span><span class="lbl">Cartiere &amp; ansambluri</span></div>
+        <div class="dev-hero__stat"><span class="num">3.200+</span><span class="lbl">Lead-uri generate</span></div>
+        <div class="dev-hero__stat"><span class="num">12€</span><span class="lbl">Cost mediu per lead</span></div>
+        <div class="dev-hero__stat"><span class="num">87%</span><span class="lbl">Sold-out înainte de termen</span></div>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="dev-pain">
+    <div class="wrap">
+      <div class="dev-section__head rv">
+        <div class="eyebrow"><span class="ey-dot"></span>De ce contează</div>
+        <h2 class="dd dd-lg">Construiești bine.<br><span class="hi">Dar cumpărătorii cer mai mult.</span></h2>
+        <p class="body-lg">O broșură PDF și un formular pe site nu mai sunt suficiente.
+        Cumpărătorii de azi caută online, compară, vor să simtă brandul înainte să te sune.</p>
+      </div>
+
+      <div class="dev-pain__grid rv rv-d2">
+        <div class="dev-pain-card">
+          <div class="dev-pain-card__ico"><i class="fa-solid fa-magnifying-glass-chart"></i></div>
+          <h3>Caută online, decid online</h3>
+          <p>89% dintre cumpărători cercetează pe internet înainte să viziteze. Dacă site-ul nu transmite încredere în 5 secunde, te pierd.</p>
+        </div>
+        <div class="dev-pain-card">
+          <div class="dev-pain-card__ico"><i class="fa-solid fa-mobile-screen-button"></i></div>
+          <h3>Mobile-first, mereu</h3>
+          <p>70% din trafic vine de pe telefon. Un site lent sau confuz pe mobil = lead-uri pierdute pe care le-ai plătit cu bani de Ads.</p>
+        </div>
+        <div class="dev-pain-card">
+          <div class="dev-pain-card__ico"><i class="fa-solid fa-chart-line"></i></div>
+          <h3>Costul lead-ului contează</h3>
+          <p>Diferența între 8€ și 80€ pe lead poate transforma un cartier rentabil într-unul fără profit. Optimizarea face diferența.</p>
+        </div>
+        <div class="dev-pain-card">
+          <div class="dev-pain-card__ico"><i class="fa-solid fa-handshake"></i></div>
+          <h3>Concurența nu doarme</h3>
+          <p>Cartierele rivale lansează cu branding profesional, video drone, virtual tour. Dacă rămâi în urmă, pierzi cumpărători.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="dev-portfolio" id="proiecte">
+    <div class="wrap">
+      <div class="dev-section__head rv">
+        <div class="eyebrow"><span class="ey-dot"></span>Proiecte realizate</div>
+        <h2 class="dd dd-lg">Cartiere și ansambluri<br><span class="hi">duse de la 0 la sold-out.</span></h2>
+      </div>
+
+      <div class="dev-portfolio__grid rv rv-d2"></div>
+
+      <div class="rv rv-d2" style="margin-top:28px">
+        <a href="/portofoliu/" class="btn btn-ghost">Vezi portofoliul complet →</a>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="dev-services">
+    <div class="wrap">
+      <div class="dev-section__head rv">
+        <div class="eyebrow"><span class="ey-dot"></span>Ce oferim</div>
+        <h2 class="dd dd-lg">Ecosistemul complet<br>pentru un cartier care se vinde.</h2>
+      </div>
+
+      <div class="dev-services__grid rv rv-d2">
+        <div class="dev-svc">
+          <span class="dev-svc__num">01</span>
+          <i class="fa-solid fa-globe dev-svc__ico"></i>
+          <h3>Website ansamblu</h3>
+          <p>Pagini pentru concept, planuri, zonă, dotări, materiale. Loading rapid, copy convingător, SEO tehnic.</p>
+        </div>
+        <div class="dev-svc">
+          <span class="dev-svc__num">02</span>
+          <i class="fa-solid fa-house dev-svc__ico"></i>
+          <h3>Pagini produs apartamente</h3>
+          <p>O pagină dedicată per tip apartament/casă: planuri, randări 3D, dotări, preț, formular dedicat.</p>
+        </div>
+        <div class="dev-svc">
+          <span class="dev-svc__num">03</span>
+          <i class="fa-solid fa-palette dev-svc__ico"></i>
+          <h3>Branding ansamblu</h3>
+          <p>Nume, logo, paletă, tipografie, brand book. Identitate consistentă de la primul afiș la materialul de șantier.</p>
+        </div>
+        <div class="dev-svc">
+          <span class="dev-svc__num">04</span>
+          <i class="fa-solid fa-bullhorn dev-svc__ico"></i>
+          <h3>Campanii Google &amp; Meta</h3>
+          <p>Generare de lead-uri prin Google Search, Display, YouTube, Facebook, Instagram. Targetare precisă, raportare lunară.</p>
+        </div>
+        <div class="dev-svc">
+          <span class="dev-svc__num">05</span>
+          <i class="fa-solid fa-camera dev-svc__ico"></i>
+          <h3>Producție vizuală</h3>
+          <p>Coordonare 3D randări, foto șantier, video drone, virtual tour 360. Conținut care vinde — nu doar ilustrează.</p>
+        </div>
+        <div class="dev-svc">
+          <span class="dev-svc__num">06</span>
+          <i class="fa-solid fa-chart-pie dev-svc__ico"></i>
+          <h3>CRM &amp; integrări</h3>
+          <p>Conectăm formularele cu Trello, Notion, HubSpot. Notificări instant pe WhatsApp/email pentru vânzători.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="dev-process">
+    <div class="wrap">
+      <div class="dev-section__head rv">
+        <div class="eyebrow"><span class="ey-dot"></span>Proces</div>
+        <h2 class="dd dd-lg">Cum lucrăm împreună</h2>
+      </div>
+
+      <div class="dev-process__list rv rv-d2">
+        <article class="dev-step">
+          <div class="dev-step__n">01</div>
+          <div class="dev-step__time">2–3 zile</div>
+          <h3>Analiză &amp; brief</h3>
+          <p>Înțelegem cartierul, target-ul, USP-urile. Analizăm concurența locală și benchmark-uri internaționale.</p>
+        </article>
+        <article class="dev-step">
+          <div class="dev-step__n">02</div>
+          <div class="dev-step__time">1 săptămână</div>
+          <h3>Strategie &amp; concept</h3>
+          <p>Definim mesajul, poziționarea, structura site-ului. Decidem ce campanii pornim întâi și cu ce mesaj.</p>
+        </article>
+        <article class="dev-step">
+          <div class="dev-step__n">03</div>
+          <div class="dev-step__time">2–3 săptămâni</div>
+          <h3>Branding (dacă e nevoie)</h3>
+          <p>Logo, paletă, brand book. Identitate aplicată consistent: site, prints, social media, materiale șantier.</p>
+        </article>
+        <article class="dev-step">
+          <div class="dev-step__n">04</div>
+          <div class="dev-step__time">4–6 săptămâni</div>
+          <h3>Website &amp; pagini apartamente</h3>
+          <p>Design, dezvoltare, copy, CMS. Lansare cu toate paginile complete și optimizate SEO.</p>
+        </article>
+        <article class="dev-step">
+          <div class="dev-step__n">05</div>
+          <div class="dev-step__time">1 săptămână</div>
+          <h3>Setup campanii</h3>
+          <p>Configurăm Google Ads, Meta Ads, conversion tracking. Începem cu test budgets pe 2 săptămâni.</p>
+        </article>
+        <article class="dev-step">
+          <div class="dev-step__n">06</div>
+          <div class="dev-step__time">Continuu</div>
+          <h3>Optimizare lunară</h3>
+          <p>Raport lunar cu lead-uri, cost per lead, conversie. Optimizăm anunțurile săptămânal, paginile lunar.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="dev-results">
+    <div class="wrap">
+      <div class="dev-section__head rv">
+        <div class="eyebrow"><span class="ey-dot"></span>Rezultate tipice</div>
+        <h2 class="dd dd-lg">Numere reale<br><span class="hi">de la cartierele noastre.</span></h2>
+      </div>
+
+      <div class="dev-results__grid rv rv-d2">
+        <div class="dev-result">
+          <div class="dev-result__num">248</div>
+          <div class="dev-result__lbl">Lead-uri / lună pe Vlaicu87</div>
+        </div>
+        <div class="dev-result">
+          <div class="dev-result__num">12€</div>
+          <div class="dev-result__lbl">Cost mediu per lead pe Cameo</div>
+        </div>
+        <div class="dev-result">
+          <div class="dev-result__num">4.8x</div>
+          <div class="dev-result__lbl">ROAS pe campanii combinate</div>
+        </div>
+        <div class="dev-result">
+          <div class="dev-result__num">9 luni</div>
+          <div class="dev-result__lbl">Sold-out mediu vs. 18 luni piață</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="dev-pricing">
+    <div class="wrap">
+      <div class="dev-section__head rv">
+        <div class="eyebrow"><span class="ey-dot"></span>Investiție</div>
+        <h2 class="dd dd-lg">Pachete pentru dezvoltatori</h2>
+        <p class="body-lg">Prețuri orientative — finale după brief detaliat. Bugetul de Ads (Google + Meta) se plătește direct la platforme și nu e inclus.</p>
+      </div>
+
+      <div class="dev-pkg-grid rv rv-d2">
+
+        <article class="dev-pkg">
+          <div class="dev-pkg__tag">Esențial</div>
+          <h3 class="dev-pkg__h">Brand &amp; Site</h3>
+          <div class="dev-pkg__price">
+            <span class="dev-pkg__from">de la</span>
+            <span class="dev-pkg__amt">3.500€</span>
+            <span class="dev-pkg__unit">one-time</span>
+          </div>
+          <p class="dev-pkg__desc">Pentru ansambluri mici (sub 30 unități) care vor o prezență online curată.</p>
+          <ul class="dev-pkg__list">
+            <li>Branding starter (logo + paletă)</li>
+            <li>Website 5–7 pagini</li>
+            <li>1 pagină tip apartament</li>
+            <li>SEO tehnic de bază</li>
+            <li>Google Analytics + Search Console</li>
+          </ul>
+          <a href="#contact" class="dev-pkg__cta">Solicită ofertă →</a>
+        </article>
+
+        <article class="dev-pkg dev-pkg--featured">
+          <div class="dev-pkg__tag">Cel mai ales</div>
+          <h3 class="dev-pkg__h">Standard</h3>
+          <div class="dev-pkg__price">
+            <span class="dev-pkg__from">de la</span>
+            <span class="dev-pkg__amt">6.500€</span>
+            <span class="dev-pkg__unit">+ 1.500€/lună</span>
+          </div>
+          <p class="dev-pkg__desc">Pentru cartiere medii (30–80 unități) cu obiective clare de vânzări.</p>
+          <ul class="dev-pkg__list">
+            <li>Branding complet + brand book</li>
+            <li>Website 10–15 pagini</li>
+            <li>Pagini dedicate per tip apartament</li>
+            <li>Campanii Google + Meta active</li>
+            <li>CRM integrat (Trello/Notion)</li>
+            <li>Raport lunar performanță</li>
+          </ul>
+          <a href="#contact" class="dev-pkg__cta">Solicită ofertă →</a>
+        </article>
+
+        <article class="dev-pkg">
+          <div class="dev-pkg__tag">Premium</div>
+          <h3 class="dev-pkg__h">Ecosistem Complet</h3>
+          <div class="dev-pkg__price">
+            <span class="dev-pkg__from">de la</span>
+            <span class="dev-pkg__amt">12.000€</span>
+            <span class="dev-pkg__unit">+ 4.500€/lună</span>
+          </div>
+          <p class="dev-pkg__desc">Pentru ansambluri mari (80+ unități) sau dezvoltatori cu mai multe proiecte.</p>
+          <ul class="dev-pkg__list">
+            <li>Tot ce e în Standard, plus:</li>
+            <li>Coordonare producție foto/video/3D</li>
+            <li>Virtual tour 360</li>
+            <li>Social media management</li>
+            <li>Newsletter automatizat</li>
+            <li>A/B testing continuu</li>
+            <li>Account manager dedicat</li>
+          </ul>
+          <a href="#contact" class="dev-pkg__cta">Solicită ofertă →</a>
+        </article>
+
+      </div>
+    </div>
+  </section>
+
+
+  <section class="dev-faq">
+    <div class="wrap">
+      <div class="dev-section__head rv">
+        <div class="eyebrow"><span class="ey-dot"></span>Întrebări frecvente</div>
+        <h2 class="dd dd-lg">Ce ne întreabă cel mai des dezvoltatorii</h2>
+      </div>
+
+      <div class="dev-faq__list rv rv-d2">
+
+        <details class="dev-faq-item">
+          <summary>În cât timp pot lansa site-ul ansamblului meu?</summary>
+          <p>De la brief la live: 4–8 săptămâni, în funcție de complexitate. Site-uri simple cu 5–7 pagini pot fi gata în 4 săptămâni. Pentru cartiere mari cu 15+ pagini și configurator de apartamente, planificăm 8 săptămâni.</p>
+        </details>
+
+        <details class="dev-faq-item">
+          <summary>Cât cheltui lunar pe Google și Meta Ads?</summary>
+          <p>Bugetul de Ads NU este inclus în pachetele noastre — îl plătești direct la Google și Meta. Recomandăm minim 1.000€/lună pe Google + 800€/lună pe Meta pentru un cartier mediu. Cu cât bugetul e mai mare, cu atât costul per lead scade.</p>
+        </details>
+
+        <details class="dev-faq-item">
+          <summary>Aveți experiență cu vânzări pe credit ipotecar?</summary>
+          <p>Da. Toate site-urile noastre includ pagini despre opțiunile de plată, simulator credit, parteneri bancari. Lucrăm cu agenți de creditare pentru a integra calculator interactiv pe site.</p>
+        </details>
+
+        <details class="dev-faq-item">
+          <summary>Puteți colabora cu agenția de PR sau agentul imobiliar al meu?</summary>
+          <p>Da, lucrăm frecvent în echipe extinse. Coordonăm cu agentul imobiliar pentru lead handover, cu PR-ul pentru consistență mesaj, cu fotografi/3D pentru asset-uri vizuale.</p>
+        </details>
+
+        <details class="dev-faq-item">
+          <summary>Ce se întâmplă după sold-out? Mai am nevoie de site?</summary>
+          <p>Păstrăm site-ul live pentru încrederea de brand (cumpărătorii vor să-l verifice). Reducem bugetul de Ads la minimum. Dacă lansezi următoarea fază sau proiect, începem ușor — fundamentul de brand și CRM există deja.</p>
+        </details>
+
+        <details class="dev-faq-item">
+          <summary>Lucrați și cu dezvoltatori din afara Iașiului?</summary>
+          <p>Da. Avem clienți în București, Cluj, Timișoara, Brașov și internațional (Italia, Franța, Germania). Toată colaborarea se poate face remote — întâlnirile pe Zoom/Meet funcționează la fel de bine.</p>
+        </details>
+
+      </div>
+    </div>
+  </section>
+
+
+  <section class="dev-cta" id="contact">
+    <div class="wrap">
+      <div class="rv">
+        <div class="eyebrow"><span class="ey-dot"></span>Hai să discutăm</div>
+        <h2 class="dd dd-lg dev-cta__h">
+          Următorul cartier<br>
+          <span class="hi">poate fi al tău.</span>
+        </h2>
+        <p class="dev-cta__p">
+          Spune-ne despre proiect. În 24 de ore îți răspundem cu o propunere
+          inițială și programăm un apel de descoperire de 30 de minute.
+        </p>
+        <div class="dev-cta__acts">
+          <a href="mailto:contact@visience.ro" class="btn btn-solid">
+            Solicită propunere <span style="margin-left:4px">→</span>
+          </a>
+          <a href="https://wa.me/40771486499" class="btn btn-dark">WhatsApp →</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+<section class="rel-strip" aria-label="Servicii conexe și prețuri transparente">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Nu lucrăm cu tarife ascunse sau surprize în factură. Toate pachetele și prețurile noastre sunt publice — alegi în cunoștință de cauză, fără presiune.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Continuă cu</div>
+      <div class="rel-links__grid">
+        <a href="/creare-site-prezentare/" class="rel-link"><span class="rel-link__name">Creare site de prezentare <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Site-uri de companie rapide, cu design pe brandul tău.</span></a>
+        <a href="/google-meta-ads/" class="rel-link"><span class="rel-link__name">Google & Meta Ads <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Campanii cu focus pe leaduri și vânzări.</span></a>
+        <a href="/branding-identitate-vizuala/" class="rel-link"><span class="rel-link__name">Branding & identitate <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Logo, brand book și identitate vizuală completă.</span></a>
+        <a href="/portofoliu/" class="rel-link"><span class="rel-link__name">Portofoliu <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Proiecte reale livrate de echipa noastră.</span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+8:["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$11"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$12"}}]],null,"$L13"]}]
+14:[]
+9:"$W14"
+a:["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$L16"}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$18",null,{"name":"Next.Metadata","children":"$L19"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+c:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1a:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+13:["$","$L1a",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1c:I[27201,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"IconMark"]
+19:[["$","title","0",{"children":"Marketing pentru Dezvoltatori Imobiliari | Visience"}],["$","meta","1",{"name":"description","content":"Marketing imobiliar pentru dezvoltatori: branding de ansamblu, website cu pagini de apartamente și campanii Google & Meta care aduc cumpărători. 3.200+ lead-uri."}],["$","link","2",{"rel":"canonical","href":"https://visience.ro/marketing-dezvoltatori-imobiliari/"}],["$","meta","3",{"property":"og:title","content":"Marketing pentru Dezvoltatori Imobiliari — Visience"}],["$","meta","4",{"property":"og:description","content":"Branding, website cu pagini de apartamente și campanii care aduc cumpărători, nu doar trafic."}],["$","meta","5",{"property":"og:url","content":"https://visience.ro/marketing-dezvoltatori-imobiliari/"}],["$","meta","6",{"property":"og:locale","content":"ro_RO"}],["$","meta","7",{"property":"og:image","content":"https://visience.ro/media/og-visience.jpg"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Agenție de Marketing & Creare Site-uri în Iași | Visience"}],["$","meta","11",{"name":"twitter:description","content":"Branding, website-uri, magazine online, Google & Meta Ads, SEO. Prețuri publice, fără costuri ascunse."}],["$","meta","12",{"name":"twitter:image","content":"https://visience.ro/media/og-visience.jpg"}],["$","link","13",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L1c","14",{}]]
+1b:null

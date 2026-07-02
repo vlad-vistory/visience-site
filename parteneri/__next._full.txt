@@ -1,0 +1,614 @@
+1:"$Sreact.fragment"
+b:I[68027,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"default",1]
+:HL["/_next/static/chunks/3b23shbd_73w9.css","style"]
+:HL["/_next/static/media/017d9bea37084d9b-s.p.41rroleoq1br7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/26daee0352f50a5f-s.p.2e115y8-hourl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/36363bfb06833f56-s.p.38hmww4cj4vme.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5c285b27cdda1fe8-s.p.2_mbdogr7ni8i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a73419dd2ba2d841-s.p.2yee423r7ahpo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b12e986493c137cf-s.p.2njitm-prmz2_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b2fa3ef4ca165ab4-s.p.12_ml6bnugnre.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c3cb240f9c892514-s.p.3z_x6eowsw16y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css","style"]
+2:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}3:Tb9a,<header class="nav" id="nav" role="banner">
+  <div class="wrap nav__in">
+    <a href="/" class="nav__logo" aria-label="Visience — Acasă">
+      <img class="nav__logo-img nav__logo-img--light" src="/media/sigla-mark-visience-new-colors.avif"
+           alt="Visience" width="160" height="30" fetchpriority="high">
+      <img class="nav__logo-img nav__logo-img--dark" src="/media/sigla-visience-dark.avif"
+           alt="" aria-hidden="true" width="160" height="30">
+    </a>
+
+    <nav class="nav__links" aria-label="Navigare principală">
+      <div class="nav__has-drop">
+        <a href="/#servicii">Servicii</a>
+        <div class="nav__drop">
+          <a href="/creare-site-prezentare/">Creare site de prezentare</a>
+          <a href="/creare-magazin-online/">Creare magazin online</a>
+          <a href="/branding-identitate-vizuala/">Branding &amp; identitate</a>
+          <a href="/social-media-management/">Social media</a>
+          <a href="/google-meta-ads/">Google &amp; Meta Ads</a>
+          <a href="/optimizare-seo/">SEO &amp; content</a>
+          <a href="/dezvoltare-software/">Dezvoltare software</a>
+          <a href="/marketing-dezvoltatori-imobiliari/">Marketing imobiliar</a>
+        </div>
+      </div>
+      <a href="/portofoliu/">Proiecte</a>
+      <a href="/preturi/">Prețuri</a>
+      <a href="/blog/">Blog</a>
+      <a href="/#rezultate">Rezultate</a>
+      <a href="/#despre">Despre</a>
+      <a href="/contact/">Contact</a>
+    </nav>
+
+    <a href="/#contact" class="nav__cta">Solicită ofertă</a>
+
+    <button class="nav__burger" id="navBurger"
+            aria-label="Deschide meniul" aria-expanded="false" aria-controls="navMob">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<nav class="nav__mob" id="navMob" aria-label="Meniu mobil">
+  <a href="/#servicii"  class="nm-l">Servicii</a>
+  <a href="/creare-site-prezentare/" class="nm-l nm-sub">Creare site de prezentare</a>
+  <a href="/creare-magazin-online/" class="nm-l nm-sub">Creare magazin online</a>
+  <a href="/branding-identitate-vizuala/" class="nm-l nm-sub">Branding &amp; identitate</a>
+  <a href="/social-media-management/" class="nm-l nm-sub">Social media</a>
+  <a href="/google-meta-ads/" class="nm-l nm-sub">Google &amp; Meta Ads</a>
+  <a href="/optimizare-seo/" class="nm-l nm-sub">SEO &amp; content</a>
+  <a href="/dezvoltare-software/" class="nm-l nm-sub">Dezvoltare software</a>
+  <a href="/marketing-dezvoltatori-imobiliari/" class="nm-l nm-sub">Marketing imobiliar</a>
+  <a href="/portofoliu/"  class="nm-l">Proiecte</a>
+  <a href="/preturi/"    class="nm-l">Prețuri</a>
+  <a href="/blog/"       class="nm-l">Blog</a>
+  <a href="/#rezultate" class="nm-l">Rezultate</a>
+  <a href="/#despre"    class="nm-l">Despre</a>
+  <a href="/contact/"    class="nm-l">Contact</a>
+  <a href="/#contact" class="btn btn-solid" style="margin-top:8px">Solicită ofertă</a>
+</nav>
+0:{"P":null,"c":["","parteneri",""],"q":"","i":false,"f":[[["",{"children":["parteneri",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0a_4n0l8z1myf.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"bricolage_grotesque_4d7004bd-module__Hoo0MG__variable dm_sans_371c950d-module__4cga4q__variable dm_mono_6c018cca-module__6UXbpq__variable","children":[["$","head",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5","$L6"]}]]}]]}],{"children":["$L7",{"children":["$L8",{},null,false,null]},null,false,"$@9"]},null,false,null],"$La",false]],"m":"$undefined","G":["$b",["$Lc"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"XLiQQktmqJoG3-3IBETrL"}
+d:I[39756,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
+e:I[37457,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
+10:I[27961,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
+15:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"ViewportBoundary"]
+17:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"MetadataBoundary"]
+18:"$Sreact.suspense"
+4:["$","$Ld",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Le",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
+f:T13f0,<footer class="footer" role="contentinfo">
+  <div class="wrap">
+
+    <div class="footer__grid">
+
+      <div>
+        <div class="footer__logo">
+          <img src="/media/sigla-mark-visience-new-colors.avif"
+               alt="Visience" width="148" height="28" loading="lazy">
+        </div>
+
+        <p class="footer__brand">
+          Agenție de marketing digital cu 12 ani de experiență. Transformăm imaginea companiilor prin branding, website, social media și marketing precis configurat.
+        </p>
+
+        <p class="footer__trust">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M20 6 9 17l-5-5"/>
+          </svg>
+          Prețuri publice, fără costuri ascunse — <a href="/preturi/">vezi prețurile</a>.
+        </p>
+
+        <div class="footer__contact">
+          <a href="tel:+40771486499">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.67A2 2 0 012 .92h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L6.91 8.09a16 16 0 006 6l1.27-.83a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/>
+            </svg>
+            +40 771 486 499
+          </a>
+          <a href="mailto:contact@visience.ro">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+              <polyline points="22,6 12,13 2,6"/>
+            </svg>
+            contact@visience.ro
+          </a>
+        </div>
+
+        <div class="footer__anpc">
+          <a class="anpc-b" href="https://anpc.ro/" target="_blank" rel="noopener noreferrer"
+             aria-label="ANPC — Autoritatea Națională pentru Protecția Consumatorilor">
+            <img src="https://anpc.ro/wp-content/themes/anpc/img/anpc_logo.png"
+                 alt="ANPC" width="50" height="18" loading="lazy"
+                 onerror="this.style.display='none'">
+            ANPC
+          </a>
+          <a class="anpc-b" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage"
+             target="_blank" rel="noopener noreferrer"
+             aria-label="SOL — Soluționare Online a Litigiilor">
+            SOL
+          </a>
+        </div>
+      </div>
+
+      <nav aria-label="Servicii">
+        <div class="footer__col-title">Servicii</div>
+        <ul class="footer__links">
+          <li><a href="/creare-site-prezentare/">Creare site de prezentare</a></li>
+          <li><a href="/creare-site-prezentare-iasi/">Creare site de prezentare Iași</a></li>
+          <li><a href="/creare-magazin-online/">Creare magazin online</a></li>
+          <li><a href="/branding-identitate-vizuala/">Branding &amp; identitate</a></li>
+          <li><a href="/social-media-management/">Social Media</a></li>
+          <li><a href="/google-meta-ads/">Google &amp; Meta Ads</a></li>
+          <li><a href="/optimizare-seo/">SEO &amp; Content</a></li>
+          <li><a href="/dezvoltare-software/">Dezvoltare software</a></li>
+          <li><a href="/marketing-dezvoltatori-imobiliari/">Marketing imobiliar</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Companie">
+        <div class="footer__col-title">Companie</div>
+        <ul class="footer__links">
+          <li><a href="/portofoliu/">Portofoliu</a></li>
+          <li><a href="/parteneri/">Parteneri</a></li>
+          <li><a href="/blog/">Blog</a></li>
+          <li><a href="/preturi/">Prețuri</a></li>
+          <li><a href="/#rezultate">Studii de caz</a></li>
+          <li><a href="/#despre">Despre noi</a></li>
+          <li><a href="/contact/">Contact</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Legal">
+        <div class="footer__col-title">Legal &amp; GDPR</div>
+        <ul class="footer__links">
+          <li><a href="/termeni-si-conditii/">Termeni și Condiții</a></li>
+          <li><a href="/politica-de-confidentialitate/">Politică Confidențialitate</a></li>
+          <li><a href="/politica-cookies/">Politică Cookies</a></li>
+        </ul>
+      </nav>
+
+    </div>
+
+    <div class="footer__bottom">
+      <div class="footer__bottom-in">
+        <p class="footer__copy">
+          © 2026 Visience Creative Experience SRL · Toate drepturile rezervate
+        </p>
+        <div class="footer__legal">
+          <a href="/termeni-si-conditii/">Termeni</a>
+          <a href="/politica-de-confidentialitate/">Confidențialitate</a>
+          <a href="/politica-cookies/">Cookies</a>
+          <a href="/gdpr/">GDPR</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</footer>
+5:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}]
+6:["$","$L10",null,{}]
+7:["$","$1","c",{"children":[null,["$","$Ld",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Le",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+11:Ta70,{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://visience.ro/parteneri/#webpage","url":"https://visience.ro/parteneri/","name":"Partenerii noștri","isPartOf":{"@id":"https://visience.ro/#website"},"about":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"},{"@type":"ItemList","name":"Clienți și parteneri Visience","numberOfItems":23,"itemListElement":[{"@type":"ListItem","position":1,"name":"Vlaicu87","item":"https://vlaicu87.ro"},{"@type":"ListItem","position":2,"name":"Cameo Residence","item":"https://cameoresidence.ro"},{"@type":"ListItem","position":3,"name":"2M Tech","item":"https://2mtech.ro"},{"@type":"ListItem","position":4,"name":"Casa Vatră","item":"https://casavatra.ro"},{"@type":"ListItem","position":5,"name":"Carmangeria Evei","item":"https://carmangeriaevei.ro"},{"@type":"ListItem","position":6,"name":"Soluții Alpensam","item":"https://solutiialpensam.ro"},{"@type":"ListItem","position":7,"name":"Amodelic","item":"https://amodelic.com"},{"@type":"ListItem","position":8,"name":"BTG Romania","item":"https://btgromania.ro/"},{"@type":"ListItem","position":9,"name":"Bransha","item":"https://bransha.ro/"},{"@type":"ListItem","position":10,"name":"Velomed","item":"https://velomed.ro/"},{"@type":"ListItem","position":11,"name":"Edu-Net Academy","item":"https://edu-net.academy/"},{"@type":"ListItem","position":12,"name":"Revo","item":"https://www.piesemoto.ro/"},{"@type":"ListItem","position":13,"name":"Alyya Beauty","item":"https://alyyabeauty.com/"},{"@type":"ListItem","position":14,"name":"Lucia Roșca","item":"https://luciarosca.ro/"},{"@type":"ListItem","position":15,"name":"Alexander Tailor","item":"https://alexanderprivatetailor.com/"},{"@type":"ListItem","position":16,"name":"BBG Maison Euxine","item":"https://bbgmaisoneuxine.com/"},{"@type":"ListItem","position":17,"name":"Ecologica 2000","item":"https://ecologica2000.eu/"},{"@type":"ListItem","position":18,"name":"WTS SRL","item":"https://wts.srl/"},{"@type":"ListItem","position":19,"name":"BSP SRL","item":"https://bsp.srl/"},{"@type":"ListItem","position":20,"name":"Rumpel-M-INFO","item":"https://rumpel-m-info.de/"},{"@type":"ListItem","position":21,"name":"Happy Hosting","item":"https://happyhosting.it/"},{"@type":"ListItem","position":22,"name":"Studio Lunghini","item":"https://studiolunghini.it/"},{"@type":"ListItem","position":23,"name":"DQ Design","item":"https://dqdesign.co.th/"}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Parteneri","item":"https://visience.ro/parteneri/"}]}]}12:T97e2,<style>
+.prt-hero { padding: calc(var(--nav-h) + 80px) 0 70px; background: var(--cream); text-align: center; position: relative; overflow: hidden; }
+.prt-hero__in { position: relative; z-index: 1; max-width: 760px; margin: 0 auto; }
+.prt-bc { font-family: var(--f-m); font-size: 11px; color: var(--mid); letter-spacing: .05em; margin-bottom: 20px; }
+.prt-bc a { color: var(--mid); transition: color .2s; } .prt-bc a:hover { color: var(--acc); } .prt-bc .sep { margin: 0 9px; opacity: .4; }
+.prt-hero h1 { font-family: var(--f-d); font-weight: 800; font-size: clamp(38px,5.4vw,68px); line-height: 1.0; letter-spacing: -.035em; color: var(--ink); margin-bottom: 22px; }
+.prt-hero h1 .acc { color: var(--acc); }
+.prt-hero__lead { font-size: 17px; line-height: 1.78; color: var(--mid); font-weight: 300; max-width: 600px; margin: 0 auto; }
+.prt-sec { padding: clamp(56px,8vw,90px) 0; background: var(--white); }
+.prt-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 22px; }
+.prt-card { display: flex; flex-direction: column; background: var(--cream); border: 1px solid var(--border); border-radius: var(--rlg); padding: 26px 26px 22px; transition: transform .3s, border-color .3s, box-shadow .3s; }
+.prt-card:hover { transform: translateY(-4px); border-color: rgba(232,152,10,.3); box-shadow: 0 18px 38px rgba(17,16,16,.07); }
+.prt-card__top { display: flex; align-items: center; gap: 16px; margin-bottom: 16px; }
+.prt-card__logo { width: 58px; height: 58px; flex-shrink: 0; border-radius: 12px; background: var(--white); border: 1px solid var(--border); display: flex; align-items: center; justify-content: center; overflow: hidden; padding: 9px; }
+.prt-card__logo img { width: 100%; height: 100%; object-fit: contain; display: block; }
+.prt-card__logo--mono { font-family: var(--f-d); font-weight: 800; font-size: 24px; color: var(--acc); background: var(--acc-bg); padding: 0; }
+.prt-card__meta { min-width: 0; }
+.prt-card__name { font-family: var(--f-d); font-weight: 700; font-size: 18px; letter-spacing: -.015em; color: var(--ink); line-height: 1.2; margin-bottom: 4px; }
+.prt-card__tag { font-family: var(--f-m); font-size: 10px; letter-spacing: .04em; text-transform: uppercase; color: var(--acc-dark); }
+.prt-card__desc { font-size: 13.5px; line-height: 1.7; color: var(--mid); font-weight: 300; flex: 1; margin-bottom: 20px; }
+.prt-card__links { display: flex; align-items: center; justify-content: space-between; gap: 14px; padding-top: 16px; border-top: 1px solid var(--border); }
+.prt-card__site { font-family: var(--f-m); font-size: 11px; font-weight: 500; letter-spacing: .03em; color: var(--acc); transition: color .2s; }
+.prt-card__site:hover { color: var(--acc-dark); }
+.prt-card__social { display: inline-flex; gap: 8px; }
+.prt-card__social a { width: 30px; height: 30px; border-radius: 50%; border: 1px solid var(--border); display: inline-flex; align-items: center; justify-content: center; color: var(--mid); transition: .2s; }
+.prt-card__social a:hover { background: var(--acc); border-color: var(--acc); color: var(--acc-ink); }
+.prt-cta { padding: clamp(64px,9vw,100px) 0; background: var(--ink); color: var(--white); text-align: center; }
+.prt-cta h2 { color: var(--white); margin-bottom: 16px; }
+.prt-cta h2 .acc { color: var(--acc2); font-style: italic; font-weight: 300; }
+.prt-cta p { color: rgba(255,255,255,.6); font-size: 16px; font-weight: 300; max-width: 500px; margin: 0 auto 30px; line-height: 1.7; }
+@media (max-width: 1024px) { .prt-grid { grid-template-columns: repeat(2,1fr); } }
+@media (max-width: 640px) { .prt-grid { grid-template-columns: 1fr; } }
+</style>
+
+<main id="main">
+
+<section class="prt-hero">
+  <div class="line-bg" aria-hidden="true"><svg width="100%" height="100%" preserveAspectRatio="none"><line x1="0" y1="24%" x2="100%" y2="66%"/><line x1="0" y1="60%" x2="100%" y2="20%"/><line x1="30%" y1="0" x2="72%" y2="100%"/></svg></div>
+  <div class="wrap prt-hero__in">
+    <nav class="prt-bc" aria-label="Breadcrumbs"><a href="/">Acasă</a><span class="sep">/</span><span>Parteneri</span></nav>
+    <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Clienți &amp; parteneri</div>
+    <h1>Partenerii <span class="acc">noștri</span></h1>
+    <p class="prt-hero__lead">Firme din România, Italia, Germania și nu numai, alături de care am construit site-uri, branding și campanii de marketing. Fiecare e o colaborare pe termen lung — și un motiv de mândrie.</p>
+  </div>
+</section>
+
+<section class="prt-sec">
+  <div class="wrap">
+    <div class="prt-grid">
+      <article class="prt-card rv">
+        <div class="prt-card__top">
+          <div class="prt-card__logo"><img src="/media/vlaiculogo.avif" alt="Logo Vlaicu87" loading="lazy"></div>
+          <div class="prt-card__meta">
+            <h2 class="prt-card__name">Vlaicu87</h2>
+            <span class="prt-card__tag">Imobiliare · Iași</span>
+          </div>
+        </div>
+        <p class="prt-card__desc">Vlaicu 87 este un ansamblu rezidențial dezvoltat de Zinan Investment Grup, gândit ca un „cartier-parc” fără mașini în interior. Proiectul îmbină locuirea cu spații verzi întinse, grădină botanică privată și facilități integrate precum grădiniță, fitness, restaurante și zone de relaxare.</p>
+        <div class="prt-card__links">
+          <a href="https://vlaicu87.ro" target="_blank" rel="noopener" class="prt-card__site">Vizitează site-ul <span aria-hidden="true">↗</span></a>
+          
+        </div>
+      </article>
+      <article class="prt-card rv">
+        <div class="prt-card__top">
+          <div class="prt-card__logo"><img src="/media/cameo-logo.avif" alt="Logo Cameo Residence" loading="lazy"></div>
+          <div class="prt-card__meta">
+            <h2 class="prt-card__name">Cameo Residence</h2>
+            <span class="prt-card__tag">Imobiliare · Iași</span>
+          </div>
+        </div>
+        <p class="prt-card__desc">Cameo Residence este un ansamblu rezidențial din Iași, pe strada Ion Nistor, format din trei imobile cu regim redus de înălțime. Pune la dispoziție apartamente moderne și eficiente energetic, cu una, două sau trei camere, gândite pentru confort și intimitate.</p>
+        <div class="prt-card__links">
+          <a href="https://cameoresidence.ro" target="_blank" rel="noopener" class="prt-card__site">Vizitează site-ul <span aria-hidden="true">↗</span></a>
+          
+        </div>
+      </article>
+      <article class="prt-card rv">
+        <div class="prt-card__top">
+          <div class="prt-card__logo prt-card__logo--mono">2</div>
+          <div class="prt-card__meta">
+            <h2 class="prt-card__name">2M Tech</h2>
+            <span class="prt-card__tag">Dezvoltator imobiliar · Iași</span>
+          </div>
+        </div>
+        <p class="prt-card__desc">2M Tech este o companie de construcții și dezvoltare imobiliară din Iași, care realizează ansambluri rezidențiale, spații comerciale și lucrări de instalații, inclusiv soluții smart home. Activează cu certificări ISO pe proiecte civile, industriale și de amenajări interioare.</p>
+        <div class="prt-card__links">
+          <a href="https://2mtech.ro" target="_blank" rel="noopener" class="prt-card__site">Vizitează site-ul <span aria-hidden="true">↗</span></a>
+          <span class="prt-card__social"><a href="https://www.facebook.com/p/2M-Tech-100083962822203/" target="_blank" rel="noopener" aria-label="Facebook 2M Tech"><svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M24 12c0-6.6-5.4-12-12-12S0 5.4 0 12c0 6 4.4 11 10.1 11.9V15.5h-3v-3.5h3V9.4c0-3 1.8-4.7 4.5-4.7 1.3 0 2.7.2 2.7.2v3h-1.5c-1.5 0-2 1-2 1.9V12h3.3l-.5 3.5h-2.7v8.4C19.6 23 24 18 24 12z"/></svg></a></span>
+        </div>
+      </article>
+      <article class="prt-card rv">
+        <div class="prt-card__top">
+          <div class="prt-card__logo prt-card__logo--mono">C</div>
+          <div class="prt-card__meta">
+            <h2 class="prt-card__name">Casa Vatră</h2>
+            <span class="prt-card__tag">Restaurant &amp; hotel · Rădăuți</span>
+          </div>
+        </div>
+        <p class="prt-card__desc">Casa Vatră este un restaurant și hotel din Rădăuți, unde bucătăria contemporană cu accente tradiționale se îmbină cu seri de muzică live și evenimente. Oferă cazare, organizare de petreceri private și servicii de catering.</p>
+        <div class="prt-card__links">
+          <a href="https://casavatra.ro" target="_blank" rel="noopener" class="prt-card__site">Vizitează site-ul <span aria-hidden="true">↗</span></a>
+          <span class="prt-card__social"><a href="https://www.facebook.com/casavatra/" target="_blank" rel="noopener" aria-label="Facebook Casa Vatră"><svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M24 12c0-6.6-5.4-12-12-12S0 5.4 0 12c0 6 4.4 11 10.1 11.9V15.5h-3v-3.5h3V9.4c0-3 1.8-4.7 4.5-4.7 1.3 0 2.7.2 2.7.2v3h-1.5c-1.5 0-2 1-2 1.9V12h3.3l-.5 3.5h-2.7v8.4C19.6 23 24 18 24 12z"/></svg></a><a href="https://www.instagram.com/casavatra/" target="_blank" rel="noopener" aria-label="Instagram Casa Vatră"><svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M12 2.2c3.2 0 3.6 0 4.9.1 1.2.1 1.8.3 2.2.4.6.2 1 .5 1.4.9.4.4.7.8.9 1.4.2.4.4 1 .4 2.2.1 1.3.1 1.7.1 4.9s0 3.6-.1 4.9c-.1 1.2-.3 1.8-.4 2.2-.2.6-.5 1-.9 1.4-.4.4-.8.7-1.4.9-.4.2-1 .4-2.2.4-1.3.1-1.7.1-4.9.1s-3.6 0-4.9-.1c-1.2-.1-1.8-.3-2.2-.4-.6-.2-1-.5-1.4-.9-.4-.4-.7-.8-.9-1.4-.2-.4-.4-1-.4-2.2C2.2 15.6 2.2 15.2 2.2 12s0-3.6.1-4.9c.1-1.2.3-1.8.4-2.2.2-.6.5-1 .9-1.4.4-.4.8-.7 1.4-.9.4-.2 1-.4 2.2-.4C8.4 2.2 8.8 2.2 12 2.2zm0 3.2A6.6 6.6 0 1018.6 12 6.6 6.6 0 0012 5.4zm0 10.9A4.3 4.3 0 1116.3 12 4.3 4.3 0 0112 16.3zm6.8-11.1a1.5 1.5 0 11-1.5-1.5 1.5 1.5 0 011.5 1.5z"/></svg></a></span>
+        </div>
+      </article>
+      <article class="prt-card rv">
+        <div class="prt-card__top">
+          <div class="prt-card__logo"><img src="/media/carmangeria-evei-social-2.avif" alt="Logo Carmangeria Evei" loading="lazy"></div>
+          <div class="prt-card__meta">
+            <h2 class="prt-card__name">Carmangeria Evei</h2>
+            <span class="prt-card__tag">Carmangerie · Călărași</span>
+          </div>
+        </div>
+        <p class="prt-card__desc">Carmangeria Evei este un producător local din Ștefan Vodă, județul Călărași, care îmbină metodele tradiționale de prelucrare a cărnii cu standardele europene de siguranță alimentară. Livrează preparate proaspete din carne de porc și afumături prin transport refrigerat în județul Călărași.</p>
+        <div class="prt-card__links">
+          <a href="https://carmangeriaevei.ro" target="_blank" rel="noopener" class="prt-card__site">Vizitează site-ul <span aria-hidden="true">↗</span></a>
+          
+        </div>
+      </article>
+      <article class="prt-card rv">
+        <div class="prt-card__top">
+          <div class="prt-card__logo"><img src="/media/logo-solutii-alpensam.avif" alt="Logo Soluții Alpensam" loading="lazy"></div>
+          <div class="prt-card__meta">
+            <h2 class="prt-card__name">Soluții Alpensam</h2>
+            <span class="prt-card__tag">Rezervoare GPL · Vrancea</span>
+          </div>
+        </div>
+        <p class="prt-card__desc">Soluții Alpensam este o companie autorizată ISCIR, cu peste 20 de ani de experiență în rezervoare și bazine de GPL/propan pentru încălzirea locuințelor, dar și pentru aplicații comerciale, agricole și industriale. Oferă soluții complete, de la proiectare la instalare, alimentare și mentenanță, în toată țara.</p>
+        <div class="prt-card__links">
+          <a href="https://solutiialpensam.ro" target="_blank" rel="noopener" class="prt-card__site">Vizitează site-ul <span aria-hidden="true">↗</span></a>
+          
+        </div>
+      </article>
+      <article class="prt-card rv">
+        <div class="prt-card__top">
+          <div class="prt-card__logo"><img src="/media/amodelic-logo.avif" alt="Logo Amodelic" loading="lazy"></div>
+          <div class="prt-card__meta">
+            <h2 class="prt-card__name">Amodelic</h2>
+            <span class="prt-card__tag">Proiectare &amp; consultanță · România</span>
+          </div>
+        </div>
+        <p class="prt-card__desc">Amodelic oferă soluții integrate de proiectare în arhitectură și construcții, de la consultanță și planificare până la asistență și management de proiect. Acoperă arhitectură, structuri, instalații, servicii BIM și studii de eficiență energetică, pentru clienți din zona B2B.</p>
+        <div class="prt-card__links">
+          <a href="https://amodelic.com" target="_blank" rel="noopener" class="prt-card__site">Vizitează site-ul <span aria-hidden="true">↗</span></a>
+          
+        </div>
+      </article>
+      <article class="prt-card rv">
+        <div class="prt-card__top">
+          <div class="prt-card__logo"><img src="/media/btg.avif" alt="Logo BTG Romania" loading="lazy"></div>
+          <div class="prt-card__meta">
+            <h2 class="prt-card__name">BTG Romania</h2>
+            <span class="prt-card__tag">Automatizări clădiri · Iași</span>
+          </div>
+        </div>
+        <p class="prt-card__desc">BTG România proiectează, implementează și administrează sisteme de automatizare pentru clădiri rezidențiale, comerciale și industriale. Transformă locuințele și spațiile de afaceri în clădiri inteligente, cu soluții de iluminat, climatizare, control acces și management al energiei.</p>
+        <div class="prt-card__links">
+          <a href="https://btgromania.ro/" target="_blank" rel="noopener" class="prt-card__site">Vizitează site-ul <span aria-hidden="true">↗</span></a>
+          <span class="prt-card__social"><a href="https://www.facebook.com/BTGRomania/" target="_blank" rel="noopener" aria-label="Facebook BTG Romania"><svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M24 12c0-6.6-5.4-12-12-12S0 5.4 0 12c0 6 4.4 11 10.1 11.9V15.5h-3v-3.5h3V9.4c0-3 1.8-4.7 4.5-4.7 1.3 0 2.7.2 2.7.2v3h-1.5c-1.5 0-2 1-2 1.9V12h3.3l-.5 3.5h-2.7v8.4C19.6 23 24 18 24 12z"/></svg></a></span>
+        </div>
+      </article>
+      <article class="prt-card rv">
+        <div class="prt-card__top">
+          <div class="prt-card__logo"><img src="/media/bransha-visience-marketing-branding-webdesign-afacere-startup-antreprenoriat-design-development-site-.avif" alt="Logo Bransha" loading="lazy"></div>
+          <div class="prt-card__meta">
+            <h2 class="prt-card__name">Bransha</h2>
+            <span class="prt-card__tag">Spații inteligente · Iași</span>
+          </div>
+        </div>
+        <p class="prt-card__desc">Bransha este brandul dedicat creării de spații inteligente, parte din grupul BTG. Echipa analizează, proiectează și instalează sisteme de tip Building Management System, controlate printr-o aplicație proprie pentru monitorizarea și gestionarea casei sau a afacerii.</p>
+        <div class="prt-card__links">
+          <a href="https://bransha.ro/" target="_blank" rel="noopener" class="prt-card__site">Vizitează site-ul <span aria-hidden="true">↗</span></a>
+          <span class="prt-card__social"><a href="https://www.facebook.com/bransharomania/" target="_blank" rel="noopener" aria-label="Facebook Bransha"><svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M24 12c0-6.6-5.4-12-12-12S0 5.4 0 12c0 6 4.4 11 10.1 11.9V15.5h-3v-3.5h3V9.4c0-3 1.8-4.7 4.5-4.7 1.3 0 2.7.2 2.7.2v3h-1.5c-1.5 0-2 1-2 1.9V12h3.3l-.5 3.5h-2.7v8.4C19.6 23 24 18 24 12z"/></svg></a><a href="https://www.linkedin.com/company/bransha-spa%C8%9Bii-inteligente" target="_blank" rel="noopener" aria-label="LinkedIn Bransha"><svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M20.4 20.4h-3.6v-5.6c0-1.3 0-3-1.9-3s-2.1 1.4-2.1 2.9v5.7H9.2V9h3.4v1.6h.1c.5-.9 1.6-1.9 3.4-1.9 3.6 0 4.3 2.4 4.3 5.5v6.2zM5.3 7.4a2.1 2.1 0 112.1-2.1 2.1 2.1 0 01-2.1 2.1zM7.1 20.4H3.5V9h3.6v11.4zM22.2 0H1.8C.8 0 0 .8 0 1.7v20.6c0 .9.8 1.7 1.8 1.7h20.4c1 0 1.8-.8 1.8-1.7V1.7C24 .8 23.2 0 22.2 0z"/></svg></a></span>
+        </div>
+      </article>
+      <article class="prt-card rv">
+        <div class="prt-card__top">
+          <div class="prt-card__logo"><img src="/media/velomed-visience-marketing-branding-webdesign-afacere-startup-antreprenoriat-design-development-site-copy.avif" alt="Logo Velomed" loading="lazy"></div>
+          <div class="prt-card__meta">
+            <h2 class="prt-card__name">Velomed</h2>
+            <span class="prt-card__tag">Consultanță &amp; management · România</span>
+          </div>
+        </div>
+        <p class="prt-card__desc">Velomed este o companie de consultanță și sisteme inovatoare de management, care ajută organizațiile să se dezvolte prin strategii de sustenabilitate, digitalizare și scalare inteligentă. Activează în domenii precum healthcare, producție, tehnologie și finanțe, facilitând totodată soluții de comerț și achiziții la nivel internațional.</p>
+        <div class="prt-card__links">
+          <a href="https://velomed.ro/" target="_blank" rel="noopener" class="prt-card__site">Vizitează site-ul <span aria-hidden="true">↗</span></a>
+          <span class="prt-card__social"><a href="https://www.facebook.com/velomedoficial/" target="_blank" rel="noopener" aria-label="Facebook Velomed"><svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M24 12c0-6.6-5.4-12-12-12S0 5.4 0 12c0 6 4.4 11 10.1 11.9V15.5h-3v-3.5h3V9.4c0-3 1.8-4.7 4.5-4.7 1.3 0 2.7.2 2.7.2v3h-1.5c-1.5 0-2 1-2 1.9V12h3.3l-.5 3.5h-2.7v8.4C19.6 23 24 18 24 12z"/></svg></a></span>
+        </div>
+      </article>
+      <article class="prt-card rv">
+        <div class="prt-card__top">
+          <div class="prt-card__logo"><img src="/media/EDU-NET-BRAND-black-.avif" alt="Logo Edu-Net Academy" loading="lazy"></div>
+          <div class="prt-card__meta">
+            <h2 class="prt-card__name">Edu-Net Academy</h2>
+            <span class="prt-card__tag">Educație online · România</span>
+          </div>
+        </div>
+        <p class="prt-card__desc">Edu-Net Academy este un portal românesc de educație și dezvoltare profesională, unde profesorii își pot crea și susține cursuri online, iar cursanții au acces la o gamă variată de materiale din diferite domenii.</p>
+        <div class="prt-card__links">
+          <a href="https://edu-net.academy/" target="_blank" rel="noopener" class="prt-card__site">Vizitează site-ul <span aria-hidden="true">↗</span></a>
+          <span class="prt-card__social"><a href="https://www.facebook.com/profile.php?id=61554390615629" target="_blank" rel="noopener" aria-label="Facebook Edu-Net Academy"><svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M24 12c0-6.6-5.4-12-12-12S0 5.4 0 12c0 6 4.4 11 10.1 11.9V15.5h-3v-3.5h3V9.4c0-3 1.8-4.7 4.5-4.7 1.3 0 2.7.2 2.7.2v3h-1.5c-1.5 0-2 1-2 1.9V12h3.3l-.5 3.5h-2.7v8.4C19.6 23 24 18 24 12z"/></svg></a><a href="https://www.instagram.com/edunetromania/" target="_blank" rel="noopener" aria-label="Instagram Edu-Net Academy"><svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M12 2.2c3.2 0 3.6 0 4.9.1 1.2.1 1.8.3 2.2.4.6.2 1 .5 1.4.9.4.4.7.8.9 1.4.2.4.4 1 .4 2.2.1 1.3.1 1.7.1 4.9s0 3.6-.1 4.9c-.1 1.2-.3 1.8-.4 2.2-.2.6-.5 1-.9 1.4-.4.4-.8.7-1.4.9-.4.2-1 .4-2.2.4-1.3.1-1.7.1-4.9.1s-3.6 0-4.9-.1c-1.2-.1-1.8-.3-2.2-.4-.6-.2-1-.5-1.4-.9-.4-.4-.7-.8-.9-1.4-.2-.4-.4-1-.4-2.2C2.2 15.6 2.2 15.2 2.2 12s0-3.6.1-4.9c.1-1.2.3-1.8.4-2.2.2-.6.5-1 .9-1.4.4-.4.8-.7 1.4-.9.4-.2 1-.4 2.2-.4C8.4 2.2 8.8 2.2 12 2.2zm0 3.2A6.6 6.6 0 1018.6 12 6.6 6.6 0 0012 5.4zm0 10.9A4.3 4.3 0 1116.3 12 4.3 4.3 0 0112 16.3zm6.8-11.1a1.5 1.5 0 11-1.5-1.5 1.5 1.5 0 011.5 1.5z"/></svg></a></span>
+        </div>
+      </article>
+      <article class="prt-card rv">
+        <div class="prt-card__top">
+          <div class="prt-card__logo"><img src="/media/revo.avif" alt="Logo Revo" loading="lazy"></div>
+          <div class="prt-card__meta">
+            <h2 class="prt-card__name">Revo</h2>
+            <span class="prt-card__tag">Piese moto &amp; auto · România</span>
+          </div>
+        </div>
+        <p class="prt-card__desc">Revo, prin magazinul online PieseMoto.ro, comercializează piese și accesorii pentru motociclete, scutere, ATV-uri și trotinete electrice, de la echipamente de protecție și piese de motor până la componente electrice, anvelope și consumabile de întreținere.</p>
+        <div class="prt-card__links">
+          <a href="https://www.piesemoto.ro/" target="_blank" rel="noopener" class="prt-card__site">Vizitează site-ul <span aria-hidden="true">↗</span></a>
+          <span class="prt-card__social"><a href="https://www.facebook.com/PieseMoto.ro" target="_blank" rel="noopener" aria-label="Facebook Revo"><svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M24 12c0-6.6-5.4-12-12-12S0 5.4 0 12c0 6 4.4 11 10.1 11.9V15.5h-3v-3.5h3V9.4c0-3 1.8-4.7 4.5-4.7 1.3 0 2.7.2 2.7.2v3h-1.5c-1.5 0-2 1-2 1.9V12h3.3l-.5 3.5h-2.7v8.4C19.6 23 24 18 24 12z"/></svg></a><a href="https://www.instagram.com/piesemoto.ro/" target="_blank" rel="noopener" aria-label="Instagram Revo"><svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M12 2.2c3.2 0 3.6 0 4.9.1 1.2.1 1.8.3 2.2.4.6.2 1 .5 1.4.9.4.4.7.8.9 1.4.2.4.4 1 .4 2.2.1 1.3.1 1.7.1 4.9s0 3.6-.1 4.9c-.1 1.2-.3 1.8-.4 2.2-.2.6-.5 1-.9 1.4-.4.4-.8.7-1.4.9-.4.2-1 .4-2.2.4-1.3.1-1.7.1-4.9.1s-3.6 0-4.9-.1c-1.2-.1-1.8-.3-2.2-.4-.6-.2-1-.5-1.4-.9-.4-.4-.7-.8-.9-1.4-.2-.4-.4-1-.4-2.2C2.2 15.6 2.2 15.2 2.2 12s0-3.6.1-4.9c.1-1.2.3-1.8.4-2.2.2-.6.5-1 .9-1.4.4-.4.8-.7 1.4-.9.4-.2 1-.4 2.2-.4C8.4 2.2 8.8 2.2 12 2.2zm0 3.2A6.6 6.6 0 1018.6 12 6.6 6.6 0 0012 5.4zm0 10.9A4.3 4.3 0 1116.3 12 4.3 4.3 0 0112 16.3zm6.8-11.1a1.5 1.5 0 11-1.5-1.5 1.5 1.5 0 011.5 1.5z"/></svg></a></span>
+        </div>
+      </article>
+      <article class="prt-card rv">
+        <div class="prt-card__top">
+          <div class="prt-card__logo"><img src="/media/allyabeauty-visience-marketing-branding-creare-site-logo-.avif" alt="Logo Alyya Beauty" loading="lazy"></div>
+          <div class="prt-card__meta">
+            <h2 class="prt-card__name">Alyya Beauty</h2>
+            <span class="prt-card__tag">Beauty &amp; make-up · Botoșani</span>
+          </div>
+        </div>
+        <p class="prt-card__desc">Salon de înfrumusețare coordonat de Alina Olinic, în Botoșani, care oferă make-up profesional, dermopigmentare, extensii și laminare de gene și sprâncene, precum și microneedling. Echipa de specialiști lucrează într-un spațiu amenajat elegant, în stil baroc modern.</p>
+        <div class="prt-card__links">
+          <a href="https://alyyabeauty.com/" target="_blank" rel="noopener" class="prt-card__site">Vizitează site-ul <span aria-hidden="true">↗</span></a>
+          <span class="prt-card__social"><a href="https://www.facebook.com/AlyyaBeautybyAlinaOlinic/" target="_blank" rel="noopener" aria-label="Facebook Alyya Beauty"><svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M24 12c0-6.6-5.4-12-12-12S0 5.4 0 12c0 6 4.4 11 10.1 11.9V15.5h-3v-3.5h3V9.4c0-3 1.8-4.7 4.5-4.7 1.3 0 2.7.2 2.7.2v3h-1.5c-1.5 0-2 1-2 1.9V12h3.3l-.5 3.5h-2.7v8.4C19.6 23 24 18 24 12z"/></svg></a></span>
+        </div>
+      </article>
+      <article class="prt-card rv">
+        <div class="prt-card__top">
+          <div class="prt-card__logo"><img src="/media/LR_logo_light-1-200x78-1.avif" alt="Logo Lucia Roșca" loading="lazy"></div>
+          <div class="prt-card__meta">
+            <h2 class="prt-card__name">Lucia Roșca</h2>
+            <span class="prt-card__tag">Fashion · București</span>
+          </div>
+        </div>
+        <p class="prt-card__desc">Lucia Roșca este un brand independent de modă feminină din București, fondat în 2016. Creează colecții ready-to-wear și ținute la comandă, inclusiv rochii de mireasă, cu un stil modern, rafinat, atent la culoare, texturi și materiale de calitate.</p>
+        <div class="prt-card__links">
+          <a href="https://luciarosca.ro/" target="_blank" rel="noopener" class="prt-card__site">Vizitează site-ul <span aria-hidden="true">↗</span></a>
+          <span class="prt-card__social"><a href="https://www.facebook.com/luciaroscastudio/" target="_blank" rel="noopener" aria-label="Facebook Lucia Roșca"><svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M24 12c0-6.6-5.4-12-12-12S0 5.4 0 12c0 6 4.4 11 10.1 11.9V15.5h-3v-3.5h3V9.4c0-3 1.8-4.7 4.5-4.7 1.3 0 2.7.2 2.7.2v3h-1.5c-1.5 0-2 1-2 1.9V12h3.3l-.5 3.5h-2.7v8.4C19.6 23 24 18 24 12z"/></svg></a><a href="https://www.instagram.com/luciarosca/" target="_blank" rel="noopener" aria-label="Instagram Lucia Roșca"><svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M12 2.2c3.2 0 3.6 0 4.9.1 1.2.1 1.8.3 2.2.4.6.2 1 .5 1.4.9.4.4.7.8.9 1.4.2.4.4 1 .4 2.2.1 1.3.1 1.7.1 4.9s0 3.6-.1 4.9c-.1 1.2-.3 1.8-.4 2.2-.2.6-.5 1-.9 1.4-.4.4-.8.7-1.4.9-.4.2-1 .4-2.2.4-1.3.1-1.7.1-4.9.1s-3.6 0-4.9-.1c-1.2-.1-1.8-.3-2.2-.4-.6-.2-1-.5-1.4-.9-.4-.4-.7-.8-.9-1.4-.2-.4-.4-1-.4-2.2C2.2 15.6 2.2 15.2 2.2 12s0-3.6.1-4.9c.1-1.2.3-1.8.4-2.2.2-.6.5-1 .9-1.4.4-.4.8-.7 1.4-.9.4-.2 1-.4 2.2-.4C8.4 2.2 8.8 2.2 12 2.2zm0 3.2A6.6 6.6 0 1018.6 12 6.6 6.6 0 0012 5.4zm0 10.9A4.3 4.3 0 1116.3 12 4.3 4.3 0 0112 16.3zm6.8-11.1a1.5 1.5 0 11-1.5-1.5 1.5 1.5 0 011.5 1.5z"/></svg></a><a href="https://www.linkedin.com/in/lucia-rosca-8a7baa57/" target="_blank" rel="noopener" aria-label="LinkedIn Lucia Roșca"><svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M20.4 20.4h-3.6v-5.6c0-1.3 0-3-1.9-3s-2.1 1.4-2.1 2.9v5.7H9.2V9h3.4v1.6h.1c.5-.9 1.6-1.9 3.4-1.9 3.6 0 4.3 2.4 4.3 5.5v6.2zM5.3 7.4a2.1 2.1 0 112.1-2.1 2.1 2.1 0 01-2.1 2.1zM7.1 20.4H3.5V9h3.6v11.4zM22.2 0H1.8C.8 0 0 .8 0 1.7v20.6c0 .9.8 1.7 1.8 1.7h20.4c1 0 1.8-.8 1.8-1.7V1.7C24 .8 23.2 0 22.2 0z"/></svg></a></span>
+        </div>
+      </article>
+      <article class="prt-card rv">
+        <div class="prt-card__top">
+          <div class="prt-card__logo"><img src="/media/Private-Stylist-logo-2.avif" alt="Logo Alexander Tailor" loading="lazy"></div>
+          <div class="prt-card__meta">
+            <h2 class="prt-card__name">Alexander Tailor</h2>
+            <span class="prt-card__tag">Croitorie made-to-measure · România &amp; UK</span>
+          </div>
+        </div>
+        <p class="prt-card__desc">Alexander este croitor și stilist personal pentru bărbați, originar din România și format pe Savile Row și Jermyn Street la Londra. Realizează costume made-to-measure cu finisaj de tip bespoke, lucrând cu clienți din Londra, Paris și București.</p>
+        <div class="prt-card__links">
+          <a href="https://alexanderprivatetailor.com/" target="_blank" rel="noopener" class="prt-card__site">Vizitează site-ul <span aria-hidden="true">↗</span></a>
+          <span class="prt-card__social"><a href="https://www.instagram.com/alexander.privatetailor/" target="_blank" rel="noopener" aria-label="Instagram Alexander Tailor"><svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M12 2.2c3.2 0 3.6 0 4.9.1 1.2.1 1.8.3 2.2.4.6.2 1 .5 1.4.9.4.4.7.8.9 1.4.2.4.4 1 .4 2.2.1 1.3.1 1.7.1 4.9s0 3.6-.1 4.9c-.1 1.2-.3 1.8-.4 2.2-.2.6-.5 1-.9 1.4-.4.4-.8.7-1.4.9-.4.2-1 .4-2.2.4-1.3.1-1.7.1-4.9.1s-3.6 0-4.9-.1c-1.2-.1-1.8-.3-2.2-.4-.6-.2-1-.5-1.4-.9-.4-.4-.7-.8-.9-1.4-.2-.4-.4-1-.4-2.2C2.2 15.6 2.2 15.2 2.2 12s0-3.6.1-4.9c.1-1.2.3-1.8.4-2.2.2-.6.5-1 .9-1.4.4-.4.8-.7 1.4-.9.4-.2 1-.4 2.2-.4C8.4 2.2 8.8 2.2 12 2.2zm0 3.2A6.6 6.6 0 1018.6 12 6.6 6.6 0 0012 5.4zm0 10.9A4.3 4.3 0 1116.3 12 4.3 4.3 0 0112 16.3zm6.8-11.1a1.5 1.5 0 11-1.5-1.5 1.5 1.5 0 011.5 1.5z"/></svg></a></span>
+        </div>
+      </article>
+      <article class="prt-card rv">
+        <div class="prt-card__top">
+          <div class="prt-card__logo"><img src="/media/bbg-maison-euxine-visience-marketing-branding-webdesign-afacere-startup-antreprenoriat-design-development-site-copy.avif" alt="Logo BBG Maison Euxine" loading="lazy"></div>
+          <div class="prt-card__meta">
+            <h2 class="prt-card__name">BBG Maison Euxine</h2>
+            <span class="prt-card__tag">Export fructe de mare · România</span>
+          </div>
+        </div>
+        <p class="prt-card__desc">BBG Maison Euxine este o companie românească specializată în comerțul și exportul de fructe de mare, aducând pe piață produse din zona Mării Negre.</p>
+        <div class="prt-card__links">
+          <a href="https://bbgmaisoneuxine.com/" target="_blank" rel="noopener" class="prt-card__site">Vizitează site-ul <span aria-hidden="true">↗</span></a>
+          
+        </div>
+      </article>
+      <article class="prt-card rv">
+        <div class="prt-card__top">
+          <div class="prt-card__logo"><img src="/media/ecologica-2000-logo-nero-visience.avif" alt="Logo Ecologica 2000" loading="lazy"></div>
+          <div class="prt-card__meta">
+            <h2 class="prt-card__name">Ecologica 2000</h2>
+            <span class="prt-card__tag">Gestionare deșeuri · Italia</span>
+          </div>
+        </div>
+        <p class="prt-card__desc">Una dintre cele mai importante companii italiene de gestionare a deșeurilor, cu sediul în Settimo Milanese (Milano). Se ocupă de colectarea și transportul deșeurilor speciale nepericuloase și oferă soluții pentru economia circulară în Lombardia, Emilia-Romagna și Piemont.</p>
+        <div class="prt-card__links">
+          <a href="https://ecologica2000.eu/" target="_blank" rel="noopener" class="prt-card__site">Vizitează site-ul <span aria-hidden="true">↗</span></a>
+          
+        </div>
+      </article>
+      <article class="prt-card rv">
+        <div class="prt-card__top">
+          <div class="prt-card__logo"><img src="/media/wts-srl-logo-visience.avif" alt="Logo WTS SRL" loading="lazy"></div>
+          <div class="prt-card__meta">
+            <h2 class="prt-card__name">WTS SRL</h2>
+            <span class="prt-card__tag">Reciclare paleți · Italia</span>
+          </div>
+        </div>
+        <p class="prt-card__desc">Companie italiană din Settimo Milanese (Milano) specializată în reciclarea paleților din lemn: colectează, repară și revinde paleți recondiționați. Face parte dintr-un grup dedicat managementului deșeurilor și economiei circulare.</p>
+        <div class="prt-card__links">
+          <a href="https://wts.srl/" target="_blank" rel="noopener" class="prt-card__site">Vizitează site-ul <span aria-hidden="true">↗</span></a>
+          
+        </div>
+      </article>
+      <article class="prt-card rv">
+        <div class="prt-card__top">
+          <div class="prt-card__logo"><img src="/media/bsp-srl-logo-visience.avif" alt="Logo BSP SRL" loading="lazy"></div>
+          <div class="prt-card__meta">
+            <h2 class="prt-card__name">BSP SRL</h2>
+            <span class="prt-card__tag">Consultanță deșeuri · Italia</span>
+          </div>
+        </div>
+        <p class="prt-card__desc">Companie italiană de consultanță de mediu din Settimo Milanese (Milano), specializată în clasificarea deșeurilor, remedierea solului și a rezervoarelor, precum și intermedierea deșeurilor periculoase și nepericuloase. Activează alături de Ecologica 2000 și WTS în același grup.</p>
+        <div class="prt-card__links">
+          <a href="https://bsp.srl/" target="_blank" rel="noopener" class="prt-card__site">Vizitează site-ul <span aria-hidden="true">↗</span></a>
+          
+        </div>
+      </article>
+      <article class="prt-card rv">
+        <div class="prt-card__top">
+          <div class="prt-card__logo"><img src="/media/logo-rumpel.avif" alt="Logo Rumpel-M-INFO" loading="lazy"></div>
+          <div class="prt-card__meta">
+            <h2 class="prt-card__name">Rumpel-M-INFO</h2>
+            <span class="prt-card__tag">Eliminare deșeuri · Germania</span>
+          </div>
+        </div>
+        <p class="prt-card__desc">Firmă germană de salubritate ce oferă servicii profesionale de eliminare și management al deșeurilor. Se ocupă de colectarea și gestionarea responsabilă a deșeurilor pentru clienți din spațiul german.</p>
+        <div class="prt-card__links">
+          <a href="https://rumpel-m-info.de/" target="_blank" rel="noopener" class="prt-card__site">Vizitează site-ul <span aria-hidden="true">↗</span></a>
+          
+        </div>
+      </article>
+      <article class="prt-card rv">
+        <div class="prt-card__top">
+          <div class="prt-card__logo"><img src="/media/happy20hosting-visience-marketing-branding-webdesign-afacere-startup-antreprenoriat-design-development-site-.avif" alt="Logo Happy Hosting" loading="lazy"></div>
+          <div class="prt-card__meta">
+            <h2 class="prt-card__name">Happy Hosting</h2>
+            <span class="prt-card__tag">Web hosting · Italia</span>
+          </div>
+        </div>
+        <p class="prt-card__desc">Happy Hosting este o companie italiană de găzduire web, care oferă servicii de hosting pentru site-uri și aplicații online. Pune la dispoziția clienților infrastructura necesară pentru a-și menține prezența digitală stabilă și accesibilă.</p>
+        <div class="prt-card__links">
+          <a href="https://happyhosting.it/" target="_blank" rel="noopener" class="prt-card__site">Vizitează site-ul <span aria-hidden="true">↗</span></a>
+          
+        </div>
+      </article>
+      <article class="prt-card rv">
+        <div class="prt-card__top">
+          <div class="prt-card__logo"><img src="/media/giacomo-visience-marketing-branding-webdesign-afacere-startup-antreprenoriat-design-development-site-.avif" alt="Logo Studio Lunghini" loading="lazy"></div>
+          <div class="prt-card__meta">
+            <h2 class="prt-card__name">Studio Lunghini</h2>
+            <span class="prt-card__tag">Avocatură · Italia</span>
+          </div>
+        </div>
+        <p class="prt-card__desc">Studio Lunghini este cabinetul de avocatură al lui Giacomo Lunghini, specializat în drept penal economic, la Milano. Asistă atât persoane fizice, cât și companii în cauze legate de infracțiuni economice, fiscale, de insolvență și de mediu, cu accent pe intervenția timpurie și strategia de apărare.</p>
+        <div class="prt-card__links">
+          <a href="https://studiolunghini.it/" target="_blank" rel="noopener" class="prt-card__site">Vizitează site-ul <span aria-hidden="true">↗</span></a>
+          
+        </div>
+      </article>
+      <article class="prt-card rv">
+        <div class="prt-card__top">
+          <div class="prt-card__logo"><img src="/media/dq-design.avif" alt="Logo DQ Design" loading="lazy"></div>
+          <div class="prt-card__meta">
+            <h2 class="prt-card__name">DQ Design</h2>
+            <span class="prt-card__tag">Bijuterii · Bangkok</span>
+          </div>
+        </div>
+        <p class="prt-card__desc">Atelier și magazin de bijuterii din Bangkok, specializat în creația de bijuterii la comandă, de la schiță și modelare 3D până la modele lucrate manual și turnare. Este și distribuitor exclusiv pentru Marchisio 1859, renumitul producător italian de lanțuri din aur.</p>
+        <div class="prt-card__links">
+          <a href="https://dqdesign.co.th/" target="_blank" rel="noopener" class="prt-card__site">Vizitează site-ul <span aria-hidden="true">↗</span></a>
+          
+        </div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="prt-cta">
+  <div class="wrap">
+    <div class="rv">
+      <div class="eyebrow" style="justify-content:center;color:var(--acc2)"><span class="ey-dot" style="background:var(--acc2)"></span>Hai în echipă</div>
+      <h2 class="dd dd-lg">Vrei să fii <span class="acc">următorul partener?</span></h2>
+      <p>Spune-ne despre afacerea ta și construim împreună următorul proiect de succes.</p>
+      <div style="display:flex;gap:12px;justify-content:center;flex-wrap:wrap">
+        <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+        <a href="/portofoliu/" class="btn btn-dark">Vezi portofoliul</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Servicii conexe și prețuri transparente">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vrei să lucrăm și cu tine?</h2>
+      <p>Lucrăm transparent, cu prețuri publice și fără costuri ascunse. Vezi serviciile și de la cât pornesc.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Descoperă mai mult</div>
+      <div class="rel-links__grid">
+        <a href="/portofoliu/" class="rel-link"><span class="rel-link__name">Portofoliu <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Proiecte reale livrate de echipa noastră.</span></a>
+        <a href="/creare-site-prezentare/" class="rel-link"><span class="rel-link__name">Creare site de prezentare <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Site-uri de companie rapide, cu design pe brandul tău.</span></a>
+        <a href="/creare-magazin-online/" class="rel-link"><span class="rel-link__name">Creare magazin online <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">WooCommerce și Shopify optimizate pentru vânzări.</span></a>
+        <a href="/optimizare-seo/" class="rel-link"><span class="rel-link__name">SEO & content <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Ajungi pe prima pagină Google, organic.</span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+8:["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$11"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$12"}}]],null,"$L13"]}]
+14:[]
+9:"$W14"
+a:["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$L16"}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$18",null,{"name":"Next.Metadata","children":"$L19"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+c:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1a:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+13:["$","$L1a",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1c:I[27201,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"IconMark"]
+19:[["$","title","0",{"children":"Partenerii și clienții Visience"}],["$","meta","1",{"name":"description","content":"Partenerii și clienții Visience: firme din România, Italia, Germania și internațional pentru care am creat site-uri, branding și campanii de marketing."}],["$","link","2",{"rel":"canonical","href":"https://visience.ro/parteneri/"}],["$","meta","3",{"property":"og:title","content":"Partenerii noștri — Visience"}],["$","meta","4",{"property":"og:description","content":"Firme alături de care am construit site-uri, branding și marketing."}],["$","meta","5",{"property":"og:url","content":"https://visience.ro/parteneri/"}],["$","meta","6",{"property":"og:locale","content":"ro_RO"}],["$","meta","7",{"property":"og:image","content":"https://visience.ro/media/og-visience.jpg"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Agenție de Marketing & Creare Site-uri în Iași | Visience"}],["$","meta","11",{"name":"twitter:description","content":"Branding, website-uri, magazine online, Google & Meta Ads, SEO. Prețuri publice, fără costuri ascunse."}],["$","meta","12",{"name":"twitter:image","content":"https://visience.ro/media/og-visience.jpg"}],["$","link","13",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L1c","14",{}]]
+1b:null

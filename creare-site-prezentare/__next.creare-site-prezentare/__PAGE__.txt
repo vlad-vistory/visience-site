@@ -1,0 +1,659 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+2:Tb17,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-prezentare/#service","name":"Creare website de prezentare","serviceType":"Web design și dezvoltare website","description":"Creare site-uri de prezentare profesionale: landing page-uri, site-uri de companie și portofolii. Design adaptiv, SEO tehnic, CMS inclus. De la 150€.","provider":{"@type":"Organization","name":"Visience Creative Experience","url":"https://visience.ro/"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"150","highPrice":"2000","offerCount":"3"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-prezentare/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site de prezentare?","acceptedAnswer":{"@type":"Answer","text":"Un site de prezentare standard multi-pagină pornește de la 500€, iar un site premium cu design custom de la 2.000€. Pentru o campanie, un landing page simplu pornește de la 150€. Prețul depinde de numărul de pagini, funcționalități și personalizare."}},{"@type":"Question","name":"Cât durează realizarea unui site de prezentare?","acceptedAnswer":{"@type":"Answer","text":"Un landing page se livrează în câteva zile, un site standard în 2–4 săptămâni, iar un proiect premium în 4–8 săptămâni, în funcție de volumul de conținut și de feedback."}},{"@type":"Question","name":"Pe ce platformă construiți site-ul?","acceptedAnswer":{"@type":"Answer","text":"Construim cel mai des pe WordPress (Oxygen Builder sau Elementor) și Webflow, astfel încât să poți edita ușor conținutul după livrare."}},{"@type":"Question","name":"Site-ul va fi optimizat pentru telefon și pentru Google?","acceptedAnswer":{"@type":"Answer","text":"Da. Fiecare site este responsive și include SEO tehnic de la bun început: viteză optimizată, structură corectă și date structurate. Țintim un scor PageSpeed de 95–100 pe mobil."}},{"@type":"Question","name":"Pot edita singur conținutul după ce primesc site-ul?","acceptedAnswer":{"@type":"Answer","text":"Da. Toate site-urile includ un CMS, deci poți modifica texte, imagini și pagini fără cunoștințe tehnice. Oferim și o sesiune de instruire la livrare."}},{"@type":"Question","name":"Includeți și textele (copywriting) pentru site?","acceptedAnswer":{"@type":"Answer","text":"Da. Copywriting-ul orientat spre conversie este inclus în pachetele Standard și Premium, iar pentru landing page poate fi adăugat ca opțiune."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Website de prezentare","item":"https://visience.ro/creare-site-prezentare/"}]}]}3:T98e2,<style>
+.wsp-sec-head { margin-bottom: 52px; max-width: 640px; }
+@media (max-width: 640px) { .wsp-sec-head { margin-bottom: 36px; } }
+
+.wsp-hero {
+  position: relative;
+  min-height: 88svh;
+  display: flex;
+  align-items: flex-end;
+  overflow: hidden;
+  background: var(--ink);
+  padding-top: calc(var(--nav-h) + 20px);
+}
+.wsp-hero__vid { position: absolute; inset: 0; pointer-events: none; }
+.wsp-hero__vid video { width: 100%; height: 100%; object-fit: cover; opacity: .16; }
+.wsp-hero__overlay {
+  position: absolute; inset: 0;
+  background: linear-gradient(165deg, rgba(17,16,16,.12) 0%, rgba(17,16,16,.80) 52%, var(--ink) 100%);
+}
+.wsp-hero__content { position: relative; z-index: 2; width: 100%; padding-bottom: 70px; }
+
+.wsp-crumb {
+  display: flex; align-items: center; gap: 9px; flex-wrap: wrap;
+  font-family: var(--f-m); font-size: 10px; letter-spacing: .1em;
+  text-transform: uppercase; color: rgba(255,255,255,.45); margin-bottom: 26px;
+}
+.wsp-crumb a { color: rgba(255,255,255,.45); transition: color .2s; }
+.wsp-crumb a:hover { color: var(--acc2); }
+.wsp-crumb span[aria-current] { color: var(--acc2); }
+
+.wsp-hero__chip {
+  display: inline-flex; align-items: center; gap: 9px; margin-bottom: 26px;
+  padding: 7px 16px; border: 1px solid rgba(232,152,10,.35);
+  border-radius: 100px; background: rgba(232,152,10,.12);
+}
+.wsp-hero__chip-dot {
+  width: 7px; height: 7px; border-radius: 50%; background: var(--acc2);
+  flex-shrink: 0; animation: wspPulse 2.4s ease-in-out infinite;
+}
+@keyframes wspPulse { 0%,100% { opacity: 1; transform: scale(1); } 50% { opacity: .3; transform: scale(.6); } }
+.wsp-hero__chip span {
+  font-family: var(--f-m); font-size: 10px; letter-spacing: .14em;
+  text-transform: uppercase; color: var(--acc2);
+}
+.wsp-hero__hed {
+  font-family: var(--f-d); font-weight: 800;
+  font-size: clamp(46px, 8vw, 96px); line-height: .92;
+  letter-spacing: -.04em; color: #fff; margin-bottom: 26px;
+}
+.wsp-hero__hed .acc {
+  background: linear-gradient(135deg, var(--acc2) 0%, #FFD080 100%);
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+}
+.wsp-hero__lead {
+  max-width: 540px; font-size: clamp(15px, 1.5vw, 18px); line-height: 1.74;
+  color: rgba(255,255,255,.62); font-weight: 300; margin-bottom: 34px;
+}
+.wsp-hero__lead strong { color: var(--acc2); font-weight: 600; }
+.wsp-hero__acts { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 36px; }
+.wsp-hero__acts .btn i { font-size: 13px; }
+.wsp-hero__meta { display: flex; gap: 26px; flex-wrap: wrap; }
+.wsp-hero__meta span {
+  display: inline-flex; align-items: center; gap: 8px;
+  font-family: var(--f-m); font-size: 11px; letter-spacing: .04em; color: rgba(255,255,255,.5);
+}
+.wsp-hero__meta i { color: var(--acc2); font-size: 13px; }
+@media (max-width: 640px) {
+  .wsp-hero { min-height: 0; padding-bottom: 0; }
+  .wsp-hero__content { padding-bottom: 50px; }
+  .wsp-hero__acts { flex-direction: column; }
+  .wsp-hero__acts .btn { justify-content: center; }
+  .wsp-hero__meta { gap: 14px; }
+}
+
+.wsp-intro { padding: 100px 0; background: var(--white); }
+.wsp-intro__inner { display: grid; grid-template-columns: 1fr 1.1fr; gap: 60px; align-items: start; }
+.wsp-intro__lead { font-size: clamp(16px, 1.5vw, 19px); line-height: 1.7; color: var(--ink2); font-weight: 400; margin-bottom: 22px; }
+.wsp-intro__lead strong { color: var(--acc-dark); }
+.wsp-intro__body { font-size: 15px; line-height: 1.84; color: var(--mid); font-weight: 300; }
+@media (max-width: 1024px) { .wsp-intro { padding: 70px 0; } .wsp-intro__inner { grid-template-columns: 1fr; gap: 28px; } }
+
+.wsp-types { padding: 110px 0; background: var(--cream); }
+.wsp-types__grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+.wsp-type {
+  position: relative; background: var(--white); border: 1px solid var(--border);
+  border-radius: var(--rlg); padding: 36px 30px 32px; display: flex; flex-direction: column;
+  transition: transform .3s, box-shadow .3s, border-color .3s;
+}
+.wsp-type:hover { transform: translateY(-6px); border-color: rgba(232,152,10,.35); box-shadow: 0 22px 50px rgba(232,152,10,.12); }
+.wsp-type--feat { background: var(--ink); border-color: var(--ink); }
+.wsp-type__badge {
+  position: absolute; top: -12px; left: 30px; background: var(--acc); color: var(--acc-ink);
+  font-family: var(--f-m); font-size: 9px; font-weight: 600; letter-spacing: .12em;
+  text-transform: uppercase; padding: 6px 13px; border-radius: 100px;
+}
+.wsp-type__icon {
+  width: 52px; height: 52px; border-radius: 14px; background: var(--acc-bg); color: var(--acc);
+  display: flex; align-items: center; justify-content: center; font-size: 22px; margin-bottom: 22px;
+}
+.wsp-type--feat .wsp-type__icon { background: rgba(232,152,10,.18); color: var(--acc2); }
+.wsp-type__tag { font-family: var(--f-m); font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--acc); margin-bottom: 8px; font-weight: 500; }
+.wsp-type--feat .wsp-type__tag { color: var(--acc2); }
+.wsp-type__name { font-family: var(--f-d); font-weight: 700; font-size: 24px; letter-spacing: -.02em; color: var(--ink); margin-bottom: 12px; }
+.wsp-type--feat .wsp-type__name { color: #fff; }
+.wsp-type__desc { font-size: 14px; line-height: 1.74; color: var(--mid); font-weight: 300; margin-bottom: 22px; }
+.wsp-type--feat .wsp-type__desc { color: rgba(255,255,255,.6); }
+.wsp-type__list { display: flex; flex-direction: column; gap: 11px; margin-top: auto; padding-top: 22px; border-top: 1px solid var(--border); }
+.wsp-type--feat .wsp-type__list { border-top-color: rgba(255,255,255,.12); }
+.wsp-type__list li { position: relative; padding-left: 24px; font-size: 13px; color: var(--ink2); line-height: 1.5; }
+.wsp-type--feat .wsp-type__list li { color: rgba(255,255,255,.78); }
+.wsp-type__list li::before { content: '✓'; position: absolute; left: 0; top: 0; color: var(--acc); font-size: 12px; font-weight: 700; }
+.wsp-type--feat .wsp-type__list li::before { color: var(--acc2); }
+@media (max-width: 1024px) { .wsp-types { padding: 80px 0; } .wsp-types__grid { grid-template-columns: 1fr; max-width: 460px; margin: 0 auto; } }
+
+.wsp-feat { padding: 110px 0; background: var(--cream2); position: relative; overflow: hidden; }
+.wsp-feat .wrap { position: relative; z-index: 1; }
+.wsp-feat__grid {
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: 3px;
+  border: 1px solid var(--border); border-radius: var(--rlg); overflow: hidden; background: var(--border);
+}
+.wsp-feat__cell { background: var(--white); padding: 38px 32px; transition: background .3s; }
+.wsp-feat__cell:hover { background: var(--cream); }
+.wsp-feat__cell i { font-size: 26px; color: var(--acc); margin-bottom: 18px; display: block; }
+.wsp-feat__cell h3 { font-family: var(--f-d); font-weight: 700; font-size: 18px; letter-spacing: -.015em; color: var(--ink); margin-bottom: 10px; }
+.wsp-feat__cell p { font-size: 13.5px; line-height: 1.74; color: var(--mid); font-weight: 300; }
+@media (max-width: 1024px) { .wsp-feat { padding: 80px 0; } .wsp-feat__grid { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 560px) { .wsp-feat__grid { grid-template-columns: 1fr; } .wsp-feat__cell { padding: 28px 24px; } }
+
+.wsp-proc { padding: 110px 0; background: var(--white); }
+.wsp-proc__list {
+  display: grid; grid-template-columns: repeat(2, 1fr); gap: 3px;
+  border: 1px solid var(--border); border-radius: var(--rlg); overflow: hidden; background: var(--border);
+}
+.wsp-proc__step { background: var(--white); padding: 40px 36px; display: flex; gap: 22px; align-items: flex-start; transition: background .3s; }
+.wsp-proc__step:hover { background: var(--cream); }
+.wsp-proc__n { font-family: var(--f-d); font-weight: 800; font-size: 38px; letter-spacing: -.04em; line-height: 1; color: var(--acc); opacity: .4; flex-shrink: 0; }
+.wsp-proc__c h3 { font-family: var(--f-d); font-weight: 700; font-size: 19px; letter-spacing: -.015em; color: var(--ink); margin-bottom: 10px; }
+.wsp-proc__c p { font-size: 14px; line-height: 1.78; color: var(--mid); font-weight: 300; }
+@media (max-width: 768px) { .wsp-proc { padding: 80px 0; } .wsp-proc__list { grid-template-columns: 1fr; } .wsp-proc__step { padding: 30px 26px; } }
+
+.wsp-cmp { padding: 110px 0; background: var(--cream); }
+.wsp-cmp__scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; border-radius: var(--rlg); border: 1px solid var(--border); }
+.wsp-cmp__table { width: 100%; min-width: 640px; border-collapse: collapse; background: var(--white); }
+.wsp-cmp__table th, .wsp-cmp__table td { padding: 18px 20px; text-align: center; border-bottom: 1px solid var(--border); font-size: 14px; }
+.wsp-cmp__table thead th { background: var(--cream); border-bottom: 1.5px solid var(--border); vertical-align: top; }
+.wsp-cmp__feat-col { text-align: left !important; width: 32%; }
+.wsp-cmp__table tbody th[scope="row"] { text-align: left; font-family: var(--f-b); font-weight: 600; font-size: 13.5px; color: var(--ink); }
+.wsp-cmp__plan { display: block; font-family: var(--f-d); font-weight: 700; font-size: 16px; color: var(--ink); letter-spacing: -.01em; }
+.wsp-cmp__price { display: block; font-family: var(--f-m); font-size: 12px; color: var(--acc); margin-top: 4px; font-weight: 500; }
+.wsp-cmp__th-feat { background: var(--acc-bg) !important; }
+.wsp-cmp__th-feat .wsp-cmp__plan { color: var(--acc-dark); }
+.wsp-cmp__td-feat { background: rgba(232,152,10,.05); font-weight: 600; color: var(--ink); }
+.wsp-cmp__table tbody tr:last-child th, .wsp-cmp__table tbody tr:last-child td { border-bottom: none; }
+.wsp-cmp__table .fa-check { color: var(--acc); font-size: 14px; }
+.wsp-cmp__no { color: var(--light) !important; font-size: 11px; }
+.wsp-cmp__opt { font-family: var(--f-m); font-size: 10px; letter-spacing: .04em; text-transform: uppercase; color: var(--mid); background: var(--cream2); padding: 3px 9px; border-radius: 100px; }
+.wsp-cmp__note { margin-top: 18px; font-size: 12.5px; color: var(--light); text-align: center; font-style: italic; }
+@media (max-width: 768px) { .wsp-cmp { padding: 80px 0; } }
+
+.wsp-port { padding: 110px 0; background: var(--white); }
+.wsp-port__grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 18px; }
+.wsp-pcard { background: var(--white); border: 1px solid var(--border); border-radius: 14px; overflow: hidden; display: flex; flex-direction: column; transition: transform .35s, box-shadow .35s; }
+.wsp-pcard:hover { transform: translateY(-5px); box-shadow: 0 20px 42px rgba(17,16,16,.10); }
+.wsp-pcard__img { aspect-ratio: 1898 / 949; overflow: hidden; background: var(--cream2); }
+.wsp-pcard__img--logo { aspect-ratio: 1 / 1; }
+.wsp-pcard__img img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .55s cubic-bezier(.25,.46,.45,.94); }
+.wsp-pcard:hover .wsp-pcard__img img { transform: scale(1.05); }
+.wsp-pcard__body { padding: 18px 18px 20px; }
+.wsp-pcard__pills { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 12px; }
+.wsp-pcard__pill { font-family: var(--f-m); font-size: 9px; letter-spacing: .08em; text-transform: uppercase; padding: 4px 9px; border-radius: 100px; background: var(--acc-bg); color: var(--acc-ink); font-weight: 500; }
+.wsp-pcard__pill--ind { background: var(--cream2); color: var(--mid); }
+.wsp-pcard__title { font-family: var(--f-d); font-weight: 700; font-size: 17px; letter-spacing: -.015em; color: var(--ink); margin-bottom: 8px; line-height: 1.2; }
+.wsp-pcard__url { font-family: var(--f-m); font-size: 11px; color: var(--acc); font-weight: 500; transition: color .2s; }
+.wsp-pcard__url:hover { color: var(--acc-dark); }
+.wsp-port__more { margin-top: 40px; text-align: center; }
+@media (max-width: 1024px) { .wsp-port { padding: 80px 0; } .wsp-port__grid { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 560px) { .wsp-port__grid { grid-template-columns: 1fr; max-width: 360px; margin: 0 auto; } }
+
+.wsp-faq { padding: 110px 0; background: var(--cream2); }
+.wsp-faq__list { max-width: 820px; border-top: 1px solid var(--border); }
+.wsp-faq__item { border-bottom: 1px solid var(--border); }
+.wsp-faq__q {
+  list-style: none; cursor: pointer; display: flex; align-items: center; justify-content: space-between;
+  gap: 20px; padding: 24px 4px; font-family: var(--f-d); font-weight: 700;
+  font-size: clamp(16px, 1.8vw, 20px); letter-spacing: -.015em; color: var(--ink); transition: color .2s;
+}
+.wsp-faq__q::-webkit-details-marker { display: none; }
+.wsp-faq__q::after { content: '+'; font-family: var(--f-d); font-weight: 300; font-size: 28px; line-height: 1; color: var(--acc); flex-shrink: 0; transition: transform .3s ease; }
+.wsp-faq__item[open] .wsp-faq__q::after { transform: rotate(45deg); }
+.wsp-faq__q:hover { color: var(--acc); }
+.wsp-faq__a { padding: 0 4px 26px; font-size: 15px; line-height: 1.84; color: var(--mid); font-weight: 300; max-width: 700px; }
+.wsp-faq__a strong { color: var(--acc-dark); font-weight: 600; }
+@media (max-width: 768px) { .wsp-faq { padding: 80px 0; } }
+
+.wsp-contact { background: var(--cream); }
+.wsp-contact__direct { display: flex; flex-direction: column; gap: 10px; margin-bottom: 30px; }
+.wsp-contact__line { display: flex; align-items: center; gap: 14px; padding: 14px 18px; background: var(--white); border: 1px solid var(--border); border-radius: 12px; transition: border-color .2s, transform .2s; }
+.wsp-contact__line:hover { border-color: var(--acc); transform: translateX(3px); }
+.wsp-contact__ico { width: 40px; height: 40px; border-radius: 10px; background: var(--acc-bg); color: var(--acc); display: flex; align-items: center; justify-content: center; font-size: 16px; flex-shrink: 0; }
+.wsp-contact__line > span:last-child { display: flex; flex-direction: column; font-family: var(--f-d); font-weight: 700; font-size: 15px; color: var(--ink); letter-spacing: -.01em; }
+.wsp-contact__lbl { font-family: var(--f-m); font-size: 9px; font-weight: 500; letter-spacing: .1em; text-transform: uppercase; color: var(--light); margin-bottom: 2px; }
+
+/* helpers din content.css folosite de secțiunea de contact */
+.contact-sec { padding: 120px 0; background: var(--cream2); }
+.contact-sec__in { display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: center; }
+.contact-feats { margin-top: 30px; display: flex; flex-direction: column; gap: 12px; }
+.cf-feat { display: flex; align-items: center; gap: 12px; font-size: 14px; color: var(--mid); }
+.cf-feat-dot { width: 22px; height: 22px; border-radius: 50%; background: var(--acc); display: flex; align-items: center; justify-content: center; font-size: 10px; font-weight: 700; color: var(--acc-ink); flex-shrink: 0; font-family: var(--f-m); }
+.cf-box { background: var(--white); border: 1px solid var(--border); border-radius: var(--rlg); padding: 40px 38px; position: relative; overflow: hidden; }
+.cf-box::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 3px; background: linear-gradient(90deg, var(--acc) 0%, var(--acc2) 60%, transparent 100%); }
+@media (max-width: 1024px) { .contact-sec { padding: 80px 0; } .contact-sec__in { grid-template-columns: 1fr; gap: 44px; } .cf-box { padding: 32px 26px; } }
+</style>
+
+
+<main id="main" class="wsp">
+
+<section class="wsp-hero" aria-labelledby="wsp-hero-h">
+  <div class="wsp-hero__vid" aria-hidden="true">
+    <video autoplay muted loop playsinline preload="metadata"
+           poster="/media/sigla-mark-visience-new-colors.avif">
+      <source src="/media/fundal-visience.webm" type="video/webm">
+    </video>
+  </div>
+  <div class="wsp-hero__overlay" aria-hidden="true"></div>
+
+  <div class="wrap wsp-hero__content">
+
+    <nav class="wsp-crumb" aria-label="Breadcrumb">
+      <a href="/">Acasă</a>
+      <span aria-hidden="true">/</span>
+      <a href="/#servicii">Servicii</a>
+      <span aria-hidden="true">/</span>
+      <span aria-current="page">Website de prezentare</span>
+    </nav>
+
+    <div class="wsp-hero__chip">
+      <span class="wsp-hero__chip-dot"></span>
+      <span>Creare site web</span>
+    </div>
+
+    <h1 class="wsp-hero__hed" id="wsp-hero-h">
+      Creare site<br>
+      de <span class="acc">prezentare</span>
+    </h1>
+
+    <p class="wsp-hero__lead">
+      Site-uri de companie, portofolii și platforme premium care transformă vizitatorii în clienți. Design adaptiv, SEO tehnic și un CMS pe care îl poți edita singur, construit de la zero pentru brandul tău.
+    </p>
+
+    <p style="margin:0 0 26px;font-size:14px;color:rgba(255,255,255,.65)"><a href="/creare-site-prezentare-iasi/" style="color:var(--acc2);border-bottom:1px solid rgba(245,174,42,.5)">Ești firmă din Iași? Vezi pagina dedicată — creare site de prezentare în Iași →</a></p>
+
+    <div class="wsp-hero__acts">
+      <a href="tel:+40771486499" class="btn btn-solid">
+        <i class="fas fa-phone" aria-hidden="true"></i> Sună acum
+      </a>
+      <a href="https://wa.me/40771486499" target="_blank" rel="noopener" class="btn btn-dark">
+        <i class="fab fa-whatsapp" aria-hidden="true"></i> Scrie pe WhatsApp
+      </a>
+    </div>
+
+    <div class="wsp-hero__meta">
+      <span><i class="fas fa-mobile-screen" aria-hidden="true"></i> 100% responsive</span>
+      <span><i class="fas fa-gauge-high" aria-hidden="true"></i> PageSpeed 95–100</span>
+      <span><i class="fas fa-magnifying-glass-chart" aria-hidden="true"></i> SEO tehnic inclus</span>
+    </div>
+  </div>
+</section>
+
+
+<section class="wsp-intro" aria-labelledby="wsp-intro-h">
+  <div class="wrap wsp-intro__inner">
+    <div class="rv">
+      <div class="eyebrow"><span class="ey-dot"></span>Ce este</div>
+      <h2 class="dd dd-md" id="wsp-intro-h" style="margin-bottom:18px">
+        Un site de prezentare e prima<br>impresie a afacerii tale online
+      </h2>
+    </div>
+    <div class="rv rv-d1">
+      <p class="wsp-intro__lead">
+        Un <strong>site de prezentare</strong> este un website care prezintă afacerea, serviciile și valorile companiei tale, cu scopul de a transforma vizitatorii în clienți. La Visience construim site-uri de prezentare de la zero — fără șabloane — adaptate brandului, industriei și obiectivelor tale.
+      </p>
+      <p class="wsp-intro__body">
+        Fie că ai nevoie de un singur landing page optimizat pentru o campanie, de un site de companie clasic cu paginile Despre, Servicii și Contact, sau de un site premium cu design custom și animații, livrăm o platformă rapidă, sigură și ușor de administrat. Toate site-urile sunt responsive și optimizate SEO tehnic de la bun început.
+      </p>
+    </div>
+  </div>
+</section>
+
+
+<section class="wsp-types" id="tipuri" aria-labelledby="wsp-types-h">
+  <div class="wrap">
+    <div class="wsp-sec-head rv">
+      <div class="eyebrow"><span class="ey-dot"></span>Tipuri de site-uri</div>
+      <h2 class="dd dd-lg" id="wsp-types-h">Trei niveluri,<br>același standard</h2>
+    </div>
+
+    <div class="wsp-types__grid">
+
+      <article class="wsp-type rv">
+        <div class="wsp-type__icon" aria-hidden="true"><i class="fas fa-bullseye"></i></div>
+        <div class="wsp-type__tag">Pentru o campanie</div>
+        <h3 class="wsp-type__name">Landing Page</h3>
+        <p class="wsp-type__desc">O singură pagină, un singur obiectiv. Ideal pentru campanii, lansări de produs sau colectare de lead-uri. Structură optimizată pentru o conversie clară.</p>
+        <ul class="wsp-type__list">
+          <li>1 pagină long-scroll</li>
+          <li>Formular sau buton de conversie</li>
+          <li>Optimizat pentru reclame</li>
+          <li>Livrare rapidă</li>
+        </ul>
+      </article>
+
+      <article class="wsp-type wsp-type--feat rv rv-d1">
+        <div class="wsp-type__badge">Cel mai popular</div>
+        <div class="wsp-type__icon" aria-hidden="true"><i class="fas fa-building"></i></div>
+        <div class="wsp-type__tag">De la 500€</div>
+        <h3 class="wsp-type__name">Site de Prezentare</h3>
+        <p class="wsp-type__desc">Site-ul clasic de companie, multi-pagină. Paginile Acasă, Despre, Servicii, Portofoliu și Contact — totul aliniat brandului, cu CMS pe care îl editezi singur.</p>
+        <ul class="wsp-type__list">
+          <li>5–8 pagini</li>
+          <li>CMS inclus + instruire</li>
+          <li>Copywriting orientat pe conversie</li>
+          <li>SEO tehnic on-page</li>
+        </ul>
+      </article>
+
+      <article class="wsp-type rv rv-d2">
+        <div class="wsp-type__icon" aria-hidden="true"><i class="fas fa-gem"></i></div>
+        <div class="wsp-type__tag">De la 2.000€</div>
+        <h3 class="wsp-type__name">Site Premium</h3>
+        <p class="wsp-type__desc">Design 100% custom, animații scroll-driven, interacțiuni avansate și integrări la cerere. Pentru branduri care vor să iasă complet în evidență.</p>
+        <ul class="wsp-type__list">
+          <li>Design unic, fără șabloane</li>
+          <li>Animații &amp; micro-interacțiuni</li>
+          <li>Integrări custom</li>
+          <li>Performanță maximă</li>
+        </ul>
+      </article>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="wsp-feat" aria-labelledby="wsp-feat-h">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="15%" x2="100%" y2="55%"/>
+      <line x1="0" y1="45%" x2="100%" y2="85%"/>
+      <line x1="0" y1="75%" x2="100%" y2="25%"/>
+      <line x1="30%" y1="0" x2="80%" y2="100%"/>
+      <line x1="65%" y1="0" x2="15%" y2="100%"/>
+    </svg>
+  </div>
+
+  <div class="wrap">
+    <div class="wsp-sec-head rv">
+      <div class="eyebrow"><span class="ey-dot"></span>Ce e inclus</div>
+      <h2 class="dd dd-lg" id="wsp-feat-h">Tot ce-ți trebuie,<br>din prima</h2>
+    </div>
+
+    <div class="wsp-feat__grid">
+      <div class="wsp-feat__cell rv">
+        <i class="fas fa-mobile-screen-button" aria-hidden="true"></i>
+        <h3>Design responsive</h3>
+        <p>Arată impecabil pe telefon, tabletă și desktop. Mobile-first, testat pe dispozitive reale.</p>
+      </div>
+      <div class="wsp-feat__cell rv rv-d1">
+        <i class="fas fa-gauge-high" aria-hidden="true"></i>
+        <h3>Viteză de încărcare</h3>
+        <p>Imagini AVIF, cod curat, lazy-load. Țintim un scor PageSpeed de 95–100 pe mobil.</p>
+      </div>
+      <div class="wsp-feat__cell rv rv-d2">
+        <i class="fas fa-magnifying-glass-chart" aria-hidden="true"></i>
+        <h3>SEO tehnic</h3>
+        <p>Structură corectă, meta-date, date structurate și sitemap — pregătit pentru Google din prima zi.</p>
+      </div>
+      <div class="wsp-feat__cell rv">
+        <i class="fas fa-pen-to-square" aria-hidden="true"></i>
+        <h3>CMS editabil</h3>
+        <p>Modifici singur texte, imagini și pagini, fără cunoștințe tehnice. Cu sesiune de instruire la livrare.</p>
+      </div>
+      <div class="wsp-feat__cell rv rv-d1">
+        <i class="fas fa-shield-halved" aria-hidden="true"></i>
+        <h3>Securitate &amp; SSL</h3>
+        <p>Certificat HTTPS, protecție de bază și bune practici de securitate configurate din start.</p>
+      </div>
+      <div class="wsp-feat__cell rv rv-d2">
+        <i class="fas fa-headset" aria-hidden="true"></i>
+        <h3>Suport &amp; mentenanță</h3>
+        <p>Asistență după livrare și pachete opționale de mentenanță lunară pentru update-uri și backup.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="wsp-proc" id="proces" aria-labelledby="wsp-proc-h">
+  <div class="wrap">
+    <div class="wsp-sec-head rv">
+      <div class="eyebrow"><span class="ey-dot"></span>Cum lucrăm</div>
+      <h2 class="dd dd-lg" id="wsp-proc-h">De la idee la lansare,<br>în 4 pași</h2>
+    </div>
+
+    <div class="wsp-proc__list">
+      <div class="wsp-proc__step rv">
+        <div class="wsp-proc__n">01</div>
+        <div class="wsp-proc__c">
+          <h3>Brief &amp; strategie</h3>
+          <p>Discutăm obiectivele, publicul și concurența. Stabilim structura site-ului și mesajele cheie. Tu primești o analiză gratuită, fără obligații.</p>
+        </div>
+      </div>
+      <div class="wsp-proc__step rv rv-d1">
+        <div class="wsp-proc__n">02</div>
+        <div class="wsp-proc__c">
+          <h3>Design &amp; conținut</h3>
+          <p>Creăm designul aliniat brandului tău și scriem textele orientate spre conversie. Tu vezi și aprobi înainte să programăm orice.</p>
+        </div>
+      </div>
+      <div class="wsp-proc__step rv rv-d2">
+        <div class="wsp-proc__n">03</div>
+        <div class="wsp-proc__c">
+          <h3>Dezvoltare &amp; optimizare</h3>
+          <p>Construim site-ul rapid, responsive și optimizat SEO. Testăm pe dispozitive reale și optimizăm viteza pentru un scor PageSpeed ridicat.</p>
+        </div>
+      </div>
+      <div class="wsp-proc__step rv rv-d3">
+        <div class="wsp-proc__n">04</div>
+        <div class="wsp-proc__c">
+          <h3>Lansare &amp; instruire</h3>
+          <p>Publicăm site-ul, configurăm analytics și îți arătăm cum să-l administrezi singur. Rămânem disponibili pentru suport.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="wsp-cmp" id="pachete" aria-labelledby="wsp-cmp-h">
+  <div class="wrap">
+    <div class="wsp-sec-head rv">
+      <div class="eyebrow"><span class="ey-dot"></span>Comparație pachete</div>
+      <h2 class="dd dd-lg" id="wsp-cmp-h">Alege ce ți se<br>potrivește</h2>
+    </div>
+
+    <div class="wsp-cmp__scroll rv rv-d1">
+      <table class="wsp-cmp__table">
+        <thead>
+          <tr>
+            <th scope="col" class="wsp-cmp__feat-col">Ce include</th>
+            <th scope="col"><span class="wsp-cmp__plan">Landing</span><span class="wsp-cmp__price">150€</span></th>
+            <th scope="col" class="wsp-cmp__th-feat"><span class="wsp-cmp__plan">Standard</span><span class="wsp-cmp__price">500€</span></th>
+            <th scope="col"><span class="wsp-cmp__plan">Premium</span><span class="wsp-cmp__price">2.000€+</span></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><th scope="row">Număr de pagini</th><td>1</td><td class="wsp-cmp__td-feat">5–8</td><td>Nelimitat</td></tr>
+          <tr><th scope="row">Design responsive</th><td><i class="fas fa-check" aria-label="Da"></i></td><td class="wsp-cmp__td-feat"><i class="fas fa-check" aria-label="Da"></i></td><td><i class="fas fa-check" aria-label="Da"></i></td></tr>
+          <tr><th scope="row">CMS editabil</th><td><span class="wsp-cmp__opt">Opțional</span></td><td class="wsp-cmp__td-feat"><i class="fas fa-check" aria-label="Da"></i></td><td><i class="fas fa-check" aria-label="Da"></i></td></tr>
+          <tr><th scope="row">Copywriting inclus</th><td><span class="wsp-cmp__opt">Opțional</span></td><td class="wsp-cmp__td-feat"><i class="fas fa-check" aria-label="Da"></i></td><td><i class="fas fa-check" aria-label="Da"></i></td></tr>
+          <tr><th scope="row">SEO tehnic</th><td><i class="fas fa-check" aria-label="Da"></i></td><td class="wsp-cmp__td-feat"><i class="fas fa-check" aria-label="Da"></i></td><td><i class="fas fa-check" aria-label="Da"></i></td></tr>
+          <tr><th scope="row">Design custom</th><td><i class="fas fa-minus wsp-cmp__no" aria-label="Nu"></i></td><td class="wsp-cmp__td-feat"><span class="wsp-cmp__opt">Parțial</span></td><td><i class="fas fa-check" aria-label="Da"></i></td></tr>
+          <tr><th scope="row">Animații &amp; interacțiuni</th><td><i class="fas fa-minus wsp-cmp__no" aria-label="Nu"></i></td><td class="wsp-cmp__td-feat"><i class="fas fa-minus wsp-cmp__no" aria-label="Nu"></i></td><td><i class="fas fa-check" aria-label="Da"></i></td></tr>
+          <tr><th scope="row">Termen de livrare</th><td>Câteva zile</td><td class="wsp-cmp__td-feat">2–4 săpt.</td><td>4–8 săpt.</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p class="wsp-cmp__note rv rv-d2">
+      Prețurile sunt orientative și de pornire. Fiecare ofertă este configurată pe nevoile tale — sună-ne pentru un preț exact.
+    </p>
+  </div>
+</section>
+
+
+<section class="wsp-port" id="proiecte" aria-labelledby="wsp-port-h">
+  <div class="wrap">
+    <div class="wsp-sec-head rv">
+      <div class="eyebrow"><span class="ey-dot"></span>Proiecte relevante</div>
+      <h2 class="dd dd-lg" id="wsp-port-h">Site-uri de prezentare<br>livrate de noi</h2>
+    </div>
+
+    <div class="wsp-port__grid">
+
+      <article class="wsp-pcard rv">
+        <div class="wsp-pcard__img">
+          <img src="/media/casa-vatra-desk.avif" alt="Website de prezentare Casa Vatră — restaurant și hotel, realizat de Visience" loading="lazy" width="1898" height="949">
+        </div>
+        <div class="wsp-pcard__body">
+          <div class="wsp-pcard__pills">
+            <span class="wsp-pcard__pill">Website</span>
+            <span class="wsp-pcard__pill wsp-pcard__pill--ind">Restaurant &amp; Hotel</span>
+          </div>
+          <h3 class="wsp-pcard__title">Casa Vatră</h3>
+          <a href="https://casavatra.ro" target="_blank" rel="noopener" class="wsp-pcard__url">casavatra.ro ↗</a>
+        </div>
+      </article>
+
+      <article class="wsp-pcard rv rv-d1">
+        <div class="wsp-pcard__img wsp-pcard__img--logo">
+          <img src="/media/amodelic-brand.avif" alt="Identitate vizuală și website Amodelic — proiectare și consultanță, realizat de Visience" loading="lazy" width="1200" height="1200">
+        </div>
+        <div class="wsp-pcard__body">
+          <div class="wsp-pcard__pills">
+            <span class="wsp-pcard__pill">Website</span>
+            <span class="wsp-pcard__pill">Branding</span>
+            <span class="wsp-pcard__pill wsp-pcard__pill--ind">B2B</span>
+          </div>
+          <h3 class="wsp-pcard__title">Amodelic — Proiectare</h3>
+          <a href="https://amodelic.com" target="_blank" rel="noopener" class="wsp-pcard__url">amodelic.com ↗</a>
+        </div>
+      </article>
+
+      <article class="wsp-pcard rv rv-d2">
+        <div class="wsp-pcard__img">
+          <img src="/media/2m-tech-desk.avif" alt="Website de prezentare 2M Tech — dezvoltator imobiliar, realizat de Visience" loading="lazy" width="1898" height="949">
+        </div>
+        <div class="wsp-pcard__body">
+          <div class="wsp-pcard__pills">
+            <span class="wsp-pcard__pill">Website</span>
+            <span class="wsp-pcard__pill wsp-pcard__pill--ind">Imobiliar</span>
+          </div>
+          <h3 class="wsp-pcard__title">2M Tech</h3>
+          <a href="https://2mtech.ro/" target="_blank" rel="noopener" class="wsp-pcard__url">2mtech.ro ↗</a>
+        </div>
+      </article>
+
+      <article class="wsp-pcard rv rv-d3">
+        <div class="wsp-pcard__img">
+          <img src="/media/ecologica-desk.avif" alt="Website de prezentare Ecologica2000 Italia — waste management, realizat de Visience" loading="lazy" width="1898" height="949">
+        </div>
+        <div class="wsp-pcard__body">
+          <div class="wsp-pcard__pills">
+            <span class="wsp-pcard__pill">Website</span>
+            <span class="wsp-pcard__pill wsp-pcard__pill--ind">Waste Mgmt</span>
+          </div>
+          <h3 class="wsp-pcard__title">Ecologica2000</h3>
+          <a href="https://ecologica2000.eu/" target="_blank" rel="noopener" class="wsp-pcard__url">ecologica2000.eu ↗</a>
+        </div>
+      </article>
+
+    </div>
+
+    <div class="wsp-port__more rv">
+      <a href="/portofoliu/" class="btn btn-ghost">Vezi tot portofoliul →</a>
+    </div>
+  </div>
+</section>
+
+
+<section class="wsp-faq" id="intrebari" aria-labelledby="wsp-faq-h">
+  <div class="wrap">
+    <div class="wsp-sec-head rv">
+      <div class="eyebrow"><span class="ey-dot"></span>Întrebări frecvente</div>
+      <h2 class="dd dd-lg" id="wsp-faq-h">Ce întreabă<br>clienții</h2>
+    </div>
+
+    <div class="wsp-faq__list rv rv-d1">
+      <details class="wsp-faq__item" open>
+        <summary class="wsp-faq__q">Cât costă un site de prezentare?</summary>
+        <div class="wsp-faq__a">Un site standard multi-pagină pornește de la <strong>500€</strong>, iar un site premium cu design custom de la <strong>2.000€</strong>. Pentru o campanie punctuală, un landing page simplu pornește de la 150€. Prețul final depinde de numărul de pagini, funcționalități și nivelul de personalizare.</div>
+      </details>
+      <details class="wsp-faq__item">
+        <summary class="wsp-faq__q">Cât durează realizarea unui site?</summary>
+        <div class="wsp-faq__a">Un landing page se livrează în câteva zile, un site standard în <strong>2–4 săptămâni</strong>, iar un proiect premium în <strong>4–8 săptămâni</strong>, în funcție de volumul de conținut și de rapiditatea feedback-ului.</div>
+      </details>
+      <details class="wsp-faq__item">
+        <summary class="wsp-faq__q">Pe ce platformă construiți site-ul?</summary>
+        <div class="wsp-faq__a">Construim cel mai des pe <strong>WordPress</strong> (Oxygen Builder sau Elementor) și <strong>Webflow</strong>. Alegem platforma în funcție de proiect, astfel încât să poți edita ușor conținutul după livrare.</div>
+      </details>
+      <details class="wsp-faq__item">
+        <summary class="wsp-faq__q">Site-ul va fi optimizat pentru telefon și Google?</summary>
+        <div class="wsp-faq__a">Da. Fiecare site este responsive și include SEO tehnic de la bun început: viteză optimizată, structură corectă și date structurate. Țintim un scor PageSpeed de <strong>95–100</strong> pe mobil.</div>
+      </details>
+      <details class="wsp-faq__item">
+        <summary class="wsp-faq__q">Pot edita singur conținutul după livrare?</summary>
+        <div class="wsp-faq__a">Da. Toate site-urile includ un <strong>CMS</strong>, deci poți modifica texte, imagini și pagini fără cunoștințe tehnice. Oferim și o sesiune de instruire la livrare.</div>
+      </details>
+      <details class="wsp-faq__item">
+        <summary class="wsp-faq__q">Includeți și textele (copywriting)?</summary>
+        <div class="wsp-faq__a">Da. Copywriting-ul orientat spre conversie este inclus în pachetele <strong>Standard</strong> și <strong>Premium</strong>, iar pentru landing page poate fi adăugat ca opțiune.</div>
+      </details>
+    </div>
+  </div>
+</section>
+
+
+<section class="wsp-contact contact-sec" id="contact" aria-labelledby="wsp-contact-h">
+  <div class="wrap">
+    <div class="contact-sec__in">
+
+      <div class="rv">
+        <div class="eyebrow"><span class="ey-dot"></span>Hai să vorbim</div>
+        <h2 class="dd dd-lg" id="wsp-contact-h" style="margin-bottom:18px">
+          Solicită o ofertă<br>pentru site-ul tău
+        </h2>
+        <p class="body-lg" style="margin-bottom:24px">
+          Spune-ne despre proiect și primești o analiză gratuită în maxim 24 de ore, fără obligații.
+        </p>
+
+        <div class="wsp-contact__direct">
+          <a href="tel:+40771486499" class="wsp-contact__line">
+            <span class="wsp-contact__ico"><i class="fas fa-phone"></i></span>
+            <span><span class="wsp-contact__lbl">Sună direct</span>+40 771 486 499</span>
+          </a>
+          <a href="https://wa.me/40771486499" target="_blank" rel="noopener" class="wsp-contact__line">
+            <span class="wsp-contact__ico"><i class="fab fa-whatsapp"></i></span>
+            <span><span class="wsp-contact__lbl">WhatsApp</span>Scrie-ne un mesaj</span>
+          </a>
+          <a href="mailto:contact@visience.ro" class="wsp-contact__line">
+            <span class="wsp-contact__ico"><i class="fas fa-envelope"></i></span>
+            <span><span class="wsp-contact__lbl">Email</span>contact@visience.ro</span>
+          </a>
+        </div>
+
+        <div class="contact-feats">
+          <div class="cf-feat"><span class="cf-feat-dot">✓</span>Răspuns în maxim 24 de ore</div>
+          <div class="cf-feat"><span class="cf-feat-dot">✓</span>Analiză gratuită a proiectului</div>
+          <div class="cf-feat"><span class="cf-feat-dot">✓</span>Ofertă personalizată fără obligații</div>
+        </div>
+      </div>
+
+      <div class="cf-box rv rv-d1">
+        <h3 style="font-family:var(--f-d);font-weight:700;font-size:21px;letter-spacing:-.01em;color:var(--ink);margin-bottom:8px">Spune-ne despre proiect</h3>
+        <p style="font-size:14px;color:var(--mid);line-height:1.7;font-weight:300;margin-bottom:24px">Completează formularul scurt de contact și primești o ofertă personalizată pentru site-ul tău în maxim 24 de ore.</p>
+        <a href="/contact/" class="btn btn-solid" style="justify-content:center;width:100%">Mergi la formular →</a>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+
+<section class="rel-strip" aria-label="Servicii conexe și prețuri transparente">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Nu lucrăm cu tarife ascunse sau surprize în factură. Toate pachetele și prețurile noastre sunt publice — alegi în cunoștință de cauză, fără presiune.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Continuă cu</div>
+      <div class="rel-links__grid">
+        <a href="/creare-magazin-online/" class="rel-link"><span class="rel-link__name">Creare magazin online <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">WooCommerce și Shopify optimizate pentru vânzări.</span></a>
+        <a href="/optimizare-seo/" class="rel-link"><span class="rel-link__name">SEO & content <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Ajungi pe prima pagină Google, organic.</span></a>
+        <a href="/branding-identitate-vizuala/" class="rel-link"><span class="rel-link__name">Branding & identitate <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Logo, brand book și identitate vizuală completă.</span></a>
+        <a href="/portofoliu/" class="rel-link"><span class="rel-link__name">Portofoliu <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Proiecte reale livrate de echipa noastră.</span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XLiQQktmqJoG3-3IBETrL"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

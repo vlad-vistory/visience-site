@@ -1,0 +1,790 @@
+1:"$Sreact.fragment"
+b:I[68027,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"default",1]
+:HL["/_next/static/chunks/3b23shbd_73w9.css","style"]
+:HL["/_next/static/media/017d9bea37084d9b-s.p.41rroleoq1br7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/26daee0352f50a5f-s.p.2e115y8-hourl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/36363bfb06833f56-s.p.38hmww4cj4vme.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5c285b27cdda1fe8-s.p.2_mbdogr7ni8i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a73419dd2ba2d841-s.p.2yee423r7ahpo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b12e986493c137cf-s.p.2njitm-prmz2_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b2fa3ef4ca165ab4-s.p.12_ml6bnugnre.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c3cb240f9c892514-s.p.3z_x6eowsw16y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css","style"]
+2:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}3:Tb9a,<header class="nav" id="nav" role="banner">
+  <div class="wrap nav__in">
+    <a href="/" class="nav__logo" aria-label="Visience — Acasă">
+      <img class="nav__logo-img nav__logo-img--light" src="/media/sigla-mark-visience-new-colors.avif"
+           alt="Visience" width="160" height="30" fetchpriority="high">
+      <img class="nav__logo-img nav__logo-img--dark" src="/media/sigla-visience-dark.avif"
+           alt="" aria-hidden="true" width="160" height="30">
+    </a>
+
+    <nav class="nav__links" aria-label="Navigare principală">
+      <div class="nav__has-drop">
+        <a href="/#servicii">Servicii</a>
+        <div class="nav__drop">
+          <a href="/creare-site-prezentare/">Creare site de prezentare</a>
+          <a href="/creare-magazin-online/">Creare magazin online</a>
+          <a href="/branding-identitate-vizuala/">Branding &amp; identitate</a>
+          <a href="/social-media-management/">Social media</a>
+          <a href="/google-meta-ads/">Google &amp; Meta Ads</a>
+          <a href="/optimizare-seo/">SEO &amp; content</a>
+          <a href="/dezvoltare-software/">Dezvoltare software</a>
+          <a href="/marketing-dezvoltatori-imobiliari/">Marketing imobiliar</a>
+        </div>
+      </div>
+      <a href="/portofoliu/">Proiecte</a>
+      <a href="/preturi/">Prețuri</a>
+      <a href="/blog/">Blog</a>
+      <a href="/#rezultate">Rezultate</a>
+      <a href="/#despre">Despre</a>
+      <a href="/contact/">Contact</a>
+    </nav>
+
+    <a href="/#contact" class="nav__cta">Solicită ofertă</a>
+
+    <button class="nav__burger" id="navBurger"
+            aria-label="Deschide meniul" aria-expanded="false" aria-controls="navMob">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<nav class="nav__mob" id="navMob" aria-label="Meniu mobil">
+  <a href="/#servicii"  class="nm-l">Servicii</a>
+  <a href="/creare-site-prezentare/" class="nm-l nm-sub">Creare site de prezentare</a>
+  <a href="/creare-magazin-online/" class="nm-l nm-sub">Creare magazin online</a>
+  <a href="/branding-identitate-vizuala/" class="nm-l nm-sub">Branding &amp; identitate</a>
+  <a href="/social-media-management/" class="nm-l nm-sub">Social media</a>
+  <a href="/google-meta-ads/" class="nm-l nm-sub">Google &amp; Meta Ads</a>
+  <a href="/optimizare-seo/" class="nm-l nm-sub">SEO &amp; content</a>
+  <a href="/dezvoltare-software/" class="nm-l nm-sub">Dezvoltare software</a>
+  <a href="/marketing-dezvoltatori-imobiliari/" class="nm-l nm-sub">Marketing imobiliar</a>
+  <a href="/portofoliu/"  class="nm-l">Proiecte</a>
+  <a href="/preturi/"    class="nm-l">Prețuri</a>
+  <a href="/blog/"       class="nm-l">Blog</a>
+  <a href="/#rezultate" class="nm-l">Rezultate</a>
+  <a href="/#despre"    class="nm-l">Despre</a>
+  <a href="/contact/"    class="nm-l">Contact</a>
+  <a href="/#contact" class="btn btn-solid" style="margin-top:8px">Solicită ofertă</a>
+</nav>
+0:{"P":null,"c":["","creare-site-prezentare-iasi",""],"q":"","i":false,"f":[[["",{"children":["creare-site-prezentare-iasi",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0a_4n0l8z1myf.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"bricolage_grotesque_4d7004bd-module__Hoo0MG__variable dm_sans_371c950d-module__4cga4q__variable dm_mono_6c018cca-module__6UXbpq__variable","children":[["$","head",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5","$L6"]}]]}]]}],{"children":["$L7",{"children":["$L8",{},null,false,null]},null,false,"$@9"]},null,false,null],"$La",false]],"m":"$undefined","G":["$b",["$Lc"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"XLiQQktmqJoG3-3IBETrL"}
+d:I[39756,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
+e:I[37457,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
+10:I[27961,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
+15:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"ViewportBoundary"]
+17:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"MetadataBoundary"]
+18:"$Sreact.suspense"
+4:["$","$Ld",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Le",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
+f:T13f0,<footer class="footer" role="contentinfo">
+  <div class="wrap">
+
+    <div class="footer__grid">
+
+      <div>
+        <div class="footer__logo">
+          <img src="/media/sigla-mark-visience-new-colors.avif"
+               alt="Visience" width="148" height="28" loading="lazy">
+        </div>
+
+        <p class="footer__brand">
+          Agenție de marketing digital cu 12 ani de experiență. Transformăm imaginea companiilor prin branding, website, social media și marketing precis configurat.
+        </p>
+
+        <p class="footer__trust">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M20 6 9 17l-5-5"/>
+          </svg>
+          Prețuri publice, fără costuri ascunse — <a href="/preturi/">vezi prețurile</a>.
+        </p>
+
+        <div class="footer__contact">
+          <a href="tel:+40771486499">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.67A2 2 0 012 .92h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L6.91 8.09a16 16 0 006 6l1.27-.83a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/>
+            </svg>
+            +40 771 486 499
+          </a>
+          <a href="mailto:contact@visience.ro">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+              <polyline points="22,6 12,13 2,6"/>
+            </svg>
+            contact@visience.ro
+          </a>
+        </div>
+
+        <div class="footer__anpc">
+          <a class="anpc-b" href="https://anpc.ro/" target="_blank" rel="noopener noreferrer"
+             aria-label="ANPC — Autoritatea Națională pentru Protecția Consumatorilor">
+            <img src="https://anpc.ro/wp-content/themes/anpc/img/anpc_logo.png"
+                 alt="ANPC" width="50" height="18" loading="lazy"
+                 onerror="this.style.display='none'">
+            ANPC
+          </a>
+          <a class="anpc-b" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage"
+             target="_blank" rel="noopener noreferrer"
+             aria-label="SOL — Soluționare Online a Litigiilor">
+            SOL
+          </a>
+        </div>
+      </div>
+
+      <nav aria-label="Servicii">
+        <div class="footer__col-title">Servicii</div>
+        <ul class="footer__links">
+          <li><a href="/creare-site-prezentare/">Creare site de prezentare</a></li>
+          <li><a href="/creare-site-prezentare-iasi/">Creare site de prezentare Iași</a></li>
+          <li><a href="/creare-magazin-online/">Creare magazin online</a></li>
+          <li><a href="/branding-identitate-vizuala/">Branding &amp; identitate</a></li>
+          <li><a href="/social-media-management/">Social Media</a></li>
+          <li><a href="/google-meta-ads/">Google &amp; Meta Ads</a></li>
+          <li><a href="/optimizare-seo/">SEO &amp; Content</a></li>
+          <li><a href="/dezvoltare-software/">Dezvoltare software</a></li>
+          <li><a href="/marketing-dezvoltatori-imobiliari/">Marketing imobiliar</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Companie">
+        <div class="footer__col-title">Companie</div>
+        <ul class="footer__links">
+          <li><a href="/portofoliu/">Portofoliu</a></li>
+          <li><a href="/parteneri/">Parteneri</a></li>
+          <li><a href="/blog/">Blog</a></li>
+          <li><a href="/preturi/">Prețuri</a></li>
+          <li><a href="/#rezultate">Studii de caz</a></li>
+          <li><a href="/#despre">Despre noi</a></li>
+          <li><a href="/contact/">Contact</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Legal">
+        <div class="footer__col-title">Legal &amp; GDPR</div>
+        <ul class="footer__links">
+          <li><a href="/termeni-si-conditii/">Termeni și Condiții</a></li>
+          <li><a href="/politica-de-confidentialitate/">Politică Confidențialitate</a></li>
+          <li><a href="/politica-cookies/">Politică Cookies</a></li>
+        </ul>
+      </nav>
+
+    </div>
+
+    <div class="footer__bottom">
+      <div class="footer__bottom-in">
+        <p class="footer__copy">
+          © 2026 Visience Creative Experience SRL · Toate drepturile rezervate
+        </p>
+        <div class="footer__legal">
+          <a href="/termeni-si-conditii/">Termeni</a>
+          <a href="/politica-de-confidentialitate/">Confidențialitate</a>
+          <a href="/politica-cookies/">Cookies</a>
+          <a href="/gdpr/">GDPR</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</footer>
+5:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}]
+6:["$","$L10",null,{}]
+7:["$","$1","c",{"children":[null,["$","$Ld",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Le",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+11:Tcce,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-prezentare-iasi/#service","name":"Creare site de prezentare în Iași","serviceType":"Creare site de prezentare și web design","description":"Creare site de prezentare în Iași: landing page, site de companie, site portofoliu sau site premium cu design custom. Design adaptiv, SEO tehnic și CMS editabil.","url":"https://visience.ro/creare-site-prezentare-iasi/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"City","name":"Iași"},{"@type":"Country","name":"România"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"150","highPrice":"2000","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-prezentare-iasi/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site de prezentare în Iași?","acceptedAnswer":{"@type":"Answer","text":"Un landing page pornește de la 150€, un site de prezentare standard de la 500€, iar un site premium cu design custom de la 2.000€. Prețul final pentru crearea site-ului depinde de numărul de pagini, funcționalități și nivelul de personalizare. Cere o ofertă și primești un preț exact în 24 de ore."}},{"@type":"Question","name":"Cât durează realizarea unui site de prezentare?","acceptedAnswer":{"@type":"Answer","text":"Un landing page se livrează în câteva zile, un site de prezentare standard în 2–4 săptămâni, iar un proiect premium în 4–8 săptămâni, în funcție de volumul de conținut și de rapiditatea feedback-ului tău."}},{"@type":"Question","name":"Pe ce platformă realizați site-ul de prezentare?","acceptedAnswer":{"@type":"Answer","text":"Construim cel mai des pe WordPress, astfel încât să poți edita singur conținutul după livrare. La cerere lucrăm și pe alte platforme. Indiferent de tehnologie, site-ul rămâne rapid, sigur și optimizat SEO."}},{"@type":"Question","name":"Site-ul va apărea în Google pentru clienții din Iași?","acceptedAnswer":{"@type":"Answer","text":"Da. Fiecare site de prezentare este optimizat SEO tehnic de la bun început, cu structură corectă, viteză și date structurate locale (Iași). Pentru o poziționare avansată în căutări recomandăm și serviciul nostru de optimizare SEO continuă."}},{"@type":"Question","name":"Pot să administrez singur site-ul după ce îl primesc?","acceptedAnswer":{"@type":"Answer","text":"Da. Toate site-urile includ un CMS prietenos, deci modifici texte, imagini și pagini fără cunoștințe tehnice. La livrare oferim și o sesiune de instruire, plus suport ulterior."}},{"@type":"Question","name":"Realizați site-uri de prezentare doar pentru firme din Iași?","acceptedAnswer":{"@type":"Answer","text":"Avem sediul în Iași, dar lucrăm cu clienți din toată România și din străinătate. Proiectele se desfășoară integral online, fără să fie nevoie de prezență fizică — vezi portofoliul nostru cu peste 120 de proiecte."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Creare site de prezentare Iași","item":"https://visience.ro/creare-site-prezentare-iasi/"}]}]}8:["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$11"}}],"$L12"],null,"$L13"]}]
+14:[]
+9:"$W14"
+a:["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$L16"}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$18",null,{"name":"Next.Metadata","children":"$L19"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+c:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1b:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+1a:T6ed5,<style>
+.csi-hero {
+  position: relative;
+  padding: calc(var(--nav-h) + 86px) 0 84px;
+  background: var(--ink);
+  color: var(--white);
+  overflow: hidden;
+}
+.csi-hero::before {
+  content: '';
+  position: absolute;
+  top: -120px; right: -160px;
+  width: 560px; height: 560px;
+  background: radial-gradient(circle, rgba(232,152,10,.16) 0%, transparent 62%);
+  pointer-events: none;
+}
+.csi-hero > .wrap { position: relative; z-index: 1; max-width: 920px; }
+.csi-breadcrumbs {
+  font-family: var(--f-m);
+  font-size: 11px;
+  color: rgba(255,255,255,.4);
+  letter-spacing: .05em;
+  margin-bottom: 26px;
+}
+.csi-breadcrumbs a { color: rgba(255,255,255,.55); transition: color .2s; }
+.csi-breadcrumbs a:hover { color: var(--acc2); }
+.csi-breadcrumbs .sep { margin: 0 9px; opacity: .4; }
+.csi-hero .eyebrow { color: var(--acc2); margin-bottom: 18px; }
+.csi-hero__h1 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(36px, 5.4vw, 68px);
+  line-height: 1.0;
+  letter-spacing: -.035em;
+  margin-bottom: 24px;
+}
+.csi-hero__h1 .acc {
+  background: var(--acc);
+  color: var(--acc-ink);
+  padding: 0 12px 4px;
+  border-radius: 12px;
+  display: inline-block;
+  line-height: 1.05;
+}
+.csi-hero__lead {
+  font-size: 18px;
+  line-height: 1.74;
+  color: rgba(255,255,255,.7);
+  font-weight: 300;
+  max-width: 660px;
+  margin-bottom: 34px;
+}
+.csi-hero__acts { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 56px; }
+.csi-hero__stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 36px;
+  padding-top: 38px;
+  border-top: 1px solid rgba(255,255,255,.1);
+}
+.csi-hero__stat .n {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(26px, 3.6vw, 40px);
+  color: var(--acc2);
+  letter-spacing: -.03em;
+  line-height: 1;
+  margin-bottom: 8px;
+}
+.csi-hero__stat .l {
+  font-family: var(--f-m);
+  font-size: 10px;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: rgba(255,255,255,.5);
+}
+
+.csi-sec { padding: clamp(64px, 9vw, 108px) 0; }
+.csi-sec.bg-white { background: var(--white); }
+.csi-sec.bg-cream { background: var(--cream); }
+.csi-sec.bg-cream2 { background: var(--cream2); }
+.csi-head { max-width: 760px; margin-bottom: 52px; }
+.csi-head.center { margin-left: auto; margin-right: auto; text-align: center; }
+.csi-head h2 { margin-bottom: 16px; }
+.csi-head h2 .hi { color: var(--mid); font-style: italic; font-weight: 300; }
+.csi-head .acc { color: var(--acc); }
+
+.csi-prose { max-width: 820px; }
+.csi-prose p {
+  font-size: 16px;
+  line-height: 1.85;
+  color: var(--mid);
+  font-weight: 300;
+  margin-bottom: 18px;
+}
+.csi-prose p strong { color: var(--ink); font-weight: 600; }
+.csi-prose a { color: var(--acc); border-bottom: 1px solid var(--acc); }
+.csi-prose a:hover { opacity: .7; }
+
+/* benefit cards */
+.csi-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; }
+.csi-card {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 30px 26px 28px;
+  transition: transform .3s, border-color .3s, box-shadow .3s;
+}
+.csi-sec.bg-white .csi-card { background: var(--cream); }
+.csi-card:hover {
+  transform: translateY(-4px);
+  border-color: rgba(232,152,10,.3);
+  box-shadow: 0 18px 36px rgba(17,16,16,.06);
+}
+.csi-card__ico {
+  width: 48px; height: 48px;
+  border-radius: 12px;
+  background: var(--acc-bg);
+  color: var(--acc);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.csi-card h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.015em;
+  margin-bottom: 10px;
+  line-height: 1.25;
+}
+.csi-card p { font-size: 13px; color: var(--mid); line-height: 1.7; font-weight: 300; }
+
+/* tipuri */
+.csi-types { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; }
+.csi-type {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 32px 30px;
+  display: flex;
+  gap: 22px;
+  align-items: flex-start;
+}
+.csi-type__n {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: 28px;
+  color: var(--acc);
+  line-height: 1;
+  flex-shrink: 0;
+}
+.csi-type h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 19px;
+  letter-spacing: -.015em;
+  margin-bottom: 8px;
+}
+.csi-type p { font-size: 13.5px; color: var(--mid); line-height: 1.72; font-weight: 300; }
+
+/* portofoliu */
+.csi-porto { display: grid; grid-template-columns: repeat(2, 1fr); gap: 22px; }
+.csi-shot {
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  overflow: hidden;
+  background: var(--cream2);
+}
+.csi-shot__img { aspect-ratio: 16 / 10; overflow: hidden; }
+.csi-shot__img img {
+  width: 100%; height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform .6s cubic-bezier(.25,.46,.45,.94);
+}
+.csi-shot:hover .csi-shot__img img { transform: scale(1.04); }
+.csi-shot__cap {
+  padding: 16px 20px;
+  font-size: 13px;
+  color: var(--mid);
+  font-weight: 300;
+}
+.csi-shot__cap strong { color: var(--ink); font-weight: 600; display: block; margin-bottom: 2px; font-family: var(--f-d); }
+
+/* preturi */
+.csi-pr { display: grid; grid-template-columns: repeat(4, 1fr); gap: 18px; }
+.csi-pr-card {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 28px 24px 24px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+.csi-pr-card.feat { background: var(--ink); color: var(--white); border-color: var(--ink); }
+.csi-pr-card__badge {
+  position: absolute; top: -11px; left: 24px;
+  background: var(--acc); color: var(--acc-ink);
+  font-family: var(--f-m); font-size: 9px; font-weight: 600;
+  letter-spacing: .12em; text-transform: uppercase;
+  padding: 5px 12px; border-radius: 100px;
+}
+.csi-pr-card__name {
+  font-family: var(--f-m); font-size: 11px; letter-spacing: .12em;
+  text-transform: uppercase; color: var(--mid); margin-bottom: 10px;
+}
+.csi-pr-card.feat .csi-pr-card__name { color: rgba(255,255,255,.5); }
+.csi-pr-card__price {
+  font-family: var(--f-d); font-weight: 800; font-size: 32px;
+  letter-spacing: -.03em; color: var(--acc); line-height: 1; margin-bottom: 14px;
+}
+.csi-pr-card__desc { font-size: 13px; line-height: 1.65; color: var(--mid); font-weight: 300; }
+.csi-pr-card.feat .csi-pr-card__desc { color: rgba(255,255,255,.6); }
+.csi-pr-note { text-align: center; max-width: 720px; margin: 32px auto 0; font-size: 14px; color: var(--mid); font-weight: 300; }
+.csi-pr-note a { color: var(--acc); border-bottom: 1px solid var(--acc); }
+
+/* proces */
+.csi-steps { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; }
+.csi-step { border-top: 2px solid var(--acc); padding-top: 22px; }
+.csi-step__n { font-family: var(--f-m); font-size: 11px; letter-spacing: .14em; color: var(--light); margin-bottom: 12px; }
+.csi-step h3 { font-family: var(--f-d); font-weight: 700; font-size: 17px; margin-bottom: 8px; letter-spacing: -.01em; }
+.csi-step p { font-size: 13px; color: var(--mid); line-height: 1.7; font-weight: 300; }
+
+/* faq */
+.csi-faq { max-width: 860px; margin: 0 auto; border-top: 1px solid var(--border); }
+.csi-faq details { border-bottom: 1px solid var(--border); padding: 22px 0; }
+.csi-faq summary {
+  font-family: var(--f-d); font-weight: 700; font-size: 17px;
+  letter-spacing: -.01em; color: var(--ink); cursor: pointer;
+  list-style: none; display: flex; justify-content: space-between;
+  align-items: center; gap: 16px; transition: color .2s;
+}
+.csi-faq summary::-webkit-details-marker { display: none; }
+.csi-faq summary::after {
+  content: '+'; font-family: var(--f-d); font-size: 26px; font-weight: 300;
+  color: var(--acc); transition: transform .3s; flex-shrink: 0; line-height: 1;
+}
+.csi-faq details[open] summary::after { transform: rotate(45deg); }
+.csi-faq summary:hover { color: var(--acc); }
+.csi-faq details p { margin-top: 14px; font-size: 14px; color: var(--mid); line-height: 1.75; font-weight: 300; max-width: 760px; }
+
+/* cta */
+.csi-cta {
+  padding: clamp(70px, 10vw, 120px) 0;
+  background: var(--ink);
+  color: var(--white);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.csi-cta::before {
+  content: '';
+  position: absolute;
+  top: -100px; left: 50%; transform: translateX(-50%);
+  width: 460px; height: 320px;
+  background: radial-gradient(circle, rgba(232,152,10,.22) 0%, transparent 70%);
+  pointer-events: none;
+}
+.csi-cta > .wrap { position: relative; z-index: 1; max-width: 680px; }
+.csi-cta__h { color: var(--white); margin-bottom: 18px; }
+.csi-cta__h .acc { color: var(--acc2); font-style: italic; font-weight: 300; }
+.csi-cta__p { color: rgba(255,255,255,.6); font-size: 16px; line-height: 1.7; font-weight: 300; max-width: 520px; margin: 0 auto 34px; }
+.csi-cta__acts { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+
+@media (max-width: 1024px) {
+  .csi-hero__stats { grid-template-columns: repeat(2, 1fr); gap: 28px; }
+  .csi-grid { grid-template-columns: repeat(2, 1fr); }
+  .csi-pr { grid-template-columns: repeat(2, 1fr); }
+  .csi-steps { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 640px) {
+  .csi-hero__stats { grid-template-columns: 1fr 1fr; gap: 20px; }
+  .csi-grid, .csi-types, .csi-porto, .csi-pr, .csi-steps { grid-template-columns: 1fr; }
+  .csi-hero__acts .btn, .csi-cta__acts .btn { width: 100%; justify-content: center; }
+}
+</style>
+
+
+<main id="main">
+
+<section class="csi-hero" aria-labelledby="csi-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="22%" x2="100%" y2="64%"/>
+      <line x1="0" y1="58%" x2="100%" y2="18%"/>
+      <line x1="24%" y1="0" x2="78%" y2="100%"/>
+      <line x1="66%" y1="0" x2="14%" y2="100%"/>
+    </svg>
+  </div>
+
+  <div class="wrap">
+    <nav class="csi-breadcrumbs" aria-label="Breadcrumbs">
+      <a href="/">Acasă</a><span class="sep">/</span>
+      <a href="/#servicii">Servicii</a><span class="sep">/</span>
+      <span>Creare site de prezentare Iași</span>
+    </nav>
+
+    <div class="eyebrow"><span class="ey-dot"></span>Web design în Iași</div>
+
+    <h1 class="csi-hero__h1" id="csi-h1">
+      Creare site de prezentare<br>
+      <span class="acc">în Iași</span>
+    </h1>
+
+    <p class="csi-hero__lead">
+      Cauți <strong style="color:#fff;font-weight:500">creare site de prezentare în Iași</strong>? Visience realizează site-uri de prezentare profesionale pentru firme și antreprenori — design adaptiv, optimizat SEO și ușor de administrat. De la landing page la site de companie, construim platforma care îți aduce clienți.
+    </p>
+
+    <div class="csi-hero__acts">
+      <a href="/contact/" class="btn btn-solid">Cere ofertă pentru site</a>
+      <a href="tel:+40771486499" class="btn btn-ghost" style="border-color:rgba(255,255,255,.25);color:#fff">+40 771 486 499</a>
+    </div>
+
+    <div class="csi-hero__stats">
+      <div class="csi-hero__stat"><span class="n">120+</span><span class="l">Site-uri livrate</span></div>
+      <div class="csi-hero__stat"><span class="n">12 ani</span><span class="l">Experiență în Iași</span></div>
+      <div class="csi-hero__stat"><span class="n">2–4 săpt.</span><span class="l">Termen de livrare</span></div>
+      <div class="csi-hero__stat"><span class="n">95–100</span><span class="l">Scor PageSpeed mobil</span></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <div class="eyebrow"><span class="ey-dot"></span>Agenție din Iași</div>
+      <h2 class="dd dd-lg">De ce <span class="acc">un site de prezentare</span> pentru firma ta din Iași</h2>
+    </div>
+    <div class="csi-prose rv">
+      <p>Un <strong>site de prezentare</strong> este cea mai simplă și eficientă modalitate prin care o firmă din Iași își prezintă serviciile, câștigă încredere și atrage clienți noi. Fie că vrei <strong>creare site</strong> pentru o afacere nouă, <strong>creare website</strong> pentru un brand consacrat sau <strong>realizare site web</strong> pentru o companie întreagă, un site profesional lucrează pentru tine non-stop, fără pauză.</p>
+      <p>La Visience facem <strong>creare site de prezentare în Iași</strong> de peste 12 ani. Avem sediul pe Bulevardul Nicolae Iorga și lucrăm atât cu firme locale din Iași, cât și cu clienți din toată România, Italia, Franța și Germania. Fiecare <strong>site de prezentare firmă</strong> este construit pe obiectivele tale — nu pe un șablon generic — și optimizat tehnic încă de la prima linie de cod.</p>
+      <p>Dacă te interesează și <a href="/preturi/">prețul pentru creare site</a> sau vrei să vezi <a href="/portofoliu/">portofoliul nostru complet</a>, găsești totul transparent pe site. Iar dacă ai nevoie și de <a href="/creare-magazin-online/">creare magazin online</a> sau de <a href="/optimizare-seo/">optimizare SEO</a>, ne ocupăm de tot sub un singur acoperiș.</p>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <div class="eyebrow"><span class="ey-dot"></span>Ce primești</div>
+      <h2 class="dd dd-lg">Ce include un <span class="acc">site de prezentare</span> creat de Visience</h2>
+      <p class="body-lg" style="margin-top:14px">Fiecare proiect de creare site web include tot ce-ți trebuie ca să fii vizibil în Google și să transformi vizitatorii în clienți.</p>
+    </div>
+    <div class="csi-grid rv rv-d1">
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-mobile-screen"></i></div>
+        <h3>Design adaptiv (responsive)</h3>
+        <p>Site-ul de prezentare arată impecabil pe telefon, tabletă și desktop — acolo unde te caută clienții din Iași.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-magnifying-glass-chart"></i></div>
+        <h3>SEO tehnic inclus</h3>
+        <p>Realizare site web optimizat pentru Google de la bun început: viteză, structură corectă și date structurate.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-pen-to-square"></i></div>
+        <h3>CMS editabil</h3>
+        <p>Îți administrezi singur textele și imaginile, fără cunoștințe tehnice. Site de prezentare WordPress, ușor de folosit.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-gauge-high"></i></div>
+        <h3>Viteză și securitate</h3>
+        <p>Scor PageSpeed 95–100 pe mobil, certificat SSL, protecție anti-spam și backup — un site web profesional, sigur și rapid.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <div class="eyebrow"><span class="ey-dot"></span>Pentru orice nevoie</div>
+      <h2 class="dd dd-lg">Tipuri de <span class="acc">site-uri de prezentare</span> pe care le realizăm</h2>
+    </div>
+    <div class="csi-types rv rv-d1">
+      <div class="csi-type">
+        <span class="csi-type__n">01</span>
+        <div>
+          <h3>Landing page</h3>
+          <p>O singură pagină, focusată pe o ofertă sau o campanie. Ideală pentru a testa rapid piața din Iași și a genera lead-uri.</p>
+        </div>
+      </div>
+      <div class="csi-type">
+        <span class="csi-type__n">02</span>
+        <div>
+          <h3>Site de prezentare firmă</h3>
+          <p>Site de companie clasic, multi-pagină: Acasă, Despre, Servicii, Portofoliu și Contact — totul aliniat brandului tău.</p>
+        </div>
+      </div>
+      <div class="csi-type">
+        <span class="csi-type__n">03</span>
+        <div>
+          <h3>Site portofoliu</h3>
+          <p>Creare website pentru freelanceri, artiști și profesioniști care vor să-și prezinte lucrările elegant și convingător.</p>
+        </div>
+      </div>
+      <div class="csi-type">
+        <span class="csi-type__n">04</span>
+        <div>
+          <h3>Site premium cu design custom</h3>
+          <p>Realizare site de prezentare unic, cu animații și design 100% personalizat, pentru firme care vor să iasă în evidență.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream2">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <div class="eyebrow"><span class="ey-dot"></span>Portofoliu</div>
+      <h2 class="dd dd-lg">Site-uri de prezentare <span class="acc">create în Iași</span> și în țară</h2>
+      <p class="body-lg" style="margin-top:14px">Câteva proiecte recente de creare site de prezentare realizate de echipa Visience.</p>
+    </div>
+    <div class="csi-porto rv rv-d1">
+      <a class="csi-shot" href="/portofoliu/">
+        <div class="csi-shot__img">
+          <img src="/media/creare-site-de-prezentare-iasi-restaurant.avif"
+               alt="Creare site de prezentare în Iași — site pentru restaurantul Casa Vatră, realizat de Visience"
+               title="Creare site de prezentare Iași — Casa Vatră" loading="lazy" width="1898" height="949">
+        </div>
+        <div class="csi-shot__cap"><strong>Casa Vatră — restaurant &amp; hotel</strong>Site de prezentare cu meniu și rezervări</div>
+      </a>
+      <a class="csi-shot" href="/portofoliu/">
+        <div class="csi-shot__img">
+          <img src="/media/realizare-site-web-prezentare-iasi-imobiliar.avif"
+               alt="Realizare site web de prezentare în Iași — site pentru dezvoltatorul imobiliar 2M Tech"
+               title="Realizare site web de prezentare Iași — 2M Tech" loading="lazy" width="1898" height="949">
+        </div>
+        <div class="csi-shot__cap"><strong>2M Tech — dezvoltator imobiliar</strong>Site de prezentare pentru ansamblu rezidențial</div>
+      </a>
+      <a class="csi-shot" href="/portofoliu/">
+        <div class="csi-shot__img">
+          <img src="/media/creare-website-de-prezentare-firma-iasi.avif"
+               alt="Creare website de prezentare pentru firmă — proiect Ecologica2000, agenție web Iași Visience"
+               title="Creare website de prezentare firmă — Ecologica2000" loading="lazy" width="1898" height="949">
+        </div>
+        <div class="csi-shot__cap"><strong>Ecologica2000 — waste management</strong>Site de companie pentru piața din Italia</div>
+      </a>
+      <a class="csi-shot" href="/portofoliu/">
+        <div class="csi-shot__img">
+          <img src="/media/site-de-prezentare-profesional-iasi.avif"
+               alt="Site de prezentare profesional creat în Iași — Alexander Private Tailor"
+               title="Site de prezentare profesional Iași — Alexander Tailor" loading="lazy" width="1024" height="523">
+        </div>
+        <div class="csi-shot__cap"><strong>Alexander Private Tailor</strong>Site de prezentare pentru un private stylist</div>
+      </a>
+    </div>
+    <div class="rv rv-d2" style="text-align:center;margin-top:34px">
+      <a href="/portofoliu/" class="btn btn-ghost">Vezi tot portofoliul →</a>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Prețuri transparente</div>
+      <h2 class="dd dd-lg">Cât costă un <span class="acc">site de prezentare</span> în Iași?</h2>
+      <p class="body-lg" style="margin-top:14px">Prețul pentru creare site de prezentare depinde de numărul de pagini, funcționalități și nivelul de personalizare. Mai jos găsești pachetele noastre, cu prețuri clare — fără surprize.</p>
+    </div>
+    <div class="csi-pr rv rv-d1">
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">Landing Page</div>
+        <div class="csi-pr-card__price">150€</div>
+        <p class="csi-pr-card__desc">O singură pagină cu design responsive și call-to-action, pentru o campanie sau testarea pieței.</p>
+      </div>
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">Website Basic</div>
+        <div class="csi-pr-card__price">500€</div>
+        <p class="csi-pr-card__desc">Site de prezentare până la 6 pagini, cu blog, galerie și SEO de bază. Ideal pentru firme la început.</p>
+      </div>
+      <div class="csi-pr-card feat">
+        <span class="csi-pr-card__badge">Recomandat</span>
+        <div class="csi-pr-card__name">Website Standard</div>
+        <div class="csi-pr-card__price">1.000€</div>
+        <p class="csi-pr-card__desc">Design după analiza concurenței, SEO on-site complet, pagini optimizate pe oraș și articole incluse.</p>
+      </div>
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">Website Premium</div>
+        <div class="csi-pr-card__price">2.000€+</div>
+        <p class="csi-pr-card__desc">Design 100% custom, animații, copywriting SEO și strategie pe analiza publicului tău țintă.</p>
+      </div>
+    </div>
+    <p class="csi-pr-note rv rv-d2">
+      La acestea se adaugă costuri unice mici pentru domeniu (15€) și găzduire (85€/an). Vrei un preț exact pentru proiectul tău? <a href="/preturi/">Vezi toate prețurile</a> sau <a href="/contact/">cere o ofertă personalizată</a> — răspundem în 24 de ore.
+    </p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <div class="eyebrow"><span class="ey-dot"></span>Cum lucrăm</div>
+      <h2 class="dd dd-lg">Procesul de <span class="acc">creare a site-ului</span> tău</h2>
+    </div>
+    <div class="csi-steps rv rv-d1">
+      <div class="csi-step"><div class="csi-step__n">PASUL 01</div><h3>Brief &amp; analiză</h3><p>Discutăm despre afacerea ta, obiective și concurența din Iași. Stabilim structura site-ului de prezentare.</p></div>
+      <div class="csi-step"><div class="csi-step__n">PASUL 02</div><h3>Design</h3><p>Realizăm designul aliniat brandului tău și ți-l prezentăm înainte de implementare.</p></div>
+      <div class="csi-step"><div class="csi-step__n">PASUL 03</div><h3>Dezvoltare &amp; SEO</h3><p>Construim site-ul rapid și sigur, cu SEO tehnic și conținut optimizat pentru Google.</p></div>
+      <div class="csi-step"><div class="csi-step__n">PASUL 04</div><h3>Lansare &amp; instruire</h3><p>Punem site-ul online și te învățăm să-l administrezi singur. Oferim suport și după livrare.</p></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Întrebări frecvente</div>
+      <h2 class="dd dd-lg">Întrebări despre <span class="acc">crearea unui site de prezentare</span></h2>
+    </div>
+    <div class="csi-faq rv">
+      <details>
+        <summary>Cât costă un site de prezentare în Iași?</summary>
+        <p>Un landing page pornește de la 150€, un site de prezentare standard de la 500€, iar un site premium cu design custom de la 2.000€. Prețul final pentru crearea site-ului depinde de numărul de pagini, funcționalități și nivelul de personalizare. Cere o ofertă și primești un preț exact în 24 de ore.</p>
+      </details>
+      <details>
+        <summary>Cât durează realizarea unui site de prezentare?</summary>
+        <p>Un landing page se livrează în câteva zile, un site de prezentare standard în 2–4 săptămâni, iar un proiect premium în 4–8 săptămâni, în funcție de volumul de conținut și de rapiditatea feedback-ului tău.</p>
+      </details>
+      <details>
+        <summary>Pe ce platformă realizați site-ul de prezentare?</summary>
+        <p>Construim cel mai des pe WordPress, astfel încât să poți edita singur conținutul după livrare. La cerere lucrăm și pe alte platforme. Indiferent de tehnologie, site-ul rămâne rapid, sigur și optimizat SEO.</p>
+      </details>
+      <details>
+        <summary>Site-ul va apărea în Google pentru clienții din Iași?</summary>
+        <p>Da. Fiecare site de prezentare este optimizat SEO tehnic de la bun început, cu structură corectă, viteză și date structurate locale (Iași). Pentru o poziționare avansată în căutări recomandăm și serviciul nostru de <a href="/optimizare-seo/">optimizare SEO</a> continuă.</p>
+      </details>
+      <details>
+        <summary>Pot să administrez singur site-ul după ce îl primesc?</summary>
+        <p>Da. Toate site-urile includ un CMS prietenos, deci modifici texte, imagini și pagini fără cunoștințe tehnice. La livrare oferim și o sesiune de instruire, plus suport ulterior.</p>
+      </details>
+      <details>
+        <summary>Realizați site-uri de prezentare doar pentru firme din Iași?</summary>
+        <p>Avem sediul în Iași, dar lucrăm cu clienți din toată România și din străinătate. Proiectele se desfășoară integral online, fără să fie nevoie de prezență fizică — vezi <a href="/portofoliu/">portofoliul</a> nostru cu peste 120 de proiecte.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-cta" aria-labelledby="csi-cta-h">
+  <div class="wrap">
+    <div class="rv">
+      <div class="eyebrow" style="justify-content:center;color:var(--acc2)"><span class="ey-dot" style="background:var(--acc2)"></span>Hai să începem</div>
+      <h2 class="dd dd-lg csi-cta__h" id="csi-cta-h">Gata pentru un<br><span class="acc">site de prezentare în Iași?</span></h2>
+      <p class="csi-cta__p">Spune-ne câteva detalii despre firma ta și primești în 24 de ore o ofertă personalizată pentru crearea site-ului tău de prezentare. Fără angajament.</p>
+      <div class="csi-cta__acts">
+        <a href="/contact/" class="btn btn-solid">Cere ofertă gratuită</a>
+        <a href="tel:+40771486499" class="btn btn-dark">+40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Servicii conexe și prețuri transparente">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Nu lucrăm cu tarife ascunse sau surprize în factură. Toate pachetele și prețurile noastre sunt publice — alegi în cunoștință de cauză, fără presiune.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Continuă cu</div>
+      <div class="rel-links__grid">
+        <a href="/creare-site-prezentare/" class="rel-link"><span class="rel-link__name">Creare site de prezentare <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Site-uri de companie rapide, cu design pe brandul tău.</span></a>
+        <a href="/creare-magazin-online/" class="rel-link"><span class="rel-link__name">Creare magazin online <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">WooCommerce și Shopify optimizate pentru vânzări.</span></a>
+        <a href="/optimizare-seo/" class="rel-link"><span class="rel-link__name">SEO & content <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Ajungi pe prima pagină Google, organic.</span></a>
+        <a href="/portofoliu/" class="rel-link"><span class="rel-link__name">Portofoliu <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Proiecte reale livrate de echipa noastră.</span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+12:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$1a"}}]
+13:["$","$L1b",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1d:I[27201,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"IconMark"]
+19:[["$","title","0",{"children":"Creare Site de Prezentare în Iași — Visience"}],["$","meta","1",{"name":"description","content":"Creare site de prezentare în Iași: design responsive, optimizat SEO și CMS editabil, pentru firme care vor să arate profesional. Cere ofertă în 24h!"}],["$","link","2",{"rel":"canonical","href":"https://visience.ro/creare-site-prezentare-iasi/"}],["$","meta","3",{"property":"og:title","content":"Creare Site de Prezentare în Iași — Visience"}],["$","meta","4",{"property":"og:description","content":"Site-uri de prezentare profesionale pentru firmele din Iași: design adaptiv, SEO tehnic și CMS editabil."}],["$","meta","5",{"property":"og:url","content":"https://visience.ro/creare-site-prezentare-iasi/"}],["$","meta","6",{"property":"og:locale","content":"ro_RO"}],["$","meta","7",{"property":"og:image","content":"https://visience.ro/media/creare-site-de-prezentare-iasi-restaurant.avif"}],["$","meta","8",{"property":"og:image:alt","content":"Creare site de prezentare în Iași — proiect Visience"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Agenție de Marketing & Creare Site-uri în Iași | Visience"}],["$","meta","12",{"name":"twitter:description","content":"Branding, website-uri, magazine online, Google & Meta Ads, SEO. Prețuri publice, fără costuri ascunse."}],["$","meta","13",{"name":"twitter:image","content":"https://visience.ro/media/og-visience.jpg"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L1d","15",{}]]
+1c:null

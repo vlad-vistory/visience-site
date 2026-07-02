@@ -1,0 +1,1041 @@
+1:"$Sreact.fragment"
+6:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+2:T12de,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/optimizare-seo/#service","name":"Optimizare SEO și content marketing","serviceType":"SEO, content marketing și link building","description":"Optimizare SEO tehnic on-page, strategie SEO continuă on-page și off-page, backlinking de calitate, plus newsletter și email marketing, pentru vizibilitate organică pe termen lung în Google.","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Pachete optimizare SEO","itemListElement":[{"@type":"Offer","name":"Strategie SEO completă","description":"Colaborare lunară (minim 6 luni): analiză cuvinte cheie, optimizare on-page, link building strategic, conținut SEO și raport lunar.","price":"500","priceCurrency":"EUR","priceSpecification":{"@type":"UnitPriceSpecification","price":"500","priceCurrency":"EUR","unitText":"lună"}},{"@type":"Offer","name":"SEO Magazin Online","description":"SEO produse și categorii, schema Product, faceted search, canonical și paginare, optimizare viteză.","price":"1500","priceCurrency":"EUR"},{"@type":"Offer","name":"SEO Tehnic","description":"Audit tehnic, sitemap și robots, schema markup, optimizare viteză, corectare broken links.","price":"40","priceCurrency":"EUR","priceSpecification":{"@type":"UnitPriceSpecification","price":"40","priceCurrency":"EUR","unitText":"oră"}}]}},{"@type":"FAQPage","@id":"https://visience.ro/optimizare-seo/#faq","mainEntity":[{"@type":"Question","name":"Cât durează până apar rezultatele SEO?","acceptedAnswer":{"@type":"Answer","text":"SEO-ul este o investiție pe termen lung, nu un rezultat instant. În general, primele îmbunătățiri de poziții apar în 2-3 luni, iar rezultatele consistente în trafic organic se văd, de obicei, după 4-6 luni de lucru constant. De aceea recomandăm o strategie pe minim 6 luni — este intervalul în care optimizările tehnice, conținutul și autoritatea construită încep să compună rezultate stabile."}},{"@type":"Question","name":"Garantați poziția 1 în Google?","acceptedAnswer":{"@type":"Answer","text":"Nu, și ar trebui să te ferești de oricine îți promite asta. Pozițiile în Google sunt decise de algoritmul Google, în funcție de sute de factori și de concurența din nișa ta — niciun specialist serios nu le poate garanta. Ce garantăm însă este munca corectă: audit tehnic, optimizare on-page, conținut de calitate, link building curat și un raport lunar prin care vezi exact ce am lucrat și cum evoluează pozițiile. Folosim doar tehnici conforme cu ghidurile Google, fără scurtături care riscă penalizări."}},{"@type":"Question","name":"Ce include strategia SEO lunară?","acceptedAnswer":{"@type":"Answer","text":"Pachetul de 500€/lună (minim 6 luni) include analiză de cuvinte cheie, optimizare on-page continuă, link building strategic, conținut SEO lunar și un raport lunar de performanță. Practic, ne ocupăm de tot ce ține de creșterea organică a site-ului tău, lună de lună, și ajustăm direcția în funcție de rezultate."}},{"@type":"Question","name":"Faceți SEO local (Google Business)?","acceptedAnswer":{"@type":"Answer","text":"Da. Pentru afacerile cu prezență fizică sau care vizează clienți dintr-o anumită zonă, SEO local este esențial. Optimizăm profilul Google Business, asigurăm consistența datelor de contact (NAP), lucrăm cuvinte cheie locale și structurăm site-ul pentru căutările de tip „serviciu + oraș”, ca să apari în rezultatele și pe harta din zona ta."}},{"@type":"Question","name":"Oferiți audit SEO înainte de start?","acceptedAnswer":{"@type":"Answer","text":"Da. Orice colaborare pornește de la o analiză a site-ului tău, ca să înțelegem unde te afli și ce are cel mai mare impact. Auditul tehnic face parte din serviciu, iar pentru intervenții punctuale poți alege și pachetul SEO Tehnic la 40€/oră, fără o colaborare lunară."}},{"@type":"Question","name":"Lucrați și SEO pentru magazine online?","acceptedAnswer":{"@type":"Answer","text":"Da. SEO-ul pentru magazine online are particularitățile lui și îl tratăm ca proiect dedicat, de la 1.500€: optimizare de produse și categorii, schema Product, faceted search corect, gestionarea canonical și a paginării, plus optimizarea vitezei. Toate site-urile pe care le construim sunt deja optimizate SEO din construcție, iar pentru poziționare avansată adăugăm strategia continuă."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Optimizare SEO","item":"https://visience.ro/optimizare-seo/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XLiQQktmqJoG3-3IBETrL"}
+5:T8f88,<style>
+.seo-hero {
+  position: relative;
+  padding: calc(var(--nav-h) + 90px) 0 90px;
+  background: var(--cream);
+  overflow: hidden;
+}
+.seo-hero__inner {
+  display: grid;
+  grid-template-columns: 1.2fr 1fr;
+  gap: 70px;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+}
+.seo-hero__breadcrumbs {
+  font-family: var(--f-m);
+  font-size: 11px;
+  color: var(--mid);
+  letter-spacing: .06em;
+  margin-bottom: 24px;
+}
+.seo-hero__breadcrumbs a       { color: var(--mid); transition: color .2s; }
+.seo-hero__breadcrumbs a:hover { color: var(--acc); }
+.seo-hero__breadcrumbs .sep    { margin: 0 10px; opacity: .4; }
+
+.seo-hero__h1 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(38px, 5.2vw, 70px);
+  line-height: .98;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 26px;
+}
+.seo-hero__h1 .acc {
+  background: var(--acc);
+  color: var(--acc-ink);
+  padding: 0 12px 4px;
+  border-radius: 10px;
+  display: inline-block;
+  line-height: 1.05;
+}
+.seo-hero__lead {
+  font-size: 17px;
+  line-height: 1.78;
+  color: var(--mid);
+  margin-bottom: 32px;
+  font-weight: 300;
+  max-width: 540px;
+}
+.seo-hero__pts {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-bottom: 36px;
+  max-width: 540px;
+}
+.seo-pt {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 14px;
+  color: var(--ink);
+  font-weight: 500;
+}
+.seo-pt-dot {
+  width: 18px; height: 18px;
+  background: var(--acc);
+  color: var(--acc-ink);
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 10px; font-weight: 700;
+  flex-shrink: 0; margin-top: 2px;
+}
+.seo-hero__cta {
+  display: flex; gap: 10px; flex-wrap: wrap;
+}
+
+.seo-hero__visual {
+  position: relative;
+  height: 480px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.seo-hero__mockup {
+  position: relative;
+  width: 100%;
+  max-width: 460px;
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  padding: 24px 22px;
+  box-shadow: 0 30px 80px rgba(17,16,16,.08);
+  z-index: 2;
+}
+.seo-mockup__bar {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 18px;
+}
+.seo-mockup__search {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--cream);
+  padding: 8px 12px;
+  border-radius: 100px;
+  font-family: var(--f-m);
+  font-size: 11px;
+  color: var(--mid);
+}
+.seo-mockup__search i { color: var(--acc); font-size: 11px; }
+.seo-mockup__results {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.seo-mockup__row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 14px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--cream);
+}
+.seo-mockup__row.top {
+  background: var(--acc-bg);
+  border-color: rgba(232,152,10,.35);
+}
+.seo-mockup__rank {
+  width: 26px; height: 26px;
+  border-radius: 8px;
+  background: var(--cream2);
+  color: var(--mid);
+  display: flex; align-items: center; justify-content: center;
+  font-family: var(--f-d); font-weight: 800; font-size: 13px;
+  flex-shrink: 0;
+}
+.seo-mockup__row.top .seo-mockup__rank {
+  background: var(--acc); color: var(--acc-ink);
+}
+.seo-mockup__lines { flex: 1; }
+.seo-mockup__l1 {
+  height: 7px; border-radius: 3px;
+  background: var(--ink); opacity: .8;
+  margin-bottom: 6px; width: 70%;
+}
+.seo-mockup__row.top .seo-mockup__l1 { background: var(--acc); opacity: 1; }
+.seo-mockup__l2 {
+  height: 4px; border-radius: 2px;
+  background: var(--cream3); width: 90%;
+}
+.seo-mockup__trend {
+  margin-top: 16px;
+  padding: 14px;
+  background: var(--ink);
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.seo-mockup__trend-lbl {
+  font-family: var(--f-m); font-size: 10px;
+  letter-spacing: .08em; text-transform: uppercase;
+  color: rgba(255,255,255,.55);
+}
+.seo-mockup__trend-val {
+  font-family: var(--f-d); font-size: 16px; font-weight: 800;
+  color: var(--acc2);
+  display: flex; align-items: center; gap: 6px;
+}
+.seo-mockup__trend-val i { font-size: 13px; }
+
+
+.seo-intro {
+  background: var(--white);
+  padding: 90px 0;
+  position: relative;
+}
+.seo-intro__inner {
+  max-width: 880px;
+  margin: 0 auto;
+}
+.seo-intro h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(28px, 3.5vw, 44px);
+  line-height: 1.1;
+  letter-spacing: -.025em;
+  color: var(--ink);
+  margin: 56px 0 18px;
+}
+.seo-intro h2:first-child { margin-top: 0; }
+.seo-intro p {
+  font-size: 16px;
+  line-height: 1.84;
+  color: var(--mid);
+  font-weight: 300;
+  margin-bottom: 16px;
+}
+.seo-intro p strong { color: var(--ink); font-weight: 600; }
+.seo-intro p a       { color: var(--acc); border-bottom: 1px solid var(--acc); transition: opacity .2s; }
+.seo-intro p a:hover { opacity: .65; }
+
+
+.seo-incl {
+  padding: 100px 0;
+  background: var(--cream);
+}
+.seo-incl__head {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto 56px;
+}
+.seo-incl__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(34px, 4.5vw, 56px);
+  line-height: 1.0;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 18px;
+}
+.seo-incl__h2 .acc { color: var(--acc); }
+.seo-incl__sub {
+  font-size: 16px; line-height: 1.8;
+  color: var(--mid); font-weight: 300;
+}
+.seo-incl__grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+.seo-card {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 34px 28px 30px;
+  transition: .3s;
+}
+.seo-card:hover {
+  border-color: rgba(232,152,10,.3);
+  transform: translateY(-6px);
+  box-shadow: 0 20px 44px rgba(232,152,10,.08);
+}
+.seo-card__ico {
+  width: 52px; height: 52px;
+  border-radius: 14px;
+  background: var(--acc-bg);
+  color: var(--acc);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  margin-bottom: 22px;
+  transition: .3s;
+}
+.seo-card:hover .seo-card__ico {
+  background: var(--acc);
+  color: var(--acc-ink);
+}
+.seo-card h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: -.015em;
+  margin: 0 0 12px;
+  color: var(--ink);
+  line-height: 1.2;
+}
+.seo-card p {
+  font-size: 13px;
+  color: var(--mid);
+  line-height: 1.72;
+  font-weight: 300;
+  margin: 0;
+}
+
+
+.seo-prices {
+  padding: 100px 0;
+  background: var(--white);
+}
+.seo-prices__head {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto 56px;
+}
+.seo-prices__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(34px, 4.5vw, 60px);
+  line-height: 1.0;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 18px;
+}
+.seo-prices__h2 .acc { color: var(--acc); }
+.seo-prices__sub {
+  font-size: 16px; line-height: 1.8;
+  color: var(--mid); font-weight: 300;
+}
+
+.seo-pkg-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  align-items: stretch;
+}
+.seo-pkg {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 36px 32px 32px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  transition: .3s;
+}
+.seo-pkg:hover {
+  border-color: rgba(232,152,10,.3);
+  transform: translateY(-6px);
+  box-shadow: 0 20px 48px rgba(232,152,10,.08);
+}
+.seo-pkg.featured {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--white);
+}
+.seo-pkg.featured:hover { box-shadow: 0 24px 56px rgba(17,16,16,.2); }
+.seo-pkg__badge {
+  position: absolute;
+  top: -12px; left: 50%;
+  transform: translateX(-50%);
+  background: var(--acc);
+  color: var(--acc-ink);
+  font-family: var(--f-m);
+  font-size: 9px;
+  font-weight: 500;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  padding: 5px 14px;
+  border-radius: 100px;
+}
+.seo-pkg__name {
+  font-family: var(--f-m);
+  font-size: 11px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--mid);
+  margin-bottom: 8px;
+}
+.seo-pkg.featured .seo-pkg__name { color: rgba(255,255,255,.5); }
+.seo-pkg__price {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(32px, 3.6vw, 46px);
+  letter-spacing: -.04em;
+  line-height: 1;
+  color: var(--acc);
+  margin-bottom: 4px;
+}
+.seo-pkg__price-note {
+  font-size: 12px;
+  color: var(--light);
+  margin-bottom: 22px;
+}
+.seo-pkg.featured .seo-pkg__price-note { color: rgba(255,255,255,.4); }
+.seo-pkg__desc {
+  font-size: 14px;
+  line-height: 1.7;
+  color: var(--mid);
+  margin-bottom: 26px;
+  font-weight: 300;
+  padding-bottom: 22px;
+  border-bottom: 1px solid var(--border);
+}
+.seo-pkg.featured .seo-pkg__desc {
+  color: rgba(255,255,255,.55);
+  border-bottom-color: rgba(255,255,255,.1);
+}
+.seo-pkg__feats {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 28px;
+  flex: 1;
+}
+.seo-pkg__feat {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 13px;
+  line-height: 1.55;
+  color: var(--ink);
+}
+.seo-pkg.featured .seo-pkg__feat { color: rgba(255,255,255,.85); }
+.seo-pkg__feat-tick {
+  color: var(--acc);
+  flex-shrink: 0;
+  margin-top: 2px;
+  font-weight: 700;
+}
+
+.seo-extra {
+  max-width: 880px;
+  margin: 40px auto 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+.seo-extra__box {
+  background: var(--cream);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 26px 28px;
+}
+.seo-extra__box h4 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: -.01em;
+  margin: 0 0 8px;
+  color: var(--ink);
+  display: flex; align-items: center; gap: 10px;
+}
+.seo-extra__box h4 i { color: var(--acc); font-size: 15px; }
+.seo-extra__box p {
+  font-size: 13px;
+  line-height: 1.7;
+  color: var(--mid);
+  font-weight: 300;
+  margin: 0;
+}
+.seo-extra__box p strong { color: var(--ink); font-weight: 600; }
+
+
+.seo-process {
+  padding: 100px 0;
+  background: var(--cream2);
+}
+.seo-process__head {
+  margin-bottom: 56px;
+  max-width: 640px;
+}
+.seo-process__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(30px, 4vw, 50px);
+  line-height: 1.02;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 16px;
+}
+.seo-process__sub {
+  font-size: 16px; line-height: 1.8;
+  color: var(--mid); font-weight: 300;
+}
+.seo-process__list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+.seo-step {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 30px 28px;
+  transition: .3s;
+}
+.seo-step:hover {
+  border-color: rgba(232,152,10,.3);
+  transform: translateY(-4px);
+  box-shadow: 0 14px 28px rgba(17,16,16,.06);
+}
+.seo-step__n {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: 36px;
+  color: var(--acc);
+  letter-spacing: -.03em;
+  line-height: 1;
+  margin-bottom: 16px;
+}
+.seo-step h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.015em;
+  margin: 0 0 10px;
+  color: var(--ink);
+  line-height: 1.2;
+}
+.seo-step p {
+  font-size: 13px;
+  color: var(--mid);
+  line-height: 1.7;
+  font-weight: 300;
+  margin: 0;
+}
+
+
+.seo-faq {
+  padding: 100px 0;
+  background: var(--white);
+}
+.seo-faq__head {
+  text-align: center;
+  max-width: 640px;
+  margin: 0 auto 50px;
+}
+.seo-faq__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(28px, 3.6vw, 44px);
+  line-height: 1.04;
+  letter-spacing: -.03em;
+  color: var(--ink);
+}
+.seo-faq__h2 .acc { color: var(--acc); }
+.seo-faq__list {
+  max-width: 860px;
+  margin: 0 auto;
+  border-top: 1px solid var(--border);
+}
+.seo-faq-item {
+  border-bottom: 1px solid var(--border);
+  padding: 24px 0;
+}
+.seo-faq-item summary {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.01em;
+  color: var(--ink);
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding-right: 8px;
+  transition: color .22s;
+}
+.seo-faq-item summary::-webkit-details-marker { display: none; }
+.seo-faq-item summary::after {
+  content: '+';
+  font-family: var(--f-d);
+  font-size: 26px;
+  font-weight: 300;
+  color: var(--acc);
+  transition: transform .3s;
+  flex-shrink: 0;
+  line-height: 1;
+}
+.seo-faq-item[open] summary::after { transform: rotate(45deg); }
+.seo-faq-item:hover summary { color: var(--acc); }
+.seo-faq-item p {
+  margin-top: 14px;
+  font-size: 14px;
+  color: var(--mid);
+  line-height: 1.78;
+  font-weight: 300;
+  max-width: 740px;
+}
+.seo-faq-item p strong { color: var(--ink); font-weight: 600; }
+
+
+.seo-cta {
+  padding: 110px 0;
+  background: var(--ink);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.seo-cta::before {
+  content: '';
+  position: absolute;
+  top: -100px; right: -100px;
+  width: 420px; height: 420px;
+  background: radial-gradient(circle, rgba(232,152,10,.22) 0%, transparent 70%);
+  pointer-events: none;
+}
+.seo-cta > .wrap { position: relative; z-index: 1; }
+.seo-cta__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(34px, 5vw, 64px);
+  line-height: 1.0;
+  letter-spacing: -.03em;
+  color: var(--white);
+  margin-bottom: 20px;
+}
+.seo-cta__h2 .acc {
+  background: linear-gradient(135deg, var(--acc) 0%, var(--acc2) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.seo-cta__p {
+  font-size: 16px;
+  color: rgba(255,255,255,.5);
+  font-weight: 300;
+  max-width: 540px;
+  margin: 0 auto 32px;
+  line-height: 1.78;
+}
+.seo-cta__btns {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 1024px) {
+  .seo-hero { padding: calc(var(--nav-h) + 60px) 0 70px; }
+  .seo-hero__inner { grid-template-columns: 1fr; gap: 50px; }
+  .seo-hero__visual { height: auto; order: -1; }
+  .seo-intro { padding: 70px 0; }
+  .seo-incl { padding: 80px 0; }
+  .seo-incl__grid { grid-template-columns: repeat(2, 1fr); }
+  .seo-prices { padding: 80px 0; }
+  .seo-pkg-grid { grid-template-columns: 1fr; gap: 20px; }
+  .seo-pkg.featured { transform: none; }
+  .seo-process { padding: 70px 0; }
+  .seo-process__list { grid-template-columns: 1fr; max-width: 480px; }
+  .seo-faq { padding: 70px 0; }
+  .seo-cta { padding: 80px 0; }
+}
+
+@media (max-width: 640px) {
+  .seo-hero__pts { grid-template-columns: 1fr; }
+  .seo-hero__cta { flex-direction: column; }
+  .seo-hero__cta .btn { justify-content: center; }
+  .seo-incl__grid { grid-template-columns: 1fr; gap: 12px; }
+  .seo-extra { grid-template-columns: 1fr; }
+  .seo-pkg { padding: 28px 24px 26px; }
+  .seo-cta__btns { flex-direction: column; }
+  .seo-cta__btns .btn { width: 100%; justify-content: center; }
+}
+</style>
+
+
+<main id="main">
+
+<section class="seo-hero" aria-labelledby="seo-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="20%" x2="100%" y2="60%"/>
+      <line x1="0" y1="50%" x2="100%" y2="90%"/>
+      <line x1="0" y1="80%" x2="100%" y2="30%"/>
+      <line x1="25%" y1="0" x2="75%" y2="100%"/>
+      <line x1="60%" y1="0" x2="10%" y2="100%"/>
+    </svg>
+  </div>
+
+  <div class="wrap">
+    <div class="seo-hero__inner">
+
+      <div class="rv">
+        <nav class="seo-hero__breadcrumbs" aria-label="Breadcrumbs">
+          <a href="/">Acasă</a>
+          <span class="sep">/</span>
+          <a href="/#servicii">Servicii</a>
+          <span class="sep">/</span>
+          <span>Optimizare SEO</span>
+        </nav>
+
+        <div class="eyebrow">
+          <span class="ey-dot"></span>
+          Optimizare SEO &amp; content marketing Iași
+        </div>
+
+        <h1 class="seo-hero__h1" id="seo-h1">
+          Vizibilitate în Google<br>
+          <span class="acc">care durează.</span>
+        </h1>
+
+        <p class="seo-hero__lead">
+          Construim poziții organice solide printr-o strategie SEO continuă: optimizare tehnică, conținut relevant, link building de calitate și raportare lunară clară. Pentru afaceri care vor creștere reală, nu trucuri pe termen scurt.
+        </p>
+
+        <div class="seo-hero__pts">
+          <div class="seo-pt"><span class="seo-pt-dot">✓</span><span>SEO tehnic &amp; on-page</span></div>
+          <div class="seo-pt"><span class="seo-pt-dot">✓</span><span>Strategie pe minim 6 luni</span></div>
+          <div class="seo-pt"><span class="seo-pt-dot">✓</span><span>Conținut &amp; link building</span></div>
+          <div class="seo-pt"><span class="seo-pt-dot">✓</span><span>Raport lunar transparent</span></div>
+        </div>
+
+        <div class="seo-hero__cta">
+          <a href="/contact/" class="btn btn-solid">Solicită ofertă</a>
+          <a href="tel:+40771486499" class="btn btn-ghost">0771 486 499</a>
+        </div>
+      </div>
+
+      <div class="seo-hero__visual rv rv-d2">
+        <div class="seo-hero__mockup" aria-hidden="true">
+          <div class="seo-mockup__bar">
+            <div class="seo-mockup__search">
+              <i class="fas fa-magnifying-glass"></i>
+              <span>servicii firma ta iași</span>
+            </div>
+          </div>
+          <div class="seo-mockup__results">
+            <div class="seo-mockup__row top">
+              <span class="seo-mockup__rank">1</span>
+              <div class="seo-mockup__lines">
+                <div class="seo-mockup__l1"></div>
+                <div class="seo-mockup__l2"></div>
+              </div>
+            </div>
+            <div class="seo-mockup__row">
+              <span class="seo-mockup__rank">2</span>
+              <div class="seo-mockup__lines">
+                <div class="seo-mockup__l1"></div>
+                <div class="seo-mockup__l2"></div>
+              </div>
+            </div>
+            <div class="seo-mockup__row">
+              <span class="seo-mockup__rank">3</span>
+              <div class="seo-mockup__lines">
+                <div class="seo-mockup__l1"></div>
+                <div class="seo-mockup__l2"></div>
+              </div>
+            </div>
+          </div>
+          <div class="seo-mockup__trend">
+            <span class="seo-mockup__trend-lbl">Trafic organic</span>
+            <span class="seo-mockup__trend-val"><i class="fas fa-arrow-trend-up"></i> +148%</span>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="seo-intro" aria-labelledby="seo-intro-h2">
+  <div class="wrap">
+    <div class="seo-intro__inner rv">
+
+      <h2 id="seo-intro-h2">Optimizare SEO și content marketing pentru creștere organică</h2>
+      <p>
+        Suntem o <strong>agenție de marketing din Iași</strong> care construiește vizibilitate organică pe termen lung în Google. Lucrăm <strong>SEO tehnic on-page</strong>, strategie continuă <strong>on-page și off-page</strong>, <strong>backlinking de calitate</strong>, plus <strong>newsletter și email marketing</strong> — toate aliniate la obiectivele tale de business, nu la metrici de vanitate.
+      </p>
+      <p>
+        Toate site-urile pe care le realizăm sunt <strong>optimizate SEO din construcție</strong>: structură semantică corectă, viteză de încărcare, date structurate și URL-uri prietenoase. Pentru poziționare avansată însă, recomandăm o <strong>strategie SEO continuă pe minim 6 luni</strong> — SEO-ul nu este un proiect cu dată de final, ci un proces care compune rezultate în timp. <a href="/contact/">Cere o analiză a site-ului tău →</a>
+      </p>
+
+      <h2>De ce SEO continuu și nu o singură optimizare?</h2>
+      <p>
+        Google îți evaluează site-ul în fiecare zi, iar concurența nu stă pe loc. O optimizare unică îți aduce o îmbunătățire de moment, dar pozițiile bune se câștigă și se păstrează prin <strong>conținut publicat constant</strong>, <strong>autoritate construită prin link building</strong> și <strong>ajustări tehnice continue</strong>. De aceea pachetul nostru principal este o colaborare lunară pe minim 6 luni, intervalul în care SEO-ul începe să producă rezultate vizibile și stabile.
+      </p>
+      <p>
+        Pe lângă poziționarea în căutări, conținutul bun lucrează pentru tine și după ce vizitatorul ajunge pe site: articole utile, ghiduri și pagini bine structurate care răspund întrebărilor reale ale clienților tăi. <a href="#seo-faq">Vezi întrebările frecvente →</a>
+      </p>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="seo-incl" aria-labelledby="seo-incl-h2">
+  <div class="wrap">
+
+    <div class="seo-incl__head rv">
+      <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Ce includem</div>
+      <h2 class="seo-incl__h2" id="seo-incl-h2">Tot ce ține de <span class="acc">poziționarea ta</span></h2>
+      <p class="seo-incl__sub">
+        De la fundația tehnică până la conținut și autoritate — acoperim întreg ciclul prin care un site ajunge să fie găsit și ales în Google.
+      </p>
+    </div>
+
+    <div class="seo-incl__grid rv rv-d2">
+
+      <div class="seo-card">
+        <div class="seo-card__ico"><i class="fas fa-gauge-high"></i></div>
+        <h3>Audit &amp; SEO tehnic</h3>
+        <p>Audit complet, sitemap și robots, schema markup, optimizare viteză și corectarea linkurilor stricate, pentru o fundație curată pe care Google o poate indexa corect.</p>
+      </div>
+
+      <div class="seo-card">
+        <div class="seo-card__ico"><i class="fas fa-key"></i></div>
+        <h3>Cuvinte cheie &amp; on-page</h3>
+        <p>Analiză de cuvinte cheie pe baza intenției reale de căutare și optimizare on-page: titluri, meta, structură de conținut și legături interne care duc traficul potrivit.</p>
+      </div>
+
+      <div class="seo-card">
+        <div class="seo-card__ico"><i class="fas fa-link"></i></div>
+        <h3>Conținut &amp; link building</h3>
+        <p>Conținut SEO scris pentru oameni și pentru Google, plus link building strategic, din surse relevante, care construiește autoritate fără riscuri de penalizare.</p>
+      </div>
+
+      <div class="seo-card">
+        <div class="seo-card__ico"><i class="fas fa-chart-line"></i></div>
+        <h3>Raportare &amp; monitorizare</h3>
+        <p>Raport lunar clar cu poziții, trafic organic și conversii. Vezi exact ce s-a lucrat și ce urmează — fără jargon și fără promisiuni pe care nu le putem ține.</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="seo-prices" id="preturi" aria-labelledby="seo-prices-h2">
+  <div class="wrap">
+
+    <div class="seo-prices__head rv">
+      <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Pachete &amp; prețuri</div>
+      <h2 class="seo-prices__h2" id="seo-prices-h2">
+        Prețuri optimizare SEO —<br><span class="acc">transparent, fără surprize</span>
+      </h2>
+      <p class="seo-prices__sub">
+        Alege nivelul potrivit pentru afacerea ta. Toate prețurile sunt orientative — primești o ofertă personalizată după o analiză a site-ului tău.
+      </p>
+    </div>
+
+    <div class="seo-pkg-grid">
+
+      <div class="seo-pkg featured rv">
+        <span class="seo-pkg__badge">Recomandat</span>
+        <div class="seo-pkg__name">Strategie SEO completă</div>
+        <div class="seo-pkg__price">500€<span style="font-size:.42em;font-weight:600;letter-spacing:0"> / lună</span></div>
+        <div class="seo-pkg__price-note">Minim 6 luni · poziționare avansată</div>
+        <p class="seo-pkg__desc">
+          Colaborarea lunară completă pentru creștere organică susținută. Cea mai bună variantă pentru afacerile care vor poziții stabile în Google.
+        </p>
+        <div class="seo-pkg__feats">
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Analiză cuvinte cheie</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Optimizare on-page continuă</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Link building strategic</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Conținut SEO lunar</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Raport lunar de performanță</span></div>
+        </div>
+        <a href="/contact/" class="btn btn-solid" style="justify-content:center">Solicită ofertă</a>
+      </div>
+
+      <div class="seo-pkg rv rv-d1">
+        <div class="seo-pkg__name">SEO Magazin Online</div>
+        <div class="seo-pkg__price">de la 1.500€</div>
+        <div class="seo-pkg__price-note">Proiect e-commerce</div>
+        <p class="seo-pkg__desc">
+          Optimizare SEO dedicată magazinelor online: produse, categorii și arhitectura corectă pentru indexarea unui catalog mare.
+        </p>
+        <div class="seo-pkg__feats">
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>SEO produse + categorii</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Schema Product (date structurate)</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Faceted search optimizat</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Canonical + paginare corectă</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Optimizare viteză</span></div>
+        </div>
+        <a href="/contact/" class="btn btn-ghost" style="justify-content:center">Solicită ofertă</a>
+      </div>
+
+      <div class="seo-pkg rv rv-d2">
+        <div class="seo-pkg__name">SEO Tehnic</div>
+        <div class="seo-pkg__price">40€<span style="font-size:.42em;font-weight:600;letter-spacing:0"> / oră</span></div>
+        <div class="seo-pkg__price-note">Intervenții punctuale</div>
+        <p class="seo-pkg__desc">
+          Pentru site-uri care au nevoie de corecturi tehnice țintite, fără o colaborare lunară. Plătești doar timpul efectiv lucrat.
+        </p>
+        <div class="seo-pkg__feats">
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Audit tehnic</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Sitemap + robots</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Schema markup</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Optimizare viteză</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Corectare broken links</span></div>
+        </div>
+        <a href="/contact/" class="btn btn-ghost" style="justify-content:center">Solicită ofertă</a>
+      </div>
+
+    </div>
+
+    <div class="seo-extra rv rv-d2">
+      <div class="seo-extra__box">
+        <h4><i class="fas fa-arrow-up-right-from-square"></i> Link building extern</h4>
+        <p>Articole cu backlink din surse relevante și <strong>raport DA/DR</strong> pentru fiecare plasare, ca să crești autoritatea domeniului în mod controlat. Se adaugă opțional peste strategia lunară.</p>
+      </div>
+      <div class="seo-extra__box">
+        <h4><i class="fas fa-envelope-open-text"></i> Newsletter &amp; email marketing</h4>
+        <p>De la <strong>20€/email</strong>, pachet de <strong>6 emailuri la 90€</strong>, iar <strong>automatizările pornesc de la 200€</strong>. Ținem audiența aproape și aducem vizitatori înapoi pe site.</p>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
+<section class="seo-process" aria-labelledby="seo-process-h2">
+  <div class="wrap">
+
+    <div class="seo-process__head rv">
+      <div class="eyebrow"><span class="ey-dot"></span>Cum lucrăm</div>
+      <h2 class="seo-process__h2" id="seo-process-h2">De la audit la poziții stabile</h2>
+      <p class="seo-process__sub">
+        Un proces clar, pas cu pas, prin care site-ul tău devine mai vizibil lună de lună.
+      </p>
+    </div>
+
+    <div class="seo-process__list rv rv-d2">
+
+      <article class="seo-step">
+        <div class="seo-step__n">01</div>
+        <h3>Audit &amp; analiză</h3>
+        <p>Pornim de la un audit tehnic complet și o analiză de cuvinte cheie bazată pe intenția reală de căutare a clienților tăi.</p>
+      </article>
+
+      <article class="seo-step">
+        <div class="seo-step__n">02</div>
+        <h3>Optimizare on-page</h3>
+        <p>Corectăm fundația tehnică, structurăm conținutul, optimizăm titlurile, meta și legăturile interne pentru indexare corectă.</p>
+      </article>
+
+      <article class="seo-step">
+        <div class="seo-step__n">03</div>
+        <h3>Conținut &amp; autoritate</h3>
+        <p>Publicăm conținut SEO relevant și construim autoritate prin link building strategic din surse de calitate.</p>
+      </article>
+
+      <article class="seo-step">
+        <div class="seo-step__n">04</div>
+        <h3>Monitorizare</h3>
+        <p>Urmărim pozițiile, traficul organic și comportamentul pe site, ca să știm exact ce funcționează și ce trebuie ajustat.</p>
+      </article>
+
+      <article class="seo-step">
+        <div class="seo-step__n">05</div>
+        <h3>Optimizare continuă</h3>
+        <p>Ajustăm lunar strategia în funcție de date și de mișcările concurenței — SEO-ul nu se oprește, se compune.</p>
+      </article>
+
+      <article class="seo-step">
+        <div class="seo-step__n">06</div>
+        <h3>Raport &amp; direcție</h3>
+        <p>Primești un raport lunar clar cu rezultate și recomandări, plus prioritățile pentru luna următoare.</p>
+      </article>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="seo-faq" id="seo-faq" aria-labelledby="seo-faq-h2">
+  <div class="wrap">
+
+    <div class="seo-faq__head rv">
+      <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Întrebări frecvente</div>
+      <h2 class="seo-faq__h2" id="seo-faq-h2">Ce trebuie să știi despre <span class="acc">SEO</span></h2>
+    </div>
+
+    <div class="seo-faq__list rv rv-d2">
+
+      <details class="seo-faq-item">
+        <summary>Cât durează până apar rezultatele SEO?</summary>
+        <p>SEO-ul este o investiție pe termen lung, nu un rezultat instant. În general, primele îmbunătățiri de poziții apar în 2-3 luni, iar rezultatele consistente în trafic organic se văd, de obicei, după 4-6 luni de lucru constant. De aceea recomandăm o strategie pe minim 6 luni — este intervalul în care optimizările tehnice, conținutul și autoritatea construită încep să compună rezultate stabile.</p>
+      </details>
+
+      <details class="seo-faq-item">
+        <summary>Garantați poziția 1 în Google?</summary>
+        <p>Nu, și ar trebui să te ferești de oricine îți promite asta. Pozițiile în Google sunt decise de algoritmul Google, în funcție de sute de factori și de concurența din nișa ta — niciun specialist serios nu le poate garanta. Ce garantăm însă este munca corectă: audit tehnic, optimizare on-page, conținut de calitate, link building curat și un raport lunar prin care vezi exact ce am lucrat și cum evoluează pozițiile. Folosim doar tehnici conforme cu ghidurile Google, fără scurtături care riscă penalizări.</p>
+      </details>
+
+      <details class="seo-faq-item">
+        <summary>Ce include strategia SEO lunară?</summary>
+        <p>Pachetul de 500€/lună (minim 6 luni) include analiză de cuvinte cheie, optimizare on-page continuă, link building strategic, conținut SEO lunar și un raport lunar de performanță. Practic, ne ocupăm de tot ce ține de creșterea organică a site-ului tău, lună de lună, și ajustăm direcția în funcție de rezultate.</p>
+      </details>
+
+      <details class="seo-faq-item">
+        <summary>Faceți SEO local (Google Business)?</summary>
+        <p>Da. Pentru afacerile cu prezență fizică sau care vizează clienți dintr-o anumită zonă, SEO local este esențial. Optimizăm profilul Google Business, asigurăm consistența datelor de contact (NAP), lucrăm cuvinte cheie locale și structurăm site-ul pentru căutările de tip „serviciu + oraș”, ca să apari în rezultatele și pe harta din zona ta.</p>
+      </details>
+
+      <details class="seo-faq-item">
+        <summary>Oferiți audit SEO înainte de start?</summary>
+        <p>Da. Orice colaborare pornește de la o analiză a site-ului tău, ca să înțelegem unde te afli și ce are cel mai mare impact. Auditul tehnic face parte din serviciu, iar pentru intervenții punctuale poți alege și pachetul SEO Tehnic la 40€/oră, fără o colaborare lunară.</p>
+      </details>
+
+      <details class="seo-faq-item">
+        <summary>Lucrați și SEO pentru magazine online?</summary>
+        <p>Da. SEO-ul pentru magazine online are particularitățile lui și îl tratăm ca proiect dedicat, de la 1.500€: optimizare de produse și categorii, schema Product, faceted search corect, gestionarea canonical și a paginării, plus optimizarea vitezei. Toate site-urile pe care le construim sunt deja optimizate SEO din construcție, iar pentru poziționare avansată adăugăm strategia continuă.</p>
+      </details>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="seo-cta" aria-labelledby="seo-cta-h2">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="seo-cta__h2" id="seo-cta-h2">
+        Hai să creștem<br>
+        <span class="acc">vizibilitatea ta în Google</span>
+      </h2>
+      <p class="seo-cta__p">
+        Spune-ne despre site-ul și obiectivele tale. Îți răspundem cu o analiză și o ofertă personalizată, fără obligații.
+      </p>
+      <div class="seo-cta__btns">
+        <a href="/contact/" class="btn btn-solid">Solicită ofertă</a>
+        <a href="tel:+40771486499" class="btn btn-dark">Sună acum: 0771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Servicii conexe și prețuri transparente">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Nu lucrăm cu tarife ascunse sau surprize în factură. Toate pachetele și prețurile noastre sunt publice — alegi în cunoștință de cauză, fără presiune.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Continuă cu</div>
+      <div class="rel-links__grid">
+        <a href="/google-meta-ads/" class="rel-link"><span class="rel-link__name">Google & Meta Ads <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Campanii cu focus pe leaduri și vânzări.</span></a>
+        <a href="/creare-site-prezentare/" class="rel-link"><span class="rel-link__name">Creare site de prezentare <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Site-uri de companie rapide, cu design pe brandul tău.</span></a>
+        <a href="/creare-magazin-online/" class="rel-link"><span class="rel-link__name">Creare magazin online <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">WooCommerce și Shopify optimizate pentru vânzări.</span></a>
+        <a href="/blog/" class="rel-link"><span class="rel-link__name">Blog <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Ghiduri despre web, marketing și SEO.</span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+3:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$5"}}]
+4:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

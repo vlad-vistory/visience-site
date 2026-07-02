@@ -1,0 +1,1172 @@
+1:"$Sreact.fragment"
+b:I[68027,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"default",1]
+:HL["/_next/static/chunks/3b23shbd_73w9.css","style"]
+:HL["/_next/static/media/017d9bea37084d9b-s.p.41rroleoq1br7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/26daee0352f50a5f-s.p.2e115y8-hourl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/36363bfb06833f56-s.p.38hmww4cj4vme.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5c285b27cdda1fe8-s.p.2_mbdogr7ni8i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a73419dd2ba2d841-s.p.2yee423r7ahpo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b12e986493c137cf-s.p.2njitm-prmz2_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b2fa3ef4ca165ab4-s.p.12_ml6bnugnre.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c3cb240f9c892514-s.p.3z_x6eowsw16y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css","style"]
+2:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}3:Tb9a,<header class="nav" id="nav" role="banner">
+  <div class="wrap nav__in">
+    <a href="/" class="nav__logo" aria-label="Visience — Acasă">
+      <img class="nav__logo-img nav__logo-img--light" src="/media/sigla-mark-visience-new-colors.avif"
+           alt="Visience" width="160" height="30" fetchpriority="high">
+      <img class="nav__logo-img nav__logo-img--dark" src="/media/sigla-visience-dark.avif"
+           alt="" aria-hidden="true" width="160" height="30">
+    </a>
+
+    <nav class="nav__links" aria-label="Navigare principală">
+      <div class="nav__has-drop">
+        <a href="/#servicii">Servicii</a>
+        <div class="nav__drop">
+          <a href="/creare-site-prezentare/">Creare site de prezentare</a>
+          <a href="/creare-magazin-online/">Creare magazin online</a>
+          <a href="/branding-identitate-vizuala/">Branding &amp; identitate</a>
+          <a href="/social-media-management/">Social media</a>
+          <a href="/google-meta-ads/">Google &amp; Meta Ads</a>
+          <a href="/optimizare-seo/">SEO &amp; content</a>
+          <a href="/dezvoltare-software/">Dezvoltare software</a>
+          <a href="/marketing-dezvoltatori-imobiliari/">Marketing imobiliar</a>
+        </div>
+      </div>
+      <a href="/portofoliu/">Proiecte</a>
+      <a href="/preturi/">Prețuri</a>
+      <a href="/blog/">Blog</a>
+      <a href="/#rezultate">Rezultate</a>
+      <a href="/#despre">Despre</a>
+      <a href="/contact/">Contact</a>
+    </nav>
+
+    <a href="/#contact" class="nav__cta">Solicită ofertă</a>
+
+    <button class="nav__burger" id="navBurger"
+            aria-label="Deschide meniul" aria-expanded="false" aria-controls="navMob">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<nav class="nav__mob" id="navMob" aria-label="Meniu mobil">
+  <a href="/#servicii"  class="nm-l">Servicii</a>
+  <a href="/creare-site-prezentare/" class="nm-l nm-sub">Creare site de prezentare</a>
+  <a href="/creare-magazin-online/" class="nm-l nm-sub">Creare magazin online</a>
+  <a href="/branding-identitate-vizuala/" class="nm-l nm-sub">Branding &amp; identitate</a>
+  <a href="/social-media-management/" class="nm-l nm-sub">Social media</a>
+  <a href="/google-meta-ads/" class="nm-l nm-sub">Google &amp; Meta Ads</a>
+  <a href="/optimizare-seo/" class="nm-l nm-sub">SEO &amp; content</a>
+  <a href="/dezvoltare-software/" class="nm-l nm-sub">Dezvoltare software</a>
+  <a href="/marketing-dezvoltatori-imobiliari/" class="nm-l nm-sub">Marketing imobiliar</a>
+  <a href="/portofoliu/"  class="nm-l">Proiecte</a>
+  <a href="/preturi/"    class="nm-l">Prețuri</a>
+  <a href="/blog/"       class="nm-l">Blog</a>
+  <a href="/#rezultate" class="nm-l">Rezultate</a>
+  <a href="/#despre"    class="nm-l">Despre</a>
+  <a href="/contact/"    class="nm-l">Contact</a>
+  <a href="/#contact" class="btn btn-solid" style="margin-top:8px">Solicită ofertă</a>
+</nav>
+0:{"P":null,"c":["","dezvoltare-software",""],"q":"","i":false,"f":[[["",{"children":["dezvoltare-software",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0a_4n0l8z1myf.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"bricolage_grotesque_4d7004bd-module__Hoo0MG__variable dm_sans_371c950d-module__4cga4q__variable dm_mono_6c018cca-module__6UXbpq__variable","children":[["$","head",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5","$L6"]}]]}]]}],{"children":["$L7",{"children":["$L8",{},null,false,null]},null,false,"$@9"]},null,false,null],"$La",false]],"m":"$undefined","G":["$b",["$Lc"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"XLiQQktmqJoG3-3IBETrL"}
+d:I[39756,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
+e:I[37457,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
+10:I[27961,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
+15:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"ViewportBoundary"]
+17:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"MetadataBoundary"]
+18:"$Sreact.suspense"
+4:["$","$Ld",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Le",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
+f:T13f0,<footer class="footer" role="contentinfo">
+  <div class="wrap">
+
+    <div class="footer__grid">
+
+      <div>
+        <div class="footer__logo">
+          <img src="/media/sigla-mark-visience-new-colors.avif"
+               alt="Visience" width="148" height="28" loading="lazy">
+        </div>
+
+        <p class="footer__brand">
+          Agenție de marketing digital cu 12 ani de experiență. Transformăm imaginea companiilor prin branding, website, social media și marketing precis configurat.
+        </p>
+
+        <p class="footer__trust">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M20 6 9 17l-5-5"/>
+          </svg>
+          Prețuri publice, fără costuri ascunse — <a href="/preturi/">vezi prețurile</a>.
+        </p>
+
+        <div class="footer__contact">
+          <a href="tel:+40771486499">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.67A2 2 0 012 .92h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L6.91 8.09a16 16 0 006 6l1.27-.83a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/>
+            </svg>
+            +40 771 486 499
+          </a>
+          <a href="mailto:contact@visience.ro">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+              <polyline points="22,6 12,13 2,6"/>
+            </svg>
+            contact@visience.ro
+          </a>
+        </div>
+
+        <div class="footer__anpc">
+          <a class="anpc-b" href="https://anpc.ro/" target="_blank" rel="noopener noreferrer"
+             aria-label="ANPC — Autoritatea Națională pentru Protecția Consumatorilor">
+            <img src="https://anpc.ro/wp-content/themes/anpc/img/anpc_logo.png"
+                 alt="ANPC" width="50" height="18" loading="lazy"
+                 onerror="this.style.display='none'">
+            ANPC
+          </a>
+          <a class="anpc-b" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage"
+             target="_blank" rel="noopener noreferrer"
+             aria-label="SOL — Soluționare Online a Litigiilor">
+            SOL
+          </a>
+        </div>
+      </div>
+
+      <nav aria-label="Servicii">
+        <div class="footer__col-title">Servicii</div>
+        <ul class="footer__links">
+          <li><a href="/creare-site-prezentare/">Creare site de prezentare</a></li>
+          <li><a href="/creare-site-prezentare-iasi/">Creare site de prezentare Iași</a></li>
+          <li><a href="/creare-magazin-online/">Creare magazin online</a></li>
+          <li><a href="/branding-identitate-vizuala/">Branding &amp; identitate</a></li>
+          <li><a href="/social-media-management/">Social Media</a></li>
+          <li><a href="/google-meta-ads/">Google &amp; Meta Ads</a></li>
+          <li><a href="/optimizare-seo/">SEO &amp; Content</a></li>
+          <li><a href="/dezvoltare-software/">Dezvoltare software</a></li>
+          <li><a href="/marketing-dezvoltatori-imobiliari/">Marketing imobiliar</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Companie">
+        <div class="footer__col-title">Companie</div>
+        <ul class="footer__links">
+          <li><a href="/portofoliu/">Portofoliu</a></li>
+          <li><a href="/parteneri/">Parteneri</a></li>
+          <li><a href="/blog/">Blog</a></li>
+          <li><a href="/preturi/">Prețuri</a></li>
+          <li><a href="/#rezultate">Studii de caz</a></li>
+          <li><a href="/#despre">Despre noi</a></li>
+          <li><a href="/contact/">Contact</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Legal">
+        <div class="footer__col-title">Legal &amp; GDPR</div>
+        <ul class="footer__links">
+          <li><a href="/termeni-si-conditii/">Termeni și Condiții</a></li>
+          <li><a href="/politica-de-confidentialitate/">Politică Confidențialitate</a></li>
+          <li><a href="/politica-cookies/">Politică Cookies</a></li>
+        </ul>
+      </nav>
+
+    </div>
+
+    <div class="footer__bottom">
+      <div class="footer__bottom-in">
+        <p class="footer__copy">
+          © 2026 Visience Creative Experience SRL · Toate drepturile rezervate
+        </p>
+        <div class="footer__legal">
+          <a href="/termeni-si-conditii/">Termeni</a>
+          <a href="/politica-de-confidentialitate/">Confidențialitate</a>
+          <a href="/politica-cookies/">Cookies</a>
+          <a href="/gdpr/">GDPR</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</footer>
+5:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}]
+6:["$","$L10",null,{}]
+7:["$","$1","c",{"children":[null,["$","$Ld",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Le",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+11:T107b,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/dezvoltare-software/#service","name":"Dezvoltare software și aplicații","serviceType":"Dezvoltare software personalizat și aplicații mobile","description":"Dezvoltare software personalizat, aplicații mobile iOS și Android, migrare cloud, AI, RPA și automatizări pentru afaceri. Soluții scalabile, cu proprietate 100% asupra codului sursă și documentație inclusă. Tarif orar 50€/oră.","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Servicii IT","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"Business Analysis & Consultanță IT"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Software custom (ERP, CRM)"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Aplicații mobile (iOS & Android)"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Cloud Migration (AWS, GCP, Azure)"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"AI & Data Science"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"DevOps"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"RPA — automatizare procese"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Integrări API & sisteme terțe"}}]},"offers":{"@type":"Offer","priceSpecification":{"@type":"UnitPriceSpecification","price":"50","priceCurrency":"EUR","unitCode":"HUR","unitText":"oră"},"availability":"https://schema.org/InStock"}},{"@type":"FAQPage","@id":"https://visience.ro/dezvoltare-software/#faq","mainEntity":[{"@type":"Question","name":"Cum se calculează prețul unui proiect software?","acceptedAnswer":{"@type":"Answer","text":"Lucrăm la un tarif orar standard de 50€/oră pentru toate serviciile IT. Prețul final al unui proiect se stabilește după analiza nevoilor și a complexității tehnice, exprimat ca estimare de efort (ore). Primești această estimare detaliată înainte de start, ca să știi clar bugetul și termenele."}},{"@type":"Question","name":"Ce tehnologii folosiți?","acceptedAnswer":{"@type":"Answer","text":"Alegem tehnologiile potrivite pentru fiecare proiect, nu invers. Lucrăm cu stack-uri moderne pentru web, mobile și backend, cloud pe AWS, Google Cloud și Azure, baze de date relaționale și NoSQL, plus instrumente de AI și data science acolo unde aduc valoare. Recomandăm arhitectura după analiza inițială."}},{"@type":"Question","name":"Cui aparține codul sursă?","acceptedAnswer":{"@type":"Answer","text":"Codul sursă îți aparține 100%. La finalul proiectului primești întreg codul și documentația tehnică aferentă, fără să rămâi dependent de noi. Poți continua dezvoltarea cu orice echipă, oricând dorești."}},{"@type":"Question","name":"Oferiți mentenanță după livrare?","acceptedAnswer":{"@type":"Answer","text":"Da. După lansare oferim suport și mentenanță pentru actualizări, corectarea erorilor și dezvoltări ulterioare, la același tarif orar de 50€/oră. Stabilim împreună un mod de colaborare potrivit — punctual sau pe bază de abonament — în funcție de nevoile tale."}},{"@type":"Question","name":"Analiza inițială chiar e gratuită?","acceptedAnswer":{"@type":"Answer","text":"Da, prima discuție și analiza inițială a proiectului sunt complet gratuite, fără nicio obligație. Ne uităm peste ce ai nevoie, îți spunem sincer cum se poate construi și abia apoi îți trimitem estimarea de efort și buget."}},{"@type":"Question","name":"Construiți și aplicații mobile native?","acceptedAnswer":{"@type":"Answer","text":"Da. Dezvoltăm aplicații mobile native pentru iOS și Android, dar și soluții cross-platform, în funcție de obiective și buget. Ne ocupăm de tot procesul, de la analiză și design până la publicarea în App Store și Google Play."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Dezvoltare software","item":"https://visience.ro/dezvoltare-software/"}]}]}8:["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$11"}}],"$L12"],null,"$L13"]}]
+14:[]
+9:"$W14"
+a:["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$L16"}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$18",null,{"name":"Next.Metadata","children":"$L19"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+c:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1b:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+1a:T8904,<style>
+.sw-hero {
+  position: relative;
+  padding: calc(var(--nav-h) + 90px) 0 90px;
+  background: var(--cream);
+  overflow: hidden;
+}
+.sw-hero__inner {
+  display: grid;
+  grid-template-columns: 1.2fr 1fr;
+  gap: 70px;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+}
+.sw-hero__breadcrumbs {
+  font-family: var(--f-m);
+  font-size: 11px;
+  color: var(--mid);
+  letter-spacing: .06em;
+  margin-bottom: 24px;
+}
+.sw-hero__breadcrumbs a       { color: var(--mid); transition: color .2s; }
+.sw-hero__breadcrumbs a:hover { color: var(--acc); }
+.sw-hero__breadcrumbs .sep    { margin: 0 10px; opacity: .4; }
+
+.sw-hero__h1 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(38px, 5.2vw, 70px);
+  line-height: .98;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 26px;
+}
+.sw-hero__h1 .acc {
+  background: var(--acc);
+  color: var(--acc-ink);
+  padding: 0 12px 4px;
+  border-radius: 10px;
+  display: inline-block;
+  line-height: 1.05;
+}
+.sw-hero__lead {
+  font-size: 17px;
+  line-height: 1.78;
+  color: var(--mid);
+  margin-bottom: 32px;
+  font-weight: 300;
+  max-width: 540px;
+}
+
+.sw-hero__pts {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-bottom: 36px;
+  max-width: 540px;
+}
+.sw-pt {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 14px;
+  color: var(--ink);
+  font-weight: 500;
+}
+.sw-pt-dot {
+  width: 18px; height: 18px;
+  background: var(--acc);
+  color: var(--acc-ink);
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 10px; font-weight: 700;
+  flex-shrink: 0; margin-top: 2px;
+}
+
+.sw-hero__cta {
+  display: flex; gap: 10px; flex-wrap: wrap;
+}
+
+.sw-hero__visual {
+  position: relative;
+  height: 480px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sw-hero__mockup {
+  position: relative;
+  width: 100%;
+  max-width: 460px;
+  background: var(--ink);
+  border: 1px solid var(--ink);
+  border-radius: 18px;
+  padding: 22px 22px 24px;
+  box-shadow: 0 30px 80px rgba(17,16,16,.14);
+  z-index: 2;
+}
+.sw-mockup__bar {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid rgba(255,255,255,.1);
+  margin-bottom: 18px;
+}
+.sw-mockup__dot {
+  width: 9px; height: 9px;
+  border-radius: 50%;
+  background: rgba(255,255,255,.15);
+}
+.sw-mockup__dot:first-child { background: #FF5F57; }
+.sw-mockup__dot:nth-child(2) { background: #FEBC2E; }
+.sw-mockup__dot:nth-child(3) { background: #28C840; }
+.sw-mockup__file {
+  margin-left: 10px;
+  font-family: var(--f-m);
+  font-size: 10px;
+  color: rgba(255,255,255,.4);
+}
+.sw-mockup__code {
+  font-family: var(--f-m);
+  font-size: 12px;
+  line-height: 1.85;
+}
+.sw-code-line { display: block; white-space: nowrap; }
+.sw-code-line .ln {
+  display: inline-block;
+  width: 22px;
+  color: rgba(255,255,255,.25);
+  user-select: none;
+}
+.sw-tk-key { color: #C792EA; }
+.sw-tk-fn  { color: var(--acc2); }
+.sw-tk-str { color: #C3E88D; }
+.sw-tk-var { color: #82AAFF; }
+.sw-tk-com { color: rgba(255,255,255,.3); }
+.sw-tk-pun { color: rgba(255,255,255,.7); }
+.sw-mockup__run {
+  margin-top: 16px;
+  padding: 11px 14px;
+  background: rgba(232,152,10,.12);
+  border: 1px solid rgba(232,152,10,.3);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.sw-mockup__run-lbl {
+  font-family: var(--f-m); font-size: 10px;
+  letter-spacing: .08em; text-transform: uppercase;
+  color: var(--acc2);
+}
+.sw-mockup__run-stat {
+  font-family: var(--f-m); font-size: 11px;
+  color: #28C840; display: flex; align-items: center; gap: 6px;
+}
+
+
+.sw-intro {
+  background: var(--white);
+  padding: 90px 0;
+  position: relative;
+}
+.sw-intro__inner {
+  max-width: 880px;
+  margin: 0 auto;
+}
+.sw-intro h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(28px, 3.5vw, 44px);
+  line-height: 1.1;
+  letter-spacing: -.025em;
+  color: var(--ink);
+  margin: 56px 0 18px;
+}
+.sw-intro h2:first-child { margin-top: 0; }
+.sw-intro p {
+  font-size: 16px;
+  line-height: 1.84;
+  color: var(--mid);
+  font-weight: 300;
+  margin-bottom: 16px;
+}
+.sw-intro p strong { color: var(--ink); font-weight: 600; }
+.sw-intro p a       { color: var(--acc); border-bottom: 1px solid var(--acc); transition: opacity .2s; }
+.sw-intro p a:hover { opacity: .65; }
+
+
+.sw-services {
+  padding: 100px 0;
+  background: var(--cream);
+}
+.sw-services__head {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto 56px;
+}
+.sw-services__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(34px, 4.5vw, 60px);
+  line-height: 1.0;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 18px;
+}
+.sw-services__h2 .acc { color: var(--acc); }
+.sw-services__sub {
+  font-size: 16px; line-height: 1.8;
+  color: var(--mid); font-weight: 300;
+}
+.sw-svc-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+.sw-svc-card {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 30px 26px 28px;
+  transition: .3s;
+}
+.sw-svc-card:hover {
+  border-color: rgba(232,152,10,.3);
+  transform: translateY(-4px);
+  box-shadow: 0 18px 36px rgba(17,16,16,.06);
+}
+.sw-svc-card__ico {
+  width: 48px; height: 48px;
+  border-radius: 12px;
+  background: var(--acc-bg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 22px;
+  color: var(--acc);
+  font-size: 20px;
+  transition: .3s;
+}
+.sw-svc-card:hover .sw-svc-card__ico {
+  background: var(--acc);
+  color: var(--acc-ink);
+}
+.sw-svc-card h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.015em;
+  margin: 0 0 12px;
+  line-height: 1.2;
+  color: var(--ink);
+}
+.sw-svc-card p {
+  font-size: 13px;
+  color: var(--mid);
+  line-height: 1.7;
+  font-weight: 300;
+  margin: 0;
+}
+
+
+.sw-prices {
+  padding: 100px 0;
+  background: var(--white);
+}
+.sw-prices__head {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto 56px;
+}
+.sw-prices__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(34px, 4.5vw, 60px);
+  line-height: 1.0;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 18px;
+}
+.sw-prices__h2 .acc { color: var(--acc); }
+.sw-prices__sub {
+  font-size: 16px; line-height: 1.8;
+  color: var(--mid); font-weight: 300;
+}
+
+.sw-pkg-grid {
+  display: grid;
+  grid-template-columns: 1.1fr .9fr;
+  gap: 24px;
+  align-items: stretch;
+  max-width: 920px;
+  margin: 0 auto;
+}
+.sw-pkg {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 38px 34px 34px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  transition: .3s;
+}
+.sw-pkg:hover {
+  border-color: rgba(232,152,10,.3);
+  transform: translateY(-6px);
+  box-shadow: 0 20px 48px rgba(232,152,10,.08);
+}
+.sw-pkg.featured {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--white);
+}
+.sw-pkg.featured:hover { box-shadow: 0 24px 56px rgba(17,16,16,.2); }
+.sw-pkg__badge {
+  position: absolute;
+  top: -12px; left: 50%;
+  transform: translateX(-50%);
+  background: var(--acc);
+  color: var(--acc-ink);
+  font-family: var(--f-m);
+  font-size: 9px;
+  font-weight: 500;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  padding: 5px 14px;
+  border-radius: 100px;
+  white-space: nowrap;
+}
+.sw-pkg__name {
+  font-family: var(--f-m);
+  font-size: 11px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--mid);
+  margin-bottom: 8px;
+}
+.sw-pkg.featured .sw-pkg__name { color: var(--acc2); }
+.sw-pkg__price {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(40px, 4.4vw, 58px);
+  letter-spacing: -.04em;
+  line-height: 1;
+  color: var(--acc);
+  margin-bottom: 4px;
+}
+.sw-pkg__price .unit {
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: -.01em;
+  color: var(--mid);
+}
+.sw-pkg.featured .sw-pkg__price .unit { color: rgba(255,255,255,.5); }
+.sw-pkg__price-note {
+  font-size: 12px;
+  color: var(--light);
+  margin-bottom: 22px;
+}
+.sw-pkg.featured .sw-pkg__price-note { color: rgba(255,255,255,.4); }
+.sw-pkg__desc {
+  font-size: 14px;
+  line-height: 1.7;
+  color: var(--mid);
+  margin-bottom: 26px;
+  font-weight: 300;
+  padding-bottom: 22px;
+  border-bottom: 1px solid var(--border);
+}
+.sw-pkg.featured .sw-pkg__desc {
+  color: rgba(255,255,255,.55);
+  border-bottom-color: rgba(255,255,255,.1);
+}
+.sw-pkg__feats {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-bottom: 28px;
+  flex: 1;
+}
+.sw-pkg__feat {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 14px;
+  line-height: 1.55;
+  color: var(--ink);
+}
+.sw-pkg.featured .sw-pkg__feat { color: rgba(255,255,255,.85); }
+.sw-pkg__feat-tick {
+  color: var(--acc);
+  flex-shrink: 0;
+  margin-top: 2px;
+  font-weight: 700;
+}
+.sw-pkg__feat-tick i { font-size: 13px; }
+
+
+.sw-process {
+  padding: 100px 0;
+  background: var(--cream2);
+}
+.sw-process__head {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto 56px;
+}
+.sw-process__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(34px, 4.5vw, 56px);
+  line-height: 1.02;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 18px;
+}
+.sw-process__h2 .acc { color: var(--acc); }
+.sw-process__list {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+.sw-step {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 30px 28px;
+  transition: .3s;
+}
+.sw-step:hover {
+  border-color: rgba(232,152,10,.3);
+  transform: translateY(-4px);
+  box-shadow: 0 14px 28px rgba(17,16,16,.06);
+}
+.sw-step__n {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: 36px;
+  color: var(--acc);
+  letter-spacing: -.03em;
+  line-height: 1;
+  margin-bottom: 16px;
+}
+.sw-step h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.015em;
+  margin: 0 0 10px;
+  color: var(--ink);
+  line-height: 1.2;
+}
+.sw-step p {
+  font-size: 13px;
+  color: var(--mid);
+  line-height: 1.7;
+  font-weight: 300;
+  margin: 0;
+}
+
+
+.sw-faq {
+  padding: 100px 0;
+  background: var(--white);
+}
+.sw-faq__head {
+  text-align: center;
+  max-width: 640px;
+  margin: 0 auto 50px;
+}
+.sw-faq__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(28px, 3.6vw, 44px);
+  line-height: 1.04;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 18px;
+}
+.sw-faq__h2 .acc { color: var(--acc); }
+.sw-faq__list {
+  max-width: 860px;
+  margin: 0 auto;
+  border-top: 1px solid var(--border);
+}
+.sw-faq-item {
+  border-bottom: 1px solid var(--border);
+  padding: 24px 0;
+}
+.sw-faq-item summary {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.01em;
+  color: var(--ink);
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding-right: 8px;
+  transition: color .22s;
+}
+.sw-faq-item summary::-webkit-details-marker { display: none; }
+.sw-faq-item summary::after {
+  content: '+';
+  font-family: var(--f-d);
+  font-size: 26px;
+  font-weight: 300;
+  color: var(--acc);
+  transition: transform .3s;
+  flex-shrink: 0;
+  line-height: 1;
+}
+.sw-faq-item[open] summary::after { transform: rotate(45deg); }
+.sw-faq-item:hover summary { color: var(--acc); }
+.sw-faq-item p {
+  margin-top: 14px;
+  font-size: 14px;
+  color: var(--mid);
+  line-height: 1.75;
+  font-weight: 300;
+  max-width: 740px;
+}
+
+
+.sw-cta {
+  padding: 110px 0;
+  background: var(--ink);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.sw-cta::before {
+  content: '';
+  position: absolute;
+  top: -100px; right: -100px;
+  width: 420px; height: 420px;
+  background: radial-gradient(circle, rgba(232,152,10,.22) 0%, transparent 70%);
+  pointer-events: none;
+}
+.sw-cta > .wrap { position: relative; z-index: 1; }
+.sw-cta__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(34px, 5vw, 64px);
+  line-height: 1.0;
+  letter-spacing: -.03em;
+  color: var(--white);
+  margin-bottom: 20px;
+}
+.sw-cta__h2 .acc {
+  background: linear-gradient(135deg, var(--acc) 0%, var(--acc2) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.sw-cta__p {
+  font-size: 16px;
+  color: rgba(255,255,255,.5);
+  font-weight: 300;
+  max-width: 540px;
+  margin: 0 auto 32px;
+  line-height: 1.78;
+}
+.sw-cta__btns {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 1024px) {
+  .sw-hero { padding: calc(var(--nav-h) + 60px) 0 70px; }
+  .sw-hero__inner { grid-template-columns: 1fr; gap: 50px; }
+  .sw-hero__visual { height: auto; order: -1; }
+  .sw-intro { padding: 70px 0; }
+  .sw-services { padding: 80px 0; }
+  .sw-svc-grid { grid-template-columns: repeat(2, 1fr); }
+  .sw-prices { padding: 80px 0; }
+  .sw-pkg-grid { grid-template-columns: 1fr; gap: 20px; max-width: 480px; }
+  .sw-pkg.featured { transform: none; }
+  .sw-process { padding: 70px 0; }
+  .sw-process__list { grid-template-columns: repeat(2, 1fr); }
+  .sw-faq { padding: 70px 0; }
+  .sw-cta { padding: 80px 0; }
+}
+
+@media (max-width: 640px) {
+  .sw-hero__pts { grid-template-columns: 1fr; }
+  .sw-hero__cta { flex-direction: column; }
+  .sw-hero__cta .btn { justify-content: center; }
+  .sw-svc-grid { grid-template-columns: 1fr; gap: 12px; }
+  .sw-process__list { grid-template-columns: 1fr; gap: 12px; }
+  .sw-pkg { padding: 30px 26px 28px; }
+  .sw-faq-item summary { font-size: 15px; }
+  .sw-cta__btns { flex-direction: column; }
+  .sw-cta__btns .btn { justify-content: center; }
+}
+</style>
+
+
+<main id="main">
+
+<section class="sw-hero" aria-labelledby="sw-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="20%" x2="100%" y2="60%"/>
+      <line x1="0" y1="50%" x2="100%" y2="90%"/>
+      <line x1="0" y1="80%" x2="100%" y2="30%"/>
+      <line x1="25%" y1="0" x2="75%" y2="100%"/>
+      <line x1="60%" y1="0" x2="10%" y2="100%"/>
+    </svg>
+  </div>
+
+  <div class="wrap">
+    <div class="sw-hero__inner">
+
+      <div class="rv">
+        <nav class="sw-hero__breadcrumbs" aria-label="Breadcrumbs">
+          <a href="/">Acasă</a>
+          <span class="sep">/</span>
+          <a href="/#servicii">Servicii</a>
+          <span class="sep">/</span>
+          <span>Dezvoltare software</span>
+        </nav>
+
+        <div class="eyebrow">
+          <span class="ey-dot"></span>
+          Dezvoltare software Iași
+        </div>
+
+        <h1 class="sw-hero__h1" id="sw-h1">
+          Software construit<br>
+          <span class="acc">pentru afacerea ta.</span>
+        </h1>
+
+        <p class="sw-hero__lead">
+          Dezvoltăm software personalizat, aplicații mobile, migrări cloud și automatizări care rezolvă probleme reale de business. De la sisteme ERP și CRM până la soluții cu inteligență artificială — scalabile, documentate și 100% ale tale.
+        </p>
+
+        <div class="sw-hero__pts">
+          <div class="sw-pt"><span class="sw-pt-dot">✓</span><span>Analiză inițială gratuită</span></div>
+          <div class="sw-pt"><span class="sw-pt-dot">✓</span><span>Proprietate 100% cod sursă</span></div>
+          <div class="sw-pt"><span class="sw-pt-dot">✓</span><span>Soluții scalabile pe termen lung</span></div>
+          <div class="sw-pt"><span class="sw-pt-dot">✓</span><span>Documentație tehnică inclusă</span></div>
+        </div>
+
+        <div class="sw-hero__cta">
+          <a href="/contact/" class="btn btn-solid">Solicită ofertă</a>
+          <a href="tel:+40771486499" class="btn btn-ghost">Sună acum: 0771 486 499</a>
+        </div>
+      </div>
+
+      <div class="sw-hero__visual rv rv-d2">
+        <div class="sw-hero__mockup" aria-hidden="true">
+          <div class="sw-mockup__bar">
+            <span class="sw-mockup__dot"></span>
+            <span class="sw-mockup__dot"></span>
+            <span class="sw-mockup__dot"></span>
+            <span class="sw-mockup__file">automatizare.py</span>
+          </div>
+          <code class="sw-mockup__code">
+            <span class="sw-code-line"><span class="ln">1</span><span class="sw-tk-com"># proces optimizat pentru client</span></span>
+            <span class="sw-code-line"><span class="ln">2</span><span class="sw-tk-key">def</span> <span class="sw-tk-fn">proceseaza</span><span class="sw-tk-pun">(</span><span class="sw-tk-var">comenzi</span><span class="sw-tk-pun">):</span></span>
+            <span class="sw-code-line"><span class="ln">3</span>&nbsp;&nbsp;<span class="sw-tk-key">for</span> <span class="sw-tk-var">c</span> <span class="sw-tk-key">in</span> <span class="sw-tk-var">comenzi</span><span class="sw-tk-pun">:</span></span>
+            <span class="sw-code-line"><span class="ln">4</span>&nbsp;&nbsp;&nbsp;&nbsp;<span class="sw-tk-var">c</span><span class="sw-tk-pun">.</span><span class="sw-tk-fn">factureaza</span><span class="sw-tk-pun">()</span></span>
+            <span class="sw-code-line"><span class="ln">5</span>&nbsp;&nbsp;&nbsp;&nbsp;<span class="sw-tk-var">erp</span><span class="sw-tk-pun">.</span><span class="sw-tk-fn">sincronizeaza</span><span class="sw-tk-pun">(</span><span class="sw-tk-var">c</span><span class="sw-tk-pun">)</span></span>
+            <span class="sw-code-line"><span class="ln">6</span>&nbsp;&nbsp;<span class="sw-tk-key">return</span> <span class="sw-tk-str">"gata"</span></span>
+          </code>
+          <div class="sw-mockup__run">
+            <span class="sw-mockup__run-lbl">Build &amp; deploy</span>
+            <span class="sw-mockup__run-stat"><i class="fa-solid fa-circle-check"></i> 0 erori · 1.2s</span>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="sw-intro" aria-labelledby="sw-intro-h2">
+  <div class="wrap">
+    <div class="sw-intro__inner rv">
+
+      <h2 id="sw-intro-h2">Dezvoltare software personalizat pentru afaceri serioase</h2>
+      <p>
+        Suntem o <strong>echipă de dezvoltare software din Iași</strong> care construiește aplicații solide, gândite în jurul fluxurilor reale ale afacerii tale. Nu pornim de la șabloane: fiecare proiect începe cu o <strong>analiză detaliată a nevoilor</strong>, în care înțelegem procesele, integrările necesare și obiectivele de business înainte să scriem prima linie de cod.
+      </p>
+      <p>
+        Acoperim întreg spectrul: <strong>software custom</strong> (ERP, CRM), <strong>aplicații mobile native</strong> pentru iOS și Android, <strong>migrare în cloud</strong> pe AWS, Google Cloud sau Azure, plus <strong>automatizări</strong> care elimină munca repetitivă. De la sisteme interne până la soluții cu <strong>inteligență artificială</strong> și roboți software RPA. <a href="/contact/">Cere o ofertă personalizată →</a>
+      </p>
+
+      <h2>Cât costă un proiect software?</h2>
+      <p>
+        Lucrăm la un <strong>tarif orar standard de 50€/oră</strong> pentru toate serviciile IT, iar prețul final al fiecărui proiect se stabilește după analiza nevoilor și a complexității tehnice. Un proiect mic de automatizare poate însemna câteva zile de lucru, în timp ce un sistem ERP complet sau o aplicație mobilă se întind pe câteva luni. Important este că primești o <strong>estimare detaliată și transparentă înainte de start</strong>, fără surprize pe parcurs.
+      </p>
+      <p>
+        Prima discuție și <strong>analiza inițială sunt gratuite</strong>. Ne uităm împreună peste ce ai nevoie, îți spunem sincer dacă merită construit custom sau dacă există o soluție mai potrivită, și abia apoi îți trimitem estimarea de efort și buget. <a href="#preturi">Vezi tariful și ce includem mai jos →</a>
+      </p>
+
+      <h2>De ce să alegi software custom de la Visience?</h2>
+      <p>
+        <strong>Cod scalabil, documentat și 100% al tău.</strong> Spre deosebire de soluțiile la cutie, software-ul custom se mulează exact pe procesele tale și se integrează curat cu sistemele pe care le folosești deja — facturare, ERP, instrumente interne. Asta înseamnă mai puține compromisuri, eficiență operațională reală și costuri reduse pe termen lung.
+      </p>
+      <p>
+        La final, primești <strong>proprietate completă asupra codului sursă</strong> și documentația tehnică aferentă — nu rămâi captiv într-un abonament și poți dezvolta mai departe cu orice echipă. <a href="#faq">Vezi întrebările frecvente →</a>
+      </p>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="sw-services" aria-labelledby="sw-services-h2">
+  <div class="wrap">
+
+    <div class="sw-services__head rv">
+      <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Servicii IT</div>
+      <h2 class="sw-services__h2" id="sw-services-h2">
+        Ce <span class="acc">dezvoltăm</span>
+      </h2>
+      <p class="sw-services__sub">
+        De la consultanță și analiză până la livrare și mentenanță — o echipă completă pentru tot ce înseamnă software în afacerea ta.
+      </p>
+    </div>
+
+    <div class="sw-svc-grid rv rv-d1">
+
+      <div class="sw-svc-card">
+        <div class="sw-svc-card__ico"><i class="fa-solid fa-lightbulb"></i></div>
+        <h3>Business Analysis &amp; Consultanță IT</h3>
+        <p>Analizăm procesele, definim cerințele și propunem arhitectura potrivită înainte de orice linie de cod.</p>
+      </div>
+
+      <div class="sw-svc-card">
+        <div class="sw-svc-card__ico"><i class="fa-solid fa-gears"></i></div>
+        <h3>Software custom (ERP, CRM)</h3>
+        <p>Sisteme interne croite pe fluxurile tale: gestiune, vânzări, relații cu clienții, raportare.</p>
+      </div>
+
+      <div class="sw-svc-card">
+        <div class="sw-svc-card__ico"><i class="fa-solid fa-mobile-screen-button"></i></div>
+        <h3>Aplicații mobile (iOS &amp; Android)</h3>
+        <p>Aplicații native și cross-platform, rapide și stabile, publicate în App Store și Google Play.</p>
+      </div>
+
+      <div class="sw-svc-card">
+        <div class="sw-svc-card__ico"><i class="fa-solid fa-cloud-arrow-up"></i></div>
+        <h3>Cloud Migration (AWS, GCP, Azure)</h3>
+        <p>Mutăm infrastructura în cloud cu downtime minim, costuri optimizate și scalare automată.</p>
+      </div>
+
+      <div class="sw-svc-card">
+        <div class="sw-svc-card__ico"><i class="fa-solid fa-brain"></i></div>
+        <h3>AI &amp; Data Science</h3>
+        <p>Modele de inteligență artificială, predicții și analiză de date care transformă cifrele în decizii.</p>
+      </div>
+
+      <div class="sw-svc-card">
+        <div class="sw-svc-card__ico"><i class="fa-solid fa-infinity"></i></div>
+        <h3>DevOps</h3>
+        <p>Pipeline-uri CI/CD, automatizarea livrărilor, monitorizare și infrastructură ca și cod.</p>
+      </div>
+
+      <div class="sw-svc-card">
+        <div class="sw-svc-card__ico"><i class="fa-solid fa-robot"></i></div>
+        <h3>RPA — automatizare procese</h3>
+        <p>Roboți software care preiau sarcinile repetitive: introducere date, raportări, sincronizări.</p>
+      </div>
+
+      <div class="sw-svc-card">
+        <div class="sw-svc-card__ico"><i class="fa-solid fa-plug"></i></div>
+        <h3>Integrări API &amp; sisteme terțe</h3>
+        <p>Conectăm aplicațiile tale cu servicii externe, ERP-uri, platforme de plată și instrumente existente.</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="sw-prices" id="preturi" aria-labelledby="sw-prices-h2">
+  <div class="wrap">
+
+    <div class="sw-prices__head rv">
+      <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Tarif &amp; estimare</div>
+      <h2 class="sw-prices__h2" id="sw-prices-h2">
+        Un tarif clar,<br><span class="acc">o estimare onestă</span>
+      </h2>
+      <p class="sw-prices__sub">
+        Lucrăm transparent: tarif orar fix pentru toate serviciile IT și o estimare detaliată de efort înainte să începem. Analiza inițială este gratuită.
+      </p>
+    </div>
+
+    <div class="sw-pkg-grid">
+
+      <div class="sw-pkg featured rv">
+        <span class="sw-pkg__badge">Recomandat — analiză gratuită</span>
+        <div class="sw-pkg__name">Tarif servicii IT</div>
+        <div class="sw-pkg__price">50€<span class="unit"> / oră</span></div>
+        <div class="sw-pkg__price-note">Valabil pentru toate serviciile de dezvoltare</div>
+        <p class="sw-pkg__desc">
+          Un singur tarif orar pentru tot ce dezvoltăm. Prețul final al proiectului se calculează după analiza nevoilor și a complexității, cu o estimare detaliată pe care o primești înainte de start.
+        </p>
+        <div class="sw-pkg__feats">
+          <div class="sw-pkg__feat"><span class="sw-pkg__feat-tick"><i class="fa-solid fa-check"></i></span><span>Analiză inițială gratuită a proiectului</span></div>
+          <div class="sw-pkg__feat"><span class="sw-pkg__feat-tick"><i class="fa-solid fa-check"></i></span><span>Estimare detaliată de efort înainte de start</span></div>
+          <div class="sw-pkg__feat"><span class="sw-pkg__feat-tick"><i class="fa-solid fa-check"></i></span><span>Soluții scalabile, gândite pe termen lung</span></div>
+          <div class="sw-pkg__feat"><span class="sw-pkg__feat-tick"><i class="fa-solid fa-check"></i></span><span>Documentație tehnică inclusă la livrare</span></div>
+          <div class="sw-pkg__feat"><span class="sw-pkg__feat-tick"><i class="fa-solid fa-check"></i></span><span>Proprietate 100% asupra codului sursă</span></div>
+        </div>
+        <a href="/contact/" class="btn btn-solid" style="justify-content:center">Solicită ofertă</a>
+      </div>
+
+      <div class="sw-pkg rv rv-d1">
+        <div class="sw-pkg__name">De ce software custom?</div>
+        <div class="sw-pkg__price" style="font-size:clamp(30px,3.4vw,42px)">Pe măsura ta</div>
+        <div class="sw-pkg__price-note">Avantajele unei soluții proprii</div>
+        <p class="sw-pkg__desc">
+          Software-ul construit pentru afacerea ta lucrează exact cum ai nevoie — fără compromisurile soluțiilor standard și fără funcții pe care nu le folosești.
+        </p>
+        <div class="sw-pkg__feats">
+          <div class="sw-pkg__feat"><span class="sw-pkg__feat-tick"><i class="fa-solid fa-check"></i></span><span>Integrare cu sistemele pe care le folosești deja</span></div>
+          <div class="sw-pkg__feat"><span class="sw-pkg__feat-tick"><i class="fa-solid fa-check"></i></span><span>Eficiență operațională și procese mai rapide</span></div>
+          <div class="sw-pkg__feat"><span class="sw-pkg__feat-tick"><i class="fa-solid fa-check"></i></span><span>Reducerea costurilor pe termen lung</span></div>
+          <div class="sw-pkg__feat"><span class="sw-pkg__feat-tick"><i class="fa-solid fa-check"></i></span><span>Proprietate 100% asupra codului sursă</span></div>
+        </div>
+        <a href="/contact/" class="btn btn-ghost" style="justify-content:center">Discută proiectul tău</a>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="sw-process" aria-labelledby="sw-process-h2">
+  <div class="wrap">
+
+    <div class="sw-process__head rv">
+      <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Cum lucrăm</div>
+      <h2 class="sw-process__h2" id="sw-process-h2">
+        De la idee la <span class="acc">livrare</span>
+      </h2>
+      <p class="sw-services__sub">
+        Un proces clar, în patru etape, în care fiecare proiect este analizat în detaliu înainte de estimare.
+      </p>
+    </div>
+
+    <div class="sw-process__list rv rv-d1">
+      <article class="sw-step">
+        <div class="sw-step__n">01</div>
+        <h3>Analiză &amp; consultanță</h3>
+        <p>Discutăm gratuit nevoile, procesele și obiectivele. Înțelegem ce trebuie construit și cum se integrează cu ce ai deja.</p>
+      </article>
+      <article class="sw-step">
+        <div class="sw-step__n">02</div>
+        <h3>Estimare &amp; plan</h3>
+        <p>Primești o estimare detaliată de efort, buget și termene, plus arhitectura propusă și tehnologiile recomandate.</p>
+      </article>
+      <article class="sw-step">
+        <div class="sw-step__n">03</div>
+        <h3>Dezvoltare</h3>
+        <p>Construim în iterații, cu livrări regulate și feedback constant. Vezi progresul pas cu pas, nu doar la final.</p>
+      </article>
+      <article class="sw-step">
+        <div class="sw-step__n">04</div>
+        <h3>Livrare &amp; mentenanță</h3>
+        <p>Predăm codul sursă și documentația, punem soluția în producție și oferim suport și mentenanță după lansare.</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+
+<section class="sw-faq" id="faq" aria-labelledby="sw-faq-h2">
+  <div class="wrap">
+
+    <div class="sw-faq__head rv">
+      <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Întrebări frecvente</div>
+      <h2 class="sw-faq__h2" id="sw-faq-h2">
+        Ce trebuie să știi despre<br><span class="acc">proiectul tău software</span>
+      </h2>
+    </div>
+
+    <div class="sw-faq__list rv rv-d1">
+
+      <details class="sw-faq-item">
+        <summary>Cum se calculează prețul unui proiect software?</summary>
+        <p>Lucrăm la un tarif orar standard de 50€/oră pentru toate serviciile IT. Prețul final al unui proiect se stabilește după analiza nevoilor și a complexității tehnice, exprimat ca estimare de efort (ore). Primești această estimare detaliată înainte de start, ca să știi clar bugetul și termenele.</p>
+      </details>
+
+      <details class="sw-faq-item">
+        <summary>Ce tehnologii folosiți?</summary>
+        <p>Alegem tehnologiile potrivite pentru fiecare proiect, nu invers. Lucrăm cu stack-uri moderne pentru web, mobile și backend, cloud pe AWS, Google Cloud și Azure, baze de date relaționale și NoSQL, plus instrumente de AI și data science acolo unde aduc valoare. Recomandăm arhitectura după analiza inițială.</p>
+      </details>
+
+      <details class="sw-faq-item">
+        <summary>Cui aparține codul sursă?</summary>
+        <p>Codul sursă îți aparține 100%. La finalul proiectului primești întreg codul și documentația tehnică aferentă, fără să rămâi dependent de noi. Poți continua dezvoltarea cu orice echipă, oricând dorești.</p>
+      </details>
+
+      <details class="sw-faq-item">
+        <summary>Oferiți mentenanță după livrare?</summary>
+        <p>Da. După lansare oferim suport și mentenanță pentru actualizări, corectarea erorilor și dezvoltări ulterioare, la același tarif orar de 50€/oră. Stabilim împreună un mod de colaborare potrivit — punctual sau pe bază de abonament — în funcție de nevoile tale.</p>
+      </details>
+
+      <details class="sw-faq-item">
+        <summary>Analiza inițială chiar e gratuită?</summary>
+        <p>Da, prima discuție și analiza inițială a proiectului sunt complet gratuite, fără nicio obligație. Ne uităm peste ce ai nevoie, îți spunem sincer cum se poate construi și abia apoi îți trimitem estimarea de efort și buget.</p>
+      </details>
+
+      <details class="sw-faq-item">
+        <summary>Construiți și aplicații mobile native?</summary>
+        <p>Da. Dezvoltăm aplicații mobile native pentru iOS și Android, dar și soluții cross-platform, în funcție de obiective și buget. Ne ocupăm de tot procesul, de la analiză și design până la publicarea în App Store și Google Play.</p>
+      </details>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="sw-cta" aria-labelledby="sw-cta-h2">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="sw-cta__h2" id="sw-cta-h2">
+        Hai să construim<br>
+        <span class="acc">software-ul tău.</span>
+      </h2>
+      <p class="sw-cta__p">
+        Spune-ne despre proiect și primești o analiză inițială gratuită, plus o estimare detaliată de efort. Fără obligații.
+      </p>
+      <div class="sw-cta__btns">
+        <a href="/contact/" class="btn btn-solid">Solicită ofertă</a>
+        <a href="tel:+40771486499" class="btn btn-dark">Sună acum: 0771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Servicii conexe și prețuri transparente">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Nu lucrăm cu tarife ascunse sau surprize în factură. Toate pachetele și prețurile noastre sunt publice — alegi în cunoștință de cauză, fără presiune.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Continuă cu</div>
+      <div class="rel-links__grid">
+        <a href="/creare-site-prezentare/" class="rel-link"><span class="rel-link__name">Creare site de prezentare <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Site-uri de companie rapide, cu design pe brandul tău.</span></a>
+        <a href="/creare-magazin-online/" class="rel-link"><span class="rel-link__name">Creare magazin online <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">WooCommerce și Shopify optimizate pentru vânzări.</span></a>
+        <a href="/optimizare-seo/" class="rel-link"><span class="rel-link__name">SEO & content <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Ajungi pe prima pagină Google, organic.</span></a>
+        <a href="/portofoliu/" class="rel-link"><span class="rel-link__name">Portofoliu <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Proiecte reale livrate de echipa noastră.</span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+12:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$1a"}}]
+13:["$","$L1b",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1d:I[27201,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"IconMark"]
+19:[["$","title","0",{"children":"Dezvoltare Software & Aplicații Iași — Soluții Custom | Visience"}],["$","meta","1",{"name":"description","content":"Dezvoltare software personalizat, aplicații mobile, cloud și automatizări: ERP, CRM, AI, RPA. Tarif 50€/oră, analiză inițială gratuită, cod 100% al tău."}],["$","link","2",{"rel":"canonical","href":"https://visience.ro/dezvoltare-software/"}],["$","meta","3",{"property":"og:title","content":"Dezvoltare Software & Aplicații — Visience Iași"}],["$","meta","4",{"property":"og:description","content":"Software custom, aplicații mobile, cloud și automatizări scalabile. Tarif 50€/oră, analiză inițială gratuită, proprietate 100% cod sursă."}],["$","meta","5",{"property":"og:url","content":"https://visience.ro/dezvoltare-software/"}],["$","meta","6",{"property":"og:locale","content":"ro_RO"}],["$","meta","7",{"property":"og:image","content":"https://visience.ro/media/og-visience.jpg"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Agenție de Marketing & Creare Site-uri în Iași | Visience"}],["$","meta","11",{"name":"twitter:description","content":"Branding, website-uri, magazine online, Google & Meta Ads, SEO. Prețuri publice, fără costuri ascunse."}],["$","meta","12",{"name":"twitter:image","content":"https://visience.ro/media/og-visience.jpg"}],["$","link","13",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L1d","14",{}]]
+1c:null

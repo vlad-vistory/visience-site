@@ -1,0 +1,1181 @@
+1:"$Sreact.fragment"
+b:I[68027,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"default",1]
+:HL["/_next/static/chunks/3b23shbd_73w9.css","style"]
+:HL["/_next/static/media/017d9bea37084d9b-s.p.41rroleoq1br7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/26daee0352f50a5f-s.p.2e115y8-hourl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/36363bfb06833f56-s.p.38hmww4cj4vme.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5c285b27cdda1fe8-s.p.2_mbdogr7ni8i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a73419dd2ba2d841-s.p.2yee423r7ahpo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b12e986493c137cf-s.p.2njitm-prmz2_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b2fa3ef4ca165ab4-s.p.12_ml6bnugnre.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c3cb240f9c892514-s.p.3z_x6eowsw16y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css","style"]
+2:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}3:Tb9a,<header class="nav" id="nav" role="banner">
+  <div class="wrap nav__in">
+    <a href="/" class="nav__logo" aria-label="Visience — Acasă">
+      <img class="nav__logo-img nav__logo-img--light" src="/media/sigla-mark-visience-new-colors.avif"
+           alt="Visience" width="160" height="30" fetchpriority="high">
+      <img class="nav__logo-img nav__logo-img--dark" src="/media/sigla-visience-dark.avif"
+           alt="" aria-hidden="true" width="160" height="30">
+    </a>
+
+    <nav class="nav__links" aria-label="Navigare principală">
+      <div class="nav__has-drop">
+        <a href="/#servicii">Servicii</a>
+        <div class="nav__drop">
+          <a href="/creare-site-prezentare/">Creare site de prezentare</a>
+          <a href="/creare-magazin-online/">Creare magazin online</a>
+          <a href="/branding-identitate-vizuala/">Branding &amp; identitate</a>
+          <a href="/social-media-management/">Social media</a>
+          <a href="/google-meta-ads/">Google &amp; Meta Ads</a>
+          <a href="/optimizare-seo/">SEO &amp; content</a>
+          <a href="/dezvoltare-software/">Dezvoltare software</a>
+          <a href="/marketing-dezvoltatori-imobiliari/">Marketing imobiliar</a>
+        </div>
+      </div>
+      <a href="/portofoliu/">Proiecte</a>
+      <a href="/preturi/">Prețuri</a>
+      <a href="/blog/">Blog</a>
+      <a href="/#rezultate">Rezultate</a>
+      <a href="/#despre">Despre</a>
+      <a href="/contact/">Contact</a>
+    </nav>
+
+    <a href="/#contact" class="nav__cta">Solicită ofertă</a>
+
+    <button class="nav__burger" id="navBurger"
+            aria-label="Deschide meniul" aria-expanded="false" aria-controls="navMob">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<nav class="nav__mob" id="navMob" aria-label="Meniu mobil">
+  <a href="/#servicii"  class="nm-l">Servicii</a>
+  <a href="/creare-site-prezentare/" class="nm-l nm-sub">Creare site de prezentare</a>
+  <a href="/creare-magazin-online/" class="nm-l nm-sub">Creare magazin online</a>
+  <a href="/branding-identitate-vizuala/" class="nm-l nm-sub">Branding &amp; identitate</a>
+  <a href="/social-media-management/" class="nm-l nm-sub">Social media</a>
+  <a href="/google-meta-ads/" class="nm-l nm-sub">Google &amp; Meta Ads</a>
+  <a href="/optimizare-seo/" class="nm-l nm-sub">SEO &amp; content</a>
+  <a href="/dezvoltare-software/" class="nm-l nm-sub">Dezvoltare software</a>
+  <a href="/marketing-dezvoltatori-imobiliari/" class="nm-l nm-sub">Marketing imobiliar</a>
+  <a href="/portofoliu/"  class="nm-l">Proiecte</a>
+  <a href="/preturi/"    class="nm-l">Prețuri</a>
+  <a href="/blog/"       class="nm-l">Blog</a>
+  <a href="/#rezultate" class="nm-l">Rezultate</a>
+  <a href="/#despre"    class="nm-l">Despre</a>
+  <a href="/contact/"    class="nm-l">Contact</a>
+  <a href="/#contact" class="btn btn-solid" style="margin-top:8px">Solicită ofertă</a>
+</nav>
+0:{"P":null,"c":["","branding-identitate-vizuala",""],"q":"","i":false,"f":[[["",{"children":["branding-identitate-vizuala",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0a_4n0l8z1myf.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"bricolage_grotesque_4d7004bd-module__Hoo0MG__variable dm_sans_371c950d-module__4cga4q__variable dm_mono_6c018cca-module__6UXbpq__variable","children":[["$","head",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5","$L6"]}]]}]]}],{"children":["$L7",{"children":["$L8",{},null,false,null]},null,false,"$@9"]},null,false,null],"$La",false]],"m":"$undefined","G":["$b",["$Lc"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"XLiQQktmqJoG3-3IBETrL"}
+d:I[39756,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
+e:I[37457,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
+10:I[27961,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
+15:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"ViewportBoundary"]
+17:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"MetadataBoundary"]
+18:"$Sreact.suspense"
+4:["$","$Ld",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Le",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
+f:T13f0,<footer class="footer" role="contentinfo">
+  <div class="wrap">
+
+    <div class="footer__grid">
+
+      <div>
+        <div class="footer__logo">
+          <img src="/media/sigla-mark-visience-new-colors.avif"
+               alt="Visience" width="148" height="28" loading="lazy">
+        </div>
+
+        <p class="footer__brand">
+          Agenție de marketing digital cu 12 ani de experiență. Transformăm imaginea companiilor prin branding, website, social media și marketing precis configurat.
+        </p>
+
+        <p class="footer__trust">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M20 6 9 17l-5-5"/>
+          </svg>
+          Prețuri publice, fără costuri ascunse — <a href="/preturi/">vezi prețurile</a>.
+        </p>
+
+        <div class="footer__contact">
+          <a href="tel:+40771486499">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.67A2 2 0 012 .92h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L6.91 8.09a16 16 0 006 6l1.27-.83a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/>
+            </svg>
+            +40 771 486 499
+          </a>
+          <a href="mailto:contact@visience.ro">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+              <polyline points="22,6 12,13 2,6"/>
+            </svg>
+            contact@visience.ro
+          </a>
+        </div>
+
+        <div class="footer__anpc">
+          <a class="anpc-b" href="https://anpc.ro/" target="_blank" rel="noopener noreferrer"
+             aria-label="ANPC — Autoritatea Națională pentru Protecția Consumatorilor">
+            <img src="https://anpc.ro/wp-content/themes/anpc/img/anpc_logo.png"
+                 alt="ANPC" width="50" height="18" loading="lazy"
+                 onerror="this.style.display='none'">
+            ANPC
+          </a>
+          <a class="anpc-b" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage"
+             target="_blank" rel="noopener noreferrer"
+             aria-label="SOL — Soluționare Online a Litigiilor">
+            SOL
+          </a>
+        </div>
+      </div>
+
+      <nav aria-label="Servicii">
+        <div class="footer__col-title">Servicii</div>
+        <ul class="footer__links">
+          <li><a href="/creare-site-prezentare/">Creare site de prezentare</a></li>
+          <li><a href="/creare-site-prezentare-iasi/">Creare site de prezentare Iași</a></li>
+          <li><a href="/creare-magazin-online/">Creare magazin online</a></li>
+          <li><a href="/branding-identitate-vizuala/">Branding &amp; identitate</a></li>
+          <li><a href="/social-media-management/">Social Media</a></li>
+          <li><a href="/google-meta-ads/">Google &amp; Meta Ads</a></li>
+          <li><a href="/optimizare-seo/">SEO &amp; Content</a></li>
+          <li><a href="/dezvoltare-software/">Dezvoltare software</a></li>
+          <li><a href="/marketing-dezvoltatori-imobiliari/">Marketing imobiliar</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Companie">
+        <div class="footer__col-title">Companie</div>
+        <ul class="footer__links">
+          <li><a href="/portofoliu/">Portofoliu</a></li>
+          <li><a href="/parteneri/">Parteneri</a></li>
+          <li><a href="/blog/">Blog</a></li>
+          <li><a href="/preturi/">Prețuri</a></li>
+          <li><a href="/#rezultate">Studii de caz</a></li>
+          <li><a href="/#despre">Despre noi</a></li>
+          <li><a href="/contact/">Contact</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Legal">
+        <div class="footer__col-title">Legal &amp; GDPR</div>
+        <ul class="footer__links">
+          <li><a href="/termeni-si-conditii/">Termeni și Condiții</a></li>
+          <li><a href="/politica-de-confidentialitate/">Politică Confidențialitate</a></li>
+          <li><a href="/politica-cookies/">Politică Cookies</a></li>
+        </ul>
+      </nav>
+
+    </div>
+
+    <div class="footer__bottom">
+      <div class="footer__bottom-in">
+        <p class="footer__copy">
+          © 2026 Visience Creative Experience SRL · Toate drepturile rezervate
+        </p>
+        <div class="footer__legal">
+          <a href="/termeni-si-conditii/">Termeni</a>
+          <a href="/politica-de-confidentialitate/">Confidențialitate</a>
+          <a href="/politica-cookies/">Cookies</a>
+          <a href="/gdpr/">GDPR</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</footer>
+5:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}]
+6:["$","$L10",null,{}]
+7:["$","$1","c",{"children":[null,["$","$Ld",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Le",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+11:T10b2,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/branding-identitate-vizuala/#service","name":"Branding și identitate vizuală","serviceType":"Branding și creare identitate vizuală","description":"Creare identitate vizuală completă: logo, paletă cromatică, tipografie, brand book și materiale online și tipărite. Livrare în toate formatele, cu variante mono/negativ, cu și fără tagline. De la 150€.","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Pachete branding Visience","itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"1000","itemOffered":{"@type":"Service","name":"Branding Standard — identitate vizuală completă"}},{"@type":"Offer","priceCurrency":"EUR","price":"2000","itemOffered":{"@type":"Service","name":"Branding Premium — identitate extinsă cu brand book"}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Logo Basic"}},{"@type":"Offer","priceCurrency":"EUR","price":"150","itemOffered":{"@type":"Service","name":"Logo Starter"}}]}},{"@type":"FAQPage","@id":"https://visience.ro/branding-identitate-vizuala/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un logo profesional?","acceptedAnswer":{"@type":"Answer","text":"Un logo profesional pornește de la 500€ (pachetul Logo Basic), care include un logo unic, o revizie, varianta monocromă și negativă, plus varianta cu și fără tagline, în toate formatele. Pentru un buget mai mic avem și pachetul Starter, la 150€, cu o singură propunere de logo livrată în format vectorial și PNG."}},{"@type":"Question","name":"Ce este un BrandBook și ce conține?","acceptedAnswer":{"@type":"Answer","text":"BrandBook-ul este documentul care stabilește regulile de folosire ale identității tale vizuale. Conține variantele corecte de logo, paleta cromatică (cu codurile exacte de culoare), tipografia, spațierile și exemple de folosire corectă și greșită. Astfel, oricine îți face mai târziu un site, un afiș sau o postare, va păstra brandul consecvent. Este inclus în pachetul Premium."}},{"@type":"Question","name":"În ce formate primesc logo-ul?","acceptedAnswer":{"@type":"Answer","text":"Primești logo-ul în toate formatele de care ai nevoie: vectorial (pentru tipar și redimensionare fără pierderi de calitate), PNG cu fundal transparent, JPG și PDF. Livrăm și variantele color, monocromă și negativ, ca să ai mereu fișierul potrivit pentru orice suport — de la cartea de vizită la firma luminoasă."}},{"@type":"Question","name":"Câte revizii includeți?","acceptedAnswer":{"@type":"Answer","text":"Numărul de revizii depinde de pachet: Logo Basic include 1 revizie, Branding Standard 3 revizii, iar Branding Premium 6 revizii. O revizie înseamnă un set de ajustări asupra propunerii alese, ca să o aducem exact în punctul în care ești mulțumit de rezultat."}},{"@type":"Question","name":"Cât durează un proiect de branding?","acceptedAnswer":{"@type":"Answer","text":"Un logo simplu este gata în câteva zile, iar o identitate vizuală completă durează în general 2-3 săptămâni, în funcție de pachet și de cât de repede primim feedback la propuneri. Pachetul Premium, cu animație de logo și materiale extinse, poate dura puțin mai mult. Termenul exact îl confirmăm după primul brief."}},{"@type":"Question","name":"Faceți și rebranding pentru o firmă existentă?","acceptedAnswer":{"@type":"Answer","text":"Da. Lucrăm frecvent cu firme existente care simt că imaginea lor nu mai reflectă valoarea reală a serviciilor. Analizăm identitatea actuală, păstrăm ce funcționează și reconstruim restul, astfel încât schimbarea să fie o evoluție, nu o ruptură care derutează clienții fideli. Putem actualiza apoi și site-ul și materialele, ca tranziția să fie completă."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Branding și identitate vizuală","item":"https://visience.ro/branding-identitate-vizuala/"}]}]}8:["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$11"}}],"$L12"],null,"$L13"]}]
+14:[]
+9:"$W14"
+a:["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$L16"}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$18",null,{"name":"Next.Metadata","children":"$L19"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+c:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1b:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+1a:T88b8,<style>
+.br-hero {
+  position: relative;
+  padding: calc(var(--nav-h) + 90px) 0 90px;
+  background: var(--cream);
+  overflow: hidden;
+}
+.br-hero__inner {
+  display: grid;
+  grid-template-columns: 1.15fr 1fr;
+  gap: 70px;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+}
+.br-hero__breadcrumbs {
+  font-family: var(--f-m);
+  font-size: 11px;
+  color: var(--mid);
+  letter-spacing: .06em;
+  margin-bottom: 24px;
+}
+.br-hero__breadcrumbs a       { color: var(--mid); transition: color .2s; }
+.br-hero__breadcrumbs a:hover { color: var(--acc); }
+.br-hero__breadcrumbs .sep    { margin: 0 10px; opacity: .4; }
+
+.br-hero__h1 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(38px, 5.2vw, 70px);
+  line-height: .98;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 26px;
+}
+.br-hero__h1 .acc {
+  background: var(--acc);
+  color: var(--acc-ink);
+  padding: 0 12px 4px;
+  border-radius: 10px;
+  display: inline-block;
+  line-height: 1.05;
+}
+.br-hero__lead {
+  font-size: 17px;
+  line-height: 1.78;
+  color: var(--mid);
+  margin-bottom: 32px;
+  font-weight: 300;
+  max-width: 540px;
+}
+.br-hero__pts {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-bottom: 36px;
+  max-width: 540px;
+}
+.br-pt {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 14px;
+  color: var(--ink);
+  font-weight: 500;
+}
+.br-pt-dot {
+  width: 18px; height: 18px;
+  background: var(--acc);
+  color: var(--acc-ink);
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 10px; font-weight: 700;
+  flex-shrink: 0; margin-top: 2px;
+}
+.br-hero__cta {
+  display: flex; gap: 10px; flex-wrap: wrap;
+}
+
+.br-hero__visual {
+  position: relative;
+  height: 480px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.br-hero__card {
+  position: relative;
+  width: 100%;
+  max-width: 440px;
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  padding: 30px 28px;
+  box-shadow: 0 30px 80px rgba(17,16,16,.08);
+  z-index: 2;
+}
+.br-card__lbl {
+  font-family: var(--f-m);
+  font-size: 10px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--light);
+  margin-bottom: 18px;
+}
+.br-card__mark {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding-bottom: 22px;
+  margin-bottom: 22px;
+  border-bottom: 1px solid var(--border);
+}
+.br-card__glyph {
+  width: 66px; height: 66px;
+  border-radius: 16px;
+  background: var(--ink);
+  color: var(--acc2);
+  display: flex; align-items: center; justify-content: center;
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: 32px;
+  letter-spacing: -.04em;
+  flex-shrink: 0;
+}
+.br-card__name {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: 22px;
+  letter-spacing: -.02em;
+  color: var(--ink);
+  line-height: 1;
+  margin-bottom: 6px;
+}
+.br-card__tag {
+  font-family: var(--f-m);
+  font-size: 11px;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--mid);
+}
+.br-card__swatches {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+.br-sw {
+  flex: 1;
+  height: 40px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+}
+.br-sw--1 { background: var(--ink); }
+.br-sw--2 { background: var(--acc); }
+.br-sw--3 { background: var(--acc-bg); }
+.br-sw--4 { background: var(--cream2); }
+.br-card__fonts {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.br-card__font-d {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: 26px;
+  letter-spacing: -.02em;
+  color: var(--ink);
+  line-height: 1;
+}
+.br-card__font-b {
+  font-family: var(--f-b);
+  font-size: 12px;
+  color: var(--mid);
+  letter-spacing: .02em;
+}
+
+.br-intro {
+  background: var(--white);
+  padding: 90px 0;
+  position: relative;
+}
+.br-intro__inner {
+  max-width: 880px;
+  margin: 0 auto;
+}
+.br-intro h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(28px, 3.5vw, 44px);
+  line-height: 1.1;
+  letter-spacing: -.025em;
+  color: var(--ink);
+  margin: 56px 0 18px;
+}
+.br-intro h2:first-child { margin-top: 0; }
+.br-intro p {
+  font-size: 16px;
+  line-height: 1.84;
+  color: var(--mid);
+  font-weight: 300;
+  margin-bottom: 16px;
+}
+.br-intro p strong { color: var(--ink); font-weight: 600; }
+.br-intro p a       { color: var(--acc); border-bottom: 1px solid var(--acc); transition: opacity .2s; }
+.br-intro p a:hover { opacity: .65; }
+
+.br-incl {
+  padding: 100px 0;
+  background: var(--cream);
+}
+.br-incl__head {
+  text-align: center;
+  max-width: 680px;
+  margin: 0 auto 56px;
+}
+.br-incl__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(30px, 4vw, 52px);
+  line-height: 1.02;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 16px;
+}
+.br-incl__h2 .acc { color: var(--acc); }
+.br-incl__sub {
+  font-size: 16px; line-height: 1.8;
+  color: var(--mid); font-weight: 300;
+}
+.br-incl__grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+.br-incl-card {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 32px 26px 30px;
+  transition: .3s;
+}
+.br-incl-card:hover {
+  border-color: rgba(232,152,10,.3);
+  transform: translateY(-4px);
+  box-shadow: 0 18px 36px rgba(17,16,16,.06);
+}
+.br-incl-card__ico {
+  width: 48px; height: 48px;
+  border-radius: 12px;
+  background: var(--acc-bg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 22px;
+  color: var(--acc);
+  font-size: 20px;
+  transition: .3s;
+}
+.br-incl-card:hover .br-incl-card__ico {
+  background: var(--acc);
+  color: var(--acc-ink);
+}
+.br-incl-card h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.015em;
+  margin: 0 0 12px;
+  line-height: 1.2;
+  color: var(--ink);
+}
+.br-incl-card p {
+  font-size: 13px;
+  color: var(--mid);
+  line-height: 1.7;
+  font-weight: 300;
+  margin: 0;
+}
+
+.br-prices {
+  padding: 100px 0;
+  background: var(--white);
+}
+.br-prices__head {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto 56px;
+}
+.br-prices__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(34px, 4.5vw, 60px);
+  line-height: 1.0;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 18px;
+}
+.br-prices__h2 .acc { color: var(--acc); }
+.br-prices__sub {
+  font-size: 16px; line-height: 1.8;
+  color: var(--mid); font-weight: 300;
+}
+
+.br-pkg-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  align-items: stretch;
+}
+.br-pkg {
+  background: var(--cream);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 34px 26px 30px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  transition: .3s;
+}
+.br-pkg:hover {
+  border-color: rgba(232,152,10,.3);
+  transform: translateY(-6px);
+  box-shadow: 0 20px 48px rgba(232,152,10,.08);
+}
+.br-pkg.featured {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--white);
+}
+.br-pkg.featured:hover { box-shadow: 0 24px 56px rgba(17,16,16,.2); }
+.br-pkg__badge {
+  position: absolute;
+  top: -12px; left: 50%;
+  transform: translateX(-50%);
+  background: var(--acc);
+  color: var(--acc-ink);
+  font-family: var(--f-m);
+  font-size: 9px;
+  font-weight: 500;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  padding: 5px 14px;
+  border-radius: 100px;
+  white-space: nowrap;
+}
+.br-pkg__name {
+  font-family: var(--f-m);
+  font-size: 11px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--mid);
+  margin-bottom: 8px;
+}
+.br-pkg.featured .br-pkg__name { color: rgba(255,255,255,.5); }
+.br-pkg__price {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(32px, 3.4vw, 46px);
+  letter-spacing: -.04em;
+  line-height: 1;
+  color: var(--acc);
+  margin-bottom: 4px;
+}
+.br-pkg__price-note {
+  font-size: 12px;
+  color: var(--light);
+  margin-bottom: 22px;
+}
+.br-pkg.featured .br-pkg__price-note { color: rgba(255,255,255,.4); }
+.br-pkg__desc {
+  font-size: 13px;
+  line-height: 1.7;
+  color: var(--mid);
+  margin-bottom: 24px;
+  font-weight: 300;
+  padding-bottom: 22px;
+  border-bottom: 1px solid var(--border);
+}
+.br-pkg.featured .br-pkg__desc {
+  color: rgba(255,255,255,.55);
+  border-bottom-color: rgba(255,255,255,.1);
+}
+.br-pkg__feats {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 26px;
+  flex: 1;
+}
+.br-pkg__feat {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 13px;
+  line-height: 1.55;
+  color: var(--ink);
+}
+.br-pkg.featured .br-pkg__feat { color: rgba(255,255,255,.85); }
+.br-pkg__feat-tick {
+  color: var(--acc);
+  flex-shrink: 0;
+  margin-top: 2px;
+  font-weight: 700;
+}
+.br-pkg.featured .br-pkg__feat-tick { color: var(--acc2); }
+
+.br-process {
+  padding: 100px 0;
+  background: var(--cream2);
+}
+.br-process__head {
+  text-align: center;
+  max-width: 640px;
+  margin: 0 auto 56px;
+}
+.br-process__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(30px, 4vw, 52px);
+  line-height: 1.02;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 16px;
+}
+.br-process__h2 .acc { color: var(--acc); }
+.br-process__list {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+.br-step {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 30px 26px;
+  transition: .3s;
+}
+.br-step:hover {
+  border-color: rgba(232,152,10,.3);
+  transform: translateY(-4px);
+  box-shadow: 0 14px 28px rgba(17,16,16,.06);
+}
+.br-step__n {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: 36px;
+  color: var(--acc);
+  letter-spacing: -.03em;
+  line-height: 1;
+  margin-bottom: 16px;
+}
+.br-step h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.015em;
+  margin: 0 0 10px;
+  color: var(--ink);
+  line-height: 1.2;
+}
+.br-step p {
+  font-size: 13px;
+  color: var(--mid);
+  line-height: 1.7;
+  font-weight: 300;
+  margin: 0;
+}
+
+.br-faq {
+  padding: 100px 0;
+  background: var(--white);
+}
+.br-faq__head {
+  text-align: center;
+  max-width: 640px;
+  margin: 0 auto 50px;
+}
+.br-faq__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(28px, 3.6vw, 44px);
+  line-height: 1.04;
+  letter-spacing: -.03em;
+  color: var(--ink);
+}
+.br-faq__h2 .acc { color: var(--acc); }
+.br-faq__list {
+  max-width: 860px;
+  margin: 0 auto;
+  border-top: 1px solid var(--border);
+}
+.br-faq-item {
+  border-bottom: 1px solid var(--border);
+  padding: 24px 0;
+}
+.br-faq-item summary {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.01em;
+  color: var(--ink);
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding-right: 8px;
+  transition: color .22s;
+}
+.br-faq-item summary::-webkit-details-marker { display: none; }
+.br-faq-item summary::after {
+  content: '+';
+  font-family: var(--f-d);
+  font-size: 26px;
+  font-weight: 300;
+  color: var(--acc);
+  transition: transform .3s;
+  flex-shrink: 0;
+  line-height: 1;
+}
+.br-faq-item[open] summary::after { transform: rotate(45deg); }
+.br-faq-item:hover summary { color: var(--acc); }
+.br-faq-item p {
+  margin-top: 14px;
+  font-size: 14px;
+  color: var(--mid);
+  line-height: 1.75;
+  font-weight: 300;
+  max-width: 740px;
+}
+
+.br-cta {
+  padding: 110px 0;
+  background: var(--ink);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.br-cta::before {
+  content: '';
+  position: absolute;
+  top: -100px; right: -100px;
+  width: 420px; height: 420px;
+  background: radial-gradient(circle, rgba(232,152,10,.22) 0%, transparent 70%);
+  pointer-events: none;
+}
+.br-cta > .wrap { position: relative; z-index: 1; }
+.br-cta__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(34px, 5vw, 64px);
+  line-height: 1.0;
+  letter-spacing: -.03em;
+  color: var(--white);
+  margin-bottom: 20px;
+}
+.br-cta__h2 .acc {
+  background: linear-gradient(135deg, var(--acc) 0%, var(--acc2) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.br-cta__p {
+  font-size: 16px;
+  color: rgba(255,255,255,.5);
+  font-weight: 300;
+  max-width: 540px;
+  margin: 0 auto 32px;
+  line-height: 1.78;
+}
+.br-cta__btns {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 1024px) {
+  .br-hero { padding: calc(var(--nav-h) + 60px) 0 70px; }
+  .br-hero__inner { grid-template-columns: 1fr; gap: 50px; }
+  .br-hero__visual { height: auto; order: -1; }
+  .br-intro { padding: 70px 0; }
+  .br-incl { padding: 80px 0; }
+  .br-incl__grid { grid-template-columns: repeat(2, 1fr); }
+  .br-prices { padding: 80px 0; }
+  .br-pkg-grid { grid-template-columns: repeat(2, 1fr); }
+  .br-pkg.featured { transform: none; }
+  .br-process { padding: 80px 0; }
+  .br-process__list { grid-template-columns: repeat(2, 1fr); }
+  .br-faq { padding: 70px 0; }
+  .br-cta { padding: 80px 0; }
+}
+
+@media (max-width: 640px) {
+  .br-hero__pts { grid-template-columns: 1fr; }
+  .br-hero__cta { flex-direction: column; }
+  .br-hero__cta .btn { justify-content: center; }
+  .br-incl__grid { grid-template-columns: 1fr; }
+  .br-pkg-grid { grid-template-columns: 1fr; }
+  .br-pkg { padding: 28px 24px 26px; }
+  .br-process__list { grid-template-columns: 1fr; }
+  .br-cta__btns { flex-direction: column; }
+  .br-cta__btns .btn { width: 100%; justify-content: center; }
+}
+</style>
+
+
+<main id="main">
+
+<section class="br-hero" aria-labelledby="br-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="20%" x2="100%" y2="60%"/>
+      <line x1="0" y1="50%" x2="100%" y2="90%"/>
+      <line x1="0" y1="80%" x2="100%" y2="30%"/>
+      <line x1="25%" y1="0" x2="75%" y2="100%"/>
+      <line x1="60%" y1="0" x2="10%" y2="100%"/>
+    </svg>
+  </div>
+
+  <div class="wrap">
+    <div class="br-hero__inner">
+
+      <div class="rv">
+        <nav class="br-hero__breadcrumbs" aria-label="Breadcrumbs">
+          <a href="/">Acasă</a>
+          <span class="sep">/</span>
+          <a href="/#servicii">Servicii</a>
+          <span class="sep">/</span>
+          <span>Branding &amp; identitate vizuală</span>
+        </nav>
+
+        <div class="eyebrow">
+          <span class="ey-dot"></span>
+          Branding &amp; identitate vizuală Iași
+        </div>
+
+        <h1 class="br-hero__h1" id="br-h1">
+          Branduri care<br>
+          <span class="acc">inspiră încredere.</span>
+        </h1>
+
+        <p class="br-hero__lead">
+          Creăm identități vizuale complete — logo, paletă cromatică, tipografie și brand book — care fac firma ta să arate solid și să fie ușor de recunoscut. Un brand construit cu cap, nu un logo făcut peste noapte.
+        </p>
+
+        <div class="br-hero__pts">
+          <div class="br-pt"><span class="br-pt-dot">✓</span><span>Logo &amp; sistem vizual complet</span></div>
+          <div class="br-pt"><span class="br-pt-dot">✓</span><span>Brand book cu reguli clare</span></div>
+          <div class="br-pt"><span class="br-pt-dot">✓</span><span>Toate formatele de fișiere</span></div>
+          <div class="br-pt"><span class="br-pt-dot">✓</span><span>Materiale online &amp; tipărite</span></div>
+        </div>
+
+        <div class="br-hero__cta">
+          <a href="/contact/" class="btn btn-solid">Solicită ofertă</a>
+          <a href="tel:+40771486499" class="btn btn-ghost">Sună: 0771 486 499</a>
+        </div>
+      </div>
+
+      <div class="br-hero__visual rv rv-d2">
+        <div class="br-hero__card" aria-hidden="true">
+          <div class="br-card__lbl">Identitate vizuală</div>
+          <div class="br-card__mark">
+            <div class="br-card__glyph">V</div>
+            <div>
+              <div class="br-card__name">Brandul tău</div>
+              <div class="br-card__tag">Logo · Paletă · Tipografie</div>
+            </div>
+          </div>
+          <div class="br-card__swatches">
+            <span class="br-sw br-sw--1"></span>
+            <span class="br-sw br-sw--2"></span>
+            <span class="br-sw br-sw--3"></span>
+            <span class="br-sw br-sw--4"></span>
+          </div>
+          <div class="br-card__fonts">
+            <span class="br-card__font-d">Aa Bb Cc</span>
+            <span class="br-card__font-b">Tipografie principală &amp; secundară</span>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="br-intro" aria-labelledby="br-intro-h2">
+  <div class="wrap">
+    <div class="br-intro__inner rv">
+
+      <h2 id="br-intro-h2">Branding profesional pentru firme care vor să fie luate în serios</h2>
+      <p>
+        Suntem o <strong>agenție de branding din Iași</strong> care construiește identități vizuale memorabile, de la <strong>logo</strong> și <strong>paletă cromatică</strong> până la <strong>brand book complet</strong>. Lucrăm cu firme la început de drum, dar și cu afaceri existente care simt că imaginea lor nu mai reflectă valoarea reală a serviciilor. Fiecare brand este construit pornind de la cine ești, cui te adresezi și cum vrei să fii perceput — nu de la un șablon.
+      </p>
+      <p>
+        Indiferent dacă lansezi o firmă nouă sau faci <strong>rebranding</strong>, primești o identitate coerentă care funcționează la fel de bine online și offline: pe site, pe rețelele sociale, pe cartea de vizită sau pe firma luminoasă. <a href="/contact/">Cere o ofertă personalizată →</a>
+      </p>
+
+      <h2>Cât costă o identitate vizuală completă?</h2>
+      <p>
+        Prețul depinde de cât de extinsă e identitatea de care ai nevoie. Un <strong>logo profesional</strong> cu revizii și toate formatele pornește de la <strong>500€</strong>. O <strong>identitate vizuală completă</strong> — cu logo în mai multe variante, materiale tipărite și brand book — costă <strong>1.000€</strong> (pachetul Standard, cel mai ales). Pentru <strong>branding premium</strong>, cu animație de logo, materiale extinse și brand book detaliat, prețul este de <strong>2.000€</strong>.
+      </p>
+      <p>
+        Pentru bugete restrânse oferim și un pachet <strong>Starter de 150€</strong> — o singură propunere de logo, livrată în format vectorial și PNG. Indiferent de pachet, primești fișierele finale în toate formatele de care ai nevoie, gata de folosit. <a href="#br-preturi">Vezi pachetele detaliate mai jos →</a>
+      </p>
+
+      <h2>De ce să alegi branding făcut de Visience?</h2>
+      <p>
+        <strong>Pentru că nu livrăm doar un logo, ci un sistem.</strong> Un logo izolat nu ține un brand pe picioare. De aceea fiecare proiect include reguli de folosire, variante pentru orice context (color, monocrom, negativ, cu și fără tagline) și toate fișierele necesare. Așa, oricine îți face mai târziu un afiș, un site sau o reclamă, va păstra brandul consecvent.
+      </p>
+      <p>
+        În plus, suntem o agenție completă: după ce stabilim identitatea, putem prelua și site-ul, rețelele sociale și campaniile de promovare, ca totul să arate dintr-o bucată. <a href="#br-faq">Vezi întrebările frecvente →</a>
+      </p>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="br-incl" aria-labelledby="br-incl-h2">
+  <div class="wrap">
+
+    <div class="br-incl__head rv">
+      <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Ce includem</div>
+      <h2 class="br-incl__h2" id="br-incl-h2">Tot ce ține brandul tău <span class="acc">unitar</span></h2>
+      <p class="br-incl__sub">
+        De la semnătura vizuală până la materialele de zi cu zi — o identitate gândită să funcționeze peste tot, fără compromisuri.
+      </p>
+    </div>
+
+    <div class="br-incl__grid rv rv-d2">
+
+      <div class="br-incl-card">
+        <div class="br-incl-card__ico"><i class="fa-solid fa-pen-nib"></i></div>
+        <h3>Logo &amp; sistem vizual</h3>
+        <p>Logo în variante color, monocrom și negativ, cu și fără tagline. Plus elementele vizuale care îți construiesc un look recognoscibil.</p>
+      </div>
+
+      <div class="br-incl-card">
+        <div class="br-incl-card__ico"><i class="fa-solid fa-book-open"></i></div>
+        <h3>Brand book</h3>
+        <p>Regulile brandului într-un singur document: paletă cromatică, tipografie, spațieri și exemple de folosire corectă pe orice suport.</p>
+      </div>
+
+      <div class="br-incl-card">
+        <div class="br-incl-card__ico"><i class="fa-solid fa-id-card"></i></div>
+        <h3>Materiale tipărite</h3>
+        <p>Carte de vizită, antet de documente, dosar de prezentare și flyer — pregătite corect pentru tipar, gata de trimis la tipografie.</p>
+      </div>
+
+      <div class="br-incl-card">
+        <div class="br-incl-card__ico"><i class="fa-regular fa-image"></i></div>
+        <h3>Materiale online</h3>
+        <p>Avatar și banner pentru rețelele sociale, plus template-uri de postări, ca prezența ta digitală să arate la fel de îngrijit ca cea tipărită.</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="br-prices" id="br-preturi" aria-labelledby="br-prices-h2">
+  <div class="wrap">
+
+    <div class="br-prices__head rv">
+      <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Pachete &amp; prețuri</div>
+      <h2 class="br-prices__h2" id="br-prices-h2">
+        Prețuri branding —<br><span class="acc">de la logo la identitate completă</span>
+      </h2>
+      <p class="br-prices__sub">
+        Patru pachete clare, de la o singură propunere de logo până la identitatea vizuală completă cu brand book. Primești ofertă personalizată în 24 de ore.
+      </p>
+    </div>
+
+    <div class="br-pkg-grid">
+
+      <div class="br-pkg featured rv">
+        <span class="br-pkg__badge">Recomandat</span>
+        <div class="br-pkg__name">Branding Standard</div>
+        <div class="br-pkg__price">1.000€</div>
+        <div class="br-pkg__price-note">Identitate vizuală completă</div>
+        <p class="br-pkg__desc">
+          Cea mai aleasă variantă: o identitate vizuală completă, cu logo în mai multe variante și materialele de bază. Echilibrul ideal între preț și ce primești.
+        </p>
+        <div class="br-pkg__feats">
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>3 variante de logo la alegere</span></div>
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>3 revizii incluse</span></div>
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Identitate vizuală completă</span></div>
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Carte de vizită + dosar de prezentare</span></div>
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Antet de documente</span></div>
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Toate formatele de fișiere</span></div>
+        </div>
+        <a href="/contact/" class="btn btn-solid" style="justify-content:center">Solicită oferta</a>
+      </div>
+
+      <div class="br-pkg rv rv-d1">
+        <div class="br-pkg__name">Branding Premium</div>
+        <div class="br-pkg__price">2.000€</div>
+        <div class="br-pkg__price-note">Identitate extinsă</div>
+        <p class="br-pkg__desc">
+          Tot ce e în Standard, plus animație de logo și materiale suplimentare. Pentru firme care vor o prezență vizuală remarcabilă, în mișcare.
+        </p>
+        <div class="br-pkg__feats">
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Tot ce include pachetul Standard</span></div>
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Animație de logo (video / GIF)</span></div>
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Flyer + banner pentru social media</span></div>
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>BrandBook complet</span></div>
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>6 revizii incluse</span></div>
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Toate formatele de fișiere</span></div>
+        </div>
+        <a href="/contact/" class="btn btn-ghost" style="justify-content:center">Solicită oferta</a>
+      </div>
+
+      <div class="br-pkg rv rv-d2">
+        <div class="br-pkg__name">Logo Basic</div>
+        <div class="br-pkg__price">500€</div>
+        <div class="br-pkg__price-note">Doar logo, bine făcut</div>
+        <p class="br-pkg__desc">
+          Pentru cine are nevoie doar de un logo profesional, cu revizii și toate variantele de bază. Fără materiale suplimentare.
+        </p>
+        <div class="br-pkg__feats">
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Logo unic, conceput pentru tine</span></div>
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>1 revizie inclusă</span></div>
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Variantă monocromă &amp; negativ</span></div>
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Variantă cu &amp; fără tagline</span></div>
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Toate formatele de fișiere</span></div>
+        </div>
+        <a href="/contact/" class="btn btn-ghost" style="justify-content:center">Solicită oferta</a>
+      </div>
+
+      <div class="br-pkg rv rv-d2">
+        <div class="br-pkg__name">Logo Starter</div>
+        <div class="br-pkg__price">150€</div>
+        <div class="br-pkg__price-note">Opțiune accesibilă</div>
+        <p class="br-pkg__desc">
+          Cea mai accesibilă variantă: o singură propunere de logo, livrată gata de folosit. Ideal pentru un start rapid, cu buget mic.
+        </p>
+        <div class="br-pkg__feats">
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>1 propunere de logo</span></div>
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Format PNG</span></div>
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Fișier vectorial editabil</span></div>
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Gata de folosit pe orice suport</span></div>
+        </div>
+        <a href="/contact/" class="btn btn-ghost" style="justify-content:center">Solicită oferta</a>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="br-process" aria-labelledby="br-process-h2">
+  <div class="wrap">
+
+    <div class="br-process__head rv">
+      <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Cum lucrăm</div>
+      <h2 class="br-process__h2" id="br-process-h2">De la brief la <span class="acc">brand livrat</span></h2>
+    </div>
+
+    <div class="br-process__list rv rv-d2">
+
+      <article class="br-step">
+        <div class="br-step__n">01</div>
+        <h3>Brief &amp; descoperire</h3>
+        <p>Discutăm despre firma ta, publicul țintă și concurență. Înțelegem ce vrei să transmiți înainte să desenăm prima linie.</p>
+      </article>
+
+      <article class="br-step">
+        <div class="br-step__n">02</div>
+        <h3>Concept &amp; direcții</h3>
+        <p>Propunem direcțiile de logo și de stil vizual. Alegi împreună cu noi varianta care reprezintă cel mai bine brandul tău.</p>
+      </article>
+
+      <article class="br-step">
+        <div class="br-step__n">03</div>
+        <h3>Rafinare &amp; revizii</h3>
+        <p>Definitivăm logo-ul, paleta și tipografia. Aplicăm reviziile incluse până când totul arată exact cum trebuie.</p>
+      </article>
+
+      <article class="br-step">
+        <div class="br-step__n">04</div>
+        <h3>Livrare &amp; brand book</h3>
+        <p>Primești toate fișierele finale și brand book-ul cu reguli de folosire, ca brandul să rămână consecvent oriunde apare.</p>
+      </article>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="br-faq" id="br-faq" aria-labelledby="br-faq-h2">
+  <div class="wrap">
+
+    <div class="br-faq__head rv">
+      <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Întrebări frecvente</div>
+      <h2 class="br-faq__h2" id="br-faq-h2">Ce trebuie să știi despre <span class="acc">branding</span></h2>
+    </div>
+
+    <div class="br-faq__list rv rv-d2">
+
+      <details class="br-faq-item">
+        <summary>Cât costă un logo profesional?</summary>
+        <p>Un logo profesional pornește de la 500€ (pachetul Logo Basic), care include un logo unic, o revizie, varianta monocromă și negativă, plus varianta cu și fără tagline, în toate formatele. Pentru un buget mai mic avem și pachetul Starter, la 150€, cu o singură propunere de logo livrată în format vectorial și PNG.</p>
+      </details>
+
+      <details class="br-faq-item">
+        <summary>Ce este un BrandBook și ce conține?</summary>
+        <p>BrandBook-ul este documentul care stabilește regulile de folosire ale identității tale vizuale. Conține variantele corecte de logo, paleta cromatică (cu codurile exacte de culoare), tipografia, spațierile și exemple de folosire corectă și greșită. Astfel, oricine îți face mai târziu un site, un afiș sau o postare, va păstra brandul consecvent. Este inclus în pachetul Premium.</p>
+      </details>
+
+      <details class="br-faq-item">
+        <summary>În ce formate primesc logo-ul?</summary>
+        <p>Primești logo-ul în toate formatele de care ai nevoie: vectorial (pentru tipar și redimensionare fără pierderi de calitate), PNG cu fundal transparent, JPG și PDF. Livrăm și variantele color, monocromă și negativ, ca să ai mereu fișierul potrivit pentru orice suport — de la cartea de vizită la firma luminoasă.</p>
+      </details>
+
+      <details class="br-faq-item">
+        <summary>Câte revizii includeți?</summary>
+        <p>Numărul de revizii depinde de pachet: Logo Basic include 1 revizie, Branding Standard 3 revizii, iar Branding Premium 6 revizii. O revizie înseamnă un set de ajustări asupra propunerii alese, ca să o aducem exact în punctul în care ești mulțumit de rezultat.</p>
+      </details>
+
+      <details class="br-faq-item">
+        <summary>Cât durează un proiect de branding?</summary>
+        <p>Un logo simplu este gata în câteva zile, iar o identitate vizuală completă durează în general 2-3 săptămâni, în funcție de pachet și de cât de repede primim feedback la propuneri. Pachetul Premium, cu animație de logo și materiale extinse, poate dura puțin mai mult. Termenul exact îl confirmăm după primul brief.</p>
+      </details>
+
+      <details class="br-faq-item">
+        <summary>Faceți și rebranding pentru o firmă existentă?</summary>
+        <p>Da. Lucrăm frecvent cu firme existente care simt că imaginea lor nu mai reflectă valoarea reală a serviciilor. Analizăm identitatea actuală, păstrăm ce funcționează și reconstruim restul, astfel încât schimbarea să fie o evoluție, nu o ruptură care derutează clienții fideli. Putem actualiza apoi și site-ul și materialele, ca tranziția să fie completă.</p>
+      </details>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="br-cta" aria-labelledby="br-cta-h2">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="br-cta__h2" id="br-cta-h2">
+        Hai să-ți construim<br>
+        <span class="acc">un brand pe măsură.</span>
+      </h2>
+      <p class="br-cta__p">
+        Spune-ne despre firma ta și primești o ofertă personalizată în maxim 24 de ore. Consultanță gratuită, fără obligații.
+      </p>
+      <div class="br-cta__btns">
+        <a href="/contact/" class="btn btn-solid">Solicită ofertă</a>
+        <a href="tel:+40771486499" class="btn btn-dark">Sună acum: 0771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Servicii conexe și prețuri transparente">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Nu lucrăm cu tarife ascunse sau surprize în factură. Toate pachetele și prețurile noastre sunt publice — alegi în cunoștință de cauză, fără presiune.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Continuă cu</div>
+      <div class="rel-links__grid">
+        <a href="/creare-site-prezentare/" class="rel-link"><span class="rel-link__name">Creare site de prezentare <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Site-uri de companie rapide, cu design pe brandul tău.</span></a>
+        <a href="/social-media-management/" class="rel-link"><span class="rel-link__name">Social media <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Strategie, conținut și administrare pe rețele.</span></a>
+        <a href="/creare-magazin-online/" class="rel-link"><span class="rel-link__name">Creare magazin online <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">WooCommerce și Shopify optimizate pentru vânzări.</span></a>
+        <a href="/portofoliu/" class="rel-link"><span class="rel-link__name">Portofoliu <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Proiecte reale livrate de echipa noastră.</span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+12:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$1a"}}]
+13:["$","$L1b",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1d:I[27201,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"IconMark"]
+19:[["$","title","0",{"children":"Branding & Identitate Vizuală Iași — Logo și Brand Book | Visience"}],["$","meta","1",{"name":"description","content":"Agenție de branding în Iași: logo, paletă, tipografie și brand book complet pentru online și offline. Identitate vizuală completă de la 1.000€. Ofertă în 24h."}],["$","link","2",{"rel":"canonical","href":"https://visience.ro/branding-identitate-vizuala/"}],["$","meta","3",{"property":"og:title","content":"Branding & Identitate Vizuală Iași — Visience"}],["$","meta","4",{"property":"og:description","content":"Logo, brand book și identitate vizuală pentru firme care vor să fie luate în serios. Pachete de la 150€ la 2.000€."}],["$","meta","5",{"property":"og:url","content":"https://visience.ro/branding-identitate-vizuala/"}],["$","meta","6",{"property":"og:locale","content":"ro_RO"}],["$","meta","7",{"property":"og:image","content":"https://visience.ro/media/og-visience.jpg"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Agenție de Marketing & Creare Site-uri în Iași | Visience"}],["$","meta","11",{"name":"twitter:description","content":"Branding, website-uri, magazine online, Google & Meta Ads, SEO. Prețuri publice, fără costuri ascunse."}],["$","meta","12",{"name":"twitter:image","content":"https://visience.ro/media/og-visience.jpg"}],["$","link","13",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L1d","14",{}]]
+1c:null

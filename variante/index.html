@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex">
+<title>Visience — variante de temă pentru home</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500&family=DM+Mono:wght@400;500&family=Fraunces:opsz,wght@9..144,500;9..144,900&family=Inter:wght@300;500&family=Space+Grotesk:wght@500;700&family=Plus+Jakarta+Sans:wght@300;500&family=Syne:wght@600;800&family=Manrope:wght@300;500&display=swap" rel="stylesheet">
+<style>
+:root{--cream:#F5F0E6;--white:#FDFCF9;--ink:#111010;--acc:#E8980A;--acc2:#F5AE2A;--acc-ink:#3D2800;--mid:#6B6560;--light:#A59F96;--border:rgba(17,16,16,.10);
+--f-d:"Bricolage Grotesque",sans-serif;--f-b:"DM Sans",sans-serif;--f-m:"DM Mono",monospace;}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:var(--f-b);background:var(--cream);color:var(--ink);font-weight:300;line-height:1.6;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1180px;margin:0 auto;padding:0 28px}
+header{padding:64px 0 36px;text-align:center}
+.logo{height:30px;margin-bottom:32px}
+.eyebrow{font-family:var(--f-m);font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--acc-dark);margin-bottom:18px}
+h1{font-family:var(--f-d);font-weight:800;font-size:clamp(32px,5vw,56px);letter-spacing:-.03em;line-height:1.04}
+.sub{max-width:640px;margin:18px auto 0;color:var(--mid);font-size:16px;line-height:1.75}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;padding:28px 0 90px}
+.card{display:flex;flex-direction:column;background:var(--white);border:1px solid var(--border);border-radius:16px;overflow:hidden;text-decoration:none;color:inherit;transition:transform .35s cubic-bezier(.25,.46,.45,.94),box-shadow .35s,border-color .25s}
+.card:hover{transform:translateY(-6px);border-color:rgba(232,152,10,.35);box-shadow:0 26px 56px rgba(17,16,16,.10)}
+.prev{height:200px;padding:24px;display:flex;flex-direction:column;justify-content:space-between;position:relative;overflow:hidden;border-bottom:1px solid var(--border)}
+.prev .ttl{font-weight:800;font-size:34px;line-height:.95;letter-spacing:-.02em}
+.prev .ttl em{font-style:normal}
+.prev .row{display:flex;align-items:center;gap:8px}
+.prev .sw{width:26px;height:26px;border-radius:50%}
+.prev .pill{font-size:10px;letter-spacing:.14em;text-transform:uppercase;padding:5px 11px;border-radius:100px;font-weight:500}
+.prev .mono{font-size:10px;letter-spacing:.1em;opacity:.6}
+.body{padding:24px 26px 26px;display:flex;flex-direction:column;flex:1}
+.tag{font-family:var(--f-m);font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--light);margin-bottom:9px}
+.card h2{font-family:var(--f-d);font-weight:800;font-size:22px;letter-spacing:-.02em;margin-bottom:9px}
+.card p{font-size:13.5px;color:var(--mid);line-height:1.68;flex:1}
+.meta{display:flex;gap:7px;flex-wrap:wrap;margin:16px 0 18px}
+.meta span{font-family:var(--f-m);font-size:10px;letter-spacing:.04em;color:var(--mid);border:1px solid var(--border);border-radius:100px;padding:4px 9px}
+.go{display:inline-flex;align-items:center;gap:9px;margin-top:auto;font-family:var(--f-m);font-size:11px;font-weight:500;letter-spacing:.1em;text-transform:uppercase;color:var(--acc-dark)}
+.go .arr{display:inline-flex;align-items:center;justify-content:center;width:26px;height:26px;border-radius:50%;border:1px solid var(--acc);transition:.22s}
+.card:hover .go .arr{background:var(--acc);color:var(--acc-ink)}
+
+/* SERIF */
+.p-serif{background:#F7F2E7}
+.p-serif .ttl{font-family:"Fraunces",serif;color:#1B1712;font-weight:900}
+.p-serif .ttl em{color:#C2611A}
+.p-serif .sw{background:#C2611A}
+.p-serif .pill{background:#F7E9D4;color:#3A1E08}
+.p-serif .mono{font-family:"DM Mono",monospace;color:#1B1712}
+/* GROTESK */
+.p-grotesk{background:#F1F0EC}
+.p-grotesk .ttl{font-family:"Space Grotesk",sans-serif;color:#15140F;font-weight:700;letter-spacing:-.04em}
+.p-grotesk .ttl em{color:#EA5A12}
+.p-grotesk .sw{background:#EA5A12;border-radius:5px}
+.p-grotesk .pill{background:#FBE6D8;color:#3A1604;border-radius:5px}
+.p-grotesk .mono{font-family:"Space Mono",monospace;color:#15140F}
+/* BOLD */
+.p-bold{background:#FBF7F0}
+.p-bold .ttl{font-family:"Syne",sans-serif;color:#0E0D0B;font-weight:800}
+.p-bold .ttl em{color:#FF5A1F}
+.p-bold .sw{background:#FF5A1F}
+.p-bold .pill{background:#FFE6DA;color:#3A1303;border:1.5px solid #FF5A1F}
+.p-bold .mono{font-family:monospace;color:#0E0D0B}
+
+footer{padding:0 0 60px;text-align:center;color:var(--light);font-family:var(--f-m);font-size:11px}
+footer a{color:var(--mid)}
+@media(max-width:860px){.grid{grid-template-columns:1fr;max-width:460px;margin:0 auto}}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <img class="logo" src="/media/sigla-mark-visience-new-colors.avif" alt="Visience" width="160" height="30">
+    <div class="eyebrow">Variante de temă · home</div>
+    <h1>Aceeași pagină, trei haine.</h1>
+    <p class="sub">Structura, textele și pozele de pe home rămân exact ca pe original. Singurele lucruri schimbate: fontul, culorile, stroke-ul (borduri/colțuri) și spațierea. Trei direcții — alege una.</p>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="grid">
+
+    <a class="card" href="/variante/tema-serif.html">
+      <div class="prev p-serif">
+        <div class="row"><span class="mono">Aa · Fraunces</span></div>
+        <div class="ttl">Transform<em>ăm</em><br>companii.</div>
+        <div class="row"><span class="sw"></span><span class="pill">Terracotta</span></div>
+      </div>
+      <div class="body">
+        <div class="tag">Tema 01</div>
+        <h2>Editorial Serif</h2>
+        <p>Display serif elegant (Fraunces) peste un sans curat, paletă caldă ivory + terracotta, colțuri mari și mult aer. Premium, editorial, cald.</p>
+        <div class="meta"><span>Fraunces + Inter</span><span>terracotta</span><span>colțuri 28px</span><span>spațiere largă</span></div>
+        <span class="go">Deschide tema <span class="arr">→</span></span>
+      </div>
+    </a>
+
+    <a class="card" href="/variante/tema-grotesk.html">
+      <div class="prev p-grotesk">
+        <div class="row"><span class="mono">Aa · Space Grotesk</span></div>
+        <div class="ttl">Transform<em>ăm</em><br>companii.</div>
+        <div class="row"><span class="sw"></span><span class="pill">Tangerine</span></div>
+      </div>
+      <div class="body">
+        <div class="tag">Tema 02</div>
+        <h2>Modern Grotesk</h2>
+        <p>Grotesk tehnic (Space Grotesk) + Plus Jakarta Sans, paletă gri-rece neutră, portocaliu tangerine viu, colțuri ascuțite și borduri crispe. Modern, precis.</p>
+        <div class="meta"><span>Space Grotesk</span><span>tangerine</span><span>colțuri 8px</span><span>compact</span></div>
+        <span class="go">Deschide tema <span class="arr">→</span></span>
+      </div>
+    </a>
+
+    <a class="card" href="/variante/tema-bold.html">
+      <div class="prev p-bold">
+        <div class="row"><span class="mono">Aa · Syne</span></div>
+        <div class="ttl">Transform<em>ăm</em><br>companii.</div>
+        <div class="row"><span class="sw"></span><span class="pill">Coral</span></div>
+      </div>
+      <div class="body">
+        <div class="tag">Tema 03</div>
+        <h2>Bold Display</h2>
+        <p>Display îndrăzneț, de fashion (Syne) + Manrope, alb-os curat cu contrast mare, accent portocaliu-coral intens și stroke mai gros. Cu personalitate.</p>
+        <div class="meta"><span>Syne + Manrope</span><span>coral</span><span>stroke gros</span><span>contrast mare</span></div>
+        <span class="go">Deschide tema <span class="arr">→</span></span>
+      </div>
+    </a>
+
+  </div>
+</main>
+
+<footer class="wrap">
+  Home original (neatins): <a href="/">localhost:3000</a> · alegi una și o pun ca temă oficială
+</footer>
+</body>
+</html>

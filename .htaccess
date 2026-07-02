@@ -1,0 +1,139 @@
+# visience.ro — site static (Next.js export)
+
+Options -Indexes
+AddDefaultCharset UTF-8
+ErrorDocument 404 /404.html
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+# un singur hop: http / www -> https://visience.ro
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} ^www\. [NC]
+RewriteRule ^(.*)$ https://visience.ro/$1 [R=301,L]
+
+# fisierele existente (inclusiv wp-content/uploads) se servesc direct
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# sitemap-urile vechi Yoast -> sitemap-ul nou
+RewriteRule ^sitemap_index\.xml$ /sitemap.xml [R=301,L]
+RewriteRule ^(post|page|category)-sitemap\.xml$ /sitemap.xml [R=301,L]
+
+# URL-urile vechi WordPress -> paginile noi (301)
+RewriteRule ^creare-sitede-prezentare/?$ /creare-site-prezentare/ [R=301,L]
+RewriteRule ^ppc-google-meta-ads/?$ /google-meta-ads/ [R=301,L]
+RewriteRule ^seo-content-marketing/?$ /optimizare-seo/ [R=301,L]
+RewriteRule ^software-app-development/?$ /dezvoltare-software/ [R=301,L]
+RewriteRule ^pagina-multumire/?$ /multumire/ [R=301,L]
+RewriteRule ^category/articole/?$ /blog/ [R=301,L]
+RewriteRule ^category/articole/.+$ /blog/ [R=301,L]
+RewriteRule ^mobila-la-comanda-bucuresti-artesanomob/?$ /blog/mobila-la-comanda-bucuresti-artesanomob/ [R=301,L]
+RewriteRule ^creste-vizibilitatea-si-conversiile-pentru-brandul-tau-cu-extensii-de-anunturi-eficiente-in-campaniile-google-ads/?$ /blog/creste-vizibilitatea-si-conversiile-pentru-brandul-tau-cu-extensii-de-anunturi-eficiente-in-campaniile-google-ads/ [R=301,L]
+RewriteRule ^creste-profitabilitatea-afacerii-tale-prin-digitalizare/?$ /blog/creste-profitabilitatea-afacerii-tale-prin-digitalizare/ [R=301,L]
+RewriteRule ^creare-de-site-de-prezentare-si-magazin-online-pentru-antreprenori-imm-uri-bucuresti/?$ /blog/creare-de-site-de-prezentare-si-magazin-online-pentru-antreprenori-imm-uri-bucuresti/ [R=301,L]
+RewriteRule ^cum-sa-creezi-o-pagina-de-start-eficienta/?$ /blog/cum-sa-creezi-o-pagina-de-start-eficienta/ [R=301,L]
+RewriteRule ^cat-costa-un-site-web/?$ /blog/cat-costa-un-site-web/ [R=301,L]
+RewriteRule ^construind-o-identitate-distinctiva-un-chestionar-cuprinzator-pentru-designul-de-logo/?$ /blog/construind-o-identitate-distinctiva-un-chestionar-cuprinzator-pentru-designul-de-logo/ [R=301,L]
+RewriteRule ^crafting-a-distinctive-identity-a-comprehensive-logo-design-questionnaire/?$ /blog/crafting-a-distinctive-identity-a-comprehensive-logo-design-questionnaire/ [R=301,L]
+RewriteRule ^de-ce-trebuie-sa-intri-cu-toate-fortele-in-marketing/?$ /blog/de-ce-trebuie-sa-intri-cu-toate-fortele-in-marketing/ [R=301,L]
+RewriteRule ^universal-design-methods/?$ /blog/universal-design-methods/ [R=301,L]
+RewriteRule ^metode-universale-de-design/?$ /blog/metode-universale-de-design/ [R=301,L]
+RewriteRule ^cat-costa-sa-construiesc-un-website/?$ /blog/cat-costa-sa-construiesc-un-website/ [R=301,L]
+RewriteRule ^ce-costuri-sunt-implicate-in-crearea-si-intretinerea-unui-website/?$ /blog/ce-costuri-sunt-implicate-in-crearea-si-intretinerea-unui-website/ [R=301,L]
+RewriteRule ^cum-fac-sa-ajunga-mai-multi-oameni-pe-site-ul-meu/?$ /blog/cum-fac-sa-ajunga-mai-multi-oameni-pe-site-ul-meu/ [R=301,L]
+RewriteRule ^designul-ux-construirea-unui-spatiu-pentru-experiente-memorabile/?$ /blog/designul-ux-construirea-unui-spatiu-pentru-experiente-memorabile/ [R=301,L]
+RewriteRule ^dupa-ce-am-facut-site-cine-se-ocupa-de-el/?$ /blog/dupa-ce-am-facut-site-cine-se-ocupa-de-el/ [R=301,L]
+RewriteRule ^pentru-ce-ai-nevoie-de-un-website/?$ /blog/pentru-ce-ai-nevoie-de-un-website/ [R=301,L]
+RewriteRule ^puterea-inovatiei-digitale-de-ce-un-site-web-devine-un-avantaj-esential-in-fata-unui-magazin-fizic-traditional/?$ /blog/puterea-inovatiei-digitale-de-ce-un-site-web-devine-un-avantaj-esential-in-fata-unui-magazin-fizic-traditional/ [R=301,L]
+RewriteRule ^simplificarea-si-claritatea-cheia-succesului-in-designul-ux/?$ /blog/simplificarea-si-claritatea-cheia-succesului-in-designul-ux/ [R=301,L]
+RewriteRule ^tot-ce-trebuie-sa-stii-ca-antreprenor/?$ /blog/tot-ce-trebuie-sa-stii-ca-antreprenor/ [R=301,L]
+RewriteRule ^website-ul-ca-o-experienta-unica-reguli-de-ux-cognitive-bias-si-landing-page/?$ /blog/website-ul-ca-o-experienta-unica-reguli-de-ux-cognitive-bias-si-landing-page/ [R=301,L]
+RewriteRule ^cum-sa-ti-pui-afacerea-online-cu-succes/?$ /blog/cum-sa-ti-pui-afacerea-online-cu-succes/ [R=301,L]
+RewriteRule ^strategia-de-brand-construirea-unei-identitati-durabile-si-de-succes/?$ /blog/strategia-de-brand-construirea-unei-identitati-durabile-si-de-succes/ [R=301,L]
+RewriteRule ^servicii-web-design-iasi-creare-site-iasi-realizare-magazin-online-seo/?$ /blog/servicii-web-design-iasi-creare-site-iasi-realizare-magazin-online-seo/ [R=301,L]
+RewriteRule ^cele-mai-eficiente-metode-de-fidelizare-a-consumatorilor-romani-in-contexul-inflatiei/?$ /blog/cele-mai-eficiente-metode-de-fidelizare-a-consumatorilor-romani-in-contexul-inflatiei/ [R=301,L]
+RewriteRule ^expunerea-unui-nou-trend-de-marketing-cum-firmele-folosesc-creatori-de-continut-falsi-pentru-a-si-promova-propriile-produse/?$ /blog/expunerea-unui-nou-trend-de-marketing-cum-firmele-folosesc-creatori-de-continut-falsi-pentru-a-si-promova-propriile-produse/ [R=301,L]
+RewriteRule ^firma-creare-site-firma-contabilitate/?$ /blog/firma-creare-site-firma-contabilitate/ [R=301,L]
+RewriteRule ^firma-creare-site-pensiune-turistica-site-pensiune-turistica/?$ /blog/firma-creare-site-pensiune-turistica-site-pensiune-turistica/ [R=301,L]
+RewriteRule ^firma-creare-site-scoala-liceu-firma-cursuri/?$ /blog/firma-creare-site-scoala-liceu-firma-cursuri/ [R=301,L]
+RewriteRule ^site-dentist-clinica-stomatologica/?$ /blog/site-dentist-clinica-stomatologica/ [R=301,L]
+RewriteRule ^site-firma-constructii-creare-firma-constructii/?$ /blog/site-firma-constructii-creare-firma-constructii/ [R=301,L]
+RewriteRule ^site-firma-paza-creare-site-firma-paza/?$ /blog/site-firma-paza-creare-site-firma-paza/ [R=301,L]
+RewriteRule ^site-firma-reparatii-acoperis-creare-site-firma-montaj-acoperis/?$ /blog/site-firma-reparatii-acoperis-creare-site-firma-montaj-acoperis/ [R=301,L]
+RewriteRule ^creare-site-si-magazin-online/?$ /blog/creare-site-si-magazin-online/ [R=301,L]
+RewriteRule ^site-agentie-imobiliara-creare-site-agentie-imobiliara/?$ /blog/site-agentie-imobiliara-creare-site-agentie-imobiliara/ [R=301,L]
+RewriteRule ^site-agentii-de-turism-creare-site-pentru-agentii-de-turism/?$ /blog/site-agentii-de-turism-creare-site-pentru-agentii-de-turism/ [R=301,L]
+RewriteRule ^firma-webdesign-creare-site-in-bucuresti-creare-magazin-online-in-bucuresti/?$ /blog/firma-webdesign-creare-site-in-bucuresti-creare-magazin-online-in-bucuresti/ [R=301,L]
+RewriteRule ^sfaturi-magazin-online/?$ /blog/sfaturi-magazin-online/ [R=301,L]
+RewriteRule ^cei-3m-din-marketing/?$ /blog/cei-3m-din-marketing/ [R=301,L]
+RewriteRule ^the-3m-of-marketing/?$ /blog/the-3m-of-marketing/ [R=301,L]
+RewriteRule ^firma-webdesign-creare-site-in-iasi-creare-magazin-online-in-iasi/?$ /blog/firma-webdesign-creare-site-in-iasi-creare-magazin-online-in-iasi/ [R=301,L]
+RewriteRule ^agentie-web-design-iasi/?$ /blog/agentie-web-design-iasi/ [R=301,L]
+RewriteRule ^cresterea-verticala-vs-orizontala-pe-retelele-de-socializare-pe-care-ar-trebui-sa-i-acordati-prioritate/?$ /blog/cresterea-verticala-vs-orizontala-pe-retelele-de-socializare-pe-care-ar-trebui-sa-i-acordati-prioritate/ [R=301,L]
+RewriteRule ^transform-your-website-with-high-quality-images-discover-3-free-image-upscaling-tools-now/?$ /blog/transform-your-website-with-high-quality-images-discover-3-free-image-upscaling-tools-now/ [R=301,L]
+RewriteRule ^revolutionati-va-marketingul-in-retelele-sociale-de-ce-cel-mai-recent-anunt-al-instagram-este-irelevant-si-tiktok-este-noua-voastra-arma-secreta/?$ /blog/revolutionati-va-marketingul-in-retelele-sociale-de-ce-cel-mai-recent-anunt-al-instagram-este-irelevant-si-tiktok-este-noua-voastra-arma-secreta/ [R=301,L]
+RewriteRule ^practic-vs-frumusete-in-design-de-pliante/?$ /blog/practic-vs-frumusete-in-design-de-pliante/ [R=301,L]
+RewriteRule ^ascensiunea-si-caderea-blandingului-aparitia-maximalismului-patrimoniului-in-branding/?$ /blog/ascensiunea-si-caderea-blandingului-aparitia-maximalismului-patrimoniului-in-branding/ [R=301,L]
+RewriteRule ^cum-promovezi-o-afacere-locala/?$ /blog/cum-promovezi-o-afacere-locala/ [R=301,L]
+RewriteRule ^top-10-lucruri-esentiale-pe-care-le-face-un-manager-de-social-media-pentru-a-obtine-succes-in-marketingul-digital/?$ /blog/top-10-lucruri-esentiale-pe-care-le-face-un-manager-de-social-media-pentru-a-obtine-succes-in-marketingul-digital/ [R=301,L]
+RewriteRule ^10-proven-strategies-for-boosting-your-business-with-loyalty-points-and-bonuses-an-entrepreneurs-guide/?$ /blog/10-proven-strategies-for-boosting-your-business-with-loyalty-points-and-bonuses-an-entrepreneurs-guide/ [R=301,L]
+RewriteRule ^importanta-unui-newsletter-bine-configurat-in-wordpress-exemple-de-plugin-uri-si-tipuri-de-mailuri-pentru-clienti/?$ /blog/importanta-unui-newsletter-bine-configurat-in-wordpress-exemple-de-plugin-uri-si-tipuri-de-mailuri-pentru-clienti/ [R=301,L]
+RewriteRule ^10-moduri-de-imbunatatire-a-retentiei-clientilor-pentru-a-ti-dezvolta-afacerea/?$ /blog/10-moduri-de-imbunatatire-a-retentiei-clientilor-pentru-a-ti-dezvolta-afacerea/ [R=301,L]
+RewriteRule ^campaniile-ppc-de-succes-cum-sa-masori-eficienta-si-sa-obtii-cele-mai-bune-rezultate/?$ /blog/campaniile-ppc-de-succes-cum-sa-masori-eficienta-si-sa-obtii-cele-mai-bune-rezultate/ [R=301,L]
+RewriteRule ^cinci-greseli-comune-in-campaniile-de-facebook-ads-si-cum-le-poti-evita/?$ /blog/cinci-greseli-comune-in-campaniile-de-facebook-ads-si-cum-le-poti-evita/ [R=301,L]
+RewriteRule ^cum-sa-creezi-continut-pentru-a-maximiza-rata-de-conversie/?$ /blog/cum-sa-creezi-continut-pentru-a-maximiza-rata-de-conversie/ [R=301,L]
+RewriteRule ^optimizarea-imaginilor-pentru-seo-importanta-sfaturi-si-instrumente-pentru-imbunatatirea-performantelor-site-ului-dumneavoastra/?$ /blog/optimizarea-imaginilor-pentru-seo-importanta-sfaturi-si-instrumente-pentru-imbunatatirea-performantelor-site-ului-dumneavoastra/ [R=301,L]
+RewriteRule ^amprenta-ta-online/?$ /blog/amprenta-ta-online/ [R=301,L]
+RewriteRule ^10-pasi-pentru-construirea-unui-magazin-online-de-la-zero/?$ /blog/10-pasi-pentru-construirea-unui-magazin-online-de-la-zero/ [R=301,L]
+RewriteRule ^10-sfaturi-despre-campaniile-de-remarketing-si-importanta-lor/?$ /blog/10-sfaturi-despre-campaniile-de-remarketing-si-importanta-lor/ [R=301,L]
+RewriteRule ^10-sfaturi-esentiale-pentru-a-reusi-in-mediul-online-pentru-antreprenori/?$ /blog/10-sfaturi-esentiale-pentru-a-reusi-in-mediul-online-pentru-antreprenori/ [R=301,L]
+RewriteRule ^11-instrumente-pentru-traficului-pentru-magazinul-tau-online/?$ /blog/11-instrumente-pentru-traficului-pentru-magazinul-tau-online/ [R=301,L]
+RewriteRule ^13-instrumente-de-analizarea-performantei-magazinului-tau-online/?$ /blog/13-instrumente-de-analizarea-performantei-magazinului-tau-online/ [R=301,L]
+RewriteRule ^13-modalitati-creative-de-a-va-promova-site-ul-de-prezentare/?$ /blog/13-modalitati-creative-de-a-va-promova-site-ul-de-prezentare/ [R=301,L]
+RewriteRule ^15-motive-pentru-care-sa-iti-construiesti-magazinul-online-cu-wordpress/?$ /blog/15-motive-pentru-care-sa-iti-construiesti-magazinul-online-cu-wordpress/ [R=301,L]
+RewriteRule ^17-resursele-necesare-pentru-lansarea-unei-firme-de-succes/?$ /blog/17-resursele-necesare-pentru-lansarea-unei-firme-de-succes/ [R=301,L]
+RewriteRule ^5-motive-pentru-care-ai-nevoie-pentru-un-rebrand/?$ /blog/5-motive-pentru-care-ai-nevoie-pentru-un-rebrand/ [R=301,L]
+RewriteRule ^7-diferente-dintre-un-logo-si-un-brand-de-ce-e-bine-sa-le-stii/?$ /blog/7-diferente-dintre-un-logo-si-un-brand-de-ce-e-bine-sa-le-stii/ [R=301,L]
+RewriteRule ^7-moduri-de-a-va-maximiza-numarul-de-vizualizari-a-continutului/?$ /blog/7-moduri-de-a-va-maximiza-numarul-de-vizualizari-a-continutului/ [R=301,L]
+RewriteRule ^branding-si-de-ce-este-important-pentru-afaceri/?$ /blog/branding-si-de-ce-este-important-pentru-afaceri/ [R=301,L]
+RewriteRule ^cele-mai-bune-practici-pentru-masurarea-impactului-brandingului-tau/?$ /blog/cele-mai-bune-practici-pentru-masurarea-impactului-brandingului-tau/ [R=301,L]
+RewriteRule ^colaborarea-cu-influencerii-pentru-a-va-promova-brandul/?$ /blog/colaborarea-cu-influencerii-pentru-a-va-promova-brandul/ [R=301,L]
+RewriteRule ^creare-site-web-design-iasi-oferta-pret-site/?$ /blog/creare-site-web-design-iasi-oferta-pret-site/ [R=301,L]
+RewriteRule ^cum-optimizezi-magazinului-tau-online-pentru-dispozitivele-mobile/?$ /blog/cum-optimizezi-magazinului-tau-online-pentru-dispozitivele-mobile/ [R=301,L]
+RewriteRule ^cum-sa-obtii-trafic-si-sa-cresti-vizibilitatea-brandului/?$ /blog/cum-sa-obtii-trafic-si-sa-cresti-vizibilitatea-brandului/ [R=301,L]
+RewriteRule ^de-ce-este-important-sa-postati-pe-retelele-sociale-si-care-pot-fi-consecintele-daca-nu-o-faceti/?$ /blog/de-ce-este-important-sa-postati-pe-retelele-sociale-si-care-pot-fi-consecintele-daca-nu-o-faceti/ [R=301,L]
+RewriteRule ^diferenta-dintre-shopify-si-wordpress/?$ /blog/diferenta-dintre-shopify-si-wordpress/ [R=301,L]
+RewriteRule ^elaborarea-de-strategii-pentru-a-pastra-clientii-si-a-creste-vanzarile/?$ /blog/elaborarea-de-strategii-pentru-a-pastra-clientii-si-a-creste-vanzarile/ [R=301,L]
+RewriteRule ^importanta-backlinks-urilor-in-seo/?$ /blog/importanta-backlinks-urilor-in-seo/ [R=301,L]
+RewriteRule ^importanta-contului-google-business-pentru-afaceri/?$ /blog/importanta-contului-google-business-pentru-afaceri/ [R=301,L]
+RewriteRule ^promovare-online-in-2023/?$ /blog/promovare-online-in-2023/ [R=301,L]
+RewriteRule ^seo-si-marketing-digital-de-ce-seo-este-esential-pentru-succesul-in-afaceri-online/?$ /blog/seo-si-marketing-digital-de-ce-seo-este-esential-pentru-succesul-in-afaceri-online/ [R=301,L]
+RewriteRule ^creare-site-in-dorohoi-creare-magazin-online-in-dorohoi/?$ /creare-magazin-online/ [R=301,L]
+RewriteRule ^firma-webdesign-creare-site-in-bacau-creare-magazin-online-in-bacau/?$ /creare-magazin-online/ [R=301,L]
+</IfModule>
+
+<IfModule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/html text/css text/plain text/xml application/javascript application/json image/svg+xml
+</IfModule>
+
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType text/html "access plus 10 minutes"
+ExpiresByType text/css "access plus 1 year"
+ExpiresByType application/javascript "access plus 1 year"
+ExpiresByType image/avif "access plus 1 year"
+ExpiresByType image/webp "access plus 1 year"
+ExpiresByType image/png "access plus 1 year"
+ExpiresByType image/jpeg "access plus 1 year"
+ExpiresByType image/svg+xml "access plus 1 year"
+ExpiresByType video/webm "access plus 1 year"
+ExpiresByType font/woff2 "access plus 1 year"
+</IfModule>
+
+<IfModule mod_headers.c>
+<FilesMatch "\.(avif|webp|png|jpe?g|svg|webm|woff2|css|js)$">
+Header set Cache-Control "public, max-age=31536000, immutable"
+</FilesMatch>
+</IfModule>

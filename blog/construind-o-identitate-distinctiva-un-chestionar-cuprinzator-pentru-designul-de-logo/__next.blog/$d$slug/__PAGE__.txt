@@ -1,0 +1,165 @@
+1:"$Sreact.fragment"
+7:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["/_next/static/chunks/1mvqsvr3qlqt5.css","style"]
+2:T4e9,{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://visience.ro/blog/construind-o-identitate-distinctiva-un-chestionar-cuprinzator-pentru-designul-de-logo/#article","headline":"Construind o Identitate Distinctivă: Un Chestionar Cuprinzător pentru Designul de Logo","description":"Construind o Identitate Distinctivă Un Chestionar Cuprinzător pentru Designul de Logo Designul de logo este un element esențial în stabilirea și promovarea id","datePublished":"2023-12-28","dateModified":"2023-12-28","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#organization"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/construind-o-identitate-distinctiva-un-chestionar-cuprinzator-pentru-designul-de-logo/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Construind o Identitate Distinctivă: Un Chestionar Cuprinzător pentru Designul de Logo","item":"https://visience.ro/blog/construind-o-identitate-distinctiva-un-chestionar-cuprinzator-pentru-designul-de-logo/"}]}]}3:Td50,<h2>Construind o Identitate Distinctivă </h2>
+<h3>Un Chestionar Cuprinzător pentru Designul de Logo</h3>
+<ol>
+<li>
+<p>Designul de logo este un element esențial în stabilirea și promovarea identității brandului tău. Pentru a asigura o colaborare fluentă și pentru a crea un logo care se aliniază viziunii tale, am dezvoltat un chestionar cuprinzător. Răspunsurile tale vor servi ca bază pentru procesul nostru de design, facilitând o comunicare clară și o înțelegere profundă a brandului tău. Te rugăm să-ți rezervi un moment pentru a ne împărtăși perspectivele:</p>
+<hr/>
+<h3>AFACEREA TA</h3>
+<ol>
+<li>
+<p>Care este numele afacerii tale?</p>
+<ul>
+<li>[Răspunsul tău]</li>
+</ul>
+</li>
+<li>
+<p>Descrie într-o singură frază afacerea/serviciul tău:</p>
+<ul>
+<li>[Răspunsul tău]</li>
+</ul>
+</li>
+<li>
+<p>Dacă nu ești la început de drum cu afacerea – de ce dorești un logo nou?</p>
+<ul>
+<li>[Răspunsul tău]</li>
+</ul>
+</li>
+<li>
+<p>Care sunt obiectivele afacerii tale pe termen scurt, mediu și lung?</p>
+<ul>
+<li>[Răspunsul tău]</li>
+</ul>
+</li>
+<li>
+<p>Ce dorești să realizeze noul tău logo?</p>
+<ul>
+<li>[Răspunsul tău]</li>
+</ul>
+</li>
+<li>
+<p>Care sunt principalii tăi concurenți și în ce fel te diferențiezi de ei?</p>
+<ul>
+<li>[Răspunsul tău]</li>
+</ul>
+</li>
+<li>
+<p>Ce îți place sau nu îți place la branding-ul competitorilor tăi?</p>
+<ul>
+<li>[Răspunsul tău]</li>
+</ul>
+</li>
+<li>
+<p>Care sunt potențialii tăi clienți?</p>
+<ul>
+<li>[Răspunsul tău]</li>
+</ul>
+</li>
+<li>
+<p>Unde va fi promovată afacerea ta?</p>
+<ul>
+<li>[Răspunsul tău]</li>
+</ul>
+</li>
+</ol>
+<hr/>
+<h3>LOGO-UL TĂU</h3>
+<ol>
+<li>
+<p>Ai o idee specifică pentru logo-ul tău?</p>
+<ul>
+<li>[Răspunsul tău]</li>
+</ul>
+</li>
+<li>
+<p>Dorești să folosești culori de brand existente sau o anumită gamă de culori?</p>
+<ul>
+<li>[Răspunsul tău]</li>
+</ul>
+</li>
+<li>
+<p>Există culori pe care cu siguranță nu dorești să le folosești?</p>
+<ul>
+<li>[Răspunsul tău]</li>
+</ul>
+</li>
+<li>
+<p>Ai o anumită tipografie pe care vrei să o folosești – sau pe care cu siguranță nu vrei să o folosești?</p>
+<ul>
+<li>[Răspunsul tău]</li>
+</ul>
+</li>
+<li>
+<p>Ce cuvinte ar trebui să descrie logo-ul tău?</p>
+<ul>
+<li>[Răspunsul tău]</li>
+</ul>
+</li>
+<li>
+<p>Ce mesaj sau emoție dorești să transmită logo-ul tău?</p>
+<ul>
+<li>[Răspunsul tău]</li>
+</ul>
+</li>
+<li>
+<p>Logo-ul tău are un slogan?</p>
+<ul>
+<li>[Răspunsul tău]</li>
+</ul>
+</li>
+<li>
+<p>Sloganul tău va apărea alături de logo pe toate materialele de branding?</p>
+<ul>
+<li>[Răspunsul tău]</li>
+</ul>
+</li>
+<li>
+<p>Unde va fi folosit logo-ul tău?</p>
+<ul>
+<li>[Răspunsul tău]</li>
+</ul>
+</li>
+<li>
+<p>Ce logo-uri îți plac și de ce?</p>
+<ul>
+<li>[Răspunsul tău]</li>
+</ul>
+</li>
+</ol>
+<hr/>
+<h3>DETALII PRACTICE!</h3>
+<ol>
+<li>
+<p>Dorești ca logo-ul tău să fie pregătit pentru web sau print?</p>
+<ul>
+<li>[Răspunsul tău]</li>
+</ul>
+</li>
+<li>
+<p>Care este bugetul tău?</p>
+<ul>
+<li>[Răspunsul tău]</li>
+</ul>
+</li>
+<li>
+<p>Dorești servicii de design suplimentare alături de noul tău logo? (ex. cărți de vizită, antete și alte materiale de papetărie, iconițe/bannere pentru rețelele sociale, materiale publicitare etc.)</p>
+<ul>
+<li>[Răspunsul tău]</li>
+</ul>
+</li>
+<li>
+<p>Alte comentarii?</p>
+<ul>
+<li>[Răspunsul tău]</li>
+</ul>
+</li>
+</ol>
+</li>
+</ol>0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Construind o Identitate Distinctivă: Un Chestionar Cuprinzător pentru Designul de Logo"}],["$","div",null,{"className":"blog-article__meta","children":[["$","time",null,{"dateTime":"2023-12-28","children":"28 decembrie 2023"}],["$","span",null,{"className":"blog-article__author","children":"de echipa Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}]}]],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XLiQQktmqJoG3-3IBETrL"}
+4:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
+5:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1mvqsvr3qlqt5.css","precedence":"next"}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

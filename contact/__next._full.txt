@@ -1,0 +1,805 @@
+1:"$Sreact.fragment"
+b:I[68027,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"default",1]
+:HL["/_next/static/chunks/3b23shbd_73w9.css","style"]
+:HL["/_next/static/media/017d9bea37084d9b-s.p.41rroleoq1br7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/26daee0352f50a5f-s.p.2e115y8-hourl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/36363bfb06833f56-s.p.38hmww4cj4vme.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5c285b27cdda1fe8-s.p.2_mbdogr7ni8i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a73419dd2ba2d841-s.p.2yee423r7ahpo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b12e986493c137cf-s.p.2njitm-prmz2_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b2fa3ef4ca165ab4-s.p.12_ml6bnugnre.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c3cb240f9c892514-s.p.3z_x6eowsw16y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css","style"]
+2:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}3:Tb9a,<header class="nav" id="nav" role="banner">
+  <div class="wrap nav__in">
+    <a href="/" class="nav__logo" aria-label="Visience — Acasă">
+      <img class="nav__logo-img nav__logo-img--light" src="/media/sigla-mark-visience-new-colors.avif"
+           alt="Visience" width="160" height="30" fetchpriority="high">
+      <img class="nav__logo-img nav__logo-img--dark" src="/media/sigla-visience-dark.avif"
+           alt="" aria-hidden="true" width="160" height="30">
+    </a>
+
+    <nav class="nav__links" aria-label="Navigare principală">
+      <div class="nav__has-drop">
+        <a href="/#servicii">Servicii</a>
+        <div class="nav__drop">
+          <a href="/creare-site-prezentare/">Creare site de prezentare</a>
+          <a href="/creare-magazin-online/">Creare magazin online</a>
+          <a href="/branding-identitate-vizuala/">Branding &amp; identitate</a>
+          <a href="/social-media-management/">Social media</a>
+          <a href="/google-meta-ads/">Google &amp; Meta Ads</a>
+          <a href="/optimizare-seo/">SEO &amp; content</a>
+          <a href="/dezvoltare-software/">Dezvoltare software</a>
+          <a href="/marketing-dezvoltatori-imobiliari/">Marketing imobiliar</a>
+        </div>
+      </div>
+      <a href="/portofoliu/">Proiecte</a>
+      <a href="/preturi/">Prețuri</a>
+      <a href="/blog/">Blog</a>
+      <a href="/#rezultate">Rezultate</a>
+      <a href="/#despre">Despre</a>
+      <a href="/contact/">Contact</a>
+    </nav>
+
+    <a href="/#contact" class="nav__cta">Solicită ofertă</a>
+
+    <button class="nav__burger" id="navBurger"
+            aria-label="Deschide meniul" aria-expanded="false" aria-controls="navMob">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<nav class="nav__mob" id="navMob" aria-label="Meniu mobil">
+  <a href="/#servicii"  class="nm-l">Servicii</a>
+  <a href="/creare-site-prezentare/" class="nm-l nm-sub">Creare site de prezentare</a>
+  <a href="/creare-magazin-online/" class="nm-l nm-sub">Creare magazin online</a>
+  <a href="/branding-identitate-vizuala/" class="nm-l nm-sub">Branding &amp; identitate</a>
+  <a href="/social-media-management/" class="nm-l nm-sub">Social media</a>
+  <a href="/google-meta-ads/" class="nm-l nm-sub">Google &amp; Meta Ads</a>
+  <a href="/optimizare-seo/" class="nm-l nm-sub">SEO &amp; content</a>
+  <a href="/dezvoltare-software/" class="nm-l nm-sub">Dezvoltare software</a>
+  <a href="/marketing-dezvoltatori-imobiliari/" class="nm-l nm-sub">Marketing imobiliar</a>
+  <a href="/portofoliu/"  class="nm-l">Proiecte</a>
+  <a href="/preturi/"    class="nm-l">Prețuri</a>
+  <a href="/blog/"       class="nm-l">Blog</a>
+  <a href="/#rezultate" class="nm-l">Rezultate</a>
+  <a href="/#despre"    class="nm-l">Despre</a>
+  <a href="/contact/"    class="nm-l">Contact</a>
+  <a href="/#contact" class="btn btn-solid" style="margin-top:8px">Solicită ofertă</a>
+</nav>
+0:{"P":null,"c":["","contact",""],"q":"","i":false,"f":[[["",{"children":["contact",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0a_4n0l8z1myf.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"bricolage_grotesque_4d7004bd-module__Hoo0MG__variable dm_sans_371c950d-module__4cga4q__variable dm_mono_6c018cca-module__6UXbpq__variable","children":[["$","head",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5","$L6"]}]]}]]}],{"children":["$L7",{"children":["$L8",{},null,false,null]},null,false,"$@9"]},null,false,null],"$La",false]],"m":"$undefined","G":["$b",["$Lc"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"XLiQQktmqJoG3-3IBETrL"}
+d:I[39756,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
+e:I[37457,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
+10:I[27961,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
+14:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"ViewportBoundary"]
+16:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"MetadataBoundary"]
+17:"$Sreact.suspense"
+4:["$","$Ld",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Le",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
+f:T13f0,<footer class="footer" role="contentinfo">
+  <div class="wrap">
+
+    <div class="footer__grid">
+
+      <div>
+        <div class="footer__logo">
+          <img src="/media/sigla-mark-visience-new-colors.avif"
+               alt="Visience" width="148" height="28" loading="lazy">
+        </div>
+
+        <p class="footer__brand">
+          Agenție de marketing digital cu 12 ani de experiență. Transformăm imaginea companiilor prin branding, website, social media și marketing precis configurat.
+        </p>
+
+        <p class="footer__trust">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M20 6 9 17l-5-5"/>
+          </svg>
+          Prețuri publice, fără costuri ascunse — <a href="/preturi/">vezi prețurile</a>.
+        </p>
+
+        <div class="footer__contact">
+          <a href="tel:+40771486499">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.67A2 2 0 012 .92h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L6.91 8.09a16 16 0 006 6l1.27-.83a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/>
+            </svg>
+            +40 771 486 499
+          </a>
+          <a href="mailto:contact@visience.ro">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+              <polyline points="22,6 12,13 2,6"/>
+            </svg>
+            contact@visience.ro
+          </a>
+        </div>
+
+        <div class="footer__anpc">
+          <a class="anpc-b" href="https://anpc.ro/" target="_blank" rel="noopener noreferrer"
+             aria-label="ANPC — Autoritatea Națională pentru Protecția Consumatorilor">
+            <img src="https://anpc.ro/wp-content/themes/anpc/img/anpc_logo.png"
+                 alt="ANPC" width="50" height="18" loading="lazy"
+                 onerror="this.style.display='none'">
+            ANPC
+          </a>
+          <a class="anpc-b" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage"
+             target="_blank" rel="noopener noreferrer"
+             aria-label="SOL — Soluționare Online a Litigiilor">
+            SOL
+          </a>
+        </div>
+      </div>
+
+      <nav aria-label="Servicii">
+        <div class="footer__col-title">Servicii</div>
+        <ul class="footer__links">
+          <li><a href="/creare-site-prezentare/">Creare site de prezentare</a></li>
+          <li><a href="/creare-site-prezentare-iasi/">Creare site de prezentare Iași</a></li>
+          <li><a href="/creare-magazin-online/">Creare magazin online</a></li>
+          <li><a href="/branding-identitate-vizuala/">Branding &amp; identitate</a></li>
+          <li><a href="/social-media-management/">Social Media</a></li>
+          <li><a href="/google-meta-ads/">Google &amp; Meta Ads</a></li>
+          <li><a href="/optimizare-seo/">SEO &amp; Content</a></li>
+          <li><a href="/dezvoltare-software/">Dezvoltare software</a></li>
+          <li><a href="/marketing-dezvoltatori-imobiliari/">Marketing imobiliar</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Companie">
+        <div class="footer__col-title">Companie</div>
+        <ul class="footer__links">
+          <li><a href="/portofoliu/">Portofoliu</a></li>
+          <li><a href="/parteneri/">Parteneri</a></li>
+          <li><a href="/blog/">Blog</a></li>
+          <li><a href="/preturi/">Prețuri</a></li>
+          <li><a href="/#rezultate">Studii de caz</a></li>
+          <li><a href="/#despre">Despre noi</a></li>
+          <li><a href="/contact/">Contact</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Legal">
+        <div class="footer__col-title">Legal &amp; GDPR</div>
+        <ul class="footer__links">
+          <li><a href="/termeni-si-conditii/">Termeni și Condiții</a></li>
+          <li><a href="/politica-de-confidentialitate/">Politică Confidențialitate</a></li>
+          <li><a href="/politica-cookies/">Politică Cookies</a></li>
+        </ul>
+      </nav>
+
+    </div>
+
+    <div class="footer__bottom">
+      <div class="footer__bottom-in">
+        <p class="footer__copy">
+          © 2026 Visience Creative Experience SRL · Toate drepturile rezervate
+        </p>
+        <div class="footer__legal">
+          <a href="/termeni-si-conditii/">Termeni</a>
+          <a href="/politica-de-confidentialitate/">Confidențialitate</a>
+          <a href="/politica-cookies/">Cookies</a>
+          <a href="/gdpr/">GDPR</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</footer>
+5:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}]
+6:["$","$L10",null,{}]
+7:["$","$1","c",{"children":[null,["$","$Ld",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Le",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+11:T497e,<style>
+.ct-hero {
+  position: relative;
+  padding: calc(var(--nav-h) + 80px) 0 60px;
+  background: var(--cream);
+  overflow: hidden;
+}
+.ct-hero__inner {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  max-width: 780px;
+  margin: 0 auto;
+}
+.ct-hero__breadcrumbs {
+  font-family: var(--f-m);
+  font-size: 11px;
+  color: var(--mid);
+  letter-spacing: .06em;
+  margin-bottom: 22px;
+}
+.ct-hero__breadcrumbs a       { color: var(--mid); transition: color .2s; }
+.ct-hero__breadcrumbs a:hover { color: var(--acc); }
+.ct-hero__breadcrumbs .sep    { margin: 0 10px; opacity: .4; }
+
+.ct-hero__h1 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(46px, 8vw, 110px);
+  line-height: .95;
+  letter-spacing: -.04em;
+  color: var(--ink);
+  margin-bottom: 22px;
+}
+.ct-hero__h1 .acc {
+  font-weight: 300;
+  font-style: italic;
+  color: var(--mid);
+}
+.ct-hero__lead {
+  font-size: 18px;
+  line-height: 1.78;
+  color: var(--mid);
+  font-weight: 300;
+  max-width: 580px;
+  margin: 0 auto;
+}
+.ct-hero__lead strong { color: var(--ink); font-weight: 600; }
+
+.ct-main {
+  padding: 70px 0 100px;
+  background: var(--white);
+}
+.ct-grid {
+  display: grid;
+  grid-template-columns: 1fr 1.1fr;
+  gap: 70px;
+  align-items: start;
+}
+
+.ct-info {
+  position: sticky;
+  top: calc(var(--nav-h) + 30px);
+}
+
+.ct-info__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(28px, 3.4vw, 40px);
+  line-height: 1.05;
+  letter-spacing: -.02em;
+  color: var(--ink);
+  margin-bottom: 14px;
+}
+.ct-info__h2 .acc { color: var(--acc); }
+.ct-info__p {
+  font-size: 16px;
+  line-height: 1.78;
+  color: var(--mid);
+  font-weight: 300;
+  margin-bottom: 18px;
+}
+.ct-info__p strong { color: var(--ink); font-weight: 600; }
+.ct-map { margin-top: 30px; }
+.ct-map__lbl { font-family: var(--f-m); font-size: 10px; letter-spacing: .14em; text-transform: uppercase; color: var(--acc-dark); margin-bottom: 8px; }
+.ct-map__addr { font-size: 14px; color: var(--mid); margin-bottom: 14px; line-height: 1.6; }
+.ct-map__addr strong { color: var(--ink); font-weight: 600; }
+.ct-map__embed { border: 1px solid var(--border); border-radius: 14px; overflow: hidden; line-height: 0; }
+.ct-map__embed iframe { display: block; width: 100%; }
+
+.ct-channels {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin: 32px 0;
+}
+.ct-channel {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 18px 22px;
+  background: var(--cream);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  transition: .25s;
+}
+.ct-channel:hover {
+  border-color: var(--acc);
+  background: var(--acc-bg);
+  transform: translateX(4px);
+}
+.ct-channel__icon {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: var(--white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  border: 1px solid var(--border);
+  transition: .25s;
+}
+.ct-channel:hover .ct-channel__icon {
+  background: var(--acc);
+  border-color: var(--acc);
+}
+.ct-channel:hover .ct-channel__icon svg {
+  stroke: var(--acc-ink);
+  fill: var(--acc-ink);
+}
+.ct-channel__txt {
+  flex: 1;
+  min-width: 0;
+}
+.ct-channel__lbl {
+  font-family: var(--f-m);
+  font-size: 10px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--mid);
+  margin-bottom: 4px;
+}
+.ct-channel__val {
+  font-family: var(--f-d);
+  font-size: 17px;
+  font-weight: 700;
+  color: var(--ink);
+  letter-spacing: -.01em;
+  line-height: 1.2;
+  word-break: break-all;
+}
+.ct-channel__arrow {
+  flex-shrink: 0;
+  color: var(--light);
+  transition: .25s;
+}
+.ct-channel:hover .ct-channel__arrow {
+  color: var(--acc);
+  transform: translate(3px, -3px);
+}
+
+.ct-tip {
+  background: var(--ink);
+  border-radius: var(--rlg);
+  padding: 28px 28px;
+  position: relative;
+  overflow: hidden;
+  margin-top: 8px;
+}
+.ct-tip::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, var(--acc) 0%, var(--acc2) 60%, transparent 100%);
+}
+.ct-tip__lbl {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--f-m);
+  font-size: 10px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--acc2);
+  margin-bottom: 14px;
+}
+.ct-tip__lbl::before {
+  content: '';
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  background: var(--acc2);
+}
+.ct-tip__h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: -.012em;
+  color: var(--white);
+  margin-bottom: 14px;
+  line-height: 1.3;
+}
+.ct-tip__list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+}
+.ct-tip__list li {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 14px;
+  color: rgba(255,255,255,.7);
+  font-weight: 300;
+  line-height: 1.55;
+}
+.ct-tip__list li::before {
+  content: '';
+  width: 5px; height: 5px;
+  background: var(--acc2);
+  border-radius: 50%;
+  margin-top: 9px;
+  flex-shrink: 0;
+}
+
+.ct-form-wrap {
+  background: var(--cream);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 48px 44px;
+  position: relative;
+  overflow: hidden;
+}
+.ct-form-wrap::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, var(--acc) 0%, var(--acc2) 60%, transparent 100%);
+}
+.ct-form-wrap__head {
+  margin-bottom: 28px;
+  padding-bottom: 22px;
+  border-bottom: 1px solid var(--border);
+}
+.ct-form-wrap__title {
+  font-family: var(--f-d);
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: -.012em;
+  color: var(--ink);
+  margin-bottom: 6px;
+}
+.ct-form-wrap__sub {
+  font-size: 14px;
+  color: var(--mid);
+  line-height: 1.65;
+  font-weight: 300;
+}
+
+.ct-bottom {
+  padding: 70px 0;
+  background: var(--cream2);
+  text-align: center;
+}
+.ct-bottom__h3 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(22px, 2.6vw, 32px);
+  line-height: 1.15;
+  letter-spacing: -.02em;
+  color: var(--ink);
+  margin-bottom: 14px;
+}
+.ct-bottom__h3 .acc { color: var(--acc); }
+.ct-bottom__p {
+  font-size: 15px;
+  color: var(--mid);
+  font-weight: 300;
+  max-width: 540px;
+  margin: 0 auto 22px;
+  line-height: 1.7;
+}
+.ct-bottom__meta {
+  display: inline-flex;
+  align-items: center;
+  gap: 22px;
+  flex-wrap: wrap;
+  justify-content: center;
+  font-family: var(--f-m);
+  font-size: 11px;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--mid);
+}
+.ct-bottom__meta span {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+}
+.ct-bottom__meta-dot {
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  background: var(--acc);
+  display: inline-block;
+}
+
+/* Contact Form */
+.ct-form-wrap .hidden-fields-container { display: none !important; }
+.ct-form-wrap form p { margin: 0; }
+.ct-form-wrap .wpcf7-form-control-wrap {
+  display: block;
+  position: relative;
+  margin-bottom: 12px;
+}
+.ct-form-wrap .wpcf7-form-control-wrap input {
+  width: 100%;
+  padding: 20px 16px 8px;
+  background: var(--white);
+  border: 1.5px solid var(--border);
+  border-radius: 10px;
+  color: var(--ink);
+  font-family: var(--f-b);
+  font-size: 15px;
+  outline: none;
+  transition: .22s;
+  -webkit-appearance: none;
+}
+.ct-form-wrap .wpcf7-form-control-wrap input:focus {
+  border-color: var(--acc);
+  background: var(--acc-bg);
+}
+.ct-form-wrap .wpcf7-form-control-wrap input::placeholder { color: transparent; }
+.ct-form-wrap .floating-label {
+  position: absolute;
+  top: 50%; left: 16px;
+  transform: translateY(-50%);
+  font-size: 14px;
+  color: var(--light);
+  pointer-events: none;
+  transition: .2s;
+  z-index: 1;
+}
+.ct-form-wrap .wpcf7-form-control-wrap input:focus + .floating-label,
+.ct-form-wrap .wpcf7-form-control-wrap input:not(:placeholder-shown) + .floating-label {
+  top: 11px;
+  font-size: 10px;
+  color: var(--acc);
+  font-family: var(--f-m);
+  letter-spacing: .09em;
+  text-transform: uppercase;
+  transform: none;
+}
+.ct-form-wrap .wpcf7-submit {
+  display: block;
+  width: 100%;
+  padding: 15px;
+  margin-top: 10px;
+  background: var(--acc);
+  color: var(--acc-ink);
+  font-family: var(--f-m);
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: .22s;
+  border: none;
+}
+.ct-form-wrap .wpcf7-submit:hover {
+  background: var(--acc-dark);
+  transform: translateY(-1px);
+}
+
+@media (max-width: 1024px) {
+  .ct-hero { padding: calc(var(--nav-h) + 50px) 0 40px; }
+  .ct-main { padding: 50px 0 80px; }
+  .ct-grid { grid-template-columns: 1fr; gap: 44px; }
+  .ct-info { position: relative; top: auto; }
+  .ct-form-wrap { padding: 36px 28px; }
+}
+@media (max-width: 640px) {
+  .ct-form-wrap { padding: 28px 20px; }
+  .ct-channel { padding: 14px 16px; gap: 12px; }
+  .ct-channel__val { font-size: 15px; }
+  .ct-bottom__meta { flex-direction: column; gap: 10px; }
+}
+</style>
+
+
+<main id="main">
+
+<section class="ct-hero" aria-labelledby="ct-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0"   y1="20%" x2="100%" y2="60%"/>
+      <line x1="0"   y1="50%" x2="100%" y2="90%"/>
+      <line x1="0"   y1="80%" x2="100%" y2="30%"/>
+      <line x1="25%" y1="0"   x2="75%"  y2="100%"/>
+      <line x1="60%" y1="0"   x2="10%"  y2="100%"/>
+    </svg>
+  </div>
+
+  <div class="wrap">
+    <div class="ct-hero__inner rv">
+
+      <nav class="ct-hero__breadcrumbs" aria-label="Breadcrumbs">
+        <a href="/">Acasă</a>
+        <span class="sep">/</span>
+        <span>Contact</span>
+      </nav>
+
+      <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Contact</div>
+
+      <h1 class="ct-hero__h1" id="ct-h1">
+        Nu știi cum să începi?<br>
+        <span class="acc">Începe cu „Salut!"</span>
+      </h1>
+
+      <p class="ct-hero__lead">
+        Spune-ne câteva cuvinte despre proiectul tău — chiar și unul singur, dacă atât ai. <strong>Răspundem în maxim 24 de ore</strong>, cu o ofertă personalizată sau cel puțin câteva întrebări care să ne ajute să te înțelegem mai bine.
+      </p>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="ct-main">
+  <div class="wrap">
+    <div class="ct-grid">
+
+      <div class="ct-info rv">
+
+        <h2 class="ct-info__h2">
+          Nu-ți place să completezi <span class="acc">formularele?</span>
+        </h2>
+        <p class="ct-info__p">
+          Înțelegem perfect. Trimite-ne un mesaj direct pe canalul tău preferat — răspundem la fel de repede oriunde ne scrii.
+        </p>
+
+        <div class="ct-channels">
+
+          <a href="https://wa.me/40771486499" target="_blank" rel="noopener" class="ct-channel">
+            <span class="ct-channel__icon">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="#25D366" aria-hidden="true">
+                <path d="M17.5 14.4c-.3-.1-1.7-.8-2-.9-.3-.1-.5-.2-.7.2-.2.3-.8.9-.9 1.1-.2.2-.3.2-.6.1-.3-.2-1.3-.5-2.4-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.5.1-.6.1-.1.3-.4.5-.6.1-.2.2-.3.3-.5.1-.2 0-.4 0-.5 0-.1-.7-1.6-.9-2.2-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1.1 1-1.1 2.5s1.1 2.9 1.3 3.1c.2.2 2.2 3.4 5.3 4.7 1.9.8 2.6.9 3.5.7.6-.1 1.7-.7 2-1.4.2-.7.2-1.2.2-1.4 0-.1-.3-.2-.6-.4zM12 2C6.5 2 2 6.5 2 12c0 1.9.5 3.7 1.5 5.3L2 22l4.8-1.5c1.5.9 3.3 1.4 5.2 1.4 5.5 0 10-4.5 10-10S17.5 2 12 2z"/>
+              </svg>
+            </span>
+            <span class="ct-channel__txt">
+              <span class="ct-channel__lbl">WhatsApp</span>
+              <span class="ct-channel__val">+40 771 486 499</span>
+            </span>
+            <svg class="ct-channel__arrow" width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+              <path d="M3 11L11 3M11 3H5M11 3V9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </a>
+
+          <a href="https://www.facebook.com/visience.ro" target="_blank" rel="noopener" class="ct-channel">
+            <span class="ct-channel__icon">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="#0866FF" aria-hidden="true">
+                <path d="M24 12c0-6.6-5.4-12-12-12S0 5.4 0 12c0 6 4.4 11 10.1 11.9V15.5h-3v-3.5h3V9.4c0-3 1.8-4.7 4.5-4.7 1.3 0 2.7.2 2.7.2v3h-1.5c-1.5 0-2 1-2 1.9V12h3.3l-.5 3.5h-2.7v8.4C19.6 23 24 18 24 12z"/>
+              </svg>
+            </span>
+            <span class="ct-channel__txt">
+              <span class="ct-channel__lbl">Facebook Messenger</span>
+              <span class="ct-channel__val">@visience.ro</span>
+            </span>
+            <svg class="ct-channel__arrow" width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+              <path d="M3 11L11 3M11 3H5M11 3V9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </a>
+
+          <a href="tel:+40771486499" class="ct-channel">
+            <span class="ct-channel__icon">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="var(--ink)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.67A2 2 0 012 .92h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L6.91 8.09a16 16 0 006 6l1.27-.83a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/>
+              </svg>
+            </span>
+            <span class="ct-channel__txt">
+              <span class="ct-channel__lbl">Sună-ne direct</span>
+              <span class="ct-channel__val">+40 771 486 499</span>
+            </span>
+            <svg class="ct-channel__arrow" width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+              <path d="M3 11L11 3M11 3H5M11 3V9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </a>
+
+          <a href="mailto:contact@visience.ro" class="ct-channel">
+            <span class="ct-channel__icon">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="var(--ink)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+                <polyline points="22,6 12,13 2,6"/>
+              </svg>
+            </span>
+            <span class="ct-channel__txt">
+              <span class="ct-channel__lbl">Email</span>
+              <span class="ct-channel__val">contact@visience.ro</span>
+            </span>
+            <svg class="ct-channel__arrow" width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+              <path d="M3 11L11 3M11 3H5M11 3V9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </a>
+
+        </div>
+
+        <div class="ct-tip">
+          <div class="ct-tip__lbl">Pont util</div>
+          <h3 class="ct-tip__h3">Este foarte util atunci când menționezi:</h3>
+          <ul class="ct-tip__list">
+            <li>Produsul sau serviciul pe care îl oferi</li>
+            <li>Istoricul afacerii tale &amp; ce ai încercat până acum</li>
+            <li>Bugetul aproximativ pentru proiect</li>
+            <li>De unde ai auzit de visience.ro</li>
+          </ul>
+        </div>
+
+        <div class="ct-map">
+          <div class="ct-map__lbl">Sediul nostru</div>
+          <p class="ct-map__addr"><strong>Visience</strong> · Bulevardul Nicolae Iorga 18, Iași 700224</p>
+          <div class="ct-map__embed">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5338770.555992093!2d11.0685907454992!3d49.20394451450067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40cafbd9dff9e567%3A0x48a1babe3869bdcf!2sVisience!5e0!3m2!1sen!2sfr!4v1782729701278!5m2!1sen!2sfr"
+              width="100%" height="320" style="border:0" allowfullscreen loading="lazy"
+              referrerpolicy="strict-origin-when-cross-origin"
+              title="Locația Visience pe Google Maps — Bulevardul Nicolae Iorga 18, Iași"></iframe>
+          </div>
+        </div>
+
+      </div>
+
+
+      <div class="ct-form-wrap rv rv-d1">
+
+        <div class="ct-form-wrap__head">
+          <h2 class="ct-form-wrap__title">Trimite-ne un mesaj</h2>
+          <p class="ct-form-wrap__sub">
+            Toate câmpurile sunt opționale, în afară de un mod de a te contacta. Răspundem în maxim 24 de ore.
+          </p>
+        </div>
+
+        <form class="wpcf7-form" action="/contact.php" method="post" aria-label="Formular contact" novalidate>
+          <input type="hidden" name="pagina" value="contact">
+          <p style="position:absolute;left:-9999px" aria-hidden="true">
+            <label>Nu completa acest câmp: <input type="text" name="adresa-web" tabindex="-1" autocomplete="off"></label>
+          </p>
+          <p>
+            <span class="wpcf7-form-control-wrap" data-name="your-email">
+              <input type="email" name="your-email" placeholder=" " autocomplete="email" value="">
+              <span class="floating-label">Email</span>
+            </span>
+            <span class="wpcf7-form-control-wrap" data-name="tel-626">
+              <input type="tel" name="tel-626" placeholder=" " value="">
+              <span class="floating-label">Telefon <span style="color:var(--acc)">*</span></span>
+            </span>
+            <span class="wpcf7-form-control-wrap" data-name="text-477">
+              <input type="text" name="text-477" placeholder=" " value="">
+              <span class="floating-label">Detalii proiect</span>
+            </span>
+          </p>
+          <p>
+            <span class="wpcf7-form-control-wrap" data-name="your-subject">
+              <input type="text" name="your-subject" placeholder=" " value="">
+              <span class="floating-label">Când să te contactăm?</span>
+            </span>
+          </p>
+          <p>
+            <input class="wpcf7-submit" type="submit" value="Trimite mesajul">
+          </p>
+        </form>
+
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="ct-bottom">
+  <div class="wrap">
+    <div class="rv">
+      <h3 class="ct-bottom__h3">
+        Răspundem la fiecare mesaj <span class="acc">personal.</span>
+      </h3>
+      <p class="ct-bottom__p">
+        Niciun bot, niciun template — Vlad îți va răspunde personal cu întrebări specifice despre proiectul tău și îți va trimite o ofertă concretă.
+      </p>
+      <div class="ct-bottom__meta">
+        <span><span class="ct-bottom__meta-dot"></span>Răspuns &lt; 24h</span>
+        <span><span class="ct-bottom__meta-dot"></span>Analiză gratuită</span>
+        <span><span class="ct-bottom__meta-dot"></span>Fără obligații</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+</main>
+8:["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"ContactPage\",\"name\":\"Contact Visience\",\"url\":\"https://visience.ro/contact\",\"mainEntity\":{\"@type\":\"Organization\",\"name\":\"Visience Creative Experience\",\"telephone\":\"+40771486499\",\"email\":\"contact@visience.ro\",\"url\":\"https://visience.ro/\"}}"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$11"}}]],null,"$L12"]}]
+13:[]
+9:"$W13"
+a:["$","$1","h",{"children":[null,["$","$L14",null,{"children":"$L15"}],["$","div",null,{"hidden":true,"children":["$","$L16",null,{"children":["$","$17",null,{"name":"Next.Metadata","children":"$L18"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+c:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+19:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+12:["$","$L19",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1b:I[27201,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"IconMark"]
+18:[["$","title","0",{"children":"Contact — Agenție de marketing & web design în Iași | Visience"}],["$","meta","1",{"name":"description","content":"Contactează Visience: telefon, WhatsApp, email sau formular. Răspundem în maxim 24 de ore cu o analiză gratuită și o ofertă personalizată, fără obligații."}],["$","link","2",{"rel":"canonical","href":"https://visience.ro/contact/"}],["$","meta","3",{"property":"og:title","content":"Contact — Visience"}],["$","meta","4",{"property":"og:description","content":"Scrie-ne pe canalul preferat. Răspundem în maxim 24 de ore."}],["$","meta","5",{"property":"og:url","content":"https://visience.ro/contact/"}],["$","meta","6",{"property":"og:locale","content":"ro_RO"}],["$","meta","7",{"property":"og:image","content":"https://visience.ro/media/og-visience.jpg"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Agenție de Marketing & Creare Site-uri în Iași | Visience"}],["$","meta","11",{"name":"twitter:description","content":"Branding, website-uri, magazine online, Google & Meta Ads, SEO. Prețuri publice, fără costuri ascunse."}],["$","meta","12",{"name":"twitter:image","content":"https://visience.ro/media/og-visience.jpg"}],["$","link","13",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L1b","14",{}]]
+1a:null

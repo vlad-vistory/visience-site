@@ -1,0 +1,35 @@
+1:"$Sreact.fragment"
+6:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["/_next/static/chunks/1mvqsvr3qlqt5.css","style"]
+2:Taa6,<h2>Un site web costă în funcție de complexitatea site-ului și experiența freelancerului/firmei</h2>
+<p> Este cea mai populară întrebare în trecerea afacerii online. Și nu este neobișnuit ca răspunsul să fie determinat de detaliile proiectului și cine îl face. Articolul vă arată modalități de a vă calcula prețurile - și ce legătură are asta cu mașinile, meșteșugurile și construcția de case...  </p>
+<h2>De ce să îți faci un website?</h2>
+<ul>
+<li>
+ Ajungeți la un public mai larg
+ </li>
+<li>
+ Adresați-vă clienților din zona dvs
+ </li>
+<li>
+ Afacerea ta este deschisă 24/7
+ </li>
+</ul>
+<h2>Deci, cât costă un website?</h2>
+<p>Da, cât costă „un site web”? Generații de web designeri, agenții și clienți și-au bătut mintea peste această întrebare și răspunsul ei.</p>
+<p>Și probabil fiecare web designer a auzit prima întrebare de la un potențial client nou: „Cât costă un site web pentru tine?”<br/>Dacă vrei să ai succes în această afacere, ar trebui să ai un răspuns spontan la aceasta.</p>
+<p>Ce zici de <em>„2.784,75 EUR”</em> de exemplu !?</p>
+<p>Ok, serios: desigur, la această întrebare nici nu se poate răspunde așa. Iar ca web designer nu ar trebui să vă lăsați tentat să „sunați rapid un număr de casă”, așa cum solicită adesea părțile interesate. Nici măcar una foarte aspră, oricât de mult ar putea protesta partea interesată că nu dorește să te rețină mai târziu. Pentru că creșterea semnificativă a prețului mai târziu va provoca doar o mare nemulțumire. Și în afară de asta: nici măcar nu poți pune preț pe un site.</p>
+<p>De ce?</p>
+<p>Comparația cu o mașină se face adesea:<br/>„Cât costă o mașină?”</p>
+<p>Niciun dealer auto nu va putea pune un preț clar pentru asta. Există un spațiu aici pentru aproximativ 200 - 200.000 EUR. Similar cu un site web.</p>
+<p>Dar mi se pare mai potrivită comparația cu un meșter și/sau construirea unei case.</p>
+<p>În timp ce o mașină este un „obiect” finit pentru care puteți determina doar caracteristicile, construirea unei case sau chiar transformarea parțială a acesteia este o chestiune foarte individuală, care depinde de mulți factori. La fel ca implementarea unui site web.</p>
+<p>Și niciun arhitect sau companie de construcții nu ar trage un „preț dur” de la șold.</p>
+<p>Deci, de ce ar trebui web designerii să facă asta?</p>
+<p>Prețul unui site web este o chestiune foarte individuală care ar trebui să depindă de multe aspecte. În acest articol aș dori să fac lumină asupra unora dintre aceste aspecte și să arăt de ce prețurile pentru aceeași cerere (pot) să difere semnificativ.</p>0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://visience.ro/blog/cat-costa-un-site-web/#article\",\"headline\":\"Cât costă un site web?\",\"description\":\"Cât costă un site web? Un site web costă în funcție de complexitatea site-ului și experiența freelancerului/firmei Este cea mai populară întrebare în trecerea\",\"datePublished\":\"2024-01-04\",\"dateModified\":\"2024-01-04\",\"inLanguage\":\"ro-RO\",\"author\":{\"@id\":\"https://visience.ro/#organization\"},\"publisher\":{\"@id\":\"https://visience.ro/#organization\"},\"mainEntityOfPage\":\"https://visience.ro/blog/cat-costa-un-site-web/\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Acasă\",\"item\":\"https://visience.ro/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://visience.ro/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Cât costă un site web?\",\"item\":\"https://visience.ro/blog/cat-costa-un-site-web/\"}]}]}"}}],["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Cât costă un site web?"}],["$","div",null,{"className":"blog-article__meta","children":[["$","time",null,{"dateTime":"2024-01-04","children":"4 ianuarie 2024"}],["$","span",null,{"className":"blog-article__author","children":"de echipa Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}]}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XLiQQktmqJoG3-3IBETrL"}
+3:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1mvqsvr3qlqt5.css","precedence":"next"}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

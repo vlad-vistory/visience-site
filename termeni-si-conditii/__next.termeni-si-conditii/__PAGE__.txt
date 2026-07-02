@@ -1,0 +1,50 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/0a_4n0l8z1myf.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+:HL["/_next/static/chunks/1mvqsvr3qlqt5.css","style"]
+2:T1315,<h2>1. Cine suntem</h2>
+<p>Site-ul www.visience.ro este operat de <strong>Visience Creative Experience SRL</strong>, cu sediul în Bulevardul Nicolae Iorga 18, Iași 700224, România, CUI RO44755311, denumită în continuare „Visience". Ne poți contacta la <a href="mailto:contact@visience.ro">contact@visience.ro</a> sau la +40 771 486 499.</p>
+
+<h2>2. Acceptarea termenilor</h2>
+<p>Prin accesarea și utilizarea acestui site, precum și prin solicitarea unei oferte sau contractarea serviciilor noastre, ești de acord cu prezentele Termeni și Condiții. Dacă nu ești de acord cu ele, te rugăm să nu utilizezi site-ul.</p>
+<p>Acest document se completează cu <a href="/politica-de-confidentialitate/">Politica de confidențialitate</a> și <a href="/politica-cookies/">Politica de cookies</a>.</p>
+
+<h2>3. Serviciile noastre</h2>
+<p>Visience oferă servicii de marketing digital și dezvoltare web, incluzând, fără a se limita la: creare site-uri de prezentare, magazine online, branding și identitate vizuală, administrare social media, campanii Google și Meta Ads, optimizare SEO, content marketing și dezvoltare software.</p>
+<p>Detaliile fiecărui serviciu, precum și conținutul pachetelor, sunt prezentate în paginile dedicate de pe site și în oferta transmisă fiecărui client.</p>
+
+<h2>4. Oferte și prețuri</h2>
+<p>Prețurile publicate pe site, inclusiv în pagina <a href="/preturi/">Prețuri</a>, sunt exprimate în euro și reprezintă niveluri de pornire pentru fiecare tip de proiect. Prețul final se stabilește prin oferta personalizată, în funcție de complexitatea și cerințele proiectului, și este confirmat în scris înainte de începerea lucrului.</p>
+<p>Nu percepem costuri ascunse: tot ce plătești este specificat în ofertă înainte de a semna sau de a achita orice sumă.</p>
+
+<h2>5. Plata</h2>
+<p>Modalitatea și termenele de plată sunt stabilite prin oferta acceptată sau prin contract. De regulă, proiectele se achită printr-un avans la demararea lucrărilor și diferența la predare, dacă nu s-a convenit altfel în scris.</p>
+
+<h2>6. Livrarea și recepția proiectelor</h2>
+<p>Termenele de livrare sunt estimate în ofertă și depind de complexitatea proiectului și de promptitudinea cu care clientul furnizează materialele și feedback-ul necesar. Proiectul se consideră recepționat după confirmarea clientului sau, în lipsa unui răspuns, în termen de 10 zile lucrătoare de la predare.</p>
+
+<h2>7. Proprietate intelectuală</h2>
+<p>Conținutul acestui site (texte, grafică, logo-uri, imagini, cod) aparține Visience sau partenerilor săi și este protejat de legislația privind drepturile de autor. Reproducerea fără acord scris este interzisă.</p>
+<p>Drepturile asupra livrabilelor realizate pentru client (site, identitate vizuală, materiale grafice) se transferă clientului după achitarea integrală a proiectului, dacă nu s-a convenit altfel prin contract. Visience își rezervă dreptul de a prezenta proiectele finalizate în portofoliul propriu.</p>
+
+<h2>8. Obligațiile clientului</h2>
+<p>Clientul se obligă să furnizeze informații corecte și complete, materialele necesare proiectului (texte, imagini, acces la conturi, unde este cazul) și să dețină drepturile de utilizare asupra materialelor puse la dispoziție. Visience nu răspunde pentru conținutul furnizat de client.</p>
+
+<h2>9. Limitarea răspunderii</h2>
+<p>Visience depune toate diligențele pentru servicii de calitate, însă nu poate garanta rezultate comerciale specifice (poziții în motoarele de căutare, volum de vânzări sau de lead-uri), acestea depinzând de factori externi. Răspunderea Visience este limitată la valoarea serviciilor contractate.</p>
+<p>Site-ul poate conține linkuri către site-uri terțe. Visience nu răspunde pentru conținutul sau practicile acestora.</p>
+
+<h2>10. Protecția datelor</h2>
+<p>Prelucrarea datelor cu caracter personal este descrisă în <a href="/politica-de-confidentialitate/">Politica de confidențialitate</a> și în pagina <a href="/gdpr/">GDPR</a>.</p>
+
+<h2>11. Legea aplicabilă și soluționarea litigiilor</h2>
+<p>Prezentele Termeni și Condiții sunt guvernate de legea română. Orice neînțelegere se rezolvă pe cale amiabilă, iar dacă acest lucru nu este posibil, de instanțele competente din Iași.</p>
+<p>Consumatorii se pot adresa Autorității Naționale pentru Protecția Consumatorilor (<a href="https://anpc.ro/" target="_blank" rel="noopener noreferrer">anpc.ro</a>) sau platformei europene de soluționare online a litigiilor (<a href="https://ec.europa.eu/consumers/odr/" target="_blank" rel="noopener noreferrer">SOL</a>).</p>
+
+<h2>12. Modificări</h2>
+<p>Visience poate actualiza acești termeni. Versiunea curentă este publicată pe această pagină, cu data ultimei actualizări.</p>
+<p>Ultima actualizare: 29 iunie 2026.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Termeni și Condiții"}]]}],["$","header",null,{"className":"blog-article__head","children":["$","h1",null,{"children":"Termeni și Condiții"}]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$2"}}]]}]}],["$L3"],"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XLiQQktmqJoG3-3IBETrL"}
+3:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1mvqsvr3qlqt5.css","precedence":"next"}]
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

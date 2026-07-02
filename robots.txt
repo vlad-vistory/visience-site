@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://visience.ro
+Sitemap: https://visience.ro/sitemap.xml
