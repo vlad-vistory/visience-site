@@ -69,7 +69,7 @@ c:I[68027,["/_next/static/chunks/42gh686sk5w8x.js","/_next/static/chunks/158myu8
   <a href="/contact/"    class="nm-l">Contact</a>
   <a href="/#contact" class="btn btn-solid" style="margin-top:8px">Solicită ofertă</a>
 </nav>
-0:{"P":null,"c":["","optimizare-seo",""],"q":"","i":false,"f":[[["",{"children":["optimizare-seo",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/42gh686sk5w8x.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"bricolage_grotesque_4d7004bd-module__Hoo0MG__variable dm_sans_371c950d-module__4cga4q__variable dm_mono_6c018cca-module__6UXbpq__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7"]}]]}]]}],{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"xKgcnFJlKD15sVJq1UG_x"}
+0:{"P":null,"c":["","optimizare-seo",""],"q":"","i":false,"f":[[["",{"children":["optimizare-seo",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/42gh686sk5w8x.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"bricolage_grotesque_4d7004bd-module__Hoo0MG__variable dm_sans_371c950d-module__4cga4q__variable dm_mono_6c018cca-module__6UXbpq__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7"]}]]}]]}],{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"3rLAHndP0Vi7CM_Je1ZBV"}
 e:I[39756,["/_next/static/chunks/42gh686sk5w8x.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 f:I[37457,["/_next/static/chunks/42gh686sk5w8x.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 11:I[27961,["/_next/static/chunks/42gh686sk5w8x.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
@@ -200,7 +200,7 @@ a:"$W15"
 b:["$","$1","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","div",null,{"hidden":true,"children":["$","$L18",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":"$L1a"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 1c:I[97367,["/_next/static/chunks/42gh686sk5w8x.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
-1b:T8f88,<style>
+1b:T8f82,<style>
 .seo-hero {
   position: relative;
   padding: calc(var(--nav-h) + 90px) 0 90px;
@@ -977,7 +977,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
       <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Ce includem</div>
       <h2 class="seo-incl__h2" id="seo-incl-h2">Tot ce ține de <span class="acc">poziționarea ta</span></h2>
       <p class="seo-incl__sub">
-        De la fundația tehnică până la conținut și autoritate — acoperim întreg ciclul prin care un site ajunge să fie găsit și ales în Google.
+        De la fundația tehnică până la conținut și autoritate. Acoperim întreg ciclul prin care un site ajunge să fie găsit și ales în Google.
       </p>
     </div>
 
@@ -1004,7 +1004,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
       <div class="seo-card">
         <div class="seo-card__ico"><i class="fas fa-chart-line"></i></div>
         <h3>Raportare &amp; monitorizare</h3>
-        <p>Raport lunar clar cu poziții, trafic organic și conversii. Vezi exact ce s-a lucrat și ce urmează — fără jargon și fără promisiuni pe care nu le putem ține.</p>
+        <p>Raport lunar clar cu poziții, trafic organic și conversii. Vezi exact ce s-a lucrat și ce urmează, fără jargon și fără promisiuni pe care nu le putem ține.</p>
       </div>
 
     </div>
@@ -1021,7 +1021,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
         Prețuri optimizare SEO —<br><span class="acc">transparent, fără surprize</span>
       </h2>
       <p class="seo-prices__sub">
-        Alege nivelul potrivit pentru afacerea ta. Toate prețurile sunt orientative — primești o ofertă personalizată după o analiză a site-ului tău.
+        Alege nivelul potrivit pentru afacerea ta. Toate prețurile sunt orientative. Primești o ofertă personalizată după o analiză a site-ului tău.
       </p>
     </div>
 
@@ -1136,7 +1136,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
       <article class="seo-step">
         <div class="seo-step__n">05</div>
         <h3>Optimizare continuă</h3>
-        <p>Ajustăm lunar strategia în funcție de date și de mișcările concurenței — SEO-ul nu se oprește, se compune.</p>
+        <p>Ajustăm lunar strategia în funcție de date și de mișcările concurenței. SEO-ul nu se oprește, se compune.</p>
       </article>
 
       <article class="seo-step">
@@ -1162,12 +1162,12 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
 
       <details class="seo-faq-item">
         <summary>Cât durează până apar rezultatele SEO?</summary>
-        <p>SEO-ul este o investiție pe termen lung, nu un rezultat instant. În general, primele îmbunătățiri de poziții apar în 2-3 luni, iar rezultatele consistente în trafic organic se văd, de obicei, după 4-6 luni de lucru constant. De aceea recomandăm o strategie pe minim 6 luni — este intervalul în care optimizările tehnice, conținutul și autoritatea construită încep să compună rezultate stabile.</p>
+        <p>SEO-ul este o investiție pe termen lung, nu un rezultat instant. În general, primele îmbunătățiri de poziții apar în 2-3 luni, iar rezultatele consistente în trafic organic se văd, de obicei, după 4-6 luni de lucru constant. De aceea recomandăm o strategie pe minim 6 luni, fiindcă e intervalul în care optimizările tehnice, conținutul și autoritatea construită încep să compună rezultate stabile.</p>
       </details>
 
       <details class="seo-faq-item">
         <summary>Garantați poziția 1 în Google?</summary>
-        <p>Nu, și ar trebui să te ferești de oricine îți promite asta. Pozițiile în Google sunt decise de algoritmul Google, în funcție de sute de factori și de concurența din nișa ta — niciun specialist serios nu le poate garanta. Ce garantăm însă este munca corectă: audit tehnic, optimizare on-page, conținut de calitate, link building curat și un raport lunar prin care vezi exact ce am lucrat și cum evoluează pozițiile. Folosim doar tehnici conforme cu ghidurile Google, fără scurtături care riscă penalizări.</p>
+        <p>Nu, și ar trebui să te ferești de oricine îți promite asta. Pozițiile în Google sunt decise de algoritmul Google, în funcție de sute de factori și de concurența din nișa ta, așa că niciun specialist serios nu le poate garanta. Ce garantăm însă este munca corectă: audit tehnic, optimizare on-page, conținut de calitate, link building curat și un raport lunar prin care vezi exact ce am lucrat și cum evoluează pozițiile. Folosim doar tehnici conforme cu ghidurile Google, fără scurtături care riscă penalizări.</p>
       </details>
 
       <details class="seo-faq-item">
@@ -1219,7 +1219,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
     <div class="rel-trans">
       <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
       <h2>Vezi exact cât plătești.</h2>
-      <p>Nu lucrăm cu tarife ascunse sau surprize în factură. Toate pachetele și prețurile noastre sunt publice — alegi în cunoștință de cauză, fără presiune.</p>
+      <p>Nu lucrăm cu tarife ascunse sau surprize în factură. Toate pachetele și prețurile noastre sunt publice. Alegi în cunoștință de cauză, fără presiune.</p>
       <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
     </div>
     <div class="rel-links">

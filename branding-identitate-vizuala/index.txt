@@ -69,7 +69,7 @@ c:I[68027,["/_next/static/chunks/42gh686sk5w8x.js","/_next/static/chunks/158myu8
   <a href="/contact/"    class="nm-l">Contact</a>
   <a href="/#contact" class="btn btn-solid" style="margin-top:8px">Solicită ofertă</a>
 </nav>
-0:{"P":null,"c":["","branding-identitate-vizuala",""],"q":"","i":false,"f":[[["",{"children":["branding-identitate-vizuala",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/42gh686sk5w8x.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"bricolage_grotesque_4d7004bd-module__Hoo0MG__variable dm_sans_371c950d-module__4cga4q__variable dm_mono_6c018cca-module__6UXbpq__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7"]}]]}]]}],{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"xKgcnFJlKD15sVJq1UG_x"}
+0:{"P":null,"c":["","branding-identitate-vizuala",""],"q":"","i":false,"f":[[["",{"children":["branding-identitate-vizuala",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/42gh686sk5w8x.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"bricolage_grotesque_4d7004bd-module__Hoo0MG__variable dm_sans_371c950d-module__4cga4q__variable dm_mono_6c018cca-module__6UXbpq__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7"]}]]}]]}],{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"3rLAHndP0Vi7CM_Je1ZBV"}
 e:I[39756,["/_next/static/chunks/42gh686sk5w8x.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 f:I[37457,["/_next/static/chunks/42gh686sk5w8x.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 11:I[27961,["/_next/static/chunks/42gh686sk5w8x.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
@@ -200,7 +200,7 @@ a:"$W15"
 b:["$","$1","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","div",null,{"hidden":true,"children":["$","$L18",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":"$L1a"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 1c:I[97367,["/_next/static/chunks/42gh686sk5w8x.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
-1b:T88b8,<style>
+1b:T88ac,<style>
 .br-hero {
   position: relative;
   padding: calc(var(--nav-h) + 90px) 0 90px;
@@ -844,7 +844,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
         </h1>
 
         <p class="br-hero__lead">
-          Creăm identități vizuale complete — logo, paletă cromatică, tipografie și brand book — care fac firma ta să arate solid și să fie ușor de recunoscut. Un brand construit cu cap, nu un logo făcut peste noapte.
+          Creăm identități vizuale complete — logo, paletă cromatică, tipografie și brand book, care fac firma ta să arate solid și să fie ușor de recunoscut. Un brand construit cu cap, nu un logo făcut peste noapte.
         </p>
 
         <div class="br-hero__pts">
@@ -928,7 +928,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
       <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Ce includem</div>
       <h2 class="br-incl__h2" id="br-incl-h2">Tot ce ține brandul tău <span class="acc">unitar</span></h2>
       <p class="br-incl__sub">
-        De la semnătura vizuală până la materialele de zi cu zi — o identitate gândită să funcționeze peste tot, fără compromisuri.
+        De la semnătura vizuală până la materialele de zi cu zi: o identitate gândită să funcționeze peste tot, fără compromisuri.
       </p>
     </div>
 
@@ -949,7 +949,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
       <div class="br-incl-card">
         <div class="br-incl-card__ico"><i class="fa-solid fa-id-card"></i></div>
         <h3>Materiale tipărite</h3>
-        <p>Carte de vizită, antet de documente, dosar de prezentare și flyer — pregătite corect pentru tipar, gata de trimis la tipografie.</p>
+        <p>Carte de vizită, antet de documente, dosar de prezentare și flyer, pregătite corect pentru tipar, gata de trimis la tipografie.</p>
       </div>
 
       <div class="br-incl-card">
@@ -1161,7 +1161,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
     <div class="rel-trans">
       <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
       <h2>Vezi exact cât plătești.</h2>
-      <p>Nu lucrăm cu tarife ascunse sau surprize în factură. Toate pachetele și prețurile noastre sunt publice — alegi în cunoștință de cauză, fără presiune.</p>
+      <p>Nu lucrăm cu tarife ascunse sau surprize în factură. Toate pachetele și prețurile noastre sunt publice. Alegi în cunoștință de cauză, fără presiune.</p>
       <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
     </div>
     <div class="rel-links">

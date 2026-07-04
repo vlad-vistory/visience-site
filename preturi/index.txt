@@ -69,7 +69,7 @@ c:I[68027,["/_next/static/chunks/42gh686sk5w8x.js","/_next/static/chunks/158myu8
   <a href="/contact/"    class="nm-l">Contact</a>
   <a href="/#contact" class="btn btn-solid" style="margin-top:8px">Solicită ofertă</a>
 </nav>
-0:{"P":null,"c":["","preturi",""],"q":"","i":false,"f":[[["",{"children":["preturi",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/42gh686sk5w8x.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"bricolage_grotesque_4d7004bd-module__Hoo0MG__variable dm_sans_371c950d-module__4cga4q__variable dm_mono_6c018cca-module__6UXbpq__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7"]}]]}]]}],{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"xKgcnFJlKD15sVJq1UG_x"}
+0:{"P":null,"c":["","preturi",""],"q":"","i":false,"f":[[["",{"children":["preturi",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/42gh686sk5w8x.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"bricolage_grotesque_4d7004bd-module__Hoo0MG__variable dm_sans_371c950d-module__4cga4q__variable dm_mono_6c018cca-module__6UXbpq__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7"]}]]}]]}],{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"3rLAHndP0Vi7CM_Je1ZBV"}
 e:I[39756,["/_next/static/chunks/42gh686sk5w8x.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 f:I[37457,["/_next/static/chunks/42gh686sk5w8x.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 11:I[27961,["/_next/static/chunks/42gh686sk5w8x.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
@@ -200,7 +200,7 @@ a:"$W15"
 b:["$","$1","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","div",null,{"hidden":true,"children":["$","$L18",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":"$L1a"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 1c:I[97367,["/_next/static/chunks/42gh686sk5w8x.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
-1b:T15365,<style>
+1b:T15354,<style>
 .pr-hero {
   position: relative;
   padding: calc(var(--nav-h) + 90px) 0 80px;
@@ -714,7 +714,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
       </h1>
 
       <p class="pr-hero__lead">
-        Toate serviciile noastre, cu prețuri clare și transparente. De la website și branding, la marketing plătit, SEO și software custom — vezi exact cât plătești pentru fiecare pachet, ce conține și pentru cine este potrivit.
+        Toate serviciile noastre, cu prețuri clare și transparente. De la website și branding, la marketing plătit, SEO și software custom: vezi exact cât plătești pentru fiecare pachet, ce conține și pentru cine este potrivit.
       </p>
 
       <div style="display:flex;justify-content:center;margin:0 0 32px">
@@ -754,12 +754,12 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
       <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Website de prezentare</div>
       <h2 class="pr-sec__h2" id="site-h2">Cât costă un <span class="acc">site de prezentare?</span></h2>
       <p class="pr-sec__lead">
-        Construim website-uri premium cu design unic și funcționalități avansate — investiția pornește de la <strong>1.000€ pentru pachetul Standard</strong> și ajunge la <strong>2.000€+ pentru Website Premium</strong>, cu pachete mai accesibile disponibile mai jos. Plus costuri unice pentru domeniu (15€) și găzduire (85€/an).
+        Construim website-uri premium cu design unic și funcționalități avansate. Investiția pornește de la <strong>1.000€ pentru pachetul Standard</strong> și ajunge la <strong>2.000€+ pentru Website Premium</strong>, cu pachete mai accesibile disponibile mai jos. Plus costuri unice pentru domeniu (15€) și găzduire (85€/an).
       </p>
     </div>
 
     <p class="pr-seo-intro rv">
-      Cauți să creezi un <strong>site de prezentare profesional pentru firma ta</strong>? Realizăm website-uri în <strong>WordPress</strong>, optimizate pentru motoarele de căutare, cu design personalizat și panou de administrare ușor de folosit. Fie că vrei un landing page rapid pentru testarea pieței sau un website complet cu blog, pagini dedicate de servicii și animații interactive — ai toate opțiunile de mai jos. <a href="#contact">Cere ofertă personalizată →</a>
+      Cauți să creezi un <strong>site de prezentare profesional pentru firma ta</strong>? Realizăm website-uri în <strong>WordPress</strong>, optimizate pentru motoarele de căutare, cu design personalizat și panou de administrare ușor de folosit. Fie că vrei un landing page rapid pentru testarea pieței sau un website complet cu blog, pagini dedicate de servicii și animații interactive, ai toate opțiunile de mai jos. <a href="#contact">Cere ofertă personalizată →</a>
     </p>
 
     <div class="pr-grid rv rv-d1" style="grid-template-columns:repeat(5,1fr);gap:14px">
@@ -933,7 +933,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
       <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Website-uri specializate</div>
       <h2 class="pr-sec__h2" id="alte-h2">Cât costă un <span class="acc">website specializat?</span></h2>
       <p class="pr-sec__lead">
-        Website-uri pentru anunțuri, imobiliare, auto sau cursuri online — pachete Basic la <strong>1.000€</strong> și Standard la <strong>2.000€</strong>, cu sistem propriu de gestionare.
+        Website-uri pentru anunțuri, imobiliare, auto sau cursuri online, cu pachete Basic la <strong>1.000€</strong> și Standard la <strong>2.000€</strong>, cu sistem propriu de gestionare.
       </p>
     </div>
 
@@ -1007,7 +1007,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
       <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Funcționalități la cerere</div>
       <h2 class="pr-sec__h2" id="adi-h2">Servicii adiacente <span class="acc">site &amp; magazin online</span></h2>
       <p class="pr-sec__lead">
-        Adaugă funcționalități premium pe orice pachet existent — traduceri, sistem booking, chat live, optimizare viteză, mentenanță și multe altele.
+        Adaugă funcționalități premium pe orice pachet existent: traduceri, sistem booking, chat live, optimizare viteză, mentenanță și multe altele.
       </p>
     </div>
 
@@ -1074,7 +1074,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
       <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Branding &amp; Identitate</div>
       <h2 class="pr-sec__h2" id="brand-h2">Cât costă un <span class="acc">logo profesional?</span></h2>
       <p class="pr-sec__lead">
-        Identitate vizuală completă cu logo, BrandBook, animații și materiale, până la <strong>2.000€ pentru Branding Premium</strong>. Pachetul recomandat, <strong>Branding Standard la 1.000€</strong>, acoperă majoritatea afacerilor — variante mai accesibile găsești mai jos.
+        Identitate vizuală completă cu logo, BrandBook, animații și materiale, până la <strong>2.000€ pentru Branding Premium</strong>. Pachetul recomandat, <strong>Branding Standard la 1.000€</strong>, acoperă majoritatea afacerilor, iar variante mai accesibile găsești mai jos.
       </p>
     </div>
 
@@ -1155,7 +1155,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
       <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Graphic Design</div>
       <h2 class="pr-sec__h2" id="gd-h2">Cât costă <span class="acc">design grafic personalizat?</span></h2>
       <p class="pr-sec__lead">
-        Materiale grafice cu design profesional, optimizate pentru tipar și digital — de la cărți de vizită premium și postere artistice până la <strong>flyere premium cu ilustrații și copywriting (600€)</strong>. Tarif orar pentru proiecte custom: <strong>20€/oră</strong>.
+        Materiale grafice cu design profesional, optimizate pentru tipar și digital: de la cărți de vizită premium și postere artistice până la <strong>flyere premium cu ilustrații și copywriting (600€)</strong>. Tarif orar pentru proiecte custom: <strong>20€/oră</strong>.
       </p>
     </div>
 
@@ -1401,7 +1401,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
     </div>
 
     <p class="pr-seo-intro rv">
-      Vrei să trimiți <strong>newsletter-uri profesionale</strong> către clienții tăi pentru a-i ține informați despre oferte, lansări și noutăți? Creăm și gestionăm campanii de email marketing prin platforme ca <strong>Mailchimp, Brevo sau Klaviyo</strong>, cu design optimizat pentru desktop și mobil, segmentarea listei de abonați și testare A/B. Newsletter-ul rămâne unul dintre canalele cu cel mai bun ROI — îți crește traficul pe site, conversiile și fidelizarea clienților.
+      Vrei să trimiți <strong>newsletter-uri profesionale</strong> către clienții tăi pentru a-i ține informați despre oferte, lansări și noutăți? Creăm și gestionăm campanii de email marketing prin platforme ca <strong>Mailchimp, Brevo sau Klaviyo</strong>, cu design optimizat pentru desktop și mobil, segmentarea listei de abonați și testare A/B. Newsletter-ul rămâne unul dintre canalele cu cel mai bun ROI: îți crește traficul pe site, conversiile și fidelizarea clienților.
     </p>
 
     <div class="pr-grid rv rv-d1">

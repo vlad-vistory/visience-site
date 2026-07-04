@@ -69,7 +69,7 @@ c:I[68027,["/_next/static/chunks/42gh686sk5w8x.js","/_next/static/chunks/158myu8
   <a href="/contact/"    class="nm-l">Contact</a>
   <a href="/#contact" class="btn btn-solid" style="margin-top:8px">Solicită ofertă</a>
 </nav>
-0:{"P":null,"c":["","creare-site-prezentare-iasi",""],"q":"","i":false,"f":[[["",{"children":["creare-site-prezentare-iasi",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/42gh686sk5w8x.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"bricolage_grotesque_4d7004bd-module__Hoo0MG__variable dm_sans_371c950d-module__4cga4q__variable dm_mono_6c018cca-module__6UXbpq__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7"]}]]}]]}],{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"xKgcnFJlKD15sVJq1UG_x"}
+0:{"P":null,"c":["","creare-site-prezentare-iasi",""],"q":"","i":false,"f":[[["",{"children":["creare-site-prezentare-iasi",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/42gh686sk5w8x.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"bricolage_grotesque_4d7004bd-module__Hoo0MG__variable dm_sans_371c950d-module__4cga4q__variable dm_mono_6c018cca-module__6UXbpq__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7"]}]]}]]}],{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"3rLAHndP0Vi7CM_Je1ZBV"}
 e:I[39756,["/_next/static/chunks/42gh686sk5w8x.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 f:I[37457,["/_next/static/chunks/42gh686sk5w8x.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 11:I[27961,["/_next/static/chunks/42gh686sk5w8x.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
@@ -200,7 +200,7 @@ a:"$W15"
 b:["$","$1","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","div",null,{"hidden":true,"children":["$","$L18",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":"$L1a"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 1c:I[97367,["/_next/static/chunks/42gh686sk5w8x.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
-1b:T6ed5,<style>
+1b:T6e93,<style>
 .csi-hero {
   position: relative;
   padding: calc(var(--nav-h) + 86px) 0 84px;
@@ -507,7 +507,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
     </h1>
 
     <p class="csi-hero__lead">
-      Cauți <strong style="color:#fff;font-weight:500">creare site de prezentare în Iași</strong>? Visience realizează site-uri de prezentare profesionale pentru firme și antreprenori — design adaptiv, optimizat SEO și ușor de administrat. De la landing page la site de companie, construim platforma care îți aduce clienți.
+      Cauți <strong style="color:#fff;font-weight:500">creare site de prezentare în Iași</strong>? Visience realizează site-uri de prezentare profesionale pentru firme și antreprenori: design adaptiv, optimizat SEO și ușor de administrat. De la landing page la site de companie, construim platforma care îți aduce clienți.
     </p>
 
     <div class="csi-hero__acts">
@@ -519,7 +519,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
       <div class="csi-hero__stat"><span class="n">120+</span><span class="l">Site-uri livrate</span></div>
       <div class="csi-hero__stat"><span class="n">12 ani</span><span class="l">Experiență în Iași</span></div>
       <div class="csi-hero__stat"><span class="n">2–4 săpt.</span><span class="l">Termen de livrare</span></div>
-      <div class="csi-hero__stat"><span class="n">95–100</span><span class="l">Scor PageSpeed mobil</span></div>
+      <div class="csi-hero__stat"><span class="n">AVIF</span><span class="l">Imagini optimizate</span></div>
     </div>
   </div>
 </section>
@@ -533,7 +533,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
     </div>
     <div class="csi-prose rv">
       <p>Un <strong>site de prezentare</strong> este cea mai simplă și eficientă modalitate prin care o firmă din Iași își prezintă serviciile, câștigă încredere și atrage clienți noi. Fie că vrei <strong>creare site</strong> pentru o afacere nouă, <strong>creare website</strong> pentru un brand consacrat sau <strong>realizare site web</strong> pentru o companie întreagă, un site profesional lucrează pentru tine non-stop, fără pauză.</p>
-      <p>La Visience facem <strong>creare site de prezentare în Iași</strong> de peste 12 ani. Avem sediul pe Bulevardul Nicolae Iorga și lucrăm atât cu firme locale din Iași, cât și cu clienți din toată România, Italia, Franța și Germania. Fiecare <strong>site de prezentare firmă</strong> este construit pe obiectivele tale — nu pe un șablon generic — și optimizat tehnic încă de la prima linie de cod.</p>
+      <p>La Visience facem <strong>creare site de prezentare în Iași</strong> de peste 12 ani. Avem sediul pe Bulevardul Nicolae Iorga și lucrăm atât cu firme locale din Iași, cât și cu clienți din toată România, Italia, Franța și Germania. Fiecare <strong>site de prezentare firmă</strong> este construit pe obiectivele tale, nu pe un șablon generic, și optimizat tehnic încă de la prima linie de cod.</p>
       <p>Dacă te interesează și <a href="/preturi/">prețul pentru creare site</a> sau vrei să vezi <a href="/portofoliu/">portofoliul nostru complet</a>, găsești totul transparent pe site. Iar dacă ai nevoie și de <a href="/creare-magazin-online/">creare magazin online</a> sau de <a href="/optimizare-seo/">optimizare SEO</a>, ne ocupăm de tot sub un singur acoperiș.</p>
     </div>
   </div>
@@ -551,12 +551,12 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
       <div class="csi-card">
         <div class="csi-card__ico"><i class="fas fa-mobile-screen"></i></div>
         <h3>Design adaptiv (responsive)</h3>
-        <p>Site-ul de prezentare arată impecabil pe telefon, tabletă și desktop — acolo unde te caută clienții din Iași.</p>
+        <p>Site-ul de prezentare arată impecabil pe telefon, tabletă și desktop, acolo unde te caută clienții din Iași.</p>
       </div>
       <div class="csi-card">
         <div class="csi-card__ico"><i class="fas fa-magnifying-glass-chart"></i></div>
         <h3>SEO tehnic inclus</h3>
-        <p>Realizare site web optimizat pentru Google de la bun început: viteză, structură corectă și date structurate.</p>
+        <p>Realizare site web optimizat pentru Google din start: viteză, structură corectă și date structurate.</p>
       </div>
       <div class="csi-card">
         <div class="csi-card__ico"><i class="fas fa-pen-to-square"></i></div>
@@ -566,7 +566,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
       <div class="csi-card">
         <div class="csi-card__ico"><i class="fas fa-gauge-high"></i></div>
         <h3>Viteză și securitate</h3>
-        <p>Scor PageSpeed 95–100 pe mobil, certificat SSL, protecție anti-spam și backup — un site web profesional, sigur și rapid.</p>
+        <p>Imagini AVIF, cod curat, certificat SSL, protecție anti-spam și backup. Un site profesional, sigur și rapid.</p>
       </div>
     </div>
   </div>
@@ -591,7 +591,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
         <span class="csi-type__n">02</span>
         <div>
           <h3>Site de prezentare firmă</h3>
-          <p>Site de companie clasic, multi-pagină: Acasă, Despre, Servicii, Portofoliu și Contact — totul aliniat brandului tău.</p>
+          <p>Site de companie clasic, multi-pagină: Acasă, Despre, Servicii, Portofoliu și Contact, toate aliniate brandului tău.</p>
         </div>
       </div>
       <div class="csi-type">
@@ -666,7 +666,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
     <div class="csi-head center rv">
       <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Prețuri transparente</div>
       <h2 class="dd dd-lg">Cât costă un <span class="acc">site de prezentare</span> în Iași?</h2>
-      <p class="body-lg" style="margin-top:14px">Prețul pentru creare site de prezentare depinde de numărul de pagini, funcționalități și nivelul de personalizare. Mai jos găsești pachetele noastre, cu prețuri clare — fără surprize.</p>
+      <p class="body-lg" style="margin-top:14px">Prețul pentru creare site de prezentare depinde de numărul de pagini, funcționalități și nivelul de personalizare. Mai jos găsești pachetele noastre, cu prețuri clare, fără surprize.</p>
     </div>
     <div class="csi-pr rv rv-d1">
       <div class="csi-pr-card">
@@ -692,7 +692,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
       </div>
     </div>
     <p class="csi-pr-note rv rv-d2">
-      La acestea se adaugă costuri unice mici pentru domeniu (15€) și găzduire (85€/an). Vrei un preț exact pentru proiectul tău? <a href="/preturi/">Vezi toate prețurile</a> sau <a href="/contact/">cere o ofertă personalizată</a> — răspundem în 24 de ore.
+      La acestea se adaugă costuri unice mici pentru domeniu (15€) și găzduire (85€/an). Vrei un preț exact pentru proiectul tău? <a href="/preturi/">Vezi toate prețurile</a> sau <a href="/contact/">cere o ofertă personalizată</a>. Răspundem în 24 de ore.
     </p>
   </div>
 </section>
@@ -735,7 +735,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
       </details>
       <details>
         <summary>Site-ul va apărea în Google pentru clienții din Iași?</summary>
-        <p>Da. Fiecare site de prezentare este optimizat SEO tehnic de la bun început, cu structură corectă, viteză și date structurate locale (Iași). Pentru o poziționare avansată în căutări recomandăm și serviciul nostru de <a href="/optimizare-seo/">optimizare SEO</a> continuă.</p>
+        <p>Da. Fiecare site de prezentare este optimizat SEO tehnic din start, cu structură corectă, viteză și date structurate locale (Iași). Pentru o poziționare avansată în căutări recomandăm și serviciul nostru de <a href="/optimizare-seo/">optimizare SEO</a> continuă.</p>
       </details>
       <details>
         <summary>Pot să administrez singur site-ul după ce îl primesc?</summary>
@@ -743,7 +743,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
       </details>
       <details>
         <summary>Realizați site-uri de prezentare doar pentru firme din Iași?</summary>
-        <p>Avem sediul în Iași, dar lucrăm cu clienți din toată România și din străinătate. Proiectele se desfășoară integral online, fără să fie nevoie de prezență fizică — vezi <a href="/portofoliu/">portofoliul</a> nostru cu peste 120 de proiecte.</p>
+        <p>Avem sediul în Iași, dar lucrăm cu clienți din toată România și din străinătate. Proiectele se desfășoară integral online, fără să fie nevoie de prezență fizică. Vezi <a href="/portofoliu/">portofoliul</a> nostru cu peste 120 de proiecte.</p>
       </details>
     </div>
   </div>
@@ -770,7 +770,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
     <div class="rel-trans">
       <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
       <h2>Vezi exact cât plătești.</h2>
-      <p>Nu lucrăm cu tarife ascunse sau surprize în factură. Toate pachetele și prețurile noastre sunt publice — alegi în cunoștință de cauză, fără presiune.</p>
+      <p>Nu lucrăm cu tarife ascunse sau surprize în factură. Toate pachetele și prețurile noastre sunt publice. Alegi în cunoștință de cauză, fără presiune.</p>
       <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
     </div>
     <div class="rel-links">

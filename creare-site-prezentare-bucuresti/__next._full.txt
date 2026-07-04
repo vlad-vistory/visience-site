@@ -69,7 +69,7 @@ c:I[68027,["/_next/static/chunks/42gh686sk5w8x.js","/_next/static/chunks/158myu8
   <a href="/contact/"    class="nm-l">Contact</a>
   <a href="/#contact" class="btn btn-solid" style="margin-top:8px">Solicită ofertă</a>
 </nav>
-0:{"P":null,"c":["","creare-site-prezentare-bucuresti",""],"q":"","i":false,"f":[[["",{"children":["creare-site-prezentare-bucuresti",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/42gh686sk5w8x.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"bricolage_grotesque_4d7004bd-module__Hoo0MG__variable dm_sans_371c950d-module__4cga4q__variable dm_mono_6c018cca-module__6UXbpq__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7"]}]]}]]}],{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"xKgcnFJlKD15sVJq1UG_x"}
+0:{"P":null,"c":["","creare-site-prezentare-bucuresti",""],"q":"","i":false,"f":[[["",{"children":["creare-site-prezentare-bucuresti",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/42gh686sk5w8x.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"bricolage_grotesque_4d7004bd-module__Hoo0MG__variable dm_sans_371c950d-module__4cga4q__variable dm_mono_6c018cca-module__6UXbpq__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7"]}]]}]]}],{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"3rLAHndP0Vi7CM_Je1ZBV"}
 e:I[39756,["/_next/static/chunks/42gh686sk5w8x.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 f:I[37457,["/_next/static/chunks/42gh686sk5w8x.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 11:I[27961,["/_next/static/chunks/42gh686sk5w8x.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
@@ -200,7 +200,7 @@ a:"$W15"
 b:["$","$1","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","div",null,{"hidden":true,"children":["$","$L18",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":"$L1a"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 1c:I[97367,["/_next/static/chunks/42gh686sk5w8x.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
-1b:T6ec8,<style>
+1b:T70e8,<style>
 .csi-hero {
   position: relative;
   padding: calc(var(--nav-h) + 86px) 0 84px;
@@ -500,7 +500,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
     </h1>
 
     <p class="csi-hero__lead">
-      În <strong style="color:#fff;font-weight:500">București</strong> concurența online e uriașă, iar agențiile mari cer prețuri pe măsură. Visience îți face un site de prezentare la același nivel de calitate, dar la un tarif corect — și totul online, fără să te plimbi prin trafic la ședințe. De la landing page la site complet de companie, construim platforma care te scoate în față.
+      În <strong style="color:#fff;font-weight:500">București</strong> concurența online e uriașă, iar agențiile mari cer prețuri pe măsură. Visience îți face un site de prezentare la același nivel de calitate, dar la un tarif corect, totul online, fără să te plimbi prin trafic la ședințe. De la landing page la site complet de companie, construim platforma care te scoate în față.
     </p>
 
     <div class="csi-hero__acts">
@@ -525,9 +525,9 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
       <h2 class="dd dd-lg">Un <span class="acc">site de prezentare</span> pentru afacerea ta din București</h2>
     </div>
     <div class="csi-prose rv">
-      <p>În București, aproape orice afacere are deja un site — deci nu întrebarea „am sau n-am site" contează, ci „arată site-ul meu mai bine și convinge mai repede decât al concurenței?". Un <strong>site de prezentare</strong> gândit corect e diferența dintre un vizitator care închide tab-ul în trei secunde și unul care îți lasă un mesaj. Fie că ai nevoie de <strong>creare site</strong> pentru un business nou, fie că vrei să înlocuiești un site vechi care nu mai aduce nimic, contează ca fiecare detaliu să lucreze pentru tine.</p>
-      <p>Îți spunem direct: <strong>Visience e o agenție din Iași</strong>, nu din București. Și tocmai de-aici vine avantajul tău — primești calitatea și atenția unei echipe cu 12 ani de experiență, dar fără să plătești suprataxa unei agenții mari din Capitală. Toată <strong>crearea site-ului de prezentare</strong> se face online: ne auzim la telefon, discutăm pe video, aprobi etapele din fața laptopului. Am livrat deja peste 120 de proiecte pentru clienți din București, din țară și din străinătate exact așa.</p>
-      <p>Nu-ți cerem să crezi pe cuvânt — ai <a href="/preturi/">toate prețurile</a> afișate public și <a href="/portofoliu/">portofoliul complet</a> la un click. Iar dacă îți trebuie și <a href="/creare-magazin-online/">un magazin online</a> sau <a href="/optimizare-seo/">optimizare SEO</a> ca să concurezi serios în București, le facem tot noi.</p>
+      <p>În București, aproape orice afacere are deja un site, deci nu contează întrebarea „am sau n-am site" contează, ci „arată site-ul meu mai bine și convinge mai repede decât al concurenței?". Un <strong>site de prezentare</strong> gândit corect e diferența dintre un vizitator care închide tab-ul în trei secunde și unul care îți lasă un mesaj. Fie că ai nevoie de <strong>creare site</strong> pentru un business nou, fie că vrei să înlocuiești un site vechi care nu mai aduce nimic, contează ca fiecare detaliu să lucreze pentru tine.</p>
+      <p>Îți spunem direct: <strong>Visience e o agenție din Iași</strong>, nu din București. Și tocmai de aici vine avantajul tău: primești calitatea și atenția unei echipe cu 12 ani de experiență, dar fără să plătești suprataxa unei agenții mari din Capitală. Toată <strong>crearea site-ului de prezentare</strong> se face online: ne auzim la telefon, discutăm pe video, aprobi etapele din fața laptopului. Am livrat deja peste 120 de proiecte pentru clienți din București, din țară și din străinătate exact așa.</p>
+      <p>Nu-ți cerem să crezi pe cuvânt. Ai <a href="/preturi/">toate prețurile</a> afișate public și <a href="/portofoliu/">portofoliul complet</a> la un click. Iar dacă îți trebuie și <a href="/creare-magazin-online/">un magazin online</a> sau <a href="/optimizare-seo/">optimizare SEO</a> ca să concurezi serios în București, le facem tot noi.</p>
     </div>
   </div>
 </section>
@@ -538,7 +538,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
     <div class="csi-head rv">
       <div class="eyebrow"><span class="ey-dot"></span>Ce primești</div>
       <h2 class="dd dd-lg">Ce include un <span class="acc">site de prezentare</span> de la Visience</h2>
-      <p class="body-lg" style="margin-top:14px">Un proiect complet, gata de folosit — nu o machetă frumoasă care nu aduce clienți.</p>
+      <p class="body-lg" style="margin-top:14px">Un proiect complet, gata de folosit, nu o machetă frumoasă care nu aduce clienți.</p>
     </div>
     <div class="csi-grid rv rv-d1">
       <div class="csi-card">
@@ -584,7 +584,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
         <span class="csi-type__n">02</span>
         <div>
           <h3>Site de firmă</h3>
-          <p>Website complet, multi-pagină, pentru companii care vor o prezență serioasă: servicii, echipă, portofoliu, contact — totul aliniat brandului.</p>
+          <p>Website complet, multi-pagină, pentru companii care vor o prezență serioasă: servicii, echipă, portofoliu, contact, toate aliniate brandului.</p>
         </div>
       </div>
       <div class="csi-type">
@@ -611,7 +611,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
     <div class="csi-head rv">
       <div class="eyebrow"><span class="ey-dot"></span>Portofoliu</div>
       <h2 class="dd dd-lg">Câteva <span class="acc">proiecte recente</span></h2>
-      <p class="body-lg" style="margin-top:14px">Site-uri de prezentare livrate de Visience pentru clienți din România și din străinătate — același nivel de care beneficiezi și tu, în București.</p>
+      <p class="body-lg" style="margin-top:14px">Site-uri de prezentare livrate de Visience pentru clienți din România și din străinătate. Același nivel de care beneficiezi și tu, în București.</p>
     </div>
     <div class="csi-porto rv rv-d1">
       <a class="csi-shot" href="/portofoliu/">
@@ -659,7 +659,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
     <div class="csi-head center rv">
       <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Prețuri transparente</div>
       <h2 class="dd dd-lg">Cât costă un <span class="acc">site de prezentare</span> pentru o firmă din București?</h2>
-      <p class="body-lg" style="margin-top:14px">Aceleași pachete, același preț pentru toată lumea — indiferent că ești din București sau din alt colț de țară. Fără „taxă de Capitală", fără surprize.</p>
+      <p class="body-lg" style="margin-top:14px">Aceleași pachete, același preț pentru toată lumea, indiferent că ești din București sau din alt colț de țară. Fără „taxă de Capitală", fără surprize.</p>
     </div>
     <div class="csi-pr rv rv-d1">
       <div class="csi-pr-card">
@@ -685,7 +685,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
       </div>
     </div>
     <p class="csi-pr-note rv rv-d2">
-      Peste pachet se adaugă doar niște costuri mici, o singură dată: domeniul (15€) și găzduirea (85€/an). Vrei un preț fix pentru proiectul tău? <a href="/preturi/">Vezi toate prețurile</a> sau <a href="/contact/">cere o ofertă</a> — răspundem în 24 de ore.
+      Peste pachet se adaugă doar niște costuri mici, o singură dată: domeniul (15€) și găzduirea (85€/an). Vrei un preț fix pentru proiectul tău? <a href="/preturi/">Vezi toate prețurile</a> sau <a href="/contact/">cere o ofertă</a>. Răspundem în 24 de ore.
     </p>
   </div>
 </section>
@@ -716,7 +716,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
     <div class="csi-faq rv">
       <details>
         <summary>De ce aș lucra cu o agenție din Iași și nu din București?</summary>
-        <p>Pentru că primești aceeași calitate, dar fără suprataxa unei agenții mari din Capitală. Lucrăm de 12 ani, avem peste 120 de proiecte livrate și colaborăm integral online — deci pentru tine nu se schimbă nimic la nivel de experiență, doar la nivel de preț. În plus, nu pierzi timp cu ședințe față în față prin traficul din București.</p>
+        <p>Pentru că primești aceeași calitate, dar fără suprataxa unei agenții mari din Capitală. Lucrăm de 12 ani, avem peste 120 de proiecte livrate și colaborăm integral online, deci pentru tine nu se schimbă nimic la nivel de experiență, doar la nivel de preț. În plus, nu pierzi timp cu ședințe față în față prin traficul din București.</p>
       </details>
       <details>
         <summary>Cât costă un site de prezentare pentru o firmă din București?</summary>
@@ -728,7 +728,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
       </details>
       <details>
         <summary>O să apară site-ul meu în Google pentru căutări din București?</summary>
-        <p>Site-ul e construit corect tehnic și optimizat SEO din start, deci pornește bine. Dar Bucureștiul e o piață foarte competitivă — pentru poziții serioase în căutări recomandăm și <a href="/optimizare-seo/">optimizarea SEO continuă</a>, munca lunară care te urcă efectiv peste concurență.</p>
+        <p>Site-ul e construit corect tehnic și optimizat SEO din start, deci pornește bine. Dar Bucureștiul e o piață foarte competitivă. Pentru poziții serioase în căutări recomandăm și <a href="/optimizare-seo/">optimizarea SEO continuă</a>, munca lunară care te urcă efectiv peste concurență.</p>
       </details>
       <details>
         <summary>Pot să modific singur site-ul după predare?</summary>
@@ -736,7 +736,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
       </details>
       <details>
         <summary>Am deja un site. Merită să-l refac?</summary>
-        <p>Dacă e vechi, lent sau nu-ți aduce cereri, aproape sigur da — în București un site slab te costă clienți în fiecare zi. Ne uităm împreună la ce ai și îți spunem cinstit dacă merită reconstruit de la zero sau doar îmbunătățit. Vezi și <a href="/portofoliu/">portofoliul</a> pentru o idee de rezultat.</p>
+        <p>Dacă e vechi, lent sau nu-ți aduce cereri, aproape sigur da. În București, un site slab te costă clienți în fiecare zi. Ne uităm împreună la ce ai și îți spunem cinstit dacă merită reconstruit de la zero sau doar îmbunătățit. Vezi și <a href="/portofoliu/">portofoliul</a> pentru o idee de rezultat.</p>
       </details>
     </div>
   </div>
@@ -748,7 +748,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
     <div class="rv">
       <div class="eyebrow" style="justify-content:center;color:var(--acc2)"><span class="ey-dot" style="background:var(--acc2)"></span>Hai să începem</div>
       <h2 class="dd dd-lg csi-cta__h" id="csi-cta-h">Gata pentru un<br><span class="acc">site de prezentare în București?</span></h2>
-      <p class="csi-cta__p">Spune-ne câteva detalii despre firma ta din București și primești în 24 de ore o ofertă clară, cu preț fix — calitate de agenție mare, fără taxă de Capitală.</p>
+      <p class="csi-cta__p">Spune-ne câteva detalii despre firma ta din București și primești în 24 de ore o ofertă clară, cu preț fix: calitate de agenție mare, fără taxă de Capitală.</p>
       <div class="csi-cta__acts">
         <a href="/contact/" class="btn btn-solid">Cere ofertă gratuită</a>
         <a href="tel:+40771486499" class="btn btn-dark">+40 771 486 499</a>
@@ -763,7 +763,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3b23shbd_73w9
     <div class="rel-trans">
       <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
       <h2>Vezi exact cât plătești.</h2>
-      <p>Nu lucrăm cu tarife ascunse sau surprize în factură. Toate pachetele și prețurile noastre sunt publice — alegi în cunoștință de cauză, fără presiune.</p>
+      <p>Nu lucrăm cu tarife ascunse sau surprize în factură. Toate pachetele și prețurile noastre sunt publice. Alegi în cunoștință de cauză, fără presiune.</p>
       <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
     </div>
     <div class="rel-links">

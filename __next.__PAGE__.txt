@@ -2,8 +2,8 @@
 8:I[97367,["/_next/static/chunks/42gh686sk5w8x.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 9:"$Sreact.suspense"
 :HL["/_next/static/chunks/3gqqwvmwcl-2_.css","style"]
-2:T1062,{"@context":"https://schema.org","@graph":[{"@type":"OfferCatalog","@id":"https://visience.ro/#servicii","name":"Servicii Visience","provider":{"@id":"https://visience.ro/#organization"},"itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"150","itemOffered":{"@type":"Service","name":"Creare website de prezentare","description":"Landing page-uri, site-uri de companie și portofolii cu CMS, design adaptiv și SEO tehnic."}},{"@type":"Offer","priceCurrency":"EUR","price":"700","itemOffered":{"@type":"Service","name":"Creare magazin online","url":"https://visience.ro/creare-magazin-online/","description":"Magazine online pe WooCommerce sau Shopify, optimizate pentru conversie, cu plăți și integrare Google & Meta Ads."}},{"@type":"Offer","priceCurrency":"EUR","price":"150","itemOffered":{"@type":"Service","name":"Branding și identitate vizuală","description":"Logo, brand book complet și identitate vizuală pentru online și offline."}},{"@type":"Offer","priceCurrency":"EUR","price":"100","itemOffered":{"@type":"Service","name":"Social Media Management","description":"Strategie, conținut, postare și gestionare completă a rețelelor sociale."}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"PPC — Google și Meta Ads","description":"Campanii de Lead Generation, remarketing și Shopping cu focus pe conversii."}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"SEO și Content Marketing","description":"SEO tehnic, strategie on-page și off-page, backlinking, newsletter și email marketing."}},{"@type":"Offer","priceCurrency":"EUR","price":"50","itemOffered":{"@type":"Service","name":"Software și App Development","description":"Aplicații mobile iOS și Android, Cloud Migration, AI & Data Solutions și automatizări RPA."}}]},{"@type":"FAQPage","@id":"https://visience.ro/#faq","mainEntity":[{"@type":"Question","name":"Cât costă crearea unui site web la Visience?","acceptedAnswer":{"@type":"Answer","text":"Un site de prezentare standard pornește de la 500€, un site avansat de la 1.000€, iar un site premium cu design custom de la 2.000€. Prețul final depinde de numărul de pagini, funcționalități și nivelul de personalizare."}},{"@type":"Question","name":"Cât costă un magazin online?","acceptedAnswer":{"@type":"Answer","text":"Un magazin online pe WooCommerce sau Shopify pornește de la 700€ (Basic), 1.500€ (Standard) și 3.000€ (Premium). Toate includ produse, plăți online, livrare automatizată și integrare cu Google și Meta Ads."}},{"@type":"Question","name":"Ce include un proiect de branding?","acceptedAnswer":{"@type":"Answer","text":"Logo, ton de comunicare și identitate vizuală pentru online și offline. Pachetul Standard, cu brand book complet, pornește de la 1.000€, iar Premium, cu BrandBook extins, de la 2.000€."}},{"@type":"Question","name":"Cât costă serviciile de SEO?","acceptedAnswer":{"@type":"Answer","text":"SEO tehnic punctual este la 40€/oră, iar strategia SEO lunară continuă pornește de la 500€/lună. Pentru magazine online, optimizarea SEO completă pornește de la 1.500€."}},{"@type":"Question","name":"În ce orașe lucrează Visience?","acceptedAnswer":{"@type":"Answer","text":"Visience are sediul în Iași și lucrează cu clienți din toată România, inclusiv București, Timișoara, Cluj-Napoca, Suceava și Bacău. Proiectele se desfășoară integral online."}},{"@type":"Question","name":"Pe ce platforme construiește Visience site-uri?","acceptedAnswer":{"@type":"Answer","text":"Construim pe WordPress (Oxygen, Elementor), Shopify, WooCommerce și Webflow, precum și soluții custom. Alegem platforma în funcție de nevoile proiectului."}},{"@type":"Question","name":"Cât durează realizarea unui site web?","acceptedAnswer":{"@type":"Answer","text":"Un landing page în câteva zile, un site de prezentare standard în 2–4 săptămâni, iar un proiect premium sau un magazin online complex în 4–8 săptămâni."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4"],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"xKgcnFJlKD15sVJq1UG_x"}
-7:T21349,
+2:T1062,{"@context":"https://schema.org","@graph":[{"@type":"OfferCatalog","@id":"https://visience.ro/#servicii","name":"Servicii Visience","provider":{"@id":"https://visience.ro/#organization"},"itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"150","itemOffered":{"@type":"Service","name":"Creare website de prezentare","description":"Landing page-uri, site-uri de companie și portofolii cu CMS, design adaptiv și SEO tehnic."}},{"@type":"Offer","priceCurrency":"EUR","price":"700","itemOffered":{"@type":"Service","name":"Creare magazin online","url":"https://visience.ro/creare-magazin-online/","description":"Magazine online pe WooCommerce sau Shopify, optimizate pentru conversie, cu plăți și integrare Google & Meta Ads."}},{"@type":"Offer","priceCurrency":"EUR","price":"150","itemOffered":{"@type":"Service","name":"Branding și identitate vizuală","description":"Logo, brand book complet și identitate vizuală pentru online și offline."}},{"@type":"Offer","priceCurrency":"EUR","price":"100","itemOffered":{"@type":"Service","name":"Social Media Management","description":"Strategie, conținut, postare și gestionare completă a rețelelor sociale."}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"PPC — Google și Meta Ads","description":"Campanii de Lead Generation, remarketing și Shopping cu focus pe conversii."}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"SEO și Content Marketing","description":"SEO tehnic, strategie on-page și off-page, backlinking, newsletter și email marketing."}},{"@type":"Offer","priceCurrency":"EUR","price":"50","itemOffered":{"@type":"Service","name":"Software și App Development","description":"Aplicații mobile iOS și Android, Cloud Migration, AI & Data Solutions și automatizări RPA."}}]},{"@type":"FAQPage","@id":"https://visience.ro/#faq","mainEntity":[{"@type":"Question","name":"Cât costă crearea unui site web la Visience?","acceptedAnswer":{"@type":"Answer","text":"Un site de prezentare standard pornește de la 500€, un site avansat de la 1.000€, iar un site premium cu design custom de la 2.000€. Prețul final depinde de numărul de pagini, funcționalități și nivelul de personalizare."}},{"@type":"Question","name":"Cât costă un magazin online?","acceptedAnswer":{"@type":"Answer","text":"Un magazin online pe WooCommerce sau Shopify pornește de la 700€ (Basic), 1.500€ (Standard) și 3.000€ (Premium). Toate includ produse, plăți online, livrare automatizată și integrare cu Google și Meta Ads."}},{"@type":"Question","name":"Ce include un proiect de branding?","acceptedAnswer":{"@type":"Answer","text":"Logo, ton de comunicare și identitate vizuală pentru online și offline. Pachetul Standard, cu brand book complet, pornește de la 1.000€, iar Premium, cu BrandBook extins, de la 2.000€."}},{"@type":"Question","name":"Cât costă serviciile de SEO?","acceptedAnswer":{"@type":"Answer","text":"SEO tehnic punctual este la 40€/oră, iar strategia SEO lunară continuă pornește de la 500€/lună. Pentru magazine online, optimizarea SEO completă pornește de la 1.500€."}},{"@type":"Question","name":"În ce orașe lucrează Visience?","acceptedAnswer":{"@type":"Answer","text":"Visience are sediul în Iași și lucrează cu clienți din toată România, inclusiv București, Timișoara, Cluj-Napoca, Suceava și Bacău. Proiectele se desfășoară integral online."}},{"@type":"Question","name":"Pe ce platforme construiește Visience site-uri?","acceptedAnswer":{"@type":"Answer","text":"Construim pe WordPress (Oxygen, Elementor), Shopify, WooCommerce și Webflow, precum și soluții custom. Alegem platforma în funcție de nevoile proiectului."}},{"@type":"Question","name":"Cât durează realizarea unui site web?","acceptedAnswer":{"@type":"Answer","text":"Un landing page în câteva zile, un site de prezentare standard în 2–4 săptămâni, iar un proiect premium sau un magazin online complex în 4–8 săptămâni."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4"],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"3rLAHndP0Vi7CM_Je1ZBV"}
+7:T21343,
 
 <div class="vis-home">
 
@@ -28,7 +28,7 @@
 
     <div class="hero__bot">
       <p class="hero__desc">
-        Construim mai întâi imaginea care fidelizează — brand, website, social media — apoi amplificăm cu marketing precis care aduce clienți noi, constant.
+        Construim mai întâi imaginea care fidelizează: brand, website, social media. Apoi amplificăm cu marketing precis, care aduce clienți noi în mod constant.
       </p>
       <div class="hero__acts">
         <a href="#contact" class="btn btn-solid">Solicită analiză gratuită</a>
@@ -163,7 +163,7 @@
 
       <div class="rv rv-d2">
         <p class="manifesto__body">
-          Cele mai multe agenții pornesc reclame fără să rezolve problema de bază: imaginea companiei. Noi facem invers — construim mai întâi un brand coerent, un website care convertește și o prezență socială care inspiră încredere. Abia după asta activăm motoarele de creștere.
+          Cele mai multe agenții pornesc reclame fără să rezolve problema de bază: imaginea companiei. Noi facem invers. Construim întâi un brand coerent, un website care convertește și o prezență socială care inspiră încredere, și abia apoi pornim reclamele.
         </p>
 
         <div class="msteps">
@@ -280,7 +280,7 @@
       <h2 class="dd dd-lg" id="svc-h">Servicii de marketing<br>și web design</h2>
     </div>
     <p class="body-lg services__sub">
-      Fiecare serviciu configurat pe obiectivele tale — nu vindem pachete fixe.
+      Fiecare serviciu e configurat pe obiectivele tale. Nu vindem pachete fixe.
       <strong>Și nu avem prețuri ascunse:</strong> vezi exact cât plătești în
       <a href="/preturi/" style="color:var(--acc);border-bottom:1px solid var(--acc)">pagina de prețuri</a>.
     </p>
@@ -336,7 +336,7 @@
 
         <div class="svc-card__body">
           <h3 class="svc-card__name">Website de prezentare</h3>
-          <p class="svc-card__desc">Landing page-uri, site-uri de companie și portofolii. CMS inclus, design adaptiv, SEO tehnic de la bun început. Pagini Despre, Servicii, Contact — totul aliniat brandului tău.</p>
+          <p class="svc-card__desc">Landing page-uri, site-uri de companie și portofolii. CMS inclus, design adaptiv și SEO tehnic încă din construcție. Pagini Despre, Servicii, Contact, toate aliniate brandului tău.</p>
           <div class="svc-card__prices">
             <div class="svc-price-pill"><span class="svc-price-pill__lbl">Standard</span><span class="svc-price-pill__val">500€</span></div>
             <div class="svc-price-pill"><span class="svc-price-pill__lbl">Avansat</span><span class="svc-price-pill__val">1.000€</span></div>
@@ -629,7 +629,7 @@
     <div class="spec__head rv">
       <div class="eyebrow"><span class="ey-dot"></span>Specializările noastre</div>
       <h2 class="dd dd-lg" id="spec-h">Pe ce suntem<br>specializați</h2>
-      <p class="body-lg spec__sub">Trei direcții în care livrăm constant rezultate — fiecare cu pagină dedicată și prețuri clare.</p>
+      <p class="body-lg spec__sub">Trei direcții în care livrăm rezultate constant, fiecare cu pagină dedicată și prețuri clare.</p>
     </div>
 
     <div class="spec__grid">
@@ -682,7 +682,7 @@
         <h2 class="dd dd-lg" id="case-h">Numere reale,<br>rezultate reale</h2>
       </div>
       <p class="body-lg" style="max-width:320px">
-        Cifrele de mai jos sunt rezultate confirmate din proiecte livrate — nu estimări.
+        Cifrele de mai jos sunt rezultate confirmate din proiecte livrate, nu estimări.
       </p>
     </div>
 
@@ -1141,7 +1141,7 @@
           <div class="why-n">03</div>
           <div>
             <div class="why-t">Echipă internă completă</div>
-            <div class="why-d">Design, programare, copywriting, campanii PPC — totul sub un singur acoperiș, fără intermediari.</div>
+            <div class="why-d">Design, programare, copywriting, campanii PPC. Totul sub un singur acoperiș, fără intermediari.</div>
           </div>
         </div>
         <div class="why-row">
@@ -1155,7 +1155,7 @@
           <div class="why-n">05</div>
           <div>
             <div class="why-t">Parteneriat, nu tranzacție</div>
-            <div class="why-d">Suntem la fel de interesați de succesul tău ca și tine — succesul tău este referința noastră.</div>
+            <div class="why-d">Suntem la fel de interesați de succesul tău ca tine. Fiecare proiect reușit devine următoarea noastră recomandare.</div>
           </div>
         </div>
       </div>
@@ -1176,7 +1176,7 @@
           Construim pe<br>platformele potrivite
         </h2>
         <p class="body-lg">
-          WordPress, Shopify, Webflow, Elementor sau custom — lucrăm în ecosistemele pe care le cunoști.
+          WordPress, Shopify, Webflow, Elementor sau custom: lucrăm în ecosistemele pe care le cunoști deja.
         </p>
         <div class="tech__pills">
           <div class="t-pill"><span class="t-dot"></span>WordPress</div>

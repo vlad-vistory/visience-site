@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 5:I[97367,["/_next/static/chunks/42gh686sk5w8x.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 6:"$Sreact.suspense"
-2:Tb17,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-prezentare/#service","name":"Creare website de prezentare","serviceType":"Web design și dezvoltare website","description":"Creare site-uri de prezentare profesionale: landing page-uri, site-uri de companie și portofolii. Design adaptiv, SEO tehnic, CMS inclus. De la 150€.","provider":{"@type":"Organization","name":"Visience Creative Experience","url":"https://visience.ro/"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"150","highPrice":"2000","offerCount":"3"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-prezentare/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site de prezentare?","acceptedAnswer":{"@type":"Answer","text":"Un site de prezentare standard multi-pagină pornește de la 500€, iar un site premium cu design custom de la 2.000€. Pentru o campanie, un landing page simplu pornește de la 150€. Prețul depinde de numărul de pagini, funcționalități și personalizare."}},{"@type":"Question","name":"Cât durează realizarea unui site de prezentare?","acceptedAnswer":{"@type":"Answer","text":"Un landing page se livrează în câteva zile, un site standard în 2–4 săptămâni, iar un proiect premium în 4–8 săptămâni, în funcție de volumul de conținut și de feedback."}},{"@type":"Question","name":"Pe ce platformă construiți site-ul?","acceptedAnswer":{"@type":"Answer","text":"Construim cel mai des pe WordPress (Oxygen Builder sau Elementor) și Webflow, astfel încât să poți edita ușor conținutul după livrare."}},{"@type":"Question","name":"Site-ul va fi optimizat pentru telefon și pentru Google?","acceptedAnswer":{"@type":"Answer","text":"Da. Fiecare site este responsive și include SEO tehnic de la bun început: viteză optimizată, structură corectă și date structurate. Țintim un scor PageSpeed de 95–100 pe mobil."}},{"@type":"Question","name":"Pot edita singur conținutul după ce primesc site-ul?","acceptedAnswer":{"@type":"Answer","text":"Da. Toate site-urile includ un CMS, deci poți modifica texte, imagini și pagini fără cunoștințe tehnice. Oferim și o sesiune de instruire la livrare."}},{"@type":"Question","name":"Includeți și textele (copywriting) pentru site?","acceptedAnswer":{"@type":"Answer","text":"Da. Copywriting-ul orientat spre conversie este inclus în pachetele Standard și Premium, iar pentru landing page poate fi adăugat ca opțiune."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Website de prezentare","item":"https://visience.ro/creare-site-prezentare/"}]}]}3:T98e2,<style>
+2:Tb17,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-prezentare/#service","name":"Creare website de prezentare","serviceType":"Web design și dezvoltare website","description":"Creare site-uri de prezentare profesionale: landing page-uri, site-uri de companie și portofolii. Design adaptiv, SEO tehnic, CMS inclus. De la 150€.","provider":{"@type":"Organization","name":"Visience Creative Experience","url":"https://visience.ro/"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"150","highPrice":"2000","offerCount":"3"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-prezentare/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site de prezentare?","acceptedAnswer":{"@type":"Answer","text":"Un site de prezentare standard multi-pagină pornește de la 500€, iar un site premium cu design custom de la 2.000€. Pentru o campanie, un landing page simplu pornește de la 150€. Prețul depinde de numărul de pagini, funcționalități și personalizare."}},{"@type":"Question","name":"Cât durează realizarea unui site de prezentare?","acceptedAnswer":{"@type":"Answer","text":"Un landing page se livrează în câteva zile, un site standard în 2–4 săptămâni, iar un proiect premium în 4–8 săptămâni, în funcție de volumul de conținut și de feedback."}},{"@type":"Question","name":"Pe ce platformă construiți site-ul?","acceptedAnswer":{"@type":"Answer","text":"Construim cel mai des pe WordPress (Oxygen Builder sau Elementor) și Webflow, astfel încât să poți edita ușor conținutul după livrare."}},{"@type":"Question","name":"Site-ul va fi optimizat pentru telefon și pentru Google?","acceptedAnswer":{"@type":"Answer","text":"Da. Fiecare site este responsive și include SEO tehnic de la bun început: viteză optimizată, structură corectă și date structurate. Țintim un scor PageSpeed de 95–100 pe mobil."}},{"@type":"Question","name":"Pot edita singur conținutul după ce primesc site-ul?","acceptedAnswer":{"@type":"Answer","text":"Da. Toate site-urile includ un CMS, deci poți modifica texte, imagini și pagini fără cunoștințe tehnice. Oferim și o sesiune de instruire la livrare."}},{"@type":"Question","name":"Includeți și textele (copywriting) pentru site?","acceptedAnswer":{"@type":"Answer","text":"Da. Copywriting-ul orientat spre conversie este inclus în pachetele Standard și Premium, iar pentru landing page poate fi adăugat ca opțiune."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Website de prezentare","item":"https://visience.ro/creare-site-prezentare/"}]}]}3:T98de,<style>
 .wsp-sec-head { margin-bottom: 52px; max-width: 640px; }
 @media (max-width: 640px) { .wsp-sec-head { margin-bottom: 36px; } }
 
@@ -263,7 +263,7 @@
 
     <div class="wsp-hero__meta">
       <span><i class="fas fa-mobile-screen" aria-hidden="true"></i> 100% responsive</span>
-      <span><i class="fas fa-gauge-high" aria-hidden="true"></i> PageSpeed 95–100</span>
+      <span><i class="fas fa-gauge-high" aria-hidden="true"></i> Optimizat pentru viteză</span>
       <span><i class="fas fa-magnifying-glass-chart" aria-hidden="true"></i> SEO tehnic inclus</span>
     </div>
   </div>
@@ -283,7 +283,7 @@
         Un <strong>site de prezentare</strong> este un website care prezintă afacerea, serviciile și valorile companiei tale, cu scopul de a transforma vizitatorii în clienți. La Visience construim site-uri de prezentare de la zero — fără șabloane — adaptate brandului, industriei și obiectivelor tale.
       </p>
       <p class="wsp-intro__body">
-        Fie că ai nevoie de un singur landing page optimizat pentru o campanie, de un site de companie clasic cu paginile Despre, Servicii și Contact, sau de un site premium cu design custom și animații, livrăm o platformă rapidă, sigură și ușor de administrat. Toate site-urile sunt responsive și optimizate SEO tehnic de la bun început.
+        Fie că ai nevoie de un singur landing page optimizat pentru o campanie, de un site de companie clasic cu paginile Despre, Servicii și Contact, sau de un site premium cu design custom și animații, livrăm o platformă rapidă, sigură și ușor de administrat. Toate site-urile sunt responsive și optimizate SEO tehnic din start.
       </p>
     </div>
   </div>
@@ -317,7 +317,7 @@
         <div class="wsp-type__icon" aria-hidden="true"><i class="fas fa-building"></i></div>
         <div class="wsp-type__tag">De la 500€</div>
         <h3 class="wsp-type__name">Site de Prezentare</h3>
-        <p class="wsp-type__desc">Site-ul clasic de companie, multi-pagină. Paginile Acasă, Despre, Servicii, Portofoliu și Contact — totul aliniat brandului, cu CMS pe care îl editezi singur.</p>
+        <p class="wsp-type__desc">Site-ul clasic de companie, multi-pagină. Paginile Acasă, Despre, Servicii, Portofoliu și Contact, toate aliniate brandului, cu CMS pe care îl editezi singur.</p>
         <ul class="wsp-type__list">
           <li>5–8 pagini</li>
           <li>CMS inclus + instruire</li>
@@ -370,7 +370,7 @@
       <div class="wsp-feat__cell rv rv-d1">
         <i class="fas fa-gauge-high" aria-hidden="true"></i>
         <h3>Viteză de încărcare</h3>
-        <p>Imagini AVIF, cod curat, lazy-load. Țintim un scor PageSpeed de 95–100 pe mobil.</p>
+        <p>Imagini AVIF, cod curat, lazy-load. Site-uri care se încarcă repede, mai ales pe mobil.</p>
       </div>
       <div class="wsp-feat__cell rv rv-d2">
         <i class="fas fa-magnifying-glass-chart" aria-hidden="true"></i>
@@ -572,7 +572,7 @@
       </details>
       <details class="wsp-faq__item">
         <summary class="wsp-faq__q">Site-ul va fi optimizat pentru telefon și Google?</summary>
-        <div class="wsp-faq__a">Da. Fiecare site este responsive și include SEO tehnic de la bun început: viteză optimizată, structură corectă și date structurate. Țintim un scor PageSpeed de <strong>95–100</strong> pe mobil.</div>
+        <div class="wsp-faq__a">Da. Fiecare site este responsive și include SEO tehnic din construcție: viteză, structură corectă și date structurate. Punem accent pe viteza pe mobil, acolo unde ajung cei mai mulți vizitatori.</div>
       </details>
       <details class="wsp-faq__item">
         <summary class="wsp-faq__q">Pot edita singur conținutul după livrare?</summary>
@@ -639,7 +639,7 @@
     <div class="rel-trans">
       <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
       <h2>Vezi exact cât plătești.</h2>
-      <p>Nu lucrăm cu tarife ascunse sau surprize în factură. Toate pachetele și prețurile noastre sunt publice — alegi în cunoștință de cauză, fără presiune.</p>
+      <p>Nu lucrăm cu tarife ascunse sau surprize în factură. Toate pachetele și prețurile noastre sunt publice. Alegi în cunoștință de cauză, fără presiune.</p>
       <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
     </div>
     <div class="rel-links">
@@ -654,6 +654,6 @@
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"xKgcnFJlKD15sVJq1UG_x"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"3rLAHndP0Vi7CM_Je1ZBV"}
 4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
 7:null

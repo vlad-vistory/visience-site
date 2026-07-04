@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
 6:I[97367,["/_next/static/chunks/42gh686sk5w8x.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-2:Td77,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-prezentare-bucuresti/#service","name":"Creare site de prezentare în București","serviceType":"Creare site de prezentare și web design","description":"Creare site de prezentare pentru firme din București: landing page, site de companie, site portofoliu sau site premium cu design custom. Colaborare integral online, cu SEO tehnic și CMS editabil.","url":"https://visience.ro/creare-site-prezentare-bucuresti/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"City","name":"București"},{"@type":"Country","name":"România"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"150","highPrice":"2000","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-prezentare-bucuresti/#faq","mainEntity":[{"@type":"Question","name":"De ce aș lucra cu o agenție din Iași și nu din București?","acceptedAnswer":{"@type":"Answer","text":"Pentru că primești aceeași calitate, dar fără suprataxa unei agenții mari din Capitală. Lucrăm de 12 ani, avem peste 120 de proiecte livrate și colaborăm integral online — deci pentru tine nu se schimbă nimic la nivel de experiență, doar la nivel de preț. În plus, nu pierzi timp cu ședințe față în față prin traficul din București."}},{"@type":"Question","name":"Cât costă un site de prezentare pentru o firmă din București?","acceptedAnswer":{"@type":"Answer","text":"Pornește de la 150€ pentru un landing page, de la 500€ pentru un site standard și de la 2.000€ pentru unul premium cu design la comandă. Prețurile sunt aceleași pentru toți clienții, indiferent de oraș. Primești o ofertă clară în 24 de ore, fără obligații."}},{"@type":"Question","name":"În cât timp e gata site-ul?","acceptedAnswer":{"@type":"Answer","text":"Un landing page în câteva zile, un site standard în 2–4 săptămâni, iar un proiect premium în 4–8 săptămâni. Ritmul depinde mult de cât de repede ne trimiți conținutul și aprobi etapele."}},{"@type":"Question","name":"O să apară site-ul meu în Google pentru căutări din București?","acceptedAnswer":{"@type":"Answer","text":"Site-ul e construit corect tehnic și optimizat SEO din start. Dar Bucureștiul e o piață foarte competitivă — pentru poziții serioase în căutări recomandăm și optimizarea SEO continuă, munca lunară care te urcă efectiv peste concurență."}},{"@type":"Question","name":"Pot să modific singur site-ul după predare?","acceptedAnswer":{"@type":"Answer","text":"Da. Îl construim pe un sistem simplu de administrare și îți dăm un ghid video la final, ca să schimbi texte, poze și prețuri fără ajutor. Pentru orice blocaj, suntem la un mesaj distanță."}},{"@type":"Question","name":"Am deja un site. Merită să-l refac?","acceptedAnswer":{"@type":"Answer","text":"Dacă e vechi, lent sau nu-ți aduce cereri, aproape sigur da — în București un site slab te costă clienți în fiecare zi. Ne uităm împreună la ce ai și îți spunem cinstit dacă merită reconstruit de la zero sau doar îmbunătățit."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Creare site de prezentare București","item":"https://visience.ro/creare-site-prezentare-bucuresti/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"xKgcnFJlKD15sVJq1UG_x"}
-5:T6ec8,<style>
+2:Td77,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-prezentare-bucuresti/#service","name":"Creare site de prezentare în București","serviceType":"Creare site de prezentare și web design","description":"Creare site de prezentare pentru firme din București: landing page, site de companie, site portofoliu sau site premium cu design custom. Colaborare integral online, cu SEO tehnic și CMS editabil.","url":"https://visience.ro/creare-site-prezentare-bucuresti/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"City","name":"București"},{"@type":"Country","name":"România"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"150","highPrice":"2000","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-prezentare-bucuresti/#faq","mainEntity":[{"@type":"Question","name":"De ce aș lucra cu o agenție din Iași și nu din București?","acceptedAnswer":{"@type":"Answer","text":"Pentru că primești aceeași calitate, dar fără suprataxa unei agenții mari din Capitală. Lucrăm de 12 ani, avem peste 120 de proiecte livrate și colaborăm integral online — deci pentru tine nu se schimbă nimic la nivel de experiență, doar la nivel de preț. În plus, nu pierzi timp cu ședințe față în față prin traficul din București."}},{"@type":"Question","name":"Cât costă un site de prezentare pentru o firmă din București?","acceptedAnswer":{"@type":"Answer","text":"Pornește de la 150€ pentru un landing page, de la 500€ pentru un site standard și de la 2.000€ pentru unul premium cu design la comandă. Prețurile sunt aceleași pentru toți clienții, indiferent de oraș. Primești o ofertă clară în 24 de ore, fără obligații."}},{"@type":"Question","name":"În cât timp e gata site-ul?","acceptedAnswer":{"@type":"Answer","text":"Un landing page în câteva zile, un site standard în 2–4 săptămâni, iar un proiect premium în 4–8 săptămâni. Ritmul depinde mult de cât de repede ne trimiți conținutul și aprobi etapele."}},{"@type":"Question","name":"O să apară site-ul meu în Google pentru căutări din București?","acceptedAnswer":{"@type":"Answer","text":"Site-ul e construit corect tehnic și optimizat SEO din start. Dar Bucureștiul e o piață foarte competitivă — pentru poziții serioase în căutări recomandăm și optimizarea SEO continuă, munca lunară care te urcă efectiv peste concurență."}},{"@type":"Question","name":"Pot să modific singur site-ul după predare?","acceptedAnswer":{"@type":"Answer","text":"Da. Îl construim pe un sistem simplu de administrare și îți dăm un ghid video la final, ca să schimbi texte, poze și prețuri fără ajutor. Pentru orice blocaj, suntem la un mesaj distanță."}},{"@type":"Question","name":"Am deja un site. Merită să-l refac?","acceptedAnswer":{"@type":"Answer","text":"Dacă e vechi, lent sau nu-ți aduce cereri, aproape sigur da — în București un site slab te costă clienți în fiecare zi. Ne uităm împreună la ce ai și îți spunem cinstit dacă merită reconstruit de la zero sau doar îmbunătățit."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Creare site de prezentare București","item":"https://visience.ro/creare-site-prezentare-bucuresti/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"3rLAHndP0Vi7CM_Je1ZBV"}
+5:T70e8,<style>
 .csi-hero {
   position: relative;
   padding: calc(var(--nav-h) + 86px) 0 84px;
@@ -302,7 +302,7 @@
     </h1>
 
     <p class="csi-hero__lead">
-      În <strong style="color:#fff;font-weight:500">București</strong> concurența online e uriașă, iar agențiile mari cer prețuri pe măsură. Visience îți face un site de prezentare la același nivel de calitate, dar la un tarif corect — și totul online, fără să te plimbi prin trafic la ședințe. De la landing page la site complet de companie, construim platforma care te scoate în față.
+      În <strong style="color:#fff;font-weight:500">București</strong> concurența online e uriașă, iar agențiile mari cer prețuri pe măsură. Visience îți face un site de prezentare la același nivel de calitate, dar la un tarif corect, totul online, fără să te plimbi prin trafic la ședințe. De la landing page la site complet de companie, construim platforma care te scoate în față.
     </p>
 
     <div class="csi-hero__acts">
@@ -327,9 +327,9 @@
       <h2 class="dd dd-lg">Un <span class="acc">site de prezentare</span> pentru afacerea ta din București</h2>
     </div>
     <div class="csi-prose rv">
-      <p>În București, aproape orice afacere are deja un site — deci nu întrebarea „am sau n-am site" contează, ci „arată site-ul meu mai bine și convinge mai repede decât al concurenței?". Un <strong>site de prezentare</strong> gândit corect e diferența dintre un vizitator care închide tab-ul în trei secunde și unul care îți lasă un mesaj. Fie că ai nevoie de <strong>creare site</strong> pentru un business nou, fie că vrei să înlocuiești un site vechi care nu mai aduce nimic, contează ca fiecare detaliu să lucreze pentru tine.</p>
-      <p>Îți spunem direct: <strong>Visience e o agenție din Iași</strong>, nu din București. Și tocmai de-aici vine avantajul tău — primești calitatea și atenția unei echipe cu 12 ani de experiență, dar fără să plătești suprataxa unei agenții mari din Capitală. Toată <strong>crearea site-ului de prezentare</strong> se face online: ne auzim la telefon, discutăm pe video, aprobi etapele din fața laptopului. Am livrat deja peste 120 de proiecte pentru clienți din București, din țară și din străinătate exact așa.</p>
-      <p>Nu-ți cerem să crezi pe cuvânt — ai <a href="/preturi/">toate prețurile</a> afișate public și <a href="/portofoliu/">portofoliul complet</a> la un click. Iar dacă îți trebuie și <a href="/creare-magazin-online/">un magazin online</a> sau <a href="/optimizare-seo/">optimizare SEO</a> ca să concurezi serios în București, le facem tot noi.</p>
+      <p>În București, aproape orice afacere are deja un site, deci nu contează întrebarea „am sau n-am site" contează, ci „arată site-ul meu mai bine și convinge mai repede decât al concurenței?". Un <strong>site de prezentare</strong> gândit corect e diferența dintre un vizitator care închide tab-ul în trei secunde și unul care îți lasă un mesaj. Fie că ai nevoie de <strong>creare site</strong> pentru un business nou, fie că vrei să înlocuiești un site vechi care nu mai aduce nimic, contează ca fiecare detaliu să lucreze pentru tine.</p>
+      <p>Îți spunem direct: <strong>Visience e o agenție din Iași</strong>, nu din București. Și tocmai de aici vine avantajul tău: primești calitatea și atenția unei echipe cu 12 ani de experiență, dar fără să plătești suprataxa unei agenții mari din Capitală. Toată <strong>crearea site-ului de prezentare</strong> se face online: ne auzim la telefon, discutăm pe video, aprobi etapele din fața laptopului. Am livrat deja peste 120 de proiecte pentru clienți din București, din țară și din străinătate exact așa.</p>
+      <p>Nu-ți cerem să crezi pe cuvânt. Ai <a href="/preturi/">toate prețurile</a> afișate public și <a href="/portofoliu/">portofoliul complet</a> la un click. Iar dacă îți trebuie și <a href="/creare-magazin-online/">un magazin online</a> sau <a href="/optimizare-seo/">optimizare SEO</a> ca să concurezi serios în București, le facem tot noi.</p>
     </div>
   </div>
 </section>
@@ -340,7 +340,7 @@
     <div class="csi-head rv">
       <div class="eyebrow"><span class="ey-dot"></span>Ce primești</div>
       <h2 class="dd dd-lg">Ce include un <span class="acc">site de prezentare</span> de la Visience</h2>
-      <p class="body-lg" style="margin-top:14px">Un proiect complet, gata de folosit — nu o machetă frumoasă care nu aduce clienți.</p>
+      <p class="body-lg" style="margin-top:14px">Un proiect complet, gata de folosit, nu o machetă frumoasă care nu aduce clienți.</p>
     </div>
     <div class="csi-grid rv rv-d1">
       <div class="csi-card">
@@ -386,7 +386,7 @@
         <span class="csi-type__n">02</span>
         <div>
           <h3>Site de firmă</h3>
-          <p>Website complet, multi-pagină, pentru companii care vor o prezență serioasă: servicii, echipă, portofoliu, contact — totul aliniat brandului.</p>
+          <p>Website complet, multi-pagină, pentru companii care vor o prezență serioasă: servicii, echipă, portofoliu, contact, toate aliniate brandului.</p>
         </div>
       </div>
       <div class="csi-type">
@@ -413,7 +413,7 @@
     <div class="csi-head rv">
       <div class="eyebrow"><span class="ey-dot"></span>Portofoliu</div>
       <h2 class="dd dd-lg">Câteva <span class="acc">proiecte recente</span></h2>
-      <p class="body-lg" style="margin-top:14px">Site-uri de prezentare livrate de Visience pentru clienți din România și din străinătate — același nivel de care beneficiezi și tu, în București.</p>
+      <p class="body-lg" style="margin-top:14px">Site-uri de prezentare livrate de Visience pentru clienți din România și din străinătate. Același nivel de care beneficiezi și tu, în București.</p>
     </div>
     <div class="csi-porto rv rv-d1">
       <a class="csi-shot" href="/portofoliu/">
@@ -461,7 +461,7 @@
     <div class="csi-head center rv">
       <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Prețuri transparente</div>
       <h2 class="dd dd-lg">Cât costă un <span class="acc">site de prezentare</span> pentru o firmă din București?</h2>
-      <p class="body-lg" style="margin-top:14px">Aceleași pachete, același preț pentru toată lumea — indiferent că ești din București sau din alt colț de țară. Fără „taxă de Capitală", fără surprize.</p>
+      <p class="body-lg" style="margin-top:14px">Aceleași pachete, același preț pentru toată lumea, indiferent că ești din București sau din alt colț de țară. Fără „taxă de Capitală", fără surprize.</p>
     </div>
     <div class="csi-pr rv rv-d1">
       <div class="csi-pr-card">
@@ -487,7 +487,7 @@
       </div>
     </div>
     <p class="csi-pr-note rv rv-d2">
-      Peste pachet se adaugă doar niște costuri mici, o singură dată: domeniul (15€) și găzduirea (85€/an). Vrei un preț fix pentru proiectul tău? <a href="/preturi/">Vezi toate prețurile</a> sau <a href="/contact/">cere o ofertă</a> — răspundem în 24 de ore.
+      Peste pachet se adaugă doar niște costuri mici, o singură dată: domeniul (15€) și găzduirea (85€/an). Vrei un preț fix pentru proiectul tău? <a href="/preturi/">Vezi toate prețurile</a> sau <a href="/contact/">cere o ofertă</a>. Răspundem în 24 de ore.
     </p>
   </div>
 </section>
@@ -518,7 +518,7 @@
     <div class="csi-faq rv">
       <details>
         <summary>De ce aș lucra cu o agenție din Iași și nu din București?</summary>
-        <p>Pentru că primești aceeași calitate, dar fără suprataxa unei agenții mari din Capitală. Lucrăm de 12 ani, avem peste 120 de proiecte livrate și colaborăm integral online — deci pentru tine nu se schimbă nimic la nivel de experiență, doar la nivel de preț. În plus, nu pierzi timp cu ședințe față în față prin traficul din București.</p>
+        <p>Pentru că primești aceeași calitate, dar fără suprataxa unei agenții mari din Capitală. Lucrăm de 12 ani, avem peste 120 de proiecte livrate și colaborăm integral online, deci pentru tine nu se schimbă nimic la nivel de experiență, doar la nivel de preț. În plus, nu pierzi timp cu ședințe față în față prin traficul din București.</p>
       </details>
       <details>
         <summary>Cât costă un site de prezentare pentru o firmă din București?</summary>
@@ -530,7 +530,7 @@
       </details>
       <details>
         <summary>O să apară site-ul meu în Google pentru căutări din București?</summary>
-        <p>Site-ul e construit corect tehnic și optimizat SEO din start, deci pornește bine. Dar Bucureștiul e o piață foarte competitivă — pentru poziții serioase în căutări recomandăm și <a href="/optimizare-seo/">optimizarea SEO continuă</a>, munca lunară care te urcă efectiv peste concurență.</p>
+        <p>Site-ul e construit corect tehnic și optimizat SEO din start, deci pornește bine. Dar Bucureștiul e o piață foarte competitivă. Pentru poziții serioase în căutări recomandăm și <a href="/optimizare-seo/">optimizarea SEO continuă</a>, munca lunară care te urcă efectiv peste concurență.</p>
       </details>
       <details>
         <summary>Pot să modific singur site-ul după predare?</summary>
@@ -538,7 +538,7 @@
       </details>
       <details>
         <summary>Am deja un site. Merită să-l refac?</summary>
-        <p>Dacă e vechi, lent sau nu-ți aduce cereri, aproape sigur da — în București un site slab te costă clienți în fiecare zi. Ne uităm împreună la ce ai și îți spunem cinstit dacă merită reconstruit de la zero sau doar îmbunătățit. Vezi și <a href="/portofoliu/">portofoliul</a> pentru o idee de rezultat.</p>
+        <p>Dacă e vechi, lent sau nu-ți aduce cereri, aproape sigur da. În București, un site slab te costă clienți în fiecare zi. Ne uităm împreună la ce ai și îți spunem cinstit dacă merită reconstruit de la zero sau doar îmbunătățit. Vezi și <a href="/portofoliu/">portofoliul</a> pentru o idee de rezultat.</p>
       </details>
     </div>
   </div>
@@ -550,7 +550,7 @@
     <div class="rv">
       <div class="eyebrow" style="justify-content:center;color:var(--acc2)"><span class="ey-dot" style="background:var(--acc2)"></span>Hai să începem</div>
       <h2 class="dd dd-lg csi-cta__h" id="csi-cta-h">Gata pentru un<br><span class="acc">site de prezentare în București?</span></h2>
-      <p class="csi-cta__p">Spune-ne câteva detalii despre firma ta din București și primești în 24 de ore o ofertă clară, cu preț fix — calitate de agenție mare, fără taxă de Capitală.</p>
+      <p class="csi-cta__p">Spune-ne câteva detalii despre firma ta din București și primești în 24 de ore o ofertă clară, cu preț fix: calitate de agenție mare, fără taxă de Capitală.</p>
       <div class="csi-cta__acts">
         <a href="/contact/" class="btn btn-solid">Cere ofertă gratuită</a>
         <a href="tel:+40771486499" class="btn btn-dark">+40 771 486 499</a>
@@ -565,7 +565,7 @@
     <div class="rel-trans">
       <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
       <h2>Vezi exact cât plătești.</h2>
-      <p>Nu lucrăm cu tarife ascunse sau surprize în factură. Toate pachetele și prețurile noastre sunt publice — alegi în cunoștință de cauză, fără presiune.</p>
+      <p>Nu lucrăm cu tarife ascunse sau surprize în factură. Toate pachetele și prețurile noastre sunt publice. Alegi în cunoștință de cauză, fără presiune.</p>
       <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
     </div>
     <div class="rel-links">
