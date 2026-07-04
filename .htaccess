@@ -36,9 +36,9 @@ RewriteRule ^creare-de-site-de-prezentare-si-magazin-online-pentru-antreprenori-
 RewriteRule ^cum-sa-creezi-o-pagina-de-start-eficienta/?$ /blog/cum-sa-creezi-o-pagina-de-start-eficienta/ [R=301,L]
 RewriteRule ^cat-costa-un-site-web/?$ /blog/cat-costa-un-site-web/ [R=301,L]
 RewriteRule ^construind-o-identitate-distinctiva-un-chestionar-cuprinzator-pentru-designul-de-logo/?$ /blog/construind-o-identitate-distinctiva-un-chestionar-cuprinzator-pentru-designul-de-logo/ [R=301,L]
-RewriteRule ^crafting-a-distinctive-identity-a-comprehensive-logo-design-questionnaire/?$ /blog/crafting-a-distinctive-identity-a-comprehensive-logo-design-questionnaire/ [R=301,L]
+RewriteRule ^crafting-a-distinctive-identity-a-comprehensive-logo-design-questionnaire/?$ /blog/construind-o-identitate-distinctiva-un-chestionar-cuprinzator-pentru-designul-de-logo/ [R=301,L]
 RewriteRule ^de-ce-trebuie-sa-intri-cu-toate-fortele-in-marketing/?$ /blog/de-ce-trebuie-sa-intri-cu-toate-fortele-in-marketing/ [R=301,L]
-RewriteRule ^universal-design-methods/?$ /blog/universal-design-methods/ [R=301,L]
+RewriteRule ^universal-design-methods/?$ /blog/metode-universale-de-design/ [R=301,L]
 RewriteRule ^metode-universale-de-design/?$ /blog/metode-universale-de-design/ [R=301,L]
 RewriteRule ^cat-costa-sa-construiesc-un-website/?$ /blog/cat-costa-sa-construiesc-un-website/ [R=301,L]
 RewriteRule ^ce-costuri-sunt-implicate-in-crearea-si-intretinerea-unui-website/?$ /blog/ce-costuri-sunt-implicate-in-crearea-si-intretinerea-unui-website/ [R=301,L]
@@ -68,7 +68,7 @@ RewriteRule ^site-agentii-de-turism-creare-site-pentru-agentii-de-turism/?$ /blo
 RewriteRule ^firma-webdesign-creare-site-in-bucuresti-creare-magazin-online-in-bucuresti/?$ /blog/firma-webdesign-creare-site-in-bucuresti-creare-magazin-online-in-bucuresti/ [R=301,L]
 RewriteRule ^sfaturi-magazin-online/?$ /blog/sfaturi-magazin-online/ [R=301,L]
 RewriteRule ^cei-3m-din-marketing/?$ /blog/cei-3m-din-marketing/ [R=301,L]
-RewriteRule ^the-3m-of-marketing/?$ /blog/the-3m-of-marketing/ [R=301,L]
+RewriteRule ^the-3m-of-marketing/?$ /blog/cei-3m-din-marketing/ [R=301,L]
 RewriteRule ^firma-webdesign-creare-site-in-iasi-creare-magazin-online-in-iasi/?$ /blog/firma-webdesign-creare-site-in-iasi-creare-magazin-online-in-iasi/ [R=301,L]
 RewriteRule ^agentie-web-design-iasi/?$ /blog/agentie-web-design-iasi/ [R=301,L]
 RewriteRule ^cresterea-verticala-vs-orizontala-pe-retelele-de-socializare-pe-care-ar-trebui-sa-i-acordati-prioritate/?$ /blog/cresterea-verticala-vs-orizontala-pe-retelele-de-socializare-pe-care-ar-trebui-sa-i-acordati-prioritate/ [R=301,L]
@@ -112,6 +112,9 @@ RewriteRule ^promovare-online-in-2023/?$ /blog/promovare-online-in-2023/ [R=301,
 RewriteRule ^seo-si-marketing-digital-de-ce-seo-este-esential-pentru-succesul-in-afaceri-online/?$ /blog/seo-si-marketing-digital-de-ce-seo-este-esential-pentru-succesul-in-afaceri-online/ [R=301,L]
 RewriteRule ^creare-site-in-dorohoi-creare-magazin-online-in-dorohoi/?$ /creare-magazin-online/ [R=301,L]
 RewriteRule ^firma-webdesign-creare-site-in-bacau-creare-magazin-online-in-bacau/?$ /creare-magazin-online/ [R=301,L]
+RewriteRule ^blog/crafting-a-distinctive-identity-a-comprehensive-logo-design-questionnaire/?$ /blog/construind-o-identitate-distinctiva-un-chestionar-cuprinzator-pentru-designul-de-logo/ [R=301,L]
+RewriteRule ^blog/universal-design-methods/?$ /blog/metode-universale-de-design/ [R=301,L]
+RewriteRule ^blog/the-3m-of-marketing/?$ /blog/cei-3m-din-marketing/ [R=301,L]
 </IfModule>
 
 <IfModule mod_deflate.c>
