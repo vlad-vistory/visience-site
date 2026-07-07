@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-5:I[97367,["/_next/static/chunks/42gh686sk5w8x.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+5:I[97367,["/_next/static/chunks/3yf-l5qb3mxxd.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 6:"$Sreact.suspense"
 2:T6ba,{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://visience.ro/portofoliu/#webpage","url":"https://visience.ro/portofoliu/","name":"Portofoliu Visience","description":"Selecție de proiecte web, branding, social media și marketing realizate de Visience pentru clienți din România, Italia, Franța și Germania.","isPartOf":{"@id":"https://visience.ro/#website"},"about":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"},{"@type":"ItemList","@id":"https://visience.ro/portofoliu/#proiecte-marcante","name":"Proiecte marcante","itemListOrder":"https://schema.org/ItemListOrderDescending","numberOfItems":8,"itemListElement":[{"@type":"ListItem","position":1,"name":"Vlaicu87 — Cartier & Parc","url":"https://vlaicu87.ro/"},{"@type":"ListItem","position":2,"name":"Amodelic — Proiectare & Consultanță","url":"https://amodelic.com"},{"@type":"ListItem","position":3,"name":"Casa Vatră — Restaurant & Hotel","url":"https://casavatra.ro"},{"@type":"ListItem","position":4,"name":"Carmangeria Evei","url":"https://carmangeriaevei.ro/"},{"@type":"ListItem","position":5,"name":"Cameo — Apartamente Moderne","url":"https://cameoresidence.ro/"},{"@type":"ListItem","position":6,"name":"Soluții Alpensam","url":"https://solutiialpensam.ro/"},{"@type":"ListItem","position":7,"name":"2M Tech — Dezvoltator Imobiliar","url":"https://2mtech.ro/"},{"@type":"ListItem","position":8,"name":"Ecologica2000 Italia","url":"https://ecologica2000.eu/"}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Portofoliu","item":"https://visience.ro/portofoliu/"}]}]}3:Tcc12,<style>
 /* PROJECT CARDS — pj-* (reused din home) */
@@ -1355,6 +1355,6 @@
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"OSTSaxU8nGUgwWC3KEzrx"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"owPJijhY2iLxZ-49D-ZXn"}
 4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
 7:null
