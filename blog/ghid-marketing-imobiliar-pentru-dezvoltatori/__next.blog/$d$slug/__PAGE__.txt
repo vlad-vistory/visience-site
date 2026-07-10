@@ -1,0 +1,93 @@
+1:"$Sreact.fragment"
+8:I[97367,["/_next/static/chunks/2d_xi7n7ui93f.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["/_next/static/chunks/1fi8z7-1cixn5.css","style"]
+2:T5c9,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/ghid-marketing-imobiliar-pentru-dezvoltatori/#article","headline":"Marketing imobiliar pentru dezvoltatori: de la lansare la sold-out","description":"Ghid de marketing imobiliar pentru dezvoltatori: pre-lansare, website, bugete, campanii Google și Meta, portaluri, AI și recenzii. Cu cifre din proiecte reale.","datePublished":"2026-07-10","dateModified":"2026-07-10","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/ghid-marketing-imobiliar-pentru-dezvoltatori/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Marketing imobiliar pentru dezvoltatori: de la lansare la sold-out","item":"https://visience.ro/blog/ghid-marketing-imobiliar-pentru-dezvoltatori/"}]}]}3:T259f,<p>În România se tranzacționează în jur de 160.000 de apartamente pe an, potrivit datelor ANCPI, iar prețurile au urcat cu 6,6% într-un singur an, peste media europeană de 5,5% (Eurostat). În același timp, autorizațiile de construire cresc. Adică: mai multe proiecte se bat pe aceiași cumpărători, iar cumpărătorii au devenit mai atenți la fiecare euro.</p>
+
+<p>Ce s-a schimbat cu adevărat e locul unde se ia decizia. Peste jumătate dintre cumpărători își găsesc locuința pe internet, iar 7 din 10 caută de pe telefon, arată studiile NAR. Până să sune pe cineva, omul a văzut deja site-ul, prețurile, recenziile și pozele de pe șantier. Ghidul de mai jos adună ce funcționează acum în marketingul imobiliar, cu cifre din proiectele pe care le-am promovat noi.</p>
+
+<h2>Începe promovarea înainte de șantier</h2>
+
+<p>Greșeala clasică: marketingul pornește când blocul e deja la etajul trei și dezvoltatorul simte presiunea ratelor. Momentul corect e cu două-trei luni înainte de deschiderea vânzărilor. În faza asta construiești trei lucruri: numele și identitatea ansamblului, website-ul cu planuri și prețuri orientative, și o listă de așteptare cu ofertă de lansare.</p>
+
+<p>Vânzarea înainte de finalizare, așa-numita vânzare off-plan, cere un singur ingredient: încredere. Randările primite de la arhitect, planurile clare pe fiecare tipologie și stadiul lucrărilor publicat lunar pe site fac diferența între „revin eu" și un precontract semnat. Randările 3D și macheta nu sunt treaba agenției de marketing, le face arhitectul sau un studio specializat. Treaba marketingului e să le pună la muncă: în site, în campanii, în materialele de vânzare.</p>
+
+<p>Lista de așteptare merită o mențiune separată. Primele rezervări vin aproape întotdeauna de acolo, înainte să cheltui serios pe reclame. Oamenii care se înscriu la „anunță-mă când se deschid vânzările" sunt cei mai calzi cumpărători pe care îi vei avea vreodată.</p>
+
+<h2>Website-ul proiectului rămâne centrul</h2>
+
+<p>Toate canalele duc în același loc. Reclamele și portalurile îți împrumută vizibilitate, dar site-ul e cel care construiește încredere și strânge datele de contact. De aceea ordinea investiției contează: întâi site-ul, apoi traficul.</p>
+
+<p>Ce trebuie să facă bine site-ul unui ansamblu rezidențial:</p>
+
+<ul>
+<li><strong>Viteză pe mobil.</strong> 7 din 10 vizitatori vin de pe telefon. Google recomandă încărcare sub 2,5 secunde; peste pragul ăsta pierzi lead-uri pe care le-ai plătit deja.</li>
+<li><strong>Pagină separată pe fiecare tipologie.</strong> Un PDF cu toate planurile nu se poziționează în căutări și nu convertește. O pagină pe fiecare tip de apartament, cu planuri, suprafețe, preț și formular, da.</li>
+<li><strong>Prețuri publicate.</strong> Contraintuitiv pentru mulți dezvoltatori, dar prețul public filtrează curioșii. Primești mai puține lead-uri, însă mult mai bune. Noi lucrăm doar așa.</li>
+<li><strong>Telefonul la un tap distanță.</strong> Jumătate din lead-urile unui proiect bun sunt apeluri directe, nu formulare.</li>
+</ul>
+
+<h2>Planul de marketing în 5 pași, cu buget realist</h2>
+
+<p>Un plan de marketing imobiliar serios nu începe cu „hai să facem reclame", ci cu cinci întrebări puse în ordinea corectă:</p>
+
+<ul>
+<li><strong>1. Analiza zonei.</strong> Ce prețuri au proiectele comparabile, cât stoc există, în ce ritm se vinde. De aici afli dacă te poziționezi pe preț, pe dotări sau pe zonă.</li>
+<li><strong>2. Publicul.</strong> Familii tinere pe credit, investitori la a doua achiziție sau cumpărători cash? Fiecare caută altceva și reacționează la alte mesaje.</li>
+<li><strong>3. Obiective în lead-uri, nu în afișări.</strong> Pornești de la câte vânzări pe lună vrei, aplici rata de conversie și afli câte lead-uri calificate îți trebuie. Restul e zgomot.</li>
+<li><strong>4. Canalele.</strong> Le alegi după public și fază, nu după modă. Detalii mai jos.</li>
+<li><strong>5. Calendar cu praguri de decizie.</strong> Stabilești din start ce oprești și ce scalezi, pe baza costului per lead, nu pe impresii.</li>
+</ul>
+
+<p>La buget, regula folosită în piață e între 0,5% și 1,5% din valoarea totală a proiectului. Concret: un ansamblu de 40 de apartamente cu preț mediu de 100.000€ înseamnă o valoare de 4.000.000€, deci un buget de marketing între 20.000€ și 60.000€ pe toată durata vânzării. Sună mult până împarți la doi-trei ani de proiect. Sub pragul ăsta, canalele se sufocă între ele și niciunul nu apucă să dea rezultate.</p>
+
+<h2>Canalele care aduc lead-uri în 2026</h2>
+
+<p><strong>Campaniile plătite sunt motorul.</strong> Google Search prinde cererea care există deja („apartamente noi" plus zona ta), Meta creează cerere acolo unde nu e căutare activă. De știut: regulile pentru anunțuri de locuințe pe Meta nu mai permit targetare pe vârstă sau gen, așa că targetarea reală o fac creativele și pagina pe care aterizează omul.</p>
+
+<p><strong>Portalurile imobiliare validează.</strong> Imobiliare.ro și Storia nu îți vând singure ansamblul, dar cumpărătorul te caută acolo ca să te verifice. Listările îngrijite, cu poze bune și preț corect, susțin restul canalelor. Măsoară-le separat, cu numere de telefon dedicate.</p>
+
+<p><strong>Social media organic construiește încredere.</strong> Clipurile scurte de pe șantier, progresul lunar și viața din cartier nu aduc lead-uri direct, dar încălzesc publicul care revine prin reclame. Consistența bate viralitatea.</p>
+
+<p><strong>Emailul și baza proprie de date sunt subestimate.</strong> Lead-urile care nu cumpără în faza unu cumpără în faza doi, dacă ții legătura: stadiul lucrărilor, oferte de lansare, invitații la vizionare. Lista proprie e și audiență de retargeting în platformele de ads.</p>
+
+<p><strong>Outdoor-ul se măsoară, nu se presupune.</strong> Panourile din zonă funcționează pentru notorietate locală, cu o condiție: număr de telefon dedicat sau cod QR pe fiecare amplasament, altfel nu știi niciodată ce a adus.</p>
+
+<h2>Terenul nou: recomandările din AI</h2>
+
+<p>Aici se deschide cea mai mare fereastră de oportunitate. Sute de milioane de oameni folosesc ChatGPT săptămânal, iar aproximativ jumătate din căutările Google afișează deja rezumate generate de AI (BrightEdge). Cumpărătorii au început să întrebe direct: „ce ansambluri noi sunt în zona X și cât costă?".</p>
+
+<p>AI-ul citează site-urile care îi dau ce are nevoie: date structurate, pagini care răspund clar la întrebări reale, prețuri și specificații publice, recenzii verificabile. În România aproape niciun dezvoltator nu optimizează încă pentru asta, ceea ce înseamnă că primii care o fac culeg citările. E același joc ca SEO acum zece ani, doar că tabla e goală.</p>
+
+<h2>Recenziile și clienții existenți vând faza următoare</h2>
+
+<p>83% dintre oameni citesc recenzii pe Google înainte să aleagă, arată BrightLocal. La un apartament, adică cea mai mare achiziție din viața cuiva, procentul e practic total. Cere recenzia la predarea cheilor, când entuziasmul e maxim, și răspunde la toate, inclusiv la cele incomode.</p>
+
+<p>Clienții mulțumiți rămân cel mai ieftin canal de marketing: recomandă vecini, apar în clipuri la mutare, aduc credibilitate pe care niciun buget de ads nu o cumpără.</p>
+
+<h2>Cifrele noastre, ca să știi la ce să te aștepți</h2>
+
+<p>Teoria e simplă, execuția face diferența. Din proiectele imobiliare promovate de noi: peste 3.200 de lead-uri generate pentru dezvoltatori, cost mediu de 12€ per lead, vârfuri de 248 de lead-uri pe lună pe un singur cartier și sold-out în 9 luni, față de aproximativ 18 luni media pieței.</p>
+
+<figure><img src="/media/vlaicu-placeholder.avif" alt="Website de ansamblu rezidențial realizat de Visience pentru un cartier de case cu parc" loading="lazy"><figcaption>Website-ul unuia dintre cartierele promovate de Visience, cu pagini pe fiecare tipologie.</figcaption></figure>
+
+<p>Ce am făcut diferit nu e secret: prețuri publice pe site, pagină separată pe fiecare tipologie, iar bugetul de reclame mutat lunar spre canalul cu cel mai mic cost per lead calificat. Dacă vrei planul aplicat pe proiectul tău, vezi pagina noastră de <a href="/marketing-dezvoltatori-imobiliari/">marketing pentru dezvoltatori imobiliari</a> sau <a href="/portofoliu/">portofoliul cu proiectele livrate</a>.</p>
+
+<h2>Întrebări frecvente</h2>
+
+<p><strong>Când încep promovarea proiectului?</strong><br>
+Cu două-trei luni înainte de deschiderea vânzărilor: brand, website și listă de așteptare. Campaniile pornesc odată cu vânzările, pe un public deja încălzit.</p>
+
+<p><strong>Cât aloc pentru marketing?</strong><br>
+Orientativ, 0,5%–1,5% din valoarea totală a proiectului, plus bugetul lunar de reclame plătit direct către Google și Meta. La un cartier mediu, sub 1.800€ pe lună în ads abia se simte.</p>
+
+<p><strong>Ce canal aduce cele mai multe lead-uri?</strong><br>
+Combinația, nu un canal anume: Google prinde intenția, Meta aduce volumul, site-ul convertește. Judeci fiecare canal pe costul per lead calificat, nu pe click-uri sau afișări.</p>
+
+<p>Piața din 2026 nu mai iartă marketingul făcut „ca să fie". Dar pentru dezvoltatorii care măsoară și ajustează, cumpărătorii sunt acolo, cu banii pregătiți. Diferența o face cine ajunge primul în fața lor cu un mesaj credibil.</p>
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Marketing imobiliar pentru dezvoltatori: de la lansare la sold-out"}],["$","div",null,{"className":"blog-article__meta","children":[["$","time",null,{"dateTime":"2026-07-10","children":"10 iulie 2026"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"V3rxKI8Bk6JH6Nj3NyHYi"}
+4:["$","div",null,{"className":"blog-author","children":[["$","span",null,{"className":"blog-author__ava","aria-hidden":"true","children":"V"}],["$","div",null,{"className":"blog-author__body","children":[["$","span",null,{"className":"blog-author__name","children":"Vlad Roman"}],["$","span",null,{"className":"blog-author__role","children":["Fondator Visience · ",["$","a",null,{"href":"https://www.linkedin.com/in/roman-vladut-constantin/","target":"_blank","rel":"noopener","className":"blog-author__link","children":"LinkedIn ↗"}]]}],["$","p",null,{"className":"blog-author__bio","children":"Conduce Visience, agenția de web design și marketing digital din Iași. Scrie despre creare de site-uri, SEO și cum își cresc afacerile mici și mijlocii prezența online."}]]}]]}]
+5:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1fi8z7-1cixn5.css","precedence":"next"}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null
