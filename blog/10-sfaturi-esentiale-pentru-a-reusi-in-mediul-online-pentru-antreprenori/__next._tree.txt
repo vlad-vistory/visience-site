@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/3llqdhfleqzi6.css","style"]
+:HL["/_next/static/chunks/2ktfb9zu0lyrl.css","style"]
 :HL["/_next/static/media/017d9bea37084d9b-s.p.41rroleoq1br7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/26daee0352f50a5f-s.p.2e115y8-hourl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/36363bfb06833f56-s.p.38hmww4cj4vme.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -9,4 +9,4 @@
 :HL["/_next/static/media/c3cb240f9c892514-s.p.3z_x6eowsw16y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/chunks/1fi8z7-1cixn5.css","style"]
 :HL["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"10-sfaturi-esentiale-pentru-a-reusi-in-mediul-online-pentru-antreprenori","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"yz-GS-bfR4-aSzNg8rrE3"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"10-sfaturi-esentiale-pentru-a-reusi-in-mediul-online-pentru-antreprenori","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"TGyvedF5NOdfIl6iPgPSy"}
