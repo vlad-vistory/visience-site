@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
 e:I[68027,["/_next/static/chunks/2d_xi7n7ui93f.js","/_next/static/chunks/158myu8e_yme3.js"],"default",1]
-:HL["/_next/static/chunks/2oa6275pbfabn.css","style"]
+:HL["/_next/static/chunks/3llqdhfleqzi6.css","style"]
 :HL["/_next/static/media/017d9bea37084d9b-s.p.41rroleoq1br7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/26daee0352f50a5f-s.p.2e115y8-hourl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/36363bfb06833f56-s.p.38hmww4cj4vme.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -23,7 +23,7 @@ e:I[68027,["/_next/static/chunks/2d_xi7n7ui93f.js","/_next/static/chunks/158myu8
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","creare-site-prezentare-bucuresti",""],"q":"","i":false,"f":[[["",{"children":["creare-site-prezentare-bucuresti",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2oa6275pbfabn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2d_xi7n7ui93f.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"bricolage_grotesque_4d7004bd-module__Hoo0MG__variable dm_sans_371c950d-module__4cga4q__variable dm_mono_6c018cca-module__6UXbpq__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"SEK9l7n1aCSM8TOM_ZUgh"}
+})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","creare-site-prezentare-bucuresti",""],"q":"","i":false,"f":[[["",{"children":["creare-site-prezentare-bucuresti",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3llqdhfleqzi6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2d_xi7n7ui93f.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"bricolage_grotesque_4d7004bd-module__Hoo0MG__variable dm_sans_371c950d-module__4cga4q__variable dm_mono_6c018cca-module__6UXbpq__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"JrDShH9nL6IiLJfTIRb1T"}
 11:I[39756,["/_next/static/chunks/2d_xi7n7ui93f.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 12:I[37457,["/_next/static/chunks/2d_xi7n7ui93f.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 14:I[27961,["/_next/static/chunks/2d_xi7n7ui93f.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
@@ -213,9 +213,9 @@ a:["$","$1","c",{"children":[null,["$","$L11",null,{"parallelRouterKey":"childre
 19:[]
 c:"$W19"
 d:["$","$1","h",{"children":[null,["$","$L1a",null,{"children":"$L1b"}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.Metadata","children":"$L1e"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
-f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2oa6275pbfabn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3llqdhfleqzi6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 20:I[97367,["/_next/static/chunks/2d_xi7n7ui93f.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
-1f:T70e8,<style>
+1f:T6d80,<style>
 .csi-hero {
   position: relative;
   padding: calc(var(--nav-h) + 86px) 0 84px;
@@ -507,7 +507,6 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2oa6275pbfabn
       <span>Creare site de prezentare București</span>
     </nav>
 
-    <div class="eyebrow"><span class="ey-dot"></span>Web design pentru firme din București</div>
 
     <h1 class="csi-hero__h1" id="csi-h1">
       Creare site de prezentare<br>
@@ -536,7 +535,6 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2oa6275pbfabn
 <section class="csi-sec bg-white">
   <div class="wrap">
     <div class="csi-head rv">
-      <div class="eyebrow"><span class="ey-dot"></span>De ce noi</div>
       <h2 class="dd dd-lg">Un <span class="acc">site de prezentare</span> pentru afacerea ta din București</h2>
     </div>
     <div class="csi-prose rv">
@@ -551,7 +549,6 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2oa6275pbfabn
 <section class="csi-sec bg-cream">
   <div class="wrap">
     <div class="csi-head rv">
-      <div class="eyebrow"><span class="ey-dot"></span>Ce primești</div>
       <h2 class="dd dd-lg">Ce include un <span class="acc">site de prezentare</span> de la Visience</h2>
       <p class="body-lg" style="margin-top:14px">Un proiect complet, gata de folosit, nu o machetă frumoasă care nu aduce clienți.</p>
     </div>
@@ -584,7 +581,6 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2oa6275pbfabn
 <section class="csi-sec bg-white">
   <div class="wrap">
     <div class="csi-head rv">
-      <div class="eyebrow"><span class="ey-dot"></span>Pentru orice tip de afacere</div>
       <h2 class="dd dd-lg">Ce fel de <span class="acc">site-uri</span> facem pentru București</h2>
     </div>
     <div class="csi-types rv rv-d1">
@@ -624,7 +620,6 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2oa6275pbfabn
 <section class="csi-sec bg-cream2">
   <div class="wrap">
     <div class="csi-head rv">
-      <div class="eyebrow"><span class="ey-dot"></span>Portofoliu</div>
       <h2 class="dd dd-lg">Câteva <span class="acc">proiecte recente</span></h2>
       <p class="body-lg" style="margin-top:14px">Site-uri de prezentare livrate de Visience pentru clienți din România și din străinătate. Același nivel de care beneficiezi și tu, în București.</p>
     </div>
@@ -672,7 +667,6 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2oa6275pbfabn
 <section class="csi-sec bg-white">
   <div class="wrap">
     <div class="csi-head center rv">
-      <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Prețuri transparente</div>
       <h2 class="dd dd-lg">Cât costă un <span class="acc">site de prezentare</span> pentru o firmă din București?</h2>
       <p class="body-lg" style="margin-top:14px">Aceleași pachete, același preț pentru toată lumea, indiferent că ești din București sau din alt colț de țară. Fără „taxă de Capitală", fără surprize.</p>
     </div>
@@ -709,7 +703,6 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2oa6275pbfabn
 <section class="csi-sec bg-cream">
   <div class="wrap">
     <div class="csi-head rv">
-      <div class="eyebrow"><span class="ey-dot"></span>Cum decurge</div>
       <h2 class="dd dd-lg">Cum lucrăm, <span class="acc">fără drumuri prin trafic</span></h2>
     </div>
     <div class="csi-steps rv rv-d1">
@@ -725,7 +718,6 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2oa6275pbfabn
 <section class="csi-sec bg-white">
   <div class="wrap">
     <div class="csi-head center rv">
-      <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Întrebări frecvente</div>
       <h2 class="dd dd-lg">Ce ne întreabă <span class="acc">clienții din București</span></h2>
     </div>
     <div class="csi-faq rv">
@@ -761,7 +753,6 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2oa6275pbfabn
 <section class="csi-cta" aria-labelledby="csi-cta-h">
   <div class="wrap">
     <div class="rv">
-      <div class="eyebrow" style="justify-content:center;color:var(--acc2)"><span class="ey-dot" style="background:var(--acc2)"></span>Hai să începem</div>
       <h2 class="dd dd-lg csi-cta__h" id="csi-cta-h">Gata pentru un<br><span class="acc">site de prezentare în București?</span></h2>
       <p class="csi-cta__p">Spune-ne câteva detalii despre firma ta din București și primești în 24 de ore o ofertă clară, cu preț fix: calitate de agenție mare, fără taxă de Capitală.</p>
       <div class="csi-cta__acts">
@@ -795,7 +786,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2oa6275pbfabn
 </main>
 17:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$1f"}}]
 18:["$","$L20",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@21"}]}]
-1b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#F5F0E6","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#111010","media":"(prefers-color-scheme: dark)"}]]
+1b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#FFFFFF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#111114","media":"(prefers-color-scheme: dark)"}]]
 22:I[27201,["/_next/static/chunks/2d_xi7n7ui93f.js","/_next/static/chunks/158myu8e_yme3.js"],"IconMark"]
 1e:[["$","title","0",{"children":"Creare Site de Prezentare în București — Visience"}],["$","meta","1",{"name":"description","content":"Creare site de prezentare pentru firme din București: calitate de agenție mare, la preț corect, colaborare 100% online. Design responsive, SEO tehnic. Ofertă în 24h."}],["$","link","2",{"rel":"canonical","href":"https://visience.ro/creare-site-prezentare-bucuresti/"}],["$","meta","3",{"property":"og:title","content":"Creare Site de Prezentare în București — Visience"}],["$","meta","4",{"property":"og:description","content":"Site-uri de prezentare profesionale pentru firmele din București. Fără taxă de Capitală, cu preț afișat și colaborare online."}],["$","meta","5",{"property":"og:url","content":"https://visience.ro/creare-site-prezentare-bucuresti/"}],["$","meta","6",{"property":"og:locale","content":"ro_RO"}],["$","meta","7",{"property":"og:image","content":"https://visience.ro/media/creare-site-de-prezentare-bucuresti-restaurant.avif"}],["$","meta","8",{"property":"og:image:alt","content":"Creare site de prezentare pentru firme din București — proiect Visience"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Agenție de Marketing & Creare Site-uri în Iași | Visience"}],["$","meta","12",{"name":"twitter:description","content":"Branding, website-uri, magazine online, Google & Meta Ads, SEO. Prețuri publice, fără costuri ascunse."}],["$","meta","13",{"name":"twitter:image","content":"https://visience.ro/media/og-visience.jpg"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.04nd99rd6ooix.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/icon.png?icon.3v2r-pcu8x6vx.png","sizes":"192x192","type":"image/png"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2y52blaubq-q-.png","sizes":"180x180","type":"image/png"}],["$","$L22","17",{}]]
 21:null

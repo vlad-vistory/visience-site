@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
 e:I[68027,["/_next/static/chunks/2d_xi7n7ui93f.js","/_next/static/chunks/158myu8e_yme3.js"],"default",1]
-:HL["/_next/static/chunks/2oa6275pbfabn.css","style"]
+:HL["/_next/static/chunks/3llqdhfleqzi6.css","style"]
 :HL["/_next/static/media/017d9bea37084d9b-s.p.41rroleoq1br7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/26daee0352f50a5f-s.p.2e115y8-hourl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/36363bfb06833f56-s.p.38hmww4cj4vme.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -23,7 +23,7 @@ e:I[68027,["/_next/static/chunks/2d_xi7n7ui93f.js","/_next/static/chunks/158myu8
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","optimizare-seo",""],"q":"","i":false,"f":[[["",{"children":["optimizare-seo",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2oa6275pbfabn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2d_xi7n7ui93f.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"bricolage_grotesque_4d7004bd-module__Hoo0MG__variable dm_sans_371c950d-module__4cga4q__variable dm_mono_6c018cca-module__6UXbpq__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"SEK9l7n1aCSM8TOM_ZUgh"}
+})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","optimizare-seo",""],"q":"","i":false,"f":[[["",{"children":["optimizare-seo",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3llqdhfleqzi6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2d_xi7n7ui93f.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"bricolage_grotesque_4d7004bd-module__Hoo0MG__variable dm_sans_371c950d-module__4cga4q__variable dm_mono_6c018cca-module__6UXbpq__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"JrDShH9nL6IiLJfTIRb1T"}
 11:I[39756,["/_next/static/chunks/2d_xi7n7ui93f.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 12:I[37457,["/_next/static/chunks/2d_xi7n7ui93f.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 14:I[27961,["/_next/static/chunks/2d_xi7n7ui93f.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
@@ -213,9 +213,9 @@ a:["$","$1","c",{"children":[null,["$","$L11",null,{"parallelRouterKey":"childre
 19:[]
 c:"$W19"
 d:["$","$1","h",{"children":[null,["$","$L1a",null,{"children":"$L1b"}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.Metadata","children":"$L1e"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
-f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2oa6275pbfabn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3llqdhfleqzi6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 20:I[97367,["/_next/static/chunks/2d_xi7n7ui93f.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
-1f:T8f82,<style>
+1f:T8d59,<style>
 .seo-hero {
   position: relative;
   padding: calc(var(--nav-h) + 90px) 0 90px;
@@ -890,10 +890,6 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2oa6275pbfabn
           <span>Optimizare SEO</span>
         </nav>
 
-        <div class="eyebrow">
-          <span class="ey-dot"></span>
-          Optimizare SEO &amp; content marketing Iași
-        </div>
 
         <h1 class="seo-hero__h1" id="seo-h1">
           Vizibilitate în Google<br>
@@ -989,7 +985,6 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2oa6275pbfabn
   <div class="wrap">
 
     <div class="seo-incl__head rv">
-      <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Ce includem</div>
       <h2 class="seo-incl__h2" id="seo-incl-h2">Tot ce ține de <span class="acc">poziționarea ta</span></h2>
       <p class="seo-incl__sub">
         De la fundația tehnică până la conținut și autoritate. Acoperim întreg ciclul prin care un site ajunge să fie găsit și ales în Google.
@@ -1031,7 +1026,6 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2oa6275pbfabn
   <div class="wrap">
 
     <div class="seo-prices__head rv">
-      <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Pachete &amp; prețuri</div>
       <h2 class="seo-prices__h2" id="seo-prices-h2">
         Prețuri optimizare SEO —<br><span class="acc">transparent, fără surprize</span>
       </h2>
@@ -1115,7 +1109,6 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2oa6275pbfabn
   <div class="wrap">
 
     <div class="seo-process__head rv">
-      <div class="eyebrow"><span class="ey-dot"></span>Cum lucrăm</div>
       <h2 class="seo-process__h2" id="seo-process-h2">De la audit la poziții stabile</h2>
       <p class="seo-process__sub">
         Un proces clar, pas cu pas, prin care site-ul tău devine mai vizibil lună de lună.
@@ -1169,7 +1162,6 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2oa6275pbfabn
   <div class="wrap">
 
     <div class="seo-faq__head rv">
-      <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Întrebări frecvente</div>
       <h2 class="seo-faq__h2" id="seo-faq-h2">Ce trebuie să știi despre <span class="acc">SEO</span></h2>
     </div>
 
@@ -1251,7 +1243,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2oa6275pbfabn
 </main>
 17:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$1f"}}]
 18:["$","$L20",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@21"}]}]
-1b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#F5F0E6","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#111010","media":"(prefers-color-scheme: dark)"}]]
+1b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#FFFFFF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#111114","media":"(prefers-color-scheme: dark)"}]]
 22:I[27201,["/_next/static/chunks/2d_xi7n7ui93f.js","/_next/static/chunks/158myu8e_yme3.js"],"IconMark"]
 1e:[["$","title","0",{"children":"Optimizare SEO & Content Marketing Iași — Strategie Continuă | Visience"}],["$","meta","1",{"name":"description","content":"Optimizare SEO și content marketing pentru vizibilitate organică în Google: SEO tehnic, strategie continuă, link building și raport lunar. De la 500€/lună."}],["$","link","2",{"rel":"canonical","href":"https://visience.ro/optimizare-seo/"}],["$","meta","3",{"property":"og:title","content":"Optimizare SEO & Content Marketing — Visience"}],["$","meta","4",{"property":"og:description","content":"Vizibilitate organică pe termen lung în Google: SEO tehnic, conținut, link building și raportare lunară. Strategie continuă pe minim 6 luni."}],["$","meta","5",{"property":"og:url","content":"https://visience.ro/optimizare-seo/"}],["$","meta","6",{"property":"og:locale","content":"ro_RO"}],["$","meta","7",{"property":"og:image","content":"https://visience.ro/media/og-visience.jpg"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Agenție de Marketing & Creare Site-uri în Iași | Visience"}],["$","meta","11",{"name":"twitter:description","content":"Branding, website-uri, magazine online, Google & Meta Ads, SEO. Prețuri publice, fără costuri ascunse."}],["$","meta","12",{"name":"twitter:image","content":"https://visience.ro/media/og-visience.jpg"}],["$","link","13",{"rel":"icon","href":"/favicon.ico?favicon.04nd99rd6ooix.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","14",{"rel":"icon","href":"/icon.png?icon.3v2r-pcu8x6vx.png","sizes":"192x192","type":"image/png"}],["$","link","15",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2y52blaubq-q-.png","sizes":"180x180","type":"image/png"}],["$","$L22","16",{}]]
 21:null

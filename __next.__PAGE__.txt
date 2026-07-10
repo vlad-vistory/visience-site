@@ -2,8 +2,8 @@
 8:I[97367,["/_next/static/chunks/2d_xi7n7ui93f.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 9:"$Sreact.suspense"
 :HL["/_next/static/chunks/1fi8z7-1cixn5.css","style"]
-2:T1062,{"@context":"https://schema.org","@graph":[{"@type":"OfferCatalog","@id":"https://visience.ro/#servicii","name":"Servicii Visience","provider":{"@id":"https://visience.ro/#organization"},"itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"150","itemOffered":{"@type":"Service","name":"Creare website de prezentare","description":"Landing page-uri, site-uri de companie și portofolii cu CMS, design adaptiv și SEO tehnic."}},{"@type":"Offer","priceCurrency":"EUR","price":"700","itemOffered":{"@type":"Service","name":"Creare magazin online","url":"https://visience.ro/creare-magazin-online/","description":"Magazine online pe WooCommerce sau Shopify, optimizate pentru conversie, cu plăți și integrare Google & Meta Ads."}},{"@type":"Offer","priceCurrency":"EUR","price":"150","itemOffered":{"@type":"Service","name":"Branding și identitate vizuală","description":"Logo, brand book complet și identitate vizuală pentru online și offline."}},{"@type":"Offer","priceCurrency":"EUR","price":"100","itemOffered":{"@type":"Service","name":"Social Media Management","description":"Strategie, conținut, postare și gestionare completă a rețelelor sociale."}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"PPC — Google și Meta Ads","description":"Campanii de Lead Generation, remarketing și Shopping cu focus pe conversii."}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"SEO și Content Marketing","description":"SEO tehnic, strategie on-page și off-page, backlinking, newsletter și email marketing."}},{"@type":"Offer","priceCurrency":"EUR","price":"50","itemOffered":{"@type":"Service","name":"Software și App Development","description":"Aplicații mobile iOS și Android, Cloud Migration, AI & Data Solutions și automatizări RPA."}}]},{"@type":"FAQPage","@id":"https://visience.ro/#faq","mainEntity":[{"@type":"Question","name":"Cât costă crearea unui site web la Visience?","acceptedAnswer":{"@type":"Answer","text":"Un site de prezentare standard pornește de la 500€, un site avansat de la 1.000€, iar un site premium cu design custom de la 2.000€. Prețul final depinde de numărul de pagini, funcționalități și nivelul de personalizare."}},{"@type":"Question","name":"Cât costă un magazin online?","acceptedAnswer":{"@type":"Answer","text":"Un magazin online pe WooCommerce sau Shopify pornește de la 700€ (Basic), 1.500€ (Standard) și 3.000€ (Premium). Toate includ produse, plăți online, livrare automatizată și integrare cu Google și Meta Ads."}},{"@type":"Question","name":"Ce include un proiect de branding?","acceptedAnswer":{"@type":"Answer","text":"Logo, ton de comunicare și identitate vizuală pentru online și offline. Pachetul Standard, cu brand book complet, pornește de la 1.000€, iar Premium, cu BrandBook extins, de la 2.000€."}},{"@type":"Question","name":"Cât costă serviciile de SEO?","acceptedAnswer":{"@type":"Answer","text":"SEO tehnic punctual este la 40€/oră, iar strategia SEO lunară continuă pornește de la 500€/lună. Pentru magazine online, optimizarea SEO completă pornește de la 1.500€."}},{"@type":"Question","name":"În ce orașe lucrează Visience?","acceptedAnswer":{"@type":"Answer","text":"Visience are sediul în Iași și lucrează cu clienți din toată România, inclusiv București, Timișoara, Cluj-Napoca, Suceava și Bacău. Proiectele se desfășoară integral online."}},{"@type":"Question","name":"Pe ce platforme construiește Visience site-uri?","acceptedAnswer":{"@type":"Answer","text":"Construim pe WordPress (Oxygen, Elementor), Shopify, WooCommerce și Webflow, precum și soluții custom. Alegem platforma în funcție de nevoile proiectului."}},{"@type":"Question","name":"Cât durează realizarea unui site web?","acceptedAnswer":{"@type":"Answer","text":"Un landing page în câteva zile, un site de prezentare standard în 2–4 săptămâni, iar un proiect premium sau un magazin online complex în 4–8 săptămâni."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4"],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"SEK9l7n1aCSM8TOM_ZUgh"}
-7:T21343,
+2:T1062,{"@context":"https://schema.org","@graph":[{"@type":"OfferCatalog","@id":"https://visience.ro/#servicii","name":"Servicii Visience","provider":{"@id":"https://visience.ro/#organization"},"itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"150","itemOffered":{"@type":"Service","name":"Creare website de prezentare","description":"Landing page-uri, site-uri de companie și portofolii cu CMS, design adaptiv și SEO tehnic."}},{"@type":"Offer","priceCurrency":"EUR","price":"700","itemOffered":{"@type":"Service","name":"Creare magazin online","url":"https://visience.ro/creare-magazin-online/","description":"Magazine online pe WooCommerce sau Shopify, optimizate pentru conversie, cu plăți și integrare Google & Meta Ads."}},{"@type":"Offer","priceCurrency":"EUR","price":"150","itemOffered":{"@type":"Service","name":"Branding și identitate vizuală","description":"Logo, brand book complet și identitate vizuală pentru online și offline."}},{"@type":"Offer","priceCurrency":"EUR","price":"100","itemOffered":{"@type":"Service","name":"Social Media Management","description":"Strategie, conținut, postare și gestionare completă a rețelelor sociale."}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"PPC — Google și Meta Ads","description":"Campanii de Lead Generation, remarketing și Shopping cu focus pe conversii."}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"SEO și Content Marketing","description":"SEO tehnic, strategie on-page și off-page, backlinking, newsletter și email marketing."}},{"@type":"Offer","priceCurrency":"EUR","price":"50","itemOffered":{"@type":"Service","name":"Software și App Development","description":"Aplicații mobile iOS și Android, Cloud Migration, AI & Data Solutions și automatizări RPA."}}]},{"@type":"FAQPage","@id":"https://visience.ro/#faq","mainEntity":[{"@type":"Question","name":"Cât costă crearea unui site web la Visience?","acceptedAnswer":{"@type":"Answer","text":"Un site de prezentare standard pornește de la 500€, un site avansat de la 1.000€, iar un site premium cu design custom de la 2.000€. Prețul final depinde de numărul de pagini, funcționalități și nivelul de personalizare."}},{"@type":"Question","name":"Cât costă un magazin online?","acceptedAnswer":{"@type":"Answer","text":"Un magazin online pe WooCommerce sau Shopify pornește de la 700€ (Basic), 1.500€ (Standard) și 3.000€ (Premium). Toate includ produse, plăți online, livrare automatizată și integrare cu Google și Meta Ads."}},{"@type":"Question","name":"Ce include un proiect de branding?","acceptedAnswer":{"@type":"Answer","text":"Logo, ton de comunicare și identitate vizuală pentru online și offline. Pachetul Standard, cu brand book complet, pornește de la 1.000€, iar Premium, cu BrandBook extins, de la 2.000€."}},{"@type":"Question","name":"Cât costă serviciile de SEO?","acceptedAnswer":{"@type":"Answer","text":"SEO tehnic punctual este la 40€/oră, iar strategia SEO lunară continuă pornește de la 500€/lună. Pentru magazine online, optimizarea SEO completă pornește de la 1.500€."}},{"@type":"Question","name":"În ce orașe lucrează Visience?","acceptedAnswer":{"@type":"Answer","text":"Visience are sediul în Iași și lucrează cu clienți din toată România, inclusiv București, Timișoara, Cluj-Napoca, Suceava și Bacău. Proiectele se desfășoară integral online."}},{"@type":"Question","name":"Pe ce platforme construiește Visience site-uri?","acceptedAnswer":{"@type":"Answer","text":"Construim pe WordPress (Oxygen, Elementor), Shopify, WooCommerce și Webflow, precum și soluții custom. Alegem platforma în funcție de nevoile proiectului."}},{"@type":"Question","name":"Cât durează realizarea unui site web?","acceptedAnswer":{"@type":"Answer","text":"Un landing page în câteva zile, un site de prezentare standard în 2–4 săptămâni, iar un proiect premium sau un magazin online complex în 4–8 săptămâni."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4"],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"JrDShH9nL6IiLJfTIRb1T"}
+7:T21083,
 
 <div class="vis-home">
 
@@ -152,7 +152,6 @@
     <div class="manifesto__inner">
 
       <div>
-        <div class="eyebrow rv"><span class="ey-dot"></span>Filosofia noastră</div>
         <h2 class="manifesto__headline rv rv-d1" id="mani-h">
           Întâi construim<br>
           <span class="hi">fundația.</span><br>
@@ -276,7 +275,6 @@
 
   <div class="wrap services__head rv">
     <div>
-      <div class="eyebrow"><span class="ey-dot"></span>Ce facem</div>
       <h2 class="dd dd-lg" id="svc-h">Servicii de marketing<br>și web design</h2>
     </div>
     <p class="body-lg services__sub">
@@ -404,7 +402,7 @@
                   <span class="sd-sw-line"></span>
                 </div>
                 <div class="sd-mood-palette__row">
-                  <span class="sd-sw" style="background:#F5F0E6;border:1px solid var(--border)"></span>
+                  <span class="sd-sw" style="background:#F5F5F7;border:1px solid var(--border)"></span>
                   <span class="sd-sw-line"></span>
                 </div>
                 <div class="sd-mood-palette__row">
@@ -627,7 +625,6 @@
 <section class="spec" id="specializari" aria-labelledby="spec-h">
   <div class="wrap">
     <div class="spec__head rv">
-      <div class="eyebrow"><span class="ey-dot"></span>Specializările noastre</div>
       <h2 class="dd dd-lg" id="spec-h">Pe ce suntem<br>specializați</h2>
       <p class="body-lg spec__sub">Trei direcții în care livrăm rezultate constant, fiecare cu pagină dedicată și prețuri clare.</p>
     </div>
@@ -678,7 +675,6 @@
 
     <div class="cases__head rv">
       <div>
-        <div class="eyebrow"><span class="ey-dot"></span>Studii de caz</div>
         <h2 class="dd dd-lg" id="case-h">Numere reale,<br>rezultate reale</h2>
       </div>
       <p class="body-lg" style="max-width:320px">
@@ -758,7 +754,6 @@
 <section class="portfolio" id="proiecte" aria-labelledby="port-h">
   <div class="port-head">
     <div class="rv">
-      <div class="eyebrow"><span class="ey-dot"></span>Portofoliu</div>
       <h2 class="dd dd-lg" id="port-h">Câteva proiecte</h2>
     </div>
     <div class="pf-cta__acts">
@@ -1111,7 +1106,6 @@
             <line x1="50" y1="38" x2="64" y2="38" stroke="var(--acc-ink)" stroke-width="2.5" stroke-linecap="round" opacity=".7"/>
           </svg>
         </div>
-        <div class="eyebrow"><span class="ey-dot"></span>De ce Visience</div>
         <h2 class="dd dd-lg" id="why-h" style="margin-bottom:20px">
           Nu suntem furnizori.<br>
           <span style="font-weight:300;color:var(--mid)">Suntem parteneri.</span>
@@ -1171,7 +1165,6 @@
     <div class="tech__inner">
 
       <div class="rv">
-        <div class="eyebrow"><span class="ey-dot"></span>Tehnologii</div>
         <h2 class="dd dd-lg" id="tech-h" style="margin-bottom:14px">
           Construim pe<br>platformele potrivite
         </h2>
@@ -1334,7 +1327,6 @@
 <section class="faq" id="intrebari" aria-labelledby="faq-h">
   <div class="wrap">
     <div class="faq__head rv">
-      <div class="eyebrow"><span class="ey-dot"></span>Întrebări frecvente</div>
       <h2 class="dd dd-lg" id="faq-h">Ce vor să știe<br>clienții noștri</h2>
     </div>
 
@@ -1440,7 +1432,6 @@
     <div class="contact-sec__in">
 
       <div class="rv">
-        <div class="eyebrow"><span class="ey-dot"></span>Contact</div>
         <h2 class="dd dd-lg" id="cont-h" style="margin-bottom:16px">
           Hai să construim<br>ceva mare.
         </h2>
@@ -1571,7 +1562,7 @@
   opacity: .55;
 }
 .hero__hed .acc {
-  background: linear-gradient(135deg, var(--acc2) 0%, #FFD080 100%);
+  background: linear-gradient(135deg, var(--acc2) 0%, #E8980A 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -3877,7 +3868,7 @@
 }
 </style>
 3:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$7"}}]
-4:["$","section",null,{"className":"home-blog","children":["$","div",null,{"className":"wrap","children":[["$","div",null,{"className":"home-blog__head","children":[["$","div",null,{"className":"eyebrow","children":[["$","span",null,{"className":"ey-dot"}],"Din blog"]}],["$","h2",null,{"className":"dd dd-lg","children":["Articole & ",["$","span",null,{"style":{"color":"var(--acc)"},"children":"resurse"}]]}],["$","a",null,{"href":"/blog/","className":"home-blog__all","children":"Vezi toate articolele →"}]]}],["$","div",null,{"className":"blog-grid","children":[["$","a","mobila-la-comanda-bucuresti-artesanomob",{"href":"/blog/mobila-la-comanda-bucuresti-artesanomob/","className":"blog-card","children":[["$","time",null,{"className":"blog-card__date","dateTime":"2025-09-04","children":"4 septembrie 2025"}],["$","h3",null,{"className":"blog-card__title","children":"Mobilă la comandă București ArtesanoMob"}],["$","p",null,{"className":"blog-card__desc","children":"Mobilă la comandă București ArtesanoMob Partener Visience Mobilă personalizată pe comandă în București Vezi Partenerul Artesano Mob realizează mobilier la com"}],["$","span",null,{"className":"blog-card__more","children":"Citește articolul →"}]]}],["$","a","creste-vizibilitatea-si-conversiile-pentru-brandul-tau-cu-extensii-de-anunturi-eficiente-in-campaniile-google-ads",{"href":"/blog/creste-vizibilitatea-si-conversiile-pentru-brandul-tau-cu-extensii-de-anunturi-eficiente-in-campaniile-google-ads/","className":"blog-card","children":[["$","time",null,{"className":"blog-card__date","dateTime":"2024-11-01","children":"1 noiembrie 2024"}],["$","h3",null,{"className":"blog-card__title","children":"Crește vizibilitatea și conversiile pentru brandul tău cu extensii de anunțuri eficiente în campaniile Google Ads"}],["$","p",null,{"className":"blog-card__desc","children":"Obține un trafic mai ridicat și conversii mai bune pentru brandul tău prin campanii Google Ads optimizate, care îți oferă un avantaj competitiv prin utilizare"}],["$","span",null,{"className":"blog-card__more","children":"Citește articolul →"}]]}],["$","a","creste-profitabilitatea-afacerii-tale-prin-digitalizare",{"href":"/blog/creste-profitabilitatea-afacerii-tale-prin-digitalizare/","className":"blog-card","children":[["$","time",null,{"className":"blog-card__date","dateTime":"2024-07-06","children":"6 iulie 2024"}],["$","h3",null,{"className":"blog-card__title","children":"Crește Profitabilitatea Afacerii Tale prin Digitalizare"}],["$","p",null,{"className":"blog-card__desc","children":"Descoperă cum digitalizarea afacerii tale poate crește profitabilitatea și eficiența operațională. Oferim soluții complete de automatizare și optimizare a pro"}],["$","span",null,{"className":"blog-card__more","children":"Citește articolul →"}]]}]]}]]}]}]
+4:["$","section",null,{"className":"home-blog","children":["$","div",null,{"className":"wrap","children":[["$","div",null,{"className":"home-blog__head","children":[["$","h2",null,{"className":"dd dd-lg","children":["Articole & ",["$","span",null,{"style":{"color":"var(--acc)"},"children":"resurse"}]]}],["$","a",null,{"href":"/blog/","className":"home-blog__all","children":"Vezi toate articolele →"}]]}],["$","div",null,{"className":"blog-grid","children":[["$","a","mobila-la-comanda-bucuresti-artesanomob",{"href":"/blog/mobila-la-comanda-bucuresti-artesanomob/","className":"blog-card","children":[["$","time",null,{"className":"blog-card__date","dateTime":"2025-09-04","children":"4 septembrie 2025"}],["$","h3",null,{"className":"blog-card__title","children":"Mobilă la comandă București ArtesanoMob"}],["$","p",null,{"className":"blog-card__desc","children":"Mobilă la comandă București ArtesanoMob Partener Visience Mobilă personalizată pe comandă în București Vezi Partenerul Artesano Mob realizează mobilier la com"}],["$","span",null,{"className":"blog-card__more","children":"Citește articolul →"}]]}],["$","a","creste-vizibilitatea-si-conversiile-pentru-brandul-tau-cu-extensii-de-anunturi-eficiente-in-campaniile-google-ads",{"href":"/blog/creste-vizibilitatea-si-conversiile-pentru-brandul-tau-cu-extensii-de-anunturi-eficiente-in-campaniile-google-ads/","className":"blog-card","children":[["$","time",null,{"className":"blog-card__date","dateTime":"2024-11-01","children":"1 noiembrie 2024"}],["$","h3",null,{"className":"blog-card__title","children":"Crește vizibilitatea și conversiile pentru brandul tău cu extensii de anunțuri eficiente în campaniile Google Ads"}],["$","p",null,{"className":"blog-card__desc","children":"Obține un trafic mai ridicat și conversii mai bune pentru brandul tău prin campanii Google Ads optimizate, care îți oferă un avantaj competitiv prin utilizare"}],["$","span",null,{"className":"blog-card__more","children":"Citește articolul →"}]]}],["$","a","creste-profitabilitatea-afacerii-tale-prin-digitalizare",{"href":"/blog/creste-profitabilitatea-afacerii-tale-prin-digitalizare/","className":"blog-card","children":[["$","time",null,{"className":"blog-card__date","dateTime":"2024-07-06","children":"6 iulie 2024"}],["$","h3",null,{"className":"blog-card__title","children":"Crește Profitabilitatea Afacerii Tale prin Digitalizare"}],["$","p",null,{"className":"blog-card__desc","children":"Descoperă cum digitalizarea afacerii tale poate crește profitabilitatea și eficiența operațională. Oferim soluții complete de automatizare și optimizare a pro"}],["$","span",null,{"className":"blog-card__more","children":"Citește articolul →"}]]}]]}]]}]}]
 5:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1fi8z7-1cixn5.css","precedence":"next"}]
 6:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
 a:null

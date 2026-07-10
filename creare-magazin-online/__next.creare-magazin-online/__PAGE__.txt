@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 5:I[97367,["/_next/static/chunks/2d_xi7n7ui93f.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 6:"$Sreact.suspense"
-2:Tc85,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-magazin-online#service","name":"Creare magazin online","serviceType":"Dezvoltare magazin online e-commerce","description":"Creare magazine online pe WooCommerce, Shopify și PrestaShop, optimizate pentru conversie și SEO, cu integrări de plată, curierat și facturare. De la 700€.","provider":{"@type":"Organization","name":"Visience Creative Experience","url":"https://visience.ro/"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"700","highPrice":"3000","offerCount":"3"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-magazin-online#faq","mainEntity":[{"@type":"Question","name":"Cât durează realizarea unui magazin online?","acceptedAnswer":{"@type":"Answer","text":"Un magazin Basic (până la 30 produse) durează în medie 2-3 săptămâni, pachetul Standard 4-6 săptămâni, iar magazinele Premium cu integrări complexe 6-10 săptămâni. Termenul exact se confirmă după prima consultare."}},{"@type":"Question","name":"Pe ce platformă realizați magazinele online?","acceptedAnswer":{"@type":"Answer","text":"Lucrăm preponderent pe WooCommerce (WordPress), iar la cerere și pe Shopify, PrestaShop sau Webflow E-commerce. Recomandăm platforma după analiza obiectivelor tale."}},{"@type":"Question","name":"Ce se întâmplă după lansarea magazinului?","acceptedAnswer":{"@type":"Answer","text":"Oferim 3 luni de mentenanță inclusă (6 luni pentru Premium): actualizări, corectarea erorilor, backup-uri și suport prin email. Ulterior poți alege un abonament lunar sau suport punctual."}},{"@type":"Question","name":"Voi putea adăuga singur produse după lansare?","acceptedAnswer":{"@type":"Answer","text":"Da. Magazinele au panou de administrare intuitiv și oferim un training de 1-2 ore (inclus în Standard și Premium) ca să poți adăuga produse, modifica prețuri și gestiona comenzi fără ajutorul nostru."}},{"@type":"Question","name":"Includeți și hosting-ul și domeniul?","acceptedAnswer":{"@type":"Answer","text":"Nu sunt incluse în preț, dar te ajutăm cu recomandări și configurare. Orientativ: domeniul ~10-15€/an, hosting performant pentru WooCommerce ~80-200€/an."}},{"@type":"Question","name":"Pot să-mi mut magazinul existent de pe altă platformă?","acceptedAnswer":{"@type":"Answer","text":"Da. Migrăm magazine de pe Gomag, Magento, OpenCart, PrestaShop sau alte platforme către WooCommerce, păstrând produse, categorii, comenzi și clienți. Costul depinde de volumul de date."}},{"@type":"Question","name":"Realizați și campanii de marketing pentru magazin?","acceptedAnswer":{"@type":"Answer","text":"Da. După lansare preluăm Google Ads & Meta Ads (de la 200€), Google Shopping (500€), SEO continuu (500€/lună) și social media management (de la 100€/lună)."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Creare magazin online","item":"https://visience.ro/creare-magazin-online"}]}]}3:T9e2a,<style>
+2:Tc85,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-magazin-online#service","name":"Creare magazin online","serviceType":"Dezvoltare magazin online e-commerce","description":"Creare magazine online pe WooCommerce, Shopify și PrestaShop, optimizate pentru conversie și SEO, cu integrări de plată, curierat și facturare. De la 700€.","provider":{"@type":"Organization","name":"Visience Creative Experience","url":"https://visience.ro/"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"700","highPrice":"3000","offerCount":"3"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-magazin-online#faq","mainEntity":[{"@type":"Question","name":"Cât durează realizarea unui magazin online?","acceptedAnswer":{"@type":"Answer","text":"Un magazin Basic (până la 30 produse) durează în medie 2-3 săptămâni, pachetul Standard 4-6 săptămâni, iar magazinele Premium cu integrări complexe 6-10 săptămâni. Termenul exact se confirmă după prima consultare."}},{"@type":"Question","name":"Pe ce platformă realizați magazinele online?","acceptedAnswer":{"@type":"Answer","text":"Lucrăm preponderent pe WooCommerce (WordPress), iar la cerere și pe Shopify, PrestaShop sau Webflow E-commerce. Recomandăm platforma după analiza obiectivelor tale."}},{"@type":"Question","name":"Ce se întâmplă după lansarea magazinului?","acceptedAnswer":{"@type":"Answer","text":"Oferim 3 luni de mentenanță inclusă (6 luni pentru Premium): actualizări, corectarea erorilor, backup-uri și suport prin email. Ulterior poți alege un abonament lunar sau suport punctual."}},{"@type":"Question","name":"Voi putea adăuga singur produse după lansare?","acceptedAnswer":{"@type":"Answer","text":"Da. Magazinele au panou de administrare intuitiv și oferim un training de 1-2 ore (inclus în Standard și Premium) ca să poți adăuga produse, modifica prețuri și gestiona comenzi fără ajutorul nostru."}},{"@type":"Question","name":"Includeți și hosting-ul și domeniul?","acceptedAnswer":{"@type":"Answer","text":"Nu sunt incluse în preț, dar te ajutăm cu recomandări și configurare. Orientativ: domeniul ~10-15€/an, hosting performant pentru WooCommerce ~80-200€/an."}},{"@type":"Question","name":"Pot să-mi mut magazinul existent de pe altă platformă?","acceptedAnswer":{"@type":"Answer","text":"Da. Migrăm magazine de pe Gomag, Magento, OpenCart, PrestaShop sau alte platforme către WooCommerce, păstrând produse, categorii, comenzi și clienți. Costul depinde de volumul de date."}},{"@type":"Question","name":"Realizați și campanii de marketing pentru magazin?","acceptedAnswer":{"@type":"Answer","text":"Da. După lansare preluăm Google Ads & Meta Ads (de la 200€), Google Shopping (500€), SEO continuu (500€/lună) și social media management (de la 100€/lună)."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Creare magazin online","item":"https://visience.ro/creare-magazin-online"}]}]}3:T9bae,<style>
 .shop-hero {
   position: relative;
   padding: calc(var(--nav-h) + 90px) 0 90px;
@@ -555,10 +555,6 @@
           <span>Magazin online</span>
         </nav>
 
-        <div class="eyebrow">
-          <span class="ey-dot"></span>
-          Creare magazin online Iași
-        </div>
 
         <h1 class="shop-hero__h1" id="shop-h1">
           Magazine online care<br>
@@ -669,7 +665,6 @@
   <div class="wrap">
 
     <div class="shop-prices__head rv">
-      <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Pachete &amp; prețuri</div>
       <h2 class="shop-prices__h2" id="prices-h2">
         Prețuri creare magazin online —<br><span class="acc">3 pachete clare</span>
       </h2>
@@ -750,7 +745,6 @@
 
     <div class="shop-clarify__row rv">
       <div>
-        <div class="eyebrow"><span class="ey-dot"></span>Realizare magazin online</div>
         <h3 class="shop-clarify__h3">Magazine online WooCommerce, ușor de administrat</h3>
         <p class="shop-clarify__p">
           Construim <strong style="color:var(--ink)">magazine online flexibile pe WooCommerce</strong> — cea mai populară platformă e-commerce din lume, integrată cu WordPress. Ai control total asupra produselor, comenzilor și clienților, fără să depinzi de programatori pentru modificări de zi cu zi.
@@ -783,7 +777,6 @@
 
     <div class="shop-clarify__row alt rv">
       <div>
-        <div class="eyebrow"><span class="ey-dot"></span>SEO &amp; vizibilitate online</div>
         <h3 class="shop-clarify__h3">Optimizare SEO pentru motoarele de căutare</h3>
         <p class="shop-clarify__p">
           Un magazin online frumos, dar pe care nimeni nu-l găsește, nu vinde. De aceea fiecare magazin pe care îl realizăm este <strong style="color:var(--ink)">optimizat SEO încă din construcție</strong>: structură semantică corectă, schema.org pentru produse, viteza de încărcare optimă și URL-uri prietenoase pentru Google.
@@ -814,7 +807,6 @@
 
     <div class="shop-clarify__row rv">
       <div>
-        <div class="eyebrow"><span class="ey-dot"></span>Sisteme de plată &amp; livrare</div>
         <h3 class="shop-clarify__h3">Integrări complete pentru piața din România</h3>
         <p class="shop-clarify__p">
           Integrăm magazinul tău cu cele mai folosite <strong style="color:var(--ink)">sisteme de plată din România</strong>: Stripe, Netopia, EuPlătesc, PayU, Twispay și ramburs. Pentru livrare, ne ocupăm de configurarea automată cu Sameday, FAN Courier, Cargus, DPD sau curier propriu.
@@ -850,7 +842,6 @@
   <div class="wrap">
 
     <div class="shop-faq__head rv">
-      <div class="eyebrow" style="justify-content:center"><span class="ey-dot"></span>Întrebări frecvente</div>
       <h2 class="shop-prices__h2" id="faq-h2" style="font-size:clamp(28px,3.6vw,44px)">
         Ce trebuie să știi despre<br><span class="acc">magazinul tău online</span>
       </h2>
@@ -986,6 +977,6 @@
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"SEK9l7n1aCSM8TOM_ZUgh"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"JrDShH9nL6IiLJfTIRb1T"}
 4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
 7:null

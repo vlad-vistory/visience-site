@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 5:I[97367,["/_next/static/chunks/2d_xi7n7ui93f.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 6:"$Sreact.suspense"
-2:Tac0,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari/#service","name":"Marketing imobiliar pentru dezvoltatori","serviceType":"Marketing și branding pentru ansambluri rezidențiale","description":"Branding de ansamblu, website cu pagini de apartamente, campanii Google și Meta Ads, producție vizuală și CRM pentru dezvoltatori imobiliari.","provider":{"@type":"Organization","name":"Visience Creative Experience","url":"https://visience.ro/"},"areaServed":{"@type":"Country","name":"România"}},{"@type":"FAQPage","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari/#faq","mainEntity":[{"@type":"Question","name":"În cât timp pot lansa site-ul ansamblului meu?","acceptedAnswer":{"@type":"Answer","text":"De la brief la live: 4–8 săptămâni. Site-uri simple cu 5–7 pagini pot fi gata în 4 săptămâni; pentru cartiere mari cu 15+ pagini și configurator de apartamente, planificăm 8 săptămâni."}},{"@type":"Question","name":"Cât cheltui lunar pe Google și Meta Ads?","acceptedAnswer":{"@type":"Answer","text":"Bugetul de Ads nu e inclus în pachete — îl plătești direct la Google și Meta. Recomandăm minim 1.000€/lună pe Google + 800€/lună pe Meta pentru un cartier mediu."}},{"@type":"Question","name":"Aveți experiență cu vânzări pe credit ipotecar?","acceptedAnswer":{"@type":"Answer","text":"Da. Site-urile includ pagini despre opțiunile de plată, simulator credit și parteneri bancari. Lucrăm cu agenți de creditare pentru a integra un calculator interactiv."}},{"@type":"Question","name":"Puteți colabora cu agenția de PR sau agentul imobiliar al meu?","acceptedAnswer":{"@type":"Answer","text":"Da, lucrăm frecvent în echipe extinse: cu agentul imobiliar pentru lead handover, cu PR-ul pentru consistența mesajului și cu fotografi/3D pentru asset-uri vizuale."}},{"@type":"Question","name":"Ce se întâmplă după sold-out? Mai am nevoie de site?","acceptedAnswer":{"@type":"Answer","text":"Păstrăm site-ul live pentru încrederea de brand și reducem bugetul de Ads la minimum. Dacă lansezi următoarea fază, începem ușor — brandul și CRM-ul există deja."}},{"@type":"Question","name":"Lucrați și cu dezvoltatori din afara Iașiului?","acceptedAnswer":{"@type":"Answer","text":"Da. Avem clienți în București, Cluj, Timișoara, Brașov și internațional (Italia, Franța, Germania). Colaborarea se poate face complet remote."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Marketing dezvoltatori imobiliari","item":"https://visience.ro/marketing-dezvoltatori-imobiliari/"}]}]}3:T7feb,<style>
+2:Tac0,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari/#service","name":"Marketing imobiliar pentru dezvoltatori","serviceType":"Marketing și branding pentru ansambluri rezidențiale","description":"Branding de ansamblu, website cu pagini de apartamente, campanii Google și Meta Ads, producție vizuală și CRM pentru dezvoltatori imobiliari.","provider":{"@type":"Organization","name":"Visience Creative Experience","url":"https://visience.ro/"},"areaServed":{"@type":"Country","name":"România"}},{"@type":"FAQPage","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari/#faq","mainEntity":[{"@type":"Question","name":"În cât timp pot lansa site-ul ansamblului meu?","acceptedAnswer":{"@type":"Answer","text":"De la brief la live: 4–8 săptămâni. Site-uri simple cu 5–7 pagini pot fi gata în 4 săptămâni; pentru cartiere mari cu 15+ pagini și configurator de apartamente, planificăm 8 săptămâni."}},{"@type":"Question","name":"Cât cheltui lunar pe Google și Meta Ads?","acceptedAnswer":{"@type":"Answer","text":"Bugetul de Ads nu e inclus în pachete — îl plătești direct la Google și Meta. Recomandăm minim 1.000€/lună pe Google + 800€/lună pe Meta pentru un cartier mediu."}},{"@type":"Question","name":"Aveți experiență cu vânzări pe credit ipotecar?","acceptedAnswer":{"@type":"Answer","text":"Da. Site-urile includ pagini despre opțiunile de plată, simulator credit și parteneri bancari. Lucrăm cu agenți de creditare pentru a integra un calculator interactiv."}},{"@type":"Question","name":"Puteți colabora cu agenția de PR sau agentul imobiliar al meu?","acceptedAnswer":{"@type":"Answer","text":"Da, lucrăm frecvent în echipe extinse: cu agentul imobiliar pentru lead handover, cu PR-ul pentru consistența mesajului și cu fotografi/3D pentru asset-uri vizuale."}},{"@type":"Question","name":"Ce se întâmplă după sold-out? Mai am nevoie de site?","acceptedAnswer":{"@type":"Answer","text":"Păstrăm site-ul live pentru încrederea de brand și reducem bugetul de Ads la minimum. Dacă lansezi următoarea fază, începem ușor — brandul și CRM-ul există deja."}},{"@type":"Question","name":"Lucrați și cu dezvoltatori din afara Iașiului?","acceptedAnswer":{"@type":"Answer","text":"Da. Avem clienți în București, Cluj, Timișoara, Brașov și internațional (Italia, Franța, Germania). Colaborarea se poate face complet remote."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Marketing dezvoltatori imobiliari","item":"https://visience.ro/marketing-dezvoltatori-imobiliari/"}]}]}3:T7d72,<style>
 @keyframes chipP {
   0%, 100% { opacity: 1;  transform: scale(1);   }
   50%      { opacity: .3; transform: scale(.65); }
@@ -643,7 +643,6 @@
   <section class="dev-pain">
     <div class="wrap">
       <div class="dev-section__head rv">
-        <div class="eyebrow"><span class="ey-dot"></span>De ce contează</div>
         <h2 class="dd dd-lg">Construiești bine.<br><span class="hi">Dar cumpărătorii cer mai mult.</span></h2>
         <p class="body-lg">O broșură PDF și un formular pe site nu mai sunt suficiente.
         Cumpărătorii de azi caută online, compară, vor să simtă brandul înainte să te sune.</p>
@@ -678,7 +677,6 @@
   <section class="dev-portfolio" id="proiecte">
     <div class="wrap">
       <div class="dev-section__head rv">
-        <div class="eyebrow"><span class="ey-dot"></span>Proiecte realizate</div>
         <h2 class="dd dd-lg">Cartiere și ansambluri<br><span class="hi">duse de la 0 la sold-out.</span></h2>
       </div>
 
@@ -694,7 +692,6 @@
   <section class="dev-services">
     <div class="wrap">
       <div class="dev-section__head rv">
-        <div class="eyebrow"><span class="ey-dot"></span>Ce oferim</div>
         <h2 class="dd dd-lg">Ecosistemul complet<br>pentru un cartier care se vinde.</h2>
       </div>
 
@@ -743,7 +740,6 @@
   <section class="dev-process">
     <div class="wrap">
       <div class="dev-section__head rv">
-        <div class="eyebrow"><span class="ey-dot"></span>Proces</div>
         <h2 class="dd dd-lg">Cum lucrăm împreună</h2>
       </div>
 
@@ -792,7 +788,6 @@
   <section class="dev-results">
     <div class="wrap">
       <div class="dev-section__head rv">
-        <div class="eyebrow"><span class="ey-dot"></span>Rezultate tipice</div>
         <h2 class="dd dd-lg">Numere reale<br><span class="hi">de la cartierele noastre.</span></h2>
       </div>
 
@@ -821,7 +816,6 @@
   <section class="dev-pricing">
     <div class="wrap">
       <div class="dev-section__head rv">
-        <div class="eyebrow"><span class="ey-dot"></span>Investiție</div>
         <h2 class="dd dd-lg">Pachete pentru dezvoltatori</h2>
         <p class="body-lg">Prețuri orientative — finale după brief detaliat. Bugetul de Ads (Google + Meta) se plătește direct la platforme și nu e inclus.</p>
       </div>
@@ -896,7 +890,6 @@
   <section class="dev-faq">
     <div class="wrap">
       <div class="dev-section__head rv">
-        <div class="eyebrow"><span class="ey-dot"></span>Întrebări frecvente</div>
         <h2 class="dd dd-lg">Ce ne întreabă cel mai des dezvoltatorii</h2>
       </div>
 
@@ -940,7 +933,6 @@
   <section class="dev-cta" id="contact">
     <div class="wrap">
       <div class="rv">
-        <div class="eyebrow"><span class="ey-dot"></span>Hai să discutăm</div>
         <h2 class="dd dd-lg dev-cta__h">
           Următorul cartier<br>
           <span class="hi">poate fi al tău.</span>
@@ -980,6 +972,6 @@
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"SEK9l7n1aCSM8TOM_ZUgh"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"JrDShH9nL6IiLJfTIRb1T"}
 4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
 7:null
