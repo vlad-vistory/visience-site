@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-4:I[97367,["/_next/static/chunks/1imaobfbzvvas.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
 2:T4bdd,<style>
 .ct-hero {
@@ -601,6 +601,6 @@
 </section>
 
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"ContactPage\",\"name\":\"Contact Visience\",\"url\":\"https://visience.ro/contact\",\"mainEntity\":{\"@type\":\"Organization\",\"name\":\"Visience Creative Experience\",\"telephone\":\"+40771486499\",\"email\":\"contact@visience.ro\",\"url\":\"https://visience.ro/\"}}"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2C4uy6clh4kfYyaUhn3pt"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"ContactPage\",\"name\":\"Contact Visience\",\"url\":\"https://visience.ro/contact\",\"mainEntity\":{\"@type\":\"Organization\",\"name\":\"Visience Creative Experience\",\"telephone\":\"+40771486499\",\"email\":\"contact@visience.ro\",\"url\":\"https://visience.ro/\"}}"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"fv_nLR1nwZwSHieqU497t"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
