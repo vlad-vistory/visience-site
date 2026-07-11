@@ -1,49 +1,63 @@
 1:"$Sreact.fragment"
 8:I[97367,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 9:"$Sreact.suspense"
-:HL["/_next/static/chunks/1ezt8qg_uqh-r.css","style"]
-2:T63b,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/creare-de-site-de-prezentare-si-magazin-online-pentru-antreprenori-imm-uri-bucuresti/#article","headline":"Creare site de prezentare și magazin online pentru firme din București","description":"Site de prezentare sau magazin online pentru firme din București: ce livrăm, cum decurge, în cât timp. Prețuri publice, site 100% al tău.","datePublished":"2024-02-26","dateModified":"2024-02-26","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/creare-de-site-de-prezentare-si-magazin-online-pentru-antreprenori-imm-uri-bucuresti/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Creare site de prezentare și magazin online pentru firme din București","item":"https://visience.ro/blog/creare-de-site-de-prezentare-si-magazin-online-pentru-antreprenori-imm-uri-bucuresti/"}]}]}3:Tfb8,<p>Dacă ai o firmă mică sau mijlocie în București și încă nu ai un site — sau ai unul făcut acum zece ani, pe care nici tu nu-l mai deschizi — pierzi clienți fără să-ți dai seama. Astăzi, când cineva aude de tine, primul lucru pe care-l face e să te caute pe Google. Ce găsește acolo decide dacă te sună sau trece la următorul.</p>
+:HL["/_next/static/chunks/3a0jy86-z183b.css","style"]
+2:T63b,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/creare-de-site-de-prezentare-si-magazin-online-pentru-antreprenori-imm-uri-bucuresti/#article","headline":"Creare site de prezentare și magazin online pentru firme din București","description":"Site de prezentare sau magazin online pentru firme din București: ce livrăm, cum decurge, în cât timp. Prețuri publice, site 100% al tău.","datePublished":"2024-02-26","dateModified":"2024-02-26","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/creare-de-site-de-prezentare-si-magazin-online-pentru-antreprenori-imm-uri-bucuresti/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Creare site de prezentare și magazin online pentru firme din București","item":"https://visience.ro/blog/creare-de-site-de-prezentare-si-magazin-online-pentru-antreprenori-imm-uri-bucuresti/"}]}]}3:Tfc1,<p>Când cineva aude de firma ta din București, primul lucru pe care-l face e să te caute pe Google. Ce găsește acolo decide dacă te sună sau trece la următorul. Îți construim exact partea aceea — un site care aduce clienți, nu unul „ca să existe".</p>
 
-<p>Facem două lucruri pentru antreprenorii din București: <strong>site-uri de prezentare</strong>, pentru firmele care vând servicii și vor să inspire încredere, și <strong>magazine online</strong>, pentru cele care vând produse și vor să încaseze direct de pe site. De multe ori, aceeași firmă are nevoie de amândouă.</p>
+<p>Facem două lucruri, în funcție de ce vinzi:</p>
 
-<h2>Site de prezentare: vitrina ta online</h2>
+<div class="svc-cards">
+  <div class="svc-c">
+    <i class="fa-solid fa-globe" aria-hidden="true"></i>
+    <h3>Site de prezentare</h3>
+    <p>Pentru firmele de servicii care vor să inspire încredere: design pe brandul tău, viteză pe mobil, structură gândită pentru Google și formular care chiar ajunge la tine.</p>
+    <a href="/creare-site-prezentare/">Vezi cum lucrăm →</a>
+  </div>
+  <div class="svc-c">
+    <i class="fa-solid fa-cart-shopping" aria-hidden="true"></i>
+    <h3>Magazin online</h3>
+    <p>Pentru cei care vând produse: plată cu cardul, stoc legat de vânzări, pagini de produs care conving și integrare cu curieri și facturare. Îl administrezi din telefon.</p>
+    <a href="/creare-magazin-online/">Vezi magazinele online →</a>
+  </div>
+</div>
 
-<p>Un site de prezentare bun nu e o broșură digitală. E un instrument care transformă vizitatorul în client: îi spune clar ce faci, îi arată dovezi (lucrări, recenzii), și îi pune la îndemână un mod simplu de a te contacta. Pentru o firmă de servicii din București — instalații, avocatură, clinică, consultanță — asta face diferența între „am dat un ID pe net" și „am primit trei cereri săptămâna asta".</p>
+<p>De multe ori, aceeași firmă are nevoie de amândouă — o vitrină online care convinge și un magazin care încasează direct de pe site.</p>
 
-<p>Ce livrăm, pe scurt: design pe brandul tău (nu un șablon în care intră oricine), viteză bună pe mobil, structură gândită pentru Google, formular de contact care chiar ajunge la tine, conformitate GDPR și profil Google Business pus la punct, ca să apari și pe hartă. Site-ul e 100% al tău și îl poți administra singur — <a href="/creare-site-prezentare/">detalii despre cum lucrăm aici</a>.</p>
+<h2>Proiecte livrate</h2>
 
-<h2>Magazin online: vinzi și când dormi</h2>
+<p>Cea mai bună dovadă rămâne munca. Câteva site-uri pe care le-am construit — dă clic ca să le vezi live:</p>
 
-<p>Dacă ai produse, un magazin online îți deschide prăvălia non-stop, pentru tot orașul, nu doar pentru cine trece prin fața ta. Îl construim cu plata cu cardul, stocul legat de vânzări (ca să nu vinzi ce nu mai ai), pagini de produs care chiar conving și integrare cu curieri și facturare. Îl poți administra din telefon — adaugi produse, vezi comenzile, urmărești ce se vinde. <a href="/creare-magazin-online/">Vezi cum facem magazinele online</a>.</p>
+<div class="proj-grid">
+  <a href="https://edu-net.academy/" target="_blank" rel="noopener"><img src="/media/digitalizare-edunet.avif" alt="edu-net.academy — platformă de cursuri online realizată de Visience" width="1024" height="476" loading="lazy"></a>
+  <a href="https://casavatra.ro/" target="_blank" rel="noopener"><img src="/media/digitalizare-casavatra.avif" alt="Casa Vatră — site realizat de Visience" width="1024" height="472" loading="lazy"></a>
+  <a href="https://im-ds.ro/" target="_blank" rel="noopener"><img src="/media/digitalizare-imds.avif" alt="im-ds.ro — proiect web Visience" width="1024" height="477" loading="lazy"></a>
+  <a href="https://econatura.vincasoft.it/" target="_blank" rel="noopener"><img src="/media/digitalizare-econatura.avif" alt="econatura — magazin online de produse naturale realizat de Visience" width="1024" height="514" loading="lazy"></a>
+</div>
+
+<p><a href="/portofoliu/">Vezi portofoliul complet →</a></p>
 
 <h2>Cum decurge, pas cu pas</h2>
 
-<p>Procesul e simplu și fără surprize:</p>
-
 <ul>
 <li><strong>Discuție.</strong> Ne spui ce faci, cui vinzi și ce vrei să obții. De aici iese structura site-ului.</li>
-<li><strong>Design.</strong> Îți propunem un concept pe identitatea ta. Aplicăm feedback-ul tău până e cum trebuie.</li>
+<li><strong>Design.</strong> Îți propunem un concept pe identitatea ta și aplicăm feedback-ul tău până e cum trebuie.</li>
 <li><strong>Construcție și conținut.</strong> Facem paginile, integrăm textele, pozele, logo-ul. Dacă n-ai text sau poze bune, te ajutăm.</li>
-<li><strong>Lansare.</strong> Punem site-ul online, cu domeniu, găzduire, HTTPS, Google Analytics și Search Console instalate. Îți arătăm cum să-l folosești.</li>
+<li><strong>Lansare.</strong> Punem site-ul online — domeniu, găzduire, HTTPS, Google Analytics, Search Console și profil Google Business — și îți arătăm cum să-l folosești.</li>
 </ul>
 
-<p>Un site de prezentare simplu poate fi gata în circa două săptămâni; un magazin sau un proiect mai complex, ceva mai mult. Îți spunem termenul real de la început, nu unul de complezență.</p>
+<p>Un site de prezentare simplu poate fi gata în circa două săptămâni; un magazin sau un proiect mai complex, ceva mai mult. Îți spunem termenul real de la început. Site-ul e 100% al tău, îl administrezi singur, fără „chirie" lunară.</p>
 
 <h2>Cât costă</h2>
 
-<p>Prețul depinde de ce ai nevoie — un site de prezentare de câteva pagini și un magazin cu sute de produse nu costă la fel, și n-are sens să te mințim cu o cifră „de la șold". Diferența față de mulți: <strong>noi avem prețurile publice</strong>, fără „cere ofertă" și surprize în factură. <a href="/preturi/">Le vezi pe toate aici</a>, alegi în cunoștință de cauză.</p>
-
-<h2>Cum începi</h2>
-
-<p>Dacă ai o firmă în București și vrei un site care aduce clienți, nu doar unul „ca să existe", scrie-ne. Cel mai repede răspundem pe WhatsApp. Ajută dacă ne spui din start ce faci, ce buget ai în minte și de unde ai auzit de noi.</p>
+<p>Un site de prezentare de câteva pagini și un magazin cu sute de produse nu costă la fel — n-are sens să-ți dăm o cifră „de la șold". Diferența față de mulți: <strong>noi avem prețurile publice</strong>, fără „cere ofertă" și fără surprize în factură. <a href="/preturi/">Le vezi pe toate aici</a> și alegi în cunoștință de cauză.</p>
 
 <div class="case-cta">
-  <p><strong>Hai să-ți facem prezența online cum trebuie.</strong> Site de prezentare, magazin online sau amândouă — îți spunem sincer de ce ai nevoie și de ce nu.</p>
+  <p><strong>Ai o firmă în București și vrei un site care aduce clienți?</strong> Spune-ne ce faci și ce buget ai în minte — îți zicem sincer de ce ai nevoie și de ce nu. Cel mai repede răspundem pe WhatsApp.</p>
   <a href="https://wa.me/40771486499" target="_blank" rel="noopener" class="btn btn-solid">Scrie-ne pe WhatsApp →</a>
 </div>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Creare site de prezentare și magazin online pentru firme din București"}],["$","div",null,{"className":"blog-article__meta","children":[["$","time",null,{"dateTime":"2024-02-26","children":"26 februarie 2024"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Y-OzVBxI4GsxSjkaoMEHJ"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Creare site de prezentare și magazin online pentru firme din București"}],["$","div",null,{"className":"blog-article__meta","children":[["$","time",null,{"dateTime":"2024-02-26","children":"26 februarie 2024"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"erHEvRkP0khGQdfChAb54"}
 4:["$","div",null,{"className":"blog-author","children":[["$","span",null,{"className":"blog-author__ava","aria-hidden":"true","children":"V"}],["$","div",null,{"className":"blog-author__body","children":[["$","span",null,{"className":"blog-author__name","children":"Vlad Roman"}],["$","span",null,{"className":"blog-author__role","children":["Fondator Visience · ",["$","a",null,{"href":"https://www.linkedin.com/in/roman-vladut-constantin/","target":"_blank","rel":"noopener","className":"blog-author__link","children":"LinkedIn ↗"}]]}],["$","p",null,{"className":"blog-author__bio","children":"Conduce Visience, agenția de web design și marketing digital din Iași. Scrie despre creare de site-uri, SEO și cum își cresc afacerile mici și mijlocii prezența online."}]]}]]}]
 5:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
-6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1ezt8qg_uqh-r.css","precedence":"next"}]
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3a0jy86-z183b.css","precedence":"next"}]
 7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
 a:null
