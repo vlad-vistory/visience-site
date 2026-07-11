@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
-8:I[97367,["/_next/static/chunks/2mmsi1_k6ur7r.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+8:I[97367,["/_next/static/chunks/1imaobfbzvvas.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 9:"$Sreact.suspense"
 :HL["/_next/static/chunks/3gr0715t-8v3l.css","style"]
-2:T1062,{"@context":"https://schema.org","@graph":[{"@type":"OfferCatalog","@id":"https://visience.ro/#servicii","name":"Servicii Visience","provider":{"@id":"https://visience.ro/#organization"},"itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"150","itemOffered":{"@type":"Service","name":"Creare website de prezentare","description":"Landing page-uri, site-uri de companie și portofolii cu CMS, design adaptiv și SEO tehnic."}},{"@type":"Offer","priceCurrency":"EUR","price":"700","itemOffered":{"@type":"Service","name":"Creare magazin online","url":"https://visience.ro/creare-magazin-online/","description":"Magazine online pe WooCommerce sau Shopify, optimizate pentru conversie, cu plăți și integrare Google & Meta Ads."}},{"@type":"Offer","priceCurrency":"EUR","price":"150","itemOffered":{"@type":"Service","name":"Branding și identitate vizuală","description":"Logo, brand book complet și identitate vizuală pentru online și offline."}},{"@type":"Offer","priceCurrency":"EUR","price":"100","itemOffered":{"@type":"Service","name":"Social Media Management","description":"Strategie, conținut, postare și gestionare completă a rețelelor sociale."}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"PPC — Google și Meta Ads","description":"Campanii de Lead Generation, remarketing și Shopping cu focus pe conversii."}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"SEO și Content Marketing","description":"SEO tehnic, strategie on-page și off-page, backlinking, newsletter și email marketing."}},{"@type":"Offer","priceCurrency":"EUR","price":"50","itemOffered":{"@type":"Service","name":"Software și App Development","description":"Aplicații mobile iOS și Android, Cloud Migration, AI & Data Solutions și automatizări RPA."}}]},{"@type":"FAQPage","@id":"https://visience.ro/#faq","mainEntity":[{"@type":"Question","name":"Cât costă crearea unui site web la Visience?","acceptedAnswer":{"@type":"Answer","text":"Un site de prezentare standard pornește de la 500€, un site avansat de la 1.000€, iar un site premium cu design custom de la 2.000€. Prețul final depinde de numărul de pagini, funcționalități și nivelul de personalizare."}},{"@type":"Question","name":"Cât costă un magazin online?","acceptedAnswer":{"@type":"Answer","text":"Un magazin online pe WooCommerce sau Shopify pornește de la 700€ (Basic), 1.500€ (Standard) și 3.000€ (Premium). Toate includ produse, plăți online, livrare automatizată și integrare cu Google și Meta Ads."}},{"@type":"Question","name":"Ce include un proiect de branding?","acceptedAnswer":{"@type":"Answer","text":"Logo, ton de comunicare și identitate vizuală pentru online și offline. Pachetul Standard, cu brand book complet, pornește de la 1.000€, iar Premium, cu BrandBook extins, de la 2.000€."}},{"@type":"Question","name":"Cât costă serviciile de SEO?","acceptedAnswer":{"@type":"Answer","text":"SEO tehnic punctual este la 40€/oră, iar strategia SEO lunară continuă pornește de la 500€/lună. Pentru magazine online, optimizarea SEO completă pornește de la 1.500€."}},{"@type":"Question","name":"În ce orașe lucrează Visience?","acceptedAnswer":{"@type":"Answer","text":"Visience are sediul în Iași și lucrează cu clienți din toată România, inclusiv București, Timișoara, Cluj-Napoca, Suceava și Bacău. Proiectele se desfășoară integral online."}},{"@type":"Question","name":"Pe ce platforme construiește Visience site-uri?","acceptedAnswer":{"@type":"Answer","text":"Construim pe WordPress (Oxygen, Elementor), Shopify, WooCommerce și Webflow, precum și soluții custom. Alegem platforma în funcție de nevoile proiectului."}},{"@type":"Question","name":"Cât durează realizarea unui site web?","acceptedAnswer":{"@type":"Answer","text":"Un landing page în câteva zile, un site de prezentare standard în 2–4 săptămâni, iar un proiect premium sau un magazin online complex în 4–8 săptămâni."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4"],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zH-fJ9AzmsQdd69wlq6mF"}
-7:T2194a,
+2:T1062,{"@context":"https://schema.org","@graph":[{"@type":"OfferCatalog","@id":"https://visience.ro/#servicii","name":"Servicii Visience","provider":{"@id":"https://visience.ro/#organization"},"itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"150","itemOffered":{"@type":"Service","name":"Creare website de prezentare","description":"Landing page-uri, site-uri de companie și portofolii cu CMS, design adaptiv și SEO tehnic."}},{"@type":"Offer","priceCurrency":"EUR","price":"700","itemOffered":{"@type":"Service","name":"Creare magazin online","url":"https://visience.ro/creare-magazin-online/","description":"Magazine online pe WooCommerce sau Shopify, optimizate pentru conversie, cu plăți și integrare Google & Meta Ads."}},{"@type":"Offer","priceCurrency":"EUR","price":"150","itemOffered":{"@type":"Service","name":"Branding și identitate vizuală","description":"Logo, brand book complet și identitate vizuală pentru online și offline."}},{"@type":"Offer","priceCurrency":"EUR","price":"100","itemOffered":{"@type":"Service","name":"Social Media Management","description":"Strategie, conținut, postare și gestionare completă a rețelelor sociale."}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"PPC — Google și Meta Ads","description":"Campanii de Lead Generation, remarketing și Shopping cu focus pe conversii."}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"SEO și Content Marketing","description":"SEO tehnic, strategie on-page și off-page, backlinking, newsletter și email marketing."}},{"@type":"Offer","priceCurrency":"EUR","price":"50","itemOffered":{"@type":"Service","name":"Software și App Development","description":"Aplicații mobile iOS și Android, Cloud Migration, AI & Data Solutions și automatizări RPA."}}]},{"@type":"FAQPage","@id":"https://visience.ro/#faq","mainEntity":[{"@type":"Question","name":"Cât costă crearea unui site web la Visience?","acceptedAnswer":{"@type":"Answer","text":"Un site de prezentare standard pornește de la 500€, un site avansat de la 1.000€, iar un site premium cu design custom de la 2.000€. Prețul final depinde de numărul de pagini, funcționalități și nivelul de personalizare."}},{"@type":"Question","name":"Cât costă un magazin online?","acceptedAnswer":{"@type":"Answer","text":"Un magazin online pe WooCommerce sau Shopify pornește de la 700€ (Basic), 1.500€ (Standard) și 3.000€ (Premium). Toate includ produse, plăți online, livrare automatizată și integrare cu Google și Meta Ads."}},{"@type":"Question","name":"Ce include un proiect de branding?","acceptedAnswer":{"@type":"Answer","text":"Logo, ton de comunicare și identitate vizuală pentru online și offline. Pachetul Standard, cu brand book complet, pornește de la 1.000€, iar Premium, cu BrandBook extins, de la 2.000€."}},{"@type":"Question","name":"Cât costă serviciile de SEO?","acceptedAnswer":{"@type":"Answer","text":"SEO tehnic punctual este la 40€/oră, iar strategia SEO lunară continuă pornește de la 500€/lună. Pentru magazine online, optimizarea SEO completă pornește de la 1.500€."}},{"@type":"Question","name":"În ce orașe lucrează Visience?","acceptedAnswer":{"@type":"Answer","text":"Visience are sediul în Iași și lucrează cu clienți din toată România, inclusiv București, Timișoara, Cluj-Napoca, Suceava și Bacău. Proiectele se desfășoară integral online."}},{"@type":"Question","name":"Pe ce platforme construiește Visience site-uri?","acceptedAnswer":{"@type":"Answer","text":"Construim pe WordPress (Oxygen, Elementor), Shopify, WooCommerce și Webflow, precum și soluții custom. Alegem platforma în funcție de nevoile proiectului."}},{"@type":"Question","name":"Cât durează realizarea unui site web?","acceptedAnswer":{"@type":"Answer","text":"Un landing page în câteva zile, un site de prezentare standard în 2–4 săptămâni, iar un proiect premium sau un magazin online complex în 4–8 săptămâni."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4"],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2C4uy6clh4kfYyaUhn3pt"}
+7:T22bc8,
 
 <div class="vis-home">
 
@@ -59,6 +59,7 @@
 <!-- ══════ 2. TICKER ══════ -->
 <div class="ticker" aria-hidden="true">
   <div class="tk-track">
+    <!-- secventa de servicii repetata (4 per jumatate); animatia muta -50% = o jumatate, loop continuu pe orice ecran -->
     <div class="tk-item">Website<span class="tk-sep"></span></div>
     <div class="tk-item">Branding<span class="tk-sep"></span></div>
     <div class="tk-item">Social Media<span class="tk-sep"></span></div>
@@ -68,7 +69,60 @@
     <div class="tk-item">E-Commerce<span class="tk-sep"></span></div>
     <div class="tk-item">Newsletter<span class="tk-sep"></span></div>
     <div class="tk-item">Software<span class="tk-sep"></span></div>
-    <!-- duplicat pentru loop continuu -->
+    <div class="tk-item">Website<span class="tk-sep"></span></div>
+    <div class="tk-item">Branding<span class="tk-sep"></span></div>
+    <div class="tk-item">Social Media<span class="tk-sep"></span></div>
+    <div class="tk-item">Google Ads<span class="tk-sep"></span></div>
+    <div class="tk-item">SEO<span class="tk-sep"></span></div>
+    <div class="tk-item">Meta Ads<span class="tk-sep"></span></div>
+    <div class="tk-item">E-Commerce<span class="tk-sep"></span></div>
+    <div class="tk-item">Newsletter<span class="tk-sep"></span></div>
+    <div class="tk-item">Software<span class="tk-sep"></span></div>
+    <div class="tk-item">Website<span class="tk-sep"></span></div>
+    <div class="tk-item">Branding<span class="tk-sep"></span></div>
+    <div class="tk-item">Social Media<span class="tk-sep"></span></div>
+    <div class="tk-item">Google Ads<span class="tk-sep"></span></div>
+    <div class="tk-item">SEO<span class="tk-sep"></span></div>
+    <div class="tk-item">Meta Ads<span class="tk-sep"></span></div>
+    <div class="tk-item">E-Commerce<span class="tk-sep"></span></div>
+    <div class="tk-item">Newsletter<span class="tk-sep"></span></div>
+    <div class="tk-item">Software<span class="tk-sep"></span></div>
+    <div class="tk-item">Website<span class="tk-sep"></span></div>
+    <div class="tk-item">Branding<span class="tk-sep"></span></div>
+    <div class="tk-item">Social Media<span class="tk-sep"></span></div>
+    <div class="tk-item">Google Ads<span class="tk-sep"></span></div>
+    <div class="tk-item">SEO<span class="tk-sep"></span></div>
+    <div class="tk-item">Meta Ads<span class="tk-sep"></span></div>
+    <div class="tk-item">E-Commerce<span class="tk-sep"></span></div>
+    <div class="tk-item">Newsletter<span class="tk-sep"></span></div>
+    <div class="tk-item">Software<span class="tk-sep"></span></div>
+    <div class="tk-item">Website<span class="tk-sep"></span></div>
+    <div class="tk-item">Branding<span class="tk-sep"></span></div>
+    <div class="tk-item">Social Media<span class="tk-sep"></span></div>
+    <div class="tk-item">Google Ads<span class="tk-sep"></span></div>
+    <div class="tk-item">SEO<span class="tk-sep"></span></div>
+    <div class="tk-item">Meta Ads<span class="tk-sep"></span></div>
+    <div class="tk-item">E-Commerce<span class="tk-sep"></span></div>
+    <div class="tk-item">Newsletter<span class="tk-sep"></span></div>
+    <div class="tk-item">Software<span class="tk-sep"></span></div>
+    <div class="tk-item">Website<span class="tk-sep"></span></div>
+    <div class="tk-item">Branding<span class="tk-sep"></span></div>
+    <div class="tk-item">Social Media<span class="tk-sep"></span></div>
+    <div class="tk-item">Google Ads<span class="tk-sep"></span></div>
+    <div class="tk-item">SEO<span class="tk-sep"></span></div>
+    <div class="tk-item">Meta Ads<span class="tk-sep"></span></div>
+    <div class="tk-item">E-Commerce<span class="tk-sep"></span></div>
+    <div class="tk-item">Newsletter<span class="tk-sep"></span></div>
+    <div class="tk-item">Software<span class="tk-sep"></span></div>
+    <div class="tk-item">Website<span class="tk-sep"></span></div>
+    <div class="tk-item">Branding<span class="tk-sep"></span></div>
+    <div class="tk-item">Social Media<span class="tk-sep"></span></div>
+    <div class="tk-item">Google Ads<span class="tk-sep"></span></div>
+    <div class="tk-item">SEO<span class="tk-sep"></span></div>
+    <div class="tk-item">Meta Ads<span class="tk-sep"></span></div>
+    <div class="tk-item">E-Commerce<span class="tk-sep"></span></div>
+    <div class="tk-item">Newsletter<span class="tk-sep"></span></div>
+    <div class="tk-item">Software<span class="tk-sep"></span></div>
     <div class="tk-item">Website<span class="tk-sep"></span></div>
     <div class="tk-item">Branding<span class="tk-sep"></span></div>
     <div class="tk-item">Social Media<span class="tk-sep"></span></div>
@@ -1101,8 +1155,8 @@
       <div class="why__left rv">
         <div class="why__ill" aria-hidden="true">
           <svg width="76" height="76" viewBox="0 0 76 76" fill="none">
-            <circle cx="38" cy="38" r="26" stroke="rgba(61,40,0,.3)" stroke-width="3"/>
-            <circle cx="38" cy="38" r="12" stroke="rgba(61,40,0,.4)" stroke-width="2"/>
+            <circle cx="38" cy="38" r="26" stroke="rgba(22,33,10,.3)" stroke-width="3"/>
+            <circle cx="38" cy="38" r="12" stroke="rgba(22,33,10,.4)" stroke-width="2"/>
             <circle cx="38" cy="38" r="4" fill="var(--acc-ink)"/>
             <line x1="38" y1="12" x2="38" y2="26" stroke="var(--acc-ink)" stroke-width="2.5" stroke-linecap="round" opacity=".7"/>
             <line x1="38" y1="50" x2="38" y2="64" stroke="var(--acc-ink)" stroke-width="2.5" stroke-linecap="round" opacity=".7"/>
@@ -1619,6 +1673,7 @@
   align-items: center;
   justify-content: center;
   z-index: 3;
+  transition: border-color .35s ease, box-shadow .35s ease;
 }
 .hero__badge > svg { width: 90px; height: 90px; animation: rotB 16s linear infinite; }
 .hero__badge > svg text {
@@ -1651,7 +1706,10 @@
 
 /* Cinema mode (desktop): continut + overlay pe ~20% stanga, video curat in dreapta */
 .hero__overlay { clip-path: inset(0 0 0 0); transition: clip-path .65s ease; }
-.hero__content { transition: max-width .65s ease, padding .65s ease; }
+.hero__content {
+  transform-origin: left bottom;
+  transition: max-width .65s ease, padding .65s ease, transform .65s ease;
+}
 .hero--cinema .hero__vid video { opacity: 1; }
 .hero--cinema .hero__overlay { clip-path: inset(0 calc(100% - max(20vw, 340px)) 0 0); }
 .hero--cinema .hero__content {
@@ -1667,6 +1725,27 @@
 .hero--cinema .hero__acts .btn { justify-content: center; }
 .hero--cinema .hero__play-ic--play { display: none; }
 .hero--cinema .hero__play-ic--close { display: block; }
+
+/* Teaser la hover pe play: porneste tranzitia spre cinema, revine cand pleci */
+.hero--tease:not(.hero--cinema) .hero__vid video {
+  opacity: .34;
+  transition-duration: .5s;
+  transition-timing-function: cubic-bezier(.22, .9, .3, 1);
+}
+.hero--tease:not(.hero--cinema) .hero__overlay {
+  clip-path: inset(0 9% 0 0);
+  transition-duration: .5s;
+  transition-timing-function: cubic-bezier(.22, .9, .3, 1);
+}
+.hero--tease:not(.hero--cinema) .hero__content {
+  transform: translateX(-18px) scale(.985);
+  transition-duration: .5s;
+  transition-timing-function: cubic-bezier(.22, .9, .3, 1);
+}
+.hero--tease:not(.hero--cinema) .hero__badge {
+  border-color: rgba(155,195,26,.6);
+  box-shadow: 0 0 0 8px rgba(155,195,26,.08), 0 0 34px rgba(155,195,26,.25);
+}
 
 /* HERO — Tablet/Mobile */
 @media (max-width: 1024px) {
@@ -1691,7 +1770,7 @@
 }
 .tk-track {
   display: flex;
-  animation: tk 22s linear infinite;
+  animation: tk 80s linear infinite;
   width: max-content;
 }
 .tk-item {
@@ -1704,13 +1783,13 @@
   font-weight: 500;
   letter-spacing: .1em;
   text-transform: uppercase;
-  color: rgba(61,40,0,.75);
+  color: rgba(22,33,10,.82);
   white-space: nowrap;
 }
 .tk-sep {
   width: 4px; height: 4px;
   border-radius: 50%;
-  background: rgba(61,40,0,.3);
+  background: rgba(22,33,10,.32);
   flex-shrink: 0;
 }
 @keyframes tk {
@@ -2673,7 +2752,7 @@
   background: var(--cream3);
   width: 60%;
 }
-.sd-search__row.top .sd-search__row-meta { background: rgba(61,40,0,.4); }
+.sd-search__row.top .sd-search__row-meta { background: rgba(22,33,10,.4); }
 
 
 /* ══ Card 6: SOFTWARE — code editor ══ */
@@ -3613,7 +3692,7 @@
 .wpcf7-spinner {
   display: inline-block;
   width: 14px; height: 14px;
-  border: 2px solid rgba(61,40,0,.3);
+  border: 2px solid rgba(22,33,10,.3);
   border-top-color: var(--acc-ink);
   border-radius: 50%;
   animation: spin .8s linear infinite;
@@ -3836,7 +3915,7 @@
 }
 .tc-email__header i { font-size: 16px; color: var(--acc-ink); opacity: .6; }
 .tc-email__header-txt {
-  height: 5px; flex: 1; background: rgba(61,40,0,.3); border-radius: 3px;
+  height: 5px; flex: 1; background: rgba(22,33,10,.32); border-radius: 3px;
 }
 .tc-email__body-rows { padding: 10px 14px; display: flex; flex-direction: column; gap: 5px; }
 .tc-email__row { height: 4px; background: var(--cream3); border-radius: 2px; }
