@@ -37,7 +37,7 @@
   letter-spacing: -.04em; color: #fff; margin-bottom: 26px;
 }
 .wsp-hero__hed .acc {
-  background: linear-gradient(135deg, var(--acc2) 0%, #E8980A 100%);
+  background: linear-gradient(135deg, var(--acc2) 0%, #9BC31A 100%);
   -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
 }
 .wsp-hero__lead {
@@ -75,7 +75,7 @@
   border-radius: var(--rlg); padding: 36px 30px 32px; display: flex; flex-direction: column;
   transition: transform .3s, box-shadow .3s, border-color .3s;
 }
-.wsp-type:hover { transform: translateY(-6px); border-color: rgba(232,152,10,.35); box-shadow: 0 22px 50px rgba(232,152,10,.12); }
+.wsp-type:hover { transform: translateY(-6px); border-color: rgba(155,195,26,.35); box-shadow: 0 22px 50px rgba(155,195,26,.12); }
 .wsp-type--feat { background: var(--ink); border-color: var(--ink); }
 .wsp-type__badge {
   position: absolute; top: -12px; left: 30px; background: var(--acc); color: var(--acc-ink);
@@ -86,7 +86,7 @@
   width: 52px; height: 52px; border-radius: 14px; background: var(--acc-bg); color: var(--acc);
   display: flex; align-items: center; justify-content: center; font-size: 22px; margin-bottom: 22px;
 }
-.wsp-type--feat .wsp-type__icon { background: rgba(232,152,10,.18); color: var(--acc2); }
+.wsp-type--feat .wsp-type__icon { background: rgba(155,195,26,.18); color: var(--acc2); }
 .wsp-type__tag { font-family: var(--f-m); font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--acc); margin-bottom: 8px; font-weight: 500; }
 .wsp-type--feat .wsp-type__tag { color: var(--acc2); }
 .wsp-type__name { font-family: var(--f-d); font-weight: 700; font-size: 24px; letter-spacing: -.02em; color: var(--ink); margin-bottom: 12px; }
@@ -138,7 +138,7 @@
 .wsp-cmp__price { display: block; font-family: var(--f-m); font-size: 12px; color: var(--acc); margin-top: 4px; font-weight: 500; }
 .wsp-cmp__th-feat { background: var(--acc-bg) !important; }
 .wsp-cmp__th-feat .wsp-cmp__plan { color: var(--acc-dark); }
-.wsp-cmp__td-feat { background: rgba(232,152,10,.05); font-weight: 600; color: var(--ink); }
+.wsp-cmp__td-feat { background: rgba(155,195,26,.05); font-weight: 600; color: var(--ink); }
 .wsp-cmp__table tbody tr:last-child th, .wsp-cmp__table tbody tr:last-child td { border-bottom: none; }
 .wsp-cmp__table .fa-check { color: var(--acc); font-size: 14px; }
 .wsp-cmp__no { color: var(--light) !important; font-size: 11px; }
@@ -627,6 +627,6 @@
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"3q0u3iBDeldYI73XyNa2P"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zH-fJ9AzmsQdd69wlq6mF"}
 4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
 7:null

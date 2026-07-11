@@ -1,14 +1,18 @@
 1:"$Sreact.fragment"
 e:I[68027,["/_next/static/chunks/2mmsi1_k6ur7r.js","/_next/static/chunks/158myu8e_yme3.js"],"default",1]
-:HL["/_next/static/chunks/2ktfb9zu0lyrl.css","style"]
-:HL["/_next/static/media/017d9bea37084d9b-s.p.41rroleoq1br7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/26daee0352f50a5f-s.p.2e115y8-hourl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/36363bfb06833f56-s.p.38hmww4cj4vme.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/5c285b27cdda1fe8-s.p.2_mbdogr7ni8i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/a73419dd2ba2d841-s.p.2yee423r7ahpo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/b12e986493c137cf-s.p.2njitm-prmz2_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/b2fa3ef4ca165ab4-s.p.12_ml6bnugnre.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/c3cb240f9c892514-s.p.3z_x6eowsw16y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/2_-5a90h7sgxz.css","style"]
+:HL["/_next/static/media/0da9c7f357bd9d4d-s.p.1975l3y3401x_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2094fb60fd9c8287-s.p.3qxy1tqak831c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/47fe1b7cd6e6ed85-s.p.3bh2vc0w-r-ll.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5f9d24ebef5d5292-s.p.19xuq3td7fwu_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6c55a692938ebbbc-s.p.1emuuracu50qd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/798ea22d9983e047-s.p.3go-kn2r40gie.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/829ba4228c966254-s.p.2mm3nq9i83l-m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8cf1ea7b03cdeb83-s.p.3dbq0oou7i_24.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8e6fa89aa22d24ec-s.p.2o7m9ogm38dql.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a218039a3287bcfd-s.p.43zbiuwnnoiok.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c875c6f5d3e977ac-s.p.1h18_wedhzk4h.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e2334d715941921e-s.p.3o_v2fun1jzxk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css","style"]
 2:["$","link",null,{"rel":"stylesheet","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}]
 3:T5c7,(function(){
@@ -23,7 +27,7 @@ e:I[68027,["/_next/static/chunks/2mmsi1_k6ur7r.js","/_next/static/chunks/158myu8
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","creare-site-prezentare-bucuresti",""],"q":"","i":false,"f":[[["",{"children":["creare-site-prezentare-bucuresti",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2ktfb9zu0lyrl.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2mmsi1_k6ur7r.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"bricolage_grotesque_4d7004bd-module__Hoo0MG__variable dm_sans_371c950d-module__4cga4q__variable dm_mono_6c018cca-module__6UXbpq__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"3q0u3iBDeldYI73XyNa2P"}
+})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","creare-site-prezentare-bucuresti",""],"q":"","i":false,"f":[[["",{"children":["creare-site-prezentare-bucuresti",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2mmsi1_k6ur7r.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"zH-fJ9AzmsQdd69wlq6mF"}
 11:I[39756,["/_next/static/chunks/2mmsi1_k6ur7r.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 12:I[37457,["/_next/static/chunks/2mmsi1_k6ur7r.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 14:I[27961,["/_next/static/chunks/2mmsi1_k6ur7r.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
@@ -213,7 +217,7 @@ a:["$","$1","c",{"children":[null,["$","$L11",null,{"parallelRouterKey":"childre
 19:[]
 c:"$W19"
 d:["$","$1","h",{"children":[null,["$","$L1a",null,{"children":"$L1b"}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.Metadata","children":"$L1e"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
-f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2ktfb9zu0lyrl.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 20:I[97367,["/_next/static/chunks/2mmsi1_k6ur7r.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 1f:T6d80,<style>
 .csi-hero {
@@ -228,7 +232,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2ktfb9zu0lyrl
   position: absolute;
   top: -120px; right: -160px;
   width: 560px; height: 560px;
-  background: radial-gradient(circle, rgba(232,152,10,.16) 0%, transparent 62%);
+  background: radial-gradient(circle, rgba(155,195,26,.16) 0%, transparent 62%);
   pointer-events: none;
 }
 .csi-hero > .wrap { position: relative; z-index: 1; max-width: 920px; }
@@ -325,7 +329,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2ktfb9zu0lyrl
 .csi-sec.bg-white .csi-card { background: var(--cream); }
 .csi-card:hover {
   transform: translateY(-4px);
-  border-color: rgba(232,152,10,.3);
+  border-color: rgba(155,195,26,.3);
   box-shadow: 0 18px 36px rgba(17,16,16,.06);
 }
 .csi-card__ico {
@@ -465,7 +469,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2ktfb9zu0lyrl
   position: absolute;
   top: -100px; left: 50%; transform: translateX(-50%);
   width: 460px; height: 320px;
-  background: radial-gradient(circle, rgba(232,152,10,.22) 0%, transparent 70%);
+  background: radial-gradient(circle, rgba(155,195,26,.22) 0%, transparent 70%);
   pointer-events: none;
 }
 .csi-cta > .wrap { position: relative; z-index: 1; max-width: 680px; }

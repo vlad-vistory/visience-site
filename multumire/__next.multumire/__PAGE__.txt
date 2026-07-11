@@ -20,7 +20,7 @@
   position: absolute;
   top: -200px; right: -200px;
   width: 500px; height: 500px;
-  background: radial-gradient(circle, rgba(232,152,10,.08) 0%, transparent 70%);
+  background: radial-gradient(circle, rgba(155,195,26,.08) 0%, transparent 70%);
   pointer-events: none;
 }
 .ty-hero::after {
@@ -28,7 +28,7 @@
   position: absolute;
   bottom: -150px; left: -150px;
   width: 400px; height: 400px;
-  background: radial-gradient(circle, rgba(232,152,10,.05) 0%, transparent 70%);
+  background: radial-gradient(circle, rgba(155,195,26,.05) 0%, transparent 70%);
   pointer-events: none;
 }
 .ty-hero > .wrap {
@@ -46,14 +46,14 @@
   align-items: center;
   justify-content: center;
   position: relative;
-  box-shadow: 0 16px 40px rgba(232,152,10,.3);
+  box-shadow: 0 16px 40px rgba(155,195,26,.3);
   animation: tyPop .7s cubic-bezier(.34,1.56,.64,1) both;
 }
 .ty-hero__icon::before {
   content: '';
   position: absolute;
   inset: -8px;
-  border: 1.5px solid rgba(232,152,10,.35);
+  border: 1.5px solid rgba(155,195,26,.35);
   border-radius: 50%;
   animation: tyRing 2.4s ease-out infinite;
 }
@@ -131,7 +131,7 @@
 }
 .ty-step:hover {
   transform: translateY(-4px);
-  border-color: rgba(232,152,10,.3);
+  border-color: rgba(155,195,26,.3);
   box-shadow: 0 18px 36px rgba(17,16,16,.06);
 }
 .ty-step__num {
@@ -196,7 +196,7 @@
   position: absolute;
   top: -100px; right: -100px;
   width: 300px; height: 300px;
-  background: radial-gradient(circle, rgba(232,152,10,.18) 0%, transparent 70%);
+  background: radial-gradient(circle, rgba(155,195,26,.18) 0%, transparent 70%);
   pointer-events: none;
 }
 .ty-contact > .wrap {
@@ -354,6 +354,6 @@
   </section>
 
 </main>
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"3q0u3iBDeldYI73XyNa2P"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zH-fJ9AzmsQdd69wlq6mF"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

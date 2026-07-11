@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
 8:I[97367,["/_next/static/chunks/2mmsi1_k6ur7r.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 9:"$Sreact.suspense"
-:HL["/_next/static/chunks/1fi8z7-1cixn5.css","style"]
-2:T1062,{"@context":"https://schema.org","@graph":[{"@type":"OfferCatalog","@id":"https://visience.ro/#servicii","name":"Servicii Visience","provider":{"@id":"https://visience.ro/#organization"},"itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"150","itemOffered":{"@type":"Service","name":"Creare website de prezentare","description":"Landing page-uri, site-uri de companie și portofolii cu CMS, design adaptiv și SEO tehnic."}},{"@type":"Offer","priceCurrency":"EUR","price":"700","itemOffered":{"@type":"Service","name":"Creare magazin online","url":"https://visience.ro/creare-magazin-online/","description":"Magazine online pe WooCommerce sau Shopify, optimizate pentru conversie, cu plăți și integrare Google & Meta Ads."}},{"@type":"Offer","priceCurrency":"EUR","price":"150","itemOffered":{"@type":"Service","name":"Branding și identitate vizuală","description":"Logo, brand book complet și identitate vizuală pentru online și offline."}},{"@type":"Offer","priceCurrency":"EUR","price":"100","itemOffered":{"@type":"Service","name":"Social Media Management","description":"Strategie, conținut, postare și gestionare completă a rețelelor sociale."}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"PPC — Google și Meta Ads","description":"Campanii de Lead Generation, remarketing și Shopping cu focus pe conversii."}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"SEO și Content Marketing","description":"SEO tehnic, strategie on-page și off-page, backlinking, newsletter și email marketing."}},{"@type":"Offer","priceCurrency":"EUR","price":"50","itemOffered":{"@type":"Service","name":"Software și App Development","description":"Aplicații mobile iOS și Android, Cloud Migration, AI & Data Solutions și automatizări RPA."}}]},{"@type":"FAQPage","@id":"https://visience.ro/#faq","mainEntity":[{"@type":"Question","name":"Cât costă crearea unui site web la Visience?","acceptedAnswer":{"@type":"Answer","text":"Un site de prezentare standard pornește de la 500€, un site avansat de la 1.000€, iar un site premium cu design custom de la 2.000€. Prețul final depinde de numărul de pagini, funcționalități și nivelul de personalizare."}},{"@type":"Question","name":"Cât costă un magazin online?","acceptedAnswer":{"@type":"Answer","text":"Un magazin online pe WooCommerce sau Shopify pornește de la 700€ (Basic), 1.500€ (Standard) și 3.000€ (Premium). Toate includ produse, plăți online, livrare automatizată și integrare cu Google și Meta Ads."}},{"@type":"Question","name":"Ce include un proiect de branding?","acceptedAnswer":{"@type":"Answer","text":"Logo, ton de comunicare și identitate vizuală pentru online și offline. Pachetul Standard, cu brand book complet, pornește de la 1.000€, iar Premium, cu BrandBook extins, de la 2.000€."}},{"@type":"Question","name":"Cât costă serviciile de SEO?","acceptedAnswer":{"@type":"Answer","text":"SEO tehnic punctual este la 40€/oră, iar strategia SEO lunară continuă pornește de la 500€/lună. Pentru magazine online, optimizarea SEO completă pornește de la 1.500€."}},{"@type":"Question","name":"În ce orașe lucrează Visience?","acceptedAnswer":{"@type":"Answer","text":"Visience are sediul în Iași și lucrează cu clienți din toată România, inclusiv București, Timișoara, Cluj-Napoca, Suceava și Bacău. Proiectele se desfășoară integral online."}},{"@type":"Question","name":"Pe ce platforme construiește Visience site-uri?","acceptedAnswer":{"@type":"Answer","text":"Construim pe WordPress (Oxygen, Elementor), Shopify, WooCommerce și Webflow, precum și soluții custom. Alegem platforma în funcție de nevoile proiectului."}},{"@type":"Question","name":"Cât durează realizarea unui site web?","acceptedAnswer":{"@type":"Answer","text":"Un landing page în câteva zile, un site de prezentare standard în 2–4 săptămâni, iar un proiect premium sau un magazin online complex în 4–8 săptămâni."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4"],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"3q0u3iBDeldYI73XyNa2P"}
+:HL["/_next/static/chunks/3gr0715t-8v3l.css","style"]
+2:T1062,{"@context":"https://schema.org","@graph":[{"@type":"OfferCatalog","@id":"https://visience.ro/#servicii","name":"Servicii Visience","provider":{"@id":"https://visience.ro/#organization"},"itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"150","itemOffered":{"@type":"Service","name":"Creare website de prezentare","description":"Landing page-uri, site-uri de companie și portofolii cu CMS, design adaptiv și SEO tehnic."}},{"@type":"Offer","priceCurrency":"EUR","price":"700","itemOffered":{"@type":"Service","name":"Creare magazin online","url":"https://visience.ro/creare-magazin-online/","description":"Magazine online pe WooCommerce sau Shopify, optimizate pentru conversie, cu plăți și integrare Google & Meta Ads."}},{"@type":"Offer","priceCurrency":"EUR","price":"150","itemOffered":{"@type":"Service","name":"Branding și identitate vizuală","description":"Logo, brand book complet și identitate vizuală pentru online și offline."}},{"@type":"Offer","priceCurrency":"EUR","price":"100","itemOffered":{"@type":"Service","name":"Social Media Management","description":"Strategie, conținut, postare și gestionare completă a rețelelor sociale."}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"PPC — Google și Meta Ads","description":"Campanii de Lead Generation, remarketing și Shopping cu focus pe conversii."}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"SEO și Content Marketing","description":"SEO tehnic, strategie on-page și off-page, backlinking, newsletter și email marketing."}},{"@type":"Offer","priceCurrency":"EUR","price":"50","itemOffered":{"@type":"Service","name":"Software și App Development","description":"Aplicații mobile iOS și Android, Cloud Migration, AI & Data Solutions și automatizări RPA."}}]},{"@type":"FAQPage","@id":"https://visience.ro/#faq","mainEntity":[{"@type":"Question","name":"Cât costă crearea unui site web la Visience?","acceptedAnswer":{"@type":"Answer","text":"Un site de prezentare standard pornește de la 500€, un site avansat de la 1.000€, iar un site premium cu design custom de la 2.000€. Prețul final depinde de numărul de pagini, funcționalități și nivelul de personalizare."}},{"@type":"Question","name":"Cât costă un magazin online?","acceptedAnswer":{"@type":"Answer","text":"Un magazin online pe WooCommerce sau Shopify pornește de la 700€ (Basic), 1.500€ (Standard) și 3.000€ (Premium). Toate includ produse, plăți online, livrare automatizată și integrare cu Google și Meta Ads."}},{"@type":"Question","name":"Ce include un proiect de branding?","acceptedAnswer":{"@type":"Answer","text":"Logo, ton de comunicare și identitate vizuală pentru online și offline. Pachetul Standard, cu brand book complet, pornește de la 1.000€, iar Premium, cu BrandBook extins, de la 2.000€."}},{"@type":"Question","name":"Cât costă serviciile de SEO?","acceptedAnswer":{"@type":"Answer","text":"SEO tehnic punctual este la 40€/oră, iar strategia SEO lunară continuă pornește de la 500€/lună. Pentru magazine online, optimizarea SEO completă pornește de la 1.500€."}},{"@type":"Question","name":"În ce orașe lucrează Visience?","acceptedAnswer":{"@type":"Answer","text":"Visience are sediul în Iași și lucrează cu clienți din toată România, inclusiv București, Timișoara, Cluj-Napoca, Suceava și Bacău. Proiectele se desfășoară integral online."}},{"@type":"Question","name":"Pe ce platforme construiește Visience site-uri?","acceptedAnswer":{"@type":"Answer","text":"Construim pe WordPress (Oxygen, Elementor), Shopify, WooCommerce și Webflow, precum și soluții custom. Alegem platforma în funcție de nevoile proiectului."}},{"@type":"Question","name":"Cât durează realizarea unui site web?","acceptedAnswer":{"@type":"Answer","text":"Un landing page în câteva zile, un site de prezentare standard în 2–4 săptămâni, iar un proiect premium sau un magazin online complex în 4–8 săptămâni."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4"],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zH-fJ9AzmsQdd69wlq6mF"}
 7:T2194a,
 
 <div class="vis-home">
@@ -402,7 +402,7 @@
                   <span class="sd-sw-line"></span>
                 </div>
                 <div class="sd-mood-palette__row">
-                  <span class="sd-sw" style="background:#E8980A"></span>
+                  <span class="sd-sw" style="background:#9BC31A"></span>
                   <span class="sd-sw-line"></span>
                 </div>
                 <div class="sd-mood-palette__row">
@@ -1568,7 +1568,7 @@
   opacity: .55;
 }
 .hero__hed .acc {
-  background: linear-gradient(135deg, var(--acc2) 0%, #E8980A 100%);
+  background: linear-gradient(135deg, var(--acc2) 0%, #9BC31A 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -1613,7 +1613,7 @@
   transform: translateY(-50%);
   width: 90px;
   height: 90px;
-  border: 1px solid rgba(232,152,10,.25);
+  border: 1px solid rgba(155,195,26,.25);
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -1637,8 +1637,8 @@
   width: 46px;
   height: 46px;
   border-radius: 50%;
-  border: 1px solid rgba(232,152,10,.45);
-  background: rgba(232,152,10,.14);
+  border: 1px solid rgba(155,195,26,.45);
+  background: rgba(155,195,26,.14);
   color: #fff;
   display: flex;
   align-items: center;
@@ -2006,9 +2006,9 @@
   position: relative;
 }
 .svc-card:hover {
-  border-color: rgba(232,152,10,.35);
+  border-color: rgba(155,195,26,.35);
   transform: translateY(-6px);
-  box-shadow: 0 20px 48px rgba(232,152,10,.12);
+  box-shadow: 0 20px 48px rgba(155,195,26,.12);
 }
 .svc-card::before {
   content: '';
@@ -2182,7 +2182,7 @@
   flex-shrink: 0;
   border-radius: 5px;
   background:
-    radial-gradient(circle at 30% 30%, rgba(232,152,10,.55) 0%, transparent 55%),
+    radial-gradient(circle at 30% 30%, rgba(155,195,26,.55) 0%, transparent 55%),
     var(--cream2);
   position: relative;
   overflow: hidden;
@@ -2507,8 +2507,8 @@
 .sd-feed__img {
   flex: 1;
   background:
-    linear-gradient(135deg, rgba(232,152,10,.18) 0%, rgba(232,152,10,.05) 100%),
-    radial-gradient(circle at 70% 30%, rgba(232,152,10,.25) 0%, transparent 50%),
+    linear-gradient(135deg, rgba(155,195,26,.18) 0%, rgba(155,195,26,.05) 100%),
+    radial-gradient(circle at 70% 30%, rgba(155,195,26,.25) 0%, transparent 50%),
     var(--cream2);
   position: relative;
 }
@@ -2644,7 +2644,7 @@
 .sd-search__row.top {
   background: var(--acc);
   border-color: var(--acc);
-  box-shadow: 0 6px 18px rgba(232,152,10,.25);
+  box-shadow: 0 6px 18px rgba(155,195,26,.25);
 }
 .sd-search__rank {
   position: absolute;
@@ -3199,7 +3199,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  box-shadow: 0 12px 36px rgba(232,152,10,.28);
+  box-shadow: 0 12px 36px rgba(155,195,26,.28);
 }
 .why__list {
   display: flex;
@@ -3595,8 +3595,8 @@
   font-size: 13px;
 }
 .wpcf7-mail-sent-ok {
-  background: rgba(232,152,10,.1);
-  border: 1px solid rgba(232,152,10,.3);
+  background: rgba(155,195,26,.1);
+  border: 1px solid rgba(155,195,26,.3);
   color: var(--acc-dark);
 }
 .wpcf7-validation-errors {
@@ -3863,8 +3863,8 @@
 }
 .spec-card:hover {
   transform: translateY(-6px);
-  border-color: rgba(232,152,10,.35);
-  box-shadow: 0 22px 50px rgba(232,152,10,.12);
+  border-color: rgba(155,195,26,.35);
+  box-shadow: 0 22px 50px rgba(155,195,26,.12);
 }
 .spec-card--feat { background: var(--ink); border-color: var(--ink); }
 .spec-card__badge {
@@ -3912,6 +3912,6 @@
 </style>
 3:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$7"}}]
 4:["$","section",null,{"className":"home-blog","children":["$","div",null,{"className":"wrap","children":[["$","div",null,{"className":"home-blog__head","children":[["$","h2",null,{"className":"dd dd-lg","children":["Articole & ",["$","span",null,{"style":{"color":"var(--acc)"},"children":"resurse"}]]}],["$","a",null,{"href":"/blog/","className":"home-blog__all","children":"Vezi toate articolele →"}]]}],["$","div",null,{"className":"blog-grid","children":[["$","a","ghid-marketing-imobiliar-pentru-dezvoltatori",{"href":"/blog/ghid-marketing-imobiliar-pentru-dezvoltatori/","className":"blog-card","children":[["$","time",null,{"className":"blog-card__date","dateTime":"2026-07-10","children":"10 iulie 2026"}],["$","h3",null,{"className":"blog-card__title","children":"Marketing imobiliar pentru dezvoltatori: de la lansare la sold-out"}],["$","p",null,{"className":"blog-card__desc","children":"Ghid de marketing imobiliar pentru dezvoltatori: pre-lansare, website, bugete, campanii Google și Meta, portaluri, AI și recenzii. Cu cifre din proiecte reale."}],["$","span",null,{"className":"blog-card__more","children":"Citește articolul →"}]]}],["$","a","mobila-la-comanda-bucuresti-artesanomob",{"href":"/blog/mobila-la-comanda-bucuresti-artesanomob/","className":"blog-card","children":[["$","time",null,{"className":"blog-card__date","dateTime":"2025-09-04","children":"4 septembrie 2025"}],["$","h3",null,{"className":"blog-card__title","children":"Mobilă la comandă București ArtesanoMob"}],["$","p",null,{"className":"blog-card__desc","children":"Mobilă la comandă București ArtesanoMob Partener Visience Mobilă personalizată pe comandă în București Vezi Partenerul Artesano Mob realizează mobilier la com"}],["$","span",null,{"className":"blog-card__more","children":"Citește articolul →"}]]}],["$","a","creste-vizibilitatea-si-conversiile-pentru-brandul-tau-cu-extensii-de-anunturi-eficiente-in-campaniile-google-ads",{"href":"/blog/creste-vizibilitatea-si-conversiile-pentru-brandul-tau-cu-extensii-de-anunturi-eficiente-in-campaniile-google-ads/","className":"blog-card","children":[["$","time",null,{"className":"blog-card__date","dateTime":"2024-11-01","children":"1 noiembrie 2024"}],["$","h3",null,{"className":"blog-card__title","children":"Crește vizibilitatea și conversiile pentru brandul tău cu extensii de anunțuri eficiente în campaniile Google Ads"}],["$","p",null,{"className":"blog-card__desc","children":"Obține un trafic mai ridicat și conversii mai bune pentru brandul tău prin campanii Google Ads optimizate, care îți oferă un avantaj competitiv prin utilizare"}],["$","span",null,{"className":"blog-card__more","children":"Citește articolul →"}]]}]]}]]}]}]
-5:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1fi8z7-1cixn5.css","precedence":"next"}]
+5:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3gr0715t-8v3l.css","precedence":"next"}]
 6:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
 a:null
