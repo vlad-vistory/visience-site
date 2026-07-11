@@ -1,35 +1,54 @@
 1:"$Sreact.fragment"
 8:I[97367,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 9:"$Sreact.suspense"
-:HL["/_next/static/chunks/3a0jy86-z183b.css","style"]
-2:T5b3,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/site-dentist-clinica-stomatologica/#article","headline":"Creare site pentru cabinet stomatologic: încredere și programări","description":"În medical, recenziile fac cât zece reclame. Ce transformă frica pacientului în „îi sun\": dovezi, echipa la vedere, programare ușoară, găsibil la urgență.","datePublished":"2023-06-17","dateModified":"2023-06-17","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/site-dentist-clinica-stomatologica/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Creare site pentru cabinet stomatologic: încredere și programări","item":"https://visience.ro/blog/site-dentist-clinica-stomatologica/"}]}]}3:T970,<p>Puțină lume merge la dentist cu plăcere — și mai puțină alege unul la întâmplare. Oamenii caută o clinică în care să aibă încredere că nu-i doare, nu-i păcălește și e curată. Site-ul unei clinici stomatologice are un singur job mare: să transforme frica și neîncrederea în „ăștia par de treabă, îi sun". Iată cum.</p>
+:HL["/_next/static/chunks/08fx3jc3xhbnb.css","style"]
+2:T5af,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/site-dentist-clinica-stomatologica/#article","headline":"Site pentru cabinet stomatologic: ce aduce mai mulți pacienți","description":"Un site de clinică dentară e primul tău recepționer: programare online, dovezi (recenzii, echipă, galerie înainte–după), servicii clare și găsibil la urgență.","datePublished":"2023-06-17","dateModified":"2023-06-17","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/site-dentist-clinica-stomatologica/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Site pentru cabinet stomatologic: ce aduce mai mulți pacienți","item":"https://visience.ro/blog/site-dentist-clinica-stomatologica/"}]}]}3:T123a,<p>Puțină lume merge la dentist cu plăcere — și mai puțină alege unul la întâmplare. Înainte să sune, pacientul te caută pe Google, îți citește recenziile, se uită la clinică și la medici. Site-ul e locul unde toată frica și neîncrederea asta se transformă (sau nu) în „ăștia par de treabă, îi sun". Pentru un cabinet stomatologic, un site bun nu e un moft, e primul tău recepționer.</p>
 
-<h2>Încrederea se câștigă cu dovezi, nu cu vorbe</h2>
+<figure class="mock-fig">
+  <img src="/media/mockup-dentisti.avif" alt="Mockup site de cabinet stomatologic pe telefon, cu programare online, realizat de Visience" width="927" height="1696" loading="lazy">
+  <figcaption>Un site de clinică dentară trebuie să arate și să funcționeze impecabil pe telefon — de acolo caută majoritatea pacienților.</figcaption>
+</figure>
 
-<p>În domeniul medical, recenziile fac cât zece reclame. Un pacient nou citește ce spun alții înainte de orice. De aceea, pe site-ul unei clinici, recenziile reale, echipa de medici prezentată cu nume și specializare, și poze curate cu cabinetul (nu poze de stoc) construiesc încrederea de care ai nevoie. Oamenii vor să vadă cine le va băga mâna în gură — la propriu.</p>
+<h2>Recepționerul care nu doarme niciodată</h2>
 
-<h2>Ce trebuie să conțină</h2>
+<p>Cel mai valoros lucru pe care-l face un site de cabinet e să preia pacienți și la 11 noaptea, când recepția e închisă. Asta înseamnă două lucruri la vedere, pe fiecare pagină: un <strong>buton de programare online</strong> și <strong>numărul de telefon</strong>, plus WhatsApp. Cine are o durere nu completează un formular lung — vrea să prindă cel mai apropiat loc, cât mai repede. Un site care ascunde contactul după trei click-uri pierde exact pacientul care avea cea mai mare urgență.</p>
+
+<h2>Încrederea se câștigă cu dovezi, nu cu adjective</h2>
+
+<p>În medical, recenziile fac cât zece reclame. Un pacient nou citește ce spun alții înainte de orice, așa că părerile reale (de pe Google, afișate și pe site) sunt aur. Dincolo de ele, trei lucruri conving:</p>
 
 <ul>
-<li><strong>Serviciile, pe înțelesul omului</strong> — implant, ortodonție (aparate), albire, tratamente, urgențe. Explicate simplu, nu în jargon medical.</li>
-<li><strong>Programare ușoară</strong> — un buton clar de programare, telefon și WhatsApp la vedere. Cine are o durere vrea să prindă cel mai apropiat loc, rapid.</li>
-<li><strong>Echipa și cabinetul</strong> — medicii, experiența lor, poze cu un spațiu curat și modern. Reduc frica înainte de prima vizită.</li>
-<li><strong>Locație și program</strong> — hartă, orar, unde parchezi. Detalii mici care ușurează decizia.</li>
+<li><strong>Echipa la vedere.</strong> Medicii, cu nume, poză și specializare. Oamenii vor să vadă cine le va băga mâna în gură — la propriu. Un chip și o poveste reduc frica mai mult decât orice text.</li>
+<li><strong>Galerie înainte–după.</strong> Rezultate reale ale clinicii (cu acordul pacienților). Nimic nu vinde un implant sau o fațetă mai bine decât să vezi transformarea. Stabilește și așteptări corecte.</li>
+<li><strong>Poze reale, nu de stoc.</strong> Cabinetul curat, aparatura, echipa la treabă. Pozele generice de pe internet se simt de la o poștă și transmit exact opusul încrederii.</li>
 </ul>
 
-<h2>Găsibil la urgență</h2>
+<h2>Ce trebuie să conțină, concret</h2>
 
-<p>Multe programări pornesc de la o căutare „dentist [oraș]" sau „urgență stomatologică". Un site optimizat și un profil Google Business cu recenzii bune te pun exact acolo unde caută pacientul, în momentul în care are nevoie. Pentru o clinică, asta înseamnă scaunul plin.</p>
+<ul>
+<li><strong>Serviciile, pe înțelesul omului</strong> — implant, ortodonție (aparate), fațete, albire, endodonție, urgențe. Explicate simplu, cu ce presupune fiecare, nu în jargon medical care sperie.</li>
+<li><strong>Prețuri sau intervale orientative</strong> și eventuale promoții (consultație gratuită, plată în rate). Pacientul care vede transparență are mai multă încredere.</li>
+<li><strong>Tehnologia și aparatura</strong> — scanner intraoral, radiografie digitală, tehnici fără durere. Astea diferențiază o clinică modernă de una oarecare.</li>
+<li><strong>Întrebări frecvente și un mic blog</strong> — „doare implantul?", „cât ține o fațetă?". Răspunzi la temerile pacientului înainte să le pună, și, bonus, aduci trafic din Google.</li>
+</ul>
 
-<p>Construim site-uri de prezentare pentru cabinete și clinici din domeniul medical — stomatologie, cabinete medicale, veterinare — curate, care inspiră încredere și fac programarea simplă. <a href="/creare-site-prezentare/">Vezi cum lucrăm</a>.</p>
+<h2>Găsibil exact când doare</h2>
+
+<p>Multe programări pornesc de la o căutare de moment — „dentist [oraș]", „urgență stomatologică", „implant dentar preț". Un site optimizat SEO și un <strong>profil Google Business</strong> cu recenzii bune și poze te pun exact acolo unde caută pacientul, în clipa în care are nevoie. Pentru o clinică, diferența dintre a apărea sau nu în momentul ăla înseamnă scaunul plin sau gol.</p>
+
+<h2>Totul, impecabil pe telefon</h2>
+
+<p>Cei mai mulți pacienți caută de pe telefon, adesea seara sau în pauza de la muncă. Dacă site-ul se încarcă greu sau e greu de folosit pe mobil, pacientul pleacă la prima clinică care se deschide repede. Viteza și claritatea pe telefon nu sunt un lux aici — sunt condiția de bază.</p>
+
+<p>Construim site-uri de prezentare pentru cabinete și clinici din domeniul medical — stomatologie, cabinete medicale, veterinare — curate, care inspiră încredere și fac programarea simplă. <a href="/creare-site-prezentare/">Vezi cum lucrăm</a> sau <a href="/portofoliu/">vezi alte proiecte</a>.</p>
 
 <div class="case-cta">
-  <p><strong>Ai o clinică stomatologică și vrei mai mulți pacienți?</strong> Spune-ne despre serviciile tale — îți facem un site care câștigă încrederea pacienților și ușurează programările.</p>
+  <p><strong>Ai o clinică stomatologică și vrei mai mulți pacienți?</strong> Spune-ne despre serviciile tale — îți facem un site care câștigă încrederea pacienților și ușurează programările. Răspundem repede, cel mai bine pe WhatsApp.</p>
   <a href="https://wa.me/40771486499" target="_blank" rel="noopener" class="btn btn-solid">Scrie-ne pe WhatsApp →</a>
 </div>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Creare site pentru cabinet stomatologic: încredere și programări"}],["$","div",null,{"className":"blog-article__meta","children":[["$","time",null,{"dateTime":"2023-06-17","children":"17 iunie 2023"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"U7_w397Ra6JlVhDv_iePf"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Site pentru cabinet stomatologic: ce aduce mai mulți pacienți"}],["$","div",null,{"className":"blog-article__meta","children":[["$","time",null,{"dateTime":"2023-06-17","children":"17 iunie 2023"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"nq4LLtJVRLcBl0UhqABNs"}
 4:["$","div",null,{"className":"blog-author","children":[["$","span",null,{"className":"blog-author__ava","aria-hidden":"true","children":"V"}],["$","div",null,{"className":"blog-author__body","children":[["$","span",null,{"className":"blog-author__name","children":"Vlad Roman"}],["$","span",null,{"className":"blog-author__role","children":["Fondator Visience · ",["$","a",null,{"href":"https://www.linkedin.com/in/roman-vladut-constantin/","target":"_blank","rel":"noopener","className":"blog-author__link","children":"LinkedIn ↗"}]]}],["$","p",null,{"className":"blog-author__bio","children":"Conduce Visience, agenția de web design și marketing digital din Iași. Scrie despre creare de site-uri, SEO și cum își cresc afacerile mici și mijlocii prezența online."}]]}]]}]
 5:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
-6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3a0jy86-z183b.css","precedence":"next"}]
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/08fx3jc3xhbnb.css","precedence":"next"}]
 7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
 a:null
