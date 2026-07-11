@@ -2,163 +2,30 @@
 8:I[97367,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 9:"$Sreact.suspense"
 :HL["/_next/static/chunks/1ezt8qg_uqh-r.css","style"]
-2:T672,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/construind-o-identitate-distinctiva-un-chestionar-cuprinzator-pentru-designul-de-logo/#article","headline":"Construind o Identitate Distinctivă: Un Chestionar Cuprinzător pentru Designul de Logo","description":"Construind o Identitate Distinctivă Un Chestionar Cuprinzător pentru Designul de Logo Designul de logo este un element esențial în stabilirea și promovarea id","datePublished":"2023-12-28","dateModified":"2023-12-28","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/construind-o-identitate-distinctiva-un-chestionar-cuprinzator-pentru-designul-de-logo/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Construind o Identitate Distinctivă: Un Chestionar Cuprinzător pentru Designul de Logo","item":"https://visience.ro/blog/construind-o-identitate-distinctiva-un-chestionar-cuprinzator-pentru-designul-de-logo/"}]}]}3:Td50,<h2>Construind o Identitate Distinctivă </h2>
-<h3>Un Chestionar Cuprinzător pentru Designul de Logo</h3>
-<ol>
-<li>
-<p>Designul de logo este un element esențial în stabilirea și promovarea identității brandului tău. Pentru a asigura o colaborare fluentă și pentru a crea un logo care se aliniază viziunii tale, am dezvoltat un chestionar cuprinzător. Răspunsurile tale vor servi ca bază pentru procesul nostru de design, facilitând o comunicare clară și o înțelegere profundă a brandului tău. Te rugăm să-ți rezervi un moment pentru a ne împărtăși perspectivele:</p>
-<hr/>
-<h3>AFACEREA TA</h3>
-<ol>
-<li>
-<p>Care este numele afacerii tale?</p>
-<ul>
-<li>[Răspunsul tău]</li>
-</ul>
-</li>
-<li>
-<p>Descrie într-o singură frază afacerea/serviciul tău:</p>
-<ul>
-<li>[Răspunsul tău]</li>
-</ul>
-</li>
-<li>
-<p>Dacă nu ești la început de drum cu afacerea – de ce dorești un logo nou?</p>
-<ul>
-<li>[Răspunsul tău]</li>
-</ul>
-</li>
-<li>
-<p>Care sunt obiectivele afacerii tale pe termen scurt, mediu și lung?</p>
-<ul>
-<li>[Răspunsul tău]</li>
-</ul>
-</li>
-<li>
-<p>Ce dorești să realizeze noul tău logo?</p>
-<ul>
-<li>[Răspunsul tău]</li>
-</ul>
-</li>
-<li>
-<p>Care sunt principalii tăi concurenți și în ce fel te diferențiezi de ei?</p>
-<ul>
-<li>[Răspunsul tău]</li>
-</ul>
-</li>
-<li>
-<p>Ce îți place sau nu îți place la branding-ul competitorilor tăi?</p>
-<ul>
-<li>[Răspunsul tău]</li>
-</ul>
-</li>
-<li>
-<p>Care sunt potențialii tăi clienți?</p>
-<ul>
-<li>[Răspunsul tău]</li>
-</ul>
-</li>
-<li>
-<p>Unde va fi promovată afacerea ta?</p>
-<ul>
-<li>[Răspunsul tău]</li>
-</ul>
-</li>
-</ol>
-<hr/>
-<h3>LOGO-UL TĂU</h3>
-<ol>
-<li>
-<p>Ai o idee specifică pentru logo-ul tău?</p>
-<ul>
-<li>[Răspunsul tău]</li>
-</ul>
-</li>
-<li>
-<p>Dorești să folosești culori de brand existente sau o anumită gamă de culori?</p>
-<ul>
-<li>[Răspunsul tău]</li>
-</ul>
-</li>
-<li>
-<p>Există culori pe care cu siguranță nu dorești să le folosești?</p>
-<ul>
-<li>[Răspunsul tău]</li>
-</ul>
-</li>
-<li>
-<p>Ai o anumită tipografie pe care vrei să o folosești – sau pe care cu siguranță nu vrei să o folosești?</p>
-<ul>
-<li>[Răspunsul tău]</li>
-</ul>
-</li>
-<li>
-<p>Ce cuvinte ar trebui să descrie logo-ul tău?</p>
-<ul>
-<li>[Răspunsul tău]</li>
-</ul>
-</li>
-<li>
-<p>Ce mesaj sau emoție dorești să transmită logo-ul tău?</p>
-<ul>
-<li>[Răspunsul tău]</li>
-</ul>
-</li>
-<li>
-<p>Logo-ul tău are un slogan?</p>
-<ul>
-<li>[Răspunsul tău]</li>
-</ul>
-</li>
-<li>
-<p>Sloganul tău va apărea alături de logo pe toate materialele de branding?</p>
-<ul>
-<li>[Răspunsul tău]</li>
-</ul>
-</li>
-<li>
-<p>Unde va fi folosit logo-ul tău?</p>
-<ul>
-<li>[Răspunsul tău]</li>
-</ul>
-</li>
-<li>
-<p>Ce logo-uri îți plac și de ce?</p>
-<ul>
-<li>[Răspunsul tău]</li>
-</ul>
-</li>
-</ol>
-<hr/>
-<h3>DETALII PRACTICE!</h3>
-<ol>
-<li>
-<p>Dorești ca logo-ul tău să fie pregătit pentru web sau print?</p>
-<ul>
-<li>[Răspunsul tău]</li>
-</ul>
-</li>
-<li>
-<p>Care este bugetul tău?</p>
-<ul>
-<li>[Răspunsul tău]</li>
-</ul>
-</li>
-<li>
-<p>Dorești servicii de design suplimentare alături de noul tău logo? (ex. cărți de vizită, antete și alte materiale de papetărie, iconițe/bannere pentru rețelele sociale, materiale publicitare etc.)</p>
-<ul>
-<li>[Răspunsul tău]</li>
-</ul>
-</li>
-<li>
-<p>Alte comentarii?</p>
-<ul>
-<li>[Răspunsul tău]</li>
-</ul>
-</li>
-</ol>
-</li>
-</ol>0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Construind o Identitate Distinctivă: Un Chestionar Cuprinzător pentru Designul de Logo"}],["$","div",null,{"className":"blog-article__meta","children":[["$","time",null,{"dateTime":"2023-12-28","children":"28 decembrie 2023"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"GULPtLRBvNjx-_VsvJr6X"}
+2:T629,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/construind-o-identitate-distinctiva-un-chestionar-cuprinzator-pentru-designul-de-logo/#article","headline":"Ce trebuie să știi înainte să-ți comanzi un logo","description":"Ce informații are nevoie un designer ca să-ți facă un logo bun — despre afacere, preferințe vizuale și partea practică — și de ce contează fiecare.","datePublished":"2023-12-28","dateModified":"2023-12-28","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/construind-o-identitate-distinctiva-un-chestionar-cuprinzator-pentru-designul-de-logo/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Ce trebuie să știi înainte să-ți comanzi un logo","item":"https://visience.ro/blog/construind-o-identitate-distinctiva-un-chestionar-cuprinzator-pentru-designul-de-logo/"}]}]}3:Td9f,<p>Un logo bun nu iese dintr-un moment de inspirație al designerului, ci dintr-o discuție bună la început. Cele mai multe logo-uri ratate nu sunt ratate din lipsă de talent — ci pentru că designerul n-a înțeles afacerea, iar clientul n-a știut ce să ceară. De aceea, înainte să desenăm ceva, punem o serie de întrebări. Îți arătăm aici ce vrem să aflăm și, mai important, <strong>de ce contează</strong> fiecare — ca să vii pregătit, indiferent cu cine lucrezi.</p>
+
+<h2>Despre afacerea ta</h2>
+
+<p>Aici se pun bazele. Vrem să știm ce faci, într-o singură frază — dacă nu poți s-o spui simplu, nici logo-ul n-o va putea. Vrem să știm <strong>cui te adresezi</strong>, pentru că un logo pentru o clinică stomatologică și unul pentru un atelier de tatuaje nu pot arăta la fel; publicul dictează tonul. Și vrem să înțelegem <strong>concurența</strong> ta: cum arată brandurile din jur, ce-ți place și ce nu la ele. Rostul unui logo nu e doar să arate bine, ci să te facă să te deosebești — iar ca să te deosebești, trebuie să știm de cine.</p>
+
+<p>Dacă îți refaci logo-ul, ne interesează și de ce. „Nu-mi mai place" e un răspuns; „nu mai reprezintă unde a ajuns firma" e altul, mult mai util. Motivul schimbării ne spune ce trebuie să păstrăm și ce să lăsăm în urmă.</p>
+
+<h2>Despre logo-ul în sine</h2>
+
+<p>Nu-ți cerem să fii designer — dar preferințele tale ne scurtează drumul. Ai culori de brand pe care vrei să le păstrezi? Sunt culori pe care le respingi din start? (Uneori clientul urăște o culoare dintr-un motiv personal — mai bine aflăm acum decât după trei variante.) Ce <strong>emoție</strong> vrei să transmită — încredere solidă, prospețime, lux, accesibilitate? Un logo comunică un sentiment înainte să comunice un nume.</p>
+
+<p>Foarte util e și exercițiul „ce logo-uri îți plac și de ce". Nu ca să le copiem — ci pentru că „de ce" scoate la iveală ce apreciezi de fapt: simplitatea, un simbol clar, o tipografie anume. Iar dacă ai deja un slogan și vrei să apară lângă logo, ne spui din start, pentru că se desenează împreună, nu lipite ulterior.</p>
+
+<h2>Partea practică</h2>
+
+<p>Un logo trăiește în multe locuri și fiecare are regulile lui. De aceea întrebăm <strong>unde va fi folosit</strong>: doar pe site și pe rețele, sau și tipărit — pe firmă luminoasă, pe ambalaj, pe o mașină, brodat pe un tricou? Un logo care merge pe ecran poate fi ilizibil brodat mic sau imprimat pe o pungă. Un logo bine făcut arată la fel de bine la 2 centimetri și la 2 metri, în color și în alb-negru.</p>
+
+<p>Tot aici intră ce livrabile îți trebuie pe lângă logo — cărți de vizită, antet, iconițe pentru social media, un mic manual de brand cu culorile și fonturile — și, sincer, care e bugetul. Bugetul nu e o întrebare indiscretă; e cea care ne ajută să-ți propunem soluția potrivită, nu una care te depășește sau una care nu-ți acoperă nevoile.</p>
+
+<h2>Vrei să pornim?</h2>
+
+<p>Dacă ai răspuns în cap la întrebările de mai sus, ești deja mai pregătit decât majoritatea clienților — și ai un logo mai bun garantat, oricine ți-l face. Dacă vrei să ți-l facem noi, îți trimitem brief-ul complet și pornim de la povestea afacerii tale, nu de la un șablon. <a href="/branding-identitate-vizuala/">Vezi cum lucrăm partea de branding</a> sau <a href="/contact/">scrie-ne</a>.</p>
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Ce trebuie să știi înainte să-ți comanzi un logo"}],["$","div",null,{"className":"blog-article__meta","children":[["$","time",null,{"dateTime":"2023-12-28","children":"28 decembrie 2023"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Y-OzVBxI4GsxSjkaoMEHJ"}
 4:["$","div",null,{"className":"blog-author","children":[["$","span",null,{"className":"blog-author__ava","aria-hidden":"true","children":"V"}],["$","div",null,{"className":"blog-author__body","children":[["$","span",null,{"className":"blog-author__name","children":"Vlad Roman"}],["$","span",null,{"className":"blog-author__role","children":["Fondator Visience · ",["$","a",null,{"href":"https://www.linkedin.com/in/roman-vladut-constantin/","target":"_blank","rel":"noopener","className":"blog-author__link","children":"LinkedIn ↗"}]]}],["$","p",null,{"className":"blog-author__bio","children":"Conduce Visience, agenția de web design și marketing digital din Iași. Scrie despre creare de site-uri, SEO și cum își cresc afacerile mici și mijlocii prezența online."}]]}]]}]
 5:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
 6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1ezt8qg_uqh-r.css","precedence":"next"}]

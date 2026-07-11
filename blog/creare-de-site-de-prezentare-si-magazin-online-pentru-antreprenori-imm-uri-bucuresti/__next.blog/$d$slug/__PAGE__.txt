@@ -2,162 +2,46 @@
 8:I[97367,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 9:"$Sreact.suspense"
 :HL["/_next/static/chunks/1ezt8qg_uqh-r.css","style"]
-2:T668,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/creare-de-site-de-prezentare-si-magazin-online-pentru-antreprenori-imm-uri-bucuresti/#article","headline":"Creare de site de prezentare si magazin online pentru antreprenori, IMM-uri Bucuresti","description":"Vous souhaitez créer un site vitrine pour développer la visibilité de votre entreprise à Paris? Si vous nous fournissez vos images, textes, logo, nous vous li","datePublished":"2024-02-26","dateModified":"2024-02-26","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/creare-de-site-de-prezentare-si-magazin-online-pentru-antreprenori-imm-uri-bucuresti/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Creare de site de prezentare si magazin online pentru antreprenori, IMM-uri Bucuresti","item":"https://visience.ro/blog/creare-de-site-de-prezentare-si-magazin-online-pentru-antreprenori-imm-uri-bucuresti/"}]}]}3:T304f,<p>Vrei să creezi un site de prezentare pentru a dezvolta vizibilitatea afacerii tale în București? Dacă ne furnizați imaginile, textele, logo-ul dvs., vă vom livra un site 100% gestionabil și la cheie în 2 săptămâni.</p>
-<p><strong>Prețul unui site de prezentare: 1000 €</strong></p>
-<p> <img alt="cropped-favicon-fav-visience-logo-branding-strategie-firma-design-agentie-iasi-bucuresti-bacau-brasov.png" loading="lazy" src="https://visience.ro/wp-content/uploads/elementor/thumbs/cropped-favicon-fav-visience-logo-branding-strategie-firma-design-agentie-iasi-bucuresti-bacau-brasov-q6zpa7hn3a760xunw0k80ga1jkbh7k1irzlu20pyw8.png"/> </p>
-<h2>Creare website</h2>
-<h2>SEO</h2>
-<h2>Brand</h2>
-<h2><a>Contact</a></h2>
-<p> <img alt="" loading="lazy" src="https://visience.ro/wp-content/uploads/2024/02/IMG_9394-La-Defense-2-1024x1024.webp"/> </p>
-<h2>Crearea website pentru 1000 €</h2>
-<h2>WEBSITE ÎN IMAGINEA FIRMEI TALE</h2>
+2:T63b,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/creare-de-site-de-prezentare-si-magazin-online-pentru-antreprenori-imm-uri-bucuresti/#article","headline":"Creare site de prezentare și magazin online pentru firme din București","description":"Site de prezentare sau magazin online pentru firme din București: ce livrăm, cum decurge, în cât timp. Prețuri publice, site 100% al tău.","datePublished":"2024-02-26","dateModified":"2024-02-26","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/creare-de-site-de-prezentare-si-magazin-online-pentru-antreprenori-imm-uri-bucuresti/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Creare site de prezentare și magazin online pentru firme din București","item":"https://visience.ro/blog/creare-de-site-de-prezentare-si-magazin-online-pentru-antreprenori-imm-uri-bucuresti/"}]}]}3:Tfb8,<p>Dacă ai o firmă mică sau mijlocie în București și încă nu ai un site — sau ai unul făcut acum zece ani, pe care nici tu nu-l mai deschizi — pierzi clienți fără să-ți dai seama. Astăzi, când cineva aude de tine, primul lucru pe care-l face e să te caute pe Google. Ce găsește acolo decide dacă te sună sau trece la următorul.</p>
+
+<p>Facem două lucruri pentru antreprenorii din București: <strong>site-uri de prezentare</strong>, pentru firmele care vând servicii și vor să inspire încredere, și <strong>magazine online</strong>, pentru cele care vând produse și vor să încaseze direct de pe site. De multe ori, aceeași firmă are nevoie de amândouă.</p>
+
+<h2>Site de prezentare: vitrina ta online</h2>
+
+<p>Un site de prezentare bun nu e o broșură digitală. E un instrument care transformă vizitatorul în client: îi spune clar ce faci, îi arată dovezi (lucrări, recenzii), și îi pune la îndemână un mod simplu de a te contacta. Pentru o firmă de servicii din București — instalații, avocatură, clinică, consultanță — asta face diferența între „am dat un ID pe net" și „am primit trei cereri săptămâna asta".</p>
+
+<p>Ce livrăm, pe scurt: design pe brandul tău (nu un șablon în care intră oricine), viteză bună pe mobil, structură gândită pentru Google, formular de contact care chiar ajunge la tine, conformitate GDPR și profil Google Business pus la punct, ca să apari și pe hartă. Site-ul e 100% al tău și îl poți administra singur — <a href="/creare-site-prezentare/">detalii despre cum lucrăm aici</a>.</p>
+
+<h2>Magazin online: vinzi și când dormi</h2>
+
+<p>Dacă ai produse, un magazin online îți deschide prăvălia non-stop, pentru tot orașul, nu doar pentru cine trece prin fața ta. Îl construim cu plata cu cardul, stocul legat de vânzări (ca să nu vinzi ce nu mai ai), pagini de produs care chiar conving și integrare cu curieri și facturare. Îl poți administra din telefon — adaugi produse, vezi comenzile, urmărești ce se vinde. <a href="/creare-magazin-online/">Vezi cum facem magazinele online</a>.</p>
+
+<h2>Cum decurge, pas cu pas</h2>
+
+<p>Procesul e simplu și fără surprize:</p>
+
 <ul>
-<li>
- 100% administrabil
- </li>
-<li>
- Fără închiriere, sunteți proprietarul site-ului
- </li>
-<li>
- Site livrat la cheie
- </li>
-<li>
- Full Responsive (Mobile - Tabletă - PC)
- </li>
-<li>
- Optimizat SEO
- </li>
-<li>
- Respectă GPDR
- </li>
-<li>
- Creare Google My Business
- </li>
+<li><strong>Discuție.</strong> Ne spui ce faci, cui vinzi și ce vrei să obții. De aici iese structura site-ului.</li>
+<li><strong>Design.</strong> Îți propunem un concept pe identitatea ta. Aplicăm feedback-ul tău până e cum trebuie.</li>
+<li><strong>Construcție și conținut.</strong> Facem paginile, integrăm textele, pozele, logo-ul. Dacă n-ai text sau poze bune, te ajutăm.</li>
+<li><strong>Lansare.</strong> Punem site-ul online, cu domeniu, găzduire, HTTPS, Google Analytics și Search Console instalate. Îți arătăm cum să-l folosești.</li>
 </ul>
-<p> <a><br/>
- PENTRU ORICE ÎNTREBĂRI +40771486499<br/>
-</a></p>
-<h2>Cerintele tale</h2>
-<h2>MANAGEMENT DE PROIECTE PERSONALIZAT</h2>
-<h3>
- Livrare în 2 săptămâni<br/>
-</h3>
-<h3>
- 2 ore de antrenament inclus<br/>
-</h3>
-<h3>
- Suport constant<br/>
-</h3>
-<p> <img alt="" loading="lazy" src="https://visience.ro/wp-content/uploads/2024/02/site-vitrine-valenciennes-lille-france-company-visience-1024x690.webp"/> </p>
-<h2>Creare site Web</h2>
-<p>Creați o experiență online demnă de ospitalitatea locației dvs. Atrageți, implicați și încântați clienții dvs. cu produse și servicii excepționale dedicate acestora.</p>
-<p> <a href="https://visience.ro/creare-site-web/" rel="noopener" target="_blank"><br/>
- Descoperă<br/>
-</a><br/>
-<img alt="" loading="lazy" src="https://visience.ro/wp-content/uploads/2024/02/Services-de-referencement-SEO-visience-1024x637.webp"/> </p>
-<h2>Servicii SEO</h2>
-<p>Online, site-ul web este echivalentul unei locații fizice. Optimizarea SEO vă ajută să atrageți clienți în locația dvs.</p>
-<p>În 2024, calitatea produselor sau serviciilor nu este suficientă pentru a fi descoperită de noi clienți.</p>
-<p> <img alt="" loading="lazy" src="https://visience.ro/wp-content/uploads/2022/11/produs-site-logo-ux-ui-brand-firma-iasi-bucuresti-moldova-top-firme-visience-roman-vladut-constantin.svg"/> </p>
-<h2>Brand</h2>
-<p>În absența interacțiunii față în față online, identitatea vizuală este motivul pentru care cineva își va aminti de tine.</p>
-<p>Armonia dintre elementele vizuale – logo-ul, imaginile, culorile, forma textului – creează o emoție care cimentează brandul tău în memoria clientului.</p>
-<p> <a href="https://visience.ro/brand/" rel="noopener" target="_blank"><br/>
- Descoperă<br/>
-</a><br/>
-<a href="https://edu-net.academy/" rel="noopener" target="_blank"><br/>
-<img alt="" loading="lazy" src="https://visience.ro/wp-content/uploads/2024/01/edu-net-academy-1024x476.webp"/> </a><br/>
-<a href="https://im-ds.ro/" rel="noopener" target="_blank"><br/>
-<img alt="" loading="lazy" src="https://visience.ro/wp-content/uploads/2024/01/im-ds-1024x477.webp"/> </a><br/>
-<a href="https://casavatra.ro/" rel="noopener" target="_blank"><br/>
-<img alt="" loading="lazy" src="https://visience.ro/wp-content/uploads/2024/01/casavatra-1024x472.webp"/> </a><br/>
-<a href="https://econatura.vincasoft.it/" rel="noopener" target="_blank"><br/>
-<img alt="" loading="lazy" src="https://visience.ro/wp-content/uploads/2024/01/ecologica-1-1024x514.webp"/> </a><br/>
-<a href="https://visience.ro/portofoliu/" rel="noopener" target="_blank"><br/>
- Vezi mai multe<br/>
-</a><br/>
-<img alt="" loading="lazy" src="https://visience.ro/wp-content/uploads/2024/02/photo-276x300.webp"/> </p>
-<h2>În câteva cuvinte</h2>
-<h2>DESIGNER DE SITE WEB ÎN București</h2>
-<p>Pasionat de Marketing de mai bine de 8 ani, m-am specializat în proiectarea de site-uri de prezentare. Construiesc Designuri și Branduri care răspund așteptărilor. Nu ezitați să mă contactați dacă aveți întrebări, vă voi răspunde cu plăcere.</p>
-<p> <a><br/>
- PENTRU ORICE ÎNTREBĂRI +40771486499<br/>
-</a></p>
-<h2>Ce include site-ul dvs</h2>
-<h2>PACHETUL COMPLET LA 1000€</h2>
-<h3>
- Instalare<br/>
-</h3>
-<p>
- - Achiziționarea numelui de domeniu <br/>
-- Achiziționarea de găzduire <br/>
-- Instalarea WordPress <br/>
-- Comutarea site-ului dvs. la https// </p>
-<h3>
- Crearea<br/>
-</h3>
-<p>
- - Inspirații și design<br/>
-- Scurtă lansare <br/>
-- Crearea meniului și paginilor <br/>
-- Integrarea conținutului dvs. (logo, fotografii, videoclipuri, texte, detalii de contact) </p>
-<h3>
- SEO local<br/>
-</h3>
-<p>
- - Crearea unei pagini Compania mea pe Google <br/>
-- Adăugarea fotografiilor și optimizarea imaginilor </p>
-<h3>
- Referințe naturale (SEO)<br/>
-</h3>
-<p>
- - Alegerea cuvintelor cheie <br/>
-- Optimizarea etichetelor <br/>
-- Optimizarea dimensiunii imaginii <br/>
-- Memorarea în cache a site-ului </p>
-<h3>
- Urmărirea statisticilor<br/>
-</h3>
-<p>
- - Instalarea Google Analytics și Search Console <br/>
-- Vă voi instrui timp de două ore pentru a vă pune site-ul în funcțiune </p>
-<h3>
- Instalarea pluginurilor de securitate<br/>
-</h3>
-<p>
- - Crearea unei parole puternice <br/>
-- Modificarea adresei URL de acces la tabloul de bord <br/>
-- Limitarea încercărilor de conectare <br/>
-- Configurarea unui firewall (Wordfence) </p>
-<h2>Cât costă un site web în București?</h2>
-<p>Prețul pentru crearea unui site în București este de <b>1000</b><strong>€</strong>. Este un design 100% gestionabil, receptiv și conceput pentru Google SEO. Este o modalitate excelentă de a te face cunoscut atunci când îți lansezi afacerea sau de a te evidenția față de concurența din zona ta geografică.</p>
-<p>Crearea unui site web se face în 5 pași:</p>
-<ol>
-<li>Discutăm despre dorințele dvs</li>
-<li>Achiziționarea numelui de domeniu și găzduirea</li>
-<li>Crearea designului paginilor &amp; integrarea fotografiilor, siglelor, textelor dvs.</li>
-<li>Aplicarea feedback-ului dvs.</li>
-<li>Puneți online noul dvs. site web</li>
-</ol>
-<p>Crearea unui site web în București nu are costuri ascunse. Este simplu, plătiți <strong>depozit de 30% (300 EUR)</strong> la lansarea proiectului și <strong>70% (700 EUR)</strong> la livrarea site-ului.</p>
-<p>Desigur, vă sprijinim în prima lună pentru orice solicitare de modificare a site-ului. Este inclus în preț.</p>
-<p>Dacă, în viitor, doriți să faceți modificări suplimentare noului dvs. site web, vă vom percepe <strong>50 EUR<!-- strong--> pe oră.</strong></p>
-<p>Nu ezitați să mă contactați la <a><strong>+40771486499</strong><!-- / span--></a> dacă aveți întrebări despre prețul site-ului dvs. din București, vă voi răspunde cu plăcere.</p>
-<p> <img alt="" loading="lazy" src="https://visience.ro/wp-content/uploads/2024/02/bucuresti-4402855_1280-768x512.webp"/> </p>
-<h2>Creare site București<br/></h2>
-<h2>SITE-UL DVS. DE PREZENTARE îN București &amp; ÎMPREJURIMI</h2>
-<p>Căutați o firmă de creare de site-uri web în București? Dacă da, ești în locul potrivit. În primul rând, luați în considerare tipul de afacere pe care o faceți. Ești în industria imobiliară? Sau este un magazin online? Dacă da, aveți nevoie de o companie de design site web care să înțeleagă nevoile clienților imobiliari și să vă atingă scopurile și obiectivele. Dacă sunteți într-o afacere care vinde produse și servicii, aveți nevoie de un site conceput pentru a oferi o experiență bună pentru utilizator. Veți dori ca site-ul dvs. să comunice imaginea afacerii dvs.</p>
-<p>Dacă aveți nevoie de un site web pentru un client business, căutați o companie de design de site web specializată în acest domeniu. O companie bună de design de site-uri web va îndeplini cerințele mărcii dvs. și vă va ajuta să vă atingeți obiectivele de afaceri. Pe lângă faptul că oferă o experiență bună pentru utilizator, un site web bine conceput va transmite imaginea și marca companiei tale. A avea un site web care oferă o experiență excelentă pentru utilizator este, de asemenea, o opțiune bună.</p>
-<p>Companiile de design de site-uri din București ar trebui să aibă o structură clară și să se concentreze pe rezultate. Ar trebui să aibă multă experiență în aceste domenii și să aibă un portofoliu puternic de arătat. Asigurați-vă că vă înțeleg obiectivele de afaceri și asigurați-vă că angajați o companie cu un istoric dovedit. Puteți găsi o listă nesfârșită de afaceri locale dacă știți unde să căutați. Principalul lucru este să alegi compania care corespunde cel mai bine nevoilor tale pe Google.</p>
-<p>O companie bună de creare de site-uri în București trebuie să aibă o structură consacrata și eficientă. Ar trebui să fie concentrat pe rezultate și ușor de navigat. Un site web bine conceput ar trebui să fie ușor de navigat și să aibă o structură bună. Trebuie să fie eficient pentru a vă crește vânzările. Pentru a alege firma potrivită de design site, alege o agenție cu câțiva ani de experiență în sector. Site-ul dvs. ar trebui să fie ușor de utilizat și să ofere o experiență bună pentru utilizator.</p>
-<p>O companie bună de creare de site-uri web din București trebuie să fie capabilă să dezvolte un site web funcțional și atractiv pentru utilizatori. Scopul unui site ar trebui să fie atragerea și păstrarea clienților și generarea de vânzări. O companie de design de site web din București ar trebui să se concentreze și pe obținerea de rezultate. Ar trebui să poată demonstra că vă înțeleg afacerea și nevoile. Scopul lor ar trebui să fie acela de a face site-ul dvs. un succes. Puteți găsi o companie bună care vă înțelege afacerea și vă poate ajuta să o realizați.</p>
-<p>Alegerea unei companii de design site web este esențială pentru succesul unei afaceri. O companie grozavă de design de site-uri web ar trebui să poată satisface nevoile unui client și să le ofere un site web de calitate. Ar trebui să poată ajuta afacerea dvs. să-și atingă obiectivele. O companie excelentă de design de site-uri web vă va putea oferi un site web simplu și eficient pentru afacerea dvs. Dacă afacerea ta este mică, angajarea unei companii de design site web în București va asigura succesul pe termen lung al site-urilor tale.</p>
-<p>Alegerea unei firme de design site web în București este esențială pentru afacerea ta. Căutați o companie care vă înțelege afacerea și se concentrează pe rezultate. Folosind o companie specializată în crearea de site-uri web în București, vă asigurați că site-ul dvs. vă îndeplinește obiectivele. Dacă doriți o echipă de design site web de calitate, trebuie să lucrați cu o echipă creativă și talentată. Deci alegeți cu înțelepciune - veți fi mulțumit de rezultate în cel mai scurt timp!</p>
-<p>Deși este important să angajezi o companie de design site web în București, ar trebui să iei în considerare și capacitățile și experiența acestora. Ei trebuie să fie capabili să vă satisfacă nevoile și să obțină rezultatele așteptate. Ar trebui să înțeleagă bine obiectivele dvs. de afaceri. Acest lucru va garanta succesul site-urilor dvs. Și dacă angajezi o firmă de creare de site-uri web în București, ea te va ajuta și să-ți atingi obiectivele. Un bun designer de site-uri web nu numai că va construi obiectivele site-urilor dvs., ci va îmbunătăți și imaginea mărcilor dvs.</p>
-<h3>Nu știi cum să începi</h3>
-<p>Nu-ți place să completezi formularele?<br/>Trimite mesaj direct pe <strong><a href="https://wa.me/0771486499" rel="noopener" target="_blank">Whatsapp</a></strong> sau <strong><a href="https://www.facebook.com/visience.ro" rel="noopener" target="_blank">Facebook</a></strong><br/>Sau… sună la: <a><strong>+40771486499</strong></a></p>
-<p>Este foarte util atunci când menționezi:<br/>Produsul tău.<br/>Istoricul tău.<br/>Bugetul tău.<br/>De unde ai auzit de visience.ro?</p>0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Creare de site de prezentare si magazin online pentru antreprenori, IMM-uri Bucuresti"}],["$","div",null,{"className":"blog-article__meta","children":[["$","time",null,{"dateTime":"2024-02-26","children":"26 februarie 2024"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"GULPtLRBvNjx-_VsvJr6X"}
+
+<p>Un site de prezentare simplu poate fi gata în circa două săptămâni; un magazin sau un proiect mai complex, ceva mai mult. Îți spunem termenul real de la început, nu unul de complezență.</p>
+
+<h2>Cât costă</h2>
+
+<p>Prețul depinde de ce ai nevoie — un site de prezentare de câteva pagini și un magazin cu sute de produse nu costă la fel, și n-are sens să te mințim cu o cifră „de la șold". Diferența față de mulți: <strong>noi avem prețurile publice</strong>, fără „cere ofertă" și surprize în factură. <a href="/preturi/">Le vezi pe toate aici</a>, alegi în cunoștință de cauză.</p>
+
+<h2>Cum începi</h2>
+
+<p>Dacă ai o firmă în București și vrei un site care aduce clienți, nu doar unul „ca să existe", scrie-ne. Cel mai repede răspundem pe WhatsApp. Ajută dacă ne spui din start ce faci, ce buget ai în minte și de unde ai auzit de noi.</p>
+
+<div class="case-cta">
+  <p><strong>Hai să-ți facem prezența online cum trebuie.</strong> Site de prezentare, magazin online sau amândouă — îți spunem sincer de ce ai nevoie și de ce nu.</p>
+  <a href="https://wa.me/40771486499" target="_blank" rel="noopener" class="btn btn-solid">Scrie-ne pe WhatsApp →</a>
+</div>
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Creare site de prezentare și magazin online pentru firme din București"}],["$","div",null,{"className":"blog-article__meta","children":[["$","time",null,{"dateTime":"2024-02-26","children":"26 februarie 2024"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Y-OzVBxI4GsxSjkaoMEHJ"}
 4:["$","div",null,{"className":"blog-author","children":[["$","span",null,{"className":"blog-author__ava","aria-hidden":"true","children":"V"}],["$","div",null,{"className":"blog-author__body","children":[["$","span",null,{"className":"blog-author__name","children":"Vlad Roman"}],["$","span",null,{"className":"blog-author__role","children":["Fondator Visience · ",["$","a",null,{"href":"https://www.linkedin.com/in/roman-vladut-constantin/","target":"_blank","rel":"noopener","className":"blog-author__link","children":"LinkedIn ↗"}]]}],["$","p",null,{"className":"blog-author__bio","children":"Conduce Visience, agenția de web design și marketing digital din Iași. Scrie despre creare de site-uri, SEO și cum își cresc afacerile mici și mijlocii prezența online."}]]}]]}]
 5:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
 6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1ezt8qg_uqh-r.css","precedence":"next"}]
