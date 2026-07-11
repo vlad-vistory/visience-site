@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
 6:I[97367,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-2:T1348,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/social-media-management/#service","name":"Social media management","serviceType":"Gestionarea rețelelor sociale (Facebook, Instagram, TikTok, LinkedIn)","description":"Strategie, conținut, postare și gestionarea completă a rețelelor sociale: calendar editorial pe 12 luni, design postări, community management și raportare lunară. De la 100€/lună.","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Pachete social media management","itemListElement":[{"@type":"Offer","name":"Full SMM","description":"30 de postări pe lună, management complet al conturilor, voce și ton de brand, comentarii strategice, engagement organic și consultanță 1:1 lunară.","price":"500","priceCurrency":"EUR","priceSpecification":{"@type":"UnitPriceSpecification","price":"500","priceCurrency":"EUR","unitText":"lună"}},{"@type":"Offer","name":"Postări Standard","description":"15 postări pe lună, 4+ story-uri, cercetare hashtag-uri, monitorizarea comentariilor și raport lunar de rezultate.","price":"250","priceCurrency":"EUR","priceSpecification":{"@type":"UnitPriceSpecification","price":"250","priceCurrency":"EUR","unitText":"lună"}},{"@type":"Offer","name":"Postări Basic","description":"6 postări organice pe lună, design profesional și texte personalizate pentru brandul tău.","price":"100","priceCurrency":"EUR","priceSpecification":{"@type":"UnitPriceSpecification","price":"100","priceCurrency":"EUR","unitText":"lună"}},{"@type":"Offer","name":"Strategie SMM","description":"Analiza publicului, cercetarea competiției, voce și ton de brand, calendar editorial pe 12 luni și 2 ședințe de lucru. Cost unic.","price":"500","priceCurrency":"EUR"},{"@type":"Offer","name":"Research influenceri","description":"Listă de influenceri potriviți, prețuri de colaborare, statistici de cont și nivel de engagement.","price":"250","priceCurrency":"EUR"}]}},{"@type":"FAQPage","@id":"https://visience.ro/social-media-management/#faq","mainEntity":[{"@type":"Question","name":"Pe ce rețele sociale lucrați?","acceptedAnswer":{"@type":"Answer","text":"Gestionăm conturile de Facebook, Instagram, TikTok și LinkedIn. Recomandăm rețelele potrivite în funcție de publicul tău și de tipul afacerii — nu are sens să fii peste tot, ci acolo unde sunt clienții tăi. Stabilim împreună mixul ideal la etapa de strategie."}},{"@type":"Question","name":"Ce include o postare?","acceptedAnswer":{"@type":"Answer","text":"Fiecare postare include textul scris special pentru brandul tău și designul grafic (sau prelucrarea materialului pe care îl ai), plus hashtag-urile relevante și programarea la ora optimă. Pe pachetele cu management complet, adăugăm și comentarii strategice și interacțiunea cu urmăritorii."}},{"@type":"Question","name":"Cât durează până se văd rezultate?","acceptedAnswer":{"@type":"Answer","text":"Social media este un canal care construiește în timp. Primele semne (creșterea interacțiunii și a numărului de urmăritori) apar de obicei în 1–2 luni, iar rezultatele solide în comunitate și notorietate se consolidează în 3–6 luni de prezență constantă. De aceea consecvența contează mai mult decât orice postare izolată."}},{"@type":"Question","name":"Există un contract minim?","acceptedAnswer":{"@type":"Answer","text":"Pachetele lunare funcționează cel mai bine cu un angajament de câteva luni, pentru că rezultatele apar din consecvență, nu dintr-o singură lună. Discutăm condițiile concrete la începutul colaborării și le adaptăm la obiectivele tale, fără clauze surpriză."}},{"@type":"Question","name":"Creați și conținutul foto/video?","acceptedAnswer":{"@type":"Answer","text":"Realizăm designul grafic și prelucrăm materialele pe care ni le pui la dispoziție. Pentru ședințe foto sau producție video dedicată, coordonăm cu partenerii noștri și îți facem o ofertă separată. Multe branduri pornesc cu materiale existente și fotografii de pe telefon, pe care le transformăm în postări profesionale."}},{"@type":"Question","name":"Cum raportați rezultatele?","acceptedAnswer":{"@type":"Answer","text":"Primești un raport lunar clar, cu indicatorii care contează: creșterea numărului de urmăritori, interacțiunea (engagement), reach-ul postărilor și ce tip de conținut a funcționat cel mai bine. Pe pachetul Full SMM adăugăm și o ședință de consultanță 1:1 în care discutăm rezultatele și pașii următori."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Social media management","item":"https://visience.ro/social-media-management/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"FlppGv13BSL-9D7_ZswTe"}
-5:T8c6a,<style>
+2:T1348,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/social-media-management/#service","name":"Social media management","serviceType":"Gestionarea rețelelor sociale (Facebook, Instagram, TikTok, LinkedIn)","description":"Strategie, conținut, postare și gestionarea completă a rețelelor sociale: calendar editorial pe 12 luni, design postări, community management și raportare lunară. De la 100€/lună.","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Pachete social media management","itemListElement":[{"@type":"Offer","name":"Full SMM","description":"30 de postări pe lună, management complet al conturilor, voce și ton de brand, comentarii strategice, engagement organic și consultanță 1:1 lunară.","price":"500","priceCurrency":"EUR","priceSpecification":{"@type":"UnitPriceSpecification","price":"500","priceCurrency":"EUR","unitText":"lună"}},{"@type":"Offer","name":"Postări Standard","description":"15 postări pe lună, 4+ story-uri, cercetare hashtag-uri, monitorizarea comentariilor și raport lunar de rezultate.","price":"250","priceCurrency":"EUR","priceSpecification":{"@type":"UnitPriceSpecification","price":"250","priceCurrency":"EUR","unitText":"lună"}},{"@type":"Offer","name":"Postări Basic","description":"6 postări organice pe lună, design profesional și texte personalizate pentru brandul tău.","price":"100","priceCurrency":"EUR","priceSpecification":{"@type":"UnitPriceSpecification","price":"100","priceCurrency":"EUR","unitText":"lună"}},{"@type":"Offer","name":"Strategie SMM","description":"Analiza publicului, cercetarea competiției, voce și ton de brand, calendar editorial pe 12 luni și 2 ședințe de lucru. Cost unic.","price":"500","priceCurrency":"EUR"},{"@type":"Offer","name":"Research influenceri","description":"Listă de influenceri potriviți, prețuri de colaborare, statistici de cont și nivel de engagement.","price":"250","priceCurrency":"EUR"}]}},{"@type":"FAQPage","@id":"https://visience.ro/social-media-management/#faq","mainEntity":[{"@type":"Question","name":"Pe ce rețele sociale lucrați?","acceptedAnswer":{"@type":"Answer","text":"Gestionăm conturile de Facebook, Instagram, TikTok și LinkedIn. Recomandăm rețelele potrivite în funcție de publicul tău și de tipul afacerii — nu are sens să fii peste tot, ci acolo unde sunt clienții tăi. Stabilim împreună mixul ideal la etapa de strategie."}},{"@type":"Question","name":"Ce include o postare?","acceptedAnswer":{"@type":"Answer","text":"Fiecare postare include textul scris special pentru brandul tău și designul grafic (sau prelucrarea materialului pe care îl ai), plus hashtag-urile relevante și programarea la ora optimă. Pe pachetele cu management complet, adăugăm și comentarii strategice și interacțiunea cu urmăritorii."}},{"@type":"Question","name":"Cât durează până se văd rezultate?","acceptedAnswer":{"@type":"Answer","text":"Social media este un canal care construiește în timp. Primele semne (creșterea interacțiunii și a numărului de urmăritori) apar de obicei în 1–2 luni, iar rezultatele solide în comunitate și notorietate se consolidează în 3–6 luni de prezență constantă. De aceea consecvența contează mai mult decât orice postare izolată."}},{"@type":"Question","name":"Există un contract minim?","acceptedAnswer":{"@type":"Answer","text":"Pachetele lunare funcționează cel mai bine cu un angajament de câteva luni, pentru că rezultatele apar din consecvență, nu dintr-o singură lună. Discutăm condițiile concrete la începutul colaborării și le adaptăm la obiectivele tale, fără clauze surpriză."}},{"@type":"Question","name":"Creați și conținutul foto/video?","acceptedAnswer":{"@type":"Answer","text":"Realizăm designul grafic și prelucrăm materialele pe care ni le pui la dispoziție. Pentru ședințe foto sau producție video dedicată, coordonăm cu partenerii noștri și îți facem o ofertă separată. Multe branduri pornesc cu materiale existente și fotografii de pe telefon, pe care le transformăm în postări profesionale."}},{"@type":"Question","name":"Cum raportați rezultatele?","acceptedAnswer":{"@type":"Answer","text":"Primești un raport lunar clar, cu indicatorii care contează: creșterea numărului de urmăritori, interacțiunea (engagement), reach-ul postărilor și ce tip de conținut a funcționat cel mai bine. Pe pachetul Full SMM adăugăm și o ședință de consultanță 1:1 în care discutăm rezultatele și pașii următori."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Social media management","item":"https://visience.ro/social-media-management/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"fh9PzwtzkV_0ZC1RRtXLF"}
+5:T8cba,<style>
 .sm-hero {
   position: relative;
   padding: calc(var(--nav-h) + 90px) 0 90px;
@@ -25,7 +25,7 @@
   margin-bottom: 24px;
 }
 .sm-hero__breadcrumbs a       { color: var(--mid); transition: color .2s; }
-.sm-hero__breadcrumbs a:hover { color: var(--acc); }
+.sm-hero__breadcrumbs a:hover { color: var(--acc-deep); }
 .sm-hero__breadcrumbs .sep    { margin: 0 10px; opacity: .4; }
 
 .sm-hero__h1 {
@@ -156,7 +156,7 @@
   color: var(--mid);
   font-size: 15px;
 }
-.sm-phone__actions .sm-heart { color: var(--acc); }
+.sm-phone__actions .sm-heart { color: var(--acc-deep); }
 .sm-phone__stats {
   display: flex;
   gap: 10px;
@@ -170,7 +170,7 @@
 .sm-phone__stat-num {
   font-family: var(--f-d);
   font-size: 16px; font-weight: 800;
-  color: var(--acc);
+  color: var(--acc-deep);
   letter-spacing: -.02em;
   line-height: 1;
   margin-bottom: 4px;
@@ -211,7 +211,7 @@
   margin-bottom: 16px;
 }
 .sm-intro p strong { color: var(--ink); font-weight: 600; }
-.sm-intro p a       { color: var(--acc); border-bottom: 1px solid var(--acc); transition: opacity .2s; }
+.sm-intro p a       { color: var(--acc-deep); border-bottom: 1px solid var(--acc); transition: opacity .2s; }
 .sm-intro p a:hover { opacity: .65; }
 
 
@@ -233,7 +233,7 @@
   color: var(--ink);
   margin-bottom: 16px;
 }
-.sm-incl__h2 .acc { color: var(--acc); }
+.sm-incl__h2 .acc { color: var(--acc-deep); }
 .sm-incl__sub {
   font-size: 16px; line-height: 1.8;
   color: var(--mid); font-weight: 300;
@@ -263,7 +263,7 @@
   align-items: center;
   justify-content: center;
   margin-bottom: 22px;
-  color: var(--acc);
+  color: var(--acc-deep);
   font-size: 20px;
   transition: .3s;
 }
@@ -307,7 +307,7 @@
   color: var(--ink);
   margin-bottom: 18px;
 }
-.sm-prices__h2 .acc { color: var(--acc); }
+.sm-prices__h2 .acc { color: var(--acc-deep); }
 .sm-prices__sub {
   font-size: 16px; line-height: 1.8;
   color: var(--mid); font-weight: 300;
@@ -369,7 +369,7 @@
   font-size: clamp(34px, 3.8vw, 48px);
   letter-spacing: -.04em;
   line-height: 1;
-  color: var(--acc);
+  color: var(--acc-deep);
   margin-bottom: 4px;
 }
 .sm-pkg__price .per {
@@ -416,7 +416,7 @@
 }
 .sm-pkg.featured .sm-pkg__feat { color: rgba(255,255,255,.85); }
 .sm-pkg__feat-tick {
-  color: var(--acc);
+  color: var(--acc-deep);
   flex-shrink: 0;
   margin-top: 2px;
   font-weight: 700;
@@ -438,7 +438,7 @@
   flex-shrink: 0;
   border-radius: 14px;
   background: var(--acc-bg);
-  color: var(--acc);
+  color: var(--acc-deep);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -464,7 +464,7 @@
   font-weight: 800;
   font-size: 24px;
   letter-spacing: -.03em;
-  color: var(--acc);
+  color: var(--acc-deep);
   flex-shrink: 0;
 }
 
@@ -487,7 +487,7 @@
   color: var(--ink);
   margin-bottom: 16px;
 }
-.sm-process__h2 .acc { color: var(--acc); }
+.sm-process__h2 .acc { color: var(--acc-deep); }
 .sm-process__sub {
   font-size: 16px; line-height: 1.8;
   color: var(--mid); font-weight: 300;
@@ -513,7 +513,7 @@
   font-family: var(--f-d);
   font-weight: 800;
   font-size: 36px;
-  color: var(--acc);
+  color: var(--acc-deep);
   letter-spacing: -.03em;
   line-height: 1;
   margin-bottom: 14px;
@@ -554,7 +554,7 @@
   color: var(--ink);
   margin-bottom: 16px;
 }
-.sm-faq__h2 .acc { color: var(--acc); }
+.sm-faq__h2 .acc { color: var(--acc-deep); }
 .sm-faq__list {
   max-width: 860px;
   margin: 0 auto;
@@ -585,13 +585,13 @@
   font-family: var(--f-d);
   font-size: 26px;
   font-weight: 300;
-  color: var(--acc);
+  color: var(--acc-deep);
   transition: transform .3s;
   flex-shrink: 0;
   line-height: 1;
 }
 .sm-faq-item[open] summary::after { transform: rotate(45deg); }
-.sm-faq-item:hover summary { color: var(--acc); }
+.sm-faq-item:hover summary { color: var(--acc-deep); }
 .sm-faq-item p {
   margin-top: 14px;
   font-size: 14px;

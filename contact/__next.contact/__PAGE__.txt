@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T4bdd,<style>
+2:T4c0a,<style>
 .ct-hero {
   position: relative;
   padding: calc(var(--nav-h) + 80px) 0 60px;
@@ -23,7 +23,7 @@
   margin-bottom: 22px;
 }
 .ct-hero__breadcrumbs a       { color: var(--mid); transition: color .2s; }
-.ct-hero__breadcrumbs a:hover { color: var(--acc); }
+.ct-hero__breadcrumbs a:hover { color: var(--acc-deep); }
 .ct-hero__breadcrumbs .sep    { margin: 0 10px; opacity: .4; }
 
 .ct-hero__h1 {
@@ -75,7 +75,7 @@
   color: var(--ink);
   margin-bottom: 14px;
 }
-.ct-info__h2 .acc { color: var(--acc); }
+.ct-info__h2 .acc { color: var(--acc-deep); }
 .ct-info__p {
   font-size: 16px;
   line-height: 1.78;
@@ -85,7 +85,7 @@
 }
 .ct-info__p strong { color: var(--ink); font-weight: 600; }
 .ct-map { margin-top: 30px; }
-.ct-map__lbl { font-family: var(--f-m); font-size: 10px; letter-spacing: .14em; text-transform: uppercase; color: var(--acc-dark); margin-bottom: 8px; }
+.ct-map__lbl { font-family: var(--f-m); font-size: 10px; letter-spacing: .14em; text-transform: uppercase; color: var(--acc-deep); margin-bottom: 8px; }
 .ct-map__addr { font-size: 14px; color: var(--mid); margin-bottom: 14px; line-height: 1.6; }
 .ct-map__addr strong { color: var(--ink); font-weight: 600; }
 .ct-map__embed { border: 1px solid var(--border); border-radius: 14px; overflow: hidden; line-height: 0; }
@@ -108,7 +108,7 @@
   transition: .25s;
 }
 .ct-channel:hover {
-  border-color: var(--acc);
+  border-color: var(--acc-deep);
   background: var(--acc-bg);
   transform: translateX(4px);
 }
@@ -126,7 +126,7 @@
 }
 .ct-channel:hover .ct-channel__icon {
   background: var(--acc);
-  border-color: var(--acc);
+  border-color: var(--acc-deep);
 }
 .ct-channel:hover .ct-channel__icon svg {
   stroke: var(--acc-ink);
@@ -159,7 +159,7 @@
   transition: .25s;
 }
 .ct-channel:hover .ct-channel__arrow {
-  color: var(--acc);
+  color: var(--acc-deep);
   transform: translate(3px, -3px);
 }
 
@@ -279,7 +279,7 @@
   color: var(--ink);
   margin-bottom: 14px;
 }
-.ct-bottom__h3 .acc { color: var(--acc); }
+.ct-bottom__h3 .acc { color: var(--acc-deep); }
 .ct-bottom__p {
   font-size: 15px;
   color: var(--mid);
@@ -334,7 +334,7 @@
   -webkit-appearance: none;
 }
 .ct-form-wrap .wpcf7-form-control-wrap input:focus {
-  border-color: var(--acc);
+  border-color: var(--acc-deep);
   background: var(--acc-bg);
 }
 .ct-form-wrap .wpcf7-form-control-wrap input::placeholder { color: transparent; }
@@ -352,7 +352,7 @@
 .ct-form-wrap .wpcf7-form-control-wrap input:not(:placeholder-shown) + .floating-label {
   top: 11px;
   font-size: 10px;
-  color: var(--acc);
+  color: var(--acc-deep);
   font-family: var(--f-m);
   letter-spacing: .09em;
   text-transform: uppercase;
@@ -557,7 +557,7 @@
             </span>
             <span class="wpcf7-form-control-wrap" data-name="tel-626">
               <input type="tel" name="tel-626" aria-label="Telefon" placeholder=" " value="">
-              <span class="floating-label">Telefon <span style="color:var(--acc)">*</span></span>
+              <span class="floating-label">Telefon <span style="color:var(--acc-deep)">*</span></span>
             </span>
             <span class="wpcf7-form-control-wrap" data-name="text-477">
               <input type="text" name="text-477" aria-label="Detalii proiect" placeholder=" " value="">
@@ -601,6 +601,6 @@
 </section>
 
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"ContactPage\",\"name\":\"Contact Visience\",\"url\":\"https://visience.ro/contact\",\"mainEntity\":{\"@type\":\"Organization\",\"name\":\"Visience Creative Experience\",\"telephone\":\"+40771486499\",\"email\":\"contact@visience.ro\",\"url\":\"https://visience.ro/\"}}"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"FlppGv13BSL-9D7_ZswTe"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"ContactPage\",\"name\":\"Contact Visience\",\"url\":\"https://visience.ro/contact\",\"mainEntity\":{\"@type\":\"Organization\",\"name\":\"Visience Creative Experience\",\"telephone\":\"+40771486499\",\"email\":\"contact@visience.ro\",\"url\":\"https://visience.ro/\"}}"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"fh9PzwtzkV_0ZC1RRtXLF"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

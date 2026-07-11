@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
 6:I[97367,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-2:T10b2,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/branding-identitate-vizuala/#service","name":"Branding și identitate vizuală","serviceType":"Branding și creare identitate vizuală","description":"Creare identitate vizuală completă: logo, paletă cromatică, tipografie, brand book și materiale online și tipărite. Livrare în toate formatele, cu variante mono/negativ, cu și fără tagline. De la 150€.","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Pachete branding Visience","itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"1000","itemOffered":{"@type":"Service","name":"Branding Standard — identitate vizuală completă"}},{"@type":"Offer","priceCurrency":"EUR","price":"2000","itemOffered":{"@type":"Service","name":"Branding Premium — identitate extinsă cu brand book"}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Logo Basic"}},{"@type":"Offer","priceCurrency":"EUR","price":"150","itemOffered":{"@type":"Service","name":"Logo Starter"}}]}},{"@type":"FAQPage","@id":"https://visience.ro/branding-identitate-vizuala/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un logo profesional?","acceptedAnswer":{"@type":"Answer","text":"Un logo profesional pornește de la 500€ (pachetul Logo Basic), care include un logo unic, o revizie, varianta monocromă și negativă, plus varianta cu și fără tagline, în toate formatele. Pentru un buget mai mic avem și pachetul Starter, la 150€, cu o singură propunere de logo livrată în format vectorial și PNG."}},{"@type":"Question","name":"Ce este un BrandBook și ce conține?","acceptedAnswer":{"@type":"Answer","text":"BrandBook-ul este documentul care stabilește regulile de folosire ale identității tale vizuale. Conține variantele corecte de logo, paleta cromatică (cu codurile exacte de culoare), tipografia, spațierile și exemple de folosire corectă și greșită. Astfel, oricine îți face mai târziu un site, un afiș sau o postare, va păstra brandul consecvent. Este inclus în pachetul Premium."}},{"@type":"Question","name":"În ce formate primesc logo-ul?","acceptedAnswer":{"@type":"Answer","text":"Primești logo-ul în toate formatele de care ai nevoie: vectorial (pentru tipar și redimensionare fără pierderi de calitate), PNG cu fundal transparent, JPG și PDF. Livrăm și variantele color, monocromă și negativ, ca să ai mereu fișierul potrivit pentru orice suport — de la cartea de vizită la firma luminoasă."}},{"@type":"Question","name":"Câte revizii includeți?","acceptedAnswer":{"@type":"Answer","text":"Numărul de revizii depinde de pachet: Logo Basic include 1 revizie, Branding Standard 3 revizii, iar Branding Premium 6 revizii. O revizie înseamnă un set de ajustări asupra propunerii alese, ca să o aducem exact în punctul în care ești mulțumit de rezultat."}},{"@type":"Question","name":"Cât durează un proiect de branding?","acceptedAnswer":{"@type":"Answer","text":"Un logo simplu este gata în câteva zile, iar o identitate vizuală completă durează în general 2-3 săptămâni, în funcție de pachet și de cât de repede primim feedback la propuneri. Pachetul Premium, cu animație de logo și materiale extinse, poate dura puțin mai mult. Termenul exact îl confirmăm după primul brief."}},{"@type":"Question","name":"Faceți și rebranding pentru o firmă existentă?","acceptedAnswer":{"@type":"Answer","text":"Da. Lucrăm frecvent cu firme existente care simt că imaginea lor nu mai reflectă valoarea reală a serviciilor. Analizăm identitatea actuală, păstrăm ce funcționează și reconstruim restul, astfel încât schimbarea să fie o evoluție, nu o ruptură care derutează clienții fideli. Putem actualiza apoi și site-ul și materialele, ca tranziția să fie completă."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Branding și identitate vizuală","item":"https://visience.ro/branding-identitate-vizuala/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"FlppGv13BSL-9D7_ZswTe"}
-5:T8668,<style>
+2:T10b2,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/branding-identitate-vizuala/#service","name":"Branding și identitate vizuală","serviceType":"Branding și creare identitate vizuală","description":"Creare identitate vizuală completă: logo, paletă cromatică, tipografie, brand book și materiale online și tipărite. Livrare în toate formatele, cu variante mono/negativ, cu și fără tagline. De la 150€.","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Pachete branding Visience","itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"1000","itemOffered":{"@type":"Service","name":"Branding Standard — identitate vizuală completă"}},{"@type":"Offer","priceCurrency":"EUR","price":"2000","itemOffered":{"@type":"Service","name":"Branding Premium — identitate extinsă cu brand book"}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Logo Basic"}},{"@type":"Offer","priceCurrency":"EUR","price":"150","itemOffered":{"@type":"Service","name":"Logo Starter"}}]}},{"@type":"FAQPage","@id":"https://visience.ro/branding-identitate-vizuala/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un logo profesional?","acceptedAnswer":{"@type":"Answer","text":"Un logo profesional pornește de la 500€ (pachetul Logo Basic), care include un logo unic, o revizie, varianta monocromă și negativă, plus varianta cu și fără tagline, în toate formatele. Pentru un buget mai mic avem și pachetul Starter, la 150€, cu o singură propunere de logo livrată în format vectorial și PNG."}},{"@type":"Question","name":"Ce este un BrandBook și ce conține?","acceptedAnswer":{"@type":"Answer","text":"BrandBook-ul este documentul care stabilește regulile de folosire ale identității tale vizuale. Conține variantele corecte de logo, paleta cromatică (cu codurile exacte de culoare), tipografia, spațierile și exemple de folosire corectă și greșită. Astfel, oricine îți face mai târziu un site, un afiș sau o postare, va păstra brandul consecvent. Este inclus în pachetul Premium."}},{"@type":"Question","name":"În ce formate primesc logo-ul?","acceptedAnswer":{"@type":"Answer","text":"Primești logo-ul în toate formatele de care ai nevoie: vectorial (pentru tipar și redimensionare fără pierderi de calitate), PNG cu fundal transparent, JPG și PDF. Livrăm și variantele color, monocromă și negativ, ca să ai mereu fișierul potrivit pentru orice suport — de la cartea de vizită la firma luminoasă."}},{"@type":"Question","name":"Câte revizii includeți?","acceptedAnswer":{"@type":"Answer","text":"Numărul de revizii depinde de pachet: Logo Basic include 1 revizie, Branding Standard 3 revizii, iar Branding Premium 6 revizii. O revizie înseamnă un set de ajustări asupra propunerii alese, ca să o aducem exact în punctul în care ești mulțumit de rezultat."}},{"@type":"Question","name":"Cât durează un proiect de branding?","acceptedAnswer":{"@type":"Answer","text":"Un logo simplu este gata în câteva zile, iar o identitate vizuală completă durează în general 2-3 săptămâni, în funcție de pachet și de cât de repede primim feedback la propuneri. Pachetul Premium, cu animație de logo și materiale extinse, poate dura puțin mai mult. Termenul exact îl confirmăm după primul brief."}},{"@type":"Question","name":"Faceți și rebranding pentru o firmă existentă?","acceptedAnswer":{"@type":"Answer","text":"Da. Lucrăm frecvent cu firme existente care simt că imaginea lor nu mai reflectă valoarea reală a serviciilor. Analizăm identitatea actuală, păstrăm ce funcționează și reconstruim restul, astfel încât schimbarea să fie o evoluție, nu o ruptură care derutează clienții fideli. Putem actualiza apoi și site-ul și materialele, ca tranziția să fie completă."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Branding și identitate vizuală","item":"https://visience.ro/branding-identitate-vizuala/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"fh9PzwtzkV_0ZC1RRtXLF"}
+5:T86a4,<style>
 .br-hero {
   position: relative;
   padding: calc(var(--nav-h) + 90px) 0 90px;
@@ -25,7 +25,7 @@
   margin-bottom: 24px;
 }
 .br-hero__breadcrumbs a       { color: var(--mid); transition: color .2s; }
-.br-hero__breadcrumbs a:hover { color: var(--acc); }
+.br-hero__breadcrumbs a:hover { color: var(--acc-deep); }
 .br-hero__breadcrumbs .sep    { margin: 0 10px; opacity: .4; }
 
 .br-hero__h1 {
@@ -205,7 +205,7 @@
   margin-bottom: 16px;
 }
 .br-intro p strong { color: var(--ink); font-weight: 600; }
-.br-intro p a       { color: var(--acc); border-bottom: 1px solid var(--acc); transition: opacity .2s; }
+.br-intro p a       { color: var(--acc-deep); border-bottom: 1px solid var(--acc); transition: opacity .2s; }
 .br-intro p a:hover { opacity: .65; }
 
 .br-incl {
@@ -226,7 +226,7 @@
   color: var(--ink);
   margin-bottom: 16px;
 }
-.br-incl__h2 .acc { color: var(--acc); }
+.br-incl__h2 .acc { color: var(--acc-deep); }
 .br-incl__sub {
   font-size: 16px; line-height: 1.8;
   color: var(--mid); font-weight: 300;
@@ -256,7 +256,7 @@
   align-items: center;
   justify-content: center;
   margin-bottom: 22px;
-  color: var(--acc);
+  color: var(--acc-deep);
   font-size: 20px;
   transition: .3s;
 }
@@ -299,7 +299,7 @@
   color: var(--ink);
   margin-bottom: 18px;
 }
-.br-prices__h2 .acc { color: var(--acc); }
+.br-prices__h2 .acc { color: var(--acc-deep); }
 .br-prices__sub {
   font-size: 16px; line-height: 1.8;
   color: var(--mid); font-weight: 300;
@@ -362,7 +362,7 @@
   font-size: clamp(32px, 3.4vw, 46px);
   letter-spacing: -.04em;
   line-height: 1;
-  color: var(--acc);
+  color: var(--acc-deep);
   margin-bottom: 4px;
 }
 .br-pkg__price-note {
@@ -401,7 +401,7 @@
 }
 .br-pkg.featured .br-pkg__feat { color: rgba(255,255,255,.85); }
 .br-pkg__feat-tick {
-  color: var(--acc);
+  color: var(--acc-deep);
   flex-shrink: 0;
   margin-top: 2px;
   font-weight: 700;
@@ -426,7 +426,7 @@
   color: var(--ink);
   margin-bottom: 16px;
 }
-.br-process__h2 .acc { color: var(--acc); }
+.br-process__h2 .acc { color: var(--acc-deep); }
 .br-process__list {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -448,7 +448,7 @@
   font-family: var(--f-d);
   font-weight: 800;
   font-size: 36px;
-  color: var(--acc);
+  color: var(--acc-deep);
   letter-spacing: -.03em;
   line-height: 1;
   margin-bottom: 16px;
@@ -487,7 +487,7 @@
   letter-spacing: -.03em;
   color: var(--ink);
 }
-.br-faq__h2 .acc { color: var(--acc); }
+.br-faq__h2 .acc { color: var(--acc-deep); }
 .br-faq__list {
   max-width: 860px;
   margin: 0 auto;
@@ -518,13 +518,13 @@
   font-family: var(--f-d);
   font-size: 26px;
   font-weight: 300;
-  color: var(--acc);
+  color: var(--acc-deep);
   transition: transform .3s;
   flex-shrink: 0;
   line-height: 1;
 }
 .br-faq-item[open] summary::after { transform: rotate(45deg); }
-.br-faq-item:hover summary { color: var(--acc); }
+.br-faq-item:hover summary { color: var(--acc-deep); }
 .br-faq-item p {
   margin-top: 14px;
   font-size: 14px;

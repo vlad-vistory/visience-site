@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 8:I[97367,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 9:"$Sreact.suspense"
-:HL["/_next/static/chunks/24vy8t8rmnk7-.css","style"]
-2:T1062,{"@context":"https://schema.org","@graph":[{"@type":"OfferCatalog","@id":"https://visience.ro/#servicii","name":"Servicii Visience","provider":{"@id":"https://visience.ro/#organization"},"itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"150","itemOffered":{"@type":"Service","name":"Creare website de prezentare","description":"Landing page-uri, site-uri de companie și portofolii cu CMS, design adaptiv și SEO tehnic."}},{"@type":"Offer","priceCurrency":"EUR","price":"700","itemOffered":{"@type":"Service","name":"Creare magazin online","url":"https://visience.ro/creare-magazin-online/","description":"Magazine online pe WooCommerce sau Shopify, optimizate pentru conversie, cu plăți și integrare Google & Meta Ads."}},{"@type":"Offer","priceCurrency":"EUR","price":"150","itemOffered":{"@type":"Service","name":"Branding și identitate vizuală","description":"Logo, brand book complet și identitate vizuală pentru online și offline."}},{"@type":"Offer","priceCurrency":"EUR","price":"100","itemOffered":{"@type":"Service","name":"Social Media Management","description":"Strategie, conținut, postare și gestionare completă a rețelelor sociale."}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"PPC — Google și Meta Ads","description":"Campanii de Lead Generation, remarketing și Shopping cu focus pe conversii."}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"SEO și Content Marketing","description":"SEO tehnic, strategie on-page și off-page, backlinking, newsletter și email marketing."}},{"@type":"Offer","priceCurrency":"EUR","price":"50","itemOffered":{"@type":"Service","name":"Software și App Development","description":"Aplicații mobile iOS și Android, Cloud Migration, AI & Data Solutions și automatizări RPA."}}]},{"@type":"FAQPage","@id":"https://visience.ro/#faq","mainEntity":[{"@type":"Question","name":"Cât costă crearea unui site web la Visience?","acceptedAnswer":{"@type":"Answer","text":"Un site de prezentare standard pornește de la 500€, un site avansat de la 1.000€, iar un site premium cu design custom de la 2.000€. Prețul final depinde de numărul de pagini, funcționalități și nivelul de personalizare."}},{"@type":"Question","name":"Cât costă un magazin online?","acceptedAnswer":{"@type":"Answer","text":"Un magazin online pe WooCommerce sau Shopify pornește de la 700€ (Basic), 1.500€ (Standard) și 3.000€ (Premium). Toate includ produse, plăți online, livrare automatizată și integrare cu Google și Meta Ads."}},{"@type":"Question","name":"Ce include un proiect de branding?","acceptedAnswer":{"@type":"Answer","text":"Logo, ton de comunicare și identitate vizuală pentru online și offline. Pachetul Standard, cu brand book complet, pornește de la 1.000€, iar Premium, cu BrandBook extins, de la 2.000€."}},{"@type":"Question","name":"Cât costă serviciile de SEO?","acceptedAnswer":{"@type":"Answer","text":"SEO tehnic punctual este la 40€/oră, iar strategia SEO lunară continuă pornește de la 500€/lună. Pentru magazine online, optimizarea SEO completă pornește de la 1.500€."}},{"@type":"Question","name":"În ce orașe lucrează Visience?","acceptedAnswer":{"@type":"Answer","text":"Visience are sediul în Iași și lucrează cu clienți din toată România, inclusiv București, Timișoara, Cluj-Napoca, Suceava și Bacău. Proiectele se desfășoară integral online."}},{"@type":"Question","name":"Pe ce platforme construiește Visience site-uri?","acceptedAnswer":{"@type":"Answer","text":"Construim pe WordPress (Oxygen, Elementor), Shopify, WooCommerce și Webflow, precum și soluții custom. Alegem platforma în funcție de nevoile proiectului."}},{"@type":"Question","name":"Cât durează realizarea unui site web?","acceptedAnswer":{"@type":"Answer","text":"Un landing page în câteva zile, un site de prezentare standard în 2–4 săptămâni, iar un proiect premium sau un magazin online complex în 4–8 săptămâni."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4"],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"FlppGv13BSL-9D7_ZswTe"}
-7:T234f5,
+:HL["/_next/static/chunks/0nwx8kpgg_sju.css","style"]
+2:T1062,{"@context":"https://schema.org","@graph":[{"@type":"OfferCatalog","@id":"https://visience.ro/#servicii","name":"Servicii Visience","provider":{"@id":"https://visience.ro/#organization"},"itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"150","itemOffered":{"@type":"Service","name":"Creare website de prezentare","description":"Landing page-uri, site-uri de companie și portofolii cu CMS, design adaptiv și SEO tehnic."}},{"@type":"Offer","priceCurrency":"EUR","price":"700","itemOffered":{"@type":"Service","name":"Creare magazin online","url":"https://visience.ro/creare-magazin-online/","description":"Magazine online pe WooCommerce sau Shopify, optimizate pentru conversie, cu plăți și integrare Google & Meta Ads."}},{"@type":"Offer","priceCurrency":"EUR","price":"150","itemOffered":{"@type":"Service","name":"Branding și identitate vizuală","description":"Logo, brand book complet și identitate vizuală pentru online și offline."}},{"@type":"Offer","priceCurrency":"EUR","price":"100","itemOffered":{"@type":"Service","name":"Social Media Management","description":"Strategie, conținut, postare și gestionare completă a rețelelor sociale."}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"PPC — Google și Meta Ads","description":"Campanii de Lead Generation, remarketing și Shopping cu focus pe conversii."}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"SEO și Content Marketing","description":"SEO tehnic, strategie on-page și off-page, backlinking, newsletter și email marketing."}},{"@type":"Offer","priceCurrency":"EUR","price":"50","itemOffered":{"@type":"Service","name":"Software și App Development","description":"Aplicații mobile iOS și Android, Cloud Migration, AI & Data Solutions și automatizări RPA."}}]},{"@type":"FAQPage","@id":"https://visience.ro/#faq","mainEntity":[{"@type":"Question","name":"Cât costă crearea unui site web la Visience?","acceptedAnswer":{"@type":"Answer","text":"Un site de prezentare standard pornește de la 500€, un site avansat de la 1.000€, iar un site premium cu design custom de la 2.000€. Prețul final depinde de numărul de pagini, funcționalități și nivelul de personalizare."}},{"@type":"Question","name":"Cât costă un magazin online?","acceptedAnswer":{"@type":"Answer","text":"Un magazin online pe WooCommerce sau Shopify pornește de la 700€ (Basic), 1.500€ (Standard) și 3.000€ (Premium). Toate includ produse, plăți online, livrare automatizată și integrare cu Google și Meta Ads."}},{"@type":"Question","name":"Ce include un proiect de branding?","acceptedAnswer":{"@type":"Answer","text":"Logo, ton de comunicare și identitate vizuală pentru online și offline. Pachetul Standard, cu brand book complet, pornește de la 1.000€, iar Premium, cu BrandBook extins, de la 2.000€."}},{"@type":"Question","name":"Cât costă serviciile de SEO?","acceptedAnswer":{"@type":"Answer","text":"SEO tehnic punctual este la 40€/oră, iar strategia SEO lunară continuă pornește de la 500€/lună. Pentru magazine online, optimizarea SEO completă pornește de la 1.500€."}},{"@type":"Question","name":"În ce orașe lucrează Visience?","acceptedAnswer":{"@type":"Answer","text":"Visience are sediul în Iași și lucrează cu clienți din toată România, inclusiv București, Timișoara, Cluj-Napoca, Suceava și Bacău. Proiectele se desfășoară integral online."}},{"@type":"Question","name":"Pe ce platforme construiește Visience site-uri?","acceptedAnswer":{"@type":"Answer","text":"Construim pe WordPress (Oxygen, Elementor), Shopify, WooCommerce și Webflow, precum și soluții custom. Alegem platforma în funcție de nevoile proiectului."}},{"@type":"Question","name":"Cât durează realizarea unui site web?","acceptedAnswer":{"@type":"Answer","text":"Un landing page în câteva zile, un site de prezentare standard în 2–4 săptămâni, iar un proiect premium sau un magazin online complex în 4–8 săptămâni."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4"],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"fh9PzwtzkV_0ZC1RRtXLF"}
+7:T23589,
 
 <div class="vis-home">
 
@@ -344,7 +344,7 @@
     <p class="body-lg services__sub">
       Fiecare serviciu e configurat pe obiectivele tale. Nu vindem pachete fixe.
       <strong>Și nu avem prețuri ascunse:</strong> vezi exact cât plătești în
-      <a href="/preturi/" style="color:var(--acc);border-bottom:1px solid var(--acc)">pagina de prețuri</a>.
+      <a href="/preturi/" style="color:var(--acc-deep);border-bottom:1px solid var(--acc)">pagina de prețuri</a>.
     </p>
     <div class="svc-nav" role="group" aria-label="Navigare slider servicii">
       <button class="svc-nb" id="svcPrev" aria-label="Anterior" disabled>
@@ -1534,7 +1534,7 @@
                      size="40" maxlength="400"
                      class="wpcf7-form-control wpcf7-tel wpcf7-text wpcf7-validates-as-tel"
                      aria-required="true" aria-invalid="false" value="">
-              <span class="floating-label">Telefon <span style="color:var(--acc)">*</span></span>
+              <span class="floating-label">Telefon <span style="color:var(--acc-deep)">*</span></span>
             </span>
             <span class="wpcf7-form-control-wrap" data-name="text-477">
               <input type="text" name="text-477" aria-label="Detalii proiect" placeholder=" "
@@ -1807,7 +1807,7 @@
   .hero--cine-m .hero__playm {
     background: var(--acc);
     color: var(--acc-ink);
-    border-color: var(--acc);
+    border-color: var(--acc-deep);
   }
   .hero--cine-m .hero__playm-ic--play { display: none; }
   .hero--cine-m .hero__playm-ic--close { display: block; }
@@ -1970,7 +1970,7 @@
 .mstep__n {
   font-family: var(--f-m);
   font-size: 10px;
-  color: var(--acc);
+  color: var(--acc-deep);
   letter-spacing: .08em;
   padding-top: 4px;
   font-weight: 500;
@@ -2048,7 +2048,7 @@
   font-size: clamp(34px, 4vw, 54px);
   letter-spacing: -.04em;
   line-height: 1;
-  color: var(--acc);
+  color: var(--acc-deep);
   margin-bottom: 8px;
 }
 .stt-lbl {
@@ -2113,7 +2113,7 @@
 .svc-nb:hover:not(:disabled) {
   background: var(--acc);
   color: var(--acc-ink);
-  border-color: var(--acc);
+  border-color: var(--acc-deep);
 }
 .svc-nb:disabled { opacity: .25; cursor: not-allowed; }
 
@@ -2232,7 +2232,7 @@
   font-family: var(--f-d);
   font-size: 12px;
   font-weight: 700;
-  color: var(--acc);
+  color: var(--acc-deep);
   letter-spacing: -.01em;
 }
 
@@ -2246,7 +2246,7 @@
   font-weight: 500;
   letter-spacing: .1em;
   text-transform: uppercase;
-  color: var(--acc);
+  color: var(--acc-deep);
   transition: gap .2s;
 }
 .svc-card:hover .svc-card__cta { gap: 13px; }
@@ -2367,7 +2367,7 @@
 }
 .sd-page__card:nth-child(3) {
   background: var(--acc);
-  border-color: var(--acc);
+  border-color: var(--acc-deep);
 }
 .sd-page__card:nth-child(3)::after {
   background: var(--acc-ink);
@@ -2542,7 +2542,7 @@
   letter-spacing: -.04em;
   line-height: 1;
 }
-.sd-mood-typo span { color: var(--acc); }
+.sd-mood-typo span { color: var(--acc-deep); }
 .sd-mood-palette {
   background: var(--white);
   border: 1.5px solid var(--border);
@@ -2574,7 +2574,7 @@
   font-weight: 800;
   letter-spacing: -.03em;
 }
-.sd-mood-logo i { color: var(--acc); margin-right: 4px; }
+.sd-mood-logo i { color: var(--acc-deep); margin-right: 4px; }
 .sd-mood-card {
   background: var(--acc);
   color: var(--acc-ink);
@@ -2657,7 +2657,7 @@
   top: 50%; left: 50%;
   transform: translate(-50%, -50%);
   font-size: 28px;
-  color: var(--acc);
+  color: var(--acc-deep);
   opacity: .55;
 }
 .sd-feed__actions {
@@ -2704,7 +2704,7 @@
   font-family: var(--f-d);
   font-size: 12px;
   font-weight: 700;
-  color: var(--acc);
+  color: var(--acc-deep);
 }
 .sd-chart__trend i { font-size: 10px; }
 .sd-chart__bars {
@@ -2783,7 +2783,7 @@
 }
 .sd-search__row.top {
   background: var(--acc);
-  border-color: var(--acc);
+  border-color: var(--acc-deep);
   box-shadow: 0 6px 18px rgba(155,195,26,.25);
 }
 .sd-search__rank {
@@ -2791,7 +2791,7 @@
   top: -8px; left: -8px;
   width: 22px; height: 22px;
   background: var(--acc-ink);
-  color: var(--acc);
+  color: var(--acc-deep);
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -2972,7 +2972,7 @@
   font-size: clamp(50px, 6.5vw, 80px);
   letter-spacing: -.05em;
   line-height: 1;
-  color: var(--acc);
+  color: var(--acc-deep);
   margin-bottom: 4px;
 }
 .case-sub {
@@ -3051,7 +3051,7 @@
 }
 .port-nav { display: flex; gap: 10px; }
 .pnb { width: 44px; height: 44px; border-radius: 50%; border: 1.5px solid var(--border); display: flex; align-items: center; justify-content: center; color: var(--ink); transition: .22s; }
-.pnb:hover:not(:disabled) { background: var(--acc); color: var(--acc-ink); border-color: var(--acc); }
+.pnb:hover:not(:disabled) { background: var(--acc); color: var(--acc-ink); border-color: var(--acc-deep); }
 .pnb:disabled { opacity: .22; cursor: not-allowed; }
 
 .port-wrap { overflow: hidden; cursor: grab; user-select: none; -webkit-user-select: none; }
@@ -3260,13 +3260,13 @@
 .pj-card__url {
   font-family: var(--f-m);
   font-size: 12px;
-  color: var(--acc);
+  color: var(--acc-deep);
   font-weight: 500;
   letter-spacing: .02em;
   text-decoration: none;
   transition: color .2s;
 }
-.pj-card__url:hover { color: var(--acc-dark); }
+.pj-card__url:hover { color: var(--acc-deep); }
 .pj-card__collab {
   font-family: var(--f-m);
   font-size: 10px;
@@ -3357,7 +3357,7 @@
 .why-n {
   font-family: var(--f-m);
   font-size: 10px;
-  color: var(--acc);
+  color: var(--acc-deep);
   letter-spacing: .08em;
   padding-top: 4px;
   font-weight: 500;
@@ -3420,9 +3420,9 @@
   background: var(--cream);
 }
 .t-pill:hover {
-  border-color: var(--acc);
+  border-color: var(--acc-deep);
   background: var(--acc-bg);
-  color: var(--acc);
+  color: var(--acc-deep);
 }
 .t-dot {
   width: 6px; height: 6px;
@@ -3499,14 +3499,14 @@
   font-weight: 300;
   font-size: 28px;
   line-height: 1;
-  color: var(--acc);
+  color: var(--acc-deep);
   flex-shrink: 0;
   transition: transform .3s ease;
 }
 .faq-item[open] .faq-q::after {
   transform: rotate(45deg);
 }
-.faq-q:hover { color: var(--acc); }
+.faq-q:hover { color: var(--acc-deep); }
 .faq-a {
   padding: 0 4px 26px;
   font-size: 15px;
@@ -3516,7 +3516,7 @@
   max-width: 680px;
 }
 .faq-a strong {
-  color: var(--acc-dark);
+  color: var(--acc-deep);
   font-weight: 600;
 }
 
@@ -3680,7 +3680,7 @@
   -webkit-appearance: none;
 }
 .wpcf7-form-control-wrap input:focus {
-  border-color: var(--acc);
+  border-color: var(--acc-deep);
   background: var(--acc-bg);
 }
 .wpcf7-form-control-wrap input::placeholder { color: transparent; }
@@ -3699,7 +3699,7 @@
 .wpcf7-form-control-wrap input:not(:placeholder-shown) + .floating-label {
   top: 11px;
   font-size: 10px;
-  color: var(--acc);
+  color: var(--acc-deep);
   font-family: var(--f-m);
   letter-spacing: .09em;
   text-transform: uppercase;
@@ -3737,7 +3737,7 @@
 .wpcf7-mail-sent-ok {
   background: rgba(155,195,26,.1);
   border: 1px solid rgba(155,195,26,.3);
-  color: var(--acc-dark);
+  color: var(--acc-deep);
 }
 .wpcf7-validation-errors {
   background: rgba(220,50,50,.06);
@@ -3880,7 +3880,7 @@
 }
 .tc-shop__logo {
   font-family: var(--f-d); font-weight: 800;
-  font-size: 14px; color: #96bf48;
+  font-size: 14px; color: var(--acc-deep);
   display: flex; align-items: center; gap: 5px;
 }
 .tc-shop__cart {
@@ -3925,7 +3925,7 @@
 .tc-ads__metric:last-child { border-right: none; }
 .tc-ads__metric-val {
   display: block; font-family: var(--f-d); font-weight: 800;
-  font-size: 14px; letter-spacing: -.02em; color: var(--acc);
+  font-size: 14px; letter-spacing: -.02em; color: var(--acc-deep);
 }
 .tc-ads__metric-lbl {
   display: block; font-family: var(--f-m);
@@ -4016,7 +4016,7 @@
 }
 .spec-card__ico {
   width: 52px; height: 52px; border-radius: 14px;
-  background: var(--acc-bg); color: var(--acc);
+  background: var(--acc-bg); color: var(--acc-deep);
   display: flex; align-items: center; justify-content: center;
   font-size: 22px; margin-bottom: 22px;
 }
@@ -4034,7 +4034,7 @@
 .spec-card__cta {
   display: inline-flex; align-items: center; gap: 9px; margin-top: auto;
   font-family: var(--f-m); font-size: 11px; font-weight: 500;
-  letter-spacing: .1em; text-transform: uppercase; color: var(--acc);
+  letter-spacing: .1em; text-transform: uppercase; color: var(--acc-deep);
 }
 .spec-card--feat .spec-card__cta { color: var(--acc2); }
 .spec-card__arr {
@@ -4051,7 +4051,7 @@
 }
 </style>
 3:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$7"}}]
-4:["$","section",null,{"className":"home-blog","children":["$","div",null,{"className":"wrap","children":[["$","div",null,{"className":"home-blog__head","children":[["$","h2",null,{"className":"dd dd-lg","children":["Articole & ",["$","span",null,{"style":{"color":"var(--acc)"},"children":"resurse"}]]}],["$","a",null,{"href":"/blog/","className":"home-blog__all","children":"Vezi toate articolele →"}]]}],["$","div",null,{"className":"blog-grid","children":[["$","a","ghid-marketing-imobiliar-pentru-dezvoltatori",{"href":"/blog/ghid-marketing-imobiliar-pentru-dezvoltatori/","className":"blog-card","children":[["$","time",null,{"className":"blog-card__date","dateTime":"2026-07-10","children":"10 iulie 2026"}],["$","h3",null,{"className":"blog-card__title","children":"Marketing imobiliar pentru dezvoltatori: de la lansare la sold-out"}],["$","p",null,{"className":"blog-card__desc","children":"Ghid de marketing imobiliar pentru dezvoltatori: pre-lansare, website, bugete, campanii Google și Meta, portaluri, AI și recenzii. Cu cifre din proiecte reale."}],["$","span",null,{"className":"blog-card__more","children":"Citește articolul →"}]]}],["$","a","mobila-la-comanda-bucuresti-artesanomob",{"href":"/blog/mobila-la-comanda-bucuresti-artesanomob/","className":"blog-card","children":[["$","time",null,{"className":"blog-card__date","dateTime":"2025-09-04","children":"4 septembrie 2025"}],["$","h3",null,{"className":"blog-card__title","children":"Artesano Mob — mobilă la comandă în București"}],["$","p",null,{"className":"blog-card__desc","children":"Artesano Mob face mobilă la comandă în București și Ilfov: bucătării, dressing, dormitoare. Vezi brandul, site-ul și campaniile construite de Visience și lucrările lor."}],["$","span",null,{"className":"blog-card__more","children":"Citește articolul →"}]]}],["$","a","creste-vizibilitatea-si-conversiile-pentru-brandul-tau-cu-extensii-de-anunturi-eficiente-in-campaniile-google-ads",{"href":"/blog/creste-vizibilitatea-si-conversiile-pentru-brandul-tau-cu-extensii-de-anunturi-eficiente-in-campaniile-google-ads/","className":"blog-card","children":[["$","time",null,{"className":"blog-card__date","dateTime":"2024-11-01","children":"1 noiembrie 2024"}],["$","h3",null,{"className":"blog-card__title","children":"Crește vizibilitatea și conversiile pentru brandul tău cu extensii de anunțuri eficiente în campaniile Google Ads"}],["$","p",null,{"className":"blog-card__desc","children":"Obține un trafic mai ridicat și conversii mai bune pentru brandul tău prin campanii Google Ads optimizate, care îți oferă un avantaj competitiv prin utilizare"}],["$","span",null,{"className":"blog-card__more","children":"Citește articolul →"}]]}]]}]]}]}]
-5:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/24vy8t8rmnk7-.css","precedence":"next"}]
+4:["$","section",null,{"className":"home-blog","children":["$","div",null,{"className":"wrap","children":[["$","div",null,{"className":"home-blog__head","children":[["$","h2",null,{"className":"dd dd-lg","children":["Articole & ",["$","span",null,{"style":{"color":"var(--acc-deep)"},"children":"resurse"}]]}],["$","a",null,{"href":"/blog/","className":"home-blog__all","children":"Vezi toate articolele →"}]]}],["$","div",null,{"className":"blog-grid","children":[["$","a","ghid-marketing-imobiliar-pentru-dezvoltatori",{"href":"/blog/ghid-marketing-imobiliar-pentru-dezvoltatori/","className":"blog-card","children":[["$","time",null,{"className":"blog-card__date","dateTime":"2026-07-10","children":"10 iulie 2026"}],["$","h3",null,{"className":"blog-card__title","children":"Marketing imobiliar pentru dezvoltatori: de la lansare la sold-out"}],["$","p",null,{"className":"blog-card__desc","children":"Ghid de marketing imobiliar pentru dezvoltatori: pre-lansare, website, bugete, campanii Google și Meta, portaluri, AI și recenzii. Cu cifre din proiecte reale."}],["$","span",null,{"className":"blog-card__more","children":"Citește articolul →"}]]}],["$","a","mobila-la-comanda-bucuresti-artesanomob",{"href":"/blog/mobila-la-comanda-bucuresti-artesanomob/","className":"blog-card","children":[["$","time",null,{"className":"blog-card__date","dateTime":"2025-09-04","children":"4 septembrie 2025"}],["$","h3",null,{"className":"blog-card__title","children":"Artesano Mob — mobilă la comandă în București"}],["$","p",null,{"className":"blog-card__desc","children":"Artesano Mob face mobilă la comandă în București și Ilfov: bucătării, dressing, dormitoare. Vezi brandul, site-ul și campaniile construite de Visience și lucrările lor."}],["$","span",null,{"className":"blog-card__more","children":"Citește articolul →"}]]}],["$","a","creste-vizibilitatea-si-conversiile-pentru-brandul-tau-cu-extensii-de-anunturi-eficiente-in-campaniile-google-ads",{"href":"/blog/creste-vizibilitatea-si-conversiile-pentru-brandul-tau-cu-extensii-de-anunturi-eficiente-in-campaniile-google-ads/","className":"blog-card","children":[["$","time",null,{"className":"blog-card__date","dateTime":"2024-11-01","children":"1 noiembrie 2024"}],["$","h3",null,{"className":"blog-card__title","children":"Crește vizibilitatea și conversiile pentru brandul tău cu extensii de anunțuri eficiente în campaniile Google Ads"}],["$","p",null,{"className":"blog-card__desc","children":"Obține un trafic mai ridicat și conversii mai bune pentru brandul tău prin campanii Google Ads optimizate, care îți oferă un avantaj competitiv prin utilizare"}],["$","span",null,{"className":"blog-card__more","children":"Citește articolul →"}]]}]]}]]}]}]
+5:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0nwx8kpgg_sju.css","precedence":"next"}]
 6:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
 a:null

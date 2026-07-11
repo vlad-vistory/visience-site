@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
 c:I[68027,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"default",1]
-:HL["/_next/static/chunks/2_-5a90h7sgxz.css","style"]
+:HL["/_next/static/chunks/0x6-zf7t-yjyf.css","style"]
 :HL["/_next/static/media/0da9c7f357bd9d4d-s.p.1975l3y3401x_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/2094fb60fd9c8287-s.p.3qxy1tqak831c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/47fe1b7cd6e6ed85-s.p.3bh2vc0w-r-ll.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -13,7 +13,7 @@ c:I[68027,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8
 :HL["/_next/static/media/a218039a3287bcfd-s.p.43zbiuwnnoiok.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/c875c6f5d3e977ac-s.p.1h18_wedhzk4h.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/e2334d715941921e-s.p.3o_v2fun1jzxk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/chunks/24vy8t8rmnk7-.css","style"]
+:HL["/_next/static/chunks/0nwx8kpgg_sju.css","style"]
 :HL["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css","style"]
 2:["$","link",null,{"rel":"stylesheet","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}]
 3:T5c7,(function(){
@@ -28,7 +28,7 @@ c:I[68027,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["",""],"q":"","i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0iuavcsxmjav_.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{},null,false,null]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"FlppGv13BSL-9D7_ZswTe"}
+})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["",""],"q":"","i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0iuavcsxmjav_.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{},null,false,null]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"fh9PzwtzkV_0ZC1RRtXLF"}
 f:I[39756,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 10:I[37457,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 12:I[27961,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
@@ -215,9 +215,9 @@ e:Tc5d,<header class="nav" id="nav" role="banner">
 9:["$","$L13",null,{}]
 14:T1062,{"@context":"https://schema.org","@graph":[{"@type":"OfferCatalog","@id":"https://visience.ro/#servicii","name":"Servicii Visience","provider":{"@id":"https://visience.ro/#organization"},"itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"150","itemOffered":{"@type":"Service","name":"Creare website de prezentare","description":"Landing page-uri, site-uri de companie și portofolii cu CMS, design adaptiv și SEO tehnic."}},{"@type":"Offer","priceCurrency":"EUR","price":"700","itemOffered":{"@type":"Service","name":"Creare magazin online","url":"https://visience.ro/creare-magazin-online/","description":"Magazine online pe WooCommerce sau Shopify, optimizate pentru conversie, cu plăți și integrare Google & Meta Ads."}},{"@type":"Offer","priceCurrency":"EUR","price":"150","itemOffered":{"@type":"Service","name":"Branding și identitate vizuală","description":"Logo, brand book complet și identitate vizuală pentru online și offline."}},{"@type":"Offer","priceCurrency":"EUR","price":"100","itemOffered":{"@type":"Service","name":"Social Media Management","description":"Strategie, conținut, postare și gestionare completă a rețelelor sociale."}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"PPC — Google și Meta Ads","description":"Campanii de Lead Generation, remarketing și Shopping cu focus pe conversii."}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"SEO și Content Marketing","description":"SEO tehnic, strategie on-page și off-page, backlinking, newsletter și email marketing."}},{"@type":"Offer","priceCurrency":"EUR","price":"50","itemOffered":{"@type":"Service","name":"Software și App Development","description":"Aplicații mobile iOS și Android, Cloud Migration, AI & Data Solutions și automatizări RPA."}}]},{"@type":"FAQPage","@id":"https://visience.ro/#faq","mainEntity":[{"@type":"Question","name":"Cât costă crearea unui site web la Visience?","acceptedAnswer":{"@type":"Answer","text":"Un site de prezentare standard pornește de la 500€, un site avansat de la 1.000€, iar un site premium cu design custom de la 2.000€. Prețul final depinde de numărul de pagini, funcționalități și nivelul de personalizare."}},{"@type":"Question","name":"Cât costă un magazin online?","acceptedAnswer":{"@type":"Answer","text":"Un magazin online pe WooCommerce sau Shopify pornește de la 700€ (Basic), 1.500€ (Standard) și 3.000€ (Premium). Toate includ produse, plăți online, livrare automatizată și integrare cu Google și Meta Ads."}},{"@type":"Question","name":"Ce include un proiect de branding?","acceptedAnswer":{"@type":"Answer","text":"Logo, ton de comunicare și identitate vizuală pentru online și offline. Pachetul Standard, cu brand book complet, pornește de la 1.000€, iar Premium, cu BrandBook extins, de la 2.000€."}},{"@type":"Question","name":"Cât costă serviciile de SEO?","acceptedAnswer":{"@type":"Answer","text":"SEO tehnic punctual este la 40€/oră, iar strategia SEO lunară continuă pornește de la 500€/lună. Pentru magazine online, optimizarea SEO completă pornește de la 1.500€."}},{"@type":"Question","name":"În ce orașe lucrează Visience?","acceptedAnswer":{"@type":"Answer","text":"Visience are sediul în Iași și lucrează cu clienți din toată România, inclusiv București, Timișoara, Cluj-Napoca, Suceava și Bacău. Proiectele se desfășoară integral online."}},{"@type":"Question","name":"Pe ce platforme construiește Visience site-uri?","acceptedAnswer":{"@type":"Answer","text":"Construim pe WordPress (Oxygen, Elementor), Shopify, WooCommerce și Webflow, precum și soluții custom. Alegem platforma în funcție de nevoile proiectului."}},{"@type":"Question","name":"Cât durează realizarea unui site web?","acceptedAnswer":{"@type":"Answer","text":"Un landing page în câteva zile, un site de prezentare standard în 2–4 săptămâni, iar un proiect premium sau un magazin online complex în 4–8 săptămâni."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"}]}]}a:["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$14"}}],"$L15","$L16"],["$L17"],"$L18"]}]
 b:["$","$1","h",{"children":[null,["$","$L19",null,{"children":"$L1a"}],["$","div",null,{"hidden":true,"children":["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.Metadata","children":"$L1d"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
-d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 1f:I[97367,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
-1e:T234f5,
+1e:T23589,
 
 <div class="vis-home">
 
@@ -558,7 +558,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz
     <p class="body-lg services__sub">
       Fiecare serviciu e configurat pe obiectivele tale. Nu vindem pachete fixe.
       <strong>Și nu avem prețuri ascunse:</strong> vezi exact cât plătești în
-      <a href="/preturi/" style="color:var(--acc);border-bottom:1px solid var(--acc)">pagina de prețuri</a>.
+      <a href="/preturi/" style="color:var(--acc-deep);border-bottom:1px solid var(--acc)">pagina de prețuri</a>.
     </p>
     <div class="svc-nav" role="group" aria-label="Navigare slider servicii">
       <button class="svc-nb" id="svcPrev" aria-label="Anterior" disabled>
@@ -1748,7 +1748,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz
                      size="40" maxlength="400"
                      class="wpcf7-form-control wpcf7-tel wpcf7-text wpcf7-validates-as-tel"
                      aria-required="true" aria-invalid="false" value="">
-              <span class="floating-label">Telefon <span style="color:var(--acc)">*</span></span>
+              <span class="floating-label">Telefon <span style="color:var(--acc-deep)">*</span></span>
             </span>
             <span class="wpcf7-form-control-wrap" data-name="text-477">
               <input type="text" name="text-477" aria-label="Detalii proiect" placeholder=" "
@@ -2021,7 +2021,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz
   .hero--cine-m .hero__playm {
     background: var(--acc);
     color: var(--acc-ink);
-    border-color: var(--acc);
+    border-color: var(--acc-deep);
   }
   .hero--cine-m .hero__playm-ic--play { display: none; }
   .hero--cine-m .hero__playm-ic--close { display: block; }
@@ -2184,7 +2184,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz
 .mstep__n {
   font-family: var(--f-m);
   font-size: 10px;
-  color: var(--acc);
+  color: var(--acc-deep);
   letter-spacing: .08em;
   padding-top: 4px;
   font-weight: 500;
@@ -2262,7 +2262,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz
   font-size: clamp(34px, 4vw, 54px);
   letter-spacing: -.04em;
   line-height: 1;
-  color: var(--acc);
+  color: var(--acc-deep);
   margin-bottom: 8px;
 }
 .stt-lbl {
@@ -2327,7 +2327,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz
 .svc-nb:hover:not(:disabled) {
   background: var(--acc);
   color: var(--acc-ink);
-  border-color: var(--acc);
+  border-color: var(--acc-deep);
 }
 .svc-nb:disabled { opacity: .25; cursor: not-allowed; }
 
@@ -2446,7 +2446,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz
   font-family: var(--f-d);
   font-size: 12px;
   font-weight: 700;
-  color: var(--acc);
+  color: var(--acc-deep);
   letter-spacing: -.01em;
 }
 
@@ -2460,7 +2460,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz
   font-weight: 500;
   letter-spacing: .1em;
   text-transform: uppercase;
-  color: var(--acc);
+  color: var(--acc-deep);
   transition: gap .2s;
 }
 .svc-card:hover .svc-card__cta { gap: 13px; }
@@ -2581,7 +2581,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz
 }
 .sd-page__card:nth-child(3) {
   background: var(--acc);
-  border-color: var(--acc);
+  border-color: var(--acc-deep);
 }
 .sd-page__card:nth-child(3)::after {
   background: var(--acc-ink);
@@ -2756,7 +2756,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz
   letter-spacing: -.04em;
   line-height: 1;
 }
-.sd-mood-typo span { color: var(--acc); }
+.sd-mood-typo span { color: var(--acc-deep); }
 .sd-mood-palette {
   background: var(--white);
   border: 1.5px solid var(--border);
@@ -2788,7 +2788,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz
   font-weight: 800;
   letter-spacing: -.03em;
 }
-.sd-mood-logo i { color: var(--acc); margin-right: 4px; }
+.sd-mood-logo i { color: var(--acc-deep); margin-right: 4px; }
 .sd-mood-card {
   background: var(--acc);
   color: var(--acc-ink);
@@ -2871,7 +2871,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz
   top: 50%; left: 50%;
   transform: translate(-50%, -50%);
   font-size: 28px;
-  color: var(--acc);
+  color: var(--acc-deep);
   opacity: .55;
 }
 .sd-feed__actions {
@@ -2918,7 +2918,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz
   font-family: var(--f-d);
   font-size: 12px;
   font-weight: 700;
-  color: var(--acc);
+  color: var(--acc-deep);
 }
 .sd-chart__trend i { font-size: 10px; }
 .sd-chart__bars {
@@ -2997,7 +2997,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz
 }
 .sd-search__row.top {
   background: var(--acc);
-  border-color: var(--acc);
+  border-color: var(--acc-deep);
   box-shadow: 0 6px 18px rgba(155,195,26,.25);
 }
 .sd-search__rank {
@@ -3005,7 +3005,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz
   top: -8px; left: -8px;
   width: 22px; height: 22px;
   background: var(--acc-ink);
-  color: var(--acc);
+  color: var(--acc-deep);
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -3186,7 +3186,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz
   font-size: clamp(50px, 6.5vw, 80px);
   letter-spacing: -.05em;
   line-height: 1;
-  color: var(--acc);
+  color: var(--acc-deep);
   margin-bottom: 4px;
 }
 .case-sub {
@@ -3265,7 +3265,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz
 }
 .port-nav { display: flex; gap: 10px; }
 .pnb { width: 44px; height: 44px; border-radius: 50%; border: 1.5px solid var(--border); display: flex; align-items: center; justify-content: center; color: var(--ink); transition: .22s; }
-.pnb:hover:not(:disabled) { background: var(--acc); color: var(--acc-ink); border-color: var(--acc); }
+.pnb:hover:not(:disabled) { background: var(--acc); color: var(--acc-ink); border-color: var(--acc-deep); }
 .pnb:disabled { opacity: .22; cursor: not-allowed; }
 
 .port-wrap { overflow: hidden; cursor: grab; user-select: none; -webkit-user-select: none; }
@@ -3474,13 +3474,13 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz
 .pj-card__url {
   font-family: var(--f-m);
   font-size: 12px;
-  color: var(--acc);
+  color: var(--acc-deep);
   font-weight: 500;
   letter-spacing: .02em;
   text-decoration: none;
   transition: color .2s;
 }
-.pj-card__url:hover { color: var(--acc-dark); }
+.pj-card__url:hover { color: var(--acc-deep); }
 .pj-card__collab {
   font-family: var(--f-m);
   font-size: 10px;
@@ -3571,7 +3571,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz
 .why-n {
   font-family: var(--f-m);
   font-size: 10px;
-  color: var(--acc);
+  color: var(--acc-deep);
   letter-spacing: .08em;
   padding-top: 4px;
   font-weight: 500;
@@ -3634,9 +3634,9 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz
   background: var(--cream);
 }
 .t-pill:hover {
-  border-color: var(--acc);
+  border-color: var(--acc-deep);
   background: var(--acc-bg);
-  color: var(--acc);
+  color: var(--acc-deep);
 }
 .t-dot {
   width: 6px; height: 6px;
@@ -3713,14 +3713,14 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz
   font-weight: 300;
   font-size: 28px;
   line-height: 1;
-  color: var(--acc);
+  color: var(--acc-deep);
   flex-shrink: 0;
   transition: transform .3s ease;
 }
 .faq-item[open] .faq-q::after {
   transform: rotate(45deg);
 }
-.faq-q:hover { color: var(--acc); }
+.faq-q:hover { color: var(--acc-deep); }
 .faq-a {
   padding: 0 4px 26px;
   font-size: 15px;
@@ -3730,7 +3730,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz
   max-width: 680px;
 }
 .faq-a strong {
-  color: var(--acc-dark);
+  color: var(--acc-deep);
   font-weight: 600;
 }
 
@@ -3894,7 +3894,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz
   -webkit-appearance: none;
 }
 .wpcf7-form-control-wrap input:focus {
-  border-color: var(--acc);
+  border-color: var(--acc-deep);
   background: var(--acc-bg);
 }
 .wpcf7-form-control-wrap input::placeholder { color: transparent; }
@@ -3913,7 +3913,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz
 .wpcf7-form-control-wrap input:not(:placeholder-shown) + .floating-label {
   top: 11px;
   font-size: 10px;
-  color: var(--acc);
+  color: var(--acc-deep);
   font-family: var(--f-m);
   letter-spacing: .09em;
   text-transform: uppercase;
@@ -3951,7 +3951,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz
 .wpcf7-mail-sent-ok {
   background: rgba(155,195,26,.1);
   border: 1px solid rgba(155,195,26,.3);
-  color: var(--acc-dark);
+  color: var(--acc-deep);
 }
 .wpcf7-validation-errors {
   background: rgba(220,50,50,.06);
@@ -4094,7 +4094,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz
 }
 .tc-shop__logo {
   font-family: var(--f-d); font-weight: 800;
-  font-size: 14px; color: #96bf48;
+  font-size: 14px; color: var(--acc-deep);
   display: flex; align-items: center; gap: 5px;
 }
 .tc-shop__cart {
@@ -4139,7 +4139,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz
 .tc-ads__metric:last-child { border-right: none; }
 .tc-ads__metric-val {
   display: block; font-family: var(--f-d); font-weight: 800;
-  font-size: 14px; letter-spacing: -.02em; color: var(--acc);
+  font-size: 14px; letter-spacing: -.02em; color: var(--acc-deep);
 }
 .tc-ads__metric-lbl {
   display: block; font-family: var(--f-m);
@@ -4230,7 +4230,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz
 }
 .spec-card__ico {
   width: 52px; height: 52px; border-radius: 14px;
-  background: var(--acc-bg); color: var(--acc);
+  background: var(--acc-bg); color: var(--acc-deep);
   display: flex; align-items: center; justify-content: center;
   font-size: 22px; margin-bottom: 22px;
 }
@@ -4248,7 +4248,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz
 .spec-card__cta {
   display: inline-flex; align-items: center; gap: 9px; margin-top: auto;
   font-family: var(--f-m); font-size: 11px; font-weight: 500;
-  letter-spacing: .1em; text-transform: uppercase; color: var(--acc);
+  letter-spacing: .1em; text-transform: uppercase; color: var(--acc-deep);
 }
 .spec-card--feat .spec-card__cta { color: var(--acc2); }
 .spec-card__arr {
@@ -4265,8 +4265,8 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz
 }
 </style>
 15:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$1e"}}]
-16:["$","section",null,{"className":"home-blog","children":["$","div",null,{"className":"wrap","children":[["$","div",null,{"className":"home-blog__head","children":[["$","h2",null,{"className":"dd dd-lg","children":["Articole & ",["$","span",null,{"style":{"color":"var(--acc)"},"children":"resurse"}]]}],["$","a",null,{"href":"/blog/","className":"home-blog__all","children":"Vezi toate articolele →"}]]}],["$","div",null,{"className":"blog-grid","children":[["$","a","ghid-marketing-imobiliar-pentru-dezvoltatori",{"href":"/blog/ghid-marketing-imobiliar-pentru-dezvoltatori/","className":"blog-card","children":[["$","time",null,{"className":"blog-card__date","dateTime":"2026-07-10","children":"10 iulie 2026"}],["$","h3",null,{"className":"blog-card__title","children":"Marketing imobiliar pentru dezvoltatori: de la lansare la sold-out"}],["$","p",null,{"className":"blog-card__desc","children":"Ghid de marketing imobiliar pentru dezvoltatori: pre-lansare, website, bugete, campanii Google și Meta, portaluri, AI și recenzii. Cu cifre din proiecte reale."}],["$","span",null,{"className":"blog-card__more","children":"Citește articolul →"}]]}],["$","a","mobila-la-comanda-bucuresti-artesanomob",{"href":"/blog/mobila-la-comanda-bucuresti-artesanomob/","className":"blog-card","children":[["$","time",null,{"className":"blog-card__date","dateTime":"2025-09-04","children":"4 septembrie 2025"}],["$","h3",null,{"className":"blog-card__title","children":"Artesano Mob — mobilă la comandă în București"}],["$","p",null,{"className":"blog-card__desc","children":"Artesano Mob face mobilă la comandă în București și Ilfov: bucătării, dressing, dormitoare. Vezi brandul, site-ul și campaniile construite de Visience și lucrările lor."}],["$","span",null,{"className":"blog-card__more","children":"Citește articolul →"}]]}],["$","a","creste-vizibilitatea-si-conversiile-pentru-brandul-tau-cu-extensii-de-anunturi-eficiente-in-campaniile-google-ads",{"href":"/blog/creste-vizibilitatea-si-conversiile-pentru-brandul-tau-cu-extensii-de-anunturi-eficiente-in-campaniile-google-ads/","className":"blog-card","children":[["$","time",null,{"className":"blog-card__date","dateTime":"2024-11-01","children":"1 noiembrie 2024"}],["$","h3",null,{"className":"blog-card__title","children":"Crește vizibilitatea și conversiile pentru brandul tău cu extensii de anunțuri eficiente în campaniile Google Ads"}],["$","p",null,{"className":"blog-card__desc","children":"Obține un trafic mai ridicat și conversii mai bune pentru brandul tău prin campanii Google Ads optimizate, care îți oferă un avantaj competitiv prin utilizare"}],["$","span",null,{"className":"blog-card__more","children":"Citește articolul →"}]]}]]}]]}]}]
-17:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/24vy8t8rmnk7-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+16:["$","section",null,{"className":"home-blog","children":["$","div",null,{"className":"wrap","children":[["$","div",null,{"className":"home-blog__head","children":[["$","h2",null,{"className":"dd dd-lg","children":["Articole & ",["$","span",null,{"style":{"color":"var(--acc-deep)"},"children":"resurse"}]]}],["$","a",null,{"href":"/blog/","className":"home-blog__all","children":"Vezi toate articolele →"}]]}],["$","div",null,{"className":"blog-grid","children":[["$","a","ghid-marketing-imobiliar-pentru-dezvoltatori",{"href":"/blog/ghid-marketing-imobiliar-pentru-dezvoltatori/","className":"blog-card","children":[["$","time",null,{"className":"blog-card__date","dateTime":"2026-07-10","children":"10 iulie 2026"}],["$","h3",null,{"className":"blog-card__title","children":"Marketing imobiliar pentru dezvoltatori: de la lansare la sold-out"}],["$","p",null,{"className":"blog-card__desc","children":"Ghid de marketing imobiliar pentru dezvoltatori: pre-lansare, website, bugete, campanii Google și Meta, portaluri, AI și recenzii. Cu cifre din proiecte reale."}],["$","span",null,{"className":"blog-card__more","children":"Citește articolul →"}]]}],["$","a","mobila-la-comanda-bucuresti-artesanomob",{"href":"/blog/mobila-la-comanda-bucuresti-artesanomob/","className":"blog-card","children":[["$","time",null,{"className":"blog-card__date","dateTime":"2025-09-04","children":"4 septembrie 2025"}],["$","h3",null,{"className":"blog-card__title","children":"Artesano Mob — mobilă la comandă în București"}],["$","p",null,{"className":"blog-card__desc","children":"Artesano Mob face mobilă la comandă în București și Ilfov: bucătării, dressing, dormitoare. Vezi brandul, site-ul și campaniile construite de Visience și lucrările lor."}],["$","span",null,{"className":"blog-card__more","children":"Citește articolul →"}]]}],["$","a","creste-vizibilitatea-si-conversiile-pentru-brandul-tau-cu-extensii-de-anunturi-eficiente-in-campaniile-google-ads",{"href":"/blog/creste-vizibilitatea-si-conversiile-pentru-brandul-tau-cu-extensii-de-anunturi-eficiente-in-campaniile-google-ads/","className":"blog-card","children":[["$","time",null,{"className":"blog-card__date","dateTime":"2024-11-01","children":"1 noiembrie 2024"}],["$","h3",null,{"className":"blog-card__title","children":"Crește vizibilitatea și conversiile pentru brandul tău cu extensii de anunțuri eficiente în campaniile Google Ads"}],["$","p",null,{"className":"blog-card__desc","children":"Obține un trafic mai ridicat și conversii mai bune pentru brandul tău prin campanii Google Ads optimizate, care îți oferă un avantaj competitiv prin utilizare"}],["$","span",null,{"className":"blog-card__more","children":"Citește articolul →"}]]}]]}]]}]}]
+17:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0nwx8kpgg_sju.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 18:["$","$L1f",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
 1a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#FFFFFF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#111114","media":"(prefers-color-scheme: dark)"}]]
 21:I[27201,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"IconMark"]

@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
 6:I[97367,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-2:T12de,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/optimizare-seo/#service","name":"Optimizare SEO și content marketing","serviceType":"SEO, content marketing și link building","description":"Optimizare SEO tehnic on-page, strategie SEO continuă on-page și off-page, backlinking de calitate, plus newsletter și email marketing, pentru vizibilitate organică pe termen lung în Google.","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Pachete optimizare SEO","itemListElement":[{"@type":"Offer","name":"Strategie SEO completă","description":"Colaborare lunară (minim 6 luni): analiză cuvinte cheie, optimizare on-page, link building strategic, conținut SEO și raport lunar.","price":"500","priceCurrency":"EUR","priceSpecification":{"@type":"UnitPriceSpecification","price":"500","priceCurrency":"EUR","unitText":"lună"}},{"@type":"Offer","name":"SEO Magazin Online","description":"SEO produse și categorii, schema Product, faceted search, canonical și paginare, optimizare viteză.","price":"1500","priceCurrency":"EUR"},{"@type":"Offer","name":"SEO Tehnic","description":"Audit tehnic, sitemap și robots, schema markup, optimizare viteză, corectare broken links.","price":"40","priceCurrency":"EUR","priceSpecification":{"@type":"UnitPriceSpecification","price":"40","priceCurrency":"EUR","unitText":"oră"}}]}},{"@type":"FAQPage","@id":"https://visience.ro/optimizare-seo/#faq","mainEntity":[{"@type":"Question","name":"Cât durează până apar rezultatele SEO?","acceptedAnswer":{"@type":"Answer","text":"SEO-ul este o investiție pe termen lung, nu un rezultat instant. În general, primele îmbunătățiri de poziții apar în 2-3 luni, iar rezultatele consistente în trafic organic se văd, de obicei, după 4-6 luni de lucru constant. De aceea recomandăm o strategie pe minim 6 luni — este intervalul în care optimizările tehnice, conținutul și autoritatea construită încep să compună rezultate stabile."}},{"@type":"Question","name":"Garantați poziția 1 în Google?","acceptedAnswer":{"@type":"Answer","text":"Nu, și ar trebui să te ferești de oricine îți promite asta. Pozițiile în Google sunt decise de algoritmul Google, în funcție de sute de factori și de concurența din nișa ta — niciun specialist serios nu le poate garanta. Ce garantăm însă este munca corectă: audit tehnic, optimizare on-page, conținut de calitate, link building curat și un raport lunar prin care vezi exact ce am lucrat și cum evoluează pozițiile. Folosim doar tehnici conforme cu ghidurile Google, fără scurtături care riscă penalizări."}},{"@type":"Question","name":"Ce include strategia SEO lunară?","acceptedAnswer":{"@type":"Answer","text":"Pachetul de 500€/lună (minim 6 luni) include analiză de cuvinte cheie, optimizare on-page continuă, link building strategic, conținut SEO lunar și un raport lunar de performanță. Practic, ne ocupăm de tot ce ține de creșterea organică a site-ului tău, lună de lună, și ajustăm direcția în funcție de rezultate."}},{"@type":"Question","name":"Faceți SEO local (Google Business)?","acceptedAnswer":{"@type":"Answer","text":"Da. Pentru afacerile cu prezență fizică sau care vizează clienți dintr-o anumită zonă, SEO local este esențial. Optimizăm profilul Google Business, asigurăm consistența datelor de contact (NAP), lucrăm cuvinte cheie locale și structurăm site-ul pentru căutările de tip „serviciu + oraș”, ca să apari în rezultatele și pe harta din zona ta."}},{"@type":"Question","name":"Oferiți audit SEO înainte de start?","acceptedAnswer":{"@type":"Answer","text":"Da. Orice colaborare pornește de la o analiză a site-ului tău, ca să înțelegem unde te afli și ce are cel mai mare impact. Auditul tehnic face parte din serviciu, iar pentru intervenții punctuale poți alege și pachetul SEO Tehnic la 40€/oră, fără o colaborare lunară."}},{"@type":"Question","name":"Lucrați și SEO pentru magazine online?","acceptedAnswer":{"@type":"Answer","text":"Da. SEO-ul pentru magazine online are particularitățile lui și îl tratăm ca proiect dedicat, de la 1.500€: optimizare de produse și categorii, schema Product, faceted search corect, gestionarea canonical și a paginării, plus optimizarea vitezei. Toate site-urile pe care le construim sunt deja optimizate SEO din construcție, iar pentru poziționare avansată adăugăm strategia continuă."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Optimizare SEO","item":"https://visience.ro/optimizare-seo/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"FlppGv13BSL-9D7_ZswTe"}
-5:T8d59,<style>
+2:T12de,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/optimizare-seo/#service","name":"Optimizare SEO și content marketing","serviceType":"SEO, content marketing și link building","description":"Optimizare SEO tehnic on-page, strategie SEO continuă on-page și off-page, backlinking de calitate, plus newsletter și email marketing, pentru vizibilitate organică pe termen lung în Google.","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Pachete optimizare SEO","itemListElement":[{"@type":"Offer","name":"Strategie SEO completă","description":"Colaborare lunară (minim 6 luni): analiză cuvinte cheie, optimizare on-page, link building strategic, conținut SEO și raport lunar.","price":"500","priceCurrency":"EUR","priceSpecification":{"@type":"UnitPriceSpecification","price":"500","priceCurrency":"EUR","unitText":"lună"}},{"@type":"Offer","name":"SEO Magazin Online","description":"SEO produse și categorii, schema Product, faceted search, canonical și paginare, optimizare viteză.","price":"1500","priceCurrency":"EUR"},{"@type":"Offer","name":"SEO Tehnic","description":"Audit tehnic, sitemap și robots, schema markup, optimizare viteză, corectare broken links.","price":"40","priceCurrency":"EUR","priceSpecification":{"@type":"UnitPriceSpecification","price":"40","priceCurrency":"EUR","unitText":"oră"}}]}},{"@type":"FAQPage","@id":"https://visience.ro/optimizare-seo/#faq","mainEntity":[{"@type":"Question","name":"Cât durează până apar rezultatele SEO?","acceptedAnswer":{"@type":"Answer","text":"SEO-ul este o investiție pe termen lung, nu un rezultat instant. În general, primele îmbunătățiri de poziții apar în 2-3 luni, iar rezultatele consistente în trafic organic se văd, de obicei, după 4-6 luni de lucru constant. De aceea recomandăm o strategie pe minim 6 luni — este intervalul în care optimizările tehnice, conținutul și autoritatea construită încep să compună rezultate stabile."}},{"@type":"Question","name":"Garantați poziția 1 în Google?","acceptedAnswer":{"@type":"Answer","text":"Nu, și ar trebui să te ferești de oricine îți promite asta. Pozițiile în Google sunt decise de algoritmul Google, în funcție de sute de factori și de concurența din nișa ta — niciun specialist serios nu le poate garanta. Ce garantăm însă este munca corectă: audit tehnic, optimizare on-page, conținut de calitate, link building curat și un raport lunar prin care vezi exact ce am lucrat și cum evoluează pozițiile. Folosim doar tehnici conforme cu ghidurile Google, fără scurtături care riscă penalizări."}},{"@type":"Question","name":"Ce include strategia SEO lunară?","acceptedAnswer":{"@type":"Answer","text":"Pachetul de 500€/lună (minim 6 luni) include analiză de cuvinte cheie, optimizare on-page continuă, link building strategic, conținut SEO lunar și un raport lunar de performanță. Practic, ne ocupăm de tot ce ține de creșterea organică a site-ului tău, lună de lună, și ajustăm direcția în funcție de rezultate."}},{"@type":"Question","name":"Faceți SEO local (Google Business)?","acceptedAnswer":{"@type":"Answer","text":"Da. Pentru afacerile cu prezență fizică sau care vizează clienți dintr-o anumită zonă, SEO local este esențial. Optimizăm profilul Google Business, asigurăm consistența datelor de contact (NAP), lucrăm cuvinte cheie locale și structurăm site-ul pentru căutările de tip „serviciu + oraș”, ca să apari în rezultatele și pe harta din zona ta."}},{"@type":"Question","name":"Oferiți audit SEO înainte de start?","acceptedAnswer":{"@type":"Answer","text":"Da. Orice colaborare pornește de la o analiză a site-ului tău, ca să înțelegem unde te afli și ce are cel mai mare impact. Auditul tehnic face parte din serviciu, iar pentru intervenții punctuale poți alege și pachetul SEO Tehnic la 40€/oră, fără o colaborare lunară."}},{"@type":"Question","name":"Lucrați și SEO pentru magazine online?","acceptedAnswer":{"@type":"Answer","text":"Da. SEO-ul pentru magazine online are particularitățile lui și îl tratăm ca proiect dedicat, de la 1.500€: optimizare de produse și categorii, schema Product, faceted search corect, gestionarea canonical și a paginării, plus optimizarea vitezei. Toate site-urile pe care le construim sunt deja optimizate SEO din construcție, iar pentru poziționare avansată adăugăm strategia continuă."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Optimizare SEO","item":"https://visience.ro/optimizare-seo/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"fh9PzwtzkV_0ZC1RRtXLF"}
+5:T8d9a,<style>
 .seo-hero {
   position: relative;
   padding: calc(var(--nav-h) + 90px) 0 90px;
@@ -25,7 +25,7 @@
   margin-bottom: 24px;
 }
 .seo-hero__breadcrumbs a       { color: var(--mid); transition: color .2s; }
-.seo-hero__breadcrumbs a:hover { color: var(--acc); }
+.seo-hero__breadcrumbs a:hover { color: var(--acc-deep); }
 .seo-hero__breadcrumbs .sep    { margin: 0 10px; opacity: .4; }
 
 .seo-hero__h1 {
@@ -119,7 +119,7 @@
   font-size: 11px;
   color: var(--mid);
 }
-.seo-mockup__search i { color: var(--acc); font-size: 11px; }
+.seo-mockup__search i { color: var(--acc-deep); font-size: 11px; }
 .seo-mockup__results {
   display: flex;
   flex-direction: column;
@@ -210,7 +210,7 @@
   margin-bottom: 16px;
 }
 .seo-intro p strong { color: var(--ink); font-weight: 600; }
-.seo-intro p a       { color: var(--acc); border-bottom: 1px solid var(--acc); transition: opacity .2s; }
+.seo-intro p a       { color: var(--acc-deep); border-bottom: 1px solid var(--acc); transition: opacity .2s; }
 .seo-intro p a:hover { opacity: .65; }
 
 
@@ -232,7 +232,7 @@
   color: var(--ink);
   margin-bottom: 18px;
 }
-.seo-incl__h2 .acc { color: var(--acc); }
+.seo-incl__h2 .acc { color: var(--acc-deep); }
 .seo-incl__sub {
   font-size: 16px; line-height: 1.8;
   color: var(--mid); font-weight: 300;
@@ -258,7 +258,7 @@
   width: 52px; height: 52px;
   border-radius: 14px;
   background: var(--acc-bg);
-  color: var(--acc);
+  color: var(--acc-deep);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -306,7 +306,7 @@
   color: var(--ink);
   margin-bottom: 18px;
 }
-.seo-prices__h2 .acc { color: var(--acc); }
+.seo-prices__h2 .acc { color: var(--acc-deep); }
 .seo-prices__sub {
   font-size: 16px; line-height: 1.8;
   color: var(--mid); font-weight: 300;
@@ -368,7 +368,7 @@
   font-size: clamp(32px, 3.6vw, 46px);
   letter-spacing: -.04em;
   line-height: 1;
-  color: var(--acc);
+  color: var(--acc-deep);
   margin-bottom: 4px;
 }
 .seo-pkg__price-note {
@@ -407,7 +407,7 @@
 }
 .seo-pkg.featured .seo-pkg__feat { color: rgba(255,255,255,.85); }
 .seo-pkg__feat-tick {
-  color: var(--acc);
+  color: var(--acc-deep);
   flex-shrink: 0;
   margin-top: 2px;
   font-weight: 700;
@@ -435,7 +435,7 @@
   color: var(--ink);
   display: flex; align-items: center; gap: 10px;
 }
-.seo-extra__box h4 i { color: var(--acc); font-size: 15px; }
+.seo-extra__box h4 i { color: var(--acc-deep); font-size: 15px; }
 .seo-extra__box p {
   font-size: 13px;
   line-height: 1.7;
@@ -488,7 +488,7 @@
   font-family: var(--f-d);
   font-weight: 800;
   font-size: 36px;
-  color: var(--acc);
+  color: var(--acc-deep);
   letter-spacing: -.03em;
   line-height: 1;
   margin-bottom: 16px;
@@ -528,7 +528,7 @@
   letter-spacing: -.03em;
   color: var(--ink);
 }
-.seo-faq__h2 .acc { color: var(--acc); }
+.seo-faq__h2 .acc { color: var(--acc-deep); }
 .seo-faq__list {
   max-width: 860px;
   margin: 0 auto;
@@ -559,13 +559,13 @@
   font-family: var(--f-d);
   font-size: 26px;
   font-weight: 300;
-  color: var(--acc);
+  color: var(--acc-deep);
   transition: transform .3s;
   flex-shrink: 0;
   line-height: 1;
 }
 .seo-faq-item[open] summary::after { transform: rotate(45deg); }
-.seo-faq-item:hover summary { color: var(--acc); }
+.seo-faq-item:hover summary { color: var(--acc-deep); }
 .seo-faq-item p {
   margin-top: 14px;
   font-size: 14px;

@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
 6:I[97367,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-2:T1388,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/google-meta-ads/#service","name":"Google & Meta Ads (PPC)","serviceType":"Management campanii Google Ads, Facebook și Instagram Ads","description":"Campanii PPC de Lead Generation, remarketing și Google Shopping pe Google Ads, Facebook și Instagram, configurate pe audiența exactă și orientate pe conversii și ROI. Bugetul media plătit platformelor este separat de costul de management.","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Pachete management campanii PPC","itemListElement":[{"@type":"Offer","name":"Remarketing & Automatizări","description":"Anunțuri personalizate Google + Facebook, email-uri automate de follow-up, email coș abandonat, targetare pe istoricul de navigare și optimizare continuă.","price":"600","priceCurrency":"EUR"},{"@type":"Offer","name":"Google Shopping","description":"Setup Google Merchant Center, optimizare feed produse, Smart sau Standard Shopping, strategie de licitare și monitorizare lunară.","price":"500","priceCurrency":"EUR"},{"@type":"Offer","name":"Lead Generation","description":"Campanii Google, Facebook sau Instagram pentru clienți calificați: minimum 2 postări publicitare, conținut vizual + text, strategie, implementare, monitorizare și 2-3 optimizări.","price":"200","priceCurrency":"EUR"}]},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"200","highPrice":"600","offerCount":"3"}},{"@type":"FAQPage","@id":"https://visience.ro/google-meta-ads/#faq","mainEntity":[{"@type":"Question","name":"Care e bugetul minim de publicitate?","acceptedAnswer":{"@type":"Answer","text":"Depinde de platformă și de obiective. Pentru Lead Generation pe servicii locale, un buget media de 300-500€/lună este un punct de pornire realist; pentru Google Shopping sau remarketing pe magazine online, recomandăm de la 500€/lună în sus. Cu cât bugetul e mai mare și constant, cu atât costul per lead scade, pentru că algoritmii au mai multe date de optimizare. Îți recomandăm bugetul exact după ce înțelegem afacerea ta."}},{"@type":"Question","name":"Costul de management include și bugetul de ads?","acceptedAnswer":{"@type":"Answer","text":"Nu. Tariful nostru (de exemplu 200€ pentru o campanie de Lead Generation sau 600€ pentru Remarketing & Automatizări) acoperă strategia, crearea anunțurilor, implementarea, optimizarea și raportarea. Bugetul de publicitate — banii cheltuiți efectiv pe reclame — se plătește direct către Google și Meta, din contul tău, și este complet separat de costul colaborării cu noi. Așa ai control total asupra bugetului media și transparență deplină."}},{"@type":"Question","name":"Pe ce platforme rulați campanii?","acceptedAnswer":{"@type":"Answer","text":"Rulăm campanii pe Google Ads (Search, Display, Shopping, YouTube), pe Facebook Ads și pe Instagram Ads. Alegem combinația potrivită în funcție de unde se află clienții tăi: Google pentru cei care caută activ un serviciu sau produs, Meta pentru a-i atrage și a face remarketing. Pentru magazinele online, recomandăm Google Shopping pentru clienții cu intenție mare de cumpărare."}},{"@type":"Question","name":"Cât durează până vin primele rezultate?","acceptedAnswer":{"@type":"Answer","text":"Campaniile pot genera primele click-uri și lead-uri în câteva zile de la lansare. Totuși, primele 2-3 săptămâni sunt o perioadă de învățare: testăm anunțuri, audiențe și licitări ca să găsim ce funcționează. Rezultatele stabile și un cost per lead optimizat apar de regulă după 4-6 săptămâni de rulare și optimizare continuă."}},{"@type":"Question","name":"Lucrați cu magazine online (Shopping)?","acceptedAnswer":{"@type":"Answer","text":"Da. Pentru magazinele online configurăm Google Shopping: setup Google Merchant Center, optimizarea feed-ului de produse, campanii Smart sau Standard Shopping și o strategie de licitare gândită pentru profit. Combinăm Shopping cu remarketing și email-uri de coș abandonat pentru a recupera vânzările pierdute. Dacă nu ai încă magazin, te putem ajuta și cu crearea unui magazin online."}},{"@type":"Question","name":"Cum raportați performanța?","acceptedAnswer":{"@type":"Answer","text":"Primești un raport lunar clar, fără jargon: afișări, click-uri, cost per click, lead-uri sau vânzări, cost per lead și ROI. Nu ne ascundem după „cifre de vanitate” — ne uităm la ce contează cu adevărat pentru afacerea ta. Îți explicăm ce am optimizat, ce a funcționat și ce propunem pentru luna următoare."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Google & Meta Ads","item":"https://visience.ro/google-meta-ads/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"FlppGv13BSL-9D7_ZswTe"}
-5:T88d4,<style>
+2:T1388,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/google-meta-ads/#service","name":"Google & Meta Ads (PPC)","serviceType":"Management campanii Google Ads, Facebook și Instagram Ads","description":"Campanii PPC de Lead Generation, remarketing și Google Shopping pe Google Ads, Facebook și Instagram, configurate pe audiența exactă și orientate pe conversii și ROI. Bugetul media plătit platformelor este separat de costul de management.","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Pachete management campanii PPC","itemListElement":[{"@type":"Offer","name":"Remarketing & Automatizări","description":"Anunțuri personalizate Google + Facebook, email-uri automate de follow-up, email coș abandonat, targetare pe istoricul de navigare și optimizare continuă.","price":"600","priceCurrency":"EUR"},{"@type":"Offer","name":"Google Shopping","description":"Setup Google Merchant Center, optimizare feed produse, Smart sau Standard Shopping, strategie de licitare și monitorizare lunară.","price":"500","priceCurrency":"EUR"},{"@type":"Offer","name":"Lead Generation","description":"Campanii Google, Facebook sau Instagram pentru clienți calificați: minimum 2 postări publicitare, conținut vizual + text, strategie, implementare, monitorizare și 2-3 optimizări.","price":"200","priceCurrency":"EUR"}]},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"200","highPrice":"600","offerCount":"3"}},{"@type":"FAQPage","@id":"https://visience.ro/google-meta-ads/#faq","mainEntity":[{"@type":"Question","name":"Care e bugetul minim de publicitate?","acceptedAnswer":{"@type":"Answer","text":"Depinde de platformă și de obiective. Pentru Lead Generation pe servicii locale, un buget media de 300-500€/lună este un punct de pornire realist; pentru Google Shopping sau remarketing pe magazine online, recomandăm de la 500€/lună în sus. Cu cât bugetul e mai mare și constant, cu atât costul per lead scade, pentru că algoritmii au mai multe date de optimizare. Îți recomandăm bugetul exact după ce înțelegem afacerea ta."}},{"@type":"Question","name":"Costul de management include și bugetul de ads?","acceptedAnswer":{"@type":"Answer","text":"Nu. Tariful nostru (de exemplu 200€ pentru o campanie de Lead Generation sau 600€ pentru Remarketing & Automatizări) acoperă strategia, crearea anunțurilor, implementarea, optimizarea și raportarea. Bugetul de publicitate — banii cheltuiți efectiv pe reclame — se plătește direct către Google și Meta, din contul tău, și este complet separat de costul colaborării cu noi. Așa ai control total asupra bugetului media și transparență deplină."}},{"@type":"Question","name":"Pe ce platforme rulați campanii?","acceptedAnswer":{"@type":"Answer","text":"Rulăm campanii pe Google Ads (Search, Display, Shopping, YouTube), pe Facebook Ads și pe Instagram Ads. Alegem combinația potrivită în funcție de unde se află clienții tăi: Google pentru cei care caută activ un serviciu sau produs, Meta pentru a-i atrage și a face remarketing. Pentru magazinele online, recomandăm Google Shopping pentru clienții cu intenție mare de cumpărare."}},{"@type":"Question","name":"Cât durează până vin primele rezultate?","acceptedAnswer":{"@type":"Answer","text":"Campaniile pot genera primele click-uri și lead-uri în câteva zile de la lansare. Totuși, primele 2-3 săptămâni sunt o perioadă de învățare: testăm anunțuri, audiențe și licitări ca să găsim ce funcționează. Rezultatele stabile și un cost per lead optimizat apar de regulă după 4-6 săptămâni de rulare și optimizare continuă."}},{"@type":"Question","name":"Lucrați cu magazine online (Shopping)?","acceptedAnswer":{"@type":"Answer","text":"Da. Pentru magazinele online configurăm Google Shopping: setup Google Merchant Center, optimizarea feed-ului de produse, campanii Smart sau Standard Shopping și o strategie de licitare gândită pentru profit. Combinăm Shopping cu remarketing și email-uri de coș abandonat pentru a recupera vânzările pierdute. Dacă nu ai încă magazin, te putem ajuta și cu crearea unui magazin online."}},{"@type":"Question","name":"Cum raportați performanța?","acceptedAnswer":{"@type":"Answer","text":"Primești un raport lunar clar, fără jargon: afișări, click-uri, cost per click, lead-uri sau vânzări, cost per lead și ROI. Nu ne ascundem după „cifre de vanitate” — ne uităm la ce contează cu adevărat pentru afacerea ta. Îți explicăm ce am optimizat, ce a funcționat și ce propunem pentru luna următoare."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Google & Meta Ads","item":"https://visience.ro/google-meta-ads/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"fh9PzwtzkV_0ZC1RRtXLF"}
+5:T891f,<style>
 .ads-hero {
   position: relative;
   padding: calc(var(--nav-h) + 90px) 0 90px;
@@ -25,7 +25,7 @@
   margin-bottom: 24px;
 }
 .ads-hero__breadcrumbs a       { color: var(--mid); transition: color .2s; }
-.ads-hero__breadcrumbs a:hover { color: var(--acc); }
+.ads-hero__breadcrumbs a:hover { color: var(--acc-deep); }
 .ads-hero__breadcrumbs .sep    { margin: 0 10px; opacity: .4; }
 
 .ads-hero__h1 {
@@ -116,13 +116,13 @@
   align-items: center;
   gap: 8px;
 }
-.ads-panel__title i { color: var(--acc); font-size: 14px; }
+.ads-panel__title i { color: var(--acc-deep); font-size: 14px; }
 .ads-panel__live {
   font-family: var(--f-m);
   font-size: 9px;
   letter-spacing: .1em;
   text-transform: uppercase;
-  color: #28C840;
+  color: #1A8F30;
   display: inline-flex;
   align-items: center;
   gap: 6px;
@@ -154,7 +154,7 @@
   line-height: 1;
   margin-bottom: 6px;
 }
-.ads-panel__stat-num.acc { color: var(--acc); }
+.ads-panel__stat-num.acc { color: var(--acc-deep); }
 .ads-panel__stat-lbl {
   font-family: var(--f-m);
   font-size: 8px;
@@ -185,7 +185,7 @@
   font-family: var(--f-d);
   font-size: 12px;
   font-weight: 700;
-  color: var(--acc);
+  color: var(--acc-deep);
 }
 .ads-panel__bars {
   display: flex;
@@ -233,7 +233,7 @@
   margin-bottom: 16px;
 }
 .ads-intro p strong { color: var(--ink); font-weight: 600; }
-.ads-intro p a       { color: var(--acc); border-bottom: 1px solid var(--acc); transition: opacity .2s; }
+.ads-intro p a       { color: var(--acc-deep); border-bottom: 1px solid var(--acc); transition: opacity .2s; }
 .ads-intro p a:hover { opacity: .65; }
 
 .ads-include {
@@ -254,7 +254,7 @@
   color: var(--ink);
   margin-bottom: 18px;
 }
-.ads-include__h2 .acc { color: var(--acc); }
+.ads-include__h2 .acc { color: var(--acc-deep); }
 .ads-include__sub {
   font-size: 16px; line-height: 1.8;
   color: var(--mid); font-weight: 300;
@@ -280,7 +280,7 @@
   width: 50px; height: 50px;
   border-radius: 13px;
   background: var(--acc-bg);
-  color: var(--acc);
+  color: var(--acc-deep);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -327,7 +327,7 @@
   color: var(--ink);
   margin-bottom: 18px;
 }
-.ads-prices__h2 .acc { color: var(--acc); }
+.ads-prices__h2 .acc { color: var(--acc-deep); }
 .ads-prices__sub {
   font-size: 16px; line-height: 1.8;
   color: var(--mid); font-weight: 300;
@@ -389,7 +389,7 @@
   font-size: clamp(36px, 4vw, 52px);
   letter-spacing: -.04em;
   line-height: 1;
-  color: var(--acc);
+  color: var(--acc-deep);
   margin-bottom: 4px;
 }
 .ads-pkg__price-note {
@@ -428,7 +428,7 @@
 }
 .ads-pkg.featured .ads-pkg__feat { color: rgba(255,255,255,.85); }
 .ads-pkg__feat-tick {
-  color: var(--acc);
+  color: var(--acc-deep);
   flex-shrink: 0;
   margin-top: 2px;
   font-weight: 700;
@@ -462,7 +462,7 @@
   color: var(--ink);
   margin-bottom: 18px;
 }
-.ads-process__h2 .acc { color: var(--acc); }
+.ads-process__h2 .acc { color: var(--acc-deep); }
 .ads-process__list {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -484,7 +484,7 @@
   font-family: var(--f-d);
   font-weight: 800;
   font-size: 36px;
-  color: var(--acc);
+  color: var(--acc-deep);
   letter-spacing: -.03em;
   line-height: 1;
   margin-bottom: 16px;
@@ -524,7 +524,7 @@
   color: var(--ink);
   margin-bottom: 18px;
 }
-.ads-faq__h2 .acc { color: var(--acc); }
+.ads-faq__h2 .acc { color: var(--acc-deep); }
 .ads-faq__list {
   max-width: 860px;
   margin: 0 auto;
@@ -555,13 +555,13 @@
   font-family: var(--f-d);
   font-size: 26px;
   font-weight: 300;
-  color: var(--acc);
+  color: var(--acc-deep);
   transition: transform .3s;
   flex-shrink: 0;
   line-height: 1;
 }
 .ads-faq-item[open] summary::after { transform: rotate(45deg); }
-.ads-faq-item:hover summary { color: var(--acc); }
+.ads-faq-item:hover summary { color: var(--acc-deep); }
 .ads-faq-item p {
   margin-top: 14px;
   font-size: 14px;

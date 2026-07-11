@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
 e:I[68027,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"default",1]
-:HL["/_next/static/chunks/2_-5a90h7sgxz.css","style"]
+:HL["/_next/static/chunks/0x6-zf7t-yjyf.css","style"]
 :HL["/_next/static/media/0da9c7f357bd9d4d-s.p.1975l3y3401x_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/2094fb60fd9c8287-s.p.3qxy1tqak831c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/47fe1b7cd6e6ed85-s.p.3bh2vc0w-r-ll.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -27,7 +27,7 @@ e:I[68027,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","creare-site-prezentare",""],"q":"","i":false,"f":[[["",{"children":["creare-site-prezentare",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0iuavcsxmjav_.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"FlppGv13BSL-9D7_ZswTe"}
+})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","creare-site-prezentare",""],"q":"","i":false,"f":[[["",{"children":["creare-site-prezentare",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0iuavcsxmjav_.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"fh9PzwtzkV_0ZC1RRtXLF"}
 11:I[39756,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 12:I[37457,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 14:I[27961,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
@@ -213,7 +213,7 @@ e:I[68027,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8
 8:["$","$L14",null,{}]
 9:["$","$L15",null,{}]
 a:["$","$1","c",{"children":[null,["$","$L11",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L12",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
-16:Tb26,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-prezentare/#service","name":"Creare website de prezentare","serviceType":"Web design și dezvoltare website","description":"Creare site-uri de prezentare profesionale: landing page-uri, site-uri de companie și portofolii. Design adaptiv, SEO tehnic, CMS inclus. De la 150€.","provider":{"@type":"Organization","name":"Visience Creative Experience","url":"https://visience.ro/"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"150","highPrice":"2000","offerCount":"3"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-prezentare/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site de prezentare?","acceptedAnswer":{"@type":"Answer","text":"Un site de prezentare standard multi-pagină pornește de la 500€, iar un site premium cu design custom de la 2.000€. Pentru o campanie, un landing page simplu pornește de la 150€. Prețul depinde de numărul de pagini, funcționalități și personalizare."}},{"@type":"Question","name":"Cât durează realizarea unui site de prezentare?","acceptedAnswer":{"@type":"Answer","text":"Un landing page se livrează în câteva zile, un site standard în 2–4 săptămâni, iar un proiect premium în 4–8 săptămâni, în funcție de volumul de conținut și de feedback."}},{"@type":"Question","name":"Pe ce platformă construiți site-ul?","acceptedAnswer":{"@type":"Answer","text":"Construim cel mai des pe WordPress (Oxygen Builder sau Elementor) și Webflow, astfel încât să poți edita ușor conținutul după livrare."}},{"@type":"Question","name":"Site-ul va fi optimizat pentru telefon și pentru Google?","acceptedAnswer":{"@type":"Answer","text":"Da. Fiecare site este responsive și include SEO tehnic din construcție: viteză, structură corectă și date structurate. Punem accent pe viteza pe mobil, acolo unde ajung cei mai mulți vizitatori."}},{"@type":"Question","name":"Pot edita singur conținutul după ce primesc site-ul?","acceptedAnswer":{"@type":"Answer","text":"Da. Toate site-urile includ un CMS, deci poți modifica texte, imagini și pagini fără cunoștințe tehnice. Oferim și o sesiune de instruire la livrare."}},{"@type":"Question","name":"Includeți și textele (copywriting) pentru site?","acceptedAnswer":{"@type":"Answer","text":"Da. Copywriting-ul orientat spre conversie este inclus în pachetele Standard și Premium, iar pentru landing page poate fi adăugat ca opțiune."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Website de prezentare","item":"https://visience.ro/creare-site-prezentare/"}]}]}17:T9366,<style>
+16:Tb26,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-prezentare/#service","name":"Creare website de prezentare","serviceType":"Web design și dezvoltare website","description":"Creare site-uri de prezentare profesionale: landing page-uri, site-uri de companie și portofolii. Design adaptiv, SEO tehnic, CMS inclus. De la 150€.","provider":{"@type":"Organization","name":"Visience Creative Experience","url":"https://visience.ro/"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"150","highPrice":"2000","offerCount":"3"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-prezentare/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site de prezentare?","acceptedAnswer":{"@type":"Answer","text":"Un site de prezentare standard multi-pagină pornește de la 500€, iar un site premium cu design custom de la 2.000€. Pentru o campanie, un landing page simplu pornește de la 150€. Prețul depinde de numărul de pagini, funcționalități și personalizare."}},{"@type":"Question","name":"Cât durează realizarea unui site de prezentare?","acceptedAnswer":{"@type":"Answer","text":"Un landing page se livrează în câteva zile, un site standard în 2–4 săptămâni, iar un proiect premium în 4–8 săptămâni, în funcție de volumul de conținut și de feedback."}},{"@type":"Question","name":"Pe ce platformă construiți site-ul?","acceptedAnswer":{"@type":"Answer","text":"Construim cel mai des pe WordPress (Oxygen Builder sau Elementor) și Webflow, astfel încât să poți edita ușor conținutul după livrare."}},{"@type":"Question","name":"Site-ul va fi optimizat pentru telefon și pentru Google?","acceptedAnswer":{"@type":"Answer","text":"Da. Fiecare site este responsive și include SEO tehnic din construcție: viteză, structură corectă și date structurate. Punem accent pe viteza pe mobil, acolo unde ajung cei mai mulți vizitatori."}},{"@type":"Question","name":"Pot edita singur conținutul după ce primesc site-ul?","acceptedAnswer":{"@type":"Answer","text":"Da. Toate site-urile includ un CMS, deci poți modifica texte, imagini și pagini fără cunoștințe tehnice. Oferim și o sesiune de instruire la livrare."}},{"@type":"Question","name":"Includeți și textele (copywriting) pentru site?","acceptedAnswer":{"@type":"Answer","text":"Da. Copywriting-ul orientat spre conversie este inclus în pachetele Standard și Premium, iar pentru landing page poate fi adăugat ca opțiune."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Website de prezentare","item":"https://visience.ro/creare-site-prezentare/"}]}]}17:T93a2,<style>
 .wsp-sec-head { margin-bottom: 52px; max-width: 640px; }
 @media (max-width: 640px) { .wsp-sec-head { margin-bottom: 36px; } }
 
@@ -276,7 +276,7 @@ a:["$","$1","c",{"children":[null,["$","$L11",null,{"parallelRouterKey":"childre
 .wsp-intro { padding: 100px 0; background: var(--white); }
 .wsp-intro__inner { display: grid; grid-template-columns: 1fr 1.1fr; gap: 60px; align-items: start; }
 .wsp-intro__lead { font-size: clamp(16px, 1.5vw, 19px); line-height: 1.7; color: var(--ink2); font-weight: 400; margin-bottom: 22px; }
-.wsp-intro__lead strong { color: var(--acc-dark); }
+.wsp-intro__lead strong { color: var(--acc-deep); }
 .wsp-intro__body { font-size: 15px; line-height: 1.84; color: var(--mid); font-weight: 300; }
 @media (max-width: 1024px) { .wsp-intro { padding: 70px 0; } .wsp-intro__inner { grid-template-columns: 1fr; gap: 28px; } }
 
@@ -295,11 +295,11 @@ a:["$","$1","c",{"children":[null,["$","$L11",null,{"parallelRouterKey":"childre
   text-transform: uppercase; padding: 6px 13px; border-radius: 100px;
 }
 .wsp-type__icon {
-  width: 52px; height: 52px; border-radius: 14px; background: var(--acc-bg); color: var(--acc);
+  width: 52px; height: 52px; border-radius: 14px; background: var(--acc-bg); color: var(--acc-deep);
   display: flex; align-items: center; justify-content: center; font-size: 22px; margin-bottom: 22px;
 }
 .wsp-type--feat .wsp-type__icon { background: rgba(155,195,26,.18); color: var(--acc2); }
-.wsp-type__tag { font-family: var(--f-m); font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--acc); margin-bottom: 8px; font-weight: 500; }
+.wsp-type__tag { font-family: var(--f-m); font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--acc-deep); margin-bottom: 8px; font-weight: 500; }
 .wsp-type--feat .wsp-type__tag { color: var(--acc2); }
 .wsp-type__name { font-family: var(--f-d); font-weight: 700; font-size: 24px; letter-spacing: -.02em; color: var(--ink); margin-bottom: 12px; }
 .wsp-type--feat .wsp-type__name { color: #fff; }
@@ -309,7 +309,7 @@ a:["$","$1","c",{"children":[null,["$","$L11",null,{"parallelRouterKey":"childre
 .wsp-type--feat .wsp-type__list { border-top-color: rgba(255,255,255,.12); }
 .wsp-type__list li { position: relative; padding-left: 24px; font-size: 13px; color: var(--ink2); line-height: 1.5; }
 .wsp-type--feat .wsp-type__list li { color: rgba(255,255,255,.78); }
-.wsp-type__list li::before { content: '✓'; position: absolute; left: 0; top: 0; color: var(--acc); font-size: 12px; font-weight: 700; }
+.wsp-type__list li::before { content: '✓'; position: absolute; left: 0; top: 0; color: var(--acc-deep); font-size: 12px; font-weight: 700; }
 .wsp-type--feat .wsp-type__list li::before { color: var(--acc2); }
 @media (max-width: 1024px) { .wsp-types { padding: 80px 0; } .wsp-types__grid { grid-template-columns: 1fr; max-width: 460px; margin: 0 auto; } }
 
@@ -321,7 +321,7 @@ a:["$","$1","c",{"children":[null,["$","$L11",null,{"parallelRouterKey":"childre
 }
 .wsp-feat__cell { background: var(--white); padding: 38px 32px; transition: background .3s; }
 .wsp-feat__cell:hover { background: var(--cream); }
-.wsp-feat__cell i { font-size: 26px; color: var(--acc); margin-bottom: 18px; display: block; }
+.wsp-feat__cell i { font-size: 26px; color: var(--acc-deep); margin-bottom: 18px; display: block; }
 .wsp-feat__cell h3 { font-family: var(--f-d); font-weight: 700; font-size: 18px; letter-spacing: -.015em; color: var(--ink); margin-bottom: 10px; }
 .wsp-feat__cell p { font-size: 13.5px; line-height: 1.74; color: var(--mid); font-weight: 300; }
 @media (max-width: 1024px) { .wsp-feat { padding: 80px 0; } .wsp-feat__grid { grid-template-columns: 1fr 1fr; } }
@@ -334,7 +334,7 @@ a:["$","$1","c",{"children":[null,["$","$L11",null,{"parallelRouterKey":"childre
 }
 .wsp-proc__step { background: var(--white); padding: 40px 36px; display: flex; gap: 22px; align-items: flex-start; transition: background .3s; }
 .wsp-proc__step:hover { background: var(--cream); }
-.wsp-proc__n { font-family: var(--f-d); font-weight: 800; font-size: 38px; letter-spacing: -.04em; line-height: 1; color: var(--acc); opacity: .4; flex-shrink: 0; }
+.wsp-proc__n { font-family: var(--f-d); font-weight: 800; font-size: 38px; letter-spacing: -.04em; line-height: 1; color: var(--acc-deep); opacity: .4; flex-shrink: 0; }
 .wsp-proc__c h3 { font-family: var(--f-d); font-weight: 700; font-size: 19px; letter-spacing: -.015em; color: var(--ink); margin-bottom: 10px; }
 .wsp-proc__c p { font-size: 14px; line-height: 1.78; color: var(--mid); font-weight: 300; }
 @media (max-width: 768px) { .wsp-proc { padding: 80px 0; } .wsp-proc__list { grid-template-columns: 1fr; } .wsp-proc__step { padding: 30px 26px; } }
@@ -347,12 +347,12 @@ a:["$","$1","c",{"children":[null,["$","$L11",null,{"parallelRouterKey":"childre
 .wsp-cmp__feat-col { text-align: left !important; width: 32%; }
 .wsp-cmp__table tbody th[scope="row"] { text-align: left; font-family: var(--f-b); font-weight: 600; font-size: 13.5px; color: var(--ink); }
 .wsp-cmp__plan { display: block; font-family: var(--f-d); font-weight: 700; font-size: 16px; color: var(--ink); letter-spacing: -.01em; }
-.wsp-cmp__price { display: block; font-family: var(--f-m); font-size: 12px; color: var(--acc); margin-top: 4px; font-weight: 500; }
+.wsp-cmp__price { display: block; font-family: var(--f-m); font-size: 12px; color: var(--acc-deep); margin-top: 4px; font-weight: 500; }
 .wsp-cmp__th-feat { background: var(--acc-bg) !important; }
-.wsp-cmp__th-feat .wsp-cmp__plan { color: var(--acc-dark); }
+.wsp-cmp__th-feat .wsp-cmp__plan { color: var(--acc-deep); }
 .wsp-cmp__td-feat { background: rgba(155,195,26,.05); font-weight: 600; color: var(--ink); }
 .wsp-cmp__table tbody tr:last-child th, .wsp-cmp__table tbody tr:last-child td { border-bottom: none; }
-.wsp-cmp__table .fa-check { color: var(--acc); font-size: 14px; }
+.wsp-cmp__table .fa-check { color: var(--acc-deep); font-size: 14px; }
 .wsp-cmp__no { color: var(--light) !important; font-size: 11px; }
 .wsp-cmp__opt { font-family: var(--f-m); font-size: 10px; letter-spacing: .04em; text-transform: uppercase; color: var(--mid); background: var(--cream2); padding: 3px 9px; border-radius: 100px; }
 .wsp-cmp__note { margin-top: 18px; font-size: 12.5px; color: var(--light); text-align: center; font-style: italic; }
@@ -371,8 +371,8 @@ a:["$","$1","c",{"children":[null,["$","$L11",null,{"parallelRouterKey":"childre
 .wsp-pcard__pill { font-family: var(--f-m); font-size: 9px; letter-spacing: .08em; text-transform: uppercase; padding: 4px 9px; border-radius: 100px; background: var(--acc-bg); color: var(--acc-ink); font-weight: 500; }
 .wsp-pcard__pill--ind { background: var(--cream2); color: var(--mid); }
 .wsp-pcard__title { font-family: var(--f-d); font-weight: 700; font-size: 17px; letter-spacing: -.015em; color: var(--ink); margin-bottom: 8px; line-height: 1.2; }
-.wsp-pcard__url { font-family: var(--f-m); font-size: 11px; color: var(--acc); font-weight: 500; transition: color .2s; }
-.wsp-pcard__url:hover { color: var(--acc-dark); }
+.wsp-pcard__url { font-family: var(--f-m); font-size: 11px; color: var(--acc-deep); font-weight: 500; transition: color .2s; }
+.wsp-pcard__url:hover { color: var(--acc-deep); }
 .wsp-port__more { margin-top: 40px; text-align: center; }
 @media (max-width: 1024px) { .wsp-port { padding: 80px 0; } .wsp-port__grid { grid-template-columns: 1fr 1fr; } }
 @media (max-width: 560px) { .wsp-port__grid { grid-template-columns: 1fr; max-width: 360px; margin: 0 auto; } }
@@ -386,18 +386,18 @@ a:["$","$1","c",{"children":[null,["$","$L11",null,{"parallelRouterKey":"childre
   font-size: clamp(16px, 1.8vw, 20px); letter-spacing: -.015em; color: var(--ink); transition: color .2s;
 }
 .wsp-faq__q::-webkit-details-marker { display: none; }
-.wsp-faq__q::after { content: '+'; font-family: var(--f-d); font-weight: 300; font-size: 28px; line-height: 1; color: var(--acc); flex-shrink: 0; transition: transform .3s ease; }
+.wsp-faq__q::after { content: '+'; font-family: var(--f-d); font-weight: 300; font-size: 28px; line-height: 1; color: var(--acc-deep); flex-shrink: 0; transition: transform .3s ease; }
 .wsp-faq__item[open] .wsp-faq__q::after { transform: rotate(45deg); }
-.wsp-faq__q:hover { color: var(--acc); }
+.wsp-faq__q:hover { color: var(--acc-deep); }
 .wsp-faq__a { padding: 0 4px 26px; font-size: 15px; line-height: 1.84; color: var(--mid); font-weight: 300; max-width: 700px; }
-.wsp-faq__a strong { color: var(--acc-dark); font-weight: 600; }
+.wsp-faq__a strong { color: var(--acc-deep); font-weight: 600; }
 @media (max-width: 768px) { .wsp-faq { padding: 80px 0; } }
 
 .wsp-contact { background: var(--cream); }
 .wsp-contact__direct { display: flex; flex-direction: column; gap: 10px; margin-bottom: 30px; }
 .wsp-contact__line { display: flex; align-items: center; gap: 14px; padding: 14px 18px; background: var(--white); border: 1px solid var(--border); border-radius: 12px; transition: border-color .2s, transform .2s; }
-.wsp-contact__line:hover { border-color: var(--acc); transform: translateX(3px); }
-.wsp-contact__ico { width: 40px; height: 40px; border-radius: 10px; background: var(--acc-bg); color: var(--acc); display: flex; align-items: center; justify-content: center; font-size: 16px; flex-shrink: 0; }
+.wsp-contact__line:hover { border-color: var(--acc-deep); transform: translateX(3px); }
+.wsp-contact__ico { width: 40px; height: 40px; border-radius: 10px; background: var(--acc-bg); color: var(--acc-deep); display: flex; align-items: center; justify-content: center; font-size: 16px; flex-shrink: 0; }
 .wsp-contact__line > span:last-child { display: flex; flex-direction: column; font-family: var(--f-d); font-weight: 700; font-size: 15px; color: var(--ink); letter-spacing: -.01em; }
 .wsp-contact__lbl { font-family: var(--f-m); font-size: 9px; font-weight: 500; letter-spacing: .1em; text-transform: uppercase; color: var(--light); margin-bottom: 2px; }
 
@@ -843,7 +843,7 @@ b:["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","
 19:[]
 c:"$W19"
 d:["$","$1","h",{"children":[null,["$","$L1a",null,{"children":"$L1b"}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.Metadata","children":"$L1e"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
-f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2_-5a90h7sgxz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 1f:I[97367,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 18:["$","$L1f",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
 1b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#FFFFFF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#111114","media":"(prefers-color-scheme: dark)"}]]
