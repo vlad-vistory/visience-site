@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 5:I[97367,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 6:"$Sreact.suspense"
-:HL["/_next/static/chunks/0nwx8kpgg_sju.css","style"]
+:HL["/_next/static/chunks/1ezt8qg_uqh-r.css","style"]
 2:T1315,<h2>1. Cine suntem</h2>
 <p>Site-ul www.visience.ro este operat de <strong>Visience Creative Experience SRL</strong>, cu sediul în Bulevardul Nicolae Iorga 18, Iași 700224, România, CUI RO44755311, denumită în continuare „Visience". Ne poți contacta la <a href="mailto:contact@visience.ro">contact@visience.ro</a> sau la +40 771 486 499.</p>
 
@@ -44,7 +44,7 @@
 <h2>12. Modificări</h2>
 <p>Visience poate actualiza acești termeni. Versiunea curentă este publicată pe această pagină, cu data ultimei actualizări.</p>
 <p>Ultima actualizare: 29 iunie 2026.</p>
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Termeni și Condiții"}]]}],["$","header",null,{"className":"blog-article__head","children":["$","h1",null,{"children":"Termeni și Condiții"}]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$2"}}]]}]}],["$L3"],"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"oH3qoeMvUufXkJjTBBkQR"}
-3:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0nwx8kpgg_sju.css","precedence":"next"}]
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Termeni și Condiții"}]]}],["$","header",null,{"className":"blog-article__head","children":["$","h1",null,{"children":"Termeni și Condiții"}]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$2"}}]]}]}],["$L3"],"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"GULPtLRBvNjx-_VsvJr6X"}
+3:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1ezt8qg_uqh-r.css","precedence":"next"}]
 4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
 7:null

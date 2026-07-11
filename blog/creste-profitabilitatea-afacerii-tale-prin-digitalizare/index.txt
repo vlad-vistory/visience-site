@@ -13,7 +13,7 @@ f:I[68027,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8
 :HL["/_next/static/media/a218039a3287bcfd-s.p.43zbiuwnnoiok.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/c875c6f5d3e977ac-s.p.1h18_wedhzk4h.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/e2334d715941921e-s.p.3o_v2fun1jzxk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/chunks/0nwx8kpgg_sju.css","style"]
+:HL["/_next/static/chunks/1ezt8qg_uqh-r.css","style"]
 :HL["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css","style"]
 2:["$","link",null,{"rel":"stylesheet","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}]
 3:T5c7,(function(){
@@ -28,7 +28,7 @@ f:I[68027,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","blog","creste-profitabilitatea-afacerii-tale-prin-digitalizare",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","creste-profitabilitatea-afacerii-tale-prin-digitalizare","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0iuavcsxmjav_.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{"children":["$Lb",{"children":["$Lc",{},null,false,null]},null,false,"$@d"]},null,false,"$@d"]},null,false,null],"$Le",false]],"m":"$undefined","G":["$f",["$L10"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"oH3qoeMvUufXkJjTBBkQR"}
+})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","blog","creste-profitabilitatea-afacerii-tale-prin-digitalizare",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","creste-profitabilitatea-afacerii-tale-prin-digitalizare","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0iuavcsxmjav_.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{"children":["$Lb",{"children":["$Lc",{},null,false,null]},null,false,"$@d"]},null,false,"$@d"]},null,false,null],"$Le",false]],"m":"$undefined","G":["$f",["$L10"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"GULPtLRBvNjx-_VsvJr6X"}
 12:I[39756,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 13:I[37457,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 15:I[27961,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
@@ -216,420 +216,67 @@ f:I[68027,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8
 9:["$","$L16",null,{}]
 a:["$","$1","c",{"children":[null,["$","$L12",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L13",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
 b:["$","$1","c",{"children":[null,["$","$L12",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L13",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
-c:["$","$1","c",{"children":["$L17",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0nwx8kpgg_sju.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]]}]
+c:["$","$1","c",{"children":["$L17",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1ezt8qg_uqh-r.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]]}]
 1b:[]
 d:"$W1b"
 e:["$","$1","h",{"children":[null,["$","$L1c",null,{"children":"$L1d"}],["$","div",null,{"hidden":true,"children":["$","$L1e",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":"$L1f"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 10:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
-20:T5db,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/creste-profitabilitatea-afacerii-tale-prin-digitalizare/#article","headline":"Crește Profitabilitatea Afacerii Tale prin Digitalizare","description":"Descoperă cum digitalizarea afacerii tale poate crește profitabilitatea și eficiența operațională. Oferim soluții complete de automatizare și optimizare a pro","datePublished":"2024-07-06","dateModified":"2024-07-06","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/creste-profitabilitatea-afacerii-tale-prin-digitalizare/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Crește Profitabilitatea Afacerii Tale prin Digitalizare","item":"https://visience.ro/blog/creste-profitabilitatea-afacerii-tale-prin-digitalizare/"}]}]}21:T5c8f,<h2>Crește profitabilitatea afacerii tale prin Digitalizare<br/>
-</h2>
-<p>Noi suntem ajutorul de care aveai nevoie pentru a trece Online și  a ajunge la persoanele potrivite. Avem soluția completă pentru oricine. </p>
-<p> <a><br/>
- Profită Acum<br/>
-</a></p>
-<h3>Transformarea Digitală prin Proiecte Europene</h3>
-<p>Dacă afacerea ta a beneficiat de un proiect european pentru digitalizare, acum este momentul să profiți la maxim de această oportunitate. La Visience, suntem dedicați digitalizării afacerii tale, optimizând toate procesele și îmbunătățind eficiența operațională.</p>
-<p> <a href="https://edu-net.academy/" rel="noopener" target="_blank"><br/>
-<img alt="" loading="lazy" src="https://visience.ro/wp-content/uploads/2024/01/edu-net-academy-1024x476.webp"/> </a><br/>
-<a href="https://im-ds.ro/" rel="noopener" target="_blank"><br/>
-<img alt="" loading="lazy" src="https://visience.ro/wp-content/uploads/2024/01/im-ds-1024x477.webp"/> </a><br/>
-<a href="https://casavatra.ro/" rel="noopener" target="_blank"><br/>
-<img alt="" loading="lazy" src="https://visience.ro/wp-content/uploads/2024/01/casavatra-1024x472.webp"/> </a><br/>
-<a href="https://econatura.vincasoft.it/" rel="noopener" target="_blank"><br/>
-<img alt="" loading="lazy" src="https://visience.ro/wp-content/uploads/2024/01/ecologica-1-1024x514.webp"/> </a><br/>
-<a href="https://visience.ro/portofoliu/" rel="noopener" target="_blank"><br/>
- Vezi mai mult<br/>
-</a></p>
-<h2>Avantajele Digitalizării Afacerii Tale<br/>
-</h2>
-<h4>Eficientizarea Proceselor de Lucru</h4>
-<p>Prin digitalizarea proceselor interne, îți automatizezi sarcinile repetitive și economisești timp prețios. Uneltele noastre rapide și eficiente te ajută să optimizezi procesele specifice activității tale curente.</p>
-<h4>Progresul Companiei</h4>
-<p>Digitalizarea resurselor disponibile îți permite să dezvolți afacerea într-un mod eficient și structurat. Toate resursele sunt gestionate mai bine, ducând la un progres semnificativ al companiei tale.</p>
-<h4>Reducerea Costurilor</h4>
-<p>Automatizarea proceselor reduce substantial costurile operaționale ale firmei tale. Aceste economii pot fi reinvestite în alte aspecte importante ale afacerii, contribuind la creșterea profitabilității.</p>
-<h4>Accesibilitate</h4>
-<p>Cu soluțiile noastre digitale, ai acces la afacerea ta 24/7, de oriunde te-ai afla, necesitând doar o conexiune la internet. Acest control maxim îți permite să monitorizezi și să optimizezi activitatea firmei în timp real.</p>
-<h2>Cum Îți Îmbunătățim Afacerea prin Digitalizare</h2>
-<h4>Eficientizarea Costurilor</h4>
-<p>Digitalizarea îți permite să automatizezi procesele repetitive, economisind timp și energie. În loc să te ocupi de task-uri plictisitoare și consumatoare de timp, îți poți concentra eforturile pe activități strategice care contribuie direct la creșterea afacerii.</p>
-<h4>Accesibilitate Continuă</h4>
-<p>Ai acces la tot ce se întâmplă în afacerea ta 24/7, de oriunde te-ai afla. Monitorizezi și optimizezi operațiunile firmei tale în timp real, având astfel un control deplin asupra activității.</p>
-<h4>Colaborare Ușoară</h4>
-<p>Întreaga echipă poate accesa datele businessului, fiecare membru având nivelul său de acces. Aceasta facilitează colaborarea eficientă, indiferent dacă se lucrează de la birou sau de acasă.</p>
-<h4>Soluții Rapide și Eficiente</h4>
-<p>Adoptând digitalizarea, business-ul tău devine mai competitiv și profitabil. Soluțiile digitale îți permit să generezi rapid și eficient soluții, devansând concurența.</p>
-<h4>Centralizarea Datelor</h4>
-<p>Prin digitalizarea procedurilor, toate datele și informațiile afacerii tale sunt colectate și centralizate într-un singur loc. Aceasta facilitează analiza și interpretarea corectă a datelor, permițându-ți să iei decizii informate și să optimizezi activitatea firmei.</p>
-<h4>Economie de Timp</h4>
-<p>Automatizarea sarcinilor repetitive îți eliberează timpul pentru activități mai importante. Te poți concentra pe dezvoltarea afacerii, îmbunătățirea relațiilor cu clienții și planificarea strategiilor de creștere.</p>
-<h4>Privire de Ansamblu Asupra Activității</h4>
-<p>Soluțiile digitale moderne îți oferă o privire de ansamblu asupra întregii firme. Poți vizualiza într-un singur loc toate procesele firmei, de la intrări și ieșiri, la facturi și stocuri, optimizând astfel managementul afacerii.</p>
-<h3>Trece Digital acum</h3>
-<p>La Visience, ne angajăm să transformăm afacerea ta prin soluții digitale inovatoare și personalizate. Echipa noastră de experți îți va oferi tot suportul necesar pentru a implementa tehnologiile de vârf care să îmbunătățească procesele interne și să crească profitabilitatea afacerii tale. Contactează-ne astăzi pentru a începe transformarea digitală!</p>
-<h2>Ce înseamnă digitalizarea afacerii tale și cum îți organizezi business-ul în această direcție?<br/>
-</h2>
-<p><strong>Înțelegerea Digitalizării Afacerii Tale</strong></p>
-<p>Digitalizarea afacerii tale presupune mai mult decât trecerea documentelor în format digital. Este vorba despre transformarea completă a modului în care operezi și interacționezi cu clienții. La Visience, suntem aici să te ajutăm să faci această tranziție cât mai ușoară și eficientă.</p>
-<p><strong>Primii Pași în Digitalizare</strong></p>
-<p>În primă fază, digitalizarea afacerii poate însemna crearea unei arhive digitale. Astfel, elimini nevoia de a sta la cozi sau de a aștepta la ghișeu pentru formulare tipărite. Un alt beneficiu este eliminarea riscului de pierdere sau deteriorare a documentelor fizice.</p>
-<p>Imaginează-ți fazele cu xeroxul mare din filmele americane. Poziții precum poștașul companiei, cel care duce acte sau dosare de la un departament la altul, sunt deja de domeniul trecutului în companiile digitalizate. Digitalizarea devine un standard și în România, odată cu inițiativele Autorității pentru Digitalizarea României (ADR).</p>
-<p><strong>Digitalizarea în România</strong></p>
-<p>Digitalizarea a început să fie luată în serios și în România. Autoritatea pentru Digitalizarea României (ADR) a fost creată pentru a implementa și coordona aceste eforturi. Proiecte precum autorizatiiauto.ro, e-guvernare.ro și ghiseul.ro sunt doar câteva exemple de succes ale digitalizării administrației publice.</p>
-<p>Digitalizarea unei firme, din perspectiva de marketing, înseamnă integrarea tehnologiilor digitale în toate aspectele proceselor de marketing pentru a îmbunătăți eficiența, a spori interacțiunea cu clienții și a crește performanța generală a afacerii. Acest proces include mai multe componente cheie:</p>
-<ol>
-<li>
-<p><strong>Prezența Online</strong>:</p>
+20:T606,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/creste-profitabilitatea-afacerii-tale-prin-digitalizare/#article","headline":"Digitalizarea afacerii tale: ce înseamnă concret și cum crește profitul","description":"Ce înseamnă digitalizarea unei firme din România, dincolo de vorbe: website, SEO, reclame, CRM și automatizări. Exemple reale pe restaurante, imobiliare și servicii.","datePublished":"2024-07-06","dateModified":"2024-07-06","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/creste-profitabilitatea-afacerii-tale-prin-digitalizare/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Digitalizarea afacerii tale: ce înseamnă concret și cum crește profitul","item":"https://visience.ro/blog/creste-profitabilitatea-afacerii-tale-prin-digitalizare/"}]}]}21:T17c7,<p>„Digitalizare" a devenit unul dintre acele cuvinte pe care le auzi peste tot și nu-ți spune nimic concret. Hai să-l traducem: pentru o firmă mică sau medie din România, digitalizarea nu înseamnă să scanezi niște documente. Înseamnă să muți acolo unde te caută clienții — online — și să scapi de munca manuală care îți mănâncă orele: comenzi luate pe hârtie, stocuri numărate din cap, facturi făcute una câte una, clienți pierduți pentru că n-a răspuns nimeni la timp.</p>
+
+<p>Noi facem asta de peste zece ani, așa că în loc de teorie generală, îți spunem ce contează de fapt și cum arată în practică.</p>
+
+<h2>Am digitalizat firme care au accesat fonduri europene</h2>
+
+<p>O bună parte din proiectele noastre au pornit exact de aici: firme care au prins un proiect european de digitalizare și aveau nevoie de cineva care să transforme banii în ceva funcțional, nu doar într-un raport de decont. De la o platformă de cursuri online, la un producător de alimente naturale sau la afaceri din turism, am construit partea digitală cap-coadă — site, magazin, prezență online, automatizări.</p>
+
+<div class="proj-grid">
+  <a href="https://edu-net.academy/" target="_blank" rel="noopener"><img src="/media/digitalizare-edunet.avif" alt="Platformă de cursuri online edu-net.academy, digitalizată de Visience" width="1024" height="476" loading="lazy"></a>
+  <a href="https://im-ds.ro/" target="_blank" rel="noopener"><img src="/media/digitalizare-imds.avif" alt="Proiect de digitalizare im-ds.ro realizat de Visience" width="1024" height="477" loading="lazy"></a>
+  <a href="https://casavatra.ro/" target="_blank" rel="noopener"><img src="/media/digitalizare-casavatra.avif" alt="Site Casa Vatră, proiect de digitalizare Visience" width="1024" height="472" loading="lazy"></a>
+  <a href="https://econatura.vincasoft.it/" target="_blank" rel="noopener"><img src="/media/digitalizare-econatura.avif" alt="Magazin online de produse naturale econatura, realizat de Visience" width="1024" height="514" loading="lazy"></a>
+</div>
+
+<p>Dacă ai accesat sau vrei să accesezi un astfel de proiect, e important să știi: fondul e doar începutul. Contează enorm ce construiești cu el, pentru că un site sau un sistem prost făcut e un cost, nu o investiție. <a href="/portofoliu/">Vezi mai multe proiecte livrate</a>.</p>
+
+<h2>Ce înseamnă concret să-ți digitalizezi firma</h2>
+
+<p>Din perspectiva noastră, de marketing și vânzări, digitalizarea unei firme se sprijină pe câteva piese care lucrează împreună:</p>
+
 <ul>
-<li><strong>Website-ul</strong>: Crearea unui website profesionist care să fie optimizat pentru dispozitive mobile și să ofere o experiență de utilizare excelentă.</li>
-<li><strong>SEO (Optimizarea pentru motoarele de căutare)</strong>: Implementarea tehnicilor SEO pentru a crește vizibilitatea site-ului în motoarele de căutare.</li>
-<li><strong>Content Marketing</strong>: Crearea și distribuirea de conținut valoros pentru a atrage și angaja audiența țintă.</li>
+<li><strong>Un website care chiar vinde</strong> — rapid pe mobil (de acolo vine majoritatea traficului), cu prețuri sau oferte clare și un formular la care chiar răspunde cineva. Baza. Restul se sprijină pe el.</li>
+<li><strong>Vizibilitate: SEO și reclame</strong> — SEO ca să apari în Google pe termen lung, plus campanii Google și Meta când vrei clienți acum. <a href="/optimizare-seo/">Partea de SEO</a> aduce trafic care nu se oprește când oprești bugetul.</li>
+<li><strong>Un loc unde ții clienții (CRM)</strong> — o listă centralizată cu cine te-a contactat, în ce stadiu e discuția și când trebuie sunat înapoi. Fără asta, pierzi vânzări pur și simplu pentru că uiți de oameni.</li>
+<li><strong>Automatizări</strong> — de la e-mailul de confirmare a comenzii, la newsletter și notificarea vânzătorului pe WhatsApp când vine un lead. Lucruri care se întâmplă singure, ca tu să te ocupi de altceva.</li>
+<li><strong>Magazin online, dacă vinzi produse</strong> — cu plata cu cardul și stocul legat de vânzări, ca să nu vinzi ce nu mai ai.</li>
 </ul>
-</li>
-<li>
-<p><strong>Marketing pe Rețelele Sociale</strong>:</p>
-<ul>
-<li><strong>Platforme Sociale</strong>: Utilizarea platformelor sociale (Facebook, Instagram, LinkedIn, etc.) pentru a construi și menține relații cu clienții și pentru a promova produsele sau serviciile.</li>
-<li><strong>Publicitate Social Media</strong>: Crearea de campanii de publicitate targetate pe rețelele sociale pentru a ajunge la un public specific.</li>
-</ul>
-</li>
-<li>
-<p><strong>Publicitate Digitală</strong>:</p>
-<ul>
-<li><strong>Google Ads</strong>: Utilizarea Google Ads pentru a crea campanii de publicitate plătite care să apară în rezultatele de căutare și pe alte site-uri.</li>
-<li><strong>Display Advertising</strong>: Utilizarea anunțurilor grafice pe site-uri relevante pentru a atrage atenția potențialilor clienți.</li>
-</ul>
-</li>
-<li>
-<p><strong>Email Marketing</strong>:</p>
-<ul>
-<li><strong>Automatizare</strong>: Implementarea sistemelor de automatizare a emailurilor pentru a trimite mesaje personalizate la momente oportune.</li>
-<li><strong>Segmentare</strong>: Segmentarea bazei de date de clienți pentru a trimite mesaje relevante pentru fiecare grup de utilizatori.</li>
-</ul>
-</li>
-<li>
-<p><strong>Analitică și Date</strong>:</p>
-<ul>
-<li><strong>Google Analytics</strong>: Utilizarea Google Analytics și a altor instrumente de analiză pentru a monitoriza performanța site-ului și a campaniilor de marketing.</li>
-<li><strong>Data-Driven Marketing</strong>: Folosirea datelor pentru a lua decizii informate și pentru a optimiza strategiile de marketing.</li>
-</ul>
-</li>
-<li>
-<p><strong>CRM (Customer Relationship Management)</strong>:</p>
-<ul>
-<li><strong>Sisteme CRM</strong>: Implementarea unor sisteme CRM pentru a gestiona și analiza interacțiunile cu clienții și pentru a îmbunătăți relațiile cu aceștia.</li>
-<li><strong>Automatizarea Vânzărilor</strong>: Utilizarea instrumentelor de automatizare a vânzărilor pentru a eficientiza procesele și a crește rata de conversie.</li>
-</ul>
-</li>
-<li>
-<p><strong>E-commerce</strong>:</p>
-<ul>
-<li><strong>Magazine Online</strong>: Crearea și gestionarea unui magazin online pentru a vinde produsele direct consumatorilor.</li>
-<li><strong>Platforme de Marketplaces</strong>: Utilizarea platformelor de tip marketplace (cum ar fi Amazon sau eBay) pentru a extinde canalele de vânzare.</li>
-</ul>
-</li>
-<li>
-<p><strong>Experiența Utilizatorului (UX)</strong>:</p>
-<ul>
-<li><strong>Design UX/UI</strong>: Optimizarea experienței utilizatorului printr-un design intuitiv și ușor de utilizat.</li>
-<li><strong>Personalizare</strong>: Personalizarea interacțiunilor digitale pe baza comportamentului și preferințelor utilizatorilor.</li>
-</ul>
-</li>
-</ol>
-<p>Prin digitalizarea firmei, companiile pot atinge un public mai larg, pot personaliza experiențele clienților, pot măsura și analiza eficient rezultatele campaniilor de marketing și pot îmbunătăți constant strategiile pentru a se adapta la schimbările din piață.</p>
-<h2>Exemple digitalizare</h2>
-<h3>Restaurante</h3>
-<ol>
-<li>
-<p><strong>Sisteme de Comandă Online</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Crearea unei platforme de comandă online integrată pe site-ul restaurantului sau utilizarea unor platforme terțe precum UberEats, DoorDash, Glovo.</li>
-<li><strong>Beneficii</strong>: Crește accesibilitatea, atrage noi clienți și oferă o opțiune convenabilă pentru clienți.</li>
-</ul>
-</li>
-<li>
-<p><strong>Rezervări Online</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Utilizarea unor platforme de rezervări precum OpenTable, Resy sau integrarea unui sistem de rezervări propriu pe website.</li>
-<li><strong>Beneficii</strong>: Simplifică procesul de rezervare pentru clienți și îmbunătățește gestionarea capacității.</li>
-</ul>
-</li>
-<li>
-<p><strong>Automatizarea Proceselor de Bucătărie</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Utilizarea software-urilor de gestionare a comenzilor pentru a coordona mai bine activitatea în bucătărie.</li>
-<li><strong>Beneficii</strong>: Reduce erorile și timpul de așteptare, îmbunătățind eficiența operațională.</li>
-</ul>
-</li>
-<li>
-<p><strong>Programe de Fidelizare Digitalizate</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Crearea unei aplicații mobile care să ofere puncte de fidelitate, reduceri și oferte speciale.</li>
-<li><strong>Beneficii</strong>: Încurajează revenirea clienților și îmbunătățește loialitatea acestora.</li>
-</ul>
-</li>
-</ol>
-<h3>Cofetării</h3>
-<ol>
-<li>
-<p><strong>Catalog Online cu Comenzi Personalizate</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Crearea unui catalog online cu posibilitatea de a comanda torturi și prăjituri personalizate.</li>
-<li><strong>Beneficii</strong>: Permite clienților să vizualizeze și să comande produsele preferate cu ușurință.</li>
-</ul>
-</li>
-<li>
-<p><strong>Marketing prin Email</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Colectarea adreselor de email ale clienților și trimiterea de newslettere periodice cu oferte speciale și noutăți.</li>
-<li><strong>Beneficii</strong>: Crește gradul de implicare al clienților și promovează produsele noi.</li>
-</ul>
-</li>
-<li>
-<p><strong>Automatizarea Gestionării Stocurilor</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Utilizarea unui software de gestionare a stocurilor pentru a monitoriza și optimiza inventarul.</li>
-<li><strong>Beneficii</strong>: Reduce pierderile și asigură disponibilitatea produselor necesare.</li>
-</ul>
-</li>
-<li>
-<p><strong>Sisteme de Plată Digitalizate</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Integrarea opțiunilor de plată contactless și online prin aplicații mobile sau site.</li>
-<li><strong>Beneficii</strong>: Oferă o experiență de plată rapidă și convenabilă pentru clienți.</li>
-</ul>
-</li>
-</ol>
-<h3>Cafenele</h3>
-<ol>
-<li>
-<p><strong>Aplicații de Fidelizare și Comenzi Mobile</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Dezvoltarea unei aplicații mobile care să permită clienților să comande înainte de a ajunge la cafenea și să acumuleze puncte de fidelitate.</li>
-<li><strong>Beneficii</strong>: Îmbunătățește eficiența și experiența clientului, încurajând loialitatea.</li>
-</ul>
-</li>
-<li>
-<p><strong>Automatizarea Gestionării Inventarului</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Utilizarea unui sistem de gestionare a inventarului pentru a urmări stocurile și a automatiza reaprovizionarea.</li>
-<li><strong>Beneficii</strong>: Optimizează costurile și asigură disponibilitatea produselor.</li>
-</ul>
-</li>
-<li>
-<p><strong>Feedback Digitalizat</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Implementarea unui sistem de feedback digital prin QR code-uri pe mese sau prin email.</li>
-<li><strong>Beneficii</strong>: Colectează feedback-ul clienților în timp real și permite îmbunătățirea serviciilor.</li>
-</ul>
-</li>
-<li>
-<p><strong>Meniuri Digitale</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Utilizarea meniurilor digitale afișate pe tablete sau prin QR code-uri pentru a reduce contactul fizic.</li>
-<li><strong>Beneficii</strong>: Permite actualizarea rapidă a meniurilor și oferă o experiență modernă.</li>
-</ul>
-</li>
-</ol>
-<h3>Agenții Imobiliare</h3>
-<ol>
-<li>
-<p><strong>Vizualizări Virtuale</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Crearea tururilor virtuale pentru proprietăți folosind tehnologia 3D și realitatea virtuală.</li>
-<li><strong>Beneficii</strong>: Permite clienților să vizualizeze proprietățile de la distanță, economisind timp și crescând interesul.</li>
-</ul>
-</li>
-<li>
-<p><strong>CRM pentru Gestionarea Clienților</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Utilizarea unui sistem CRM pentru a gestiona relațiile cu clienții și pentru a urmări interacțiunile și tranzacțiile.</li>
-<li><strong>Beneficii</strong>: Îmbunătățește organizarea și eficiența, permițând personalizarea comunicării cu clienții.</li>
-</ul>
-</li>
-<li>
-<p><strong>Automatizarea Marketingului</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Utilizarea instrumentelor de automatizare a marketingului pentru a trimite emailuri personalizate, anunțuri și campanii publicitare targetate.</li>
-<li><strong>Beneficii</strong>: Crește eficiența campaniilor de marketing și îmbunătățește rata de conversie.</li>
-</ul>
-</li>
-<li>
-<p><strong>Portaluri de Proprietăți</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Listarea proprietăților pe portaluri imobiliare precum Zillow, Realtor.com sau site-uri locale.</li>
-<li><strong>Beneficii</strong>: Extinde acoperirea și vizibilitatea proprietăților oferite.</li>
-</ul>
-</li>
-<li>
-<p><strong>Sisteme de Programare Online</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Implementarea unui sistem de programare online pentru vizionări de proprietăți.</li>
-<li><strong>Beneficii</strong>: Simplifică programările și îmbunătățește eficiența agenților imobiliari.</li>
-</ul>
-</li>
-</ol>
-<h3>Firme de Construcții</h3>
-<ol>
-<li>
-<p><strong>Software de Gestionare a Proiectelor</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Utilizarea software-urilor precum Procore, Buildertrend sau CoConstruct pentru gestionarea proiectelor.</li>
-<li><strong>Beneficii</strong>: Îmbunătățește coordonarea echipelor, monitorizează progresul și bugetul proiectelor și asigură conformitatea cu planurile și standardele.</li>
-</ul>
-</li>
-<li>
-<p><strong>Modelare Informațională a Clădirilor (BIM)</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Adoptarea tehnologiei BIM pentru proiectarea și gestionarea proiectelor de construcție.</li>
-<li><strong>Beneficii</strong>: Permite vizualizarea detaliată a proiectelor înainte de construcție, reducând erorile și costurile suplimentare.</li>
-</ul>
-</li>
-<li>
-<p><strong>Dronă pentru Inspecții și Supraveghere</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Utilizarea dronelor pentru a monitoriza și inspecta șantierele de construcție.</li>
-<li><strong>Beneficii</strong>: Oferă o vizualizare detaliată și actualizată a progresului proiectului, îmbunătățind siguranța și eficiența.</li>
-</ul>
-</li>
-<li>
-<p><strong>Sisteme de Gestionare a Documentelor</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Implementarea unui sistem digital pentru stocarea și gestionarea documentelor importante, cum ar fi planurile de construcție, permisele și contractele.</li>
-<li><strong>Beneficii</strong>: Simplifică accesul la informații și asigură că toți membrii echipei lucrează cu documentele corecte și actualizate.</li>
-</ul>
-</li>
-</ol>
-<h3>Alte Exemple de Firme</h3>
-<h3>Firme de Contabilitate</h3>
-<ol>
-<li>
-<p><strong>Software de Contabilitate</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Utilizarea unor platforme precum QuickBooks, Xero sau FreshBooks.</li>
-<li><strong>Beneficii</strong>: Automatizează procesele de facturare, reconciliere bancară și gestionare a cheltuielilor.</li>
-</ul>
-</li>
-<li>
-<p><strong>Automatizarea Rapoartelor Financiare</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Utilizarea software-urilor de analiză financiară pentru a genera rapoarte detaliate.</li>
-<li><strong>Beneficii</strong>: Reduce timpul petrecut pentru generarea rapoartelor și îmbunătățește acuratețea datelor.</li>
-</ul>
-</li>
-<li>
-<p><strong>Platforme de Colaborare cu Clienții</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Utilizarea unor platforme online pentru comunicarea și schimbul de documente cu clienții.</li>
-<li><strong>Beneficii</strong>: Îmbunătățește comunicarea și oferă transparență clienților în legătură cu serviciile oferite.</li>
-</ul>
-</li>
-</ol>
-<h3>Firme de Consultanță</h3>
-<ol>
-<li>
-<p><strong>CRM pentru Gestionarea Relațiilor cu Clienții</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Utilizarea unui CRM precum Salesforce sau HubSpot.</li>
-<li><strong>Beneficii</strong>: Organizează informațiile despre clienți și îmbunătățește comunicarea și personalizarea serviciilor.</li>
-</ul>
-</li>
-<li>
-<p><strong>Platforme de Videoconferință</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Utilizarea unor platforme precum Zoom sau Microsoft Teams pentru întâlniri virtuale.</li>
-<li><strong>Beneficii</strong>: Facilitează comunicarea cu clienții și echipele indiferent de locație.</li>
-</ul>
-</li>
-<li>
-<p><strong>Automatizarea Marketingului</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Utilizarea instrumentelor de automatizare a marketingului pentru a trimite emailuri personalizate și campanii de publicitate.</li>
-<li><strong>Beneficii</strong>: Crește eficiența campaniilor de marketing și atrage noi clienți.</li>
-</ul>
-</li>
-</ol>
-<h3>Firme de Logistică și Transport</h3>
-<ol>
-<li>
-<p><strong>Sisteme de Management al Transportului (TMS)</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Utilizarea unui TMS pentru a gestiona rutele, încărcăturile și livrările.</li>
-<li><strong>Beneficii</strong>: Optimizează rutele și îmbunătățește eficiența operațională, reducând costurile și timpii de livrare.</li>
-</ul>
-</li>
-<li>
-<p><strong>Tehnologia GPS și Telematica</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Instalarea dispozitivelor GPS și a sistemelor telematice pe flota de vehicule.</li>
-<li><strong>Beneficii</strong>: Monitorizează în timp real locația și performanța vehiculelor, îmbunătățind siguranța și eficiența.</li>
-</ul>
-</li>
-<li>
-<p><strong>Automatizarea Gestionării Depozitelor</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Utilizarea unui sistem WMS (Warehouse Management System) pentru a automatiza procesele de gestionare a depozitelor.</li>
-<li><strong>Beneficii</strong>: Îmbunătățește acuratețea inventarului și eficiența operațiunilor din depozit.</li>
-</ul>
-</li>
-</ol>
-<h3>Firme de Retail</h3>
-<ol>
-<li>
-<p><strong>Sisteme POS Moderne</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Utilizarea unui sistem POS (Point of Sale) modern, precum Square sau Shopify POS.</li>
-<li><strong>Beneficii</strong>: Îmbunătățește experiența de cumpărare și eficiența proceselor de vânzare.</li>
-</ul>
-</li>
-<li>
-<p><strong>E-commerce</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Crearea unui magazin online și integrarea acestuia cu sistemele de gestionare a inventarului.</li>
-<li><strong>Beneficii</strong>: Extinde piața și oferă clienților posibilitatea de a cumpăra online.</li>
-</ul>
-</li>
-<li>
-<p><strong>Marketing Omnicanal</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Integrarea strategiilor de marketing pe mai multe canale, inclusiv online și offline.</li>
-<li><strong>Beneficii</strong>: Crește implicarea clienților și îmbunătățește coerența brandului.</li>
-</ul>
-</li>
-</ol>
-<h3>Firme de Educație și Training</h3>
-<ol>
-<li>
-<p><strong>Platforme de E-learning</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Utilizarea unor platforme precum Moodle, Blackboard sau Google Classroom pentru a oferi cursuri online.</li>
-<li><strong>Beneficii</strong>: Permite accesul la educație la distanță și îmbunătățește flexibilitatea învățării.</li>
-</ul>
-</li>
-<li>
-<p><strong>Webinarii și Cursuri Online Live</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Organizarea de webinarii și sesiuni de training live folosind Zoom sau Microsoft Teams.</li>
-<li><strong>Beneficii</strong>: Oferă interacțiune în timp real și oportunități de învățare interactive.</li>
-</ul>
-</li>
-<li>
-<p><strong>Sisteme de Gestionare a Cursanților (LMS)</strong>:</p>
-<ul>
-<li><strong>Implementare</strong>: Utilizarea unui LMS pentru a gestiona înscrierile, progresul și evaluările cursanților.</li>
-<li><strong>Beneficii</strong>: Îmbunătățește organizarea și eficiența administrativă a programelor de formare.</li>
-</ul>
-</li>
-</ol>
-<h4>Nu îți place să completezi formulare? Ne poţi contacta la acest număr, cel mai bine răspundem pe Whatsapp: </h4>
-<h3>
-<a><br/>
- +40771486499 </a><br/>
-</h3>
-<h4>Sau lasă-ne numărul tău de telefon / adresa de email şi te contactăm noi:</h4>17:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$20"}}],["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Crește Profitabilitatea Afacerii Tale prin Digitalizare"}],["$","div",null,{"className":"blog-article__meta","children":[["$","time",null,{"dateTime":"2024-07-06","children":"6 iulie 2024"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$21"}}],"$L22","$L23"]}]}]]
+
+<h2>Cum arată în practică, pe câteva domenii</h2>
+
+<p>Ca să nu rămână în abstract, iată ce schimbă digitalizarea în trei tipuri de afaceri pe care le vedem des în România:</p>
+
+<h3>Restaurant sau cafenea</h3>
+<p>Meniu prin cod QR pe masă (îl actualizezi într-un minut, fără să retipărești nimic), comenzi la pachet prin Glovo, Tazz și Bolt Food plus un buton de comandă direct pe site (ca să nu dai tot comisionul platformelor), și un program simplu de fidelizare. Efectul real: mai puține erori la comenzi și clienți care revin.</p>
+
+<h3>Agenție sau dezvoltator imobiliar</h3>
+<p>Site cu pagini pe fiecare proprietate și tur virtual, listări sincronizate pe Imobiliare.ro și Storia, și un CRM care ține fiecare lead „cald" până semnează. Un apartament nu se cumpără într-o zi — cine nu urmărește lead-ul pierde vânzarea la altcineva.</p>
+
+<h3>Firmă de servicii (instalații, foraje, reparații)</h3>
+<p>Aici digitalizarea înseamnă adesea lucruri simple care aduc bani: să apari în Google când cineva caută serviciul tău în zonă, un profil Google Business cu recenzii, și un buton de sunat direct din reclamă. Omul cu o problemă urgentă sună primul număr care inspiră încredere — grija e să fii tu acela.</p>
+
+<h2>Ce câștigi, de fapt</h2>
+
+<p>Dincolo de „ești modern", digitalizarea corect făcută îți dă lucruri măsurabile: <strong>timp</strong> (automatizezi ce faceai manual), <strong>mai puține greșeli</strong> (datele stau într-un singur loc, nu în cinci caiete), <strong>decizii mai bune</strong> (vezi în cifre ce merge și ce nu, în loc să ghicești) și, la capătul lor, <strong>mai mult profit</strong> — pentru că prinzi clienți pe care înainte îi pierdeai și tai costuri pe care înainte nici nu le vedeai.</p>
+
+<p>Nu trebuie să le faci pe toate deodată. De obicei începem cu piesa care aduce cel mai repede rezultat pentru afacerea ta, apoi construim în jurul ei.</p>
+
+<div class="case-cta">
+  <p><strong>Vrei să-ți digitalizezi firma, dar nu știi de unde să începi?</strong> Ne spui ce faci și îți zicem, direct, ce ți-ar aduce cel mai mult — fără să te încărcăm cu ce nu-ți trebuie. Răspundem repede, cel mai bine pe WhatsApp.</p>
+  <a href="https://wa.me/40771486499" target="_blank" rel="noopener" class="btn btn-solid">Scrie-ne pe WhatsApp →</a>
+</div>
+17:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$20"}}],["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Digitalizarea afacerii tale: ce înseamnă concret și cum crește profitul"}],["$","div",null,{"className":"blog-article__meta","children":[["$","time",null,{"dateTime":"2024-07-06","children":"6 iulie 2024"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$21"}}],"$L22","$L23"]}]}]]
 22:["$","div",null,{"className":"blog-author","children":[["$","span",null,{"className":"blog-author__ava","aria-hidden":"true","children":"V"}],["$","div",null,{"className":"blog-author__body","children":[["$","span",null,{"className":"blog-author__name","children":"Vlad Roman"}],["$","span",null,{"className":"blog-author__role","children":["Fondator Visience · ",["$","a",null,{"href":"https://www.linkedin.com/in/roman-vladut-constantin/","target":"_blank","rel":"noopener","className":"blog-author__link","children":"LinkedIn ↗"}]]}],["$","p",null,{"className":"blog-author__bio","children":"Conduce Visience, agenția de web design și marketing digital din Iași. Scrie despre creare de site-uri, SEO și cum își cresc afacerile mici și mijlocii prezența online."}]]}]]}]
 23:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
 1d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#FFFFFF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#111114","media":"(prefers-color-scheme: dark)"}]]
 24:I[27201,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"IconMark"]
 1a:null
-1f:[["$","title","0",{"children":"Crește Profitabilitatea Afacerii Tale prin Digitalizare | Visience"}],["$","meta","1",{"name":"description","content":"Descoperă cum digitalizarea afacerii tale poate crește profitabilitatea și eficiența operațională. Oferim soluții complete de automatizare și optimizare a pro"}],["$","link","2",{"rel":"canonical","href":"https://visience.ro/blog/creste-profitabilitatea-afacerii-tale-prin-digitalizare/"}],["$","meta","3",{"property":"og:title","content":"Crește Profitabilitatea Afacerii Tale prin Digitalizare"}],["$","meta","4",{"property":"og:description","content":"Descoperă cum digitalizarea afacerii tale poate crește profitabilitatea și eficiența operațională. Oferim soluții complete de automatizare și optimizare a pro"}],["$","meta","5",{"property":"og:url","content":"https://visience.ro/blog/creste-profitabilitatea-afacerii-tale-prin-digitalizare/"}],["$","meta","6",{"property":"og:locale","content":"ro_RO"}],["$","meta","7",{"property":"og:image","content":"https://visience.ro/media/og-visience.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Visience — agenție de marketing & creare site-uri în Iași"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2024-07-06"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Crește Profitabilitatea Afacerii Tale prin Digitalizare"}],["$","meta","15",{"name":"twitter:description","content":"Descoperă cum digitalizarea afacerii tale poate crește profitabilitatea și eficiența operațională. Oferim soluții complete de automatizare și optimizare a pro"}],["$","meta","16",{"name":"twitter:image","content":"https://visience.ro/media/og-visience.jpg"}],["$","link","17",{"rel":"icon","href":"/favicon.ico?favicon.04nd99rd6ooix.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","18",{"rel":"icon","href":"/icon.png?icon.3v2r-pcu8x6vx.png","sizes":"192x192","type":"image/png"}],["$","link","19",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2y52blaubq-q-.png","sizes":"180x180","type":"image/png"}],["$","$L24","20",{}]]
+1f:[["$","title","0",{"children":"Digitalizarea afacerii tale: ce înseamnă concret și cum crește profitul | Visience"}],["$","meta","1",{"name":"description","content":"Ce înseamnă digitalizarea unei firme din România, dincolo de vorbe: website, SEO, reclame, CRM și automatizări. Exemple reale pe restaurante, imobiliare și servicii."}],["$","link","2",{"rel":"canonical","href":"https://visience.ro/blog/creste-profitabilitatea-afacerii-tale-prin-digitalizare/"}],["$","meta","3",{"property":"og:title","content":"Digitalizarea afacerii tale: ce înseamnă concret și cum crește profitul"}],["$","meta","4",{"property":"og:description","content":"Ce înseamnă digitalizarea unei firme din România, dincolo de vorbe: website, SEO, reclame, CRM și automatizări. Exemple reale pe restaurante, imobiliare și servicii."}],["$","meta","5",{"property":"og:url","content":"https://visience.ro/blog/creste-profitabilitatea-afacerii-tale-prin-digitalizare/"}],["$","meta","6",{"property":"og:locale","content":"ro_RO"}],["$","meta","7",{"property":"og:image","content":"https://visience.ro/media/og-visience.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Visience — agenție de marketing & creare site-uri în Iași"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2024-07-06"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Digitalizarea afacerii tale: ce înseamnă concret și cum crește profitul"}],["$","meta","15",{"name":"twitter:description","content":"Ce înseamnă digitalizarea unei firme din România, dincolo de vorbe: website, SEO, reclame, CRM și automatizări. Exemple reale pe restaurante, imobiliare și servicii."}],["$","meta","16",{"name":"twitter:image","content":"https://visience.ro/media/og-visience.jpg"}],["$","link","17",{"rel":"icon","href":"/favicon.ico?favicon.04nd99rd6ooix.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","18",{"rel":"icon","href":"/icon.png?icon.3v2r-pcu8x6vx.png","sizes":"192x192","type":"image/png"}],["$","link","19",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2y52blaubq-q-.png","sizes":"180x180","type":"image/png"}],["$","$L24","20",{}]]
