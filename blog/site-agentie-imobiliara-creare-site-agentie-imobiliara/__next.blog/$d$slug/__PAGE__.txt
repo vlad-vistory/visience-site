@@ -2,47 +2,32 @@
 8:I[97367,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 9:"$Sreact.suspense"
 :HL["/_next/static/chunks/08fx3jc3xhbnb.css","style"]
-2:T5dc,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/site-agentie-imobiliara-creare-site-agentie-imobiliara/#article","headline":"Site agenție imobiliară – Creare site Agenție Imobiliară","description":"Va oferim solutii profesioniste de web design concepute special pentru agentii imobiliare Fiecare site este personalizat pentru a raspunde cat mai bine solici","datePublished":"2023-06-16","dateModified":"2023-06-16","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/site-agentie-imobiliara-creare-site-agentie-imobiliara/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Site agenție imobiliară – Creare site Agenție Imobiliară","item":"https://visience.ro/blog/site-agentie-imobiliara-creare-site-agentie-imobiliara/"}]}]}3:Te13,<p><img alt="" loading="lazy" src="https://visience.ro/wp-content/uploads/2023/06/real-estate-1024x684.webp"/> </p>
-<h2>Vă oferim soluții profesioniste de web design concepute special pentru agenții imobiliare<br/>
-</h2>
-<p>Fiecare site este personalizat pentru a răspunde cât mai bine solicitărilor agenției imobiliare. Administrarea site-urilor concepute de noi pentru agenții imobiliare se face ușor, fără a fi necesare cunoștințe în domeniu web-design. Interfață zonei de administrare a siteului agenției dumneavoastră este în limba română, modificarea ofertelor imobiliare poate fi realizată de către orice persoană din firma. Agenții sau brokerii din agenția dumneavoastră imobiliară pot face cu ușurință operațiile de adăugare, ștergere sau modificare a ofertelor în site-ul imobiliar. În acest fel agenția imobiliară nu mai este nevoită să apeleze la o firma specializată de web design de fiecare dată când ofertele din siteul agenției necesită modificări.</p>
-<p><strong>Pentru creare siteuri agenții imobiliare încercăm să menținem cele mai scăzute prețuri de pe piață</strong></p>
-<h4>De ce să ne alegi?</h4>
-<h4>Suntem firma potrivită pentru afacerea ta. Avem expertiza și cunoștințele necesare pentru a oferi sfaturi și servicii la un preț onest.</h4>
-<h3>Clienții noștri</h3>
+2:T5e6,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/site-agentie-imobiliara-creare-site-agentie-imobiliara/#article","headline":"Creare site pentru agenție imobiliară: oferte gestionate ușor","description":"Un site de agenție imobiliară trebuie să-ți lase ofertele în control: administrare simplă, filtre, pagini de proprietate care conving și captare de lead-uri.","datePublished":"2023-06-16","dateModified":"2023-06-16","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/site-agentie-imobiliara-creare-site-agentie-imobiliara/"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Creare site pentru agenție imobiliară: oferte gestionate ușor","item":"https://visience.ro/blog/site-agentie-imobiliara-creare-site-agentie-imobiliara/"}]}]}3:Ta59,<p>Pentru o agenție imobiliară, site-ul e vitrina în care oamenii se plimbă printre proprietăți înainte să sune. Dar spre deosebire de un site obișnuit, aici conținutul se schimbă zilnic — apar oferte, se vând, se modifică prețuri. De aceea, un site de agenție are o cerință aparte: să poți administra ofertele singur, ușor, fără să suni la o firmă de web design de fiecare dată.</p>
+
+<h2>Ofertele, gestionate de tine, în română</h2>
+
+<p>Cea mai importantă piesă e panoul de administrare simplu: orice agent sau broker din echipă adaugă, modifică sau șterge o proprietate în câteva minute, fără cunoștințe tehnice. Fiecare ofertă cu poze, plan, preț, suprafață, dotări și localizare. Când o proprietate se vinde, o scoți; când apare una nouă, o urci. Site-ul rămâne mereu la zi, fără să depinzi de altcineva.</p>
+
+<h2>Ce mai face un site de agenție să vândă</h2>
+
 <ul>
-<li>All</li>
-<li>Waste disposal</li>
-<li>EDU</li>
-<li>Tech</li>
-<li>Fashion &amp; Beauty</li>
-<li>Auto Moto</li>
-<li>Food Industry</li>
-<li>Web Hosting</li>
-<li>Business</li>
-<li>Art</li>
-<li>Shop</li>
+<li><strong>Căutare și filtre</strong> — pe zonă, preț, număr de camere, tip. Cumpărătorul ajunge repede la ce-l interesează, nu răsfoiește la nesfârșit.</li>
+<li><strong>Pagini de proprietate convingătoare</strong> — galerie generoasă, hartă, eventual tur virtual. Cu cât vede mai bine, cu atât sună mai hotărât.</li>
+<li><strong>Captarea lead-ului</strong> — formular și buton de contact pe fiecare ofertă, plus WhatsApp. Un apartament nu se cumpără într-o zi; cine prinde lead-ul și ține legătura câștigă vânzarea.</li>
+<li><strong>Legătura cu portalurile</strong> — coordonare cu Imobiliare.ro și Storia, ca site-ul propriu și listările să lucreze împreună, nu separat.</li>
 </ul>
-<p> <a href="https://wts.srl/" rel="noopener" target="_blank"><img alt="" loading="lazy" src="https://visience.ro/wp-content/uploads/2024/01/Screenshot_6-removebg-preview.webp"/></a><br/>
-<a href="https://rumpel-m-info.de/" rel="noopener" target="_blank"><img alt="" loading="lazy" src="https://visience.ro/wp-content/uploads/2024/01/logo-rumpel.webp"/></a><br/>
-<a href="https://bsp.srl/" rel="noopener" target="_blank"><img alt="" loading="lazy" src="https://visience.ro/wp-content/uploads/2024/01/Screenshot_5-removebg-preview.webp"/></a><br/>
-<a href="https://econatura.vincasoft.it/" rel="noopener" target="_blank"><img alt="" loading="lazy" src="https://visience.ro/wp-content/uploads/2024/01/ecologica-2000-logo-nero-visience.webp"/></a><br/>
-<a href="https://alyyabeauty.com/" rel="noopener" target="_blank"><img alt="" loading="lazy" src="https://visience.ro/wp-content/uploads/2023/06/allyabeauty-visience-marketing-branding-creare-site-logo-.webp"/></a><br/>
-<a href="https://dqdesign.co.th/" rel="noopener" target="_blank"><img alt="" loading="lazy" src="https://visience.ro/wp-content/uploads/2023/06/dq-design.webp"/></a><br/>
-<a><br/>
- Load More<br/>
-</a><br/>
-<a href="https://edu-net.academy/" rel="noopener" target="_blank"><br/>
-<img alt="" loading="lazy" src="https://visience.ro/wp-content/uploads/2024/01/edu-net-academy-1024x476.webp"/> </a><br/>
-<a href="https://im-ds.ro/" rel="noopener" target="_blank"><br/>
-<img alt="" loading="lazy" src="https://visience.ro/wp-content/uploads/2024/01/im-ds-1024x477.webp"/> </a><br/>
-<a href="https://casavatra.ro/" rel="noopener" target="_blank"><br/>
-<img alt="" loading="lazy" src="https://visience.ro/wp-content/uploads/2024/01/casavatra-1024x472.webp"/> </a><br/>
-<a href="https://econatura.vincasoft.it/" rel="noopener" target="_blank"><br/>
-<img alt="" loading="lazy" src="https://visience.ro/wp-content/uploads/2024/01/ecologica-1-1024x514.webp"/> </a><br/>
-<a href="https://visience.ro/portofoliu/" rel="noopener" target="_blank"><br/>
- Vezi mai mult<br/>
-</a></p>0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Site agenție imobiliară – Creare site Agenție Imobiliară"}],["$","div",null,{"className":"blog-article__meta","children":[["$","time",null,{"dateTime":"2023-06-16","children":"16 iunie 2023"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"nq4LLtJVRLcBl0UhqABNs"}
+
+<h2>Rapid și impecabil pe telefon</h2>
+
+<p>Oamenii caută proprietăți de pe telefon, seara, pe canapea. Un site lent sau greu de folosit pe mobil pierde cumpărători către prima agenție care se încarcă repede. Viteza și claritatea pe mobil sunt esențiale aici.</p>
+
+<p>Construim site-uri pentru agenții imobiliare — cu administrare ușoară a ofertelor, filtre, pagini de proprietate care conving și captare de lead-uri. Dacă ești <strong>dezvoltator</strong>, nu agenție, avem o pagină separată despre <a href="/marketing-dezvoltatori-imobiliari/">marketing pentru dezvoltatori imobiliari</a>.</p>
+
+<div class="case-cta">
+  <p><strong>Ai o agenție imobiliară și vrei un site pe care-l administrezi singur?</strong> Spune-ne cum lucrați — îți facem un site cu ofertele ușor de gestionat și cumpărători care te contactează.</p>
+  <a href="https://wa.me/40771486499" target="_blank" rel="noopener" class="btn btn-solid">Scrie-ne pe WhatsApp →</a>
+</div>
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Creare site pentru agenție imobiliară: oferte gestionate ușor"}],["$","div",null,{"className":"blog-article__meta","children":[["$","time",null,{"dateTime":"2023-06-16","children":"16 iunie 2023"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5"]}]}]],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vuH2VAGoiPrKgJIApfLai"}
 4:["$","div",null,{"className":"blog-author","children":[["$","span",null,{"className":"blog-author__ava","aria-hidden":"true","children":"V"}],["$","div",null,{"className":"blog-author__body","children":[["$","span",null,{"className":"blog-author__name","children":"Vlad Roman"}],["$","span",null,{"className":"blog-author__role","children":["Fondator Visience · ",["$","a",null,{"href":"https://www.linkedin.com/in/roman-vladut-constantin/","target":"_blank","rel":"noopener","className":"blog-author__link","children":"LinkedIn ↗"}]]}],["$","p",null,{"className":"blog-author__bio","children":"Conduce Visience, agenția de web design și marketing digital din Iași. Scrie despre creare de site-uri, SEO și cum își cresc afacerile mici și mijlocii prezența online."}]]}]]}]
 5:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
 6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/08fx3jc3xhbnb.css","precedence":"next"}]

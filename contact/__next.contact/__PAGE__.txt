@@ -601,6 +601,6 @@
 </section>
 
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"ContactPage\",\"name\":\"Contact Visience\",\"url\":\"https://visience.ro/contact\",\"mainEntity\":{\"@type\":\"Organization\",\"name\":\"Visience Creative Experience\",\"telephone\":\"+40771486499\",\"email\":\"contact@visience.ro\",\"url\":\"https://visience.ro/\"}}"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"nq4LLtJVRLcBl0UhqABNs"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"ContactPage\",\"name\":\"Contact Visience\",\"url\":\"https://visience.ro/contact\",\"mainEntity\":{\"@type\":\"Organization\",\"name\":\"Visience Creative Experience\",\"telephone\":\"+40771486499\",\"email\":\"contact@visience.ro\",\"url\":\"https://visience.ro/\"}}"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vuH2VAGoiPrKgJIApfLai"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
