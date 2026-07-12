@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
 6:I[97367,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-2:Td5b,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-prezentare-bacau/#service","name":"Creare site de prezentare în Bacău","serviceType":"Creare site de prezentare și web design","description":"Creare site de prezentare pentru firme din Bacău: landing page, site de companie, site portofoliu sau site premium cu design custom. Colaborare integral online, cu SEO tehnic și CMS editabil.","url":"https://visience.ro/creare-site-prezentare-bacau/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"City","name":"Bacău"},{"@type":"Country","name":"România"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"150","highPrice":"2000","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-prezentare-bacau/#faq","mainEntity":[{"@type":"Question","name":"Lucrați cu firme din Bacău deși aveți sediul în Iași?","acceptedAnswer":{"@type":"Answer","text":"Da, foarte des. Tot procesul — discuție, design, aprobări, lansare — se face online și telefonic, exact ca și cum am fi pe aceeași stradă. Nu e nevoie să vii la Iași și nici noi nu venim la tine; economisești timpul de drum și primești același rezultat. Dacă totuși preferi o întâlnire față în față, o putem programa."}},{"@type":"Question","name":"Cât costă un site de prezentare pentru o firmă din Bacău?","acceptedAnswer":{"@type":"Answer","text":"Pornește de la 150€ pentru un landing page, de la 500€ pentru un site standard și de la 2.000€ pentru unul premium cu design la comandă. Prețul exact depinde de numărul de pagini și de nivelul de personalizare. Primești o cifră clară în 24 de ore, fără obligații."}},{"@type":"Question","name":"În cât timp e gata site-ul?","acceptedAnswer":{"@type":"Answer","text":"Un landing page în câteva zile, un site standard în 2–4 săptămâni, iar un proiect premium în 4–8 săptămâni. Contează mult cât de repede ne trimiți textele și pozele și cât de repede aprobi etapele."}},{"@type":"Question","name":"O să apară site-ul meu în Google când caută cineva din Bacău?","acceptedAnswer":{"@type":"Answer","text":"Site-ul e construit corect tehnic și optimizat SEO din start, deci pleacă de pe o poziție bună. Pentru rezultate serioase în căutări recomandăm și optimizarea SEO continuă, munca lunară care te urcă efectiv în Google."}},{"@type":"Question","name":"Pot să modific singur site-ul după ce mi-l predați?","acceptedAnswer":{"@type":"Answer","text":"Da. Îl construim pe un sistem simplu de administrare, iar la final îți dăm un scurt ghid video ca să schimbi texte, poze și prețuri fără ajutor. Pentru orice blocaj, rămânem la un mesaj distanță."}},{"@type":"Question","name":"Am deja un site vechi. Îl refaceți sau o luăm de la zero?","acceptedAnswer":{"@type":"Answer","text":"Depinde de starea lui. De multe ori e mai rapid și mai ieftin să construim unul nou, modern și rapid, decât să cârpim ceva vechi. Ne uităm împreună la ce ai acum și îți spunem cinstit care variantă e mai bună pentru tine."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Creare site de prezentare Bacău","item":"https://visience.ro/creare-site-prezentare-bacau/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vuH2VAGoiPrKgJIApfLai"}
-5:T6d20,<style>
+2:Td6c,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-prezentare-bacau/#service","name":"Creare site de prezentare în Bacău","serviceType":"Creare site de prezentare și web design","description":"Creare site de prezentare pentru firme din Bacău: landing page, site de companie, site portofoliu sau site premium cu design custom. Colaborare integral online, cu SEO tehnic și CMS editabil.","url":"https://visience.ro/creare-site-prezentare-bacau/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"City","name":"Bacău"},{"@type":"Country","name":"România"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"500","highPrice":"2500","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-prezentare-bacau/#faq","mainEntity":[{"@type":"Question","name":"Lucrați cu firme din Bacău deși aveți sediul în Iași?","acceptedAnswer":{"@type":"Answer","text":"Da, foarte des. Tot procesul — discuție, design, aprobări, lansare — se face online și telefonic, exact ca și cum am fi pe aceeași stradă. Nu e nevoie să vii la Iași și nici noi nu venim la tine; economisești timpul de drum și primești același rezultat. Dacă totuși preferi o întâlnire față în față, o putem programa."}},{"@type":"Question","name":"Cât costă un site de prezentare pentru o firmă din Bacău?","acceptedAnswer":{"@type":"Answer","text":"Pornește de la 500€ pentru un landing page de campanie, de la 750€ pentru un site de prezentare și de la 2.500€ pentru unul premium cu design la comandă. Prețul exact depinde de numărul de pagini și de nivelul de personalizare. Primești o cifră clară în 24 de ore, fără obligații."}},{"@type":"Question","name":"În cât timp e gata site-ul?","acceptedAnswer":{"@type":"Answer","text":"Un landing page în câteva zile, un site standard în 2–4 săptămâni, iar un proiect premium în 4–8 săptămâni. Contează mult cât de repede ne trimiți textele și pozele și cât de repede aprobi etapele."}},{"@type":"Question","name":"O să apară site-ul meu în Google când caută cineva din Bacău?","acceptedAnswer":{"@type":"Answer","text":"Site-ul e construit corect tehnic și optimizat SEO din start, deci pleacă de pe o poziție bună. Pentru rezultate serioase în căutări recomandăm și optimizarea SEO continuă, munca lunară care te urcă efectiv în Google."}},{"@type":"Question","name":"Pot să modific singur site-ul după ce mi-l predați?","acceptedAnswer":{"@type":"Answer","text":"Da. Îl construim pe un sistem simplu de administrare, iar la final îți dăm un scurt ghid video ca să schimbi texte, poze și prețuri fără ajutor. Pentru orice blocaj, rămânem la un mesaj distanță."}},{"@type":"Question","name":"Am deja un site vechi. Îl refaceți sau o luăm de la zero?","acceptedAnswer":{"@type":"Answer","text":"Depinde de starea lui. De multe ori e mai rapid și mai ieftin să construim unul nou, modern și rapid, decât să cârpim ceva vechi. Ne uităm împreună la ce ai acum și îți spunem cinstit care variantă e mai bună pentru tine."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Creare site de prezentare Bacău","item":"https://visience.ro/creare-site-prezentare-bacau/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"NQMlclKWzKmkmyyHIZwDe"}
+5:T6d3d,<style>
 .csi-hero {
   position: relative;
   padding: calc(var(--nav-h) + 86px) 0 84px;
@@ -459,24 +459,24 @@
     </div>
     <div class="csi-pr rv rv-d1">
       <div class="csi-pr-card">
-        <div class="csi-pr-card__name">Landing Page</div>
-        <div class="csi-pr-card__price">150€</div>
+        <div class="csi-pr-card__name">Landing Page de Campanie</div>
+        <div class="csi-pr-card__price">500€</div>
         <p class="csi-pr-card__desc">O pagină curată, cu buton de contact clar. Bună pentru o campanie sau ca să testezi rapid o ofertă.</p>
       </div>
       <div class="csi-pr-card">
         <div class="csi-pr-card__name">Website Basic</div>
-        <div class="csi-pr-card__price">500€</div>
+        <div class="csi-pr-card__price">750€</div>
         <p class="csi-pr-card__desc">Până la 6 pagini, cu galerie, blog și SEO de bază. Alegerea firească pentru o afacere la început de drum.</p>
       </div>
       <div class="csi-pr-card feat">
         <span class="csi-pr-card__badge">Recomandat</span>
         <div class="csi-pr-card__name">Website Standard</div>
-        <div class="csi-pr-card__price">1.000€</div>
+        <div class="csi-pr-card__price">1.200€</div>
         <p class="csi-pr-card__desc">Design gândit după concurența ta din Bacău, SEO on-site complet și texte optimizate. Cel mai cerut pachet.</p>
       </div>
       <div class="csi-pr-card">
         <div class="csi-pr-card__name">Website Premium</div>
-        <div class="csi-pr-card__price">2.000€+</div>
+        <div class="csi-pr-card__price">2.500€+</div>
         <p class="csi-pr-card__desc">Design la comandă, animații, copywriting și o strategie construită pe publicul tău. Pentru cine vrea maximum.</p>
       </div>
     </div>
@@ -514,7 +514,7 @@
       </details>
       <details>
         <summary>Cât costă, până la urmă, un site de prezentare?</summary>
-        <p>Pornește de la 150€ pentru un landing page, de la 500€ pentru un site standard și de la 2.000€ pentru unul premium cu design la comandă. Prețul exact depinde de numărul de pagini și de cât de personalizat îl vrei. Ne spui ce ai nevoie și primești o cifră clară în 24 de ore, fără obligații.</p>
+        <p>Pornește de la 500€ pentru un landing page de campanie, de la 750€ pentru un site de prezentare și de la 2.500€ pentru unul premium cu design la comandă. Prețul exact depinde de numărul de pagini și de cât de personalizat îl vrei. Ne spui ce ai nevoie și primești o cifră clară în 24 de ore, fără obligații.</p>
       </details>
       <details>
         <summary>În cât timp e gata site-ul?</summary>

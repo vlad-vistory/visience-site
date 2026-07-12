@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
 6:I[97367,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-2:T10b2,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/branding-identitate-vizuala/#service","name":"Branding și identitate vizuală","serviceType":"Branding și creare identitate vizuală","description":"Creare identitate vizuală completă: logo, paletă cromatică, tipografie, brand book și materiale online și tipărite. Livrare în toate formatele, cu variante mono/negativ, cu și fără tagline. De la 150€.","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Pachete branding Visience","itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"1000","itemOffered":{"@type":"Service","name":"Branding Standard — identitate vizuală completă"}},{"@type":"Offer","priceCurrency":"EUR","price":"2000","itemOffered":{"@type":"Service","name":"Branding Premium — identitate extinsă cu brand book"}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Logo Basic"}},{"@type":"Offer","priceCurrency":"EUR","price":"150","itemOffered":{"@type":"Service","name":"Logo Starter"}}]}},{"@type":"FAQPage","@id":"https://visience.ro/branding-identitate-vizuala/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un logo profesional?","acceptedAnswer":{"@type":"Answer","text":"Un logo profesional pornește de la 500€ (pachetul Logo Basic), care include un logo unic, o revizie, varianta monocromă și negativă, plus varianta cu și fără tagline, în toate formatele. Pentru un buget mai mic avem și pachetul Starter, la 150€, cu o singură propunere de logo livrată în format vectorial și PNG."}},{"@type":"Question","name":"Ce este un BrandBook și ce conține?","acceptedAnswer":{"@type":"Answer","text":"BrandBook-ul este documentul care stabilește regulile de folosire ale identității tale vizuale. Conține variantele corecte de logo, paleta cromatică (cu codurile exacte de culoare), tipografia, spațierile și exemple de folosire corectă și greșită. Astfel, oricine îți face mai târziu un site, un afiș sau o postare, va păstra brandul consecvent. Este inclus în pachetul Premium."}},{"@type":"Question","name":"În ce formate primesc logo-ul?","acceptedAnswer":{"@type":"Answer","text":"Primești logo-ul în toate formatele de care ai nevoie: vectorial (pentru tipar și redimensionare fără pierderi de calitate), PNG cu fundal transparent, JPG și PDF. Livrăm și variantele color, monocromă și negativ, ca să ai mereu fișierul potrivit pentru orice suport — de la cartea de vizită la firma luminoasă."}},{"@type":"Question","name":"Câte revizii includeți?","acceptedAnswer":{"@type":"Answer","text":"Numărul de revizii depinde de pachet: Logo Basic include 1 revizie, Branding Standard 3 revizii, iar Branding Premium 6 revizii. O revizie înseamnă un set de ajustări asupra propunerii alese, ca să o aducem exact în punctul în care ești mulțumit de rezultat."}},{"@type":"Question","name":"Cât durează un proiect de branding?","acceptedAnswer":{"@type":"Answer","text":"Un logo simplu este gata în câteva zile, iar o identitate vizuală completă durează în general 2-3 săptămâni, în funcție de pachet și de cât de repede primim feedback la propuneri. Pachetul Premium, cu animație de logo și materiale extinse, poate dura puțin mai mult. Termenul exact îl confirmăm după primul brief."}},{"@type":"Question","name":"Faceți și rebranding pentru o firmă existentă?","acceptedAnswer":{"@type":"Answer","text":"Da. Lucrăm frecvent cu firme existente care simt că imaginea lor nu mai reflectă valoarea reală a serviciilor. Analizăm identitatea actuală, păstrăm ce funcționează și reconstruim restul, astfel încât schimbarea să fie o evoluție, nu o ruptură care derutează clienții fideli. Putem actualiza apoi și site-ul și materialele, ca tranziția să fie completă."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Branding și identitate vizuală","item":"https://visience.ro/branding-identitate-vizuala/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vuH2VAGoiPrKgJIApfLai"}
-5:T86a4,<style>
+2:T1060,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/branding-identitate-vizuala/#service","name":"Branding și identitate vizuală","serviceType":"Branding și creare identitate vizuală","description":"Creare identitate vizuală completă: logo, paletă cromatică, tipografie, brand book și materiale online și tipărite. Livrare în toate formatele, cu variante mono/negativ, cu și fără tagline. De la 500€.","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Pachete branding Visience","itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"1200","itemOffered":{"@type":"Service","name":"Branding Standard — identitate vizuală completă"}},{"@type":"Offer","priceCurrency":"EUR","price":"2500","itemOffered":{"@type":"Service","name":"Branding Premium — identitate extinsă cu brand book"}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Logo Basic"}}]}},{"@type":"FAQPage","@id":"https://visience.ro/branding-identitate-vizuala/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un logo profesional?","acceptedAnswer":{"@type":"Answer","text":"Un logo profesional pornește de la 500€ (pachetul Logo Basic), care include un logo unic, o revizie, varianta monocromă și negativă, plus varianta cu și fără tagline, în toate formatele. Dacă vrei o identitate vizuală completă, pachetele de branding costă între 1.200€ și 2.500€, în funcție de cât de extinse sunt materialele incluse."}},{"@type":"Question","name":"Ce este un BrandBook și ce conține?","acceptedAnswer":{"@type":"Answer","text":"BrandBook-ul este documentul care stabilește regulile de folosire ale identității tale vizuale. Conține variantele corecte de logo, paleta cromatică (cu codurile exacte de culoare), tipografia, spațierile și exemple de folosire corectă și greșită. Astfel, oricine îți face mai târziu un site, un afiș sau o postare, va păstra brandul consecvent. Este inclus în pachetul Premium."}},{"@type":"Question","name":"În ce formate primesc logo-ul?","acceptedAnswer":{"@type":"Answer","text":"Primești logo-ul în toate formatele de care ai nevoie: vectorial (pentru tipar și redimensionare fără pierderi de calitate), PNG cu fundal transparent, JPG și PDF. Livrăm și variantele color, monocromă și negativ, ca să ai mereu fișierul potrivit pentru orice suport — de la cartea de vizită la firma luminoasă."}},{"@type":"Question","name":"Câte revizii includeți?","acceptedAnswer":{"@type":"Answer","text":"Numărul de revizii depinde de pachet: Logo Basic include 1 revizie, Branding Standard 3 revizii, iar Branding Premium 6 revizii. O revizie înseamnă un set de ajustări asupra propunerii alese, ca să o aducem exact în punctul în care ești mulțumit de rezultat."}},{"@type":"Question","name":"Cât durează un proiect de branding?","acceptedAnswer":{"@type":"Answer","text":"Un logo simplu este gata în câteva zile, iar o identitate vizuală completă durează în general 2-3 săptămâni, în funcție de pachet și de cât de repede primim feedback la propuneri. Pachetul Premium, cu animație de logo și materiale extinse, poate dura puțin mai mult. Termenul exact îl confirmăm după primul brief."}},{"@type":"Question","name":"Faceți și rebranding pentru o firmă existentă?","acceptedAnswer":{"@type":"Answer","text":"Da. Lucrăm frecvent cu firme existente care simt că imaginea lor nu mai reflectă valoarea reală a serviciilor. Analizăm identitatea actuală, păstrăm ce funcționează și reconstruim restul, astfel încât schimbarea să fie o evoluție, nu o ruptură care derutează clienții fideli. Putem actualiza apoi și site-ul și materialele, ca tranziția să fie completă."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Branding și identitate vizuală","item":"https://visience.ro/branding-identitate-vizuala/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"NQMlclKWzKmkmyyHIZwDe"}
+5:T8241,<style>
 .br-hero {
   position: relative;
   padding: calc(var(--nav-h) + 90px) 0 90px;
@@ -700,10 +700,10 @@
 
       <h2>Cât costă o identitate vizuală completă?</h2>
       <p>
-        Prețul depinde de cât de extinsă e identitatea de care ai nevoie. Un <strong>logo profesional</strong> cu revizii și toate formatele pornește de la <strong>500€</strong>. O <strong>identitate vizuală completă</strong> — cu logo în mai multe variante, materiale tipărite și brand book — costă <strong>1.000€</strong> (pachetul Standard, cel mai ales). Pentru <strong>branding premium</strong>, cu animație de logo, materiale extinse și brand book detaliat, prețul este de <strong>2.000€</strong>.
+        Prețul depinde de cât de extinsă e identitatea de care ai nevoie. Un <strong>logo profesional</strong> cu revizii și toate formatele pornește de la <strong>500€</strong>. O <strong>identitate vizuală completă</strong> — cu logo în mai multe variante, materiale tipărite și brand book — costă <strong>1.200€</strong> (pachetul Standard, cel mai ales). Pentru <strong>branding premium</strong>, cu animație de logo, materiale extinse și brand book detaliat, prețul este de <strong>2.500€</strong>.
       </p>
       <p>
-        Pentru bugete restrânse oferim și un pachet <strong>Starter de 150€</strong> — o singură propunere de logo, livrată în format vectorial și PNG. Indiferent de pachet, primești fișierele finale în toate formatele de care ai nevoie, gata de folosit. <a href="#br-preturi">Vezi pachetele detaliate mai jos →</a>
+        Indiferent de pachet, primești fișierele finale în toate formatele de care ai nevoie — vectorial, PNG, JPG și PDF — gata de folosit atât online, cât și la tipar. <a href="#br-preturi">Vezi pachetele detaliate mai jos →</a>
       </p>
 
       <h2>De ce să alegi branding făcut de Visience?</h2>
@@ -768,7 +768,7 @@
         Prețuri branding —<br><span class="acc">de la logo la identitate completă</span>
       </h2>
       <p class="br-prices__sub">
-        Patru pachete clare, de la o singură propunere de logo până la identitatea vizuală completă cu brand book. Primești ofertă personalizată în 24 de ore.
+        Trei pachete clare, de la logo profesional până la identitatea vizuală completă cu brand book. Primești ofertă personalizată în 24 de ore.
       </p>
     </div>
 
@@ -777,7 +777,7 @@
       <div class="br-pkg featured rv">
         <span class="br-pkg__badge">Recomandat</span>
         <div class="br-pkg__name">Branding Standard</div>
-        <div class="br-pkg__price">1.000€</div>
+        <div class="br-pkg__price">1.200€</div>
         <div class="br-pkg__price-note">Identitate vizuală completă</div>
         <p class="br-pkg__desc">
           Cea mai aleasă variantă: o identitate vizuală completă, cu logo în mai multe variante și materialele de bază. Echilibrul ideal între preț și ce primești.
@@ -795,7 +795,7 @@
 
       <div class="br-pkg rv rv-d1">
         <div class="br-pkg__name">Branding Premium</div>
-        <div class="br-pkg__price">2.000€</div>
+        <div class="br-pkg__price">2.500€</div>
         <div class="br-pkg__price-note">Identitate extinsă</div>
         <p class="br-pkg__desc">
           Tot ce e în Standard, plus animație de logo și materiale suplimentare. Pentru firme care vor o prezență vizuală remarcabilă, în mișcare.
@@ -824,22 +824,6 @@
           <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Variantă monocromă &amp; negativ</span></div>
           <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Variantă cu &amp; fără tagline</span></div>
           <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Toate formatele de fișiere</span></div>
-        </div>
-        <a href="/contact/" class="btn btn-ghost" style="justify-content:center">Solicită oferta</a>
-      </div>
-
-      <div class="br-pkg rv rv-d2">
-        <div class="br-pkg__name">Logo Starter</div>
-        <div class="br-pkg__price">150€</div>
-        <div class="br-pkg__price-note">Opțiune accesibilă</div>
-        <p class="br-pkg__desc">
-          Cea mai accesibilă variantă: o singură propunere de logo, livrată gata de folosit. Ideal pentru un start rapid, cu buget mic.
-        </p>
-        <div class="br-pkg__feats">
-          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>1 propunere de logo</span></div>
-          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Format PNG</span></div>
-          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Fișier vectorial editabil</span></div>
-          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Gata de folosit pe orice suport</span></div>
         </div>
         <a href="/contact/" class="btn btn-ghost" style="justify-content:center">Solicită oferta</a>
       </div>
@@ -898,7 +882,7 @@
 
       <details class="br-faq-item">
         <summary>Cât costă un logo profesional?</summary>
-        <p>Un logo profesional pornește de la 500€ (pachetul Logo Basic), care include un logo unic, o revizie, varianta monocromă și negativă, plus varianta cu și fără tagline, în toate formatele. Pentru un buget mai mic avem și pachetul Starter, la 150€, cu o singură propunere de logo livrată în format vectorial și PNG.</p>
+        <p>Un logo profesional pornește de la 500€ (pachetul Logo Basic), care include un logo unic, o revizie, varianta monocromă și negativă, plus varianta cu și fără tagline, în toate formatele. Dacă vrei o identitate vizuală completă, pachetele de branding costă între 1.200€ și 2.500€, în funcție de cât de extinse sunt materialele incluse.</p>
       </details>
 
       <details class="br-faq-item">

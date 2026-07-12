@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
 6:I[97367,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-2:Td77,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-prezentare-bucuresti/#service","name":"Creare site de prezentare în București","serviceType":"Creare site de prezentare și web design","description":"Creare site de prezentare pentru firme din București: landing page, site de companie, site portofoliu sau site premium cu design custom. Colaborare integral online, cu SEO tehnic și CMS editabil.","url":"https://visience.ro/creare-site-prezentare-bucuresti/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"City","name":"București"},{"@type":"Country","name":"România"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"150","highPrice":"2000","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-prezentare-bucuresti/#faq","mainEntity":[{"@type":"Question","name":"De ce aș lucra cu o agenție din Iași și nu din București?","acceptedAnswer":{"@type":"Answer","text":"Pentru că primești aceeași calitate, dar fără suprataxa unei agenții mari din Capitală. Lucrăm de 12 ani, avem peste 120 de proiecte livrate și colaborăm integral online — deci pentru tine nu se schimbă nimic la nivel de experiență, doar la nivel de preț. În plus, nu pierzi timp cu ședințe față în față prin traficul din București."}},{"@type":"Question","name":"Cât costă un site de prezentare pentru o firmă din București?","acceptedAnswer":{"@type":"Answer","text":"Pornește de la 150€ pentru un landing page, de la 500€ pentru un site standard și de la 2.000€ pentru unul premium cu design la comandă. Prețurile sunt aceleași pentru toți clienții, indiferent de oraș. Primești o ofertă clară în 24 de ore, fără obligații."}},{"@type":"Question","name":"În cât timp e gata site-ul?","acceptedAnswer":{"@type":"Answer","text":"Un landing page în câteva zile, un site standard în 2–4 săptămâni, iar un proiect premium în 4–8 săptămâni. Ritmul depinde mult de cât de repede ne trimiți conținutul și aprobi etapele."}},{"@type":"Question","name":"O să apară site-ul meu în Google pentru căutări din București?","acceptedAnswer":{"@type":"Answer","text":"Site-ul e construit corect tehnic și optimizat SEO din start. Dar Bucureștiul e o piață foarte competitivă — pentru poziții serioase în căutări recomandăm și optimizarea SEO continuă, munca lunară care te urcă efectiv peste concurență."}},{"@type":"Question","name":"Pot să modific singur site-ul după predare?","acceptedAnswer":{"@type":"Answer","text":"Da. Îl construim pe un sistem simplu de administrare și îți dăm un ghid video la final, ca să schimbi texte, poze și prețuri fără ajutor. Pentru orice blocaj, suntem la un mesaj distanță."}},{"@type":"Question","name":"Am deja un site. Merită să-l refac?","acceptedAnswer":{"@type":"Answer","text":"Dacă e vechi, lent sau nu-ți aduce cereri, aproape sigur da — în București un site slab te costă clienți în fiecare zi. Ne uităm împreună la ce ai și îți spunem cinstit dacă merită reconstruit de la zero sau doar îmbunătățit."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Creare site de prezentare București","item":"https://visience.ro/creare-site-prezentare-bucuresti/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vuH2VAGoiPrKgJIApfLai"}
-5:T6da8,<style>
+2:Td88,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-prezentare-bucuresti/#service","name":"Creare site de prezentare în București","serviceType":"Creare site de prezentare și web design","description":"Creare site de prezentare pentru firme din București: landing page, site de companie, site portofoliu sau site premium cu design custom. Colaborare integral online, cu SEO tehnic și CMS editabil.","url":"https://visience.ro/creare-site-prezentare-bucuresti/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"City","name":"București"},{"@type":"Country","name":"România"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"500","highPrice":"2500","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-prezentare-bucuresti/#faq","mainEntity":[{"@type":"Question","name":"De ce aș lucra cu o agenție din Iași și nu din București?","acceptedAnswer":{"@type":"Answer","text":"Pentru că primești aceeași calitate, dar fără suprataxa unei agenții mari din Capitală. Lucrăm de 12 ani, avem peste 120 de proiecte livrate și colaborăm integral online — deci pentru tine nu se schimbă nimic la nivel de experiență, doar la nivel de preț. În plus, nu pierzi timp cu ședințe față în față prin traficul din București."}},{"@type":"Question","name":"Cât costă un site de prezentare pentru o firmă din București?","acceptedAnswer":{"@type":"Answer","text":"Pornește de la 500€ pentru un landing page de campanie, de la 750€ pentru un site de prezentare și de la 2.500€ pentru unul premium cu design la comandă. Prețurile sunt aceleași pentru toți clienții, indiferent de oraș. Primești o ofertă clară în 24 de ore, fără obligații."}},{"@type":"Question","name":"În cât timp e gata site-ul?","acceptedAnswer":{"@type":"Answer","text":"Un landing page în câteva zile, un site standard în 2–4 săptămâni, iar un proiect premium în 4–8 săptămâni. Ritmul depinde mult de cât de repede ne trimiți conținutul și aprobi etapele."}},{"@type":"Question","name":"O să apară site-ul meu în Google pentru căutări din București?","acceptedAnswer":{"@type":"Answer","text":"Site-ul e construit corect tehnic și optimizat SEO din start. Dar Bucureștiul e o piață foarte competitivă — pentru poziții serioase în căutări recomandăm și optimizarea SEO continuă, munca lunară care te urcă efectiv peste concurență."}},{"@type":"Question","name":"Pot să modific singur site-ul după predare?","acceptedAnswer":{"@type":"Answer","text":"Da. Îl construim pe un sistem simplu de administrare și îți dăm un ghid video la final, ca să schimbi texte, poze și prețuri fără ajutor. Pentru orice blocaj, suntem la un mesaj distanță."}},{"@type":"Question","name":"Am deja un site. Merită să-l refac?","acceptedAnswer":{"@type":"Answer","text":"Dacă e vechi, lent sau nu-ți aduce cereri, aproape sigur da — în București un site slab te costă clienți în fiecare zi. Ne uităm împreună la ce ai și îți spunem cinstit dacă merită reconstruit de la zero sau doar îmbunătățit."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Creare site de prezentare București","item":"https://visience.ro/creare-site-prezentare-bucuresti/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"NQMlclKWzKmkmyyHIZwDe"}
+5:T6dc5,<style>
 .csi-hero {
   position: relative;
   padding: calc(var(--nav-h) + 86px) 0 84px;
@@ -459,24 +459,24 @@
     </div>
     <div class="csi-pr rv rv-d1">
       <div class="csi-pr-card">
-        <div class="csi-pr-card__name">Landing Page</div>
-        <div class="csi-pr-card__price">150€</div>
+        <div class="csi-pr-card__name">Landing Page de Campanie</div>
+        <div class="csi-pr-card__price">500€</div>
         <p class="csi-pr-card__desc">O pagină curată, cu mesaj clar și buton de contact. Perfectă pentru o campanie sau ca să testezi o ofertă.</p>
       </div>
       <div class="csi-pr-card">
         <div class="csi-pr-card__name">Website Basic</div>
-        <div class="csi-pr-card__price">500€</div>
+        <div class="csi-pr-card__price">750€</div>
         <p class="csi-pr-card__desc">Până la 6 pagini, cu galerie, blog și SEO de bază. Startul solid pentru o afacere aflată la început.</p>
       </div>
       <div class="csi-pr-card feat">
         <span class="csi-pr-card__badge">Recomandat</span>
         <div class="csi-pr-card__name">Website Standard</div>
-        <div class="csi-pr-card__price">1.000€</div>
+        <div class="csi-pr-card__price">1.200€</div>
         <p class="csi-pr-card__desc">Design gândit după concurența ta din București, SEO on-site complet și texte optimizate. Cel mai cerut pachet.</p>
       </div>
       <div class="csi-pr-card">
         <div class="csi-pr-card__name">Website Premium</div>
-        <div class="csi-pr-card__price">2.000€+</div>
+        <div class="csi-pr-card__price">2.500€+</div>
         <p class="csi-pr-card__desc">Design la comandă, animații, copywriting și strategie pe publicul tău. Pentru cine vrea să iasă net în evidență.</p>
       </div>
     </div>
@@ -514,7 +514,7 @@
       </details>
       <details>
         <summary>Cât costă un site de prezentare pentru o firmă din București?</summary>
-        <p>Pornește de la 150€ pentru un landing page, de la 500€ pentru un site standard și de la 2.000€ pentru unul premium cu design la comandă. Prețurile sunt aceleași pentru toți clienții, indiferent de oraș. Primești o ofertă clară în 24 de ore, fără obligații.</p>
+        <p>Pornește de la 500€ pentru un landing page de campanie, de la 750€ pentru un site de prezentare și de la 2.500€ pentru unul premium cu design la comandă. Prețurile sunt aceleași pentru toți clienții, indiferent de oraș. Primești o ofertă clară în 24 de ore, fără obligații.</p>
       </details>
       <details>
         <summary>În cât timp e gata site-ul?</summary>

@@ -1,7 +1,8 @@
 1:"$Sreact.fragment"
-5:I[97367,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
-6:"$Sreact.suspense"
-2:Tc85,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-magazin-online#service","name":"Creare magazin online","serviceType":"Dezvoltare magazin online e-commerce","description":"Creare magazine online pe WooCommerce, Shopify și PrestaShop, optimizate pentru conversie și SEO, cu integrări de plată, curierat și facturare. De la 700€.","provider":{"@type":"Organization","name":"Visience Creative Experience","url":"https://visience.ro/"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"700","highPrice":"3000","offerCount":"3"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-magazin-online#faq","mainEntity":[{"@type":"Question","name":"Cât durează realizarea unui magazin online?","acceptedAnswer":{"@type":"Answer","text":"Un magazin Basic (până la 30 produse) durează în medie 2-3 săptămâni, pachetul Standard 4-6 săptămâni, iar magazinele Premium cu integrări complexe 6-10 săptămâni. Termenul exact se confirmă după prima consultare."}},{"@type":"Question","name":"Pe ce platformă realizați magazinele online?","acceptedAnswer":{"@type":"Answer","text":"Lucrăm preponderent pe WooCommerce (WordPress), iar la cerere și pe Shopify, PrestaShop sau Webflow E-commerce. Recomandăm platforma după analiza obiectivelor tale."}},{"@type":"Question","name":"Ce se întâmplă după lansarea magazinului?","acceptedAnswer":{"@type":"Answer","text":"Oferim 3 luni de mentenanță inclusă (6 luni pentru Premium): actualizări, corectarea erorilor, backup-uri și suport prin email. Ulterior poți alege un abonament lunar sau suport punctual."}},{"@type":"Question","name":"Voi putea adăuga singur produse după lansare?","acceptedAnswer":{"@type":"Answer","text":"Da. Magazinele au panou de administrare intuitiv și oferim un training de 1-2 ore (inclus în Standard și Premium) ca să poți adăuga produse, modifica prețuri și gestiona comenzi fără ajutorul nostru."}},{"@type":"Question","name":"Includeți și hosting-ul și domeniul?","acceptedAnswer":{"@type":"Answer","text":"Nu sunt incluse în preț, dar te ajutăm cu recomandări și configurare. Orientativ: domeniul ~10-15€/an, hosting performant pentru WooCommerce ~80-200€/an."}},{"@type":"Question","name":"Pot să-mi mut magazinul existent de pe altă platformă?","acceptedAnswer":{"@type":"Answer","text":"Da. Migrăm magazine de pe Gomag, Magento, OpenCart, PrestaShop sau alte platforme către WooCommerce, păstrând produse, categorii, comenzi și clienți. Costul depinde de volumul de date."}},{"@type":"Question","name":"Realizați și campanii de marketing pentru magazin?","acceptedAnswer":{"@type":"Answer","text":"Da. După lansare preluăm Google Ads & Meta Ads (de la 200€), Google Shopping (500€), SEO continuu (500€/lună) și social media management (de la 100€/lună)."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Creare magazin online","item":"https://visience.ro/creare-magazin-online"}]}]}3:T9bd6,<style>
+6:I[97367,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+2:Tca7,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-magazin-online#service","name":"Creare magazin online","serviceType":"Dezvoltare magazin online e-commerce","description":"Creare magazine online pe WooCommerce, Shopify și PrestaShop, optimizate pentru conversie și SEO, cu integrări de plată, curierat și facturare. De la 1.000€.","provider":{"@type":"Organization","name":"Visience Creative Experience","url":"https://visience.ro/"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"1000","highPrice":"3500","offerCount":"3"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-magazin-online#faq","mainEntity":[{"@type":"Question","name":"Cât durează realizarea unui magazin online?","acceptedAnswer":{"@type":"Answer","text":"Un magazin Basic (până la 30 produse) durează în medie 2-3 săptămâni, pachetul Standard 4-6 săptămâni, iar magazinele Premium cu integrări complexe 6-10 săptămâni. Termenul exact se confirmă după prima consultare."}},{"@type":"Question","name":"Pe ce platformă realizați magazinele online?","acceptedAnswer":{"@type":"Answer","text":"Lucrăm preponderent pe WooCommerce (WordPress), iar la cerere și pe Shopify, PrestaShop sau Webflow E-commerce. Recomandăm platforma după analiza obiectivelor tale."}},{"@type":"Question","name":"Ce se întâmplă după lansarea magazinului?","acceptedAnswer":{"@type":"Answer","text":"Oferim 3 luni de mentenanță inclusă (6 luni pentru Premium): actualizări, corectarea erorilor, backup-uri și suport prin email. Ulterior poți alege un abonament lunar sau suport punctual."}},{"@type":"Question","name":"Voi putea adăuga singur produse după lansare?","acceptedAnswer":{"@type":"Answer","text":"Da. Magazinele au panou de administrare intuitiv și oferim un training de 1-2 ore (inclus în Standard și Premium) ca să poți adăuga produse, modifica prețuri și gestiona comenzi fără ajutorul nostru."}},{"@type":"Question","name":"Includeți și hosting-ul și domeniul?","acceptedAnswer":{"@type":"Answer","text":"Nu sunt incluse în preț, dar te ajutăm cu recomandări și configurare. Orientativ: domeniul ~10-15€/an, hosting performant pentru WooCommerce ~80-200€/an."}},{"@type":"Question","name":"Pot să-mi mut magazinul existent de pe altă platformă?","acceptedAnswer":{"@type":"Answer","text":"Da. Migrăm magazine de pe Gomag, Magento, OpenCart, PrestaShop sau alte platforme către WooCommerce, păstrând produse, categorii, comenzi și clienți. Costul depinde de volumul de date."}},{"@type":"Question","name":"Realizați și campanii de marketing pentru magazin?","acceptedAnswer":{"@type":"Answer","text":"Da. După lansare preluăm managementul campaniilor Google Ads & Meta Ads (de la 500€/lună), Google Shopping (500€), SEO continuu (600€/lună) și social media management (de la 300€/lună)."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Creare magazin online","item":"https://visience.ro/creare-magazin-online"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"NQMlclKWzKmkmyyHIZwDe"}
+5:T9beb,<style>
 .shop-hero {
   position: relative;
   padding: calc(var(--nav-h) + 90px) 0 90px;
@@ -642,7 +643,7 @@
 
       <h2>Cât costă un magazin online?</h2>
       <p>
-        Prețul unui <strong>magazin online</strong> depinde de complexitatea funcționalităților, numărul de produse, integrările necesare (sisteme de plată, fulfillment, ERP) și nivelul de personalizare al designului. Pentru un magazin de bază pe WooCommerce, prețurile pornesc de la <strong>700€</strong>; magazinele standard cu funcționalități extinse se situează la <strong>1.500€</strong>; iar magazinele premium cu integrări complexe și design 100% personalizat pot ajunge la <strong>3.000€</strong> sau mai mult.
+        Prețul unui <strong>magazin online</strong> depinde de complexitatea funcționalităților, numărul de produse, integrările necesare (sisteme de plată, fulfillment, ERP) și nivelul de personalizare al designului. Pentru un magazin de bază pe WooCommerce, prețurile pornesc de la <strong>1.000€</strong>; magazinele standard cu funcționalități extinse se situează la <strong>1.800€</strong>; iar magazinele premium cu integrări complexe și design 100% personalizat pot ajunge la <strong>3.500€</strong> sau mai mult.
       </p>
       <p>
         În toate cazurile, oferim <strong>3 luni de mentenanță inclusă</strong> după lansare, pentru a ne asigura că magazinul tău funcționează perfect. <a href="#preturi">Vezi pachetele detaliate de mai jos →</a>
@@ -677,7 +678,7 @@
 
       <div class="pkg rv">
         <div class="pkg__name">Magazin Basic</div>
-        <div class="pkg__price">700€</div>
+        <div class="pkg__price">1.000€</div>
         <div class="pkg__price-note">Pachet de pornire</div>
         <p class="pkg__desc">
           Magazin online WooCommerce funcțional, ideal pentru micile afaceri care vor să vândă online rapid și fără investiție mare.
@@ -697,7 +698,7 @@
       <div class="pkg featured rv rv-d1">
         <span class="pkg__badge">Cel mai ales</span>
         <div class="pkg__name">Magazin Standard</div>
-        <div class="pkg__price">1.500€</div>
+        <div class="pkg__price">1.800€</div>
         <div class="pkg__price-note">Pentru afaceri în creștere</div>
         <p class="pkg__desc">
           Magazin online complet, cu funcționalități avansate, integrări multiple și design personalizat. Cea mai bună variantă pentru raportul calitate/preț.
@@ -717,7 +718,7 @@
 
       <div class="pkg rv rv-d2">
         <div class="pkg__name">Magazin Premium</div>
-        <div class="pkg__price">3.000€+</div>
+        <div class="pkg__price">3.500€+</div>
         <div class="pkg__price-note">Soluție enterprise</div>
         <p class="pkg__desc">
           Magazin online enterprise cu integrări ERP/CRM, automatizări avansate și suport prioritar. Pentru afaceri cu volume mari.
@@ -782,7 +783,7 @@
           Un magazin online frumos, dar pe care nimeni nu-l găsește, nu vinde. De aceea fiecare magazin pe care îl realizăm este <strong style="color:var(--ink)">optimizat SEO încă din construcție</strong>: structură semantică corectă, schema.org pentru produse, viteza de încărcare optimă și URL-uri prietenoase pentru Google.
         </p>
         <p class="shop-clarify__p">
-          Oferim opțional și <strong style="color:var(--ink)">strategie SEO continuă</strong> (500€/lună) pentru creșterea organică a traficului, plus campanii <strong style="color:var(--ink)">Google Shopping</strong> și <strong style="color:var(--ink)">Meta Ads</strong> pentru rezultate rapide.
+          Oferim opțional și <strong style="color:var(--ink)">strategie SEO continuă</strong> (600€/lună) pentru creșterea organică a traficului, plus campanii <strong style="color:var(--ink)">Google Shopping</strong> și <strong style="color:var(--ink)">Meta Ads</strong> pentru rezultate rapide.
         </p>
       </div>
       <div class="shop-clarify__vis" aria-hidden="true">
@@ -928,7 +929,7 @@
         </button>
         <div class="faq-a">
           <div class="faq-a-inner">
-            Da — aici e diferența noastră. Suntem o agenție completă, nu doar studio de web design. După lansarea magazinului putem prelua și partea de <strong>Google Ads &amp; Meta Ads</strong> (de la 200€), <strong>Google Shopping</strong> (500€), <strong>SEO continuu</strong> (500€/lună) și <strong>social media management</strong> (de la 100€/lună). Astfel, magazinul tău nu doar arată bine, ci aduce și clienți în mod constant.
+            Da — aici e diferența noastră. Suntem o agenție completă, nu doar studio de web design. După lansarea magazinului putem prelua și partea de <strong>management Google Ads &amp; Meta Ads</strong> (de la 500€/lună), <strong>Google Shopping</strong> (500€), <strong>SEO continuu</strong> (600€/lună) și <strong>social media management</strong> (de la 300€/lună). Astfel, magazinul tău nu doar arată bine, ci aduce și clienți în mod constant.
           </div>
         </div>
       </div>
@@ -977,6 +978,6 @@
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vuH2VAGoiPrKgJIApfLai"}
-4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
-7:null
+3:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$5"}}]
+4:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

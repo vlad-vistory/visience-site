@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
 e:I[68027,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"default",1]
-:HL["/_next/static/chunks/0x6-zf7t-yjyf.css","style"]
+:HL["/_next/static/chunks/3xak3p4myeho0.css","style"]
 :HL["/_next/static/media/0da9c7f357bd9d4d-s.p.1975l3y3401x_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/2094fb60fd9c8287-s.p.3qxy1tqak831c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/47fe1b7cd6e6ed85-s.p.3bh2vc0w-r-ll.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -27,7 +27,7 @@ e:I[68027,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","preturi",""],"q":"","i":false,"f":[[["",{"children":["preturi",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0iuavcsxmjav_.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"vuH2VAGoiPrKgJIApfLai"}
+})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","preturi",""],"q":"","i":false,"f":[[["",{"children":["preturi",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3xak3p4myeho0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0iuavcsxmjav_.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"NQMlclKWzKmkmyyHIZwDe"}
 11:I[39756,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 12:I[37457,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 14:I[27961,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
@@ -213,13 +213,13 @@ e:I[68027,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8
 8:["$","$L14",null,{}]
 9:["$","$L15",null,{}]
 a:["$","$1","c",{"children":[null,["$","$L11",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L12",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
-16:T1ced,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/preturi/#service","name":"Servicii de marketing digital, web design și software","serviceType":"Agenție de marketing digital","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Prețuri servicii Visience","itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"150","itemOffered":{"@type":"Service","name":"Landing page"}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Site de prezentare"}},{"@type":"Offer","priceCurrency":"EUR","price":"2000","itemOffered":{"@type":"Service","name":"Website premium"}},{"@type":"Offer","priceCurrency":"EUR","price":"700","itemOffered":{"@type":"Service","name":"Magazin online WooCommerce"}},{"@type":"Offer","priceCurrency":"EUR","price":"3000","itemOffered":{"@type":"Service","name":"Magazin online premium"}},{"@type":"Offer","priceCurrency":"EUR","price":"150","itemOffered":{"@type":"Service","name":"Logo profesional"}},{"@type":"Offer","priceCurrency":"EUR","price":"1000","itemOffered":{"@type":"Service","name":"Branding complet"}},{"@type":"Offer","priceCurrency":"EUR","price":"25","itemOffered":{"@type":"Service","name":"Carte de vizită — design"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Campanie Google / Meta Ads"}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Google Shopping"}},{"@type":"Offer","priceCurrency":"EUR","price":"100","itemOffered":{"@type":"Service","name":"Management social media"}},{"@type":"Offer","priceCurrency":"EUR","price":"250","itemOffered":{"@type":"Service","name":"Research influenceri"}},{"@type":"Offer","priceCurrency":"EUR","price":"20","itemOffered":{"@type":"Service","name":"Newsletter individual"}},{"@type":"Offer","priceCurrency":"EUR","price":"40","itemOffered":{"@type":"Service","name":"SEO tehnic (oră)"}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Strategie SEO lunară"}},{"@type":"Offer","priceCurrency":"EUR","price":"1000","itemOffered":{"@type":"Service","name":"Strategie de marketing pe 2 ani"}},{"@type":"Offer","priceCurrency":"EUR","price":"50","itemOffered":{"@type":"Service","name":"Dezvoltare software (oră)"}}]}},{"@type":"FAQPage","@id":"https://visience.ro/preturi/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site de prezentare?","acceptedAnswer":{"@type":"Answer","text":"Un website profesional cu design unic și funcționalități avansate costă între 1.000€ (pachet Standard) și 2.000€+ (Premium). Pentru bugete mai mici oferim și un site standard de câteva pagini (300–500€) sau un landing page (150€). La acestea se adaugă costuri unice de 15€ pentru domeniu și 85€/an pentru găzduire."}},{"@type":"Question","name":"Cât costă un magazin online?","acceptedAnswer":{"@type":"Answer","text":"Un magazin online pe WooCommerce costă de la 700€ pentru pachetul Basic, 1.500€ pentru Standard și 3.000€ pentru Premium, cu integrări complete de plată (card, transfer, ramburs) și curierat. Costuri suplimentare: 15€ domeniu și 85€/an găzduire."}},{"@type":"Question","name":"Cât costă un website specializat (anunțuri, imobiliare, auto, cursuri)?","acceptedAnswer":{"@type":"Answer","text":"Platformele specializate — site de anunțuri, portal imobiliar, marketplace auto sau platformă de cursuri online — pornesc de la 1.000€ (pachet Standard, ~50 ore). Funcționalitățile de tip marketplace sau monetizare prin Google AdSense se adaugă de la 200€ la 500€."}},{"@type":"Question","name":"Cât costă un logo profesional?","acceptedAnswer":{"@type":"Answer","text":"Pentru o identitate vizuală completă oferim branding cu BrandBook, paletă, animație logo și materiale, la 1.000€ (Standard) și 2.000€ (Premium). Dacă ai nevoie doar de logo, pachetele pornesc de la 500€ (Logo Basic, cu revizii și toate formatele) sau 150€ (Starter, 1 propunere)."}},{"@type":"Question","name":"Cât costă design grafic personalizat?","acceptedAnswer":{"@type":"Answer","text":"Materialele grafice pornesc de la 25€ pentru o carte de vizită, 50€ pentru poster, banner sau flyer simplu și ajung la 300–600€ pentru flyere și broșuri premium cu ilustrații și copywriting. Tariful orar pentru proiecte custom este de 20€/oră."}},{"@type":"Question","name":"Cât costă o campanie Google Ads?","acceptedAnswer":{"@type":"Answer","text":"O campanie de tip Lead Generation (Google, Facebook sau Instagram Ads) pornește de la 200€, remarketingul și automatizările de la 600€, iar campaniile Google Shopping de la 500€ sau 300€/produs. Bugetul de publicitate plătit platformelor este separat de costul de management."}},{"@type":"Question","name":"Cât costă gestionarea rețelelor sociale?","acceptedAnswer":{"@type":"Answer","text":"Strategia de social media (analiză public, calendar editorial 12 luni) costă 500€ o singură dată. Pachetele de postări organice pornesc de la 100€/lună (6 postări), 250€/lună (15 postări), iar managementul complet de la 500€/lună."}},{"@type":"Question","name":"Cât costă un research de influenceri?","acceptedAnswer":{"@type":"Answer","text":"Un raport complet de research influenceri costă 250€ și include lista de influenceri relevanți, prețurile lor pentru postări și story-uri, statistici de audiență, rata de engagement și recomandări de relevanță pentru brandul tău."}},{"@type":"Question","name":"Cât costă un newsletter profesional?","acceptedAnswer":{"@type":"Answer","text":"Un newsletter individual costă de la 20€ per email trimis, pachetul de 6 emailuri 90€, iar automatizările de email marketing (onboarding, fidelizare, coș abandonat) de la 200€ per secvență."}},{"@type":"Question","name":"Cât costă optimizarea SEO?","acceptedAnswer":{"@type":"Answer","text":"SEO-ul tehnic se tarifează cu 40€/oră, strategia SEO completă (on-page și off-page) costă 500€/lună cu un angajament minim de 6 luni, iar SEO-ul pentru magazine online pornește de la 1.500€. La acestea se pot adăuga servicii de link building extern."}},{"@type":"Question","name":"Cât costă o strategie de marketing?","acceptedAnswer":{"@type":"Answer","text":"O strategie de marketing personalizată pe 2 ani (analiză SWOT, buyer personas, obiective SMART, calendar de conținut și buget) costă de la 1.000€. Optimizarea prezenței online (Google Business, social media) costă 100€, iar campaniile de concursuri și fidelizare 500€/campanie."}},{"@type":"Question","name":"Cât costă dezvoltarea de software?","acceptedAnswer":{"@type":"Answer","text":"Serviciile de software și IT — consultanță, software custom (ERP, CRM), aplicații mobile, cloud, AI, DevOps și automatizare RPA — se tarifează cu 50€/oră. Prețul final se stabilește după o analiză inițială gratuită a nevoilor și complexității proiectului."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Prețuri","item":"https://visience.ro/preturi/"}]}]}b:["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$16"}}],"$L17"],null,"$L18"]}]
+16:T1e61,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/preturi/#service","name":"Servicii de marketing digital, web design și software","serviceType":"Agenție de marketing digital","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Prețuri servicii Visience","itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Landing page de campanie"}},{"@type":"Offer","priceCurrency":"EUR","price":"750","itemOffered":{"@type":"Service","name":"Site de prezentare"}},{"@type":"Offer","priceCurrency":"EUR","price":"1200","itemOffered":{"@type":"Service","name":"Website Standard"}},{"@type":"Offer","priceCurrency":"EUR","price":"2500","itemOffered":{"@type":"Service","name":"Website Premium"}},{"@type":"Offer","priceCurrency":"EUR","price":"1000","itemOffered":{"@type":"Service","name":"Magazin online WooCommerce"}},{"@type":"Offer","priceCurrency":"EUR","price":"3500","itemOffered":{"@type":"Service","name":"Magazin online Premium"}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Logo profesional"}},{"@type":"Offer","priceCurrency":"EUR","price":"1200","itemOffered":{"@type":"Service","name":"Branding complet"}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Management campanii Google / Meta Ads (lunar)"}},{"@type":"Offer","priceCurrency":"EUR","price":"400","itemOffered":{"@type":"Service","name":"Setup campanie și tracking"}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Google Shopping"}},{"@type":"Offer","priceCurrency":"EUR","price":"300","itemOffered":{"@type":"Service","name":"Management social media (lunar)"}},{"@type":"Offer","priceCurrency":"EUR","price":"300","itemOffered":{"@type":"Service","name":"Research influenceri"}},{"@type":"Offer","priceCurrency":"EUR","price":"300","itemOffered":{"@type":"Service","name":"Automatizări email"}},{"@type":"Offer","priceCurrency":"EUR","price":"60","itemOffered":{"@type":"Service","name":"SEO tehnic (oră)"}},{"@type":"Offer","priceCurrency":"EUR","price":"600","itemOffered":{"@type":"Service","name":"Strategie SEO lunară"}},{"@type":"Offer","priceCurrency":"EUR","price":"1000","itemOffered":{"@type":"Service","name":"Strategie de marketing pe 2 ani"}},{"@type":"Offer","priceCurrency":"EUR","price":"60","itemOffered":{"@type":"Service","name":"Dezvoltare software (oră)"}}]}},{"@type":"FAQPage","@id":"https://visience.ro/preturi/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site de prezentare?","acceptedAnswer":{"@type":"Answer","text":"Un website profesional cu design unic și funcționalități avansate costă între 1.200€ (pachet Standard) și 2.500€+ (Premium). Pentru început poți opta și pentru un site de prezentare de câteva pagini (750€) sau un landing page de campanie (500€). La acestea se adaugă costuri unice de 15€ pentru domeniu și 85€/an pentru găzduire."}},{"@type":"Question","name":"Cât costă un magazin online?","acceptedAnswer":{"@type":"Answer","text":"Un magazin online pe WooCommerce costă de la 1.000€ pentru pachetul Basic, 1.800€ pentru Standard și 3.500€ pentru Premium, cu integrări complete de plată (card, transfer, ramburs) și curierat. Costuri suplimentare: 15€ domeniu și 85€/an găzduire."}},{"@type":"Question","name":"Cât costă un website specializat (anunțuri, imobiliare, auto, cursuri)?","acceptedAnswer":{"@type":"Answer","text":"Platformele specializate — site de anunțuri, portal imobiliar, marketplace auto sau platformă de cursuri online — pornesc de la 1.200€ (pachet Standard, ~50 ore) și ajung la 2.200€ pentru versiunile extinse. Funcționalitățile de tip marketplace sau monetizare prin Google AdSense se adaugă de la 200€ la 500€."}},{"@type":"Question","name":"Cât costă un logo profesional?","acceptedAnswer":{"@type":"Answer","text":"Pentru o identitate vizuală completă oferim branding cu BrandBook, paletă, animație logo și materiale, la 1.200€ (Standard) și 2.500€ (Premium). Dacă ai nevoie doar de logo, pachetul Logo Basic pornește de la 500€ și include mai multe propuneri, revizii și toate formatele de fișiere."}},{"@type":"Question","name":"Cât costă design grafic personalizat?","acceptedAnswer":{"@type":"Answer","text":"Materialele grafice se lucrează la pachet: un pachet de print (flyere, broșuri, afișe, bannere) pornește de la 500€ și include ilustrații și copywriting. Pentru proiecte custom sau cereri punctuale, tariful orar este de 50€/oră."}},{"@type":"Question","name":"Cât costă o campanie Google Ads?","acceptedAnswer":{"@type":"Answer","text":"Managementul campaniilor Google sau Meta Ads costă 500€/lună per platformă, cu un angajament minim de 3 luni. Setup-ul inițial de campanie și tracking (cont, pixel, conversii, GA4) costă 400€ o singură dată, remarketingul și automatizările pornesc de la 600€, iar campaniile Google Shopping de la 500€. Bugetul de publicitate plătit platformelor este separat de costul de management."}},{"@type":"Question","name":"Cât costă gestionarea rețelelor sociale?","acceptedAnswer":{"@type":"Answer","text":"Strategia de social media (analiză public, calendar editorial 12 luni) costă 500€ o singură dată. Pachetele de postări organice pornesc de la 300€/lună (Start, 8 postări), 450€/lună (15 postări), iar managementul complet de la 700€/lună."}},{"@type":"Question","name":"Cât costă un research de influenceri?","acceptedAnswer":{"@type":"Answer","text":"Un raport complet de research influenceri costă 300€ și include lista de influenceri relevanți, prețurile lor pentru postări și story-uri, statistici de audiență, rata de engagement și recomandări de relevanță pentru brandul tău."}},{"@type":"Question","name":"Cât costă un newsletter profesional?","acceptedAnswer":{"@type":"Answer","text":"Email marketingul se lucrează în două formule: automatizările (onboarding, fidelizare, coș abandonat) pornesc de la 300€ per secvență, iar managementul lunar al campaniilor — newslettere, segmentare, rapoarte — costă 300€/lună."}},{"@type":"Question","name":"Cât costă optimizarea SEO?","acceptedAnswer":{"@type":"Answer","text":"SEO-ul tehnic se tarifează cu 60€/oră, strategia SEO completă (on-page și off-page) costă 600€/lună cu un angajament minim de 6 luni, iar SEO-ul pentru magazine online pornește de la 1.500€. La acestea se pot adăuga servicii de link building extern."}},{"@type":"Question","name":"Cât costă o strategie de marketing?","acceptedAnswer":{"@type":"Answer","text":"O strategie de marketing personalizată pe 2 ani (analiză SWOT, buyer personas, obiective SMART, calendar de conținut și buget) costă de la 1.000€. Optimizarea prezenței online (Google Business, social media) costă 300€, iar campaniile de concursuri și fidelizare 500€/campanie."}},{"@type":"Question","name":"Cât costă dezvoltarea de software?","acceptedAnswer":{"@type":"Answer","text":"Serviciile de software și IT — consultanță, software custom (ERP, CRM), aplicații mobile, cloud, AI, DevOps și automatizare RPA — se tarifează cu 60€/oră. Prețul final se stabilește după o analiză inițială gratuită a nevoilor și complexității proiectului."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Prețuri","item":"https://visience.ro/preturi/"}]}]}b:["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$16"}}],"$L17"],null,"$L18"]}]
 19:[]
 c:"$W19"
 d:["$","$1","h",{"children":[null,["$","$L1a",null,{"children":"$L1b"}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.Metadata","children":"$L1e"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
-f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3xak3p4myeho0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 20:I[97367,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
-1f:T14c6a,<style>
+1f:T1486b,<style>
 .pr-hero {
   position: relative;
   padding: calc(var(--nav-h) + 90px) 0 80px;
@@ -752,7 +752,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
         <a href="#ppc">PPC &amp; Ads</a>
         <a href="#smm">Social Media</a>
         <a href="#influencer">Influencer Marketing</a>
-        <a href="#newsletter">Newsletter</a>
+        <a href="#newsletter">Email Marketing</a>
         <a href="#seo">SEO</a>
         <a href="#marketing">Marketing &amp; Strategie</a>
         <a href="#software">Software / IT</a>
@@ -763,13 +763,39 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
 </section>
 
 
+<section class="pr-sec bg-cream2" style="padding:18px 0" aria-label="Pachete pentru dezvoltatori imobiliari">
+  <div class="wrap" style="text-align:center">
+    <p class="pr-seo-intro" style="margin:0 auto 14px;font-size:14px">
+      <strong>Ești dezvoltator imobiliar?</strong> Avem pachete dedicate, cu management lunar. <a href="/marketing-dezvoltatori-imobiliari/">Vezi pachetele →</a>
+    </p>
+    <!-- Google Calendar Appointment Scheduling begin -->
+    <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+    <script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+    <script>
+    (function() {
+      var target = document.currentScript;
+      window.addEventListener('load', function() {
+        calendar.schedulingButton.load({
+          url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ0wXBGc681ISVmT6Qa807ODgCcpYCcigeyyMxXcnUVZbUupykCBGYV0J2VxzM1IjMA8LkwuHiyR?gv=true',
+          color: '#9BC31A',
+          label: "Programează un apel",
+          target,
+        });
+      });
+    })();
+    </script>
+    <!-- end Google Calendar Appointment Scheduling -->
+  </div>
+</section>
+
+
 <section class="pr-sec bg-white" id="site" aria-labelledby="site-h2">
   <div class="wrap">
 
     <div class="pr-sec__head rv">
       <h2 class="pr-sec__h2" id="site-h2">Cât costă un <span class="acc">site de prezentare?</span></h2>
       <p class="pr-sec__lead">
-        Construim website-uri premium cu design unic și funcționalități avansate. Investiția pornește de la <strong>1.000€ pentru pachetul Standard</strong> și ajunge la <strong>2.000€+ pentru Website Premium</strong>, cu pachete mai accesibile disponibile mai jos. Plus costuri unice pentru domeniu (15€) și găzduire (85€/an).
+        Construim website-uri premium cu design unic și funcționalități avansate. Investiția pornește de la <strong>1.200€ pentru pachetul Standard</strong> și ajunge la <strong>2.500€+ pentru Website Premium</strong>, cu pachete mai accesibile disponibile mai jos. Plus costuri unice pentru domeniu (15€) și găzduire (85€/an).
       </p>
     </div>
 
@@ -777,38 +803,24 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
       Cauți să creezi un <strong>site de prezentare profesional pentru firma ta</strong>? Realizăm website-uri în <strong>WordPress</strong>, optimizate pentru motoarele de căutare, cu design personalizat și panou de administrare ușor de folosit. Fie că vrei un landing page rapid pentru testarea pieței sau un website complet cu blog, pagini dedicate de servicii și animații interactive, ai toate opțiunile de mai jos. <a href="#contact">Cere ofertă personalizată →</a>
     </p>
 
-    <div class="pr-grid rv rv-d1" style="grid-template-columns:repeat(5,1fr);gap:14px">
+    <div class="pr-grid rv rv-d1" style="grid-template-columns:repeat(4,1fr);gap:14px">
 
       <div class="pr-card compact">
-        <div class="pr-card__name">Landing Page</div>
-        <div class="pr-card__price">150€</div>
-        <div class="pr-card__price-note">7 ore</div>
-        <p class="pr-card__desc">O singură pagină cu CTA, design simplu și responsive. Ideal pentru testarea pieței.</p>
+        <div class="pr-card__name">Landing page de campanie</div>
+        <div class="pr-card__price">500€</div>
+        <div class="pr-card__price-note">Cost unic</div>
+        <p class="pr-card__desc">O singură pagină construită pentru conversie, gândită ca destinație pentru campaniile tale de ads.</p>
         <div class="pr-card__feats">
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>1 pagină</span></div>
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Responsive</span></div>
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>CTA optim plasat</span></div>
-        </div>
-        <a href="#contact" class="pr-card__cta">Solicită</a>
-      </div>
-
-      <div class="pr-card compact">
-        <div class="pr-card__name">Website Bază</div>
-        <div class="pr-card__price">300€</div>
-        <div class="pr-card__price-note">15 ore</div>
-        <p class="pr-card__desc">3 pagini fixe (Home, Servicii, Contact) cu template predefinit, fără blog.</p>
-        <div class="pr-card__feats">
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>3 pagini</span></div>
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Template predefinit</span></div>
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>CMS inclus</span></div>
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Formulare basic</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>1 pagină, responsive</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Formular + tracking conversii</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Livrare rapidă</span></div>
         </div>
         <a href="#contact" class="pr-card__cta">Solicită</a>
       </div>
 
       <div class="pr-card compact">
         <div class="pr-card__name">Website Basic</div>
-        <div class="pr-card__price">500€</div>
+        <div class="pr-card__price">750€</div>
         <div class="pr-card__price-note">25 ore</div>
         <p class="pr-card__desc">Design intuitiv UX/UI cu galerie, blog, structură personalizată și SEO basic.</p>
         <div class="pr-card__feats">
@@ -824,7 +836,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
       <div class="pr-card compact featured">
         <span class="pr-card__badge">Cel mai ales</span>
         <div class="pr-card__name">Website Standard</div>
-        <div class="pr-card__price">1.000€</div>
+        <div class="pr-card__price">1.200€</div>
         <div class="pr-card__price-note">50 ore</div>
         <p class="pr-card__desc">Design după analiza concurenței, SEO on-site complet, 10 articole AI, hartă interactivă.</p>
         <div class="pr-card__feats">
@@ -839,7 +851,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
 
       <div class="pr-card compact">
         <div class="pr-card__name">Website Premium</div>
-        <div class="pr-card__price">2.000€</div>
+        <div class="pr-card__price">2.500€</div>
         <div class="pr-card__price-note">100 ore</div>
         <p class="pr-card__desc">3 variante design home, animații hover/scroll, analiză publicului țintă, copywriting SEO.</p>
         <div class="pr-card__feats">
@@ -868,7 +880,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
     <div class="pr-sec__head rv">
       <h2 class="pr-sec__h2" id="mag-h2">Cât costă un <span class="acc">magazin online?</span></h2>
       <p class="pr-sec__lead">
-        Realizăm magazine online pe <strong>WooCommerce</strong>, de la <strong>700€ pentru pachetul Basic</strong> la <strong>3.000€ pentru Premium</strong>, cu integrări complete de plată și livrare.
+        Realizăm magazine online pe <strong>WooCommerce</strong>, de la <strong>1.000€ pentru pachetul Basic</strong> la <strong>3.500€ pentru Premium</strong>, cu integrări complete de plată și livrare.
       </p>
     </div>
 
@@ -880,7 +892,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
 
       <div class="pr-card">
         <div class="pr-card__name">Magazin Basic</div>
-        <div class="pr-card__price">700€</div>
+        <div class="pr-card__price">1.000€</div>
         <div class="pr-card__price-note">35 ore</div>
         <p class="pr-card__desc">Magazin WooCommerce funcțional cu plăți online și plata la livrare. Ideal pentru afaceri la început.</p>
         <div class="pr-card__feats">
@@ -897,7 +909,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
       <div class="pr-card featured">
         <span class="pr-card__badge">Cel mai ales</span>
         <div class="pr-card__name">Magazin Standard</div>
-        <div class="pr-card__price">1.500€</div>
+        <div class="pr-card__price">1.800€</div>
         <div class="pr-card__price-note">75 ore</div>
         <p class="pr-card__desc">Magazin complet cu strategie UX, sugestii produse, puncte cadou, email recuperare coș și SEO on-site.</p>
         <div class="pr-card__feats">
@@ -915,7 +927,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
 
       <div class="pr-card">
         <div class="pr-card__name">Magazin Premium</div>
-        <div class="pr-card__price">3.000€</div>
+        <div class="pr-card__price">3.500€</div>
         <div class="pr-card__price-note">150 ore</div>
         <p class="pr-card__desc">Soluție enterprise cu mega meniu, chat live, configurator produse complexe și SEO complet.</p>
         <div class="pr-card__feats">
@@ -946,7 +958,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
     <div class="pr-sec__head rv">
       <h2 class="pr-sec__h2" id="alte-h2">Cât costă un <span class="acc">website specializat?</span></h2>
       <p class="pr-sec__lead">
-        Website-uri pentru anunțuri, imobiliare, auto sau cursuri online, cu pachete Basic la <strong>1.000€</strong> și Standard la <strong>2.000€</strong>, cu sistem propriu de gestionare.
+        Website-uri pentru anunțuri, imobiliare, auto sau cursuri online, cu pachete Basic la <strong>1.200€</strong> și Standard la <strong>2.200€</strong>, cu sistem propriu de gestionare.
       </p>
     </div>
 
@@ -958,7 +970,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
 
       <div class="pr-card compact">
         <div class="pr-card__name">Website Anunțuri</div>
-        <div class="pr-card__price">1.000€</div>
+        <div class="pr-card__price">1.200€</div>
         <div class="pr-card__price-note">Standard · 50 ore</div>
         <p class="pr-card__desc">Sistem de anunțuri propriu cu categorii, filtre și pagini de profil utilizator.</p>
         <a href="#contact" class="pr-card__cta">Solicită</a>
@@ -966,7 +978,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
 
       <div class="pr-card compact">
         <div class="pr-card__name">Imobiliare</div>
-        <div class="pr-card__price">1.000€</div>
+        <div class="pr-card__price">1.200€</div>
         <div class="pr-card__price-note">Standard · 50 ore</div>
         <p class="pr-card__desc">Portal imobiliar cu sistem proprietăți, hartă interactivă și filtrare avansată.</p>
         <a href="#contact" class="pr-card__cta">Solicită</a>
@@ -974,7 +986,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
 
       <div class="pr-card compact">
         <div class="pr-card__name">Anunțuri Auto</div>
-        <div class="pr-card__price">1.000€</div>
+        <div class="pr-card__price">1.200€</div>
         <div class="pr-card__price-note">Standard · 50 ore</div>
         <p class="pr-card__desc">Marketplace auto cu profile vânzători, galerii foto și sistem de mesagerie.</p>
         <a href="#contact" class="pr-card__cta">Solicită</a>
@@ -982,7 +994,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
 
       <div class="pr-card compact">
         <div class="pr-card__name">Cursuri Online</div>
-        <div class="pr-card__price">1.000€</div>
+        <div class="pr-card__price">1.200€</div>
         <div class="pr-card__price-note">Standard · 50 ore</div>
         <p class="pr-card__desc">Platformă eLearning cu lecții video, teste și certificate la finalizare.</p>
         <a href="#contact" class="pr-card__cta">Solicită</a>
@@ -1027,37 +1039,41 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
       <div class="pr-mini__card"><span class="pr-mini__name">Traducere website / produse</span><span class="pr-mini__price">de la 100€</span></div>
       <div class="pr-mini__card"><span class="pr-mini__name">Sistem booking / rezervări</span><span class="pr-mini__price">200€</span></div>
       <div class="pr-mini__card"><span class="pr-mini__name">Integrare newsletter</span><span class="pr-mini__price">100€</span></div>
-      <div class="pr-mini__card"><span class="pr-mini__name">Chat live</span><span class="pr-mini__price">50€</span></div>
-      <div class="pr-mini__card"><span class="pr-mini__name">Integrare rețele sociale</span><span class="pr-mini__price">30€</span></div>
+      <div class="pr-mini__card"><span class="pr-mini__name">Chat live</span><span class="pr-mini__price">100€</span></div>
+      <div class="pr-mini__card"><span class="pr-mini__name">Integrare rețele sociale</span><span class="pr-mini__price">100€</span></div>
       <div class="pr-mini__card"><span class="pr-mini__name">Optimizare viteză website</span><span class="pr-mini__price">de la 100€</span></div>
       <div class="pr-mini__card"><span class="pr-mini__name">Backup &amp; migrare</span><span class="pr-mini__price">de la 100€</span></div>
-      <div class="pr-mini__card"><span class="pr-mini__name">Google Analytics 4 + Search Console</span><span class="pr-mini__price">80€</span></div>
-      <div class="pr-mini__card"><span class="pr-mini__name">Pagini legale suplimentare</span><span class="pr-mini__price">30€/pagină</span></div>
-      <div class="pr-mini__card"><span class="pr-mini__name">Securizare website (SSL, anti-spam)</span><span class="pr-mini__price">80€</span></div>
-      <div class="pr-mini__card"><span class="pr-mini__name">Tutorial video CMS personalizat</span><span class="pr-mini__price">50€</span></div>
-      <div class="pr-mini__card"><span class="pr-mini__name">Mentenanță lunară</span><span class="pr-mini__price">de la 50€/lună</span></div>
+      <div class="pr-mini__card"><span class="pr-mini__name">Google Analytics 4 + Search Console</span><span class="pr-mini__price">150€</span></div>
+      <div class="pr-mini__card"><span class="pr-mini__name">Pagini legale suplimentare</span><span class="pr-mini__price">50€/pagină</span></div>
+      <div class="pr-mini__card"><span class="pr-mini__name">Securizare website (SSL, anti-spam)</span><span class="pr-mini__price">150€</span></div>
+      <div class="pr-mini__card"><span class="pr-mini__name">Tutorial video CMS personalizat</span><span class="pr-mini__price">100€</span></div>
+      <div class="pr-mini__card"><span class="pr-mini__name">Mentenanță lunară</span><span class="pr-mini__price">de la 100€/lună</span></div>
     </div>
+
+    <p class="pr-seo-intro rv" style="margin-top:22px;text-align:center;font-size:13px">
+      Extensiile de mai sus sunt disponibile împreună cu unul din pachetele noastre de website sau magazin online.
+    </p>
 
     <div class="pr-list rv rv-d2" style="margin-top:36px">
       <h3 class="pr-list__title">Servicii Premium oferite separat (pachete Basic)</h3>
       <p class="pr-list__sub">Module premium pentru upgrade pachet Basic la funcționalități superioare</p>
       <div class="pr-list__items">
-        <div class="pr-list__row"><div class="pr-list__row-name">Prezentare design înainte de implementare</div><div class="pr-list__row-price">50€</div></div>
-        <div class="pr-list__row"><div class="pr-list__row-name">Template pagini noi servicii / produse</div><div class="pr-list__row-price">80€</div></div>
-        <div class="pr-list__row"><div class="pr-list__row-name">Template articole personalizat</div><div class="pr-list__row-price">50€</div></div>
-        <div class="pr-list__row"><div class="pr-list__row-name">Implementare hartă Google interactivă</div><div class="pr-list__row-price">50€</div></div>
-        <div class="pr-list__row"><div class="pr-list__row-name">Analiză vizitatori + raport</div><div class="pr-list__row-price">80€</div></div>
+        <div class="pr-list__row"><div class="pr-list__row-name">Prezentare design înainte de implementare</div><div class="pr-list__row-price">100€</div></div>
+        <div class="pr-list__row"><div class="pr-list__row-name">Template pagini noi servicii / produse</div><div class="pr-list__row-price">100€</div></div>
+        <div class="pr-list__row"><div class="pr-list__row-name">Template articole personalizat</div><div class="pr-list__row-price">100€</div></div>
+        <div class="pr-list__row"><div class="pr-list__row-name">Implementare hartă Google interactivă</div><div class="pr-list__row-price">100€</div></div>
+        <div class="pr-list__row"><div class="pr-list__row-name">Analiză vizitatori + raport</div><div class="pr-list__row-price">100€</div></div>
         <div class="pr-list__row"><div class="pr-list__row-name">SEO on-site basic (meta + markup)</div><div class="pr-list__row-price">100€</div></div>
         <div class="pr-list__row"><div class="pr-list__row-name">Strategie structură website / UX</div><div class="pr-list__row-price">150€</div></div>
         <div class="pr-list__row"><div class="pr-list__row-name">Design animat și interactiv (hover, scroll)</div><div class="pr-list__row-price">150€</div></div>
         <div class="pr-list__row"><div class="pr-list__row-name">Strategie recenzii și colectare automată</div><div class="pr-list__row-price">100€</div></div>
-        <div class="pr-list__row"><div class="pr-list__row-name">Configurare produse sugerate și pachete</div><div class="pr-list__row-price">80€</div></div>
-        <div class="pr-list__row"><div class="pr-list__row-name">Produse cu ROI ridicat evidențiate</div><div class="pr-list__row-price">50€</div></div>
+        <div class="pr-list__row"><div class="pr-list__row-name">Configurare produse sugerate și pachete</div><div class="pr-list__row-price">100€</div></div>
+        <div class="pr-list__row"><div class="pr-list__row-name">Produse cu ROI ridicat evidențiate</div><div class="pr-list__row-price">100€</div></div>
         <div class="pr-list__row"><div class="pr-list__row-name">Design pagină produs cu beneficii</div><div class="pr-list__row-price">100€</div></div>
         <div class="pr-list__row"><div class="pr-list__row-name">Implementare sistem puncte cadou</div><div class="pr-list__row-price">100€</div></div>
         <div class="pr-list__row"><div class="pr-list__row-name">Email produse abandonate în coș</div><div class="pr-list__row-price">100€</div></div>
         <div class="pr-list__row"><div class="pr-list__row-name">Configurare curier + livrare avansată</div><div class="pr-list__row-price">100€</div></div>
-        <div class="pr-list__row"><div class="pr-list__row-name">Tutorial live prin Zoom (30 min – 1h)</div><div class="pr-list__row-price">50€</div></div>
+        <div class="pr-list__row"><div class="pr-list__row-name">Tutorial live prin Zoom (30 min – 1h)</div><div class="pr-list__row-price">100€</div></div>
         <div class="pr-list__row"><div class="pr-list__row-name">Website multilingv</div><div class="pr-list__row-price">de la 100€</div></div>
       </div>
     </div>
@@ -1085,7 +1101,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
     <div class="pr-sec__head rv">
       <h2 class="pr-sec__h2" id="brand-h2">Cât costă un <span class="acc">logo profesional?</span></h2>
       <p class="pr-sec__lead">
-        Identitate vizuală completă cu logo, BrandBook, animații și materiale, până la <strong>2.000€ pentru Branding Premium</strong>. Pachetul recomandat, <strong>Branding Standard la 1.000€</strong>, acoperă majoritatea afacerilor, iar variante mai accesibile găsești mai jos.
+        Identitate vizuală completă cu logo, BrandBook, animații și materiale, până la <strong>2.500€ pentru Branding Premium</strong>. Pachetul recomandat, <strong>Branding Standard la 1.200€</strong>, acoperă majoritatea afacerilor, iar pentru un logo simplu ai varianta Logo Basic la 500€.
       </p>
     </div>
 
@@ -1093,20 +1109,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
       <strong>Ai nevoie de un logo profesional</strong> pentru afacerea ta? Creăm logo-uri unice și reprezentative, livrate în toate formatele necesare (vectorial, PNG, JPG, PDF) cu variante pentru tipar, digital și materiale promoționale. Pentru afacerile care vor o identitate vizuală completă, oferim <strong>BrandBook</strong> cu reguli de utilizare, paletă de culori, ghid tipografic și exemple de aplicare. <a href="#contact">Începe procesul de branding →</a>
     </p>
 
-    <div class="pr-grid cols-4 rv rv-d1">
-
-      <div class="pr-card compact">
-        <div class="pr-card__name">Logo Starter</div>
-        <div class="pr-card__price">150€</div>
-        <div class="pr-card__price-note">8 ore</div>
-        <p class="pr-card__desc">1 propunere de logo, fără revizii. Livrare PNG + vector.</p>
-        <div class="pr-card__feats">
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>1 propunere</span></div>
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Format PNG + vector</span></div>
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Livrare rapidă</span></div>
-        </div>
-        <a href="#contact" class="pr-card__cta">Solicită</a>
-      </div>
+    <div class="pr-grid rv rv-d1">
 
       <div class="pr-card compact">
         <div class="pr-card__name">Logo Basic</div>
@@ -1126,7 +1129,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
       <div class="pr-card compact featured">
         <span class="pr-card__badge">Recomandat</span>
         <div class="pr-card__name">Branding Standard</div>
-        <div class="pr-card__price">1.000€</div>
+        <div class="pr-card__price">1.200€</div>
         <div class="pr-card__price-note">50 ore</div>
         <p class="pr-card__desc">3 variante logo + identitate vizuală completă pentru online și offline.</p>
         <div class="pr-card__feats">
@@ -1141,7 +1144,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
 
       <div class="pr-card compact">
         <div class="pr-card__name">Branding Premium</div>
-        <div class="pr-card__price">2.000€</div>
+        <div class="pr-card__price">2.500€</div>
         <div class="pr-card__price-note">100 ore</div>
         <p class="pr-card__desc">BrandBook complet cu reguli, animație logo, flyere și materiale offline.</p>
         <div class="pr-card__feats">
@@ -1165,7 +1168,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
     <div class="pr-sec__head rv">
       <h2 class="pr-sec__h2" id="gd-h2">Cât costă <span class="acc">design grafic personalizat?</span></h2>
       <p class="pr-sec__lead">
-        Materiale grafice cu design profesional, optimizate pentru tipar și digital: de la cărți de vizită premium și postere artistice până la <strong>flyere premium cu ilustrații și copywriting (600€)</strong>. Tarif orar pentru proiecte custom: <strong>20€/oră</strong>.
+        Materiale grafice cu design profesional, optimizate pentru tipar și digital: flyere personalizate, broșuri corporate și <strong>pachete complete de materiale print (de la 500€)</strong>. Tarif orar pentru proiecte custom: <strong>50€/oră</strong>.
       </p>
     </div>
 
@@ -1175,21 +1178,12 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
 
     <div class="pr-list rv rv-d1">
       <h3 class="pr-list__title">Materiale grafice — toate formatele</h3>
-      <p class="pr-list__sub">Tarif orar pentru proiecte custom: 20€/oră</p>
+      <p class="pr-list__sub">Tarif orar pentru proiecte custom: 50€/oră</p>
       <div class="pr-list__items">
-        <div class="pr-list__row"><div class="pr-list__row-name">Carte de vizită<span>Design profesional, față-verso, gata de print</span></div><div class="pr-list__row-price">25€</div></div>
-        <div class="pr-list__row"><div class="pr-list__row-name">Carte de vizită premium<span>Design exclusiv cu ilustrații unice și branding complet</span></div><div class="pr-list__row-price">200€</div></div>
-        <div class="pr-list__row"><div class="pr-list__row-name">Poster<span>Grafică de impact pentru locații fizice sau online</span></div><div class="pr-list__row-price">50€</div></div>
-        <div class="pr-list__row"><div class="pr-list__row-name">Poster premium<span>Design artistic complex cu ilustrații unice</span></div><div class="pr-list__row-price">200€</div></div>
-        <div class="pr-list__row"><div class="pr-list__row-name">Banner<span>Format adaptat pentru website, reclame sau social media</span></div><div class="pr-list__row-price">50€</div></div>
-        <div class="pr-list__row"><div class="pr-list__row-name">Banner premium<span>Design sofisticat cu elemente vizuale detaliate</span></div><div class="pr-list__row-price">200€</div></div>
-        <div class="pr-list__row"><div class="pr-list__row-name">Roll-up<span>Design vertical pentru standuri expoziționale</span></div><div class="pr-list__row-price">50€</div></div>
-        <div class="pr-list__row"><div class="pr-list__row-name">Roll-up premium<span>Design sofisticat pentru evenimente importante</span></div><div class="pr-list__row-price">200€</div></div>
-        <div class="pr-list__row"><div class="pr-list__row-name">Flyer simplu<span>Design 1 față, fără elemente personalizate</span></div><div class="pr-list__row-price">50€</div></div>
         <div class="pr-list__row"><div class="pr-list__row-name">Flyer mediu<span>Design față-verso/pliant, personalizat cu branding</span></div><div class="pr-list__row-price">300€</div></div>
         <div class="pr-list__row"><div class="pr-list__row-name">Flyer premium<span>Ilustrații personalizate, copywriting inclus</span></div><div class="pr-list__row-price">600€</div></div>
-        <div class="pr-list__row"><div class="pr-list__row-name">Broșură 5 pagini simplă<span>Design optimizat pentru tipar și PDF digital</span></div><div class="pr-list__row-price">80€</div></div>
         <div class="pr-list__row"><div class="pr-list__row-name">Broșură corporate 5 pagini<span>Design elegant, +15€/pagină suplimentară</span></div><div class="pr-list__row-price">300€</div></div>
+        <div class="pr-list__row"><div class="pr-list__row-name">Pachet materiale print complet<span>Set coordonat de materiale pentru brand sau eveniment</span></div><div class="pr-list__row-price">de la 500€</div></div>
       </div>
     </div>
   </div>
@@ -1202,7 +1196,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
     <div class="pr-sec__head rv">
       <h2 class="pr-sec__h2" id="ppc-h2">Cât costă o <span class="acc">campanie Google Ads?</span></h2>
       <p class="pr-sec__lead">
-        Campanii Lead Generation de la <strong>200€</strong>, remarketing și automatizări <strong>600€</strong>, Google Shopping <strong>500€</strong> sau <strong>300€/produs</strong>.
+        Management campanii Google &amp; Meta <strong>500€/lună per platformă</strong> (minim 3 luni), setup campanie &amp; tracking <strong>400€</strong>, remarketing <strong>600€</strong>, Google Shopping <strong>500€</strong>. Bugetul de media se plătește separat.
       </p>
     </div>
 
@@ -1210,19 +1204,33 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
       Vrei să atragi clienți prin <strong>Google Ads, Facebook Ads sau Instagram Ads</strong>? Setăm și optimizăm campanii PPC orientate pe <strong>generarea de lead-uri calificate</strong> și <strong>vânzări reale</strong>, cu focus pe ROI, nu pe cifre care arată bine pe hârtie. Pentru magazine online recomandăm campanii <strong>Google Shopping</strong> care afișează produsele direct în rezultatele Google, atrăgând clienți cu intenție mare de cumpărare.
     </p>
 
-    <div class="pr-grid rv rv-d1">
+    <div class="pr-grid cols-4 rv rv-d1">
 
       <div class="pr-card">
-        <div class="pr-card__name">Lead Generation</div>
-        <div class="pr-card__price">200€</div>
-        <div class="pr-card__price-note">10 ore · per campanie</div>
-        <p class="pr-card__desc">Campanii Google Ads/Facebook/Instagram pentru atragerea de clienți calificați.</p>
+        <div class="pr-card__name">Management campanii Google &amp; Meta</div>
+        <div class="pr-card__price">500€<span style="font-size:14px;color:var(--mid)">/lună</span></div>
+        <div class="pr-card__price-note">per platformă · minim 3 luni</div>
+        <p class="pr-card__desc">Gestionăm și optimizăm campaniile tale Google Ads sau Meta Ads, cu focus pe lead-uri și vânzări reale.</p>
         <div class="pr-card__feats">
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Min. 2 postări publicitare</span></div>
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Conținut vizual + text</span></div>
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Strategie de campanie</span></div>
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Implementare + monitorizare</span></div>
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>2-3 recreeri optimizare</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Optimizare săptămânală</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Creative + texte pentru anunțuri</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Raport lunar de performanță</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Colaborare minim 3 luni</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Buget media separat, recomandat min. 500€/lună</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Solicită</a>
+      </div>
+
+      <div class="pr-card">
+        <div class="pr-card__name">Setup campanie &amp; tracking</div>
+        <div class="pr-card__price">400€</div>
+        <div class="pr-card__price-note">Cost unic</div>
+        <p class="pr-card__desc">Pregătim tot ce trebuie înainte de prima campanie, ca fiecare euro cheltuit să fie măsurat corect.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Configurare cont publicitar</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Instalare pixel</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Evenimente de conversie</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Integrare GA4</span></div>
         </div>
         <a href="#contact" class="pr-card__cta">Solicită</a>
       </div>
@@ -1246,7 +1254,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
       <div class="pr-card">
         <div class="pr-card__name">Google Shopping</div>
         <div class="pr-card__price">500€</div>
-        <div class="pr-card__price-note">25 ore · sau 300€/produs</div>
+        <div class="pr-card__price-note">setup complet feed + campanie</div>
         <p class="pr-card__desc">Afișarea produselor direct în Google. Clienți cu intenție ridicată de cumpărare.</p>
         <div class="pr-card__feats">
           <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Setup Google Merchant Center</span></div>
@@ -1269,7 +1277,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
     <div class="pr-sec__head rv">
       <h2 class="pr-sec__h2" id="smm-h2">Cât costă <span class="acc">gestionarea rețelelor sociale?</span></h2>
       <p class="pr-sec__lead">
-        Strategie Social Media unică <strong>500€</strong>, postări organice de la <strong>100€/lună</strong> și management complet <strong>500€/lună</strong>.
+        Strategie Social Media unică <strong>500€</strong>, pachete de postări de la <strong>300€/lună</strong> și management complet <strong>700€/lună</strong>.
       </p>
     </div>
 
@@ -1295,15 +1303,15 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
       </div>
 
       <div class="pr-card compact">
-        <div class="pr-card__name">Postări Basic</div>
-        <div class="pr-card__price">100€<span style="font-size:14px;color:var(--mid)">/lună</span></div>
-        <div class="pr-card__price-note">6 postări organice</div>
+        <div class="pr-card__name">Postări Start</div>
+        <div class="pr-card__price">300€<span style="font-size:14px;color:var(--mid)">/lună</span></div>
+        <div class="pr-card__price-note">8 postări organice</div>
         <p class="pr-card__desc">Mesaje și designuri personalizate adaptate brandului tău.</p>
         <div class="pr-card__feats">
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>6 postări/lună</span></div>
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Design profesional</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>8 postări/lună</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Grafică profesională</span></div>
           <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Texte personalizate</span></div>
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Postare directă</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Programare + publicare</span></div>
         </div>
         <a href="#contact" class="pr-card__cta">Solicită</a>
       </div>
@@ -1311,11 +1319,11 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
       <div class="pr-card compact featured">
         <span class="pr-card__badge">Recomandat</span>
         <div class="pr-card__name">Postări Standard</div>
-        <div class="pr-card__price">250€<span style="font-size:14px;opacity:.7">/lună</span></div>
+        <div class="pr-card__price">450€<span style="font-size:14px;opacity:.7">/lună</span></div>
         <div class="pr-card__price-note">15 postări organice</div>
         <p class="pr-card__desc">Prezență online activă cu story-uri, hashtag research și raport lunar.</p>
         <div class="pr-card__feats">
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Tot din Basic</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Tot din Start</span></div>
           <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>15 postări/lună</span></div>
           <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>4+ story-uri</span></div>
           <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Hashtag research</span></div>
@@ -1327,7 +1335,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
 
       <div class="pr-card compact">
         <div class="pr-card__name">Full SMM</div>
-        <div class="pr-card__price">500€<span style="font-size:14px;color:var(--mid)">/lună</span></div>
+        <div class="pr-card__price">700€<span style="font-size:14px;color:var(--mid)">/lună</span></div>
         <div class="pr-card__price-note">30 postări + management</div>
         <p class="pr-card__desc">Management complet pentru branduri care vor strategie coerentă și interacțiune.</p>
         <div class="pr-card__feats">
@@ -1352,7 +1360,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
     <div class="pr-sec__head rv">
       <h2 class="pr-sec__h2" id="inf-h2">Cât costă <span class="acc">research influenceri?</span></h2>
       <p class="pr-sec__lead">
-        Listă completă cu influenceri relevanți, prețuri colaborări, statistici audiență și relevanță — <strong>250€</strong>.
+        Listă completă cu influenceri relevanți, prețuri colaborări, statistici audiență și relevanță — <strong>300€</strong>.
       </p>
     </div>
 
@@ -1364,7 +1372,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
 
       <div class="pr-card">
         <div class="pr-card__name">Research Influenceri</div>
-        <div class="pr-card__price">250€</div>
+        <div class="pr-card__price">300€</div>
         <div class="pr-card__price-note">Raport complet</div>
         <p class="pr-card__desc">Identificare lista influenceri relevanți, cu raport detaliat despre prețuri și statistici.</p>
         <div class="pr-card__feats">
@@ -1400,9 +1408,9 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
   <div class="wrap">
 
     <div class="pr-sec__head rv">
-      <h2 class="pr-sec__h2" id="news-h2">Cât costă un <span class="acc">newsletter profesional?</span></h2>
+      <h2 class="pr-sec__h2" id="news-h2">Cât costă <span class="acc">email marketingul?</span></h2>
       <p class="pr-sec__lead">
-        Newsletter individual de la <strong>20€</strong>, pachet 6 emailuri <strong>90€</strong>, automatizări complexe <strong>200€</strong>.
+        Automatizări email de la <strong>300€/secvență</strong> și management lunar al campaniilor de email pentru <strong>300€/lună</strong>.
       </p>
     </div>
 
@@ -1410,46 +1418,34 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
       Vrei să trimiți <strong>newsletter-uri profesionale</strong> către clienții tăi pentru a-i ține informați despre oferte, lansări și noutăți? Creăm și gestionăm campanii de email marketing prin platforme ca <strong>Mailchimp, Brevo sau Klaviyo</strong>, cu design optimizat pentru desktop și mobil, segmentarea listei de abonați și testare A/B. Newsletter-ul rămâne unul dintre canalele cu cel mai bun ROI: îți crește traficul pe site, conversiile și fidelizarea clienților.
     </p>
 
-    <div class="pr-grid rv rv-d1">
+    <div class="pr-grid cols-2 rv rv-d1">
 
       <div class="pr-card compact">
-        <div class="pr-card__name">Newsletter Individual</div>
-        <div class="pr-card__price">20€</div>
-        <div class="pr-card__price-note">Per email trimis</div>
-        <p class="pr-card__desc">Un email creat și trimis, optimizat desktop + mobil cu CTA și raportare.</p>
-        <div class="pr-card__feats">
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Design + copy</span></div>
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Optimizat mobil</span></div>
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Programare + raport</span></div>
-        </div>
-        <a href="#contact" class="pr-card__cta">Solicită</a>
-      </div>
-
-      <div class="pr-card compact featured">
-        <span class="pr-card__badge">Cea mai bună valoare</span>
-        <div class="pr-card__name">Pachet 6 Emailuri</div>
-        <div class="pr-card__price">90€</div>
-        <div class="pr-card__price-note">Economisești 30€</div>
-        <p class="pr-card__desc">6 newslettere pe parcursul a 6 luni, cu strategie coerentă și raport.</p>
-        <div class="pr-card__feats">
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>6 newslettere</span></div>
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Strategie coerentă</span></div>
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Segmentare listă abonați</span></div>
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Testare A/B</span></div>
-        </div>
-        <a href="#contact" class="pr-card__cta">Solicită</a>
-      </div>
-
-      <div class="pr-card compact">
-        <div class="pr-card__name">Automatizare Email</div>
-        <div class="pr-card__price">200€</div>
-        <div class="pr-card__price-note">Per secvență</div>
+        <div class="pr-card__name">Automatizări Email</div>
+        <div class="pr-card__price">de la 300€</div>
+        <div class="pr-card__price-note">per secvență</div>
         <p class="pr-card__desc">Onboarding clienți, fidelizare, recuperare coș abandonat — automate complete.</p>
         <div class="pr-card__feats">
           <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Secvență completă emailuri</span></div>
           <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Triggers automate</span></div>
           <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Segmentare avansată</span></div>
           <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Raportare performanță</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Solicită</a>
+      </div>
+
+      <div class="pr-card compact featured">
+        <span class="pr-card__badge">Recomandat</span>
+        <div class="pr-card__name">Management Campanii Email</div>
+        <div class="pr-card__price">300€<span style="font-size:14px;opacity:.7">/lună</span></div>
+        <div class="pr-card__price-note">campanii + raport lunar</div>
+        <p class="pr-card__desc">Planificăm, creăm și trimitem campaniile tale de email în fiecare lună.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Calendar lunar de campanii</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Design + copy incluse</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Segmentare listă abonați</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Testare A/B</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Raport lunar performanță</span></div>
         </div>
         <a href="#contact" class="pr-card__cta">Solicită</a>
       </div>
@@ -1465,7 +1461,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
     <div class="pr-sec__head rv">
       <h2 class="pr-sec__h2" id="seo-h2">Cât costă <span class="acc">optimizarea SEO?</span></h2>
       <p class="pr-sec__lead">
-        SEO tehnic <strong>40€/oră</strong>, strategie completă <strong>500€/lună</strong> (minim 6 luni), SEO magazin online de la <strong>1.500€</strong>, plus servicii de link building externe.
+        SEO tehnic <strong>60€/oră</strong>, strategie completă <strong>600€/lună</strong> (minim 6 luni), SEO magazin online de la <strong>1.500€</strong>, plus servicii de link building externe.
       </p>
     </div>
 
@@ -1477,7 +1473,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
 
       <div class="pr-card">
         <div class="pr-card__name">SEO Tehnic</div>
-        <div class="pr-card__price">40€<span style="font-size:14px;color:var(--mid)">/oră</span></div>
+        <div class="pr-card__price">60€<span style="font-size:14px;color:var(--mid)">/oră</span></div>
         <div class="pr-card__price-note">Pe oră lucrată</div>
         <p class="pr-card__desc">Probleme indexare/crawling, sitemap, date structurate, broken links, performanță.</p>
         <div class="pr-card__feats">
@@ -1493,7 +1489,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
       <div class="pr-card featured">
         <span class="pr-card__badge">Recomandat</span>
         <div class="pr-card__name">Strategie SEO completă</div>
-        <div class="pr-card__price">500€<span style="font-size:14px;opacity:.7">/lună</span></div>
+        <div class="pr-card__price">600€<span style="font-size:14px;opacity:.7">/lună</span></div>
         <div class="pr-card__price-note">13 ore · minim 6 luni</div>
         <p class="pr-card__desc">SEO on-page &amp; off-page cu strategie continuă pentru creștere organică pe termen lung.</p>
         <div class="pr-card__feats">
@@ -1537,33 +1533,27 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
           <div class="pr-list__row-name">Identificare site-uri pentru backlinking
             <span>Raport cu lista site-urilor de calitate (DA/DR ridicat) din domeniu</span>
           </div>
-          <div class="pr-list__row-price">160€ <small>8 ore</small></div>
+          <div class="pr-list__row-price">200€ <small>8 ore</small></div>
         </div>
         <div class="pr-list__row">
           <div class="pr-list__row-name">Creare articol backlink (800–1000 cuvinte)
             <span>Articol de calitate cu link-uri naturale, gata de publicare</span>
           </div>
-          <div class="pr-list__row-price">360€ <small>18 ore</small></div>
-        </div>
-        <div class="pr-list__row">
-          <div class="pr-list__row-name">Publicare &amp; verificare plasare link
-            <span>Publicare pe site-uri identificate și confirmare corectitudine link</span>
-          </div>
-          <div class="pr-list__row-price">20€ <small>1 oră</small></div>
+          <div class="pr-list__row-price">400€ <small>18 ore</small></div>
         </div>
         <div class="pr-list__row">
           <div class="pr-list__row-name">Raport performanță backlink-uri
             <span>Nr. backlink-uri obținute, DA/DR surse, impact trafic și poziționare</span>
           </div>
-          <div class="pr-list__row-price">100€ <small>5 ore</small></div>
+          <div class="pr-list__row-price">150€ <small>5 ore</small></div>
         </div>
       </div>
     </div>
 
     <p class="pr-seo-intro rv rv-d3" style="margin-top:30px;font-size:13px;text-align:center">
-      <strong>Costul postării pe site-uri externe</strong> variază între <strong>20€ și 200€/articol</strong>, în funcție de autoritatea domeniului:
+      <strong>Costul extern al publicării</strong> — taxa plătită direct site-urilor care găzduiesc articolul — variază între <strong>20€ și 200€/articol</strong>, în funcție de autoritatea domeniului:
       DA 30–50 → 20–50€ · DA 50–70 → 50–100€ · DA 70+ → 100–200€.
-      Aceste costuri se adaugă la tariful de creare articol.
+      Acest cost se adaugă la tariful de creare articol.
     </p>
 
   </div>
@@ -1589,7 +1579,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
     <div class="pr-sec__head rv">
       <h2 class="pr-sec__h2" id="mkt-h2">Cât costă o <span class="acc">strategie de marketing?</span></h2>
       <p class="pr-sec__lead">
-        Strategie personalizată pe 2 ani de la <strong>1.000€</strong>, optimizare prezență online <strong>100€</strong>, campanii de concursuri și fidelizare <strong>500€/campanie</strong>.
+        Strategie personalizată pe 2 ani de la <strong>1.000€</strong>, optimizare prezență online <strong>300€</strong>, campanii de concursuri și fidelizare <strong>500€/campanie</strong>.
       </p>
     </div>
 
@@ -1618,7 +1608,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
 
       <div class="pr-card">
         <div class="pr-card__name">Optimizare Prezență Online</div>
-        <div class="pr-card__price">100€</div>
+        <div class="pr-card__price">300€</div>
         <div class="pr-card__price-note">5 ore · cost unic</div>
         <p class="pr-card__desc">Configurăm și optimizăm Google Business, paginile de social media și descrierile pentru vizibilitate maximă locală.</p>
         <div class="pr-card__feats">
@@ -1681,7 +1671,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
     <div class="pr-sec__head rv">
       <h2 class="pr-sec__h2" id="sw-h2">Cât costă <span class="acc">dezvoltarea software?</span></h2>
       <p class="pr-sec__lead">
-        Tarif orar de <strong>50€/oră</strong> pentru toate serviciile IT — de la consultanță și dezvoltare software custom la aplicații mobile, cloud, AI, DevOps și automatizare RPA.
+        Tarif orar de <strong>60€/oră</strong> pentru toate serviciile IT — de la consultanță și dezvoltare software custom la aplicații mobile, cloud, AI, DevOps și automatizare RPA.
       </p>
     </div>
 
@@ -1693,7 +1683,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
 
       <div class="pr-card featured" style="text-align:center">
         <div class="pr-card__name" style="text-align:center">Tarif orar standard</div>
-        <div class="pr-card__price" style="text-align:center;font-size:clamp(50px,6vw,72px)">50€</div>
+        <div class="pr-card__price" style="text-align:center;font-size:clamp(50px,6vw,72px)">60€</div>
         <div class="pr-card__price-note" style="text-align:center">per oră lucrată</div>
         <p class="pr-card__desc" style="text-align:center">Prețul final se stabilește după analiza nevoilor și complexității proiectului. Oferim estimare detaliată gratuit.</p>
         <div class="pr-card__feats">
@@ -1724,39 +1714,39 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
     <div class="pr-mini rv rv-d2" style="margin-top:24px">
       <div class="pr-mini__card">
         <span class="pr-mini__name">Business Analysis &amp; IT Consultancy</span>
-        <span class="pr-mini__price">50€/oră</span>
+        <span class="pr-mini__price">60€/oră</span>
       </div>
       <div class="pr-mini__card">
         <span class="pr-mini__name">Software Development (ERP, CRM)</span>
-        <span class="pr-mini__price">50€/oră</span>
+        <span class="pr-mini__price">60€/oră</span>
       </div>
       <div class="pr-mini__card">
         <span class="pr-mini__name">Mobile App Design &amp; Development</span>
-        <span class="pr-mini__price">50€/oră</span>
+        <span class="pr-mini__price">60€/oră</span>
       </div>
       <div class="pr-mini__card">
         <span class="pr-mini__name">Cloud Migration &amp; Management (AWS, GCP, Azure)</span>
-        <span class="pr-mini__price">50€/oră</span>
+        <span class="pr-mini__price">60€/oră</span>
       </div>
       <div class="pr-mini__card">
         <span class="pr-mini__name">AI &amp; Data Science Solutions</span>
-        <span class="pr-mini__price">50€/oră</span>
+        <span class="pr-mini__price">60€/oră</span>
       </div>
       <div class="pr-mini__card">
         <span class="pr-mini__name">DevOps Solutions</span>
-        <span class="pr-mini__price">50€/oră</span>
+        <span class="pr-mini__price">60€/oră</span>
       </div>
       <div class="pr-mini__card">
         <span class="pr-mini__name">RPA — Robotic Process Automation</span>
-        <span class="pr-mini__price">50€/oră</span>
+        <span class="pr-mini__price">60€/oră</span>
       </div>
       <div class="pr-mini__card">
         <span class="pr-mini__name">Website Development avansat</span>
-        <span class="pr-mini__price">50€/oră</span>
+        <span class="pr-mini__price">60€/oră</span>
       </div>
       <div class="pr-mini__card">
         <span class="pr-mini__name">Integrări API &amp; sisteme terțe</span>
-        <span class="pr-mini__price">50€/oră</span>
+        <span class="pr-mini__price">60€/oră</span>
       </div>
     </div>
 
@@ -1797,6 +1787,19 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0x6-zf7t-yjyf
           <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
           +40 771 486 499
         </a>
+        <script>
+        (function() {
+          var target = document.currentScript;
+          window.addEventListener('load', function() {
+            calendar.schedulingButton.load({
+              url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ0wXBGc681ISVmT6Qa807ODgCcpYCcigeyyMxXcnUVZbUupykCBGYV0J2VxzM1IjMA8LkwuHiyR?gv=true',
+              color: '#9BC31A',
+              label: "Programează un apel",
+              target,
+            });
+          });
+        })();
+        </script>
       </div>
 
       <div style="display:flex;gap:24px;justify-content:center;flex-wrap:wrap;margin-top:36px">

@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
 6:I[97367,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-2:Tccc,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-prezentare-iasi/#service","name":"Creare site de prezentare în Iași","serviceType":"Creare site de prezentare și web design","description":"Creare site de prezentare în Iași: landing page, site de companie, site portofoliu sau site premium cu design custom. Design adaptiv, SEO tehnic și CMS editabil.","url":"https://visience.ro/creare-site-prezentare-iasi/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"City","name":"Iași"},{"@type":"Country","name":"România"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"150","highPrice":"2000","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-prezentare-iasi/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site de prezentare în Iași?","acceptedAnswer":{"@type":"Answer","text":"Un landing page pornește de la 150€, un site de prezentare standard de la 500€, iar un site premium cu design custom de la 2.000€. Prețul final pentru crearea site-ului depinde de numărul de pagini, funcționalități și nivelul de personalizare. Cere o ofertă și primești un preț exact în 24 de ore."}},{"@type":"Question","name":"Cât durează realizarea unui site de prezentare?","acceptedAnswer":{"@type":"Answer","text":"Un landing page se livrează în câteva zile, un site de prezentare standard în 2–4 săptămâni, iar un proiect premium în 4–8 săptămâni, în funcție de volumul de conținut și de rapiditatea feedback-ului tău."}},{"@type":"Question","name":"Pe ce platformă realizați site-ul de prezentare?","acceptedAnswer":{"@type":"Answer","text":"Construim cel mai des pe WordPress, astfel încât să poți edita singur conținutul după livrare. La cerere lucrăm și pe alte platforme. Indiferent de tehnologie, site-ul rămâne rapid, sigur și optimizat SEO."}},{"@type":"Question","name":"Site-ul va apărea în Google pentru clienții din Iași?","acceptedAnswer":{"@type":"Answer","text":"Da. Fiecare site de prezentare este optimizat SEO tehnic din construcție, cu structură corectă, viteză și date structurate locale (Iași). Pentru o poziționare avansată în căutări recomandăm și serviciul nostru de optimizare SEO continuă."}},{"@type":"Question","name":"Pot să administrez singur site-ul după ce îl primesc?","acceptedAnswer":{"@type":"Answer","text":"Da. Toate site-urile includ un CMS prietenos, deci modifici texte, imagini și pagini fără cunoștințe tehnice. La livrare oferim și o sesiune de instruire, plus suport ulterior."}},{"@type":"Question","name":"Realizați site-uri de prezentare doar pentru firme din Iași?","acceptedAnswer":{"@type":"Answer","text":"Avem sediul în Iași, dar lucrăm cu clienți din toată România și din străinătate. Proiectele se desfășoară integral online, fără să fie nevoie de prezență fizică — vezi portofoliul nostru cu peste 120 de proiecte."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Creare site de prezentare Iași","item":"https://visience.ro/creare-site-prezentare-iasi/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vuH2VAGoiPrKgJIApfLai"}
-5:T6b64,<style>
+2:Tccf,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-prezentare-iasi/#service","name":"Creare site de prezentare în Iași","serviceType":"Creare site de prezentare și web design","description":"Creare site de prezentare în Iași: landing page, site de companie, site portofoliu sau site premium cu design custom. Design adaptiv, SEO tehnic și CMS editabil.","url":"https://visience.ro/creare-site-prezentare-iasi/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"City","name":"Iași"},{"@type":"Country","name":"România"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"500","highPrice":"2500","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-prezentare-iasi/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site de prezentare în Iași?","acceptedAnswer":{"@type":"Answer","text":"Un landing page de campanie pornește de la 500€, un site de prezentare de la 750€, iar un site premium cu design custom de la 2.500€. Prețul final pentru crearea site-ului depinde de numărul de pagini, funcționalități și nivelul de personalizare. Cere o ofertă și primești un preț exact în 24 de ore."}},{"@type":"Question","name":"Cât durează realizarea unui site de prezentare?","acceptedAnswer":{"@type":"Answer","text":"Un landing page se livrează în câteva zile, un site de prezentare standard în 2–4 săptămâni, iar un proiect premium în 4–8 săptămâni, în funcție de volumul de conținut și de rapiditatea feedback-ului tău."}},{"@type":"Question","name":"Pe ce platformă realizați site-ul de prezentare?","acceptedAnswer":{"@type":"Answer","text":"Construim cel mai des pe WordPress, astfel încât să poți edita singur conținutul după livrare. La cerere lucrăm și pe alte platforme. Indiferent de tehnologie, site-ul rămâne rapid, sigur și optimizat SEO."}},{"@type":"Question","name":"Site-ul va apărea în Google pentru clienții din Iași?","acceptedAnswer":{"@type":"Answer","text":"Da. Fiecare site de prezentare este optimizat SEO tehnic din construcție, cu structură corectă, viteză și date structurate locale (Iași). Pentru o poziționare avansată în căutări recomandăm și serviciul nostru de optimizare SEO continuă."}},{"@type":"Question","name":"Pot să administrez singur site-ul după ce îl primesc?","acceptedAnswer":{"@type":"Answer","text":"Da. Toate site-urile includ un CMS prietenos, deci modifici texte, imagini și pagini fără cunoștințe tehnice. La livrare oferim și o sesiune de instruire, plus suport ulterior."}},{"@type":"Question","name":"Realizați site-uri de prezentare doar pentru firme din Iași?","acceptedAnswer":{"@type":"Answer","text":"Avem sediul în Iași, dar lucrăm cu clienți din toată România și din străinătate. Proiectele se desfășoară integral online, fără să fie nevoie de prezență fizică — vezi portofoliul nostru cu peste 120 de proiecte."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Creare site de prezentare Iași","item":"https://visience.ro/creare-site-prezentare-iasi/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"NQMlclKWzKmkmyyHIZwDe"}
+5:T6b73,<style>
 .csi-hero {
   position: relative;
   padding: calc(var(--nav-h) + 86px) 0 84px;
@@ -466,24 +466,24 @@
     </div>
     <div class="csi-pr rv rv-d1">
       <div class="csi-pr-card">
-        <div class="csi-pr-card__name">Landing Page</div>
-        <div class="csi-pr-card__price">150€</div>
+        <div class="csi-pr-card__name">Landing Page de Campanie</div>
+        <div class="csi-pr-card__price">500€</div>
         <p class="csi-pr-card__desc">O singură pagină cu design responsive și call-to-action, pentru o campanie sau testarea pieței.</p>
       </div>
       <div class="csi-pr-card">
         <div class="csi-pr-card__name">Website Basic</div>
-        <div class="csi-pr-card__price">500€</div>
+        <div class="csi-pr-card__price">750€</div>
         <p class="csi-pr-card__desc">Site de prezentare până la 6 pagini, cu blog, galerie și SEO de bază. Ideal pentru firme la început.</p>
       </div>
       <div class="csi-pr-card feat">
         <span class="csi-pr-card__badge">Recomandat</span>
         <div class="csi-pr-card__name">Website Standard</div>
-        <div class="csi-pr-card__price">1.000€</div>
+        <div class="csi-pr-card__price">1.200€</div>
         <p class="csi-pr-card__desc">Design după analiza concurenței, SEO on-site complet, pagini optimizate pe oraș și articole incluse.</p>
       </div>
       <div class="csi-pr-card">
         <div class="csi-pr-card__name">Website Premium</div>
-        <div class="csi-pr-card__price">2.000€+</div>
+        <div class="csi-pr-card__price">2.500€+</div>
         <p class="csi-pr-card__desc">Design 100% custom, animații, copywriting SEO și strategie pe analiza publicului tău țintă.</p>
       </div>
     </div>
@@ -517,7 +517,7 @@
     <div class="csi-faq rv">
       <details>
         <summary>Cât costă un site de prezentare în Iași?</summary>
-        <p>Un landing page pornește de la 150€, un site de prezentare standard de la 500€, iar un site premium cu design custom de la 2.000€. Prețul final pentru crearea site-ului depinde de numărul de pagini, funcționalități și nivelul de personalizare. Cere o ofertă și primești un preț exact în 24 de ore.</p>
+        <p>Un landing page de campanie pornește de la 500€, un site de prezentare de la 750€, iar un site premium cu design custom de la 2.500€. Prețul final pentru crearea site-ului depinde de numărul de pagini, funcționalități și nivelul de personalizare. Cere o ofertă și primești un preț exact în 24 de ore.</p>
       </details>
       <details>
         <summary>Cât durează realizarea unui site de prezentare?</summary>

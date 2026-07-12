@@ -10,14 +10,15 @@
 
 ## Pagini principale
 - [Acasă](https://visience.ro/): agenție de marketing și creare site-uri web în Iași
-- [Creare magazin online](https://visience.ro/creare-magazin-online): magazine WooCommerce și Shopify, prețuri și pachete (de la 500€)
+- [Creare magazin online](https://visience.ro/creare-magazin-online): magazine WooCommerce și Shopify, prețuri și pachete (de la 1.000€)
 - [Contact](https://visience.ro/contact): telefon, WhatsApp, email și formular
 
 ## Servicii și prețuri orientative
-- Creare website de prezentare — de la 150€
-- Creare magazin online — de la 500€
-- Branding și identitate vizuală — de la 150€
-- Social media management — de la 100€/lună
-- Google & Meta Ads (PPC) — de la 200€
-- SEO și content marketing — de la 500€/lună
+- Landing page de campanie — 500€
+- Creare website de prezentare — de la 750€ (Standard 1.200€, Premium 2.500€+)
+- Creare magazin online — de la 1.000€
+- Branding și identitate vizuală — de la 1.200€ (logo de la 500€)
+- Social media management — de la 300€/lună
+- Management campanii Google & Meta Ads (PPC) — 500€/lună
+- SEO și content marketing — de la 600€/lună
 - Software și aplicații mobile — la cerere

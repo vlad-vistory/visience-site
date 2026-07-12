@@ -2,8 +2,8 @@
 8:I[97367,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 9:"$Sreact.suspense"
 :HL["/_next/static/chunks/08fx3jc3xhbnb.css","style"]
-2:T1062,{"@context":"https://schema.org","@graph":[{"@type":"OfferCatalog","@id":"https://visience.ro/#servicii","name":"Servicii Visience","provider":{"@id":"https://visience.ro/#organization"},"itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"150","itemOffered":{"@type":"Service","name":"Creare website de prezentare","description":"Landing page-uri, site-uri de companie și portofolii cu CMS, design adaptiv și SEO tehnic."}},{"@type":"Offer","priceCurrency":"EUR","price":"700","itemOffered":{"@type":"Service","name":"Creare magazin online","url":"https://visience.ro/creare-magazin-online/","description":"Magazine online pe WooCommerce sau Shopify, optimizate pentru conversie, cu plăți și integrare Google & Meta Ads."}},{"@type":"Offer","priceCurrency":"EUR","price":"150","itemOffered":{"@type":"Service","name":"Branding și identitate vizuală","description":"Logo, brand book complet și identitate vizuală pentru online și offline."}},{"@type":"Offer","priceCurrency":"EUR","price":"100","itemOffered":{"@type":"Service","name":"Social Media Management","description":"Strategie, conținut, postare și gestionare completă a rețelelor sociale."}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"PPC — Google și Meta Ads","description":"Campanii de Lead Generation, remarketing și Shopping cu focus pe conversii."}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"SEO și Content Marketing","description":"SEO tehnic, strategie on-page și off-page, backlinking, newsletter și email marketing."}},{"@type":"Offer","priceCurrency":"EUR","price":"50","itemOffered":{"@type":"Service","name":"Software și App Development","description":"Aplicații mobile iOS și Android, Cloud Migration, AI & Data Solutions și automatizări RPA."}}]},{"@type":"FAQPage","@id":"https://visience.ro/#faq","mainEntity":[{"@type":"Question","name":"Cât costă crearea unui site web la Visience?","acceptedAnswer":{"@type":"Answer","text":"Un site de prezentare standard pornește de la 500€, un site avansat de la 1.000€, iar un site premium cu design custom de la 2.000€. Prețul final depinde de numărul de pagini, funcționalități și nivelul de personalizare."}},{"@type":"Question","name":"Cât costă un magazin online?","acceptedAnswer":{"@type":"Answer","text":"Un magazin online pe WooCommerce sau Shopify pornește de la 700€ (Basic), 1.500€ (Standard) și 3.000€ (Premium). Toate includ produse, plăți online, livrare automatizată și integrare cu Google și Meta Ads."}},{"@type":"Question","name":"Ce include un proiect de branding?","acceptedAnswer":{"@type":"Answer","text":"Logo, ton de comunicare și identitate vizuală pentru online și offline. Pachetul Standard, cu brand book complet, pornește de la 1.000€, iar Premium, cu BrandBook extins, de la 2.000€."}},{"@type":"Question","name":"Cât costă serviciile de SEO?","acceptedAnswer":{"@type":"Answer","text":"SEO tehnic punctual este la 40€/oră, iar strategia SEO lunară continuă pornește de la 500€/lună. Pentru magazine online, optimizarea SEO completă pornește de la 1.500€."}},{"@type":"Question","name":"În ce orașe lucrează Visience?","acceptedAnswer":{"@type":"Answer","text":"Visience are sediul în Iași și lucrează cu clienți din toată România, inclusiv București, Timișoara, Cluj-Napoca, Suceava și Bacău. Proiectele se desfășoară integral online."}},{"@type":"Question","name":"Pe ce platforme construiește Visience site-uri?","acceptedAnswer":{"@type":"Answer","text":"Construim pe WordPress (Oxygen, Elementor), Shopify, WooCommerce și Webflow, precum și soluții custom. Alegem platforma în funcție de nevoile proiectului."}},{"@type":"Question","name":"Cât durează realizarea unui site web?","acceptedAnswer":{"@type":"Answer","text":"Un landing page în câteva zile, un site de prezentare standard în 2–4 săptămâni, iar un proiect premium sau un magazin online complex în 4–8 săptămâni."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4"],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vuH2VAGoiPrKgJIApfLai"}
-7:T23589,
+2:T1099,{"@context":"https://schema.org","@graph":[{"@type":"OfferCatalog","@id":"https://visience.ro/#servicii","name":"Servicii Visience","provider":{"@id":"https://visience.ro/#organization"},"itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Creare website de prezentare","description":"Landing page-uri de campanie, site-uri de companie și portofolii cu CMS, design adaptiv și SEO tehnic."}},{"@type":"Offer","priceCurrency":"EUR","price":"1000","itemOffered":{"@type":"Service","name":"Creare magazin online","url":"https://visience.ro/creare-magazin-online/","description":"Magazine online pe WooCommerce sau Shopify, optimizate pentru conversie, cu plăți și integrare Google & Meta Ads."}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Branding și identitate vizuală","description":"Logo, brand book complet și identitate vizuală pentru online și offline."}},{"@type":"Offer","priceCurrency":"EUR","price":"300","itemOffered":{"@type":"Service","name":"Social Media Management","description":"Strategie, conținut, postare și gestionare completă a rețelelor sociale."}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"PPC — Google și Meta Ads","description":"Management lunar de campanii Google și Meta, remarketing și Shopping cu focus pe conversii."}},{"@type":"Offer","priceCurrency":"EUR","price":"600","itemOffered":{"@type":"Service","name":"SEO și Content Marketing","description":"SEO tehnic, strategie on-page și off-page, backlinking, newsletter și email marketing."}},{"@type":"Offer","priceCurrency":"EUR","price":"60","itemOffered":{"@type":"Service","name":"Software și App Development","description":"Aplicații mobile iOS și Android, Cloud Migration, AI & Data Solutions și automatizări RPA."}}]},{"@type":"FAQPage","@id":"https://visience.ro/#faq","mainEntity":[{"@type":"Question","name":"Cât costă crearea unui site web la Visience?","acceptedAnswer":{"@type":"Answer","text":"Un site de prezentare standard pornește de la 750€, un site avansat de la 1.200€, iar un site premium cu design custom de la 2.500€. Prețul final depinde de numărul de pagini, funcționalități și nivelul de personalizare."}},{"@type":"Question","name":"Cât costă un magazin online?","acceptedAnswer":{"@type":"Answer","text":"Un magazin online pe WooCommerce sau Shopify pornește de la 1.000€ (Basic), 1.800€ (Standard) și 3.500€ (Premium). Toate includ produse, plăți online, livrare automatizată și integrare cu Google și Meta Ads."}},{"@type":"Question","name":"Ce include un proiect de branding?","acceptedAnswer":{"@type":"Answer","text":"Logo, ton de comunicare și identitate vizuală pentru online și offline. Pachetul Standard, cu brand book complet, pornește de la 1.200€, iar Premium, cu BrandBook extins, de la 2.500€."}},{"@type":"Question","name":"Cât costă serviciile de SEO?","acceptedAnswer":{"@type":"Answer","text":"SEO tehnic punctual este la 60€/oră, iar strategia SEO lunară continuă pornește de la 600€/lună, cu un minim de 6 luni. Pentru magazine online, optimizarea SEO completă pornește de la 1.500€."}},{"@type":"Question","name":"În ce orașe lucrează Visience?","acceptedAnswer":{"@type":"Answer","text":"Visience are sediul în Iași și lucrează cu clienți din toată România, inclusiv București, Timișoara, Cluj-Napoca, Suceava și Bacău. Proiectele se desfășoară integral online."}},{"@type":"Question","name":"Pe ce platforme construiește Visience site-uri?","acceptedAnswer":{"@type":"Answer","text":"Construim pe WordPress (Oxygen, Elementor), Shopify, WooCommerce și Webflow, precum și soluții custom. Alegem platforma în funcție de nevoile proiectului."}},{"@type":"Question","name":"Cât durează realizarea unui site web?","acceptedAnswer":{"@type":"Answer","text":"Un landing page în câteva zile, un site de prezentare standard în 2–4 săptămâni, iar un proiect premium sau un magazin online complex în 4–8 săptămâni."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4"],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"NQMlclKWzKmkmyyHIZwDe"}
+7:T23964,
 
 <div class="vis-home">
 
@@ -400,9 +400,9 @@
           <h3 class="svc-card__name">Website de prezentare</h3>
           <p class="svc-card__desc">Landing page-uri, site-uri de companie și portofolii. CMS inclus, design adaptiv și SEO tehnic încă din construcție. Pagini Despre, Servicii, Contact, toate aliniate brandului tău.</p>
           <div class="svc-card__prices">
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Standard</span><span class="svc-price-pill__val">500€</span></div>
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Avansat</span><span class="svc-price-pill__val">1.000€</span></div>
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Premium</span><span class="svc-price-pill__val">2.000€+</span></div>
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Standard</span><span class="svc-price-pill__val">750€</span></div>
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Avansat</span><span class="svc-price-pill__val">1.200€</span></div>
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Premium</span><span class="svc-price-pill__val">2.500€+</span></div>
           </div>
           <div class="svc-card__actions">
             <a href="#contact" class="svc-card__cta">Solicită ofertă <span class="svc-card__cta-arr">↗</span></a>
@@ -439,8 +439,8 @@
           <h3 class="svc-card__name">Magazin Online</h3>
           <p class="svc-card__desc">Magazine online performante pe WooCommerce sau Shopify, optimizate pentru conversie. Cu produse, plăți online, livrare automatizată și integrare cu Google &amp; Meta Ads.</p>
           <div class="svc-card__prices">
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Standard</span><span class="svc-price-pill__val">1.500€</span></div>
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Premium</span><span class="svc-price-pill__val">3.000€</span></div>
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Standard</span><span class="svc-price-pill__val">1.800€</span></div>
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Premium</span><span class="svc-price-pill__val">3.500€</span></div>
             <div class="svc-price-pill"><span class="svc-price-pill__lbl">Avansat</span><span class="svc-price-pill__val">la cerere</span></div>
           </div>
           <div class="svc-card__actions">
@@ -489,8 +489,8 @@
           <h3 class="svc-card__name">Branding &amp; Identitate Vizuală</h3>
           <p class="svc-card__desc">Logo, brand book complet, identitate vizuală pentru online și offline. Branduri memorabile care inspiră încredere și rămân în mintea oamenilor.</p>
           <div class="svc-card__prices">
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Standard</span><span class="svc-price-pill__val">1.000€</span></div>
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Premium</span><span class="svc-price-pill__val">2.000€</span></div>
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Standard</span><span class="svc-price-pill__val">1.200€</span></div>
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Premium</span><span class="svc-price-pill__val">2.500€</span></div>
             <div class="svc-price-pill"><span class="svc-price-pill__lbl">BrandBook</span><span class="svc-price-pill__val">complet</span></div>
           </div>
           <div class="svc-card__actions">
@@ -531,9 +531,9 @@
           <h3 class="svc-card__name">Social Media Management</h3>
           <p class="svc-card__desc">Strategie, conținut, postare și gestionare completă a rețelelor sociale. Prezență constantă care construiește comunitate și fidelizează.</p>
           <div class="svc-card__prices">
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Basic</span><span class="svc-price-pill__val">100€/lună</span></div>
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Standard</span><span class="svc-price-pill__val">250€/lună</span></div>
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Full SMM</span><span class="svc-price-pill__val">500€/lună</span></div>
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Start</span><span class="svc-price-pill__val">300€/lună</span></div>
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Standard</span><span class="svc-price-pill__val">450€/lună</span></div>
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Full SMM</span><span class="svc-price-pill__val">700€/lună</span></div>
           </div>
           <div class="svc-card__actions">
             <a href="#contact" class="svc-card__cta">Solicită ofertă <span class="svc-card__cta-arr">↗</span></a>
@@ -569,7 +569,7 @@
           <h3 class="svc-card__name">PPC — Google &amp; Meta Ads</h3>
           <p class="svc-card__desc">Campanii de Lead Generation, remarketing și Shopping configurate precis pe audiența ta. Focus pe conversii, nu pe click-uri goale.</p>
           <div class="svc-card__prices">
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Lead Gen</span><span class="svc-price-pill__val">200€</span></div>
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Management</span><span class="svc-price-pill__val">500€/lună</span></div>
             <div class="svc-price-pill"><span class="svc-price-pill__lbl">Remarketing</span><span class="svc-price-pill__val">600€</span></div>
             <div class="svc-price-pill"><span class="svc-price-pill__lbl">Shopping</span><span class="svc-price-pill__val">500€</span></div>
           </div>
@@ -611,8 +611,8 @@
           <h3 class="svc-card__name">SEO &amp; Content Marketing</h3>
           <p class="svc-card__desc">SEO tehnic, strategie on-page &amp; off-page, backlinking de calitate, newsletter și email marketing. Vizibilitate organică pe termen lung.</p>
           <div class="svc-card__prices">
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Tehnic</span><span class="svc-price-pill__val">40€/oră</span></div>
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Strategie</span><span class="svc-price-pill__val">500€/lună</span></div>
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Tehnic</span><span class="svc-price-pill__val">60€/oră</span></div>
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Strategie</span><span class="svc-price-pill__val">600€/lună</span></div>
             <div class="svc-price-pill"><span class="svc-price-pill__lbl">Magazin</span><span class="svc-price-pill__val">1.500€</span></div>
           </div>
           <div class="svc-card__actions">
@@ -659,7 +659,7 @@
               </div>
             </div>
             <span class="sd-chip sd-chip--tr" style="--c:#FF9900"><i class="fab fa-aws"></i></span>
-            <span class="sd-chip sd-chip--bl" style="--c:#A4C639"><i class="fab fa-android"></i></span>
+            <span class="sd-chip sd-chip--bl" style="--c:#9BC31A"><i class="fab fa-android"></i></span>
             <span class="sd-chip sd-chip--br" style="--c:#000000"><i class="fab fa-apple"></i></span>
           </div>
         </div>
@@ -667,7 +667,7 @@
           <h3 class="svc-card__name">Software &amp; App Development</h3>
           <p class="svc-card__desc">Aplicații mobile iOS &amp; Android, Cloud Migration, AI &amp; Data Solutions și automatizări RPA. Soluții scalabile la orice dimensiune.</p>
           <div class="svc-card__prices">
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Oră</span><span class="svc-price-pill__val">50€/oră</span></div>
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Oră</span><span class="svc-price-pill__val">60€/oră</span></div>
             <div class="svc-price-pill"><span class="svc-price-pill__lbl">Proiect</span><span class="svc-price-pill__val">personalizat</span></div>
             <div class="svc-price-pill"><span class="svc-price-pill__lbl">Consultanță</span><span class="svc-price-pill__val">la cerere</span></div>
           </div>
@@ -698,14 +698,14 @@
       <a class="spec-card rv" href="/creare-site-prezentare/">
         <div class="spec-card__ico"><i class="fas fa-window-maximize"></i></div>
         <h3>Creare site de prezentare</h3>
-        <p>Site-uri de companie și landing page-uri care transformă vizitatorii în clienți. Design custom, SEO tehnic și CMS editabil, de la proiecte standard la platforme premium de 2.000€+.</p>
+        <p>Site-uri de companie și landing page-uri care transformă vizitatorii în clienți. Design custom, SEO tehnic și CMS editabil, de la proiecte standard la platforme premium de 2.500€+.</p>
         <span class="spec-card__cta">Vezi serviciul <span class="spec-card__arr">↗</span></span>
       </a>
 
       <a class="spec-card rv rv-d1" href="/creare-magazin-online/">
         <div class="spec-card__ico"><i class="fas fa-cart-shopping"></i></div>
         <h3>Creare magazin online</h3>
-        <p>Magazine WooCommerce și Shopify optimizate pentru conversie, cu plăți, curierat și SEO, de la proiecte standard la soluții premium de 3.000€.</p>
+        <p>Magazine WooCommerce și Shopify optimizate pentru conversie, cu plăți, curierat și SEO, de la proiecte standard la soluții premium de 3.500€.</p>
         <span class="spec-card__cta">Vezi serviciul <span class="spec-card__arr">↗</span></span>
       </a>
 
@@ -1399,28 +1399,28 @@
       <details class="faq-item" open>
         <summary class="faq-q">Cât costă crearea unui site web la Visience?</summary>
         <div class="faq-a">
-          Un site de prezentare standard pornește de la <strong>500€</strong>, un site avansat de la <strong>1.000€</strong>, iar un site premium cu design custom de la <strong>2.000€</strong>. Prețul final depinde de numărul de pagini, funcționalități și nivelul de personalizare. Fiecare ofertă este configurată pe obiectivele tale, nu pe pachete fixe.
+          Un site de prezentare standard pornește de la <strong>750€</strong>, un site avansat de la <strong>1.200€</strong>, iar un site premium cu design custom de la <strong>2.500€</strong>. Prețul final depinde de numărul de pagini, funcționalități și nivelul de personalizare. Fiecare ofertă este configurată pe obiectivele tale, nu pe pachete fixe.
         </div>
       </details>
 
       <details class="faq-item">
         <summary class="faq-q">Cât costă un magazin online?</summary>
         <div class="faq-a">
-          Un magazin online pe WooCommerce sau Shopify pornește de la <strong>700€</strong> pentru pachetul Basic, <strong>1.500€</strong> pentru Standard și <strong>3.000€</strong> pentru Premium. Toate includ produse, plăți online, livrare automatizată și posibilitatea de integrare cu Google și Meta Ads.
+          Un magazin online pe WooCommerce sau Shopify pornește de la <strong>1.000€</strong> pentru pachetul Basic, <strong>1.800€</strong> pentru Standard și <strong>3.500€</strong> pentru Premium. Toate includ produse, plăți online, livrare automatizată și posibilitatea de integrare cu Google și Meta Ads.
         </div>
       </details>
 
       <details class="faq-item">
         <summary class="faq-q">Ce include un proiect de branding?</summary>
         <div class="faq-a">
-          Un proiect de branding include logo, ton de comunicare și identitate vizuală pentru online și offline. Pachetul Standard, cu brand book complet, pornește de la <strong>1.000€</strong>, iar Premium, cu BrandBook extins și animație de logo, de la <strong>2.000€</strong>.
+          Un proiect de branding include logo, ton de comunicare și identitate vizuală pentru online și offline. Pachetul Standard, cu brand book complet, pornește de la <strong>1.200€</strong>, iar Premium, cu BrandBook extins și animație de logo, de la <strong>2.500€</strong>.
         </div>
       </details>
 
       <details class="faq-item">
         <summary class="faq-q">Cât costă serviciile de SEO?</summary>
         <div class="faq-a">
-          SEO tehnic punctual este facturat la <strong>40€/oră</strong>, iar strategia SEO lunară continuă (on-page, off-page, content și backlinking) pornește de la <strong>500€/lună</strong>. Pentru magazine online, optimizarea SEO completă pornește de la <strong>1.500€</strong>.
+          SEO tehnic punctual este facturat la <strong>60€/oră</strong>, iar strategia SEO lunară continuă (on-page, off-page, content și backlinking) pornește de la <strong>600€/lună</strong>, cu un minim de 6 luni. Pentru magazine online, optimizarea SEO completă pornește de la <strong>1.500€</strong>.
         </div>
       </details>
 
@@ -1506,6 +1506,25 @@
           <div class="cf-feat"><span class="cf-feat-dot">✓</span>Răspuns în maxim 24 de ore</div>
           <div class="cf-feat"><span class="cf-feat-dot">✓</span>Analiză gratuită a prezenței digitale</div>
           <div class="cf-feat"><span class="cf-feat-dot">✓</span>Ofertă personalizată fără obligații</div>
+        </div>
+        <div style="margin-top:26px">
+          <!-- Google Calendar Appointment Scheduling begin -->
+          <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+          <script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+          <script>
+          (function() {
+            var target = document.currentScript;
+            window.addEventListener('load', function() {
+              calendar.schedulingButton.load({
+                url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ0wXBGc681ISVmT6Qa807ODgCcpYCcigeyyMxXcnUVZbUupykCBGYV0J2VxzM1IjMA8LkwuHiyR?gv=true',
+                color: '#9BC31A',
+                label: "Programează un apel",
+                target,
+              });
+            });
+          })();
+          </script>
+          <!-- end Google Calendar Appointment Scheduling -->
         </div>
       </div>
 

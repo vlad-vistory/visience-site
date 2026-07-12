@@ -1,107 +1,104 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T4c0a,<style>
-.ct-hero {
+2:T4f40,<style>
+.ct-head {
   position: relative;
-  padding: calc(var(--nav-h) + 80px) 0 60px;
+  padding: calc(var(--nav-h) + 42px) 0 30px;
   background: var(--cream);
   overflow: hidden;
 }
-.ct-hero__inner {
-  position: relative;
-  z-index: 1;
-  text-align: center;
-  max-width: 780px;
-  margin: 0 auto;
-}
-.ct-hero__breadcrumbs {
+.ct-head__inner { position: relative; z-index: 1; }
+.ct-head__bc {
   font-family: var(--f-m);
   font-size: 11px;
   color: var(--mid);
   letter-spacing: .06em;
-  margin-bottom: 22px;
+  margin-bottom: 14px;
 }
-.ct-hero__breadcrumbs a       { color: var(--mid); transition: color .2s; }
-.ct-hero__breadcrumbs a:hover { color: var(--acc-deep); }
-.ct-hero__breadcrumbs .sep    { margin: 0 10px; opacity: .4; }
-
-.ct-hero__h1 {
+.ct-head__bc a       { color: var(--mid); transition: color .2s; }
+.ct-head__bc a:hover { color: var(--acc-deep); }
+.ct-head__bc .sep    { margin: 0 10px; opacity: .4; }
+.ct-head__h1 {
   font-family: var(--f-d);
   font-weight: 800;
-  font-size: clamp(46px, 8vw, 110px);
-  line-height: .95;
-  letter-spacing: -.04em;
+  font-size: clamp(30px, 4.2vw, 54px);
+  line-height: 1;
+  letter-spacing: -.03em;
   color: var(--ink);
-  margin-bottom: 22px;
 }
-.ct-hero__h1 .acc {
-  font-weight: 300;
-  font-style: italic;
-  color: var(--mid);
-}
-.ct-hero__lead {
-  font-size: 18px;
-  line-height: 1.78;
-  color: var(--mid);
-  font-weight: 300;
-  max-width: 580px;
-  margin: 0 auto;
-}
-.ct-hero__lead strong { color: var(--ink); font-weight: 600; }
+.ct-head__h1 .acc { font-weight: 300; font-style: italic; color: var(--mid); }
 
 .ct-main {
-  padding: 70px 0 100px;
+  padding: 46px 0 70px;
   background: var(--white);
 }
 .ct-grid {
   display: grid;
-  grid-template-columns: 1fr 1.1fr;
-  gap: 70px;
+  grid-template-columns: 1.15fr .85fr;
+  gap: 56px;
   align-items: start;
 }
 
-.ct-info {
-  position: sticky;
-  top: calc(var(--nav-h) + 30px);
-}
-
-.ct-info__h2 {
+/* ── Left: scheduling ── */
+.ct-sched__head { margin-bottom: 22px; }
+.ct-sched__h2 {
   font-family: var(--f-d);
   font-weight: 800;
-  font-size: clamp(28px, 3.4vw, 40px);
+  font-size: clamp(26px, 3.2vw, 38px);
   line-height: 1.05;
   letter-spacing: -.02em;
   color: var(--ink);
-  margin-bottom: 14px;
+  margin-bottom: 12px;
 }
-.ct-info__h2 .acc { color: var(--acc-deep); }
-.ct-info__p {
+.ct-sched__h2 .acc { color: var(--acc-deep); }
+.ct-sched__p {
   font-size: 16px;
-  line-height: 1.78;
+  line-height: 1.72;
   color: var(--mid);
   font-weight: 300;
+  max-width: 560px;
+}
+.ct-sched__p strong { color: var(--ink); font-weight: 600; }
+.ct-cal-embed {
+  position: relative;
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  overflow: hidden;
+  background: var(--cream);
+  line-height: 0;
+}
+.ct-cal-embed::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, var(--acc) 0%, var(--acc2) 60%, transparent 100%);
+  z-index: 1;
+}
+.ct-cal-embed iframe { display: block; width: 100%; border: 0; }
+
+/* ── Right: contact details ── */
+.ct-info__eyebrow {
+  font-family: var(--f-m);
+  font-size: 11px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--acc-deep);
   margin-bottom: 18px;
 }
-.ct-info__p strong { color: var(--ink); font-weight: 600; }
-.ct-map { margin-top: 30px; }
-.ct-map__lbl { font-family: var(--f-m); font-size: 10px; letter-spacing: .14em; text-transform: uppercase; color: var(--acc-deep); margin-bottom: 8px; }
-.ct-map__addr { font-size: 14px; color: var(--mid); margin-bottom: 14px; line-height: 1.6; }
-.ct-map__addr strong { color: var(--ink); font-weight: 600; }
-.ct-map__embed { border: 1px solid var(--border); border-radius: 14px; overflow: hidden; line-height: 0; }
-.ct-map__embed iframe { display: block; width: 100%; }
 
 .ct-channels {
   display: flex;
   flex-direction: column;
   gap: 12px;
-  margin: 32px 0;
+  margin-bottom: 30px;
 }
 .ct-channel {
   display: flex;
   align-items: center;
   gap: 16px;
-  padding: 18px 22px;
+  padding: 16px 20px;
   background: var(--cream);
   border: 1px solid var(--border);
   border-radius: 14px;
@@ -113,8 +110,8 @@
   transform: translateX(4px);
 }
 .ct-channel__icon {
-  width: 44px;
-  height: 44px;
+  width: 42px;
+  height: 42px;
   border-radius: 50%;
   background: var(--white);
   display: flex;
@@ -128,14 +125,8 @@
   background: var(--acc);
   border-color: var(--acc-deep);
 }
-.ct-channel:hover .ct-channel__icon svg {
-  stroke: var(--acc-ink);
-  fill: var(--acc-ink);
-}
-.ct-channel__txt {
-  flex: 1;
-  min-width: 0;
-}
+.ct-channel:hover .ct-channel__icon svg { stroke: var(--acc-ink); fill: var(--acc-ink); }
+.ct-channel__txt { flex: 1; min-width: 0; }
 .ct-channel__lbl {
   font-family: var(--f-m);
   font-size: 10px;
@@ -146,30 +137,81 @@
 }
 .ct-channel__val {
   font-family: var(--f-d);
-  font-size: 17px;
+  font-size: 16px;
   font-weight: 700;
   color: var(--ink);
   letter-spacing: -.01em;
   line-height: 1.2;
   word-break: break-all;
 }
-.ct-channel__arrow {
-  flex-shrink: 0;
-  color: var(--light);
-  transition: .25s;
-}
-.ct-channel:hover .ct-channel__arrow {
+.ct-channel__arrow { flex-shrink: 0; color: var(--light); transition: .25s; }
+.ct-channel:hover .ct-channel__arrow { color: var(--acc-deep); transform: translate(3px, -3px); }
+
+.ct-map { margin-top: 28px; }
+.ct-map__lbl {
+  font-family: var(--f-m);
+  font-size: 10px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
   color: var(--acc-deep);
-  transform: translate(3px, -3px);
+  margin-bottom: 8px;
+}
+.ct-map__addr { font-size: 14px; color: var(--mid); margin-bottom: 14px; line-height: 1.6; }
+.ct-map__addr strong { color: var(--ink); font-weight: 600; }
+.ct-map__embed { border: 1px solid var(--border); border-radius: 14px; overflow: hidden; line-height: 0; }
+.ct-map__embed iframe { display: block; width: 100%; }
+
+/* ── Form (secondary) ── */
+.ct-form-sec {
+  padding: 0 0 80px;
+  background: var(--white);
+}
+.ct-form-sec__in {
+  max-width: 760px;
+  margin: 0 auto;
+}
+.ct-form-wrap {
+  background: var(--cream);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 44px 44px;
+  position: relative;
+  overflow: hidden;
+}
+.ct-form-wrap::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, var(--acc) 0%, var(--acc2) 60%, transparent 100%);
+}
+.ct-form-wrap__head {
+  margin-bottom: 26px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--border);
+}
+.ct-form-wrap__title {
+  font-family: var(--f-d);
+  font-size: 24px;
+  font-weight: 800;
+  letter-spacing: -.015em;
+  color: var(--ink);
+  margin-bottom: 6px;
+}
+.ct-form-wrap__sub {
+  font-size: 14px;
+  color: var(--mid);
+  line-height: 1.65;
+  font-weight: 300;
 }
 
 .ct-tip {
   background: var(--ink);
   border-radius: var(--rlg);
-  padding: 28px 28px;
+  padding: 26px 28px;
   position: relative;
   overflow: hidden;
-  margin-top: 8px;
+  margin-top: 20px;
 }
 .ct-tip::before {
   content: '';
@@ -189,29 +231,17 @@
   color: var(--acc2);
   margin-bottom: 14px;
 }
-.ct-tip__lbl::before {
-  content: '';
-  width: 6px; height: 6px;
-  border-radius: 50%;
-  background: var(--acc2);
-}
+.ct-tip__lbl::before { content: ''; width: 6px; height: 6px; border-radius: 50%; background: var(--acc2); }
 .ct-tip__h3 {
   font-family: var(--f-d);
   font-weight: 700;
-  font-size: 18px;
+  font-size: 17px;
   letter-spacing: -.012em;
   color: var(--white);
   margin-bottom: 14px;
   line-height: 1.3;
 }
-.ct-tip__list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 9px;
-}
+.ct-tip__list { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 9px 24px; }
 .ct-tip__list li {
   display: flex;
   align-items: flex-start;
@@ -230,46 +260,8 @@
   flex-shrink: 0;
 }
 
-.ct-form-wrap {
-  background: var(--cream);
-  border: 1px solid var(--border);
-  border-radius: var(--rlg);
-  padding: 48px 44px;
-  position: relative;
-  overflow: hidden;
-}
-.ct-form-wrap::before {
-  content: '';
-  position: absolute;
-  top: 0; left: 0; right: 0;
-  height: 3px;
-  background: linear-gradient(90deg, var(--acc) 0%, var(--acc2) 60%, transparent 100%);
-}
-.ct-form-wrap__head {
-  margin-bottom: 28px;
-  padding-bottom: 22px;
-  border-bottom: 1px solid var(--border);
-}
-.ct-form-wrap__title {
-  font-family: var(--f-d);
-  font-size: 22px;
-  font-weight: 700;
-  letter-spacing: -.012em;
-  color: var(--ink);
-  margin-bottom: 6px;
-}
-.ct-form-wrap__sub {
-  font-size: 14px;
-  color: var(--mid);
-  line-height: 1.65;
-  font-weight: 300;
-}
-
-.ct-bottom {
-  padding: 70px 0;
-  background: var(--cream2);
-  text-align: center;
-}
+/* ── Closing strip ── */
+.ct-bottom { padding: 64px 0; background: var(--cream2); text-align: center; }
 .ct-bottom__h3 {
   font-family: var(--f-d);
   font-weight: 800;
@@ -300,26 +292,13 @@
   text-transform: uppercase;
   color: var(--mid);
 }
-.ct-bottom__meta span {
-  display: inline-flex;
-  align-items: center;
-  gap: 7px;
-}
-.ct-bottom__meta-dot {
-  width: 6px; height: 6px;
-  border-radius: 50%;
-  background: var(--acc);
-  display: inline-block;
-}
+.ct-bottom__meta span { display: inline-flex; align-items: center; gap: 7px; }
+.ct-bottom__meta-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--acc); display: inline-block; }
 
-/* Contact Form */
+/* Contact form */
 .ct-form-wrap .hidden-fields-container { display: none !important; }
 .ct-form-wrap form p { margin: 0; }
-.ct-form-wrap .wpcf7-form-control-wrap {
-  display: block;
-  position: relative;
-  margin-bottom: 12px;
-}
+.ct-form-wrap .wpcf7-form-control-wrap { display: block; position: relative; margin-bottom: 12px; }
 .ct-form-wrap .wpcf7-form-control-wrap input {
   width: 100%;
   padding: 20px 16px 8px;
@@ -333,10 +312,7 @@
   transition: .22s;
   -webkit-appearance: none;
 }
-.ct-form-wrap .wpcf7-form-control-wrap input:focus {
-  border-color: var(--acc-deep);
-  background: var(--acc-bg);
-}
+.ct-form-wrap .wpcf7-form-control-wrap input:focus { border-color: var(--acc-deep); background: var(--acc-bg); }
 .ct-form-wrap .wpcf7-form-control-wrap input::placeholder { color: transparent; }
 .ct-form-wrap .floating-label {
   position: absolute;
@@ -375,22 +351,19 @@
   transition: .22s;
   border: none;
 }
-.ct-form-wrap .wpcf7-submit:hover {
-  background: var(--acc-dark);
-  transform: translateY(-1px);
-}
+.ct-form-wrap .wpcf7-submit:hover { background: var(--acc-dark); transform: translateY(-1px); }
 
 @media (max-width: 1024px) {
-  .ct-hero { padding: calc(var(--nav-h) + 50px) 0 40px; }
-  .ct-main { padding: 50px 0 80px; }
+  .ct-head { padding: calc(var(--nav-h) + 34px) 0 24px; }
+  .ct-main { padding: 40px 0 56px; }
   .ct-grid { grid-template-columns: 1fr; gap: 44px; }
-  .ct-info { position: relative; top: auto; }
   .ct-form-wrap { padding: 36px 28px; }
 }
 @media (max-width: 640px) {
   .ct-form-wrap { padding: 28px 20px; }
   .ct-channel { padding: 14px 16px; gap: 12px; }
   .ct-channel__val { font-size: 15px; }
+  .ct-tip__list { grid-template-columns: 1fr; }
   .ct-bottom__meta { flex-direction: column; gap: 10px; }
 }
 </style>
@@ -398,36 +371,22 @@
 
 <main id="main">
 
-<section class="ct-hero" aria-labelledby="ct-h1">
+<section class="ct-head" aria-labelledby="ct-h1">
   <div class="line-bg" aria-hidden="true">
     <svg width="100%" height="100%" preserveAspectRatio="none">
       <line x1="0"   y1="20%" x2="100%" y2="60%"/>
       <line x1="0"   y1="50%" x2="100%" y2="90%"/>
-      <line x1="0"   y1="80%" x2="100%" y2="30%"/>
       <line x1="25%" y1="0"   x2="75%"  y2="100%"/>
-      <line x1="60%" y1="0"   x2="10%"  y2="100%"/>
     </svg>
   </div>
-
   <div class="wrap">
-    <div class="ct-hero__inner rv">
-
-      <nav class="ct-hero__breadcrumbs" aria-label="Breadcrumbs">
+    <div class="ct-head__inner rv">
+      <nav class="ct-head__bc" aria-label="Breadcrumbs">
         <a href="/">Acasă</a>
         <span class="sep">/</span>
         <span>Contact</span>
       </nav>
-
-
-      <h1 class="ct-hero__h1" id="ct-h1">
-        Nu știi cum să începi?<br>
-        <span class="acc">Începe cu „Salut!"</span>
-      </h1>
-
-      <p class="ct-hero__lead">
-        Spune-ne câteva cuvinte despre proiectul tău — chiar și unul singur, dacă atât ai. <strong>Răspundem în maxim 24 de ore</strong>, cu o ofertă personalizată sau cel puțin câteva întrebări care să ne ajute să te înțelegem mai bine.
-      </p>
-
+      <h1 class="ct-head__h1" id="ct-h1">Hai să vorbim.</h1>
     </div>
   </div>
 </section>
@@ -437,14 +396,23 @@
   <div class="wrap">
     <div class="ct-grid">
 
-      <div class="ct-info rv">
+      <div class="ct-sched rv">
+        <div class="ct-sched__head">
+          <h2 class="ct-sched__h2">Programează direct un <span class="acc">apel</span></h2>
+          <p class="ct-sched__p">
+            Alege un interval liber din calendar și primești pe loc confirmarea, cu link de Google Meet. <strong>20–30 de minute, fără obligații</strong> — ne spui ce vrei să construiești și îți zicem sincer dacă și cum te putem ajuta.
+          </p>
+        </div>
+        <div class="ct-cal-embed">
+          <!-- Google Calendar Appointment Scheduling begin -->
+          <iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0wXBGc681ISVmT6Qa807ODgCcpYCcigeyyMxXcnUVZbUupykCBGYV0J2VxzM1IjMA8LkwuHiyR?gv=true" style="border: 0" width="100%" height="620" frameborder="0"></iframe>
+          <!-- end Google Calendar Appointment Scheduling -->
+        </div>
+      </div>
 
-        <h2 class="ct-info__h2">
-          Nu-ți place să completezi <span class="acc">formularele?</span>
-        </h2>
-        <p class="ct-info__p">
-          Înțelegem perfect. Trimite-ne un mesaj direct pe canalul tău preferat — răspundem la fel de repede oriunde ne scrii.
-        </p>
+
+      <div class="ct-info rv rv-d1">
+        <h2 class="ct-info__eyebrow">Ne găsești și direct</h2>
 
         <div class="ct-channels">
 
@@ -457,21 +425,6 @@
             <span class="ct-channel__txt">
               <span class="ct-channel__lbl">WhatsApp</span>
               <span class="ct-channel__val">+40 771 486 499</span>
-            </span>
-            <svg class="ct-channel__arrow" width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
-              <path d="M3 11L11 3M11 3H5M11 3V9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-            </svg>
-          </a>
-
-          <a href="https://www.facebook.com/visience.ro" target="_blank" rel="noopener" class="ct-channel">
-            <span class="ct-channel__icon">
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="#0866FF" aria-hidden="true">
-                <path d="M24 12c0-6.6-5.4-12-12-12S0 5.4 0 12c0 6 4.4 11 10.1 11.9V15.5h-3v-3.5h3V9.4c0-3 1.8-4.7 4.5-4.7 1.3 0 2.7.2 2.7.2v3h-1.5c-1.5 0-2 1-2 1.9V12h3.3l-.5 3.5h-2.7v8.4C19.6 23 24 18 24 12z"/>
-              </svg>
-            </span>
-            <span class="ct-channel__txt">
-              <span class="ct-channel__lbl">Facebook Messenger</span>
-              <span class="ct-channel__val">@visience.ro</span>
             </span>
             <svg class="ct-channel__arrow" width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
               <path d="M3 11L11 3M11 3H5M11 3V9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
@@ -509,17 +462,21 @@
             </svg>
           </a>
 
-        </div>
+          <a href="https://www.facebook.com/visience.ro" target="_blank" rel="noopener" class="ct-channel">
+            <span class="ct-channel__icon">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="#0866FF" aria-hidden="true">
+                <path d="M24 12c0-6.6-5.4-12-12-12S0 5.4 0 12c0 6 4.4 11 10.1 11.9V15.5h-3v-3.5h3V9.4c0-3 1.8-4.7 4.5-4.7 1.3 0 2.7.2 2.7.2v3h-1.5c-1.5 0-2 1-2 1.9V12h3.3l-.5 3.5h-2.7v8.4C19.6 23 24 18 24 12z"/>
+              </svg>
+            </span>
+            <span class="ct-channel__txt">
+              <span class="ct-channel__lbl">Facebook Messenger</span>
+              <span class="ct-channel__val">@visience.ro</span>
+            </span>
+            <svg class="ct-channel__arrow" width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+              <path d="M3 11L11 3M11 3H5M11 3V9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </a>
 
-        <div class="ct-tip">
-          <div class="ct-tip__lbl">Pont util</div>
-          <h3 class="ct-tip__h3">Este foarte util atunci când menționezi:</h3>
-          <ul class="ct-tip__list">
-            <li>Produsul sau serviciul pe care îl oferi</li>
-            <li>Istoricul afacerii tale &amp; ce ai încercat până acum</li>
-            <li>Bugetul aproximativ pentru proiect</li>
-            <li>De unde ai auzit de visience.ro</li>
-          </ul>
         </div>
 
         <div class="ct-map">
@@ -527,7 +484,7 @@
           <p class="ct-map__addr"><strong>Visience</strong> · Bulevardul Nicolae Iorga 18, Iași 700224</p>
           <div class="ct-map__embed">
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5338770.555992093!2d11.0685907454992!3d49.20394451450067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40cafbd9dff9e567%3A0x48a1babe3869bdcf!2sVisience!5e0!3m2!1sen!2sfr!4v1782729701278!5m2!1sen!2sfr"
-              width="100%" height="320" style="border:0" allowfullscreen loading="lazy"
+              width="100%" height="240" style="border:0" allowfullscreen loading="lazy"
               referrerpolicy="strict-origin-when-cross-origin"
               title="Locația Visience pe Google Maps — Bulevardul Nicolae Iorga 18, Iași"></iframe>
           </div>
@@ -535,13 +492,21 @@
 
       </div>
 
+    </div>
+  </div>
+</section>
 
-      <div class="ct-form-wrap rv rv-d1">
+
+<section class="ct-form-sec">
+  <div class="wrap">
+    <div class="ct-form-sec__in">
+
+      <div class="ct-form-wrap rv">
 
         <div class="ct-form-wrap__head">
-          <h2 class="ct-form-wrap__title">Trimite-ne un mesaj</h2>
+          <h2 class="ct-form-wrap__title">Sau completează formularul</h2>
           <p class="ct-form-wrap__sub">
-            Toate câmpurile sunt opționale, în afară de un mod de a te contacta. Răspundem în maxim 24 de ore.
+            Preferi în scris? Lasă-ne câteva detalii și revenim în maxim 24 de ore cu o ofertă personalizată. Toate câmpurile sunt opționale, în afară de un mod de a te contacta.
           </p>
         </div>
 
@@ -577,6 +542,17 @@
 
       </div>
 
+      <div class="ct-tip rv rv-d1">
+        <div class="ct-tip__lbl">Pont util</div>
+        <h3 class="ct-tip__h3">Ne ajută mult dacă menționezi:</h3>
+        <ul class="ct-tip__list">
+          <li>Produsul sau serviciul pe care îl oferi</li>
+          <li>Istoricul afacerii &amp; ce ai încercat până acum</li>
+          <li>Bugetul aproximativ pentru proiect</li>
+          <li>De unde ai auzit de visience.ro</li>
+        </ul>
+      </div>
+
     </div>
   </div>
 </section>
@@ -601,6 +577,6 @@
 </section>
 
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"ContactPage\",\"name\":\"Contact Visience\",\"url\":\"https://visience.ro/contact\",\"mainEntity\":{\"@type\":\"Organization\",\"name\":\"Visience Creative Experience\",\"telephone\":\"+40771486499\",\"email\":\"contact@visience.ro\",\"url\":\"https://visience.ro/\"}}"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vuH2VAGoiPrKgJIApfLai"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"ContactPage\",\"name\":\"Contact Visience\",\"url\":\"https://visience.ro/contact\",\"mainEntity\":{\"@type\":\"Organization\",\"name\":\"Visience Creative Experience\",\"telephone\":\"+40771486499\",\"email\":\"contact@visience.ro\",\"url\":\"https://visience.ro/\"}}"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"NQMlclKWzKmkmyyHIZwDe"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
