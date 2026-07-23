@@ -1,0 +1,51 @@
+1:"$Sreact.fragment"
+9:I[97367,["/_next/static/chunks/1sc-domm6vvfo.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["/_next/static/chunks/28or4npab1wgt.css","style"]
+2:T8cd,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/landing-page-dupa-click-reclama/#article","headline":"Landing page: ce vede omul după click contează cel mai mult","description":"Regulile unei pagini de destinație care convertește: un mesaj, un buton, informația esențială sus, fără distrageri. Și ce o strică.","datePublished":"2026-07-23","dateModified":"2026-07-23","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/landing-page-dupa-click-reclama/","articleSection":"Reclame & campanii","image":"https://visience.ro/media/w-b5-landing.avif"},{"@type":"FAQPage","@id":"https://visience.ro/blog/landing-page-dupa-click-reclama/#faq","mainEntity":[{"@type":"Question","name":"Cât de lungă trebuie să fie o landing page?","acceptedAnswer":{"@type":"Answer","text":"Atât cât e nevoie ca omul să se decidă — nu mai mult. Pentru o ofertă simplă, o pagină scurtă cu ofertă, dovezi și buton e suficientă. Pentru servicii scumpe, e nevoie de mai multe argumente."}},{"@type":"Question","name":"Pot folosi aceeași pagină pentru mai multe reclame?","acceptedAnswer":{"@type":"Answer","text":"Poți, dar pierzi din eficiență. Cea mai bună practică este ca fiecare mesaj important de reclamă să aibă o pagină care îl continuă exact, cu același titlu și aceeași ofertă."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Landing page: ce vede omul după click contează cel mai mult","item":"https://visience.ro/blog/landing-page-dupa-click-reclama/"}]}]}3:Te74,<p class="key-answer">Când cineva dă click pe reclama ta, ajunge pe o pagină — și <strong>acolo se câștigă sau se pierde clientul</strong>. Regula e simplă: un singur mesaj clar, un singur buton de acțiune, informația esențială sus, fără distrageri.</p>
+
+<figure class="post-img">
+  <img src="/media/w-b5-landing.avif" alt="Landing page — ce vede omul după click pe reclamă" width="1200" height="1200" loading="eager">
+</figure>
+
+<h2>Regulile unei pagini care convertește</h2>
+<ul>
+<li><strong>Un singur obiectiv.</strong> Pagina cere un lucru: o cerere de ofertă, o programare, o comandă. Nu trei.</li>
+<li><strong>Titlul continuă reclama.</strong> Omul trebuie să simtă că a ajuns exact unde voia, nu că a nimerit greșit.</li>
+<li><strong>Informația esențială sus</strong> — ce primește, cât costă (dacă se poate), de ce tu.</li>
+<li><strong>Fără meniu și linkuri care plimbă.</strong> Fiecare ieșire din pagină e un client pierdut.</li>
+<li><strong>Dovezi lângă buton</strong> — recenzii, garanții, lucrări. Exact acolo unde omul ezită.</li>
+</ul>
+<h2>Ce strică o landing page</h2>
+<p>O pagină care încearcă să spună totul nu spune nimic. Omul a venit cu o intenție; sarcina paginii e să i-o împlinească în câteva secunde, nu s-o îngroape sub istoria firmei. Alte capcane: formulare cu opt câmpuri, imagini uriașe care se încarcă lent, butoane care nu se văd pe telefon.</p>
+<h2>Landing page vs. homepage</h2>
+<p>Homepage-ul are multe roluri: prezintă firma, duce spre servicii, spre portofoliu, spre contact. O pagină de destinație are unul singur. De aceea, pentru campanii plătite, o landing dedicată bate aproape mereu homepage-ul.</p>
+<h2>Testează, nu presupune</h2>
+<p>Schimbă titlul, ordinea secțiunilor sau textul butonului și măsoară. Diferențe mici de formulare pot schimba semnificativ numărul de cereri — iar singurul mod de a ști sigur e să compari două variante.</p>
+
+<h2>Ce scoatem dintr-o pagină de campanie</h2>
+<p>Când construim o pagină pentru o campanie plătită, lista lucrurilor pe care le <em>scoatem</em> e de obicei mai lungă decât a celor pe care le punem:</p>
+<ul>
+<li><strong>Meniul complet.</strong> Fiecare link din meniu e o ieșire posibilă din pagină, pe bani plătiți de tine. Rămâne logo-ul și, eventual, numărul de telefon.</li>
+<li><strong>Câmpurile inutile din formular.</strong> Nume, telefon și o linie de detalii sunt suficiente. Adresa, numele firmei și „cum ai auzit de noi" se pot afla la telefon.</li>
+<li><strong>Secțiunea de istoric al firmei.</strong> Omul a venit pentru o ofertă, nu pentru biografie. Dacă e nevoie de credibilitate, o rezolvă recenziile, mai scurt.</li>
+</ul>
+<p>Fiecare element scos crește șansa ca omul să facă singurul lucru pentru care ai plătit click-ul.</p>
+
+<h2>Întrebări frecvente</h2>
+<h3>Cât de lungă trebuie să fie o landing page?</h3>
+<p>Atât cât e nevoie ca omul să se decidă — nu mai mult. Pentru o ofertă simplă, o pagină scurtă cu ofertă, dovezi și buton e suficientă. Pentru servicii scumpe, e nevoie de mai multe argumente.</p>
+<h3>Pot folosi aceeași pagină pentru mai multe reclame?</h3>
+<p>Poți, dar pierzi din eficiență. Cea mai bună practică este ca fiecare mesaj important de reclamă să aibă o pagină care îl continuă exact, cu același titlu și aceeași ofertă.</p>
+
+<div class="case-cta">
+  <p><strong>Vrei o pagină de destinație care chiar convertește? Îți construim una.</strong></p>
+  <a href="https://wa.me/40771486499" target="_blank" rel="noopener" class="btn btn-solid">Scrie-ne pe WhatsApp →</a>
+</div>
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Landing page: ce vede omul după click contează cel mai mult"}],["$","div",null,{"className":"blog-article__meta","children":[["$","span",null,{"className":"blog-article__cat","children":"Reclame & campanii"}],["$","time",null,{"dateTime":"2026-07-23","children":"23 iulie 2026"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5","$L6"]}]}]],["$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XT_ob08z8mVe1IcdoAntz"}
+4:["$","div",null,{"className":"parere","children":[["$","span",null,{"className":"parere__q","children":"Ți-a fost utilă pagina?"}],["$","div",null,{"className":"parere__btns","children":[["$","button",null,{"type":"button","data-nota":"da","children":"Da"}],["$","button",null,{"type":"button","data-nota":"partial","children":"Parțial"}],["$","button",null,{"type":"button","data-nota":"nu","children":"Nu"}]]}],["$","div",null,{"className":"parere__extra","hidden":true,"children":["$","form",null,{"children":[["$","textarea",null,{"rows":2,"placeholder":"Ce ai fi vrut să găsești aici? (opțional)"}],["$","button",null,{"className":"btn btn-solid","type":"submit","children":"Trimite"}]]}]}]]}]
+5:["$","div",null,{"className":"blog-author","children":[["$","span",null,{"className":"blog-author__ava","aria-hidden":"true","children":"V"}],["$","div",null,{"className":"blog-author__body","children":[["$","span",null,{"className":"blog-author__name","children":"Vlad Roman"}],["$","span",null,{"className":"blog-author__role","children":["Fondator Visience · ",["$","a",null,{"href":"https://www.linkedin.com/in/roman-vladut-constantin/","target":"_blank","rel":"noopener","className":"blog-author__link","children":"LinkedIn ↗"}]]}],["$","p",null,{"className":"blog-author__bio","children":"Conduce Visience, agenția de web design și marketing digital din Iași. Scrie despre creare de site-uri, SEO și cum își cresc afacerile mici și mijlocii prezența online."}]]}]]}]
+6:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
+7:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/28or4npab1wgt.css","precedence":"next"}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

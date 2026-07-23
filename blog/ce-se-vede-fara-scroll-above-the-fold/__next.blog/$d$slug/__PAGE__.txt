@@ -1,0 +1,46 @@
+1:"$Sreact.fragment"
+9:I[97367,["/_next/static/chunks/1sc-domm6vvfo.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["/_next/static/chunks/28or4npab1wgt.css","style"]
+2:T87b,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/ce-se-vede-fara-scroll-above-the-fold/#article","headline":"Above the fold: ce se vede fără scroll decide totul","description":"8 din 10 vizitatori nu derulează sub prima secțiune. Ce trebuie să stea deasupra „fold-ului” și de ce acolo se decide dacă omul rămâne.","datePublished":"2026-07-23","dateModified":"2026-07-23","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/ce-se-vede-fara-scroll-above-the-fold/","articleSection":"Creare site","image":"https://visience.ro/media/w-a4-above-fold.avif"},{"@type":"FAQPage","@id":"https://visience.ro/blog/ce-se-vede-fara-scroll-above-the-fold/#faq","mainEntity":[{"@type":"Question","name":"Ce înseamnă „above the fold”?","acceptedAnswer":{"@type":"Answer","text":"Este zona din pagină vizibilă imediat, fără să derulezi. Termenul vine din presa tipărită, unde conta ce se vedea pe jumătatea de sus a ziarului împăturit."}},{"@type":"Question","name":"Ce pun deasupra fold-ului dacă am mai multe servicii?","acceptedAnswer":{"@type":"Answer","text":"Pune mesajul-umbrelă care le acoperă pe toate și un singur buton de acțiune. Detalierea serviciilor vine imediat sub, pentru cine derulează."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Above the fold: ce se vede fără scroll decide totul","item":"https://visience.ro/blog/ce-se-vede-fara-scroll-above-the-fold/"}]}]}3:Tcc9,<p class="key-answer">Pe orice site există o linie invizibilă — „<strong>fold-ul</strong>”, limita a ceea ce se vede fără să derulezi. Aproximativ <strong>8 din 10 vizitatori nu ajung niciodată sub ea</strong>.</p>
+
+<figure class="post-img">
+  <img src="/media/w-a4-above-fold.avif" alt="Above the fold — ce se vede fără scroll pe site" width="1200" height="1200" loading="eager">
+</figure>
+
+<h2>De ce contează atât de mult</h2>
+<p>Tot ce e sub linia asta e bonus, pentru cei curioși. Tot ce e deasupra e obligatoriu, pentru toată lumea. De aceea, când construim un site, ne batem cel mai mult exact pe această primă secțiune: ea decide dacă omul rămâne sau nu.</p>
+<h2>Ce trebuie să stea deasupra liniei</h2>
+<ul>
+<li><strong>Cine ești și ce oferi</strong> — un titlu clar, nu un slogan.</li>
+<li><strong>Pentru cine</strong> — o precizare scurtă care îl face pe om să se recunoască.</li>
+<li><strong>Butonul de acțiune</strong> — pasul următor, la vedere.</li>
+<li><strong>Un semnal de încredere</strong>, dacă încape — recenzii sau o cifră relevantă.</li>
+</ul>
+<h2>„Fold-ul nu mai există" — de ce e o scuză proastă</h2>
+<p>Se aude des că oamenii s-au obișnuit să deruleze, deci nu mai contează. Parțial adevărat: derulează, dar doar dacă primesc un motiv în primele secunde. Fold-ul nu mai e o graniță absolută, e un <em>filtru</em>. Cine trece de el citește mai departe; cine nu, pleacă.</p>
+<h2>Atenție la fold-ul de pe telefon</h2>
+
+<h2>Cât spațiu ai, de fapt, pe telefon</h2>
+<p>Pe un telefon obișnuit, zona vizibilă fără scroll are în jur de 600–700 de pixeli în înălțime. Din ea, bara browserului mănâncă o parte, iar meniul tău încă una. Rămân, realist, cam 450 de pixeli: un titlu de două rânduri, o propoziție și un buton. Atât.</p>
+<p>De aceea nu încap acolo și sloganul, și cele cinci servicii, și formularul, și sliderul cu poze. Cel mai frecvent lucru pe care îl scoatem din prima secțiune sunt exact sliderele: schimbă mesajul la fiecare patru secunde, iar omul apucă să citească a doua variantă în timp ce încă o procesa pe prima. Un mesaj fix, bine ales, funcționează mai bine decât trei care se rotesc.</p>
+
+<p>Pe mobil, spațiul vizibil e mult mai mic — uneori doar titlul și un buton. De aceea gândim prima secțiune întâi pentru telefon, unde <a href="/blog/site-mobile-first-7-din-10-clienti/">vin cei mai mulți vizitatori</a>, și abia apoi pentru desktop.</p>
+
+<h2>Întrebări frecvente</h2>
+<h3>Ce înseamnă „above the fold”?</h3>
+<p>Este zona din pagină vizibilă imediat, fără să derulezi. Termenul vine din presa tipărită, unde conta ce se vedea pe jumătatea de sus a ziarului împăturit.</p>
+<h3>Ce pun deasupra fold-ului dacă am mai multe servicii?</h3>
+<p>Pune mesajul-umbrelă care le acoperă pe toate și un singur buton de acțiune. Detalierea serviciilor vine imediat sub, pentru cine derulează.</p>
+
+<div class="case-cta">
+  <p><strong>Vrei o părere despre prima secțiune a site-ului tău? Scrie-ne, ne uităm gratuit.</strong></p>
+  <a href="https://wa.me/40771486499" target="_blank" rel="noopener" class="btn btn-solid">Scrie-ne pe WhatsApp →</a>
+</div>
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Above the fold: ce se vede fără scroll decide totul"}],["$","div",null,{"className":"blog-article__meta","children":[["$","span",null,{"className":"blog-article__cat","children":"Creare site"}],["$","time",null,{"dateTime":"2026-07-23","children":"23 iulie 2026"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5","$L6"]}]}]],["$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XT_ob08z8mVe1IcdoAntz"}
+4:["$","div",null,{"className":"parere","children":[["$","span",null,{"className":"parere__q","children":"Ți-a fost utilă pagina?"}],["$","div",null,{"className":"parere__btns","children":[["$","button",null,{"type":"button","data-nota":"da","children":"Da"}],["$","button",null,{"type":"button","data-nota":"partial","children":"Parțial"}],["$","button",null,{"type":"button","data-nota":"nu","children":"Nu"}]]}],["$","div",null,{"className":"parere__extra","hidden":true,"children":["$","form",null,{"children":[["$","textarea",null,{"rows":2,"placeholder":"Ce ai fi vrut să găsești aici? (opțional)"}],["$","button",null,{"className":"btn btn-solid","type":"submit","children":"Trimite"}]]}]}]]}]
+5:["$","div",null,{"className":"blog-author","children":[["$","span",null,{"className":"blog-author__ava","aria-hidden":"true","children":"V"}],["$","div",null,{"className":"blog-author__body","children":[["$","span",null,{"className":"blog-author__name","children":"Vlad Roman"}],["$","span",null,{"className":"blog-author__role","children":["Fondator Visience · ",["$","a",null,{"href":"https://www.linkedin.com/in/roman-vladut-constantin/","target":"_blank","rel":"noopener","className":"blog-author__link","children":"LinkedIn ↗"}]]}],["$","p",null,{"className":"blog-author__bio","children":"Conduce Visience, agenția de web design și marketing digital din Iași. Scrie despre creare de site-uri, SEO și cum își cresc afacerile mici și mijlocii prezența online."}]]}]]}]
+6:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
+7:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/28or4npab1wgt.css","precedence":"next"}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

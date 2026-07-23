@@ -1,0 +1,50 @@
+1:"$Sreact.fragment"
+9:I[97367,["/_next/static/chunks/1sc-domm6vvfo.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["/_next/static/chunks/28or4npab1wgt.css","style"]
+2:T881,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/checklist-site-de-prezentare/#article","headline":"Checklist: ce trebuie să aibă orice site de prezentare","description":"Șase puncte de verificat pe site-ul tău: mesaj clar, buton de acțiune, dovezi, contact vizibil, viteză și SEO tehnic. Bifează-le și vezi unde pierzi clienți.","datePublished":"2026-07-23","dateModified":"2026-07-23","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/checklist-site-de-prezentare/","articleSection":"Creare site","image":"https://visience.ro/media/w-a8-checklist.avif"},{"@type":"FAQPage","@id":"https://visience.ro/blog/checklist-site-de-prezentare/#faq","mainEntity":[{"@type":"Question","name":"Ce e cel mai important punct de pe listă?","acceptedAnswer":{"@type":"Answer","text":"Mesajul clar din prima secțiune. Dacă omul nu înțelege în câteva secunde ce oferi, restul punctelor nu mai apucă să conteze."}},{"@type":"Question","name":"Cât costă să repari punctele care lipsesc?","acceptedAnswer":{"@type":"Answer","text":"Depinde de site. Mesajul, butoanele și contactul sunt de obicei modificări mici. Viteza și SEO-ul tehnic pot cere intervenții mai serioase. Vezi prețurile noastre publice pe pagina de prețuri."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Checklist: ce trebuie să aibă orice site de prezentare","item":"https://visience.ro/blog/checklist-site-de-prezentare/"}]}]}3:Tdc6,<p class="key-answer">Șase puncte. Dacă le bifezi pe toate, ai un site care muncește pentru tine. Dacă lipsesc câteva, <strong>exact acolo pierzi clienți</strong>.</p>
+
+<figure class="post-img">
+  <img src="/media/w-a8-checklist.avif" alt="Checklist pentru un site de prezentare care aduce clienți" width="1200" height="1200" loading="eager">
+</figure>
+
+<h2>Lista de verificare</h2>
+<ul>
+<li><strong>Un mesaj clar în prima secțiune</strong> — omul înțelege în 5 secunde ce oferi și pentru cine.</li>
+<li><strong>Buton de acțiune pe fiecare pagină</strong> — un pas următor evident, nu doar în pagina de contact.</li>
+<li><strong>Dovezi: portofoliu și recenzii</strong> — lucrări reale și păreri de la clienți, nu adjective despre tine.</li>
+<li><strong>Contact vizibil</strong> — telefon, formular, WhatsApp, ușor de găsit de pe orice pagină.</li>
+<li><strong>Viteză de încărcare bună</strong> — sub 2,5 secunde pe mobil; peste, pierzi vizitatori plătiți.</li>
+<li><strong>SEO tehnic</strong> — titluri corecte, structură, sitemap și site indexat, ca să apari în Google.</li>
+</ul>
+<h2>Cum verifici fiecare punct</h2>
+<p>Deschide site-ul pe telefon, pe date mobile, și parcurge lista ca un client: înțelegi din prima ce se oferă? Găsești butonul? Vezi lucrări și recenzii? Poți suna dintr-un tap? Se încarcă repede? Iar pentru ultimul punct, caută în Google „site:domeniultau.ro" — dacă nu apare nimic, <a href="/blog/site-indexat-google-search-console/">site-ul nu e indexat</a>.</p>
+<h2>Ce faci cu rezultatul</h2>
+<p>Nu trebuie să le rezolvi pe toate deodată. Ia-le în ordinea din listă — mesajul și butonul aduc cele mai rapide câștiguri, viteza și SEO-ul lucrează pe termen lung.</p>
+
+<h2>Ce repari azi și ce cere timp</h2>
+<p>Nu toate punctele costă la fel. Din experiența noastră, împărțirea arată cam așa:</p>
+<ul>
+<li><strong>Se rezolvă într-o zi:</strong> textul din prima secțiune, butoanele de acțiune, numărul de telefon la vedere pe mobil, adăugarea recenziilor existente din Google.</li>
+<li><strong>Cere o săptămână–două:</strong> portofoliul (adunarea și pregătirea pozelor durează mai mult decât publicarea lor), rescrierea paginilor de servicii.</li>
+<li><strong>Cere mai mult:</strong> viteza, dacă site-ul e construit pe o temă grea cu zece plugin-uri, și SEO-ul, care oricum lucrează pe termen lung.</li>
+</ul>
+<p>Ordinea logică e exact asta: întâi ce e ieftin și are efect imediat, apoi restul. Am văzut destule cazuri în care primele patru modificări, făcute într-o după-amiază, au adus mai multe cereri decât o rescriere completă plănuită de șase luni și niciodată începută.</p>
+
+<h2>Întrebări frecvente</h2>
+<h3>Ce e cel mai important punct de pe listă?</h3>
+<p>Mesajul clar din prima secțiune. Dacă omul nu înțelege în câteva secunde ce oferi, restul punctelor nu mai apucă să conteze.</p>
+<h3>Cât costă să repari punctele care lipsesc?</h3>
+<p>Depinde de site. Mesajul, butoanele și contactul sunt de obicei modificări mici. Viteza și SEO-ul tehnic pot cere intervenții mai serioase. Vezi prețurile noastre publice pe pagina de prețuri.</p>
+
+<div class="case-cta">
+  <p><strong>Trimite-ne linkul site-ului tău — îți spunem exact ce puncte lipsesc. Analiza e gratuită.</strong></p>
+  <a href="https://wa.me/40771486499" target="_blank" rel="noopener" class="btn btn-solid">Scrie-ne pe WhatsApp →</a>
+</div>
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Checklist: ce trebuie să aibă orice site de prezentare"}],["$","div",null,{"className":"blog-article__meta","children":[["$","span",null,{"className":"blog-article__cat","children":"Creare site"}],["$","time",null,{"dateTime":"2026-07-23","children":"23 iulie 2026"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5","$L6"]}]}]],["$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XT_ob08z8mVe1IcdoAntz"}
+4:["$","div",null,{"className":"parere","children":[["$","span",null,{"className":"parere__q","children":"Ți-a fost utilă pagina?"}],["$","div",null,{"className":"parere__btns","children":[["$","button",null,{"type":"button","data-nota":"da","children":"Da"}],["$","button",null,{"type":"button","data-nota":"partial","children":"Parțial"}],["$","button",null,{"type":"button","data-nota":"nu","children":"Nu"}]]}],["$","div",null,{"className":"parere__extra","hidden":true,"children":["$","form",null,{"children":[["$","textarea",null,{"rows":2,"placeholder":"Ce ai fi vrut să găsești aici? (opțional)"}],["$","button",null,{"className":"btn btn-solid","type":"submit","children":"Trimite"}]]}]}]]}]
+5:["$","div",null,{"className":"blog-author","children":[["$","span",null,{"className":"blog-author__ava","aria-hidden":"true","children":"V"}],["$","div",null,{"className":"blog-author__body","children":[["$","span",null,{"className":"blog-author__name","children":"Vlad Roman"}],["$","span",null,{"className":"blog-author__role","children":["Fondator Visience · ",["$","a",null,{"href":"https://www.linkedin.com/in/roman-vladut-constantin/","target":"_blank","rel":"noopener","className":"blog-author__link","children":"LinkedIn ↗"}]]}],["$","p",null,{"className":"blog-author__bio","children":"Conduce Visience, agenția de web design și marketing digital din Iași. Scrie despre creare de site-uri, SEO și cum își cresc afacerile mici și mijlocii prezența online."}]]}]]}]
+6:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
+7:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/28or4npab1wgt.css","precedence":"next"}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

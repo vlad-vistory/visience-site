@@ -1,0 +1,47 @@
+1:"$Sreact.fragment"
+9:I[97367,["/_next/static/chunks/1sc-domm6vvfo.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["/_next/static/chunks/28or4npab1wgt.css","style"]
+2:T87d,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/site-indexat-google-search-console/#article","headline":"Ai un site. Dar Google știe că există?","description":"Un site publicat nu apare automat în Google. Cum verifici dacă e indexat, de ce contează Search Console și ce faci dacă paginile lipsesc.","datePublished":"2026-07-23","dateModified":"2026-07-23","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/site-indexat-google-search-console/","articleSection":"SEO","image":"https://visience.ro/media/w-b1-indexare.avif"},{"@type":"FAQPage","@id":"https://visience.ro/blog/site-indexat-google-search-console/#faq","mainEntity":[{"@type":"Question","name":"Cum verific dacă site-ul meu e indexat în Google?","acceptedAnswer":{"@type":"Answer","text":"Caută în Google „site:domeniultau.ro”. Dacă apar pagini, site-ul este indexat. Dacă nu apare niciun rezultat, Google nu îți vede paginile și nu le poate afișa nimănui."}},{"@type":"Question","name":"Cât durează până apare un site nou în Google?","acceptedAnswer":{"@type":"Answer","text":"De la câteva zile la câteva săptămâni. Poți grăbi procesul conectând site-ul la Search Console, trimițând sitemap-ul și cerând indexarea paginilor importante."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Ai un site. Dar Google știe că există?","item":"https://visience.ro/blog/site-indexat-google-search-console/"}]}]}3:Tdd8,<p class="key-answer">Mulți cred că, odată publicat, site-ul apare automat în Google. <strong>Nu apare.</strong> Dacă nu e conectat la Google Search Console și trimis la indexare, pentru Google pur și simplu nu există.</p>
+
+<figure class="post-img">
+  <img src="/media/w-b1-indexare.avif" alt="Verifică dacă site-ul tău e indexat în Google" width="1200" height="1200" loading="eager">
+</figure>
+
+<h2>Cum verifici în 10 secunde</h2>
+<p>Scrie în Google: <strong>site:domeniultau.ro</strong>. Rezultatele afișate sunt paginile pe care Google le are indexate. Dacă nu apare nimic, site-ul tău e invizibil în căutări — oricât de bine ar arăta.</p>
+<h2>De ce nu apare automat</h2>
+<p>Google descoperă pagini urmărind linkuri de pe alte site-uri. Un domeniu nou, fără linkuri către el, poate rămâne nedescoperit săptămâni întregi. E ca și cum ai deschide un magazin superb, dar nu l-ai trecut pe nicio hartă: poate fi impecabil pe dinăuntru, degeaba, dacă nimeni nu știe drumul.</p>
+<h2>Ce trebuie făcut</h2>
+<ul>
+<li><strong>Conectează site-ul la Google Search Console</strong> — e gratuit și e canalul oficial prin care îi spui lui Google că exiști.</li>
+<li><strong>Trimite sitemap-ul</strong> (de obicei domeniu.ro/sitemap.xml) — lista tuturor paginilor tale.</li>
+<li><strong>Verifică erorile de indexare</strong> — Search Console îți arată ce pagini nu au fost incluse și de ce.</li>
+<li><strong>Cere indexarea paginilor noi</strong> — <a href="/blog/cerere-de-indexare-google-search-console/">se face manual, în câteva secunde</a>.</li>
+</ul>
+<h2>Indexat nu înseamnă și pe prima pagină</h2>
+
+<h2>Cazul care ne iese cel mai des în față</h2>
+<p>Când preluăm un site care „nu apare în Google", primul lucru pe care îl verificăm este dacă a rămas activă blocarea de la dezvoltare. În timpul construcției, site-urile se țin de obicei ascunse de motoarele de căutare printr-o setare simplă — o bifă în WordPress sau o instrucțiune numită <code>noindex</code>. La lansare, ea trebuie scoasă.</p>
+<p>Se uită mai des decât ai crede. Rezultatul e un site perfect funcțional, care primește vizitatori din reclame și din link-uri directe, dar care îi spune politicos lui Google „nu mă lua în seamă". Poate sta așa luni întregi, iar proprietarul trage concluzia că „SEO-ul nu merge".</p>
+<p>Verificarea durează un minut, iar remedierea, cinci. Merită făcută înainte de orice altceva.</p>
+
+<p>Indexarea e doar biletul de intrare: Google știe că exiști și te poate afișa. Poziția în rezultate depinde apoi de conținut, de structura tehnică și de autoritatea domeniului — adică de <a href="/optimizare-seo/">munca de SEO</a>.</p>
+
+<h2>Întrebări frecvente</h2>
+<h3>Cum verific dacă site-ul meu e indexat în Google?</h3>
+<p>Caută în Google „site:domeniultau.ro”. Dacă apar pagini, site-ul este indexat. Dacă nu apare niciun rezultat, Google nu îți vede paginile și nu le poate afișa nimănui.</p>
+<h3>Cât durează până apare un site nou în Google?</h3>
+<p>De la câteva zile la câteva săptămâni. Poți grăbi procesul conectând site-ul la Search Console, trimițând sitemap-ul și cerând indexarea paginilor importante.</p>
+
+<div class="case-cta">
+  <p><strong>Vrei să verificăm dacă site-ul tău e indexat corect? O facem gratuit.</strong></p>
+  <a href="https://wa.me/40771486499" target="_blank" rel="noopener" class="btn btn-solid">Scrie-ne pe WhatsApp →</a>
+</div>
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Ai un site. Dar Google știe că există?"}],["$","div",null,{"className":"blog-article__meta","children":[["$","span",null,{"className":"blog-article__cat","children":"SEO"}],["$","time",null,{"dateTime":"2026-07-23","children":"23 iulie 2026"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5","$L6"]}]}]],["$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XT_ob08z8mVe1IcdoAntz"}
+4:["$","div",null,{"className":"parere","children":[["$","span",null,{"className":"parere__q","children":"Ți-a fost utilă pagina?"}],["$","div",null,{"className":"parere__btns","children":[["$","button",null,{"type":"button","data-nota":"da","children":"Da"}],["$","button",null,{"type":"button","data-nota":"partial","children":"Parțial"}],["$","button",null,{"type":"button","data-nota":"nu","children":"Nu"}]]}],["$","div",null,{"className":"parere__extra","hidden":true,"children":["$","form",null,{"children":[["$","textarea",null,{"rows":2,"placeholder":"Ce ai fi vrut să găsești aici? (opțional)"}],["$","button",null,{"className":"btn btn-solid","type":"submit","children":"Trimite"}]]}]}]]}]
+5:["$","div",null,{"className":"blog-author","children":[["$","span",null,{"className":"blog-author__ava","aria-hidden":"true","children":"V"}],["$","div",null,{"className":"blog-author__body","children":[["$","span",null,{"className":"blog-author__name","children":"Vlad Roman"}],["$","span",null,{"className":"blog-author__role","children":["Fondator Visience · ",["$","a",null,{"href":"https://www.linkedin.com/in/roman-vladut-constantin/","target":"_blank","rel":"noopener","className":"blog-author__link","children":"LinkedIn ↗"}]]}],["$","p",null,{"className":"blog-author__bio","children":"Conduce Visience, agenția de web design și marketing digital din Iași. Scrie despre creare de site-uri, SEO și cum își cresc afacerile mici și mijlocii prezența online."}]]}]]}]
+6:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
+7:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/28or4npab1wgt.css","precedence":"next"}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

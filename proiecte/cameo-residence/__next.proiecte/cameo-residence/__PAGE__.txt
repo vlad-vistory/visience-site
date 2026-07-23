@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-4:I[97367,["/_next/static/chunks/0iuavcsxmjav_.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/1sc-domm6vvfo.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
 2:T3570,<style>
 .cs { background: var(--white); }
@@ -188,6 +188,6 @@
   </nav>
 
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CreativeWork\",\"@id\":\"https://visience.ro/proiecte/cameo-residence/#case\",\"name\":\"Cameo Residence — studiu de caz\",\"about\":\"Marketing imobiliar pentru ansamblul rezidențial Cameo Residence, Iași\",\"creator\":{\"@type\":\"Organization\",\"name\":\"Visience Creative Experience\",\"url\":\"https://visience.ro/\"},\"keywords\":\"marketing imobiliar, branding, website, Google Ads, Meta Ads, Cameo Residence, Iași\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Acasă\",\"item\":\"https://visience.ro/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Proiecte\",\"item\":\"https://visience.ro/portofoliu/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Cameo Residence\",\"item\":\"https://visience.ro/proiecte/cameo-residence/\"}]}]}"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"a3iJ1AC-4D8w-rUpSj2YL"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CreativeWork\",\"@id\":\"https://visience.ro/proiecte/cameo-residence/#case\",\"name\":\"Cameo Residence — studiu de caz\",\"about\":\"Marketing imobiliar pentru ansamblul rezidențial Cameo Residence, Iași\",\"creator\":{\"@type\":\"Organization\",\"name\":\"Visience Creative Experience\",\"url\":\"https://visience.ro/\"},\"keywords\":\"marketing imobiliar, branding, website, Google Ads, Meta Ads, Cameo Residence, Iași\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Acasă\",\"item\":\"https://visience.ro/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Proiecte\",\"item\":\"https://visience.ro/portofoliu/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Cameo Residence\",\"item\":\"https://visience.ro/proiecte/cameo-residence/\"}]}]}"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XT_ob08z8mVe1IcdoAntz"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

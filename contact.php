@@ -60,5 +60,46 @@ if ($telefon !== '') {
 
 mail($destinatar, $subiect, $corp, implode("\r\n", $antet));
 
+// salvam si in CRM; daca ceva nu merge acolo, emailul a plecat deja
+try {
+  require_once __DIR__ . '/crm/lib.php';
+
+  $ref = $curata('referinta', 200);
+  $gazda = $ref !== '' ? parse_url($ref, PHP_URL_HOST) : '';
+  $gazda = $gazda ? preg_replace('/^www\./', '', $gazda) : '';
+
+  $sursa = $curata('sursa', 60);
+  if ($sursa === '') {
+    if ($gazda === '' || $gazda === 'visience.ro') $sursa = 'direct';
+    elseif (strpos($gazda, 'google.') !== false)   $sursa = 'google';
+    elseif (strpos($gazda, 'facebook.') !== false || strpos($gazda, 'fb.') !== false) $sursa = 'facebook';
+    elseif (strpos($gazda, 'instagram.') !== false) $sursa = 'instagram';
+    elseif (strpos($gazda, 'tiktok.') !== false)    $sursa = 'tiktok';
+    elseif (strpos($gazda, 'bing.') !== false)      $sursa = 'bing';
+    else $sursa = $gazda;
+  }
+
+  $ua = (string)($_SERVER['HTTP_USER_AGENT'] ?? '');
+  $dispozitiv = preg_match('/Mobi|Android|iPhone|iPad/i', $ua) ? 'mobil' : 'desktop';
+
+  salveaza_lead([
+    'email'      => $email,
+    'telefon'    => $telefon,
+    'detalii'    => $detalii,
+    'cand'       => $cand,
+    'pagina'     => $pagina,
+    'intrare'    => $curata('intrare', 200),
+    'buton'      => $curata('buton', 120),
+    'sursa'      => $sursa,
+    'mediu'      => $curata('mediu', 60),
+    'campanie'   => $curata('campanie', 120),
+    'referinta'  => $gazda,
+    'dispozitiv' => $dispozitiv,
+    'vizite'     => (int)$curata('vizite', 4),
+  ]);
+} catch (Throwable $e) {
+  @error_log('CRM: ' . $e->getMessage());
+}
+
 header('Location: /multumire/', true, 303);
 exit;
