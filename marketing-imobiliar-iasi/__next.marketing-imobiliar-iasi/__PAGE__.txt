@@ -1,0 +1,251 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/1sc-domm6vvfo.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+2:T9bf,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/marketing-imobiliar-iasi/#service","name":"Marketing imobiliar în Iași","serviceType":"Marketing imobiliar pentru dezvoltatori și ansambluri rezidențiale","description":"Marketing pentru proiecte imobiliare din Iași: brandul proiectului, site cu planuri și prețuri, campanii Google și Meta pe zonele orașului și pe diaspora, conținut de șantier filmat lunar.","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"City","name":"Iași"},"url":"https://visience.ro/marketing-imobiliar-iasi/"},{"@type":"FAQPage","@id":"https://visience.ro/marketing-imobiliar-iasi/#faq","mainEntity":[{"@type":"Question","name":"Lucrați doar cu proiecte din Iași?","acceptedAnswer":{"@type":"Answer","text":"Nu — serviciul de marketing pentru dezvoltatori funcționează în toată țara, campaniile se conduc online. Iașiul e locul unde putem fi și fizic: la ședința de lansare, pe șantier pentru filmări, la biroul de vânzări."}},{"@type":"Question","name":"Cât costă marketingul unui ansamblu din Iași?","acceptedAnswer":{"@type":"Answer","text":"Pachetul de fundație — brand și site de proiect — pornește de la 3.500 € cost unic; lunar se adaugă onorariul agenției și bugetul de reclame, plătit direct platformelor. Regula din industrie: 1–3% din valoarea totală a proiectului, pe durata vânzărilor."}},{"@type":"Question","name":"Proiectul meu are doar 12 unități. E prea mic?","acceptedAnswer":{"@type":"Answer","text":"Nu. Proiectele mici au nevoie de aceleași piese, dimensionate corect: site mai simplu, buget de reclame mai mic, aceeași disciplină pe prețuri afișate și viteză de răspuns la cereri."}},{"@type":"Question","name":"Când ar trebui să contactez agenția — înainte sau după autorizație?","acceptedAnswer":{"@type":"Answer","text":"Imediat după autorizație: fereastra dintre autorizație și șantier e perioada în care se construiește lista de așteptare, iar primele rezervări la lansarea prețurilor vin din ea."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Marketing dezvoltatori imobiliari","item":"https://visience.ro/marketing-dezvoltatori-imobiliari/"},{"@type":"ListItem","position":3,"name":"Marketing imobiliar Iași","item":"https://visience.ro/marketing-imobiliar-iasi/"}]}]}3:T2fb6,<style>
+.mii-page { background: var(--white); }
+.mii-hero {
+  padding: clamp(120px, 16vw, 180px) 0 clamp(60px, 8vw, 90px);
+  background: var(--cream);
+}
+.mii-hero__in { max-width: 880px; }
+.mii-hero h1 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: clamp(34px, 5.2vw, 58px);
+  line-height: 1.08;
+  letter-spacing: -0.02em;
+  margin: 0 0 22px;
+  color: var(--ink);
+}
+.mii-hero h1 .acc { color: var(--acc-deep); }
+.mii-hero__lead {
+  font-size: clamp(16px, 1.8vw, 19px);
+  line-height: 1.65;
+  color: var(--ink2);
+  max-width: 720px;
+  margin: 0 0 30px;
+}
+.mii-hero__acts { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 44px; }
+.mii-stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 14px;
+  max-width: 760px;
+}
+.mii-stat {
+  background: var(--white);
+  border: 1px solid var(--cream3);
+  border-radius: 14px;
+  padding: 18px 20px;
+}
+.mii-stat b {
+  display: block;
+  font-family: var(--f-d);
+  font-size: clamp(22px, 2.6vw, 30px);
+  font-weight: 700;
+  color: var(--ink);
+  letter-spacing: -0.02em;
+}
+.mii-stat span { font-size: 13.5px; color: var(--mid); }
+.mii-sec { padding: clamp(60px, 8vw, 100px) 0; }
+.mii-sec--alt { background: var(--cream); }
+.mii-sec h2 {
+  font-family: var(--f-d);
+  font-weight: 650;
+  font-size: clamp(26px, 3.4vw, 38px);
+  letter-spacing: -0.02em;
+  line-height: 1.15;
+  margin: 0 0 18px;
+  color: var(--ink);
+}
+.mii-sec .sub { color: var(--mid); font-size: 16.5px; max-width: 700px; margin: 0 0 36px; }
+.mii-cols { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(24px, 4vw, 56px); align-items: start; }
+.mii-prose p { font-size: 16px; line-height: 1.7; color: var(--ink2); margin: 0 0 16px; }
+.mii-prose strong { color: var(--ink); }
+.mii-proj { display: grid; grid-template-columns: repeat(2, 1fr); gap: 18px; }
+.mii-proj__card {
+  background: var(--white);
+  border: 1px solid var(--cream3);
+  border-radius: 16px;
+  padding: 26px;
+}
+.mii-proj__name {
+  font-family: var(--f-d);
+  font-weight: 650;
+  font-size: 19px;
+  color: var(--ink);
+  margin: 0 0 4px;
+}
+.mii-proj__tag { font-size: 13px; color: var(--acc-deep); font-weight: 600; display: block; margin-bottom: 12px; }
+.mii-proj__d { font-size: 14.5px; line-height: 1.6; color: var(--mid); margin: 0; }
+.mii-serv { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+.mii-serv__c {
+  background: var(--white);
+  border: 1px solid var(--cream3);
+  border-radius: 14px;
+  padding: 24px 22px;
+}
+.mii-serv__c h3 { font-family: var(--f-d); font-size: 17px; font-weight: 650; margin: 0 0 8px; color: var(--ink); }
+.mii-serv__c p { font-size: 14px; line-height: 1.6; color: var(--mid); margin: 0; }
+.mii-faq { max-width: 820px; }
+.mii-faq details {
+  border-bottom: 1px solid var(--cream3);
+  padding: 20px 0;
+}
+.mii-faq summary {
+  font-family: var(--f-d);
+  font-weight: 600;
+  font-size: 17.5px;
+  color: var(--ink);
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+}
+.mii-faq summary::-webkit-details-marker { display: none; }
+.mii-faq summary:after { content: "+"; color: var(--acc-deep); font-weight: 700; }
+.mii-faq details[open] summary:after { content: "–"; }
+.mii-faq details p { margin: 14px 0 0; font-size: 15.5px; line-height: 1.7; color: var(--ink2); max-width: 700px; }
+.mii-cta {
+  padding: clamp(70px, 9vw, 110px) 0;
+  background: var(--ink);
+}
+.mii-cta h2 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: clamp(28px, 4vw, 44px);
+  letter-spacing: -0.02em;
+  color: #fff;
+  margin: 0 0 14px;
+  max-width: 700px;
+}
+.mii-cta p { color: rgba(255,255,255,.65); font-size: 17px; margin: 0 0 30px; max-width: 620px; }
+.mii-cta__acts { display: flex; gap: 12px; flex-wrap: wrap; }
+@media (max-width: 960px) {
+  .mii-cols { grid-template-columns: 1fr; }
+  .mii-proj { grid-template-columns: 1fr; }
+  .mii-serv { grid-template-columns: 1fr 1fr; }
+}
+@media (max-width: 640px) {
+  .mii-stats { grid-template-columns: 1fr; }
+  .mii-serv { grid-template-columns: 1fr; }
+}
+</style>
+
+<div class="mii-page">
+
+  <section class="mii-hero">
+    <div class="wrap">
+      <div class="mii-hero__in">
+        <h1>Marketing imobiliar în Iași, <span class="acc">cu proiecte din Iași</span></h1>
+        <p class="mii-hero__lead">Suntem agenția din Iași care lucrează deja cu dezvoltatori și proiecte rezidențiale de aici. Cunoaștem zonele, prețurile pe metru pătrat și cumpărătorul local — și putem fi pe șantierul tău într-o jumătate de oră, nu într-un call de la București.</p>
+        <div class="mii-hero__acts">
+          <a class="btn btn-solid" href="/contact/">Hai să discutăm proiectul</a>
+          <a class="btn btn-ghost" href="/marketing-dezvoltatori-imobiliari/">Vezi serviciul complet →</a>
+        </div>
+        <div class="mii-stats">
+          <div class="mii-stat"><b>7</b><span>proiecte imobiliare din Iași în portofoliu</span></div>
+          <div class="mii-stat"><b>12 ani</b><span>de experiență în marketing digital</span></div>
+          <div class="mii-stat"><b>120+</b><span>proiecte livrate, pentru România și afară</span></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="mii-sec">
+    <div class="wrap">
+      <div class="mii-cols">
+        <div>
+          <h2>Piața din Iași nu se vinde cu rețete de București</h2>
+        </div>
+        <div class="mii-prose">
+          <p>Iașiul construiește mult și vinde selectiv. Cumpărătorul de aici compară trei-patru ansambluri înainte să sune, cunoaște diferența dintre Bucium, Galata, Copou și Păcurari, și își face singur calculul navetei spre centru sau spre parcurile industriale din Miroslava. O campanie „națională" care nu vorbește limba zonelor astea arde buget fără să miște vânzările.</p>
+          <p>Mai e o particularitate pe care puține agenții o folosesc: <strong>diaspora</strong>. O parte serioasă din apartamentele noi din Iași se cumpără din afara țării — oameni plecați care cumpără acasă, pentru părinți sau ca investiție. Campaniile lor se targetează altfel, se scriu altfel și au nevoie de un proces de vânzare care funcționează pe WhatsApp și video-call, nu doar la biroul de vânzări.</p>
+          <p>Noi lucrăm de aici. Vedem șantierele, cunoaștem dezvoltatorii activi și știm ce s-a vândut și ce s-a blocat în ultimii ani — iar asta se simte în fiecare decizie de campanie.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="mii-sec mii-sec--alt">
+    <div class="wrap">
+      <h2>Proiecte imobiliare din Iași cu care am lucrat</h2>
+      <p class="sub">Nu studii de caz teoretice — proiecte de aici, cu care poți verifica ce spunem.</p>
+      <div class="mii-proj">
+        <article class="mii-proj__card">
+          <h3 class="mii-proj__name">Cameo Residence</h3>
+          <span class="mii-proj__tag">Complex rezidențial · Iași</span>
+          <p class="mii-proj__d">Identitate de proiect, materiale de vânzare tipărite și conținut pentru social media — tot ce are nevoie echipa de vânzări ca să prezinte ansamblul unitar.</p>
+        </article>
+        <article class="mii-proj__card">
+          <h3 class="mii-proj__name">Vlaicu 87</h3>
+          <span class="mii-proj__tag">Proiect rezidențial · Iași</span>
+          <p class="mii-proj__d">Site nou cu planuri pe tipologii de apartamente, plus sistemul prin care cererile ajung în CRM și sunt urmărite până la răspuns de echipa de vânzări.</p>
+        </article>
+        <article class="mii-proj__card">
+          <h3 class="mii-proj__name">Lapis &amp; Onyx</h3>
+          <span class="mii-proj__tag">Complexe rezidențiale · Galata, Iași</span>
+          <p class="mii-proj__d">Campanii Meta pe audiențe din Iași și remarketing pe vizitatorii site-urilor, cu creative produse de noi pentru fiecare etapă a promoției.</p>
+        </article>
+        <article class="mii-proj__card">
+          <h3 class="mii-proj__name">4Biz Properties</h3>
+          <span class="mii-proj__tag">Consultanță imobiliară · Iași</span>
+          <p class="mii-proj__d">Prezența online completă pentru segmentul comercial: site, identitate și comunicare pe LinkedIn pentru birouri și spații industriale din Iași.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="mii-sec">
+    <div class="wrap">
+      <h2>Ce facem pentru un ansamblu din Iași</h2>
+      <p class="sub">Aceleași patru piese ca la orice proiect care se vinde repede — adaptate la piața locală.</p>
+      <div class="mii-serv">
+        <div class="mii-serv__c"><h3>Brandul proiectului</h3><p>Nume, identitate și poziționare față de ansamblurile concurente din aceeași zonă a Iașiului — nu în abstract.</p></div>
+        <div class="mii-serv__c"><h3>Site cu planuri și prețuri</h3><p>Pagină pentru fiecare tipologie, prețuri afișate, formulare și telefon măsurate. Site-ul e al tău, nu al portalurilor.</p></div>
+        <div class="mii-serv__c"><h3>Campanii Google & Meta</h3><p>Pe Iași și împrejurimi, plus segmentul de diaspora care cumpără acasă. Raportare pe cost per lead, nu pe afișări.</p></div>
+        <div class="mii-serv__c"><h3>Conținut de șantier</h3><p>Suntem local: filmăm progresul lucrărilor lună de lună — dovada care vinde pre-contracte.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="mii-sec mii-sec--alt">
+    <div class="wrap">
+      <h2>Întrebări frecvente</h2>
+      <div class="mii-faq">
+        <details>
+          <summary>Lucrați doar cu proiecte din Iași?</summary>
+          <p>Nu — serviciul de <a href="/marketing-dezvoltatori-imobiliari/">marketing pentru dezvoltatori</a> funcționează în toată țara, iar campaniile se conduc oricum online. Iașiul e doar locul unde putem fi și fizic: la ședința de lansare, pe șantier pentru filmări, la biroul tău de vânzări.</p>
+        </details>
+        <details>
+          <summary>Cât costă marketingul unui ansamblu din Iași?</summary>
+          <p>Pachetul de fundație — brand și site de proiect — pornește de la 3.500 € cost unic, iar lunar bugetele încep de la câteva sute de euro pentru onorariu plus bugetul de reclame plătit direct platformelor. Am scris un <a href="/blog/cat-costa-promovarea-unui-ansamblu-rezidential/">ghid complet despre bugetele reale</a>, cu regula 1–3% din valoarea proiectului.</p>
+        </details>
+        <details>
+          <summary>Proiectul meu are doar 12 unități. E prea mic?</summary>
+          <p>Nu. Proiectele mici au nevoie de aceleași piese, doar dimensionate corect: site mai simplu, buget de reclame mai mic, aceeași disciplină pe prețuri afișate și viteză de răspuns la cereri. La 12 unități, fiecare vânzare adusă de marketing se simte direct în cashflow.</p>
+        </details>
+        <details>
+          <summary>Când ar trebui să vă contactez — înainte sau după autorizație?</summary>
+          <p>Ideal, imediat după autorizație: fereastra dintre autorizație și șantier e exact perioada în care se construiește lista de așteptare. Am explicat calendarul complet în <a href="/blog/cand-incepi-marketingul-unui-proiect-imobiliar/">ghidul despre momentul corect de start</a>.</p>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <section class="mii-cta">
+    <div class="wrap">
+      <h2>Construiești în Iași? Hai să vorbim înainte de șantier.</h2>
+      <p>Ne uităm împreună pe proiect, pe zona lui și pe concurență — și îți spunem sincer ce ar face marketingul pentru el, cu cifre, nu cu promisiuni.</p>
+      <div class="mii-cta__acts">
+        <a class="btn btn-solid" href="/contact/">Programează o discuție</a>
+        <a class="btn btn-ghost" href="https://wa.me/40771486499" target="_blank" rel="noopener" style="color:#fff;border-color:rgba(255,255,255,.3)">Scrie-ne pe WhatsApp →</a>
+      </div>
+    </div>
+  </section>
+
+</div>
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"G48Dnf0n9qThHmb8e-Tyo"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

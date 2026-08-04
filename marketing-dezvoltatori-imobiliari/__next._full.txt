@@ -27,7 +27,7 @@ e:I[68027,["/_next/static/chunks/1sc-domm6vvfo.js","/_next/static/chunks/158myu8
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","marketing-dezvoltatori-imobiliari",""],"q":"","i":false,"f":[[["",{"children":["marketing-dezvoltatori-imobiliari",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1sc-domm6vvfo.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"g0qziNZjFn1zUnZYT4BKf"}
+})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","marketing-dezvoltatori-imobiliari",""],"q":"","i":false,"f":[[["",{"children":["marketing-dezvoltatori-imobiliari",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1sc-domm6vvfo.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"G48Dnf0n9qThHmb8e-Tyo"}
 11:I[39756,["/_next/static/chunks/1sc-domm6vvfo.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 12:I[37457,["/_next/static/chunks/1sc-domm6vvfo.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 14:I[27961,["/_next/static/chunks/1sc-domm6vvfo.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
@@ -95,7 +95,7 @@ e:I[68027,["/_next/static/chunks/1sc-domm6vvfo.js","/_next/static/chunks/158myu8
 </nav>
 5:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$10"}}]
 6:["$","$L11",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L12",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
-13:T1f64,<footer class="footer" role="contentinfo">
+13:T1fbb,<footer class="footer" role="contentinfo">
   <div class="wrap">
 
     <div class="footer__grid">
@@ -186,6 +186,7 @@ e:I[68027,["/_next/static/chunks/1sc-domm6vvfo.js","/_next/static/chunks/158myu8
           <li><a href="/optimizare-seo/">SEO &amp; Content</a></li>
           <li><a href="/dezvoltare-software/">Dezvoltare software</a></li>
           <li><a href="/marketing-dezvoltatori-imobiliari/">Marketing imobiliar</a></li>
+          <li><a href="/marketing-imobiliar-iasi/">Marketing imobiliar Iași</a></li>
         </ul>
       </nav>
 
@@ -233,13 +234,13 @@ e:I[68027,["/_next/static/chunks/1sc-domm6vvfo.js","/_next/static/chunks/158myu8
 8:["$","$L14",null,{}]
 9:["$","$L15",null,{}]
 a:["$","$1","c",{"children":[null,["$","$L11",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L12",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
-16:T1602,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari/#service","name":"Marketing imobiliar pentru dezvoltatori","serviceType":"Marketing imobiliar și branding pentru ansambluri rezidențiale","description":"Strategie, branding de ansamblu, website cu pagini de apartamente, campanii Google și Meta Ads, remarketing, email și CRM pentru dezvoltatori imobiliari.","provider":{"@type":"Organization","name":"Visience Creative Experience","url":"https://visience.ro/"},"areaServed":{"@type":"Country","name":"România"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Pachete de marketing imobiliar","itemListElement":[{"@type":"Offer","name":"Brand & Site","price":"3500","priceCurrency":"EUR","description":"Branding starter, website 5–7 pagini, o pagină tip apartament, SEO tehnic de bază. Pentru ansambluri sub 30 de unități."},{"@type":"Offer","name":"Standard","price":"6500","priceCurrency":"EUR","description":"Branding complet, website 10–15 pagini, pagini per tip apartament, campanii Google + Meta, CRM și raport lunar. Management 1.500€/lună."},{"@type":"Offer","name":"Ecosistem Complet","price":"12000","priceCurrency":"EUR","description":"Tot din Standard, plus coordonare producție vizuală, virtual tour 360, social media, newsletter și account manager dedicat. Management 4.500€/lună."}]}},{"@type":"FAQPage","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari/#faq","mainEntity":[{"@type":"Question","name":"În cât timp pot lansa site-ul ansamblului meu?","acceptedAnswer":{"@type":"Answer","text":"De la brief la live: 4–8 săptămâni, în funcție de complexitate. Site-uri simple cu 5–7 pagini pot fi gata în 4 săptămâni. Pentru cartiere mari cu 15+ pagini și configurator de apartamente, planificăm 8 săptămâni."}},{"@type":"Question","name":"Cât cheltui lunar pe Google și Meta Ads?","acceptedAnswer":{"@type":"Answer","text":"Bugetul de Ads NU este inclus în pachetele noastre — îl plătești direct la Google și Meta. Recomandăm minim 1.000€/lună pe Google + 800€/lună pe Meta pentru un cartier mediu. Orientativ, împărțim 60% Google (căutări cu intenție) și 40% Meta, apoi mutăm lunar bugetul spre canalul cu cel mai mic cost per lead."}},{"@type":"Question","name":"Aveți experiență cu vânzări pe credit ipotecar?","acceptedAnswer":{"@type":"Answer","text":"Da. Toate site-urile noastre includ pagini despre opțiunile de plată, simulator credit, parteneri bancari. Lucrăm cu agenți de creditare pentru a integra calculator interactiv pe site."}},{"@type":"Question","name":"Puteți colabora cu agenția de PR sau agentul imobiliar al meu?","acceptedAnswer":{"@type":"Answer","text":"Da, lucrăm frecvent în echipe extinse. Coordonăm cu agentul imobiliar pentru lead handover, cu PR-ul pentru consistență mesaj, cu fotografi/3D pentru asset-uri vizuale."}},{"@type":"Question","name":"Ce se întâmplă după sold-out? Mai am nevoie de site?","acceptedAnswer":{"@type":"Answer","text":"Păstrăm site-ul live pentru încrederea de brand (cumpărătorii vor să-l verifice). Reducem bugetul de Ads la minimum. Dacă lansezi următoarea fază sau proiect, începem ușor — fundamentul de brand și CRM există deja."}},{"@type":"Question","name":"Lucrați și cu dezvoltatori din afara Iașiului?","acceptedAnswer":{"@type":"Answer","text":"Da. Avem clienți în București, Cluj, Timișoara, Brașov și internațional (Italia, Franța, Germania). Toată colaborarea se poate face remote — întâlnirile pe Zoom/Meet funcționează la fel de bine."}},{"@type":"Question","name":"Cât costă marketingul pentru un ansamblu rezidențial?","acceptedAnswer":{"@type":"Answer","text":"Pachetele pornesc de la 3.500€ one-time pentru ansambluri mici (branding starter + website). Cel mai ales este Standard: de la 6.500€ setup + 1.500€/lună, cu campanii și raportare incluse. Toate prețurile sunt publice, pe această pagină — bugetul de Ads se plătește separat, direct la Google și Meta."}},{"@type":"Question","name":"Faceți și randări 3D fotorealiste?","acceptedAnswer":{"@type":"Answer","text":"Nu producem randări 3D in-house. Le preluăm pe cele făcute de arhitectul tău sau coordonăm un partener specializat, apoi le integrăm în website, campanii și materialele de vânzare. Tu rămâi cu un singur punct de contact, iar noi ne concentrăm pe ce facem cel mai bine: strategia și lead-urile."}},{"@type":"Question","name":"Cum vindem apartamente înainte de finalizarea construcției?","acceptedAnswer":{"@type":"Answer","text":"Vânzarea off-plan cere încredere: website cu planuri clare și stadiul lucrărilor actualizat lunar, listă de așteptare cu ofertă de lansare, campanii de notorietate în zonă și e-mailuri automate care țin lead-urile calde până la precontract. Modelul ăsta a dus cartierele noastre la sold-out înainte de termen."}},{"@type":"Question","name":"Colaborați cu agențiile imobiliare și portalurile de anunțuri?","acceptedAnswer":{"@type":"Answer","text":"Da. Coordonăm listările pe portaluri precum Imobiliare.ro și Storia, cu tracking separat pe fiecare canal, și predăm lead-urile către agenții tăi sau agenția parteneră prin CRM. Vezi exact de unde vine fiecare cumpărător și ce canal merită buget."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Marketing dezvoltatori imobiliari","item":"https://visience.ro/marketing-dezvoltatori-imobiliari/"}]}]}b:["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$16"}}],"$L17"],null,"$L18"]}]
+16:T15f9,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari/#service","name":"Marketing imobiliar pentru dezvoltatori","serviceType":"Marketing imobiliar și branding pentru ansambluri rezidențiale","description":"Strategie, branding de ansamblu, website cu pagini de apartamente, campanii Google și Meta Ads, remarketing, email și CRM pentru dezvoltatori imobiliari.","provider":{"@type":"Organization","name":"Visience Creative Experience","url":"https://visience.ro/"},"areaServed":{"@type":"Country","name":"România"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Pachete de marketing imobiliar","itemListElement":[{"@type":"Offer","name":"Brand & Site","price":"3500","priceCurrency":"EUR","description":"Branding starter, website 5–7 pagini, o pagină tip apartament, SEO tehnic de bază. Pentru ansambluri sub 30 de unități."},{"@type":"Offer","name":"Standard","price":"6500","priceCurrency":"EUR","description":"Branding complet, website 10–15 pagini, pagini per tip apartament, campanii Google + Meta, CRM și raport lunar. Management 1.500€/lună."},{"@type":"Offer","name":"Ecosistem Complet","price":"12000","priceCurrency":"EUR","description":"Tot din Standard, plus coordonare producție vizuală, virtual tour 360, social media, newsletter și account manager dedicat. Management 4.500€/lună."}]}},{"@type":"FAQPage","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari/#faq","mainEntity":[{"@type":"Question","name":"În cât timp pot lansa site-ul ansamblului meu?","acceptedAnswer":{"@type":"Answer","text":"De la brief la live: 4–8 săptămâni, în funcție de complexitate. Site-uri simple cu 5–7 pagini pot fi gata în 4 săptămâni. Pentru cartiere mari cu 15+ pagini și configurator de apartamente, planificăm 8 săptămâni."}},{"@type":"Question","name":"Cât cheltui lunar pe Google și Meta Ads?","acceptedAnswer":{"@type":"Answer","text":"Bugetul de Ads NU este inclus în pachetele noastre — îl plătești direct la Google și Meta. Recomandăm minim 1.000€/lună pe Google + 800€/lună pe Meta pentru un cartier mediu. Orientativ, împărțim 60% Google (căutări cu intenție) și 40% Meta, apoi mutăm lunar bugetul spre canalul cu cel mai mic cost per lead."}},{"@type":"Question","name":"Aveți experiență cu vânzări pe credit ipotecar?","acceptedAnswer":{"@type":"Answer","text":"Da. Toate site-urile noastre includ pagini despre opțiunile de plată, simulator credit, parteneri bancari. Lucrăm cu agenți de creditare pentru a integra calculator interactiv pe site."}},{"@type":"Question","name":"Puteți colabora cu agenția de PR sau agentul imobiliar al meu?","acceptedAnswer":{"@type":"Answer","text":"Da, lucrăm frecvent în echipe extinse. Coordonăm cu agentul imobiliar pentru lead handover, cu PR-ul pentru consistență mesaj, cu fotografi/3D pentru asset-uri vizuale."}},{"@type":"Question","name":"Ce se întâmplă după sold-out? Mai am nevoie de site?","acceptedAnswer":{"@type":"Answer","text":"Păstrăm site-ul live pentru încrederea de brand (cumpărătorii vor să-l verifice). Reducem bugetul de Ads la minimum. Dacă lansezi următoarea fază sau proiect, începem ușor — fundamentul de brand și CRM există deja."}},{"@type":"Question","name":"Lucrați și cu dezvoltatori din afara Iașiului?","acceptedAnswer":{"@type":"Answer","text":"Da. Avem clienți în București, Cluj, Timișoara, Brașov și internațional (Italia, Franța, Germania). Toată colaborarea se poate face remote — întâlnirile pe Zoom/Meet funcționează la fel de bine."}},{"@type":"Question","name":"Cât costă marketingul pentru un ansamblu rezidențial?","acceptedAnswer":{"@type":"Answer","text":"Pachetele pornesc de la 3.500€ one-time pentru ansambluri mici (branding starter + website). Cel mai ales este Standard: de la 6.500€ setup + 1.500€/lună, cu campanii și raportare incluse. Toate prețurile sunt publice, pe această pagină — bugetul de Ads se plătește separat, direct la Google și Meta."}},{"@type":"Question","name":"Faceți și randări 3D fotorealiste?","acceptedAnswer":{"@type":"Answer","text":"Nu producem randări 3D in-house. Le preluăm pe cele făcute de arhitectul tău sau coordonăm un partener specializat, apoi le integrăm în website, campanii și materialele de vânzare. Tu rămâi cu un singur punct de contact, iar noi ne concentrăm pe ce facem cel mai bine: strategia și lead-urile."}},{"@type":"Question","name":"Cum vindem apartamente înainte de finalizarea construcției?","acceptedAnswer":{"@type":"Answer","text":"Vânzarea off-plan cere încredere: website cu planuri clare și stadiul lucrărilor actualizat lunar, listă de așteptare cu ofertă de lansare, campanii de notorietate în zonă și e-mailuri automate care țin lead-urile calde până la precontract. E modelul după care lucrăm pe fiecare proiect rezidențial."}},{"@type":"Question","name":"Colaborați cu agențiile imobiliare și portalurile de anunțuri?","acceptedAnswer":{"@type":"Answer","text":"Da. Coordonăm listările pe portaluri precum Imobiliare.ro și Storia, cu tracking separat pe fiecare canal, și predăm lead-urile către agenții tăi sau agenția parteneră prin CRM. Vezi exact de unde vine fiecare cumpărător și ce canal merită buget."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Marketing dezvoltatori imobiliari","item":"https://visience.ro/marketing-dezvoltatori-imobiliari/"}]}]}b:["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$16"}}],"$L17"],null,"$L18"]}]
 19:[]
 c:"$W19"
 d:["$","$1","h",{"children":[null,["$","$L1a",null,{"children":"$L1b"}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.Metadata","children":"$L1e"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 20:I[97367,["/_next/static/chunks/1sc-domm6vvfo.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
-1f:T9ec1,<style>
+1f:Tac88,<style>
 .dev-page { background: var(--cream); }
 
 .dev-section__head {
@@ -530,6 +531,20 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl
   line-height: 1;
   margin-bottom: 12px;
 }
+.dev-result__num--txt {
+  font-size: clamp(20px, 2.2vw, 27px);
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -.01em;
+}
+.dev-results__note {
+  margin: 26px auto 0;
+  max-width: 760px;
+  text-align: center;
+  font-size: 14.5px;
+  line-height: 1.6;
+  color: rgba(255,255,255,.55);
+}
 .dev-result__lbl {
   font-family: var(--f-m);
   font-size: 11px;
@@ -682,6 +697,58 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl
 }
 .dev-pkg--featured .dev-pkg__cta:hover {
   background: var(--acc-dark);
+}
+
+.dev-guides {
+  padding: clamp(60px, 8vw, 100px) 0;
+  background: var(--cream);
+}
+.dev-section__sub {
+  margin: 12px 0 0;
+  color: var(--mid);
+  font-size: 16px;
+}
+.dev-guides__grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+  margin-top: 40px;
+}
+.dev-guide {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 26px 26px 22px;
+  background: var(--white);
+  border: 1px solid var(--cream3);
+  border-radius: 16px;
+  transition: border-color .25s, transform .25s, box-shadow .25s;
+}
+.dev-guide:hover {
+  border-color: var(--acc);
+  transform: translateY(-3px);
+  box-shadow: 0 14px 34px rgba(17, 17, 20, .07);
+}
+.dev-guide__t {
+  font-family: var(--f-d);
+  font-weight: 650;
+  font-size: 18px;
+  line-height: 1.35;
+  color: var(--ink);
+}
+.dev-guide__d {
+  font-size: 14.5px;
+  line-height: 1.55;
+  color: var(--mid);
+  flex: 1;
+}
+.dev-guide__arr {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--acc-deep);
+}
+@media (max-width: 860px) {
+  .dev-guides__grid { grid-template-columns: 1fr; }
 }
 
 .dev-faq {
@@ -888,10 +955,10 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl
       </div>
 
       <div class="dev-hero__stats rv rv-d3">
-        <div class="dev-hero__stat"><span class="num">8+</span><span class="lbl">Cartiere &amp; ansambluri</span></div>
-        <div class="dev-hero__stat"><span class="num">3.200+</span><span class="lbl">Lead-uri generate</span></div>
-        <div class="dev-hero__stat"><span class="num">12€</span><span class="lbl">Cost mediu per lead</span></div>
-        <div class="dev-hero__stat"><span class="num">87%</span><span class="lbl">Sold-out înainte de termen</span></div>
+        <div class="dev-hero__stat"><span class="num">12 ani</span><span class="lbl">Experiență în marketing</span></div>
+        <div class="dev-hero__stat"><span class="num">7</span><span class="lbl">Proiecte imobiliare</span></div>
+        <div class="dev-hero__stat"><span class="num">120+</span><span class="lbl">Proiecte livrate în total</span></div>
+        <div class="dev-hero__stat"><span class="num">Iași</span><span class="lbl">Sediu propriu, lucrăm în toată țara</span></div>
       </div>
     </div>
   </section>
@@ -946,7 +1013,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl
           <div class="dev-folio__body">
             <h3>Vlaicu87 — cartier &amp; parc</h3>
             <p>Branding de ansamblu, website și campanii Google &amp; Meta pentru un cartier de case cu parc propriu.</p>
-            <span class="dev-folio__stat">248 lead-uri / lună în vârf de campanie</span>
+            <span class="dev-folio__stat">Website, branding și sistem de preluare a cererilor</span>
           </div>
         </a>
         <a href="/portofoliu/" class="dev-folio">
@@ -956,7 +1023,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl
           <div class="dev-folio__body">
             <h3>Cameo — apartamente moderne</h3>
             <p>Website cu pagini pe tipologii de apartamente și campanii de lead generation pentru un ansamblu rezidențial.</p>
-            <span class="dev-folio__stat">12€ cost mediu per lead</span>
+            <span class="dev-folio__stat">Identitate, materiale de vânzare și conținut social</span>
           </div>
         </a>
         <div class="dev-folio dev-folio--cta">
@@ -1117,27 +1184,29 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl
   <section class="dev-results">
     <div class="wrap">
       <div class="dev-section__head rv">
-        <h2 class="dd dd-lg">Numere reale<br><span class="hi">de la cartierele noastre.</span></h2>
+        <h2 class="dd dd-lg">Ce vezi în raport<br><span class="hi">lună de lună.</span></h2>
       </div>
 
       <div class="dev-results__grid rv rv-d2">
         <div class="dev-result">
-          <div class="dev-result__num">248</div>
-          <div class="dev-result__lbl">Lead-uri / lună pe Vlaicu87</div>
+          <div class="dev-result__num dev-result__num--txt">Cost / lead</div>
+          <div class="dev-result__lbl">Cât te costă un om care îți lasă datele</div>
         </div>
         <div class="dev-result">
-          <div class="dev-result__num">12€</div>
-          <div class="dev-result__lbl">Cost mediu per lead pe Cameo</div>
+          <div class="dev-result__num dev-result__num--txt">Sursa</div>
+          <div class="dev-result__lbl">Din ce pagină și ce buton a venit fiecare cerere</div>
         </div>
         <div class="dev-result">
-          <div class="dev-result__num">4.8x</div>
-          <div class="dev-result__lbl">ROAS pe campanii combinate</div>
+          <div class="dev-result__num dev-result__num--txt">Lead → vizionare</div>
+          <div class="dev-result__lbl">Câți dintre ei ajung efectiv la o vizionare</div>
         </div>
         <div class="dev-result">
-          <div class="dev-result__num">9 luni</div>
-          <div class="dev-result__lbl">Sold-out mediu vs. 18 luni piață</div>
+          <div class="dev-result__num dev-result__num--txt">Cost / vânzare</div>
+          <div class="dev-result__lbl">Cifra finală, raportată la apartamentul vândut</div>
         </div>
       </div>
+
+      <p class="dev-results__note rv">Cifrele astea sunt ale tale, din conturile tale de Google și Meta — nu capturi de ecran alese de noi. Rezultatele proiectelor la care lucrăm acum le arătăm la cerere, cu acordul clientului.</p>
     </div>
   </section>
 
@@ -1216,6 +1285,32 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl
   </section>
 
 
+  <section class="dev-guides">
+    <div class="wrap">
+      <div class="dev-section__head rv">
+        <h2 class="dd dd-lg">Ghiduri scrise pentru dezvoltatori</h2>
+        <p class="dev-section__sub">Răspunsurile lungi la întrebările pe care le primim înainte de orice contract.</p>
+      </div>
+      <div class="dev-guides__grid rv">
+        <a class="dev-guide" href="/blog/cat-costa-promovarea-unui-ansamblu-rezidential/">
+          <span class="dev-guide__t">Cât costă promovarea unui ansamblu rezidențial?</span>
+          <span class="dev-guide__d">Cele 3 bugete separate, regula 1–3% din valoarea proiectului și costul real per apartament vândut.</span>
+          <span class="dev-guide__arr">Citește ghidul →</span>
+        </a>
+        <a class="dev-guide" href="/blog/cand-incepi-marketingul-unui-proiect-imobiliar/">
+          <span class="dev-guide__t">Când începi marketingul unui proiect imobiliar?</span>
+          <span class="dev-guide__d">Calendarul pe etape, de la autorizație la predare — și de ce lista de așteptare se face înainte de șantier.</span>
+          <span class="dev-guide__arr">Citește ghidul →</span>
+        </a>
+        <a class="dev-guide" href="/blog/cum-vinzi-apartamente-inainte-de-finalizarea-constructiei/">
+          <span class="dev-guide__t">Cum vinzi apartamente înainte de finalizare?</span>
+          <span class="dev-guide__d">Randări cu prețuri afișate, progresul șantierului arătat lunar și rezervarea cu avans mic.</span>
+          <span class="dev-guide__arr">Citește ghidul →</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
   <section class="dev-faq">
     <div class="wrap">
       <div class="dev-section__head rv">
@@ -1266,7 +1361,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl
 
         <details class="dev-faq-item">
           <summary>Cum vindem apartamente înainte de finalizarea construcției?</summary>
-          <p>Vânzarea off-plan cere încredere: website cu planuri clare și stadiul lucrărilor actualizat lunar, listă de așteptare cu ofertă de lansare, campanii de notorietate în zonă și e-mailuri automate care țin lead-urile calde până la precontract. Modelul ăsta a dus cartierele noastre la sold-out înainte de termen.</p>
+          <p>Vânzarea off-plan cere încredere: website cu planuri clare și stadiul lucrărilor actualizat lunar, listă de așteptare cu ofertă de lansare, campanii de notorietate în zonă și e-mailuri automate care țin lead-urile calde până la precontract. E modelul după care lucrăm pe fiecare proiect rezidențial.</p>
         </details>
 
         <details class="dev-faq-item">
@@ -1342,5 +1437,5 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl
 18:["$","$L20",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@21"}]}]
 1b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#FFFFFF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#111114","media":"(prefers-color-scheme: dark)"}]]
 22:I[27201,["/_next/static/chunks/1sc-domm6vvfo.js","/_next/static/chunks/158myu8e_yme3.js"],"IconMark"]
-1e:[["$","title","0",{"children":"Marketing Imobiliar pentru Dezvoltatori | Visience"}],["$","meta","1",{"name":"description","content":"Agenție de marketing imobiliar pentru dezvoltatori: branding de ansamblu, website cu pagini de apartamente, campanii Google & Meta, plan pe etape. Prețuri publice, 3.200+ lead-uri."}],["$","link","2",{"rel":"canonical","href":"https://visience.ro/marketing-dezvoltatori-imobiliari/"}],["$","meta","3",{"property":"og:title","content":"Marketing Imobiliar pentru Dezvoltatori — Visience"}],["$","meta","4",{"property":"og:description","content":"Strategie, branding de ansamblu, website cu pagini de apartamente și campanii care aduc cumpărători, nu doar trafic. Prețuri publice."}],["$","meta","5",{"property":"og:url","content":"https://visience.ro/marketing-dezvoltatori-imobiliari/"}],["$","meta","6",{"property":"og:locale","content":"ro_RO"}],["$","meta","7",{"property":"og:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Agenție de Marketing & Creare Site-uri în Iași | Visience"}],["$","meta","11",{"name":"twitter:description","content":"Branding, website-uri, magazine online, Google & Meta Ads, SEO. Prețuri publice, fără costuri ascunse."}],["$","meta","12",{"name":"twitter:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","link","13",{"rel":"icon","href":"/favicon.ico?favicon.04nd99rd6ooix.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","14",{"rel":"icon","href":"/icon.png?icon.3v2r-pcu8x6vx.png","sizes":"192x192","type":"image/png"}],["$","link","15",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2y52blaubq-q-.png","sizes":"180x180","type":"image/png"}],["$","$L22","16",{}]]
+1e:[["$","title","0",{"children":"Marketing pentru Dezvoltatori Imobiliari — de la Lead la Vânzare | Visience"}],["$","meta","1",{"name":"description","content":"Marketing pentru dezvoltatori imobiliari: branding de ansamblu, site cu pagini de apartamente, campanii Google & Meta, plan pe etape de la autorizație la sold-out. Prețuri publice."}],["$","link","2",{"rel":"canonical","href":"https://visience.ro/marketing-dezvoltatori-imobiliari/"}],["$","meta","3",{"property":"og:title","content":"Marketing Imobiliar pentru Dezvoltatori — Visience"}],["$","meta","4",{"property":"og:description","content":"Strategie, branding de ansamblu, website cu pagini de apartamente și campanii care aduc cumpărători, nu doar trafic. Prețuri publice."}],["$","meta","5",{"property":"og:url","content":"https://visience.ro/marketing-dezvoltatori-imobiliari/"}],["$","meta","6",{"property":"og:locale","content":"ro_RO"}],["$","meta","7",{"property":"og:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Agenție de Marketing & Creare Site-uri în Iași | Visience"}],["$","meta","11",{"name":"twitter:description","content":"Branding, website-uri, magazine online, Google & Meta Ads, SEO. Prețuri publice, fără costuri ascunse."}],["$","meta","12",{"name":"twitter:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","link","13",{"rel":"icon","href":"/favicon.ico?favicon.04nd99rd6ooix.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","14",{"rel":"icon","href":"/icon.png?icon.3v2r-pcu8x6vx.png","sizes":"192x192","type":"image/png"}],["$","link","15",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2y52blaubq-q-.png","sizes":"180x180","type":"image/png"}],["$","$L22","16",{}]]
 21:null

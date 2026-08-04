@@ -1,6 +1,7 @@
 User-Agent: *
 Allow: /
 Disallow: /crm/
+Disallow: /variante/
 
 Host: https://visience.ro
 Sitemap: https://visience.ro/sitemap.xml

@@ -1,6 +1,6 @@
 # Visience
 
-> Visience (Visience Creative Experience SRL) este o agenție de marketing digital și creare site-uri web din Iași, România. Construim website-uri de prezentare, magazine online, branding și identitate vizuală, campanii Google și Meta Ads, SEO și soluții software. 12 ani de experiență, peste 6.600 de leaduri generate pentru clienți și peste 1.000 de apartamente vândute în proiecte imobiliare.
+> Visience (Visience Creative Experience SRL) este o agenție de marketing digital și creare site-uri web din Iași, România. Construim website-uri de prezentare, magazine online, branding și identitate vizuală, campanii Google și Meta Ads, SEO și soluții software. 12 ani de experiență, peste 6.600 de leaduri generate pentru clienți și peste 1.000 de apartamente vândute în proiecte imobiliare. Prețuri publice, iar site-urile livrate rămân proprietatea clientului, fără chirie lunară.
 
 ## Contact
 - Telefon: +40 771 486 499
@@ -10,8 +10,26 @@
 
 ## Pagini principale
 - [Acasă](https://visience.ro/): agenție de marketing și creare site-uri web în Iași
-- [Creare magazin online](https://visience.ro/creare-magazin-online): magazine WooCommerce și Shopify, prețuri și pachete (de la 1.000€)
-- [Contact](https://visience.ro/contact): telefon, WhatsApp, email și formular
+- [Creare site de prezentare](https://visience.ro/creare-site-prezentare/): site-uri pentru firme, cu SEO tehnic și CMS editabil; variante locale pentru Iași, Bacău și București
+- [Creare magazin online](https://visience.ro/creare-magazin-online/): magazine WooCommerce și Shopify, prețuri și pachete (de la 1.000€)
+- [Marketing pentru dezvoltatori imobiliari](https://visience.ro/marketing-dezvoltatori-imobiliari/): brand de ansamblu, site de proiect cu planuri și prețuri, campanii Google & Meta, plan pe etape de la autorizație la sold-out
+- [Marketing imobiliar în Iași](https://visience.ro/marketing-imobiliar-iasi/): varianta locală, cu proiecte din Iași și campanii pe diaspora
+- [Prețuri publice pentru toate serviciile](https://visience.ro/preturi/)
+- [Portofoliu](https://visience.ro/portofoliu/)
+- [Blog](https://visience.ro/blog/): peste 100 de articole în română despre site-uri, SEO, reclame și marketing
+- [Contact](https://visience.ro/contact/): telefon, WhatsApp, email și formular
+
+## Proiecte imobiliare în portofoliu (Iași)
+- Cameo Residence (complex rezidențial): identitate de proiect, materiale de vânzare tipărite, conținut pentru social media
+- Vlaicu 87 (proiect rezidențial): site cu planuri pe tipologii de apartamente și sistemul prin care cererile ajung în CRM
+- Lapis Residence și Onyx (complexe rezidențiale, Galata, Iași): campanii Meta pe audiențe locale și remarketing, cu producție de creative
+- Evergreen Towers, Picolina Bucium și Armur Design (Iași, în colaborare cu Vistory): campanii PPC, branding și social media
+- 4Biz Properties (consultanță imobiliară comercială): site, identitate și comunicare pe LinkedIn pentru birouri și spații industriale
+
+## Ghiduri pentru dezvoltatori imobiliari
+- [Cât costă promovarea unui ansamblu rezidențial](https://visience.ro/blog/cat-costa-promovarea-unui-ansamblu-rezidential/): cele 3 bugete separate și regula 1–3% din valoarea proiectului
+- [Când începi marketingul unui proiect imobiliar](https://visience.ro/blog/cand-incepi-marketingul-unui-proiect-imobiliar/): calendarul pe etape, de la autorizație la predare
+- [Cum vinzi apartamente înainte de finalizarea construcției](https://visience.ro/blog/cum-vinzi-apartamente-inainte-de-finalizarea-constructiei/): randări cu prețuri, progres de șantier, rezervare cu avans mic
 
 ## Servicii și prețuri orientative
 - Landing page de campanie — 500€
@@ -21,4 +39,5 @@
 - Social media management — de la 300€/lună
 - Management campanii Google & Meta Ads (PPC) — 500€/lună
 - SEO și content marketing — de la 600€/lună
+- Marketing pentru dezvoltatori imobiliari — pachet brand + site de proiect de la 3.500€, apoi onorariu lunar + buget de reclame plătit direct platformelor
 - Software și aplicații mobile — la cerere

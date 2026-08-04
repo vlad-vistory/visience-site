@@ -2,8 +2,8 @@
 8:I[97367,["/_next/static/chunks/1sc-domm6vvfo.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 9:"$Sreact.suspense"
 :HL["/_next/static/chunks/28or4npab1wgt.css","style"]
-2:T1099,{"@context":"https://schema.org","@graph":[{"@type":"OfferCatalog","@id":"https://visience.ro/#servicii","name":"Servicii Visience","provider":{"@id":"https://visience.ro/#organization"},"itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Creare website de prezentare","description":"Landing page-uri de campanie, site-uri de companie și portofolii cu CMS, design adaptiv și SEO tehnic."}},{"@type":"Offer","priceCurrency":"EUR","price":"1000","itemOffered":{"@type":"Service","name":"Creare magazin online","url":"https://visience.ro/creare-magazin-online/","description":"Magazine online pe WooCommerce sau Shopify, optimizate pentru conversie, cu plăți și integrare Google & Meta Ads."}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Branding și identitate vizuală","description":"Logo, brand book complet și identitate vizuală pentru online și offline."}},{"@type":"Offer","priceCurrency":"EUR","price":"300","itemOffered":{"@type":"Service","name":"Social Media Management","description":"Strategie, conținut, postare și gestionare completă a rețelelor sociale."}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"PPC — Google și Meta Ads","description":"Management lunar de campanii Google și Meta, remarketing și Shopping cu focus pe conversii."}},{"@type":"Offer","priceCurrency":"EUR","price":"600","itemOffered":{"@type":"Service","name":"SEO și Content Marketing","description":"SEO tehnic, strategie on-page și off-page, backlinking, newsletter și email marketing."}},{"@type":"Offer","priceCurrency":"EUR","price":"60","itemOffered":{"@type":"Service","name":"Software și App Development","description":"Aplicații mobile iOS și Android, Cloud Migration, AI & Data Solutions și automatizări RPA."}}]},{"@type":"FAQPage","@id":"https://visience.ro/#faq","mainEntity":[{"@type":"Question","name":"Cât costă crearea unui site web la Visience?","acceptedAnswer":{"@type":"Answer","text":"Un site de prezentare standard pornește de la 750€, un site avansat de la 1.200€, iar un site premium cu design custom de la 2.500€. Prețul final depinde de numărul de pagini, funcționalități și nivelul de personalizare."}},{"@type":"Question","name":"Cât costă un magazin online?","acceptedAnswer":{"@type":"Answer","text":"Un magazin online pe WooCommerce sau Shopify pornește de la 1.000€ (Basic), 1.800€ (Standard) și 3.500€ (Premium). Toate includ produse, plăți online, livrare automatizată și integrare cu Google și Meta Ads."}},{"@type":"Question","name":"Ce include un proiect de branding?","acceptedAnswer":{"@type":"Answer","text":"Logo, ton de comunicare și identitate vizuală pentru online și offline. Pachetul Standard, cu brand book complet, pornește de la 1.200€, iar Premium, cu BrandBook extins, de la 2.500€."}},{"@type":"Question","name":"Cât costă serviciile de SEO?","acceptedAnswer":{"@type":"Answer","text":"SEO tehnic punctual este la 60€/oră, iar strategia SEO lunară continuă pornește de la 600€/lună, cu un minim de 6 luni. Pentru magazine online, optimizarea SEO completă pornește de la 1.500€."}},{"@type":"Question","name":"În ce orașe lucrează Visience?","acceptedAnswer":{"@type":"Answer","text":"Visience are sediul în Iași și lucrează cu clienți din toată România, inclusiv București, Timișoara, Cluj-Napoca, Suceava și Bacău. Proiectele se desfășoară integral online."}},{"@type":"Question","name":"Pe ce platforme construiește Visience site-uri?","acceptedAnswer":{"@type":"Answer","text":"Construim pe WordPress (Oxygen, Elementor), Shopify, WooCommerce și Webflow, precum și soluții custom. Alegem platforma în funcție de nevoile proiectului."}},{"@type":"Question","name":"Cât durează realizarea unui site web?","acceptedAnswer":{"@type":"Answer","text":"Un landing page în câteva zile, un site de prezentare standard în 2–4 săptămâni, iar un proiect premium sau un magazin online complex în 4–8 săptămâni."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4"],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"g0qziNZjFn1zUnZYT4BKf"}
-7:T23964,
+2:T1099,{"@context":"https://schema.org","@graph":[{"@type":"OfferCatalog","@id":"https://visience.ro/#servicii","name":"Servicii Visience","provider":{"@id":"https://visience.ro/#organization"},"itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Creare website de prezentare","description":"Landing page-uri de campanie, site-uri de companie și portofolii cu CMS, design adaptiv și SEO tehnic."}},{"@type":"Offer","priceCurrency":"EUR","price":"1000","itemOffered":{"@type":"Service","name":"Creare magazin online","url":"https://visience.ro/creare-magazin-online/","description":"Magazine online pe WooCommerce sau Shopify, optimizate pentru conversie, cu plăți și integrare Google & Meta Ads."}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Branding și identitate vizuală","description":"Logo, brand book complet și identitate vizuală pentru online și offline."}},{"@type":"Offer","priceCurrency":"EUR","price":"300","itemOffered":{"@type":"Service","name":"Social Media Management","description":"Strategie, conținut, postare și gestionare completă a rețelelor sociale."}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"PPC — Google și Meta Ads","description":"Management lunar de campanii Google și Meta, remarketing și Shopping cu focus pe conversii."}},{"@type":"Offer","priceCurrency":"EUR","price":"600","itemOffered":{"@type":"Service","name":"SEO și Content Marketing","description":"SEO tehnic, strategie on-page și off-page, backlinking, newsletter și email marketing."}},{"@type":"Offer","priceCurrency":"EUR","price":"60","itemOffered":{"@type":"Service","name":"Software și App Development","description":"Aplicații mobile iOS și Android, Cloud Migration, AI & Data Solutions și automatizări RPA."}}]},{"@type":"FAQPage","@id":"https://visience.ro/#faq","mainEntity":[{"@type":"Question","name":"Cât costă crearea unui site web la Visience?","acceptedAnswer":{"@type":"Answer","text":"Un site de prezentare standard pornește de la 750€, un site avansat de la 1.200€, iar un site premium cu design custom de la 2.500€. Prețul final depinde de numărul de pagini, funcționalități și nivelul de personalizare."}},{"@type":"Question","name":"Cât costă un magazin online?","acceptedAnswer":{"@type":"Answer","text":"Un magazin online pe WooCommerce sau Shopify pornește de la 1.000€ (Basic), 1.800€ (Standard) și 3.500€ (Premium). Toate includ produse, plăți online, livrare automatizată și integrare cu Google și Meta Ads."}},{"@type":"Question","name":"Ce include un proiect de branding?","acceptedAnswer":{"@type":"Answer","text":"Logo, ton de comunicare și identitate vizuală pentru online și offline. Pachetul Standard, cu brand book complet, pornește de la 1.200€, iar Premium, cu BrandBook extins, de la 2.500€."}},{"@type":"Question","name":"Cât costă serviciile de SEO?","acceptedAnswer":{"@type":"Answer","text":"SEO tehnic punctual este la 60€/oră, iar strategia SEO lunară continuă pornește de la 600€/lună, cu un minim de 6 luni. Pentru magazine online, optimizarea SEO completă pornește de la 1.500€."}},{"@type":"Question","name":"În ce orașe lucrează Visience?","acceptedAnswer":{"@type":"Answer","text":"Visience are sediul în Iași și lucrează cu clienți din toată România, inclusiv București, Timișoara, Cluj-Napoca, Suceava și Bacău. Proiectele se desfășoară integral online."}},{"@type":"Question","name":"Pe ce platforme construiește Visience site-uri?","acceptedAnswer":{"@type":"Answer","text":"Construim pe WordPress (Oxygen, Elementor), Shopify, WooCommerce și Webflow, precum și soluții custom. Alegem platforma în funcție de nevoile proiectului."}},{"@type":"Question","name":"Cât durează realizarea unui site web?","acceptedAnswer":{"@type":"Answer","text":"Un landing page în câteva zile, un site de prezentare standard în 2–4 săptămâni, iar un proiect premium sau un magazin online complex în 4–8 săptămâni."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4"],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"G48Dnf0n9qThHmb8e-Tyo"}
+7:T23a5c,
 
 <div class="vis-home">
 
@@ -272,15 +272,15 @@
 
     <!-- Paragraf SEO/AEO: fapte citabile, atribuite entității -->
     <p class="stats__intro rv">
-      <strong>Visience Creative Experience</strong> este o agenție de marketing digital din Iași, fondată în urmă cu 12 ani. De-a lungul timpului am generat peste <strong>6.600 de leaduri</strong> pentru clienții noștri, am contribuit la vânzarea a peste <strong>1.000 de apartamente</strong> în proiecte imobiliare și am livrat peste <strong>120 de proiecte</strong> de branding, web și marketing pentru companii din România, Italia, Franța și Germania.
+      <strong>Visience Creative Experience</strong> este o agenție de marketing digital din Iași, fondată în urmă cu 12 ani. De-a lungul timpului am generat peste <strong>8.200 de leaduri</strong> în proiecte imobiliare, am contribuit la vânzarea a peste <strong>1.000 de apartamente</strong> și am livrat peste <strong>120 de proiecte</strong> de branding, web și marketing pentru companii din România, Italia, Franța și Germania.
     </p>
 
     <div class="stats__grid">
 
       <div class="stt-cell rv">
-        <div class="stt-num">6.600+</div>
-        <div class="stt-lbl">Leaduri generate</div>
-        <div class="stt-sub">în imobiliare și nu numai</div>
+        <div class="stt-num">8.200+</div>
+        <div class="stt-lbl">Leaduri în imobiliare</div>
+        <div class="stt-sub">din proiectele de mai jos</div>
         <div class="stt-cell__ill" aria-hidden="true">
           <svg width="110" height="110" viewBox="0 0 110 110" fill="none">
             <circle cx="55" cy="55" r="48" stroke="var(--acc)" stroke-width="6" opacity=".5"/>
@@ -550,7 +550,7 @@
               <div class="sd-chart__header">
                 <span class="sd-chart__title">Conversii</span>
                 <span class="sd-chart__trend">
-                  <i class="fas fa-arrow-trend-up"></i>+248%
+                  <i class="fas fa-arrow-trend-up"></i>
                 </span>
               </div>
               <div class="sd-chart__bars">
@@ -798,7 +798,7 @@
           <div class="case-num">600+</div>
           <div class="case-sub">Leaduri · 5 luni · 10 case de 350K€</div>
           <h3 class="case-title">Armur Design — Galata, Iași</h3>
-          <p class="case-desc">Social media management intensiv și campanii PPC pentru un ansamblu de case individuale premium. Strategie completă cu vânzări totale de peste 3,5M€.</p>
+          <p class="case-desc">Social media management intensiv și campanii PPC pentru un ansamblu de case individuale premium. Strategie completă pentru un portofoliu de 3,5M€.</p>
           <p class="case-desc">În colaborare cu Vistory</p>
           <div class="case-cpills">
             <span class="cpill">Social Media</span>
@@ -1206,7 +1206,7 @@
           <div class="why-n">04</div>
           <div>
             <div class="why-t">Focus pe conversii, nu pe cifre de fațadă</div>
-            <div class="why-d">Nu urmărim like-uri. Urmărim leaduri, vânzări și ROI. Fiecare decizie cu obiectivul final în minte.</div>
+            <div class="why-d">Nu urmărim like-uri. Urmărim cereri, vânzări și costul fiecărei cereri. Fiecare decizie cu obiectivul final în minte.</div>
           </div>
         </div>
         <div class="why-row">
@@ -1322,6 +1322,7 @@
         <!-- Cell 3: Google Ads / Meta Ads -->
         <div class="tech-cell">
           <div class="tc tc-ads">
+            <span class="tc-ads__demo">exemplu de interfață</span>
             <div class="tc-ads__metrics">
               <div class="tc-ads__metric">
                 <span class="tc-ads__metric-val" style="color:#4285F4">12.4K</span>
@@ -1332,8 +1333,8 @@
                 <span class="tc-ads__metric-lbl">Conversii</span>
               </div>
               <div class="tc-ads__metric">
-                <span class="tc-ads__metric-val" style="color:#34A853">4.8x</span>
-                <span class="tc-ads__metric-lbl">ROAS</span>
+                <span class="tc-ads__metric-val" style="color:#34A853">62</span>
+                <span class="tc-ads__metric-lbl">Lead-uri</span>
               </div>
             </div>
             <div class="tc-ads__chart">
@@ -3932,6 +3933,15 @@
 /* ── Cell 3: Google Ads / Meta Ads ── */
 .tc-ads { background: white; padding: 12px 14px; gap: 8px; }
 
+.tc-ads__demo {
+  display: block;
+  font-family: var(--f-m);
+  font-size: 9px;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--light);
+  margin-bottom: 8px;
+}
 .tc-ads__metrics {
   display: flex;
   border: 1px solid var(--border); border-radius: 8px; overflow: hidden;
@@ -4070,7 +4080,7 @@
 }
 </style>
 3:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$7"}}]
-4:["$","section",null,{"className":"home-blog","children":["$","div",null,{"className":"wrap","children":[["$","div",null,{"className":"home-blog__head","children":[["$","h2",null,{"className":"dd dd-lg","children":["Articole & ",["$","span",null,{"style":{"color":"var(--acc-deep)"},"children":"resurse"}]]}],["$","a",null,{"href":"/blog/","className":"home-blog__all","children":"Vezi toate articolele →"}]]}],["$","div",null,{"className":"blog-grid","children":[["$","a","cerere-de-indexare-google-search-console",{"href":"/blog/cerere-de-indexare-google-search-console/","className":"blog-card","children":[["$","time",null,{"className":"blog-card__date","dateTime":"2026-07-23","children":"23 iulie 2026"}],["$","h3",null,{"className":"blog-card__title","children":"Indexare Google: cum îi ceri să adauge o pagină nouă"}],["$","p",null,{"className":"blog-card__desc","children":"Indexare Google la cerere: pașii din Search Console ca o pagină nouă să apară în zile, nu săptămâni — și ce faci când Google o refuză politicos."}],["$","span",null,{"className":"blog-card__more","children":"Citește articolul →"}]]}],["$","a","landing-page-dupa-click-reclama",{"href":"/blog/landing-page-dupa-click-reclama/","className":"blog-card","children":[["$","time",null,{"className":"blog-card__date","dateTime":"2026-07-23","children":"23 iulie 2026"}],["$","h3",null,{"className":"blog-card__title","children":"Ce este un landing page? Pagina unde click-ul devine cerere"}],["$","p",null,{"className":"blog-card__desc","children":"Ce este un landing page, pe înțelesul tuturor: pagina pe care ajungi după click pe o reclamă — și regulile ca a ta să aducă cereri, nu doar vizite."}],["$","span",null,{"className":"blog-card__more","children":"Citește articolul →"}]]}],["$","a","reclama-aduce-oameni-site-ul-decide",{"href":"/blog/reclama-aduce-oameni-site-ul-decide/","className":"blog-card","children":[["$","time",null,{"className":"blog-card__date","dateTime":"2026-07-23","children":"23 iulie 2026"}],["$","h3",null,{"className":"blog-card__title","children":"Reclame pe Facebook fără rezultate? Problema nu e reclama"}],["$","p",null,{"className":"blog-card__desc","children":"Plătești reclame și nu vin cereri? Problema e rar reclama, aproape mereu pagina de după click — greșeala care îți scumpește fiecare click."}],["$","span",null,{"className":"blog-card__more","children":"Citește articolul →"}]]}]]}]]}]}]
+4:["$","section",null,{"className":"home-blog","children":["$","div",null,{"className":"wrap","children":[["$","div",null,{"className":"home-blog__head","children":[["$","h2",null,{"className":"dd dd-lg","children":["Articole & ",["$","span",null,{"style":{"color":"var(--acc-deep)"},"children":"resurse"}]]}],["$","a",null,{"href":"/blog/","className":"home-blog__all","children":"Vezi toate articolele →"}]]}],["$","div",null,{"className":"blog-grid","children":[["$","a","cat-costa-promovarea-unui-ansamblu-rezidential",{"href":"/blog/cat-costa-promovarea-unui-ansamblu-rezidential/","className":"blog-card","children":[["$","time",null,{"className":"blog-card__date","dateTime":"2026-08-03","children":"3 august 2026"}],["$","h3",null,{"className":"blog-card__title","children":"Cât costă promovarea unui ansamblu rezidențial? Bugete reale"}],["$","p",null,{"className":"blog-card__desc","children":"Cât costă promovarea unui ansamblu rezidențial: cele 3 bugete separate, regula 1–3% din valoarea proiectului și costul real per apartament vândut."}],["$","span",null,{"className":"blog-card__more","children":"Citește articolul →"}]]}],["$","a","cand-incepi-marketingul-unui-proiect-imobiliar",{"href":"/blog/cand-incepi-marketingul-unui-proiect-imobiliar/","className":"blog-card","children":[["$","time",null,{"className":"blog-card__date","dateTime":"2026-08-03","children":"3 august 2026"}],["$","h3",null,{"className":"blog-card__title","children":"Când începi marketingul unui proiect imobiliar? Mai devreme"}],["$","p",null,{"className":"blog-card__desc","children":"Când începi marketingul unui proiect imobiliar: calendarul pe etape de la autorizație la predare și de ce lista de așteptare se face înainte de șantier."}],["$","span",null,{"className":"blog-card__more","children":"Citește articolul →"}]]}],["$","a","cum-vinzi-apartamente-inainte-de-finalizarea-constructiei",{"href":"/blog/cum-vinzi-apartamente-inainte-de-finalizarea-constructiei/","className":"blog-card","children":[["$","time",null,{"className":"blog-card__date","dateTime":"2026-08-03","children":"3 august 2026"}],["$","h3",null,{"className":"blog-card__title","children":"Cum vinzi apartamente înainte de finalizarea construcției"}],["$","p",null,{"className":"blog-card__desc","children":"Cum vinzi apartamente în șantier: randări cu prețuri afișate, progresul lucrărilor arătat lunar și rezervare cu avans mic. Cei 3 piloni, explicați."}],["$","span",null,{"className":"blog-card__more","children":"Citește articolul →"}]]}]]}]]}]}]
 5:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/28or4npab1wgt.css","precedence":"next"}]
 6:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
 a:null
