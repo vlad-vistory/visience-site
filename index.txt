@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-c:I[68027,["/_next/static/chunks/1sc-domm6vvfo.js","/_next/static/chunks/158myu8e_yme3.js"],"default",1]
+c:I[68027,["/_next/static/chunks/1720w25--sj4t.js","/_next/static/chunks/158myu8e_yme3.js"],"default",1]
 :HL["/_next/static/chunks/0zb3_8pldwzjl.css","style"]
 :HL["/_next/static/media/0da9c7f357bd9d4d-s.p.1975l3y3401x_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/2094fb60fd9c8287-s.p.3qxy1tqak831c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -28,13 +28,13 @@ c:I[68027,["/_next/static/chunks/1sc-domm6vvfo.js","/_next/static/chunks/158myu8
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["",""],"q":"","i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1sc-domm6vvfo.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{},null,false,null]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"G48Dnf0n9qThHmb8e-Tyo"}
-f:I[39756,["/_next/static/chunks/1sc-domm6vvfo.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
-10:I[37457,["/_next/static/chunks/1sc-domm6vvfo.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
-12:I[27961,["/_next/static/chunks/1sc-domm6vvfo.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
-13:I[11015,["/_next/static/chunks/1sc-domm6vvfo.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
-19:I[97367,["/_next/static/chunks/1sc-domm6vvfo.js","/_next/static/chunks/158myu8e_yme3.js"],"ViewportBoundary"]
-1b:I[97367,["/_next/static/chunks/1sc-domm6vvfo.js","/_next/static/chunks/158myu8e_yme3.js"],"MetadataBoundary"]
+})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["",""],"q":"","i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1720w25--sj4t.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{},null,false,null]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"xi2p3WCOSGF9W86zn41Qm"}
+f:I[39756,["/_next/static/chunks/1720w25--sj4t.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
+10:I[37457,["/_next/static/chunks/1720w25--sj4t.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
+12:I[27961,["/_next/static/chunks/1720w25--sj4t.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
+13:I[11015,["/_next/static/chunks/1720w25--sj4t.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
+19:I[97367,["/_next/static/chunks/1720w25--sj4t.js","/_next/static/chunks/158myu8e_yme3.js"],"ViewportBoundary"]
+1b:I[97367,["/_next/static/chunks/1720w25--sj4t.js","/_next/static/chunks/158myu8e_yme3.js"],"MetadataBoundary"]
 1c:"$Sreact.suspense"
 e:Tc5d,<header class="nav" id="nav" role="banner">
   <div class="wrap nav__in">
@@ -234,11 +234,11 @@ e:Tc5d,<header class="nav" id="nav" role="banner">
 7:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$11"}}]
 8:["$","$L12",null,{}]
 9:["$","$L13",null,{}]
-14:T1099,{"@context":"https://schema.org","@graph":[{"@type":"OfferCatalog","@id":"https://visience.ro/#servicii","name":"Servicii Visience","provider":{"@id":"https://visience.ro/#organization"},"itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Creare website de prezentare","description":"Landing page-uri de campanie, site-uri de companie și portofolii cu CMS, design adaptiv și SEO tehnic."}},{"@type":"Offer","priceCurrency":"EUR","price":"1000","itemOffered":{"@type":"Service","name":"Creare magazin online","url":"https://visience.ro/creare-magazin-online/","description":"Magazine online pe WooCommerce sau Shopify, optimizate pentru conversie, cu plăți și integrare Google & Meta Ads."}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Branding și identitate vizuală","description":"Logo, brand book complet și identitate vizuală pentru online și offline."}},{"@type":"Offer","priceCurrency":"EUR","price":"300","itemOffered":{"@type":"Service","name":"Social Media Management","description":"Strategie, conținut, postare și gestionare completă a rețelelor sociale."}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"PPC — Google și Meta Ads","description":"Management lunar de campanii Google și Meta, remarketing și Shopping cu focus pe conversii."}},{"@type":"Offer","priceCurrency":"EUR","price":"600","itemOffered":{"@type":"Service","name":"SEO și Content Marketing","description":"SEO tehnic, strategie on-page și off-page, backlinking, newsletter și email marketing."}},{"@type":"Offer","priceCurrency":"EUR","price":"60","itemOffered":{"@type":"Service","name":"Software și App Development","description":"Aplicații mobile iOS și Android, Cloud Migration, AI & Data Solutions și automatizări RPA."}}]},{"@type":"FAQPage","@id":"https://visience.ro/#faq","mainEntity":[{"@type":"Question","name":"Cât costă crearea unui site web la Visience?","acceptedAnswer":{"@type":"Answer","text":"Un site de prezentare standard pornește de la 750€, un site avansat de la 1.200€, iar un site premium cu design custom de la 2.500€. Prețul final depinde de numărul de pagini, funcționalități și nivelul de personalizare."}},{"@type":"Question","name":"Cât costă un magazin online?","acceptedAnswer":{"@type":"Answer","text":"Un magazin online pe WooCommerce sau Shopify pornește de la 1.000€ (Basic), 1.800€ (Standard) și 3.500€ (Premium). Toate includ produse, plăți online, livrare automatizată și integrare cu Google și Meta Ads."}},{"@type":"Question","name":"Ce include un proiect de branding?","acceptedAnswer":{"@type":"Answer","text":"Logo, ton de comunicare și identitate vizuală pentru online și offline. Pachetul Standard, cu brand book complet, pornește de la 1.200€, iar Premium, cu BrandBook extins, de la 2.500€."}},{"@type":"Question","name":"Cât costă serviciile de SEO?","acceptedAnswer":{"@type":"Answer","text":"SEO tehnic punctual este la 60€/oră, iar strategia SEO lunară continuă pornește de la 600€/lună, cu un minim de 6 luni. Pentru magazine online, optimizarea SEO completă pornește de la 1.500€."}},{"@type":"Question","name":"În ce orașe lucrează Visience?","acceptedAnswer":{"@type":"Answer","text":"Visience are sediul în Iași și lucrează cu clienți din toată România, inclusiv București, Timișoara, Cluj-Napoca, Suceava și Bacău. Proiectele se desfășoară integral online."}},{"@type":"Question","name":"Pe ce platforme construiește Visience site-uri?","acceptedAnswer":{"@type":"Answer","text":"Construim pe WordPress (Oxygen, Elementor), Shopify, WooCommerce și Webflow, precum și soluții custom. Alegem platforma în funcție de nevoile proiectului."}},{"@type":"Question","name":"Cât durează realizarea unui site web?","acceptedAnswer":{"@type":"Answer","text":"Un landing page în câteva zile, un site de prezentare standard în 2–4 săptămâni, iar un proiect premium sau un magazin online complex în 4–8 săptămâni."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"}]}]}a:["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$14"}}],"$L15","$L16"],["$L17"],"$L18"]}]
+14:T10d1,{"@context":"https://schema.org","@graph":[{"@type":"OfferCatalog","@id":"https://visience.ro/#servicii","name":"Servicii Visience","provider":{"@id":"https://visience.ro/#organization"},"itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Creare website de prezentare","description":"Landing page-uri de campanie, site-uri de companie și portofolii cu CMS, design adaptiv și SEO tehnic."}},{"@type":"Offer","priceCurrency":"EUR","price":"1000","itemOffered":{"@type":"Service","name":"Creare magazin online","url":"https://visience.ro/creare-magazin-online/","description":"Magazine online pe WooCommerce sau Shopify, optimizate pentru conversie, cu plăți și integrare Google & Meta Ads."}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Branding și identitate vizuală","description":"Logo, brand book complet și identitate vizuală pentru online și offline."}},{"@type":"Offer","priceCurrency":"EUR","price":"300","itemOffered":{"@type":"Service","name":"Social Media Management","description":"Strategie, conținut, postare și gestionare completă a rețelelor sociale."}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"PPC — Google și Meta Ads","description":"Management lunar de campanii Google și Meta, remarketing și Shopping cu focus pe conversii."}},{"@type":"Offer","priceCurrency":"EUR","price":"600","itemOffered":{"@type":"Service","name":"SEO și Content Marketing","description":"SEO tehnic, strategie on-page și off-page, backlinking, newsletter și email marketing."}},{"@type":"Offer","priceCurrency":"EUR","price":"60","itemOffered":{"@type":"Service","name":"Software și App Development","description":"Aplicații mobile iOS și Android, Cloud Migration, AI & Data Solutions și automatizări RPA."}}]},{"@type":"FAQPage","@id":"https://visience.ro/#faq","mainEntity":[{"@type":"Question","name":"Cât costă crearea unui site web la Visience?","acceptedAnswer":{"@type":"Answer","text":"Un site de prezentare standard pornește de la 750€, un site avansat de la 1.200€, iar un site premium cu design custom de la 2.500€. Prețul final depinde de numărul de pagini, funcționalități și nivelul de personalizare."}},{"@type":"Question","name":"Cât costă un magazin online?","acceptedAnswer":{"@type":"Answer","text":"Un magazin online pe WooCommerce sau Shopify pornește de la 1.000€ (Basic), 1.800€ (Standard) și 3.500€ (Premium). Toate includ produse, plăți online, livrare automatizată și integrare cu Google și Meta Ads."}},{"@type":"Question","name":"Ce include un proiect de branding?","acceptedAnswer":{"@type":"Answer","text":"Logo, ton de comunicare și identitate vizuală pentru online și offline. Pachetul Standard, cu brand book complet, pornește de la 1.200€, iar Premium, cu BrandBook extins, de la 2.500€."}},{"@type":"Question","name":"Cât costă serviciile de SEO?","acceptedAnswer":{"@type":"Answer","text":"SEO tehnic punctual este la 60€/oră, iar strategia SEO lunară continuă pornește de la 600€/lună, cu un minim de 6 luni. Pentru magazine online, optimizarea SEO completă pornește de la 1.500€."}},{"@type":"Question","name":"În ce orașe lucrează Visience?","acceptedAnswer":{"@type":"Answer","text":"Visience are sediul în Iași și lucrează cu clienți din toată România, inclusiv București, Timișoara, Cluj-Napoca, Suceava și Bacău. Proiectele se desfășoară integral online."}},{"@type":"Question","name":"Pe ce platforme construiește Visience site-uri?","acceptedAnswer":{"@type":"Answer","text":"Construim pe WordPress (Oxygen, Elementor), Shopify, WooCommerce și Webflow, precum și soluții custom. Alegem platforma în funcție de nevoile proiectului."}},{"@type":"Question","name":"Cât durează realizarea unui site web?","acceptedAnswer":{"@type":"Answer","text":"Depinde de câte pagini are și de cât de repede primim textele și pozele. Termenul exact ți-l dăm în ofertă, după ce vedem proiectul, și îl respectăm. De regulă mergem mai repede decât se așteaptă clientul."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"}]}]}a:["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$14"}}],"$L15","$L16"],["$L17"],"$L18"]}]
 b:["$","$1","h",{"children":[null,["$","$L19",null,{"children":"$L1a"}],["$","div",null,{"hidden":true,"children":["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.Metadata","children":"$L1d"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
-1f:I[97367,["/_next/static/chunks/1sc-domm6vvfo.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
-1e:T23a5c,
+1f:I[97367,["/_next/static/chunks/1720w25--sj4t.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+1e:T26d96,
 
 <div class="vis-home">
 
@@ -268,21 +268,13 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl
       <div class="hero__acts">
         <a href="#contact" class="btn btn-solid">Solicită analiză gratuită</a>
         <a href="#proiecte" class="btn btn-dark">Vezi proiectele</a>
-        <a href="#shortcode-1769-576" class="btn btn-dark"><img class="ti-star" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Stea recenzie Google" width="17" height="17" loading="lazy"><img class="ti-star" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Stea recenzie Google" width="17" height="17" loading="lazy"><img class="ti-star" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Stea recenzie Google" width="17" height="17" loading="lazy"><img class="ti-star" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Stea recenzie Google" width="17" height="17" loading="lazy"><img class="ti-star" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Stea recenzie Google" width="17" height="17" loading="lazy">Vezi recenzii</a>
+        <a href="#recenzii" class="btn btn-dark"><img class="ti-star" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Stea recenzie Google" width="17" height="17" loading="lazy"><img class="ti-star" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Stea recenzie Google" width="17" height="17" loading="lazy"><img class="ti-star" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Stea recenzie Google" width="17" height="17" loading="lazy"><img class="ti-star" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Stea recenzie Google" width="17" height="17" loading="lazy"><img class="ti-star" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Stea recenzie Google" width="17" height="17" loading="lazy">Vezi recenzii</a>
       </div>
     </div>
   </div>
 
   <!-- Badge rotativ + play -->
   <div class="hero__badge">
-    <svg viewBox="0 0 90 90" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-      <defs>
-        <path id="bc" d="M 45,45 m -33,0 a 33,33 0 1,1 66,0 a 33,33 0 1,1 -66,0"/>
-      </defs>
-      <text>
-        <textPath href="#bc" startOffset="0%">VISIENCE · MARKETING · BRANDING · WEB · </textPath>
-      </text>
-    </svg>
     <button class="hero__play" id="heroPlay" type="button" aria-label="Redă videoclipul">
       <svg class="hero__play-ic hero__play-ic--play" viewBox="0 0 14 16" aria-hidden="true"><path d="M1 1.5v13l12-6.5z" fill="currentColor"/></svg>
       <svg class="hero__play-ic hero__play-ic--close" viewBox="0 0 14 14" aria-hidden="true"><path d="M2 2l10 10M12 2L2 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
@@ -378,8 +370,8 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl
 
 
 <!-- ══════ 3. TECH LOGOS STRIP ══════ -->
-<div class="tech-strip" aria-label="Platforme și instrumente">
-  <p class="tech-strip__label">Platformele pe care le stăpânim</p>
+<div class="tech-strip" aria-label="Uneltele și platformele pe care lucrăm">
+  <p class="tech-strip__label">Uneltele noastre</p>
   <div class="tech-strip__logos">
 
     <div class="tech-logo" title="Google Ads">
@@ -427,8 +419,154 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl
       <span>Webflow</span>
     </div>
 
+    <div class="tech-logo" title="Claude Code">
+      <svg viewBox="0 0 32 32" width="28" height="28" aria-hidden="true" style="display:block"><g fill="#D97757"><path d="M17.55 16.00L16.50 3.00L15.50 3.00L14.45 16.00Z"/><path d="M17.33 16.80L21.84 7.26L20.98 6.74L14.67 15.20Z"/><path d="M16.73 17.37L27.71 10.34L27.24 9.46L15.27 14.63Z"/><path d="M15.92 17.55L25.96 17.02L26.01 16.02L16.08 14.45Z"/><path d="M15.13 17.29L26.50 23.68L27.06 22.85L16.87 14.71Z"/><path d="M14.60 16.66L19.98 25.73L20.89 25.30L17.40 15.34Z"/><path d="M14.46 15.84L14.14 28.88L15.14 28.98L17.54 16.16Z"/><path d="M14.76 15.07L9.58 23.69L10.38 24.29L17.24 16.93Z"/><path d="M15.42 14.56L3.76 20.41L4.13 21.33L16.58 17.44Z"/><path d="M16.24 14.47L5.71 13.86L5.55 14.85L15.76 17.53Z"/><path d="M17.00 14.81L6.36 7.26L5.72 8.03L15.00 17.19Z"/><path d="M17.47 15.50L13.22 6.38L12.27 6.71L14.53 16.50Z"/></g></svg>
+      <span>Claude Code</span>
+    </div>
+
+    <div class="tech-logo tech-logo--own" title="V28 — CRM-ul nostru">
+      <span class="tech-logo__mark">V28</span>
+      <span><strong>V28</strong> · CRM propriu</span>
+    </div>
+
   </div>
 </div>
+
+
+<!-- ══════ 3b. DEZVOLTATORI IMOBILIARI ══════ -->
+<section class="sqs sqs--dev" id="dezvoltatori" aria-labelledby="dev-h">
+  <div class="port-head">
+    <div class="rv">
+      <h2 class="dd dd-lg" id="dev-h">Dezvoltatori imobiliari</h2>
+    </div>
+    <div class="pf-cta__acts">
+      <a href="/marketing-dezvoltatori-imobiliari/" class="btn btn-solid">Ce facem pentru dezvoltatori <span style="margin-left:4px">→</span></a>
+    </div>
+    <div class="port-nav" role="group" aria-label="Navigare slider dezvoltatori">
+      <button class="pnb" id="devPrev" aria-label="Anterior" disabled>
+        <svg width="15" height="15" viewBox="0 0 15 15" fill="none"><path d="M9.5 3L5 7.5l4.5 4.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+      <button class="pnb" id="devNext" aria-label="Următor">
+        <svg width="15" height="15" viewBox="0 0 15 15" fill="none"><path d="M5.5 3L10 7.5 5.5 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+    </div>
+  </div>
+
+  <div class="port-wrap" id="devWrap" tabindex="0" role="region" aria-label="Slider dezvoltatori imobiliari">
+    <div class="port-track" id="devTrack">
+
+      <a class="sq-card" href="/proiecte/vlaicu87/">
+        <span class="sq-card__img"><img src="/media/tiles/vlaicu87.avif" alt="Vlaicu87 — proiect realizat de Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Vlaicu87</span>
+      </a>
+
+      <a class="sq-card" href="/proiecte/cameo-residence/">
+        <span class="sq-card__img"><img src="/media/tiles/cameo-residence.avif" alt="Cameo Residence — proiect realizat de Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Cameo Residence</span>
+      </a>
+
+      <a class="sq-card" href="https://www.evergreentowers.ro" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/evergreen-towers.avif" alt="Evergreen Towers — proiect realizat de Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Evergreen Towers</span>
+      </a>
+
+      <a class="sq-card" href="https://picolina.ro" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/picolina.avif" alt="Picolina Bucium — proiect realizat de Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Picolina Bucium</span>
+      </a>
+
+      <a class="sq-card" href="https://armurdesign.ro" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/armur-design.avif" alt="Armur Design — proiect realizat de Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Armur Design</span>
+      </a>
+
+      <a class="sq-card" href="/marketing-imobiliar-iasi/">
+        <span class="sq-card__img"><img src="/media/tiles/lapis-residence.avif" alt="Lapis Residence — proiect realizat de Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Lapis Residence</span>
+      </a>
+
+      <a class="sq-card" href="https://alfapark.ro" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/alfa-park-residence.avif" alt="Alfa Park Residence — proiect realizat de Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Alfa Park Residence</span>
+      </a>
+
+      <a class="sq-card" href="/proiecte/2m-tech/">
+        <span class="sq-card__img"><img src="/media/tiles/2m-tech.avif" alt="2M Tech — proiect realizat de Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">2M Tech</span>
+      </a>
+
+    </div>
+  </div>
+  <div class="port-dots" id="devDots" aria-hidden="true"></div>
+</section>
+
+
+<!-- ══════ 3c. PARTENERII NOȘTRI ══════ -->
+<section class="sqs" id="parteneri" aria-labelledby="part-h">
+  <div class="port-head">
+    <div class="rv">
+      <h2 class="dd dd-lg" id="part-h">Partenerii noștri</h2>
+    </div>
+    <div class="pf-cta__acts">
+      <a href="/portofoliu/" class="btn btn-solid">Vezi portofoliul <span style="margin-left:4px">→</span></a>
+    </div>
+    <div class="port-nav" role="group" aria-label="Navigare slider parteneri">
+      <button class="pnb" id="partPrev" aria-label="Anterior" disabled>
+        <svg width="15" height="15" viewBox="0 0 15 15" fill="none"><path d="M9.5 3L5 7.5l4.5 4.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+      <button class="pnb" id="partNext" aria-label="Următor">
+        <svg width="15" height="15" viewBox="0 0 15 15" fill="none"><path d="M5.5 3L10 7.5 5.5 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+    </div>
+  </div>
+
+  <div class="port-wrap" id="partWrap" tabindex="0" role="region" aria-label="Slider parteneri">
+    <div class="port-track" id="partTrack">
+
+      <a class="sq-card" href="/proiecte/casa-vatra/">
+        <span class="sq-card__img"><img src="/media/tiles/casa-vatra.avif" alt="Casa Vatră — proiect realizat de Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Casa Vatră</span>
+      </a>
+
+      <a class="sq-card" href="/proiecte/carmangeria-evei/">
+        <span class="sq-card__img"><img src="/media/tiles/carmangeria-evei.avif" alt="Carmangeria Evei — proiect realizat de Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Carmangeria Evei</span>
+      </a>
+
+      <a class="sq-card" href="/proiecte/solutii-alpensam/">
+        <span class="sq-card__img"><img src="/media/tiles/solutii-alpensam.avif" alt="Soluții Alpensam — proiect realizat de Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Soluții Alpensam</span>
+      </a>
+
+      <a class="sq-card" href="/proiecte/lucia-rosca/">
+        <span class="sq-card__img"><img src="/media/tiles/lucia-rosca.avif" alt="Lucia Roșca — proiect realizat de Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Lucia Roșca</span>
+      </a>
+
+      <a class="sq-card" href="/proiecte/velomed/">
+        <span class="sq-card__img"><img src="/media/tiles/velomed.avif" alt="Velomed — proiect realizat de Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Velomed</span>
+      </a>
+
+      <a class="sq-card" href="/proiecte/ecologica2000-italia/">
+        <span class="sq-card__img"><img src="/media/tiles/ecologica2000-italia.avif" alt="Ecologica 2000 — proiect realizat de Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Ecologica 2000</span>
+      </a>
+
+      <a class="sq-card" href="/proiecte/amodelic/">
+        <span class="sq-card__img"><img src="/media/tiles/amodelic.avif" alt="Amodelic — proiect realizat de Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Amodelic</span>
+      </a>
+
+      <a class="sq-card" href="/proiecte/toata-nunta/">
+        <span class="sq-card__img"><img src="/media/tiles/toata-nunta.avif" alt="Toată Nunta — proiect realizat de Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Toată Nunta</span>
+      </a>
+
+    </div>
+  </div>
+  <div class="port-dots" id="partDots" aria-hidden="true"></div>
+</section>
 
 
 <!-- ══════ 4. MANIFESTO ══════ -->
@@ -507,7 +645,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl
 
     <!-- Paragraf SEO/AEO: fapte citabile, atribuite entității -->
     <p class="stats__intro rv">
-      <strong>Visience Creative Experience</strong> este o agenție de marketing digital din Iași, fondată în urmă cu 12 ani. De-a lungul timpului am generat peste <strong>8.200 de leaduri</strong> în proiecte imobiliare, am contribuit la vânzarea a peste <strong>1.000 de apartamente</strong> și am livrat peste <strong>120 de proiecte</strong> de branding, web și marketing pentru companii din România, Italia, Franța și Germania.
+      <strong>Visience Creative Experience</strong> este o agenție de marketing digital din Iași, fondată în urmă cu 12 ani. De-a lungul timpului am generat peste <strong>8.200 de leaduri</strong> în proiecte imobiliare, am contribuit la vânzarea a peste <strong>1.000 de apartamente</strong> în proiectele pe care le-am promovat și am livrat peste <strong>120 de proiecte</strong> de branding, web și marketing pentru companii din România, Italia, Franța și Germania.
     </p>
 
     <div class="stats__grid">
@@ -569,7 +707,99 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl
 </section>
 
 
-<!-- ══════ 6. SERVICES SLIDER ══════ -->
+<!-- ══════ 6. CASE STUDIES ══════ -->
+<section class="cases" id="rezultate" aria-labelledby="case-h">
+
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0"   y1="20%" x2="100%" y2="60%"/>
+      <line x1="0"   y1="50%" x2="100%" y2="90%"/>
+      <line x1="0"   y1="80%" x2="100%" y2="30%"/>
+      <line x1="25%" y1="0"   x2="75%"  y2="100%"/>
+      <line x1="70%" y1="0"   x2="20%"  y2="100%"/>
+    </svg>
+  </div>
+
+  <div class="wrap">
+
+    <div class="cases__head rv">
+      <div>
+        <h2 class="dd dd-lg" id="case-h">Numere reale,<br>rezultate reale</h2>
+      </div>
+      <p class="body-lg" style="max-width:320px">
+        Cifrele de mai jos sunt rezultate confirmate din proiecte livrate, nu estimări.
+      </p>
+    </div>
+
+    <div class="cases__list">
+
+      <!-- Case 1: Evergreen Towers -->
+      <article class="case-item rv">
+        <div class="case-item__ill">
+          <img src='/media/evergreen-02-min.avif' alt="Proiect imobiliar Evergreen Towers Iași — campanie de marketing Visience" loading="lazy" style="object-fit: cover; height:100%">
+        </div>
+        <div class="case-item__body">
+          <div class="case-num">6.600+</div>
+          <div class="case-sub">Leaduri în imobiliare · 3 ani · 400+ apartamente</div>
+          <h3 class="case-title">Evergreen Towers — Aurel Vlaicu 83, Iași</h3>
+          <p class="case-desc">Campanii PPC pe Google Ads și Facebook, pagini dedicate Lead Generation, social media management și strategie de remarketing. Cel mai mare proiect din portofoliu.</p>
+          <p class="case-desc">În colaborare cu Vistory</p>
+          <div class="case-cpills">
+            <span class="cpill">Google Ads</span>
+            <span class="cpill">Facebook Ads</span>
+            <span class="cpill">Social Media</span>
+            <span class="cpill">Lead Gen</span>
+          </div>
+          <a href="https://www.evergreentowers.ro" target="_blank" rel="noopener" class="btn btn-ghost" style="align-self:flex-start">evergreentowers.ro ↗</a>
+        </div>
+      </article>
+
+      <!-- Case 2: Picolina -->
+      <article class="case-item alt rv rv-d1" style="margin-top:3px">
+        <div class="case-item__ill">
+          <img src='/media/picolina-01-min.avif' alt="Ansamblu rezidențial Picolina Bucium Residence Iași — branding și campanii Visience" loading="lazy" style="object-fit: cover; height:100%">
+        </div>
+        <div class="case-item__body">
+          <div class="case-num">1.000+</div>
+          <div class="case-sub">Leaduri în imobiliare · 5 luni</div>
+          <h3 class="case-title">Picolina Bucium Residence — Iași</h3>
+          <p class="case-desc">De la zero la o sursă constantă de clienți calificați. Branding complet, website dedicat cu landing page optimizat și campanii PPC cu testare continuă.</p>
+          <p class="case-desc">În colaborare cu Vistory</p>
+          <div class="case-cpills">
+            <span class="cpill">Branding</span>
+            <span class="cpill">Website</span>
+            <span class="cpill">Facebook Ads</span>
+          </div>
+          <a href="https://picolina.ro" target="_blank" rel="noopener" class="btn btn-ghost" style="align-self:flex-start">picolina.ro ↗</a>
+        </div>
+      </article>
+
+      <!-- Case 3: Armur Design -->
+      <article class="case-item rv rv-d2" style="margin-top:3px">
+        <div class="case-item__ill">
+          <img src='/media/fewgfew.avif' alt="Ansamblu de case premium Armur Design Galata Iași — social media și PPC Visience" loading="lazy" style="object-fit: cover; height:100%">
+        </div>
+        <div class="case-item__body">
+          <div class="case-num">600+</div>
+          <div class="case-sub">Leaduri · 5 luni · 10 case de 350K€</div>
+          <h3 class="case-title">Armur Design — Galata, Iași</h3>
+          <p class="case-desc">Social media management intensiv și campanii PPC pentru un ansamblu de case individuale premium. Strategie completă pentru un portofoliu de 3,5M€.</p>
+          <p class="case-desc">În colaborare cu Vistory</p>
+          <div class="case-cpills">
+            <span class="cpill">Social Media</span>
+            <span class="cpill">Google Ads</span>
+            <span class="cpill">Meta Ads</span>
+          </div>
+          <a href="https://armurdesign.ro" target="_blank" rel="noopener" class="btn btn-ghost" style="align-self:flex-start">armurdesign.ro ↗</a>
+        </div>
+      </article>
+
+    </div>
+  </div>
+</section>
+
+
+<!-- ══════ 7. SERVICES SLIDER ══════ -->
 <section class="services" id="servicii" aria-labelledby="svc-h">
 
   <div class="wrap services__head rv">
@@ -925,7 +1155,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl
   <div class="wrap">
     <div class="spec__head rv">
       <h2 class="dd dd-lg" id="spec-h">Pe ce suntem<br>specializați</h2>
-      <p class="body-lg spec__sub">Trei direcții în care livrăm rezultate constant, fiecare cu pagină dedicată și prețuri clare.</p>
+      <p class="body-lg spec__sub">Nișa noastră principală sunt proiectele rezidențiale. Pe lângă ea, ducem branding, site-uri și campanii pentru firme din comerț și servicii. Fiecare direcție are pagina ei, cu prețuri publice.</p>
     </div>
 
     <div class="spec__grid">
@@ -951,98 +1181,6 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl
         <p>Branding, website cu pagini de apartamente și campanii care vând ansambluri rezidențiale. Peste 1.000 de apartamente vândute.</p>
         <span class="spec-card__cta">Vezi serviciul <span class="spec-card__arr">↗</span></span>
       </a>
-
-    </div>
-  </div>
-</section>
-
-
-<!-- ══════ 7. CASE STUDIES ══════ -->
-<section class="cases" id="rezultate" aria-labelledby="case-h">
-
-  <div class="line-bg" aria-hidden="true">
-    <svg width="100%" height="100%" preserveAspectRatio="none">
-      <line x1="0"   y1="20%" x2="100%" y2="60%"/>
-      <line x1="0"   y1="50%" x2="100%" y2="90%"/>
-      <line x1="0"   y1="80%" x2="100%" y2="30%"/>
-      <line x1="25%" y1="0"   x2="75%"  y2="100%"/>
-      <line x1="70%" y1="0"   x2="20%"  y2="100%"/>
-    </svg>
-  </div>
-
-  <div class="wrap">
-
-    <div class="cases__head rv">
-      <div>
-        <h2 class="dd dd-lg" id="case-h">Numere reale,<br>rezultate reale</h2>
-      </div>
-      <p class="body-lg" style="max-width:320px">
-        Cifrele de mai jos sunt rezultate confirmate din proiecte livrate, nu estimări.
-      </p>
-    </div>
-
-    <div class="cases__list">
-
-      <!-- Case 1: Evergreen Towers -->
-      <article class="case-item rv">
-        <div class="case-item__ill">
-          <img src='/media/evergreen-02-min.avif' alt="Proiect imobiliar Evergreen Towers Iași — campanie de marketing Visience" loading="lazy" style="object-fit: cover; height:100%">
-        </div>
-        <div class="case-item__body">
-          <div class="case-num">6.600+</div>
-          <div class="case-sub">Leaduri în imobiliare · 3 ani · 400+ apartamente</div>
-          <h3 class="case-title">Evergreen Towers — Aurel Vlaicu 83, Iași</h3>
-          <p class="case-desc">Campanii PPC pe Google Ads și Facebook, pagini dedicate Lead Generation, social media management și strategie de remarketing. Cel mai mare proiect din portofoliu.</p>
-          <p class="case-desc">În colaborare cu Vistory</p>
-          <div class="case-cpills">
-            <span class="cpill">Google Ads</span>
-            <span class="cpill">Facebook Ads</span>
-            <span class="cpill">Social Media</span>
-            <span class="cpill">Lead Gen</span>
-          </div>
-          <a href="https://www.evergreentowers.ro" target="_blank" rel="noopener" class="btn btn-ghost" style="align-self:flex-start">evergreentowers.ro ↗</a>
-        </div>
-      </article>
-
-      <!-- Case 2: Picolina -->
-      <article class="case-item alt rv rv-d1" style="margin-top:3px">
-        <div class="case-item__ill">
-          <img src='/media/picolina-01-min.avif' alt="Ansamblu rezidențial Picolina Bucium Residence Iași — branding și campanii Visience" loading="lazy" style="object-fit: cover; height:100%">
-        </div>
-        <div class="case-item__body">
-          <div class="case-num">1.000+</div>
-          <div class="case-sub">Leaduri în imobiliare · 5 luni</div>
-          <h3 class="case-title">Picolina Bucium Residence — Iași</h3>
-          <p class="case-desc">De la zero la o sursă constantă de clienți calificați. Branding complet, website dedicat cu landing page optimizat și campanii PPC cu testare continuă.</p>
-          <p class="case-desc">În colaborare cu Vistory</p>
-          <div class="case-cpills">
-            <span class="cpill">Branding</span>
-            <span class="cpill">Website</span>
-            <span class="cpill">Facebook Ads</span>
-          </div>
-          <a href="https://picolina.ro" target="_blank" rel="noopener" class="btn btn-ghost" style="align-self:flex-start">picolina.ro ↗</a>
-        </div>
-      </article>
-
-      <!-- Case 3: Armur Design -->
-      <article class="case-item rv rv-d2" style="margin-top:3px">
-        <div class="case-item__ill">
-          <img src='/media/fewgfew.avif' alt="Ansamblu de case premium Armur Design Galata Iași — social media și PPC Visience" loading="lazy" style="object-fit: cover; height:100%">
-        </div>
-        <div class="case-item__body">
-          <div class="case-num">600+</div>
-          <div class="case-sub">Leaduri · 5 luni · 10 case de 350K€</div>
-          <h3 class="case-title">Armur Design — Galata, Iași</h3>
-          <p class="case-desc">Social media management intensiv și campanii PPC pentru un ansamblu de case individuale premium. Strategie completă pentru un portofoliu de 3,5M€.</p>
-          <p class="case-desc">În colaborare cu Vistory</p>
-          <div class="case-cpills">
-            <span class="cpill">Social Media</span>
-            <span class="cpill">Google Ads</span>
-            <span class="cpill">Meta Ads</span>
-          </div>
-          <a href="https://armurdesign.ro" target="_blank" rel="noopener" class="btn btn-ghost" style="align-self:flex-start">armurdesign.ro ↗</a>
-        </div>
-      </article>
 
     </div>
   </div>
@@ -1109,6 +1247,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl
             <a href="https://vlaicu87.ro/" target="_blank" rel="noopener" class="pj-card__url">vlaicu87.ro ↗</a>
             <span class="pj-card__collab">cu Vistory</span>
           </div>
+        <a class="pj-card__more" href="/proiecte/vlaicu87/">Vezi proiectul <span aria-hidden="true">→</span></a>
         </div>
       </article>
 
@@ -1148,6 +1287,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl
           <div class="pj-card__foot">
             <a href="https://amodelic.com" target="_blank" rel="noopener" class="pj-card__url">amodelic.com ↗</a>
           </div>
+        <a class="pj-card__more" href="/proiecte/amodelic/">Vezi proiectul <span aria-hidden="true">→</span></a>
         </div>
       </article>
 
@@ -1180,6 +1320,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl
           <div class="pj-card__foot">
             <a href="https://casavatra.ro" target="_blank" rel="noopener" class="pj-card__url">casavatra.ro ↗</a>
           </div>
+        <a class="pj-card__more" href="/proiecte/casa-vatra/">Vezi proiectul <span aria-hidden="true">→</span></a>
         </div>
       </article>
 
@@ -1219,6 +1360,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl
           <div class="pj-card__foot">
             <a href="https://carmangeriaevei.ro/" target="_blank" rel="noopener" class="pj-card__url">carmangeriaevei.ro ↗</a>
           </div>
+        <a class="pj-card__more" href="/proiecte/carmangeria-evei/">Vezi proiectul <span aria-hidden="true">→</span></a>
         </div>
       </article>
 
@@ -1262,6 +1404,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl
             <a href="https://cameoresidence.ro/" target="_blank" rel="noopener" class="pj-card__url">cameoresidence.ro ↗</a>
             <span class="pj-card__collab">cu Vistory</span>
           </div>
+        <a class="pj-card__more" href="/proiecte/cameo-residence/">Vezi proiectul <span aria-hidden="true">→</span></a>
         </div>
       </article>
 
@@ -1304,6 +1447,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl
           <div class="pj-card__foot">
             <a href="https://solutiialpensam.ro/" target="_blank" rel="noopener" class="pj-card__url">solutiialpensam.ro ↗</a>
           </div>
+        <a class="pj-card__more" href="/proiecte/solutii-alpensam/">Vezi proiectul <span aria-hidden="true">→</span></a>
         </div>
       </article>
 
@@ -1322,20 +1466,21 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl
           </div>
           <div class="pj-desktop">
             <img src="/media/2m-tech-desk.avif"
-                 alt="Website 2M Tech — dezvoltator imobiliar, realizat de Visience" loading="lazy" width="1898" height="949">
+                 alt="Website 2M Tech — construcții și dezvoltare imobiliară, realizat de Visience" loading="lazy" width="1898" height="949">
           </div>
         </div>
         <div class="pj-card__body">
           <div class="pj-card__pills">
             <span class="pj-pill pj-pill--svc">Website</span>
             <span class="pj-pill pj-pill--ind">Complex Imobiliar</span>
-            <span class="pj-pill pj-pill--ind">Dezvoltator Imobiliar</span>
+            <span class="pj-pill pj-pill--ind">Construcții</span>
           </div>
-          <h3 class="pj-card__title">2M Tech — Dezvoltator Imobiliar</h3>
+          <h3 class="pj-card__title">2M Tech — Construcții și dezvoltare imobiliară</h3>
           <div class="pj-card__foot">
             <a href="https://2mtech.ro/" target="_blank" rel="noopener" class="pj-card__url">2mtech.ro ↗</a>
             <span class="pj-card__collab">cu Vistory</span>
           </div>
+        <a class="pj-card__more" href="/proiecte/2m-tech/">Vezi proiectul <span aria-hidden="true">→</span></a>
         </div>
       </article>
 
@@ -1366,6 +1511,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl
           <div class="pj-card__foot">
             <a href="https://ecologica2000.eu/" target="_blank" rel="noopener" class="pj-card__url">ecologica2000.eu ↗</a>
           </div>
+        <a class="pj-card__more" href="/proiecte/ecologica2000-italia/">Vezi proiectul <span aria-hidden="true">→</span></a>
         </div>
       </article>
 
@@ -1453,6 +1599,70 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl
         </div>
       </div>
 
+    </div>
+  </div>
+</section>
+
+
+<!-- ══════ 9b. RECENZII ══════ -->
+<section class="revs" id="recenzii" aria-labelledby="revs-h">
+  <div class="wrap">
+    <div class="revs__head rv">
+      <h2 class="dd dd-lg" id="revs-h">Ce spun clienții<br>despre noi</h2>
+      <p class="revs__lead">Toate sunt recenzii Google, scrise de clienți pe profilul nostru de firmă. Nu le putem edita, șterge sau alege pe cele care ne convin — le poți verifica pe fiecare, inclusiv firma din spatele numelui.</p>
+    </div>
+
+    <div class="revs__grid rv rv-d1">
+      <figure class="rev-card">
+        <span class="rev-stars" aria-label="5 din 5 stele">★★★★★</span>
+        <blockquote class="rev-card__txt">Un partener de bază, de cursă lungă. Recomand.</blockquote>
+        <figcaption class="rev-card__who">
+          <span class="rev-card__nume">Dionisie Lefter</span>
+          <a class="rev-card__firma" href="https://velomed.ro/" target="_blank" rel="noopener noreferrer">Velomed &amp; Romold Invent</a>
+          <span class="rev-card__cand">Google · acum 2 luni</span>
+        </figcaption>
+      </figure>
+      <figure class="rev-card">
+        <span class="rev-stars" aria-label="5 din 5 stele">★★★★★</span>
+        <blockquote class="rev-card__txt">Am colaborat excelent cu Vlad!</blockquote>
+        <figcaption class="rev-card__who">
+          <span class="rev-card__nume">Dan Vatra</span>
+          <a class="rev-card__firma" href="https://casavatra.ro/" target="_blank" rel="noopener noreferrer">Casa Vatra</a>
+          <span class="rev-card__cand">Google · acum 2 luni</span>
+        </figcaption>
+      </figure>
+      <figure class="rev-card">
+        <span class="rev-stars" aria-label="5 din 5 stele">★★★★★</span>
+        <blockquote class="rev-card__txt">Profesionalism și calitate la superlativ. Recomand!</blockquote>
+        <figcaption class="rev-card__who">
+          <span class="rev-card__nume">Alpensam Edil</span>
+          <a class="rev-card__firma" href="https://solutiialpensam.ro/" target="_blank" rel="noopener noreferrer">Soluții Alpensam</a>
+          <span class="rev-card__cand">Google · acum 2 luni</span>
+        </figcaption>
+      </figure>
+      <figure class="rev-card">
+        <span class="rev-stars" aria-label="5 din 5 stele">★★★★★</span>
+        <blockquote class="rev-card__txt" lang="en">I worked with Vlad from Visience on my clothing brand’s website in order to rebuild it in a more professional and modern way. […] I am very pleased with the outcome and recommend him as a great professional.</blockquote>
+        <figcaption class="rev-card__who">
+          <span class="rev-card__nume">Lucia Alexandra Roșca</span>
+          <a class="rev-card__firma" href="http://luciarosca.ro/" target="_blank" rel="noopener noreferrer">luciarosca.ro</a>
+          <span class="rev-card__cand">Google · acum 3 ani</span>
+        </figcaption>
+      </figure>
+      <figure class="rev-card">
+        <span class="rev-stars" aria-label="5 din 5 stele">★★★★★</span>
+        <blockquote class="rev-card__txt">Recomand.</blockquote>
+        <figcaption class="rev-card__who">
+          <span class="rev-card__nume">Aurelian Tirilă</span>
+          <a class="rev-card__firma" href="https://romold-invent.eu/" target="_blank" rel="noopener noreferrer">Romold Invent</a>
+          <span class="rev-card__cand">Google · acum 2 luni</span>
+        </figcaption>
+      </figure>
+    </div>
+
+    <div class="revs__foot rv rv-d2">
+      <a class="btn btn-dark" href="https://maps.google.com/?cid=5233500846285127119" target="_blank" rel="noopener noreferrer">Vezi toate recenziile pe Google →</a>
+      <a class="btn btn-ghost" href="#proiecte">Sau vezi proiectele live</a>
     </div>
   </div>
 </section>
@@ -1677,7 +1887,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl
       <details class="faq-item">
         <summary class="faq-q">Cât durează realizarea unui site web?</summary>
         <div class="faq-a">
-          Un landing page se poate livra în câteva zile, un site de prezentare standard în <strong>2–4 săptămâni</strong>, iar un proiect premium sau un magazin online complex în <strong>4–8 săptămâni</strong>, în funcție de volumul de conținut și de funcționalități.
+          Depinde de câte pagini are și de cât de repede primim textele și pozele. Termenul exact ți-l dăm în ofertă, după ce vedem proiectul, și îl respectăm.<strong>2–4 săptămâni</strong>, iar un proiect premium sau un magazin online complex în <strong>4–8 săptămâni</strong>, în funcție de volumul de conținut și de funcționalități.
         </div>
       </details>
 
@@ -1926,25 +2136,14 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl
   right: var(--gut);
   top: 50%;
   transform: translateY(-50%);
-  width: 90px;
-  height: 90px;
-  border: 1px solid rgba(155,195,26,.25);
+  width: 46px;
+  height: 46px;
   border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
   z-index: 3;
-  transition: border-color .35s ease, box-shadow .35s ease;
-}
-.hero__badge > svg { width: 90px; height: 90px; animation: rotB 16s linear infinite; }
-.hero__badge > svg text {
-  fill: rgba(255,255,255,.28);
-  font-size: 9px;
-  letter-spacing: 3px;
-  font-family: var(--f-m);
-}
-@keyframes rotB {
-  to { transform: rotate(360deg); }
+  transition: box-shadow .35s ease;
 }
 .hero__play {
   position: absolute;
@@ -2004,9 +2203,86 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl
   transition-timing-function: cubic-bezier(.22, .9, .3, 1);
 }
 .hero--tease:not(.hero--cinema) .hero__badge {
-  border-color: rgba(155,195,26,.6);
-  box-shadow: 0 0 0 8px rgba(155,195,26,.08), 0 0 34px rgba(155,195,26,.25);
+  box-shadow: 0 0 0 8px rgba(155,195,26,.08), 0 0 30px rgba(155,195,26,.28);
 }
+
+.tech-logo__mark {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: 21px;
+  letter-spacing: -.02em;
+  color: var(--acc-deep);
+  line-height: 28px;
+  height: 28px;
+  display: block;
+}
+.tech-logo--own span strong { font-weight: 700; color: var(--ink); }
+
+/* ── RECENZII ── */
+.revs {
+  padding: clamp(70px, 10vw, 120px) 0;
+  background: var(--cream);
+}
+.revs__head { max-width: 780px; margin-bottom: clamp(36px, 5vw, 54px); }
+.revs__lead {
+  margin: 18px 0 0;
+  font-size: clamp(15px, 1.5vw, 17px);
+  line-height: 1.7;
+  color: var(--mid);
+  font-weight: 300;
+  max-width: 660px;
+}
+.revs__grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  align-items: start;
+}
+.rev-card {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 26px 26px 22px;
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  transition: border-color .28s, transform .28s, box-shadow .28s;
+}
+.rev-card:hover {
+  border-color: rgba(155,195,26,.45);
+  transform: translateY(-3px);
+  box-shadow: 0 14px 32px rgba(17,16,16,.06);
+}
+.rev-stars { color: #F5A623; font-size: 14px; letter-spacing: 2px; line-height: 1; }
+.rev-card__txt {
+  margin: 0;
+  font-size: 15px;
+  line-height: 1.65;
+  color: var(--ink2);
+  flex: 1;
+}
+.rev-card__txt[lang="en"] { font-size: 14px; }
+.rev-card__who { display: flex; flex-direction: column; gap: 2px; }
+.rev-card__nume {
+  font-family: var(--f-d);
+  font-weight: 650;
+  font-size: 14.5px;
+  color: var(--ink);
+}
+.rev-card__firma { font-size: 13px; color: var(--acc-deep); font-weight: 550; }
+a.rev-card__firma:hover { text-decoration: underline; }
+.rev-card__cand {
+  font-family: var(--f-m);
+  font-size: 10.5px;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  color: var(--light);
+  margin-top: 3px;
+}
+.revs__foot { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 28px; }
+@media (max-width: 1000px) { .revs__grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 680px)  { .revs__grid { grid-template-columns: 1fr; } }
 
 /* Play mobil (ascuns pe desktop) */
 .hero__playm { display: none; }
@@ -3327,6 +3603,58 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl
   .port-track { padding: 0 var(--gut); }
 }
 
+/* ╔══════════════════════════════════════════════════
+   ║  SLIDERE CU IMAGINI 4:5 (dezvoltatori / parteneri)
+   ╚══════════════════════════════════════════════════ */
+.sqs { padding: 96px 0 84px; overflow: hidden; background: var(--white); }
+.sqs--dev { background: var(--cream); }
+.sqs .port-head { margin-bottom: 40px; }
+
+.sq-card {
+  flex: 0 0 auto;
+  width: 100%;
+  max-width: 22%;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.sq-card__img {
+  display: block;
+  position: relative;
+  aspect-ratio: 4 / 5;
+  border-radius: 12px;
+  overflow: hidden;
+  background: var(--cream2);
+  transition: transform .35s cubic-bezier(.25,.46,.45,.94),
+              box-shadow .35s cubic-bezier(.25,.46,.45,.94);
+}
+.sq-card:hover .sq-card__img {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 40px rgba(17,16,16,.08);
+}
+.sq-card__img img {
+  width: 100%; height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.sq-card__name {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--ink);
+  padding-left: 2px;
+}
+.sq-card:hover .sq-card__name { color: var(--acc-deep); }
+
+@media (max-width: 1024px) {
+  .sqs { padding: 72px 0 64px; }
+  .sq-card { max-width: 30%; }
+}
+@media (max-width: 720px) {
+  .sq-card { max-width: 65vw; }
+  .sq-card__img { border-radius: 10px; }
+  .sq-card__name { font-size: 13px; }
+}
+
 /* ══════════════════════════════════════════════════════════
    PROJECT CARDS — pj-* (layout vertical)
 ══════════════════════════════════════════════════════════ */
@@ -3522,6 +3850,18 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl
   transition: color .2s;
 }
 .pj-card__url:hover { color: var(--acc-deep); }
+.pj-card__more {
+  display: flex; align-items: center; justify-content: center; gap: 6px;
+  margin-top: 10px; padding: 10px 14px;
+  border: 1px solid var(--border); border-radius: 100px;
+  font-family: var(--f-m); font-size: 11px; font-weight: 500;
+  letter-spacing: .06em; text-transform: uppercase;
+  color: var(--ink); transition: .22s;
+}
+.pj-card__more:hover { background: var(--acc); color: var(--acc-ink); border-color: var(--acc-deep); }
+.pj-card__more span { transition: transform .25s; }
+.pj-card__more:hover span { transform: translateX(3px); }
+
 .pj-card__collab {
   font-family: var(--f-m);
   font-size: 10px;
@@ -4319,6 +4659,6 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl
 17:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/28or4npab1wgt.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 18:["$","$L1f",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
 1a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#FFFFFF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#111114","media":"(prefers-color-scheme: dark)"}]]
-21:I[27201,["/_next/static/chunks/1sc-domm6vvfo.js","/_next/static/chunks/158myu8e_yme3.js"],"IconMark"]
-1d:[["$","title","0",{"children":"Agenție de Marketing & Creare Site-uri în Iași | Visience"}],["$","meta","1",{"name":"description","content":"Agenție de marketing & creare site-uri în Iași: branding, website-uri, magazine online, Google & Meta Ads, SEO. 12 ani experiență, 120+ proiecte livrate."}],["$","link","2",{"rel":"canonical","href":"https://visience.ro/"}],["$","meta","3",{"property":"og:title","content":"Agenție de Marketing & Creare Site-uri în Iași | Visience"}],["$","meta","4",{"property":"og:description","content":"Agenție de marketing & creare site-uri în Iași: branding, website-uri, magazine online, Google & Meta Ads, SEO. 12 ani experiență, 120+ proiecte livrate."}],["$","meta","5",{"property":"og:url","content":"https://visience.ro/"}],["$","meta","6",{"property":"og:site_name","content":"Visience"}],["$","meta","7",{"property":"og:locale","content":"ro_RO"}],["$","meta","8",{"property":"og:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"property":"og:image:alt","content":"Visience — agenție de marketing & creare site-uri în Iași"}],["$","meta","12",{"property":"og:type","content":"website"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Agenție de Marketing & Creare Site-uri în Iași | Visience"}],["$","meta","15",{"name":"twitter:description","content":"Branding, website-uri, magazine online, Google & Meta Ads, SEO. Prețuri publice, fără costuri ascunse."}],["$","meta","16",{"name":"twitter:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","link","17",{"rel":"icon","href":"/favicon.ico?favicon.04nd99rd6ooix.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","18",{"rel":"icon","href":"/icon.png?icon.3v2r-pcu8x6vx.png","sizes":"192x192","type":"image/png"}],["$","link","19",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2y52blaubq-q-.png","sizes":"180x180","type":"image/png"}],["$","$L21","20",{}]]
+21:I[27201,["/_next/static/chunks/1720w25--sj4t.js","/_next/static/chunks/158myu8e_yme3.js"],"IconMark"]
+1d:[["$","title","0",{"children":"Agenție de Marketing & Creare Site-uri în Iași | Visience"}],["$","meta","1",{"name":"description","content":"Agenție de marketing în Iași, specializată pe ansambluri rezidențiale. Facem și site-uri, magazine online și campanii. 12 ani, 120+ proiecte livrate."}],["$","link","2",{"rel":"canonical","href":"https://visience.ro/"}],["$","meta","3",{"property":"og:title","content":"Agenție de Marketing & Creare Site-uri în Iași | Visience"}],["$","meta","4",{"property":"og:description","content":"Agenție de marketing în Iași, specializată pe ansambluri rezidențiale. Facem și site-uri, magazine online și campanii. 12 ani, 120+ proiecte livrate."}],["$","meta","5",{"property":"og:url","content":"https://visience.ro/"}],["$","meta","6",{"property":"og:site_name","content":"Visience"}],["$","meta","7",{"property":"og:locale","content":"ro_RO"}],["$","meta","8",{"property":"og:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"property":"og:image:alt","content":"Visience — agenție de marketing & creare site-uri în Iași"}],["$","meta","12",{"property":"og:type","content":"website"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Agenție de Marketing & Creare Site-uri în Iași | Visience"}],["$","meta","15",{"name":"twitter:description","content":"Branding, website-uri, magazine online, Google & Meta Ads, SEO. Prețuri publice, fără costuri ascunse."}],["$","meta","16",{"name":"twitter:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","link","17",{"rel":"icon","href":"/favicon.ico?favicon.04nd99rd6ooix.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","18",{"rel":"icon","href":"/icon.png?icon.3v2r-pcu8x6vx.png","sizes":"192x192","type":"image/png"}],["$","link","19",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2y52blaubq-q-.png","sizes":"180x180","type":"image/png"}],["$","$L21","20",{}]]
 20:null

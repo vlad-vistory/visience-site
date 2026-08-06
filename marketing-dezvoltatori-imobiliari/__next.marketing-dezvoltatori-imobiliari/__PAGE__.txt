@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
-6:I[97367,["/_next/static/chunks/1sc-domm6vvfo.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+6:I[97367,["/_next/static/chunks/1720w25--sj4t.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-2:T15f9,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari/#service","name":"Marketing imobiliar pentru dezvoltatori","serviceType":"Marketing imobiliar și branding pentru ansambluri rezidențiale","description":"Strategie, branding de ansamblu, website cu pagini de apartamente, campanii Google și Meta Ads, remarketing, email și CRM pentru dezvoltatori imobiliari.","provider":{"@type":"Organization","name":"Visience Creative Experience","url":"https://visience.ro/"},"areaServed":{"@type":"Country","name":"România"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Pachete de marketing imobiliar","itemListElement":[{"@type":"Offer","name":"Brand & Site","price":"3500","priceCurrency":"EUR","description":"Branding starter, website 5–7 pagini, o pagină tip apartament, SEO tehnic de bază. Pentru ansambluri sub 30 de unități."},{"@type":"Offer","name":"Standard","price":"6500","priceCurrency":"EUR","description":"Branding complet, website 10–15 pagini, pagini per tip apartament, campanii Google + Meta, CRM și raport lunar. Management 1.500€/lună."},{"@type":"Offer","name":"Ecosistem Complet","price":"12000","priceCurrency":"EUR","description":"Tot din Standard, plus coordonare producție vizuală, virtual tour 360, social media, newsletter și account manager dedicat. Management 4.500€/lună."}]}},{"@type":"FAQPage","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari/#faq","mainEntity":[{"@type":"Question","name":"În cât timp pot lansa site-ul ansamblului meu?","acceptedAnswer":{"@type":"Answer","text":"De la brief la live: 4–8 săptămâni, în funcție de complexitate. Site-uri simple cu 5–7 pagini pot fi gata în 4 săptămâni. Pentru cartiere mari cu 15+ pagini și configurator de apartamente, planificăm 8 săptămâni."}},{"@type":"Question","name":"Cât cheltui lunar pe Google și Meta Ads?","acceptedAnswer":{"@type":"Answer","text":"Bugetul de Ads NU este inclus în pachetele noastre — îl plătești direct la Google și Meta. Recomandăm minim 1.000€/lună pe Google + 800€/lună pe Meta pentru un cartier mediu. Orientativ, împărțim 60% Google (căutări cu intenție) și 40% Meta, apoi mutăm lunar bugetul spre canalul cu cel mai mic cost per lead."}},{"@type":"Question","name":"Aveți experiență cu vânzări pe credit ipotecar?","acceptedAnswer":{"@type":"Answer","text":"Da. Toate site-urile noastre includ pagini despre opțiunile de plată, simulator credit, parteneri bancari. Lucrăm cu agenți de creditare pentru a integra calculator interactiv pe site."}},{"@type":"Question","name":"Puteți colabora cu agenția de PR sau agentul imobiliar al meu?","acceptedAnswer":{"@type":"Answer","text":"Da, lucrăm frecvent în echipe extinse. Coordonăm cu agentul imobiliar pentru lead handover, cu PR-ul pentru consistență mesaj, cu fotografi/3D pentru asset-uri vizuale."}},{"@type":"Question","name":"Ce se întâmplă după sold-out? Mai am nevoie de site?","acceptedAnswer":{"@type":"Answer","text":"Păstrăm site-ul live pentru încrederea de brand (cumpărătorii vor să-l verifice). Reducem bugetul de Ads la minimum. Dacă lansezi următoarea fază sau proiect, începem ușor — fundamentul de brand și CRM există deja."}},{"@type":"Question","name":"Lucrați și cu dezvoltatori din afara Iașiului?","acceptedAnswer":{"@type":"Answer","text":"Da. Avem clienți în București, Cluj, Timișoara, Brașov și internațional (Italia, Franța, Germania). Toată colaborarea se poate face remote — întâlnirile pe Zoom/Meet funcționează la fel de bine."}},{"@type":"Question","name":"Cât costă marketingul pentru un ansamblu rezidențial?","acceptedAnswer":{"@type":"Answer","text":"Pachetele pornesc de la 3.500€ one-time pentru ansambluri mici (branding starter + website). Cel mai ales este Standard: de la 6.500€ setup + 1.500€/lună, cu campanii și raportare incluse. Toate prețurile sunt publice, pe această pagină — bugetul de Ads se plătește separat, direct la Google și Meta."}},{"@type":"Question","name":"Faceți și randări 3D fotorealiste?","acceptedAnswer":{"@type":"Answer","text":"Nu producem randări 3D in-house. Le preluăm pe cele făcute de arhitectul tău sau coordonăm un partener specializat, apoi le integrăm în website, campanii și materialele de vânzare. Tu rămâi cu un singur punct de contact, iar noi ne concentrăm pe ce facem cel mai bine: strategia și lead-urile."}},{"@type":"Question","name":"Cum vindem apartamente înainte de finalizarea construcției?","acceptedAnswer":{"@type":"Answer","text":"Vânzarea off-plan cere încredere: website cu planuri clare și stadiul lucrărilor actualizat lunar, listă de așteptare cu ofertă de lansare, campanii de notorietate în zonă și e-mailuri automate care țin lead-urile calde până la precontract. E modelul după care lucrăm pe fiecare proiect rezidențial."}},{"@type":"Question","name":"Colaborați cu agențiile imobiliare și portalurile de anunțuri?","acceptedAnswer":{"@type":"Answer","text":"Da. Coordonăm listările pe portaluri precum Imobiliare.ro și Storia, cu tracking separat pe fiecare canal, și predăm lead-urile către agenții tăi sau agenția parteneră prin CRM. Vezi exact de unde vine fiecare cumpărător și ce canal merită buget."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Marketing dezvoltatori imobiliari","item":"https://visience.ro/marketing-dezvoltatori-imobiliari/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"G48Dnf0n9qThHmb8e-Tyo"}
-5:Tac88,<style>
+2:T15c3,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari/#service","name":"Marketing imobiliar pentru dezvoltatori","serviceType":"Marketing imobiliar și branding pentru ansambluri rezidențiale","description":"Strategie, branding de ansamblu, website cu pagini de apartamente, campanii Google și Meta Ads, remarketing, email și CRM pentru dezvoltatori imobiliari.","provider":{"@type":"Organization","name":"Visience Creative Experience","url":"https://visience.ro/"},"areaServed":{"@type":"Country","name":"România"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Pachete de marketing imobiliar","itemListElement":[{"@type":"Offer","name":"Brand & Site","price":"3500","priceCurrency":"EUR","description":"Branding starter, website 5–7 pagini, o pagină tip apartament, SEO tehnic de bază. Pentru ansambluri sub 30 de unități."},{"@type":"Offer","name":"Standard","price":"6500","priceCurrency":"EUR","description":"Branding complet, website 10–15 pagini, pagini per tip apartament, campanii Google + Meta, CRM și raport lunar. Management 1.500€/lună."},{"@type":"Offer","name":"Ecosistem Complet","price":"12000","priceCurrency":"EUR","description":"Tot din Standard, plus coordonare producție vizuală, virtual tour 360, social media, newsletter și account manager dedicat. Management 4.500€/lună."}]}},{"@type":"FAQPage","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari/#faq","mainEntity":[{"@type":"Question","name":"În cât timp pot lansa site-ul ansamblului meu?","acceptedAnswer":{"@type":"Answer","text":"Depinde de câte tipologii de apartament intră pe site și de cât de repede primim planurile și randările. Termenul îl fixăm în ofertă și îl ținem."}},{"@type":"Question","name":"Cât cheltui lunar pe Google și Meta Ads?","acceptedAnswer":{"@type":"Answer","text":"Bugetul de Ads NU este inclus în pachetele noastre — îl plătești direct la Google și Meta. Recomandăm minim 1.000€/lună pe Google + 800€/lună pe Meta pentru un cartier mediu. Orientativ, împărțim 60% Google (căutări cu intenție) și 40% Meta, apoi mutăm lunar bugetul spre canalul cu cel mai mic cost per lead."}},{"@type":"Question","name":"Aveți experiență cu vânzări pe credit ipotecar?","acceptedAnswer":{"@type":"Answer","text":"Da. Toate site-urile noastre includ pagini despre opțiunile de plată, simulator credit, parteneri bancari. Lucrăm cu agenți de creditare pentru a integra calculator interactiv pe site."}},{"@type":"Question","name":"Puteți colabora cu agenția de PR sau agentul imobiliar al meu?","acceptedAnswer":{"@type":"Answer","text":"Da, lucrăm frecvent în echipe extinse. Coordonăm cu agentul imobiliar pentru lead handover, cu PR-ul pentru consistență mesaj, cu fotografi/3D pentru asset-uri vizuale."}},{"@type":"Question","name":"Ce se întâmplă după ce se vinde ultima unitate? Mai am nevoie de site?","acceptedAnswer":{"@type":"Answer","text":"Păstrăm site-ul live pentru încrederea de brand (cumpărătorii vor să-l verifice). Reducem bugetul de Ads la minimum. Dacă lansezi următoarea fază sau proiect, începem ușor — fundamentul de brand și CRM există deja."}},{"@type":"Question","name":"Lucrați și cu dezvoltatori din afara Iașiului?","acceptedAnswer":{"@type":"Answer","text":"Da. Avem clienți în București, Cluj, Timișoara, Brașov și internațional (Italia, Franța, Germania). Toată colaborarea se poate face remote — întâlnirile pe Zoom/Meet funcționează la fel de bine."}},{"@type":"Question","name":"Cât costă marketingul pentru un ansamblu rezidențial?","acceptedAnswer":{"@type":"Answer","text":"Pachetele pornesc de la 3.500€ one-time pentru ansambluri mici (branding starter + website). Cel mai ales este Standard: de la 6.500€ setup + 1.500€/lună, cu campanii și raportare incluse. Toate prețurile sunt publice, pe această pagină — bugetul de Ads se plătește separat, direct la Google și Meta."}},{"@type":"Question","name":"Faceți și randări 3D fotorealiste?","acceptedAnswer":{"@type":"Answer","text":"Nu producem randări 3D in-house. Le preluăm pe cele făcute de arhitectul tău sau coordonăm un partener specializat, apoi le integrăm în website, campanii și materialele de vânzare. Tu rămâi cu un singur punct de contact, iar noi ne concentrăm pe ce facem cel mai bine: strategia și lead-urile."}},{"@type":"Question","name":"Cum vindem apartamente înainte de finalizarea construcției?","acceptedAnswer":{"@type":"Answer","text":"Vânzarea off-plan cere încredere: website cu planuri clare și stadiul lucrărilor actualizat lunar, listă de așteptare cu ofertă de lansare, campanii de notorietate în zonă și e-mailuri automate care țin lead-urile calde până la precontract. E modelul după care lucrăm pe fiecare proiect rezidențial."}},{"@type":"Question","name":"Colaborați cu agențiile imobiliare și portalurile de anunțuri?","acceptedAnswer":{"@type":"Answer","text":"Da. Coordonăm listările pe portaluri precum Imobiliare.ro și Storia, cu tracking separat pe fiecare canal, și predăm lead-urile către agenții tăi sau agenția parteneră prin CRM. Vezi exact de unde vine fiecare cumpărător și ce canal merită buget."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Marketing dezvoltatori imobiliari","item":"https://visience.ro/marketing-dezvoltatori-imobiliari/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"xi2p3WCOSGF9W86zn41Qm"}
+5:Tb36e,<style>
 .dev-page { background: var(--cream); }
 
 .dev-section__head {
@@ -213,6 +213,7 @@
   padding: clamp(70px, 10vw, 130px) 0;
   background: var(--cream2);
 }
+.dev-process__list--faze { align-items: start; }
 .dev-process__list {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -262,6 +263,30 @@
   line-height: 1.7;
   font-weight: 300;
   margin: 0;
+}
+.dev-step__liv {
+  list-style: none;
+  margin: 16px 0 0;
+  padding: 16px 0 0;
+  border-top: 1px solid var(--border);
+  display: grid;
+  gap: 9px;
+}
+.dev-step__liv li {
+  position: relative;
+  padding-left: 18px;
+  font-size: 12.5px;
+  line-height: 1.6;
+  color: var(--mid);
+  font-weight: 300;
+}
+.dev-step__liv li::before {
+  content: "";
+  position: absolute;
+  left: 0; top: 8px;
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  background: var(--acc);
 }
 
 .dev-results {
@@ -711,6 +736,13 @@
         de case, ansambluri rezidențiale și complexuri.
       </p>
 
+      <p class="body-lg dev-hero__sub rv rv-d1">
+        Visience este agenția de marketing din Iași care lucrează cu dezvoltatori imobiliari din toată
+        România, de 12 ani. Am construit brandul, site-ul și campaniile pentru Vlaicu87, Cameo Residence,
+        Evergreen Towers, Picolina Bucium și Armur Design, iar pachetul de pornire pentru un ansamblu
+        începe de la 3.500€.
+      </p>
+
       <div class="dev-hero__acts rv rv-d2">
         <a href="#contact" class="btn btn-solid">Solicită propunere <span style="margin-left:4px">→</span></a>
         <a href="#proiecte" class="btn btn-ghost">Vezi proiectele noastre</a>
@@ -748,7 +780,7 @@
         <div class="dev-pain-card">
           <div class="dev-pain-card__ico"><i class="fa-solid fa-chart-line"></i></div>
           <h3>Costul lead-ului contează</h3>
-          <p>Diferența între 8€ și 80€ pe lead poate transforma un cartier rentabil într-unul fără profit. Optimizarea face diferența.</p>
+          <p>În conturile pe care le administrăm am văzut costuri pe lead de la 8€ până la 80€, cu majoritatea proiectelor între 15€ și 50€. Diferența vine din zonă, din preț și din cât de ușor găsește omul planul și stadiul lucrărilor.</p>
         </div>
         <div class="dev-pain-card">
           <div class="dev-pain-card__ico"><i class="fa-solid fa-handshake"></i></div>
@@ -763,7 +795,7 @@
   <section class="dev-portfolio" id="proiecte">
     <div class="wrap">
       <div class="dev-section__head rv">
-        <h2 class="dd dd-lg">Cartiere și ansambluri<br><span class="hi">duse de la 0 la sold-out.</span></h2>
+        <h2 class="dd dd-lg">Cartiere și ansambluri<br><span class="hi">pe care le-am promovat.</span></h2>
         <p class="body-lg">Proiecte reale de marketing imobiliar, cu rezultate măsurate în rapoarte, nu estimate.</p>
       </div>
 
@@ -854,46 +886,51 @@
   <section class="dev-process">
     <div class="wrap">
       <div class="dev-section__head rv">
-        <h2 class="dd dd-lg">Planul de marketing imobiliar,<br>pas cu pas.</h2>
-        <p class="body-lg">Un plan de marketing pentru dezvoltarea ta imobiliară: de la brief la primele lead-uri în 6–10 săptămâni, cu termene și livrabile clare la fiecare etapă.</p>
+        <h2 class="dd dd-lg">Trei faze,<br>în ritmul șantierului.</h2>
+        <p class="body-lg">Un ansamblu se vinde în etape, iar fiecare etapă cere altceva: întâi cifre despre zonă, apoi brand, site și lansare, apoi disciplină pe cereri și pe stocul rămas. Le ducem pe toate trei cu aceeași echipă.</p>
       </div>
 
-      <div class="dev-process__list rv rv-d2">
+      <div class="dev-process__list dev-process__list--faze rv rv-d2">
         <article class="dev-step">
           <div class="dev-step__n">01</div>
-          <div class="dev-step__time">2–3 zile</div>
-          <h3>Analiză &amp; brief</h3>
-          <p>Înțelegem cartierul, target-ul, USP-urile. Analizăm concurența locală și benchmark-uri internaționale.</p>
+          <div class="dev-step__time">Înainte să fixezi tipologiile și prețurile</div>
+          <h3>Analiza zonei și poziționarea</h3>
+          <p>Ne uităm la ce se construiește în jur, la ce cere cumpărătorul local și la ce lipsește din stocul concurent. Din analiza asta ies poziționarea ansamblului, profilul cumpărătorului și mesajele pe care le folosești în anii următori. Livrăm un document scris, cu sursele la vedere și cu ipotezele declarate ca ipoteze.</p>
+          <ul class="dev-step__liv">
+            <li>Harta proiectelor din zonă: stoc rămas, tipologii, dotări, prețuri afișate</li>
+            <li>Profilul cumpărătorului pe segmente: prima casă, upgrade, investiție, diaspora</li>
+            <li>Poziționarea ansamblului și mesajele-cheie, formulate separat pe fiecare segment</li>
+            <li>Numele ansamblului, teritoriul vizual și direcția de brand</li>
+            <li>Planul de marketing pe etape, cu buget și calendar pe canale</li>
+          </ul>
         </article>
         <article class="dev-step">
           <div class="dev-step__n">02</div>
-          <div class="dev-step__time">1 săptămână</div>
-          <h3>Strategie &amp; concept</h3>
-          <p>Definim mesajul, poziționarea, structura site-ului. Decidem ce campanii pornim întâi și cu ce mesaj.</p>
+          <div class="dev-step__time">De la autorizație la primele vizionări</div>
+          <h3>Lansarea proiectului</h3>
+          <p>Construim tot ce vede cumpărătorul: identitatea ansamblului, site-ul cu pagini pe tipologii și disponibilitate, materialele echipei de vânzări și campaniile care aduc primele cereri. Începem cu o listă de așteptare înainte de anunțul public de prețuri, ca la deschidere să existe deja oameni care așteaptă.</p>
+          <ul class="dev-step__liv">
+            <li>Brand de ansamblu: logo, paletă, tipografie, aplicare pe panouri și materiale tipărite</li>
+            <li>Site de proiect cu pagini pe tipologii, planuri, stadiul lucrărilor și formular legat de CRM</li>
+            <li>Listă de așteptare și campanie de pre-lansare, înainte de comunicarea publică a prețurilor</li>
+            <li>Campanii Google și Meta cu urmărirea conversiilor și sursa marcată pe fiecare cerere</li>
+            <li>Pachetul echipei de vânzări: prezentare, răspunsuri la întrebările frecvente, materiale pentru agențiile partenere</li>
+            <li>Conturile de reclame, analytics și domeniul se deschid pe firma ta, noi lucrăm cu acces de administrator</li>
+          </ul>
         </article>
         <article class="dev-step">
           <div class="dev-step__n">03</div>
-          <div class="dev-step__time">2–3 săptămâni</div>
-          <h3>Branding (dacă e nevoie)</h3>
-          <p>Logo, paletă, brand book. Identitate aplicată consistent: site, prints, social media, materiale șantier.</p>
-        </article>
-        <article class="dev-step">
-          <div class="dev-step__n">04</div>
-          <div class="dev-step__time">4–6 săptămâni</div>
-          <h3>Website &amp; pagini apartamente</h3>
-          <p>Design, dezvoltare, copy, CMS. Lansare cu toate paginile complete și optimizate SEO.</p>
-        </article>
-        <article class="dev-step">
-          <div class="dev-step__n">05</div>
-          <div class="dev-step__time">1 săptămână</div>
-          <h3>Setup campanii</h3>
-          <p>Configurăm Google Ads, Meta Ads, conversion tracking. Începem cu test budgets pe 2 săptămâni.</p>
-        </article>
-        <article class="dev-step">
-          <div class="dev-step__n">06</div>
-          <div class="dev-step__time">Continuu</div>
-          <h3>Optimizare lunară</h3>
-          <p>Raport lunar cu lead-uri, cost per lead, conversie. Optimizăm anunțurile săptămânal, paginile lunar.</p>
+          <div class="dev-step__time">Din prima lună de vânzare activă</div>
+          <h3>Vânzarea, lună de lună</h3>
+          <p>Lunar ne uităm la ce s-a întâmplat cu fiecare cerere: câți au ajuns la vizionare, ce tipologii se mișcă, ce mesaj aduce oameni care revin. Mutăm bugetul spre ce funcționează și schimbăm mesajul pe stocul rămas, cu campanii separate pentru tipologiile mai greu de vândut.</p>
+          <ul class="dev-step__liv">
+            <li>Definiția scrisă a cererii calificate și formularul care o aplică</li>
+            <li>Raport lunar pe canal: cereri, vizionări și costul pe fiecare treaptă; rezervările intră dacă echipa ta ne dă datele</li>
+            <li>Campanii separate pe stocul rămas și pe tipologiile care se mișcă mai lent</li>
+            <li>Remarketing și e-mailuri legate de stadiul lucrărilor, pentru cei care încă decid</li>
+            <li>Discuție lunară cu echipa de vânzări, cu ce am auzit de la cumpărători în luna respectivă</li>
+            <li>Pregătirea fazei următoare: materiale actualizate și listă de așteptare nouă</li>
+          </ul>
         </article>
       </div>
     </div>
@@ -1083,7 +1120,7 @@
 
         <details class="dev-faq-item">
           <summary>În cât timp pot lansa site-ul ansamblului meu?</summary>
-          <p>De la brief la live: 4–8 săptămâni, în funcție de complexitate. Site-uri simple cu 5–7 pagini pot fi gata în 4 săptămâni. Pentru cartiere mari cu 15+ pagini și configurator de apartamente, planificăm 8 săptămâni.</p>
+          <p>Depinde de câte tipologii de apartament intră pe site și de cât de repede primim planurile și randările. Termenul îl fixăm în ofertă și îl ținem.</p>
         </details>
 
         <details class="dev-faq-item">
@@ -1102,7 +1139,7 @@
         </details>
 
         <details class="dev-faq-item">
-          <summary>Ce se întâmplă după sold-out? Mai am nevoie de site?</summary>
+          <summary>Ce se întâmplă după ce se vinde ultima unitate? Mai am nevoie de site?</summary>
           <p>Păstrăm site-ul live pentru încrederea de brand (cumpărătorii vor să-l verifice). Reducem bugetul de Ads la minimum. Dacă lansezi următoarea fază sau proiect, începem ușor — fundamentul de brand și CRM există deja.</p>
         </details>
 
@@ -1113,7 +1150,7 @@
 
         <details class="dev-faq-item">
           <summary>Cât costă marketingul pentru un ansamblu rezidențial?</summary>
-          <p>Pachetele pornesc de la 3.500€ one-time pentru ansambluri mici (branding starter + website). Cel mai ales este Standard: de la 6.500€ setup + 1.500€/lună, cu campanii și raportare incluse. Toate prețurile sunt publice, pe această pagină — bugetul de Ads se plătește separat, direct la Google și Meta.</p>
+          <p>Pachetele pornesc de la 3.500€ one-time pentru ansambluri mici (branding starter + website). Cel mai ales este Standard: de la 6.500€ setup + 1.500€/lună, cu campanii și raportare incluse. Prețurile pachetelor sunt publice, pe această pagină. Bugetul de Ads se plătește separat, direct la Google și Meta, iar analiza de zonă de la faza 01 se cotează pe proiect, în funcție de câte ansambluri concurente intră în ea.</p>
         </details>
 
         <details class="dev-faq-item">
