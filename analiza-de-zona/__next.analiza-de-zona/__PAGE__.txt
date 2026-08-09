@@ -1,0 +1,438 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/1720w25--sj4t.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+2:Tbab,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/analiza-de-zona/#service","name":"Analiza de zonă pentru ansambluri rezidențiale","serviceType":"Cercetare de piață pentru dezvoltatori imobiliari","description":"Analiză a ansamblurilor concurente din raza de 2-3 km, a cererii online pe zonă și pe tipologie, cu recomandare scrisă pe mixul de tipologii, prețul de listă și momentul lansării.","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"url":"https://visience.ro/analiza-de-zona/","offers":{"@type":"Offer","price":"800","priceCurrency":"EUR","url":"https://visience.ro/analiza-de-zona/","availability":"https://schema.org/InStock"}},{"@type":"FAQPage","@id":"https://visience.ro/analiza-de-zona/#faq","mainEntity":[{"@type":"Question","name":"De unde luați datele pentru analiza de zonă?","acceptedAnswer":{"@type":"Answer","text":"Din surse publice: site-urile ansamblurilor din zonă, anunțurile lor, prețurile afișate, reclamele care rulează și datele de căutare online. Fiecare cifră din document are sursa lângă ea, iar unde nu există date publice și estimăm, scriem că estimăm."}},{"@type":"Question","name":"Ce se întâmplă dacă nu continui cu Visience după analiză?","acceptedAnswer":{"@type":"Answer","text":"Documentul rămâne al tău și îl poți folosi cu cine vrei, inclusiv cu altă agenție sau cu echipa ta internă. Nu are clauze care să te lege de noi."}},{"@type":"Question","name":"Faceți analiza și pentru ansambluri din afara Iașiului?","acceptedAnswer":{"@type":"Answer","text":"Da. Datele se strâng online, deci zona nu contează. Am lucrat pe proiecte din Iași, Botoșani și București. Dacă ansamblul e într-un oraș mic, cu puține proiecte concurente, spunem asta din start, pentru că analiza iese mai scurtă."}},{"@type":"Question","name":"Cât costă analiza de zonă?","acceptedAnswer":{"@type":"Answer","text":"De la 800€, o singură dată, per proiect. Dacă lansăm ansamblul împreună, cei 800€ se scad integral din pachetul de lansare. Dacă intră mult mai multe ansambluri concurente în raza analizată sau vrei mai multe zone comparate, spunem înainte cât costă în plus."}},{"@type":"Question","name":"Când are sens analiza de zonă?","acceptedAnswer":{"@type":"Answer","text":"Când ai terenul, autorizația e obținută sau pe drum, nu ai fixat definitiv mixul de tipologii și nu ai publicat lista de prețuri. Nu mai are sens dacă ai turnat structura, prețurile sunt publicate și vânzarea a pornit."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Marketing dezvoltatori imobiliari","item":"https://visience.ro/marketing-dezvoltatori-imobiliari/"},{"@type":"ListItem","position":3,"name":"Analiza de zonă","item":"https://visience.ro/analiza-de-zona/"}]}]}3:T4719,<style>
+.az-page { background: var(--white); }
+
+.az-hero { padding: clamp(120px, 16vw, 180px) 0 clamp(56px, 8vw, 84px); background: var(--cream); }
+.az-hero__in { max-width: 880px; }
+.az-kick {
+  font-family: var(--f-m); font-size: 11px; font-weight: 500;
+  letter-spacing: .12em; text-transform: uppercase; color: var(--acc-deep);
+  margin: 0 0 18px;
+}
+.az-hero h1 {
+  font-family: var(--f-d); font-weight: 700;
+  font-size: clamp(34px, 5.2vw, 56px); line-height: 1.08;
+  letter-spacing: -0.02em; margin: 0 0 22px; color: var(--ink);
+}
+.az-hero h1 .acc { color: var(--acc-deep); }
+.az-hero__lead {
+  font-size: clamp(16px, 1.8vw, 19px); line-height: 1.65;
+  color: var(--ink2); max-width: 700px; margin: 0 0 18px;
+}
+.az-hero__sub { max-width: 66ch; margin: 0 0 30px; color: var(--ink2); }
+.az-hero__acts { display: flex; gap: 12px; flex-wrap: wrap; align-items: center; }
+.az-hero__price {
+  font-family: var(--f-m); font-size: 13px; color: var(--mid); margin-left: 4px;
+}
+.az-hero__price strong { color: var(--ink); font-size: 16px; }
+
+.az-sec { padding: clamp(60px, 9vw, 100px) 0; }
+.az-sec--cream { background: var(--cream); }
+.az-sec__head { max-width: 760px; margin-bottom: 44px; }
+.az-sec__head h2 {
+  font-family: var(--f-d); font-weight: 700;
+  font-size: clamp(26px, 3.4vw, 38px); line-height: 1.15;
+  letter-spacing: -0.02em; margin: 0 0 14px; color: var(--ink);
+}
+.az-sec__head p { font-size: 17px; line-height: 1.65; color: var(--ink2); margin: 0; }
+
+/* trei decizii */
+.az-dec { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+.az-dec__c { background: var(--white); border-radius: 14px; padding: 28px 24px 26px; }
+.az-sec--cream .az-dec__c { background: var(--white); }
+.az-dec__n {
+  font-family: var(--f-m); font-size: 12px; letter-spacing: .1em;
+  color: var(--acc-deep); margin-bottom: 14px;
+}
+.az-dec__c h3 {
+  font-family: var(--f-d); font-weight: 700; font-size: 19px;
+  line-height: 1.25; margin: 0 0 10px; color: var(--ink);
+}
+.az-dec__c p { font-size: 15px; line-height: 1.6; color: var(--ink2); margin: 0; }
+
+/* pasi */
+.az-steps { display: grid; gap: 18px; }
+.az-step {
+  display: grid; grid-template-columns: 74px 1fr; gap: 24px;
+  background: var(--cream); border-radius: 14px; padding: 30px 28px;
+}
+.az-sec--cream .az-step { background: var(--white); }
+.az-step__n {
+  font-family: var(--f-d); font-weight: 700; font-size: 34px;
+  line-height: 1; color: var(--acc-deep); opacity: .5;
+}
+.az-step h3 {
+  font-family: var(--f-d); font-weight: 700; font-size: 20px;
+  margin: 0 0 10px; color: var(--ink);
+}
+.az-step p { font-size: 15.5px; line-height: 1.65; color: var(--ink2); margin: 0; }
+.az-step ul { margin: 14px 0 0; padding: 0; list-style: none; }
+.az-step li {
+  position: relative; padding-left: 20px; margin-bottom: 7px;
+  font-size: 14.5px; line-height: 1.55; color: var(--ink2);
+}
+.az-step li::before {
+  content: ""; position: absolute; left: 0; top: 9px;
+  width: 7px; height: 7px; border-radius: 50%; background: var(--acc);
+}
+
+/* ce primesti */
+.az-liv { display: grid; grid-template-columns: 1.05fr .95fr; gap: 44px; align-items: start; }
+.az-liv__list { margin: 0; padding: 0; list-style: none; }
+.az-liv__list li {
+  position: relative; padding-left: 30px; margin-bottom: 16px;
+  font-size: 16px; line-height: 1.6; color: var(--ink2);
+}
+.az-liv__list li strong { color: var(--ink); }
+.az-liv__list li::before {
+  content: "✓"; position: absolute; left: 0; top: 0;
+  color: var(--acc-deep); font-weight: 700; font-size: 15px;
+}
+.az-price {
+  background: var(--ink); border-radius: 16px; padding: 34px 30px; color: var(--white);
+}
+.az-price__lbl {
+  font-family: var(--f-m); font-size: 11px; letter-spacing: .12em;
+  text-transform: uppercase; opacity: .6; margin-bottom: 10px;
+}
+.az-price__val {
+  font-family: var(--f-d); font-weight: 700; font-size: 46px;
+  line-height: 1; margin-bottom: 8px;
+}
+.az-price__note { font-size: 14.5px; line-height: 1.6; opacity: .8; margin: 0 0 20px; }
+.az-price__deduce {
+  font-size: 14.5px; line-height: 1.6; margin: 0 0 24px;
+  padding-top: 18px; border-top: 1px solid rgba(255,255,255,.14);
+}
+.az-price__deduce strong { color: var(--acc); }
+.az-price .btn { width: 100%; justify-content: center; }
+
+/* pentru cine */
+.az-who { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+.az-who__c { background: var(--white); border-radius: 14px; padding: 30px 28px; }
+.az-who__c h3 {
+  font-family: var(--f-d); font-weight: 700; font-size: 19px;
+  margin: 0 0 14px; color: var(--ink);
+}
+.az-who__c ul { margin: 0; padding: 0; list-style: none; }
+.az-who__c li {
+  position: relative; padding-left: 22px; margin-bottom: 10px;
+  font-size: 15px; line-height: 1.55; color: var(--ink2);
+}
+.az-who__c li::before {
+  content: "—"; position: absolute; left: 0; top: 0; color: var(--mid);
+}
+
+/* faq */
+.az-faq { max-width: 820px; }
+.az-faq__i { padding: 24px 0; border-bottom: 1px solid var(--border); }
+.az-faq__i:first-child { border-top: 1px solid var(--border); }
+.az-faq__i h3 {
+  font-family: var(--f-d); font-weight: 700; font-size: 18px;
+  margin: 0 0 10px; color: var(--ink);
+}
+.az-faq__i p { font-size: 15.5px; line-height: 1.65; color: var(--ink2); margin: 0; }
+
+/* cta */
+.az-cta { background: var(--cream); padding: clamp(56px, 8vw, 90px) 0; text-align: center; }
+.az-cta h2 {
+  font-family: var(--f-d); font-weight: 700;
+  font-size: clamp(26px, 3.6vw, 40px); line-height: 1.15;
+  margin: 0 0 16px; color: var(--ink);
+}
+.az-cta p {
+  font-size: 17px; line-height: 1.65; color: var(--ink2);
+  max-width: 620px; margin: 0 auto 30px;
+}
+.az-cta__acts { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+
+@media (max-width: 900px) {
+  .az-dec { grid-template-columns: 1fr; }
+  .az-liv { grid-template-columns: 1fr; gap: 32px; }
+  .az-who { grid-template-columns: 1fr; }
+  .az-step { grid-template-columns: 54px 1fr; gap: 16px; padding: 24px 20px; }
+  .az-step__n { font-size: 26px; }
+}
+</style>
+
+<main class="az-page">
+
+  <section class="az-hero">
+    <div class="wrap az-hero__in rv">
+      <div class="az-kick">Pentru dezvoltatori imobiliari</div>
+      <h1>Analiza de zonă: <span class="acc">ce se vinde acolo</span> și la ce preț</h1>
+      <p class="az-hero__lead">
+        Înainte să fixezi tipologiile și lista de prețuri, ne uităm la ce se construiește
+        în jurul tău, la ce se caută online în zonă și la ce lipsește din stocul concurent.
+        Iese un document scris, cu sursele la vedere.
+      </p>
+      <p class="az-hero__sub">
+        E singura parte din ce facem care atinge deciziile de bani ale proiectului,
+        nu doar promovarea lui. Cu ce tipologii construiești și la ce preț listezi
+        sunt decizii de milioane. Merită luate cu cifre pe masă.
+      </p>
+      <div class="az-hero__acts">
+        <a href="/contact/" class="btn btn-solid">Cere analiza pentru proiectul tău <span aria-hidden="true">→</span></a>
+        <span class="az-hero__price">de la <strong>800€</strong>, o singură dată</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="az-sec az-sec--cream">
+    <div class="wrap">
+      <div class="az-sec__head rv">
+        <h2>Trei decizii pe care le iei o singură dată</h2>
+        <p>
+          Odată ce ai turnat structura și ai publicat lista de prețuri, nu mai schimbi mare
+          lucru. Analiza există ca să intri în lansare cu răspunsuri, nu cu presupuneri.
+        </p>
+      </div>
+      <div class="az-dec rv rv-d2">
+        <div class="az-dec__c">
+          <div class="az-dec__n">01</div>
+          <h3>Ce tipologii construiești</h3>
+          <p>
+            Câte garsoniere, câte de două camere, câte de trei. E decizia care se ia
+            înainte de proiectare și care nu se mai poate corecta după. Ne uităm la ce
+            stă nevândut la vecini și la ce se caută, ca mixul tău să nu repete
+            greșeala altcuiva.
+          </p>
+        </div>
+        <div class="az-dec__c">
+          <div class="az-dec__n">02</div>
+          <h3>La ce preț listezi</h3>
+          <p>
+            Prețul pe metru la care te poți așeza față de ce e afișat în zonă, pe fiecare
+            tipologie. Nu e o estimare de birou: sunt prețurile publicate de ansamblurile
+            din jur, plus ce se vede că se mișcă și ce stă.
+          </p>
+        </div>
+        <div class="az-dec__c">
+          <div class="az-dec__n">03</div>
+          <h3>Când începi promovarea</h3>
+          <p>
+            Momentul în care are sens să pornești, în funcție de stadiul autorizației,
+            de ce lansează concurența în perioada următoare și de cât durează până
+            se strâng primele cereri serioase.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="az-sec">
+    <div class="wrap">
+      <div class="az-sec__head rv">
+        <h2>Cum o facem</h2>
+        <p>
+          Patru pași. Nimic din ce scriem nu vine din impresie — fiecare afirmație are
+          sursa lângă ea, iar unde e estimare scriem că e estimare.
+        </p>
+      </div>
+      <div class="az-steps rv rv-d2">
+
+        <article class="az-step">
+          <div class="az-step__n">01</div>
+          <div>
+            <h3>Ce se vinde în jurul tău</h3>
+            <p>
+              Luăm ansamblurile din raza de 2–3 km și le desfacem bucată cu bucată:
+              ce tipologii au, ce suprafețe, la ce prețuri afișate, ce dotări promit
+              și, cel mai important, ce le-a rămas nevândut.
+            </p>
+            <ul>
+              <li>Harta proiectelor din zonă, cu stoc rămas pe tipologie</li>
+              <li>Prețurile afișate, pe metru și pe apartament</li>
+              <li>Ce dotări sunt standard în zonă și ce chiar diferențiază</li>
+              <li>Ce se mișcă repede și ce stă de luni de zile</li>
+            </ul>
+          </div>
+        </article>
+
+        <article class="az-step">
+          <div class="az-step__n">02</div>
+          <div>
+            <h3>Ce caută oamenii, online, chiar în zona ta</h3>
+            <p>
+              Trecem de la ce se construiește la ce se cere. Ne uităm la volumul de
+              căutări pe zonă și pe tipologie, la cine face reclamă acolo și cu ce
+              mesaje, și estimăm cât te-ar costa o cerere în piața aia.
+            </p>
+            <ul>
+              <li>Cât se caută, pe zonă și pe tip de apartament</li>
+              <li>Cine face reclamă în zonă și pe ce argumente</li>
+              <li>Estimare de cost pe cerere, ca să știi ce buget îți trebuie</li>
+              <li>Profilul cumpărătorului pe segmente: prima casă, mutare în sus, investiție, diaspora</li>
+            </ul>
+          </div>
+        </article>
+
+        <article class="az-step">
+          <div class="az-step__n">03</div>
+          <div>
+            <h3>Poziționarea și documentul scris</h3>
+            <p>
+              Din cele două de mai sus iese locul tău în piață: pe ce argument te sprijini,
+              cui vorbești întâi și ce mesaje folosești în anii următori. Totul intră
+              într-un document de 8–12 pagini, pe care îl păstrezi tu.
+            </p>
+            <ul>
+              <li>Poziționarea ansamblului, formulată în cuvinte care se pot folosi ca atare</li>
+              <li>Mesajele-cheie, separat pe fiecare segment de cumpărător</li>
+              <li>Recomandare scrisă pe mixul de tipologii, prețul de listă și momentul lansării</li>
+              <li>Sursele la vedere, iar ipotezele declarate ca ipoteze</li>
+            </ul>
+          </div>
+        </article>
+
+        <article class="az-step">
+          <div class="az-step__n">04</div>
+          <div>
+            <h3>O discuție pe concluzii</h3>
+            <p>
+              Documentul nu se trimite pe email și atât. Îl parcurgem împreună, o oră,
+              ca să înțelegi de unde vine fiecare recomandare și ce se schimbă dacă
+              o iei altfel. Ce faci mai departe rămâne decizia ta.
+            </p>
+          </div>
+        </article>
+
+      </div>
+    </div>
+  </section>
+
+  <section class="az-sec az-sec--cream">
+    <div class="wrap">
+      <div class="az-liv rv">
+        <div>
+          <div class="az-sec__head" style="margin-bottom:28px">
+            <h2>Ce rămâne la tine</h2>
+            <p>Documentul e al tău din momentul în care ți-l predăm, indiferent dacă mergem mai departe împreună sau nu.</p>
+          </div>
+          <ul class="az-liv__list">
+            <li><strong>Documentul scris, 8–12 pagini</strong> — analiza completă, cu surse și cu ipotezele marcate</li>
+            <li><strong>Harta ansamblurilor concurente</strong> — tipologii, suprafețe, prețuri afișate, stoc rămas</li>
+            <li><strong>Cererea online pe zonă</strong> — cât se caută, cine face reclamă, estimare de cost pe cerere</li>
+            <li><strong>Profilul cumpărătorului pe segmente</strong>, cu mesajele potrivite fiecăruia</li>
+            <li><strong>Recomandarea pe cele trei decizii</strong> — mix de tipologii, preț de listă, moment de lansare</li>
+            <li><strong>O oră de discuție</strong> pe concluzii, cu ce ai putea face singur și ce nu</li>
+          </ul>
+        </div>
+        <div class="az-price">
+          <div class="az-price__lbl">Cost</div>
+          <div class="az-price__val">800€</div>
+          <p class="az-price__note">O singură dată, per proiect. Fără abonament și fără obligația de a continua cu noi.</p>
+          <p class="az-price__deduce">
+            Dacă mergi mai departe și lansăm ansamblul împreună,
+            <strong>cei 800€ se scad integral</strong> din pachetul de lansare.
+            Practic, analiza te costă zero dacă lucrăm și mai departe, și rămâne
+            a ta dacă nu.
+          </p>
+          <a href="/contact/" class="btn btn-solid">Cere analiza</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="az-sec">
+    <div class="wrap">
+      <div class="az-sec__head rv">
+        <h2>Când are sens și când nu</h2>
+        <p>Preferăm să spunem din start, ca să nu plătești pentru ceva ce nu-ți folosește acum.</p>
+      </div>
+      <div class="az-who rv rv-d2">
+        <div class="az-who__c" style="background:var(--cream)">
+          <h3>Are sens dacă</h3>
+          <ul>
+            <li>Ai terenul și autorizația e obținută sau pe drum</li>
+            <li>Încă nu ai fixat definitiv mixul de tipologii</li>
+            <li>Nu ai publicat lista de prețuri</li>
+            <li>E primul tău ansamblu, sau primul într-o zonă nouă pentru tine</li>
+            <li>Ai de convins un finanțator și îți trebuie cifre, nu impresii</li>
+          </ul>
+        </div>
+        <div class="az-who__c" style="background:var(--cream)">
+          <h3>Nu are sens dacă</h3>
+          <ul>
+            <li>Ai turnat deja structura și tipologiile sunt bătute în cuie</li>
+            <li>Lista de prețuri e publicată și vânzarea a pornit</li>
+            <li>Ai vândut deja peste jumătate din stoc</li>
+            <li>Cauți doar campanii, nu și o discuție despre produs</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="az-sec az-sec--cream">
+    <div class="wrap">
+      <div class="az-sec__head rv">
+        <h2>Ce ne întreabă cel mai des</h2>
+      </div>
+      <div class="az-faq rv rv-d2">
+        <div class="az-faq__i">
+          <h3>De unde luați datele?</h3>
+          <p>
+            Din surse publice: site-urile ansamblurilor din zonă, anunțurile lor,
+            prețurile afișate, reclamele care rulează și datele de căutare online.
+            Fiecare cifră din document are sursa lângă ea. Unde nu există date publice
+            și estimăm, scriem că estimăm.
+          </p>
+        </div>
+        <div class="az-faq__i">
+          <h3>Ce se întâmplă dacă nu vreau să continuăm după analiză?</h3>
+          <p>
+            Documentul rămâne al tău și îl poți folosi cu cine vrei, inclusiv cu altă
+            agenție sau cu echipa ta internă. Nu are clauze care să te lege de noi.
+          </p>
+        </div>
+        <div class="az-faq__i">
+          <h3>Faceți analiza și pentru ansambluri din afara Iașiului?</h3>
+          <p>
+            Da. Datele se strâng online, deci zona nu contează. Am lucrat pe proiecte
+            din Iași, Botoșani și București. Dacă ansamblul e într-un oraș mic, unde
+            sunt puține proiecte concurente, spunem asta din start, pentru că analiza
+            iese mai scurtă.
+          </p>
+        </div>
+        <div class="az-faq__i">
+          <h3>Prețul e fix, indiferent de proiect?</h3>
+          <p>
+            800€ acoperă un ansamblu într-o zonă cu un număr obișnuit de concurenți.
+            Dacă intră mult mai multe ansambluri în raza analizată sau vrei mai multe
+            zone comparate, îți spunem înainte cât costă în plus. Nu apar surprize
+            pe factură.
+          </p>
+        </div>
+        <div class="az-faq__i">
+          <h3>Ce legătură are cu pachetele de marketing?</h3>
+          <p>
+            Analiza e pasul dinaintea lor. Poate fi luată singură, iar dacă lansăm
+            ansamblul împreună se scade integral din pachetul de lansare.
+            <a href="/marketing-dezvoltatori-imobiliari/">Vezi pachetele pentru dezvoltatori</a>.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="az-cta">
+    <div class="wrap rv">
+      <h2>Spune-ne unde e terenul</h2>
+      <p>
+        Atât ne trebuie ca să-ți zicem dacă analiza îți folosește acum sau e mai
+        devreme decât trebuie. Dacă e prea devreme, îți spunem asta, nu îți vindem un document.
+      </p>
+      <div class="az-cta__acts">
+        <a href="/contact/" class="btn btn-solid">Cere analiza pentru proiectul tău <span aria-hidden="true">→</span></a>
+        <a href="/marketing-dezvoltatori-imobiliari/" class="btn btn-ghost">Vezi pachetele complete</a>
+      </div>
+    </div>
+  </section>
+
+</main>
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"aHeAuSAyiQSgTgkSQHbJc"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null
