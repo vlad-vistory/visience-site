@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-5:I[97367,["/_next/static/chunks/0l52wn0mqrkwf.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+5:I[97367,["/_next/static/chunks/2hubzoij3_n0m.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 6:"$Sreact.suspense"
-2:Tb40,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-prezentare/#service","name":"Creare website de prezentare","serviceType":"Web design și dezvoltare website","description":"Creare site-uri de prezentare profesionale: landing page-uri, site-uri de companie și portofolii. Design adaptiv, SEO tehnic, CMS inclus. De la 500€.","provider":{"@type":"Organization","name":"Visience Creative Experience","url":"https://visience.ro/"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"500","highPrice":"2500","offerCount":"3"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-prezentare/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site de prezentare?","acceptedAnswer":{"@type":"Answer","text":"Un site de prezentare standard multi-pagină pornește de la 750€, iar un site premium cu design custom de la 2.500€. Pentru o campanie, un landing page pornește de la 500€. Prețul depinde de numărul de pagini, funcționalități și personalizare."}},{"@type":"Question","name":"Cât durează realizarea unui site de prezentare?","acceptedAnswer":{"@type":"Answer","text":"Depinde de câte pagini are și de cât de repede primim textele și pozele. Termenul exact ți-l dăm în ofertă, după ce vedem proiectul, și îl respectăm. De regulă mergem mai repede decât se așteaptă clientul."}},{"@type":"Question","name":"Pe ce platformă construiți site-ul?","acceptedAnswer":{"@type":"Answer","text":"Construim cel mai des pe WordPress (Oxygen Builder sau Elementor) și Webflow, astfel încât să poți edita ușor conținutul după livrare."}},{"@type":"Question","name":"Site-ul va fi optimizat pentru telefon și pentru Google?","acceptedAnswer":{"@type":"Answer","text":"Da. Fiecare site este responsive și include SEO tehnic din construcție: viteză, structură corectă și date structurate. Punem accent pe viteza pe mobil, acolo unde ajung cei mai mulți vizitatori."}},{"@type":"Question","name":"Pot edita singur conținutul după ce primesc site-ul?","acceptedAnswer":{"@type":"Answer","text":"Da. Toate site-urile includ un CMS, deci poți modifica texte, imagini și pagini fără cunoștințe tehnice. Oferim și o sesiune de instruire la livrare."}},{"@type":"Question","name":"Includeți și textele (copywriting) pentru site?","acceptedAnswer":{"@type":"Answer","text":"Da. Copywriting-ul orientat spre conversie este inclus în pachetele Standard și Premium, iar pentru landing page poate fi adăugat ca opțiune."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Website de prezentare","item":"https://visience.ro/creare-site-prezentare/"}]}]}3:T9193,<style>
+2:Tbec,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-prezentare/#service","name":"Creare website de prezentare","serviceType":"Web design și dezvoltare website","description":"Creare site-uri de prezentare profesionale: landing page-uri, site-uri de companie și portofolii. Design adaptiv, SEO tehnic, CMS inclus. De la 500€.","provider":{"@type":"Organization","name":"Visience Creative Experience","url":"https://visience.ro/"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"500","highPrice":"2500","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-prezentare/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site de prezentare?","acceptedAnswer":{"@type":"Answer","text":"Un site de prezentare pornește de la 750€ — pachetul Basic, cu până la 6 pagini. Pachetul Standard, cu SEO on-site complet, costă 1.200€, iar un site premium cu design custom pornește de la 2.500€. Pentru o campanie punctuală, un landing page pornește de la 500€. Prețul final depinde de numărul de pagini, funcționalități și nivelul de personalizare."}},{"@type":"Question","name":"Cât durează realizarea unui site de prezentare?","acceptedAnswer":{"@type":"Answer","text":"Un landing page e gata în câteva zile. Un site de prezentare durează de regulă 2–4 săptămâni, iar un proiect premium 4–8 săptămâni, în funcție de cât de repede primim textele și pozele. Termenul exact îl primești în ofertă, în scris, și îl respectăm."}},{"@type":"Question","name":"Pe ce platformă construiți site-ul?","acceptedAnswer":{"@type":"Answer","text":"Construim cel mai des pe WordPress (Oxygen Builder sau Elementor) și Webflow, astfel încât să poți edita ușor conținutul după livrare."}},{"@type":"Question","name":"Site-ul va fi optimizat pentru telefon și pentru Google?","acceptedAnswer":{"@type":"Answer","text":"Da. Fiecare site este responsive și include SEO tehnic din construcție: viteză, structură corectă și date structurate. Punem accent pe viteza pe mobil, acolo unde ajung cei mai mulți vizitatori."}},{"@type":"Question","name":"Pot edita singur conținutul după ce primesc site-ul?","acceptedAnswer":{"@type":"Answer","text":"Da. Toate site-urile includ un CMS, deci poți modifica texte, imagini și pagini fără cunoștințe tehnice. Oferim și o sesiune de instruire la livrare."}},{"@type":"Question","name":"Includeți și textele (copywriting) pentru site?","acceptedAnswer":{"@type":"Answer","text":"Da. Copywriting-ul orientat spre conversie este inclus în pachetele Standard și Premium, iar pentru landing page poate fi adăugat ca opțiune."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Website de prezentare","item":"https://visience.ro/creare-site-prezentare/"}]}]}3:Tc0ad,<style>
 .wsp-sec-head { margin-bottom: 52px; max-width: 640px; }
 @media (max-width: 640px) { .wsp-sec-head { margin-bottom: 36px; } }
 
@@ -129,7 +129,7 @@
 
 .wsp-cmp { padding: 110px 0; background: var(--cream); }
 .wsp-cmp__scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; border-radius: var(--rlg); border: 1px solid var(--border); }
-.wsp-cmp__table { width: 100%; min-width: 640px; border-collapse: collapse; background: var(--white); }
+.wsp-cmp__table { width: 100%; min-width: 760px; border-collapse: collapse; background: var(--white); }
 .wsp-cmp__table th, .wsp-cmp__table td { padding: 18px 20px; text-align: center; border-bottom: 1px solid var(--border); font-size: 14px; }
 .wsp-cmp__table thead th { background: var(--cream); border-bottom: 1.5px solid var(--border); vertical-align: top; }
 .wsp-cmp__feat-col { text-align: left !important; width: 32%; }
@@ -198,6 +198,61 @@
 .cf-box { background: var(--white); border: 1px solid var(--border); border-radius: var(--rlg); padding: 40px 38px; position: relative; overflow: hidden; }
 .cf-box::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 3px; background: linear-gradient(90deg, var(--acc) 0%, var(--acc2) 60%, transparent 100%); }
 @media (max-width: 1024px) { .contact-sec { padding: 80px 0; } .contact-sec__in { grid-template-columns: 1fr; gap: 44px; } .cf-box { padding: 32px 26px; } }
+
+/* formular pe pagină — același stil ca pe /contact */
+.cf-box form p { margin: 0; }
+.cf-box .wpcf7-form-control-wrap { display: block; position: relative; margin-bottom: 12px; }
+.cf-box .wpcf7-form-control-wrap input {
+  width: 100%; padding: 20px 16px 8px; background: var(--white);
+  border: 1.5px solid var(--border); border-radius: 10px; color: var(--ink);
+  font-family: var(--f-b); font-size: 15px; outline: none; transition: .22s; -webkit-appearance: none;
+}
+.cf-box .wpcf7-form-control-wrap input:focus { border-color: var(--acc-deep); background: var(--acc-bg); }
+.cf-box .wpcf7-form-control-wrap input::placeholder { color: transparent; }
+.cf-box .floating-label {
+  position: absolute; top: 50%; left: 16px; transform: translateY(-50%);
+  font-size: 14px; color: var(--light); pointer-events: none; transition: .2s; z-index: 1;
+}
+.cf-box .wpcf7-form-control-wrap input:focus + .floating-label,
+.cf-box .wpcf7-form-control-wrap input:not(:placeholder-shown) + .floating-label {
+  top: 11px; font-size: 10px; color: var(--acc-deep); font-family: var(--f-m);
+  letter-spacing: .09em; text-transform: uppercase; transform: none;
+}
+.cf-box .wpcf7-submit {
+  display: block; width: 100%; padding: 15px; margin-top: 10px;
+  background: var(--acc); color: var(--acc-ink); font-family: var(--f-m);
+  font-size: 11px; font-weight: 500; letter-spacing: .1em; text-transform: uppercase;
+  border-radius: 10px; cursor: pointer; transition: .22s; border: none;
+}
+.cf-box .wpcf7-submit:hover { background: var(--acc-dark); transform: translateY(-1px); }
+
+/* cât te costă în primul an */
+.wsp-total { max-width: 560px; margin: 36px auto 0; background: var(--white); border: 1px solid var(--border); border-radius: var(--rlg); padding: 30px 30px 26px; }
+.wsp-total h3 { font-family: var(--f-d); font-weight: 700; font-size: 19px; letter-spacing: -.015em; color: var(--ink); margin-bottom: 18px; }
+.wsp-total ul { display: flex; flex-direction: column; gap: 9px; }
+.wsp-total li { display: flex; align-items: baseline; gap: 8px; font-size: 14px; color: var(--ink2); }
+.wsp-total li .dots { flex: 1; border-bottom: 1px dotted var(--border); transform: translateY(-3px); }
+.wsp-total li .val { font-family: var(--f-m); font-weight: 500; color: var(--ink); font-size: 13px; }
+.wsp-total li .val--inc { color: var(--acc-deep); font-size: 11px; letter-spacing: .06em; text-transform: uppercase; }
+.wsp-total__sum { margin-top: 16px; padding-top: 14px; border-top: 1.5px solid var(--border); font-size: 14px; color: var(--mid); }
+.wsp-total__sum strong { font-family: var(--f-d); font-weight: 700; font-size: 18px; color: var(--ink); }
+
+/* recenzii Google */
+.wsp-revs { padding: 110px 0; background: var(--cream); }
+.revs__head { max-width: 780px; margin-bottom: clamp(36px, 5vw, 54px); }
+.revs__lead { margin: 18px 0 0; font-size: clamp(15px, 1.5vw, 17px); line-height: 1.7; color: var(--mid); font-weight: 300; max-width: 660px; }
+.revs__grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; align-items: start; }
+.rev-card { margin: 0; display: flex; flex-direction: column; gap: 12px; padding: 26px 26px 22px; background: var(--white); border: 1px solid var(--border); border-radius: var(--rlg); transition: border-color .28s, transform .28s, box-shadow .28s; }
+.rev-card:hover { border-color: rgba(155,195,26,.45); transform: translateY(-3px); box-shadow: 0 14px 32px rgba(17,16,16,.06); }
+.rev-stars { color: #F5A623; font-size: 14px; letter-spacing: 2px; line-height: 1; }
+.rev-card__txt { margin: 0; font-size: 15px; line-height: 1.65; color: var(--ink2); flex: 1; }
+.rev-card__who { display: flex; flex-direction: column; gap: 2px; }
+.rev-card__nume { font-family: var(--f-d); font-weight: 650; font-size: 14.5px; color: var(--ink); }
+.rev-card__firma { font-size: 13px; color: var(--acc-deep); font-weight: 550; }
+a.rev-card__firma:hover { text-decoration: underline; }
+.rev-card__cand { font-family: var(--f-m); font-size: 10.5px; letter-spacing: .06em; text-transform: uppercase; color: var(--light); margin-top: 3px; }
+.revs__foot { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 28px; }
+@media (max-width: 1000px) { .wsp-revs { padding: 80px 0; } .revs__grid { grid-template-columns: 1fr; max-width: 460px; } }
 </style>
 
 
@@ -228,10 +283,10 @@
     </h1>
 
     <p class="wsp-hero__lead">
-      Site-uri de companie, portofolii și platforme premium care transformă vizitatorii în clienți. Design adaptiv, SEO tehnic și un CMS pe care îl poți edita singur, construit de la zero pentru brandul tău.
+      Construim site-ul tău de prezentare de la zero, adaptat brandului și obiectivelor tale. <strong>Prețuri publice de la 500€</strong>, termen stabilit în scris și un CMS pe care îl editezi singur după livrare. Plătești o singură dată — site-ul rămâne al tău.
     </p>
 
-    <p style="margin:0 0 26px;font-size:14px;color:rgba(255,255,255,.65)"><a href="/creare-site-prezentare-iasi/" style="color:var(--acc2);border-bottom:1px solid rgba(245,174,42,.5)">Ești firmă din Iași? Vezi pagina dedicată — creare site de prezentare în Iași →</a></p>
+    <p style="margin:0 0 26px;font-size:14px;color:rgba(255,255,255,.65)"><a href="/creare-site-prezentare-iasi/" style="color:var(--acc2);border-bottom:1px solid rgba(155,195,26,.5)">Ești firmă din Iași? Vezi pagina dedicată — creare site de prezentare în Iași →</a></p>
 
     <div class="wsp-hero__acts">
       <a href="tel:+40771486499" class="btn btn-solid">
@@ -243,9 +298,10 @@
     </div>
 
     <div class="wsp-hero__meta">
-      <span><i class="fas fa-mobile-screen" aria-hidden="true"></i> 100% responsive</span>
-      <span><i class="fas fa-gauge-high" aria-hidden="true"></i> Optimizat pentru viteză</span>
-      <span><i class="fas fa-magnifying-glass-chart" aria-hidden="true"></i> SEO tehnic inclus</span>
+      <span><i class="fas fa-circle-check" aria-hidden="true"></i> 120+ site-uri livrate</span>
+      <span><i class="fas fa-award" aria-hidden="true"></i> 12 ani de experiență</span>
+      <span><i class="fas fa-star" aria-hidden="true"></i> Recenzii Google 5 din 5</span>
+      <span><i class="fas fa-clock" aria-hidden="true"></i> Răspuns în 24 de ore</span>
     </div>
   </div>
 </section>
@@ -280,7 +336,7 @@
 
       <article class="wsp-type rv">
         <div class="wsp-type__icon" aria-hidden="true"><i class="fas fa-bullseye"></i></div>
-        <div class="wsp-type__tag">Pentru o campanie</div>
+        <div class="wsp-type__tag">De la 500€</div>
         <h3 class="wsp-type__name">Landing Page de Campanie</h3>
         <p class="wsp-type__desc">O singură pagină, un singur obiectiv. Ideal pentru campanii, lansări de produs sau colectare de lead-uri. Structură optimizată pentru o conversie clară.</p>
         <ul class="wsp-type__list">
@@ -427,19 +483,21 @@
           <tr>
             <th scope="col" class="wsp-cmp__feat-col">Ce include</th>
             <th scope="col"><span class="wsp-cmp__plan">Landing</span><span class="wsp-cmp__price">500€</span></th>
-            <th scope="col" class="wsp-cmp__th-feat"><span class="wsp-cmp__plan">Standard</span><span class="wsp-cmp__price">750€</span></th>
+            <th scope="col"><span class="wsp-cmp__plan">Basic</span><span class="wsp-cmp__price">750€</span></th>
+            <th scope="col" class="wsp-cmp__th-feat"><span class="wsp-cmp__plan">Standard</span><span class="wsp-cmp__price">1.200€</span></th>
             <th scope="col"><span class="wsp-cmp__plan">Premium</span><span class="wsp-cmp__price">2.500€+</span></th>
           </tr>
         </thead>
         <tbody>
-          <tr><th scope="row">Număr de pagini</th><td>1</td><td class="wsp-cmp__td-feat">5–8</td><td>Nelimitat</td></tr>
-          <tr><th scope="row">Design responsive</th><td><i class="fas fa-check" aria-label="Da"></i></td><td class="wsp-cmp__td-feat"><i class="fas fa-check" aria-label="Da"></i></td><td><i class="fas fa-check" aria-label="Da"></i></td></tr>
-          <tr><th scope="row">CMS editabil</th><td><span class="wsp-cmp__opt">Opțional</span></td><td class="wsp-cmp__td-feat"><i class="fas fa-check" aria-label="Da"></i></td><td><i class="fas fa-check" aria-label="Da"></i></td></tr>
-          <tr><th scope="row">Copywriting inclus</th><td><span class="wsp-cmp__opt">Opțional</span></td><td class="wsp-cmp__td-feat"><i class="fas fa-check" aria-label="Da"></i></td><td><i class="fas fa-check" aria-label="Da"></i></td></tr>
-          <tr><th scope="row">SEO tehnic</th><td><i class="fas fa-check" aria-label="Da"></i></td><td class="wsp-cmp__td-feat"><i class="fas fa-check" aria-label="Da"></i></td><td><i class="fas fa-check" aria-label="Da"></i></td></tr>
-          <tr><th scope="row">Design custom</th><td><i class="fas fa-minus wsp-cmp__no" aria-label="Nu"></i></td><td class="wsp-cmp__td-feat"><span class="wsp-cmp__opt">Parțial</span></td><td><i class="fas fa-check" aria-label="Da"></i></td></tr>
-          <tr><th scope="row">Animații &amp; interacțiuni</th><td><i class="fas fa-minus wsp-cmp__no" aria-label="Nu"></i></td><td class="wsp-cmp__td-feat"><i class="fas fa-minus wsp-cmp__no" aria-label="Nu"></i></td><td><i class="fas fa-check" aria-label="Da"></i></td></tr>
-          <tr><th scope="row">Termen de livrare</th><td>Câteva zile</td><td class="wsp-cmp__td-feat">2–4 săpt.</td><td>4–8 săpt.</td></tr>
+          <tr><th scope="row">Număr de pagini</th><td>1</td><td>până la 6</td><td class="wsp-cmp__td-feat">10+</td><td>Nelimitat</td></tr>
+          <tr><th scope="row">Design responsive</th><td><i class="fas fa-check" aria-label="Da"></i></td><td><i class="fas fa-check" aria-label="Da"></i></td><td class="wsp-cmp__td-feat"><i class="fas fa-check" aria-label="Da"></i></td><td><i class="fas fa-check" aria-label="Da"></i></td></tr>
+          <tr><th scope="row">CMS editabil</th><td><span class="wsp-cmp__opt">Opțional</span></td><td><i class="fas fa-check" aria-label="Da"></i></td><td class="wsp-cmp__td-feat"><i class="fas fa-check" aria-label="Da"></i></td><td><i class="fas fa-check" aria-label="Da"></i></td></tr>
+          <tr><th scope="row">Copywriting inclus</th><td><span class="wsp-cmp__opt">Opțional</span></td><td><i class="fas fa-check" aria-label="Da"></i></td><td class="wsp-cmp__td-feat"><i class="fas fa-check" aria-label="Da"></i></td><td><i class="fas fa-check" aria-label="Da"></i></td></tr>
+          <tr><th scope="row">SEO tehnic</th><td><i class="fas fa-check" aria-label="Da"></i></td><td><i class="fas fa-check" aria-label="Da"></i></td><td class="wsp-cmp__td-feat"><i class="fas fa-check" aria-label="Da"></i></td><td><i class="fas fa-check" aria-label="Da"></i></td></tr>
+          <tr><th scope="row">SEO on-site complet + Schema</th><td><i class="fas fa-minus wsp-cmp__no" aria-label="Nu"></i></td><td><i class="fas fa-minus wsp-cmp__no" aria-label="Nu"></i></td><td class="wsp-cmp__td-feat"><i class="fas fa-check" aria-label="Da"></i></td><td><i class="fas fa-check" aria-label="Da"></i></td></tr>
+          <tr><th scope="row">Design custom</th><td><i class="fas fa-minus wsp-cmp__no" aria-label="Nu"></i></td><td><span class="wsp-cmp__opt">Parțial</span></td><td class="wsp-cmp__td-feat"><span class="wsp-cmp__opt">Parțial</span></td><td><i class="fas fa-check" aria-label="Da"></i></td></tr>
+          <tr><th scope="row">Animații &amp; interacțiuni</th><td><i class="fas fa-minus wsp-cmp__no" aria-label="Nu"></i></td><td><i class="fas fa-minus wsp-cmp__no" aria-label="Nu"></i></td><td class="wsp-cmp__td-feat"><i class="fas fa-minus wsp-cmp__no" aria-label="Nu"></i></td><td><i class="fas fa-check" aria-label="Da"></i></td></tr>
+          <tr><th scope="row">Termen de livrare</th><td>Câteva zile</td><td>2–4 săpt.</td><td class="wsp-cmp__td-feat">3–6 săpt.</td><td>4–8 săpt.</td></tr>
         </tbody>
       </table>
     </div>
@@ -447,6 +505,20 @@
     <p class="wsp-cmp__note rv rv-d2">
       Prețurile sunt orientative și de pornire. Fiecare ofertă este configurată pe nevoile tale — sună-ne pentru un preț exact.
     </p>
+
+    <div class="wsp-total rv rv-d2">
+      <h3>Cât te costă în total, în primul an</h3>
+      <ul>
+        <li><span>Website Basic</span><span class="dots"></span><span class="val">750€</span></li>
+        <li><span>Domeniu .ro, 1 an</span><span class="dots"></span><span class="val">15€</span></li>
+        <li><span>Găzduire rapidă, 1 an</span><span class="dots"></span><span class="val">85€</span></li>
+        <li><span>Certificat SSL</span><span class="dots"></span><span class="val val--inc">Inclus</span></li>
+        <li><span>SEO tehnic la lansare</span><span class="dots"></span><span class="val val--inc">Inclus</span></li>
+        <li><span>Instruire de administrare</span><span class="dots"></span><span class="val val--inc">Inclus</span></li>
+        <li><span>Suport după lansare</span><span class="dots"></span><span class="val val--inc">Inclus</span></li>
+      </ul>
+      <div class="wsp-total__sum">Total primul an: <strong>850€</strong> — plătit o singură dată. Site-ul, conținutul și domeniul rămân ale tale.</div>
+    </div>
   </div>
 </section>
 
@@ -525,6 +597,50 @@
 </section>
 
 
+<section class="wsp-revs" id="recenzii" aria-labelledby="wsp-revs-h">
+  <div class="wrap">
+    <div class="revs__head rv">
+      <h2 class="dd dd-lg" id="wsp-revs-h">Ce spun clienții<br>despre noi</h2>
+      <p class="revs__lead">Toate sunt recenzii Google, scrise de clienți pe profilul nostru de firmă. Le poți verifica pe fiecare, inclusiv firma din spatele numelui.</p>
+    </div>
+
+    <div class="revs__grid rv rv-d1">
+      <figure class="rev-card">
+        <span class="rev-stars" aria-label="5 din 5 stele">★★★★★</span>
+        <blockquote class="rev-card__txt">Un partener de bază, de cursă lungă. Recomand.</blockquote>
+        <figcaption class="rev-card__who">
+          <span class="rev-card__nume">Dionisie Lefter</span>
+          <a class="rev-card__firma" href="https://velomed.ro/" target="_blank" rel="noopener noreferrer">Velomed &amp; Romold Invent</a>
+          <span class="rev-card__cand">Google · recenzie verificabilă</span>
+        </figcaption>
+      </figure>
+      <figure class="rev-card">
+        <span class="rev-stars" aria-label="5 din 5 stele">★★★★★</span>
+        <blockquote class="rev-card__txt">Am colaborat excelent cu Vlad!</blockquote>
+        <figcaption class="rev-card__who">
+          <span class="rev-card__nume">Dan Vatra</span>
+          <a class="rev-card__firma" href="https://casavatra.ro/" target="_blank" rel="noopener noreferrer">Casa Vatra</a>
+          <span class="rev-card__cand">Google · recenzie verificabilă</span>
+        </figcaption>
+      </figure>
+      <figure class="rev-card">
+        <span class="rev-stars" aria-label="5 din 5 stele">★★★★★</span>
+        <blockquote class="rev-card__txt">Profesionalism și calitate la superlativ. Recomand!</blockquote>
+        <figcaption class="rev-card__who">
+          <span class="rev-card__nume">Alpensam Edil</span>
+          <a class="rev-card__firma" href="https://solutiialpensam.ro/" target="_blank" rel="noopener noreferrer">Soluții Alpensam</a>
+          <span class="rev-card__cand">Google · recenzie verificabilă</span>
+        </figcaption>
+      </figure>
+    </div>
+
+    <div class="revs__foot rv rv-d2">
+      <a class="btn btn-dark" href="https://maps.google.com/?cid=5233500846285127119" target="_blank" rel="noopener noreferrer">Vezi toate recenziile pe Google →</a>
+    </div>
+  </div>
+</section>
+
+
 <section class="wsp-faq" id="intrebari" aria-labelledby="wsp-faq-h">
   <div class="wrap">
     <div class="wsp-sec-head rv">
@@ -534,11 +650,11 @@
     <div class="wsp-faq__list rv rv-d1">
       <details class="wsp-faq__item" open>
         <summary class="wsp-faq__q">Cât costă un site de prezentare?</summary>
-        <div class="wsp-faq__a">Un site standard multi-pagină pornește de la <strong>750€</strong>, iar un site premium cu design custom de la <strong>2.500€</strong>. Pentru o campanie punctuală, un landing page pornește de la 500€. Prețul final depinde de numărul de pagini, funcționalități și nivelul de personalizare.</div>
+        <div class="wsp-faq__a">Un site de prezentare pornește de la <strong>750€</strong> — pachetul Basic, cu până la 6 pagini. Pachetul Standard, cu SEO on-site complet, costă <strong>1.200€</strong>, iar un site premium cu design custom pornește de la <strong>2.500€</strong>. Pentru o campanie punctuală, un landing page pornește de la 500€. Prețul final depinde de numărul de pagini, funcționalități și nivelul de personalizare.</div>
       </details>
       <details class="wsp-faq__item">
         <summary class="wsp-faq__q">Cât durează realizarea unui site?</summary>
-        <div class="wsp-faq__a">Depinde de câte pagini are și de cât de repede primim textele și pozele. Termenul exact ți-l dăm în ofertă, după ce vedem proiectul, și îl respectăm.<strong>2–4 săptămâni</strong>, iar un proiect premium în <strong>4–8 săptămâni</strong>, în funcție de volumul de conținut și de rapiditatea feedback-ului.</div>
+        <div class="wsp-faq__a">Un landing page e gata în câteva zile. Un site de prezentare durează de regulă <strong>2–4 săptămâni</strong>, iar un proiect premium <strong>4–8 săptămâni</strong>, în funcție de cât de repede primim textele și pozele. Termenul exact îl primești în ofertă, în scris, și îl respectăm.</div>
       </details>
       <details class="wsp-faq__item">
         <summary class="wsp-faq__q">Pe ce platformă construiți site-ul?</summary>
@@ -597,8 +713,57 @@
 
       <div class="cf-box rv rv-d1">
         <h3 style="font-family:var(--f-d);font-weight:700;font-size:21px;letter-spacing:-.01em;color:var(--ink);margin-bottom:8px">Spune-ne despre proiect</h3>
-        <p style="font-size:14px;color:var(--mid);line-height:1.7;font-weight:300;margin-bottom:24px">Completează formularul scurt de contact și primești o ofertă personalizată pentru site-ul tău în maxim 24 de ore.</p>
-        <a href="/contact/" class="btn btn-solid" style="justify-content:center;width:100%">Mergi la formular →</a>
+        <p style="font-size:14px;color:var(--mid);line-height:1.7;font-weight:300;margin-bottom:24px">Completează formularul scurt și primești o ofertă personalizată pentru site-ul tău în maxim 24 de ore.</p>
+        <form action="/contact.php" method="post"
+              class="wpcf7-form init"
+              aria-label="Formular ofertă site"
+              novalidate
+              data-status="init">
+
+          <input type="hidden" name="pagina" value="creare-site-prezentare">
+          <p style="position:absolute;left:-9999px" aria-hidden="true">
+            <label>Nu completa acest câmp: <input type="text" name="adresa-web" tabindex="-1" autocomplete="off"></label>
+          </p>
+
+          <p>
+            <span class="wpcf7-form-control-wrap" data-name="your-email">
+              <input type="email" name="your-email" aria-label="Email" placeholder=" "
+                     size="40" maxlength="400"
+                     class="wpcf7-form-control wpcf7-email wpcf7-text wpcf7-validates-as-email"
+                     autocomplete="email" aria-invalid="false" value="">
+              <span class="floating-label">Email</span>
+            </span>
+            <span class="wpcf7-form-control-wrap" data-name="tel-626">
+              <input type="tel" name="tel-626" aria-label="Telefon" placeholder=" "
+                     size="40" maxlength="400"
+                     class="wpcf7-form-control wpcf7-tel wpcf7-text wpcf7-validates-as-tel"
+                     aria-required="true" aria-invalid="false" value="">
+              <span class="floating-label">Telefon <span style="color:var(--acc-deep)">*</span></span>
+            </span>
+            <span class="wpcf7-form-control-wrap" data-name="text-477">
+              <input type="text" name="text-477" aria-label="Detalii proiect" placeholder=" "
+                     size="40" maxlength="400"
+                     class="wpcf7-form-control wpcf7-text"
+                     aria-invalid="false" value="">
+              <span class="floating-label">Detalii proiect</span>
+            </span>
+          </p>
+          <p>
+            <span class="wpcf7-form-control-wrap" data-name="your-subject">
+              <input type="text" name="your-subject" aria-label="Când să te contactăm?" placeholder=" "
+                     size="40" maxlength="400"
+                     class="wpcf7-form-control wpcf7-text"
+                     aria-invalid="false" value="">
+              <span class="floating-label">Când să te contactăm?</span>
+            </span>
+          </p>
+          <p>
+            <input class="wpcf7-form-control wpcf7-submit has-spinner"
+                   type="submit" value="Cere ofertă gratuită">
+            <span class="wpcf7-spinner" aria-hidden="true"></span>
+          </p>
+          <div class="wpcf7-response-output" aria-hidden="true"></div>
+        </form>
       </div>
 
     </div>
@@ -627,6 +792,6 @@
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4ehMgT85PWGVWT2yDysBn"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"_1bmViq-akZ3bH3DBMOYZ"}
 4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
 7:null
