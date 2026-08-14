@@ -168,6 +168,7 @@ cap($v);
 if     ($v === 'palnie')   vedere_palnie();
 elseif ($v === 'lead')     vedere_lead((int)($_GET['id'] ?? 0));
 elseif ($v === 'analiza')  vedere_analiza();
+elseif ($v === 'trafic')   vedere_trafic();
 elseif ($v === 'cos')      vedere_cos();
 elseif ($v === 'pareri')   vedere_pareri();
 elseif ($v === 'setari')   vedere_setari();
@@ -177,6 +178,125 @@ subsol();
 
 
 /* ================= vederi ================= */
+/** Tabel simplu cu numere, pentru orice se numara (vizite, apeluri). */
+function tabel_numere(string $sql, string $cap, string $capN, int $total, bool $eticheta = true): void {
+  echo '<table class="tg"><thead><tr><th>' . h($cap) . '</th><th>' . h($capN) . '</th><th></th></tr></thead><tbody>';
+  $are = false;
+  foreach (db()->query($sql) as $r) {
+    $are = true;
+    $p = $total ? round((int)$r['n'] / $total * 100) : 0;
+    $k = $eticheta ? eticheta_pagina((string)$r['k']) : (string)$r['k'];
+    echo '<tr><td>' . h($k) . '</td><td class="tg__n">' . (int)$r['n'] . '</td>
+          <td class="tg__b"><i style="width:' . max(2, $p) . '%"></i><span>' . $p . '%</span></td></tr>';
+  }
+  if (!$are) echo '<tr><td colspan="3" class="tg__gol">Nimic în perioada aleasă.</td></tr>';
+  echo '</tbody></table>';
+}
+
+/** Trafic: cine intra pe site, pe unde, de unde si cati suna. */
+function vedere_trafic(): void {
+  [$de, $pana, $eticheta, $preset] = perioada();
+  $q = db()->quote($de);
+  $undeV = " WHERE creat >= $q" . ($pana ? " AND creat < " . db()->quote($pana) : '');
+  $undeA = $undeV;
+  $undeL = " AND creat >= $q" . ($pana ? " AND creat < " . db()->quote($pana) : '');
+
+  $vizite     = (int)db()->query("SELECT COUNT(*) FROM vizite $undeV")->fetchColumn();
+  $vizitatori = (int)db()->query("SELECT COUNT(DISTINCT vizitator) FROM vizite $undeV")->fetchColumn();
+  $apeluri    = (int)db()->query("SELECT COUNT(*) FROM apeluri $undeA")->fetchColumn();
+  $leaduri    = (int)db()->query("SELECT COUNT(*) FROM leaduri WHERE sters IS NULL $undeL")->fetchColumn();
+  // oameni, nu apasari: acelasi vizitator poate apasa de doua ori pe telefon
+  $auSunat    = (int)db()->query("SELECT COUNT(DISTINCT vizitator) FROM apeluri $undeA")->fetchColumn();
+  $rata       = $vizitatori ? min(100, round(($leaduri + $auSunat) / $vizitatori * 100, 1)) : 0;
+
+  echo '<div class="bara"><h1>Trafic</h1></div>';
+  filtre_perioada($preset, $eticheta, 'trafic');
+
+  if ($vizite === 0) {
+    echo '<div class="gol"><h2>Încă nu sunt vizite înregistrate</h2>
+      <p>Măsurarea vizitelor pornește odată cu următoarea publicare a site-ului.
+      Până se strâng date, pâlnia și analiza lead-urilor funcționează normal.</p>
+      <a class="b" href="/crm/?v=analiza">Vezi analiza lead-urilor</a></div>';
+    return;
+  }
+
+  echo '<div class="carduri">';
+  foreach ([
+    ['Vizite de pagină', $vizite, 'O pagină deschisă de același om se numără o dată pe oră.'],
+    ['Vizitatori', $vizitatori, 'Amprentă anonimă, resetată zilnic.'],
+    ['Cereri prin formular', $leaduri, 'Lead-urile din perioada aleasă.'],
+    ['Apăsări telefon / WhatsApp', $apeluri, 'Oameni care au sunat sau au scris direct.'],
+    ['Rată de contact', $rata . '%', 'Din vizitatori, câți au trimis formularul sau au apăsat pe telefon.'],
+  ] as $c) {
+    echo '<div class="card-stat"><span class="card-stat__et">' . h($c[0]) . '</span>
+          <b class="card-stat__v">' . h((string)$c[1]) . '</b>
+          <small class="card-stat__x">' . h($c[2]) . '</small></div>';
+  }
+  echo '</div>';
+
+  echo '<div class="doua">';
+
+  echo '<section class="cutie"><h2>Cele mai vizitate pagini</h2>
+        <p class="explic">Unde stă lumea. Compară cu pagina de pe care trimit cererile, din Analiză.</p>';
+  tabel_numere("SELECT pagina k, COUNT(*) n FROM vizite $undeV GROUP BY k ORDER BY n DESC LIMIT 15",
+               'Pagina', 'Vizite', $vizite);
+  echo '</section>';
+
+  echo '<section class="cutie"><h2>De unde vine traficul</h2>
+        <p class="explic">Sursa vizitei, nu doar a lead-urilor. Aici se vede ce aduce oameni.</p>';
+  echo '<table class="tg"><thead><tr><th>Sursă</th><th>Vizitatori</th><th>Cereri</th><th>Rată</th></tr></thead><tbody>';
+  $surse = db()->query("SELECT COALESCE(NULLIF(sursa,''),'direct') k, COUNT(DISTINCT vizitator) n
+                        FROM vizite $undeV GROUP BY k ORDER BY n DESC LIMIT 12")->fetchAll();
+  foreach ($surse as $r) {
+    $k = (string)$r['k'];
+    $st = db()->prepare("SELECT COUNT(*) FROM leaduri WHERE sters IS NULL AND COALESCE(NULLIF(sursa,''),'direct') = ? $undeL");
+    $st->execute([$k]);
+    $cer = (int)$st->fetchColumn();
+    $rr = (int)$r['n'] ? round($cer / (int)$r['n'] * 100, 1) : 0;
+    echo '<tr><td>' . h(eticheta_sursa($k)) . '</td><td class="tg__n">' . (int)$r['n'] . '</td>
+          <td class="tg__n">' . $cer . '</td><td class="tg__n">' . $rr . '%</td></tr>';
+  }
+  if (!$surse) echo '<tr><td colspan="4" class="tg__gol">Nimic în perioada aleasă.</td></tr>';
+  echo '</tbody></table></section>';
+
+  echo '<section class="cutie"><h2>Telefon și WhatsApp, pe pagină</h2>
+        <p class="explic">Cererile care nu trec prin formular. Fără asta, paginile care aduc apeluri par că nu produc nimic.</p>';
+  tabel_numere("SELECT pagina k, COUNT(*) n FROM apeluri $undeA GROUP BY k ORDER BY n DESC LIMIT 12",
+               'Pagina', 'Apăsări', max(1, $apeluri));
+  echo '</section>';
+
+  echo '<section class="cutie"><h2>Telefon sau WhatsApp</h2>
+        <p class="explic">Ce aleg oamenii când vor să vorbească direct.</p>';
+  tabel_numere("SELECT fel k, COUNT(*) n FROM apeluri $undeA GROUP BY k ORDER BY n DESC",
+               'Fel', 'Apăsări', max(1, $apeluri), false);
+  echo '</section>';
+
+  echo '<section class="cutie"><h2>Dispozitivul vizitatorilor</h2>
+        <p class="explic">Dacă majoritatea vin de pe telefon, acolo se decide totul.</p>';
+  tabel_numere("SELECT COALESCE(NULLIF(dispozitiv,''),'necunoscut') k, COUNT(DISTINCT vizitator) n
+                FROM vizite $undeV GROUP BY k ORDER BY n DESC", 'Dispozitiv', 'Vizitatori', max(1, $vizitatori), false);
+  echo '</section>';
+
+  echo '<section class="cutie"><h2>Campanii</h2>
+        <p class="explic">Doar vizitele care au venit cu utm_campaign în adresă.</p>';
+  tabel_numere("SELECT campanie k, COUNT(DISTINCT vizitator) n FROM vizite $undeV AND campanie <> ''
+                GROUP BY k ORDER BY n DESC LIMIT 12", 'Campanie', 'Vizitatori', max(1, $vizitatori), false);
+  echo '</section>';
+
+  echo '</div>';
+
+  echo '<section class="cutie" style="margin-top:20px"><h2>Vizitatori pe zi</h2><div class="luni">';
+  $randuri = db()->query("SELECT date(creat) k, COUNT(DISTINCT vizitator) n FROM vizite $undeV
+                          GROUP BY k ORDER BY k DESC LIMIT 30")->fetchAll();
+  $max = 1;
+  foreach ($randuri as $r) $max = max($max, (int)$r['n']);
+  foreach (array_reverse($randuri) as $r) {
+    echo '<div class="luna"><div class="luna__bara"><span style="height:' . round((int)$r['n'] / $max * 100) . '%"></span></div>
+          <b>' . (int)$r['n'] . '</b><small>' . h(substr((string)$r['k'], 8) . '.' . substr((string)$r['k'], 5, 2)) . '</small></div>';
+  }
+  echo '</div></section>';
+}
+
 
 function vedere_panou(): void {
   $total = (int)db()->query('SELECT COUNT(*) FROM leaduri WHERE sters IS NULL')->fetchColumn();
@@ -483,7 +603,7 @@ function vedere_analiza(): void {
   $total = (int)db()->query("SELECT COUNT(*) FROM leaduri WHERE sters IS NULL $undeL")->fetchColumn();
 
   echo '<div class="bara"><h1>Analiză</h1><a class="b" href="/crm/?v=export">Descarcă CSV</a></div>';
-  filtre_perioada($preset, $eticheta);
+  filtre_perioada($preset, $eticheta, 'analiza');
 
   echo '<section class="cutie" style="margin-bottom:20px"><h2>Pâlnia formularului</h2>
         <p class="explic">Câți au ajuns la formular, câți au început să scrie și câți au trimis.</p>';
@@ -660,15 +780,15 @@ function perioada(): array {
   return [date('Y-m-d H:i:s', time() - $n * 86400), null, 'ultimele ' . $n . ' zile', (string)$n];
 }
 
-function filtre_perioada(string $preset, string $eticheta): void {
+function filtre_perioada(string $preset, string $eticheta, string $vedere = 'analiza'): void {
   echo '<div class="filtre">';
   foreach (['7' => '7 zile', '30' => '30 zile', '90' => '90 zile', 'tot' => 'Tot timpul'] as $k => $n) {
-    echo '<a class="fbtn' . ($preset === (string)$k ? ' is-on' : '') . '" href="/crm/?v=analiza&zile=' . $k . '">' . h($n) . '</a>';
+    echo '<a class="fbtn' . ($preset === (string)$k ? ' is-on' : '') . '" href="/crm/?v=' . h($vedere) . '&zile=' . $k . '">' . h($n) . '</a>';
   }
-  echo '<form method="get" class="filtre__f"><input type="hidden" name="v" value="analiza">
+  echo '<form method="get" class="filtre__f"><input type="hidden" name="v" value="' . h($vedere) . '">
         <label>Pe lună<input type="month" name="luna" value="' . h($_GET['luna'] ?? '') . '"></label>
         <button class="b b--mic">Arată</button></form>';
-  echo '<form method="get" class="filtre__f"><input type="hidden" name="v" value="analiza">
+  echo '<form method="get" class="filtre__f"><input type="hidden" name="v" value="' . h($vedere) . '">
         <label>De la<input type="date" name="de" value="' . h($_GET['de'] ?? '') . '"></label>
         <label>Până la<input type="date" name="pana" value="' . h($_GET['pana'] ?? '') . '"></label>
         <button class="b b--mic">Aplică</button></form>';
@@ -676,7 +796,7 @@ function filtre_perioada(string $preset, string $eticheta): void {
 }
 
 function cap(string $v): void {
-  $nav = ['panou' => 'Panou', 'palnie' => 'Pâlnie', 'analiza' => 'Analiză', 'cos' => 'Coș', 'pareri' => 'Păreri', 'setari' => 'Setări'];
+  $nav = ['panou' => 'Panou', 'palnie' => 'Pâlnie', 'trafic' => 'Trafic', 'analiza' => 'Analiză', 'cos' => 'Coș', 'pareri' => 'Păreri', 'setari' => 'Setări'];
   echo '<!doctype html><html lang="ro"><head><meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="robots" content="noindex,nofollow">

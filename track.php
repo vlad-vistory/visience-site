@@ -42,6 +42,28 @@ try {
     exit('{"ok":true}');
   }
 
+  if ($tip === 'pagina') {
+    $pagina = $taie('pagina', 160);
+    if ($pagina === '') { http_response_code(400); exit('{"ok":false}'); }
+    $v = amprenta_vizitator();
+    // o singura vizita per (vizitator, pagina) intr-o ora — reincarcarile nu umfla cifrele
+    $exista = db()->prepare("SELECT 1 FROM vizite WHERE vizitator = ? AND pagina = ? AND creat > ? LIMIT 1");
+    $exista->execute([$v, $pagina, date('Y-m-d H:i:s', time() - 3600)]);
+    if (!$exista->fetchColumn()) {
+      db()->prepare('INSERT INTO vizite (creat, pagina, vizitator, dispozitiv, sursa, campanie) VALUES (?,?,?,?,?,?)')
+          ->execute([date('Y-m-d H:i:s'), $pagina, $v, dispozitiv_din_ua(), $taie('sursa', 60), $taie('campanie', 80)]);
+    }
+    exit('{"ok":true}');
+  }
+
+  if ($tip === 'apel') {
+    $fel = strtolower((string)($d['fel'] ?? ''));
+    if (!in_array($fel, ['telefon', 'whatsapp'], true)) { http_response_code(400); exit('{"ok":false}'); }
+    db()->prepare('INSERT INTO apeluri (creat, fel, pagina, vizitator, sursa) VALUES (?,?,?,?,?)')
+        ->execute([date('Y-m-d H:i:s'), $fel, $taie('pagina', 160), amprenta_vizitator(), $taie('sursa', 60)]);
+    exit('{"ok":true}');
+  }
+
   if ($tip === 'parere') {
     $nota = (string)($d['nota'] ?? '');
     if (!in_array($nota, ['da', 'partial', 'nu'], true)) { http_response_code(400); exit('{"ok":false}'); }

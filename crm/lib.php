@@ -98,6 +98,25 @@ function db(): PDO {
     nota TEXT NOT NULL,
     comentariu TEXT DEFAULT ''
   )");
+  // vizitele pe site, anonime: fara cookie, doar o amprenta zilnica de vizitator
+  $pdo->exec("CREATE TABLE IF NOT EXISTS vizite (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    creat TEXT NOT NULL,
+    pagina TEXT NOT NULL,
+    vizitator TEXT NOT NULL,
+    dispozitiv TEXT DEFAULT '',
+    sursa TEXT DEFAULT '',
+    campanie TEXT DEFAULT ''
+  )");
+  // apasarile pe telefon si WhatsApp — lead-urile care nu trec prin formular
+  $pdo->exec("CREATE TABLE IF NOT EXISTS apeluri (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    creat TEXT NOT NULL,
+    fel TEXT NOT NULL,
+    pagina TEXT NOT NULL,
+    vizitator TEXT NOT NULL,
+    sursa TEXT DEFAULT ''
+  )");
   // baze create inainte de coloanele noi — inainte de indecsi, ca sa existe coloanele
   $are = [];
   foreach ($pdo->query("PRAGMA table_info(leaduri)") as $c) $are[$c['name']] = true;
@@ -109,6 +128,10 @@ function db(): PDO {
   $pdo->exec("CREATE INDEX IF NOT EXISTS idx_creat ON leaduri(creat)");
   $pdo->exec("CREATE INDEX IF NOT EXISTS idx_sters ON leaduri(sters)");
   $pdo->exec("CREATE INDEX IF NOT EXISTS idx_ev_ses ON evenimente(sesiune)");
+  $pdo->exec("CREATE INDEX IF NOT EXISTS idx_viz_creat ON vizite(creat)");
+  $pdo->exec("CREATE INDEX IF NOT EXISTS idx_viz_pagina ON vizite(pagina)");
+  $pdo->exec("CREATE INDEX IF NOT EXISTS idx_viz_vizitator ON vizite(vizitator)");
+  $pdo->exec("CREATE INDEX IF NOT EXISTS idx_ap_creat ON apeluri(creat)");
   return $pdo;
 }
 
@@ -175,6 +198,39 @@ function salveaza_lead(array $d): int {
   $id = (int)db()->lastInsertId();
   jurnal($id, 'Lead primit din formular.');
   return $id;
+}
+
+/**
+ * Amprenta anonima a vizitatorului: IP + browser + o sare care se schimba zilnic.
+ * Nu se poate intoarce la persoana si nu lasa cookie, deci nu cere consimtamant.
+ * Se schimba la miezul noptii — un vizitator revenit maine se numara din nou.
+ */
+function amprenta_vizitator(): string {
+  $ip = (string)($_SERVER['HTTP_CF_CONNECTING_IP'] ?? $_SERVER['REMOTE_ADDR'] ?? '');
+  $ua = (string)($_SERVER['HTTP_USER_AGENT'] ?? '');
+  $sare = setare('sare_vizitatori');
+  if ($sare === null) $sare = setare('sare_vizitatori', bin2hex(random_bytes(16)));
+  return substr(hash('sha256', $ip . '|' . $ua . '|' . $sare . '|' . date('Y-m-d')), 0, 24);
+}
+
+/** 'mobil' | 'tableta' | 'desktop', dupa user-agent. */
+function dispozitiv_din_ua(): string {
+  $ua = strtolower((string)($_SERVER['HTTP_USER_AGENT'] ?? ''));
+  if (strpos($ua, 'ipad') !== false || strpos($ua, 'tablet') !== false) return 'tableta';
+  if (preg_match('/mobile|iphone|android|phone/', $ua)) return 'mobil';
+  return 'desktop';
+}
+
+/** Nume citibil pentru o sursa: 'google-ads' -> 'Google Ads'. */
+function eticheta_sursa(?string $s): string {
+  $s = trim((string)$s);
+  if ($s === '') return 'Direct';
+  $harta = [
+    'google-ads' => 'Google Ads', 'meta-ads' => 'Meta Ads', 'google' => 'Google (organic)',
+    'facebook' => 'Facebook', 'instagram' => 'Instagram', 'direct' => 'Direct',
+    'linkedin' => 'LinkedIn', 'tiktok' => 'TikTok', 'bing' => 'Bing', 'chatgpt' => 'ChatGPT',
+  ];
+  return $harta[strtolower($s)] ?? $s;
 }
 
 /* ---------- autentificare ---------- */
