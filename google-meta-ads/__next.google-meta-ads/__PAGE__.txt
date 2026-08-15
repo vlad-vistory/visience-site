@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
 6:I[97367,["/_next/static/chunks/2u_5_u_b9qrst.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-2:T1510,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/google-meta-ads/#service","name":"Google & Meta Ads (PPC)","serviceType":"Management campanii Google Ads, Facebook și Instagram Ads","description":"Campanii PPC de Lead Generation, remarketing și Google Shopping pe Google Ads, Facebook și Instagram, configurate pe audiența exactă și orientate pe cereri și cost per cerere. Bugetul media plătit platformelor este separat de costul de management.","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Pachete management campanii PPC","itemListElement":[{"@type":"Offer","name":"Remarketing & Automatizări","description":"Anunțuri personalizate Google + Facebook, email-uri automate de follow-up, email coș abandonat, targetare pe istoricul de navigare și optimizare continuă.","price":"600","priceCurrency":"EUR"},{"@type":"Offer","name":"Google Shopping","description":"Setup Google Merchant Center, optimizare feed produse, Smart sau Standard Shopping, strategie de licitare și monitorizare lunară.","price":"500","priceCurrency":"EUR"},{"@type":"Offer","name":"Management campanii Google & Meta","description":"Management lunar per platformă (Google Ads sau Meta), minim 3 luni: strategie și structură de campanie, creative incluse (vizual + text), optimizare săptămânală a licitărilor și audiențelor, raport lunar cu cost per lead și sursa fiecărei cereri. Bugetul media se plătește separat, direct către platforme.","price":"500","priceCurrency":"EUR"},{"@type":"Offer","name":"Setup campanie & tracking","description":"Cost unic, la începutul colaborării: configurare cont Google Ads / Meta, instalare Google Tag și Meta Pixel, configurare conversii și integrare GA4.","price":"400","priceCurrency":"EUR"}]},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"400","highPrice":"600","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/google-meta-ads/#faq","mainEntity":[{"@type":"Question","name":"Care e bugetul minim de publicitate?","acceptedAnswer":{"@type":"Answer","text":"Bugetul media se plătește direct către Google și Meta și este separat de costul de management. Recomandăm minim 500€/lună per platformă ca punct de pornire, iar pentru rezultate consistente intervalul 800-1.500€/lună funcționează cel mai bine. Cu cât bugetul e mai mare și constant, cu atât costul per lead scade, pentru că algoritmii au mai multe date de optimizare. Îți recomandăm bugetul exact după ce înțelegem afacerea ta."}},{"@type":"Question","name":"Costul de management include și bugetul de ads?","acceptedAnswer":{"@type":"Answer","text":"Nu. Tariful de management (500€/lună per platformă) și costul unic de setup (400€) acoperă strategia, crearea anunțurilor, implementarea, optimizarea și raportarea. Bugetul de publicitate — banii cheltuiți efectiv pe reclame — se plătește direct către Google și Meta, din contul tău, și este complet separat de costul colaborării cu noi. Așa ai control total asupra bugetului media și transparență deplină."}},{"@type":"Question","name":"Pe ce platforme rulați campanii?","acceptedAnswer":{"@type":"Answer","text":"Rulăm campanii pe Google Ads (Search, Display, Shopping, YouTube), pe Facebook Ads și pe Instagram Ads. Alegem combinația potrivită în funcție de unde se află clienții tăi: Google pentru cei care caută activ un serviciu sau produs, Meta pentru a-i atrage și a face remarketing. Pentru magazinele online, recomandăm Google Shopping pentru clienții cu intenție mare de cumpărare."}},{"@type":"Question","name":"Cât durează până vin primele rezultate?","acceptedAnswer":{"@type":"Answer","text":"Campaniile pot genera primele click-uri și lead-uri în câteva zile de la lansare. Totuși, primele 2-3 săptămâni sunt o perioadă de învățare: testăm anunțuri, audiențe și licitări ca să găsim ce funcționează. Rezultatele stabile și un cost per lead optimizat apar de regulă după 4-6 săptămâni de rulare și optimizare continuă."}},{"@type":"Question","name":"Lucrați cu magazine online (Shopping)?","acceptedAnswer":{"@type":"Answer","text":"Da. Pentru magazinele online configurăm Google Shopping: setup Google Merchant Center, optimizarea feed-ului de produse, campanii Smart sau Standard Shopping și o strategie de licitare gândită pentru profit. Combinăm Shopping cu remarketing și email-uri de coș abandonat pentru a recupera vânzările pierdute. Dacă nu ai încă magazin, te putem ajuta și cu crearea unui magazin online."}},{"@type":"Question","name":"Cum raportați performanța?","acceptedAnswer":{"@type":"Answer","text":"Primești un raport lunar clar, fără jargon: afișări, click-uri, cost per click, lead-uri sau vânzări și cost per lead. Nu ne ascundem după „cifre de vanitate” — ne uităm la ce contează cu adevărat pentru afacerea ta. Îți explicăm ce am optimizat, ce a funcționat și ce propunem pentru luna următoare."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Google & Meta Ads","item":"https://visience.ro/google-meta-ads/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vski0VpaOw396GoMVle6B"}
-5:T8fc7,<style>
+2:T1510,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/google-meta-ads/#service","name":"Google & Meta Ads (PPC)","serviceType":"Management campanii Google Ads, Facebook și Instagram Ads","description":"Campanii PPC de Lead Generation, remarketing și Google Shopping pe Google Ads, Facebook și Instagram, configurate pe audiența exactă și orientate pe cereri și cost per cerere. Bugetul media plătit platformelor este separat de costul de management.","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Pachete management campanii PPC","itemListElement":[{"@type":"Offer","name":"Remarketing & Automatizări","description":"Anunțuri personalizate Google + Facebook, email-uri automate de follow-up, email coș abandonat, targetare pe istoricul de navigare și optimizare continuă.","price":"600","priceCurrency":"EUR"},{"@type":"Offer","name":"Google Shopping","description":"Setup Google Merchant Center, optimizare feed produse, Smart sau Standard Shopping, strategie de licitare și monitorizare lunară.","price":"500","priceCurrency":"EUR"},{"@type":"Offer","name":"Management campanii Google & Meta","description":"Management lunar per platformă (Google Ads sau Meta), minim 3 luni: strategie și structură de campanie, creative incluse (vizual + text), optimizare săptămânală a licitărilor și audiențelor, raport lunar cu cost per lead și sursa fiecărei cereri. Bugetul media se plătește separat, direct către platforme.","price":"500","priceCurrency":"EUR"},{"@type":"Offer","name":"Setup campanie & tracking","description":"Cost unic, la începutul colaborării: configurare cont Google Ads / Meta, instalare Google Tag și Meta Pixel, configurare conversii și integrare GA4.","price":"400","priceCurrency":"EUR"}]},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"400","highPrice":"600","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/google-meta-ads/#faq","mainEntity":[{"@type":"Question","name":"Care e bugetul minim de publicitate?","acceptedAnswer":{"@type":"Answer","text":"Bugetul media se plătește direct către Google și Meta și este separat de costul de management. Recomandăm minim 500€/lună per platformă ca punct de pornire, iar pentru rezultate consistente intervalul 800-1.500€/lună funcționează cel mai bine. Cu cât bugetul e mai mare și constant, cu atât costul per lead scade, pentru că algoritmii au mai multe date de optimizare. Îți recomandăm bugetul exact după ce înțelegem afacerea ta."}},{"@type":"Question","name":"Costul de management include și bugetul de ads?","acceptedAnswer":{"@type":"Answer","text":"Nu. Tariful de management (500€/lună per platformă) și costul unic de setup (400€) acoperă strategia, crearea anunțurilor, implementarea, optimizarea și raportarea. Bugetul de publicitate — banii cheltuiți efectiv pe reclame — se plătește direct către Google și Meta, din contul tău, și este complet separat de costul colaborării cu noi. Așa ai control total asupra bugetului media și transparență deplină."}},{"@type":"Question","name":"Pe ce platforme rulați campanii?","acceptedAnswer":{"@type":"Answer","text":"Rulăm campanii pe Google Ads (Search, Display, Shopping, YouTube), pe Facebook Ads și pe Instagram Ads. Alegem combinația potrivită în funcție de unde se află clienții tăi: Google pentru cei care caută activ un serviciu sau produs, Meta pentru a-i atrage și a face remarketing. Pentru magazinele online, recomandăm Google Shopping pentru clienții cu intenție mare de cumpărare."}},{"@type":"Question","name":"Cât durează până vin primele rezultate?","acceptedAnswer":{"@type":"Answer","text":"Campaniile pot genera primele click-uri și lead-uri în câteva zile de la lansare. Totuși, primele 2-3 săptămâni sunt o perioadă de învățare: testăm anunțuri, audiențe și licitări ca să găsim ce funcționează. Rezultatele stabile și un cost per lead optimizat apar de regulă după 4-6 săptămâni de rulare și optimizare continuă."}},{"@type":"Question","name":"Lucrați cu magazine online (Shopping)?","acceptedAnswer":{"@type":"Answer","text":"Da. Pentru magazinele online configurăm Google Shopping: setup Google Merchant Center, optimizarea feed-ului de produse, campanii Smart sau Standard Shopping și o strategie de licitare gândită pentru profit. Combinăm Shopping cu remarketing și email-uri de coș abandonat pentru a recupera vânzările pierdute. Dacă nu ai încă magazin, te putem ajuta și cu crearea unui magazin online."}},{"@type":"Question","name":"Cum raportați performanța?","acceptedAnswer":{"@type":"Answer","text":"Primești un raport lunar clar, fără jargon: afișări, click-uri, cost per click, lead-uri sau vânzări și cost per lead. Nu ne ascundem după „cifre de vanitate” — ne uităm la ce contează cu adevărat pentru afacerea ta. Îți explicăm ce am optimizat, ce a funcționat și ce propunem pentru luna următoare."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Google & Meta Ads","item":"https://visience.ro/google-meta-ads/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"kGh-yOZiw3CndbtI_iwM3"}
+5:T9a0b,<style>
 .ads-hero {
   position: relative;
   padding: calc(var(--nav-h) + 90px) 0 90px;
@@ -654,6 +654,20 @@
   .ads-cta__btns { flex-direction: column; }
   .ads-cta__btns .btn { justify-content: center; }
 }
+.ads-rez { padding: clamp(64px,9vw,104px) 0; background: var(--cream); }
+.ads-rez__head { max-width: 760px; margin-bottom: 42px; }
+.ads-rez__head h2 { font-family: var(--f-d); font-weight: 700; font-size: clamp(26px,3.4vw,38px); line-height: 1.15; letter-spacing: -.02em; color: var(--ink); margin: 0 0 14px; }
+.ads-rez__head p { font-size: 16.5px; line-height: 1.7; color: var(--ink2); margin: 0; }
+.ads-rez__grid { display: grid; grid-template-columns: 1.15fr 1fr 1fr; gap: 20px; align-items: stretch; }
+.ads-rez__c { background: var(--white); border-radius: 16px; padding: 30px 28px; display: flex; flex-direction: column; }
+.ads-rez__n { font-family: var(--f-d); font-weight: 700; font-size: 19px; color: var(--ink); margin: 0 0 4px; }
+.ads-rez__loc { font-size: 13px; color: var(--mid); margin: 0 0 22px; }
+.ads-rez__cifre { display: flex; gap: 30px; flex-wrap: wrap; margin-bottom: 20px; }
+.ads-rez__v { font-family: var(--f-d); font-weight: 700; font-size: clamp(30px,3.4vw,40px); line-height: 1; letter-spacing: -.03em; color: var(--acc-deep); display: block; }
+.ads-rez__e { display: block; margin-top: 7px; font-size: 13px; line-height: 1.45; color: var(--ink2); max-width: 15ch; }
+.ads-rez__u { margin-top: auto; font-family: var(--f-m); font-size: 12px; color: var(--mid); word-break: break-all; }
+.ads-rez__nota { margin-top: 26px; font-size: 13.5px; line-height: 1.65; color: var(--mid); max-width: 74ch; }
+@media (max-width: 1000px) { .ads-rez__grid { grid-template-columns: 1fr; } .ads-rez__e { max-width: none; } }
 </style>
 
 
@@ -801,6 +815,57 @@
       </div>
     </div>
 
+  </div>
+</section>
+
+
+<section class="ads-rez" aria-labelledby="ads-rez-h">
+  <div class="wrap">
+    <div class="ads-rez__head rv">
+      <h2 id="ads-rez-h">Rezultate din ansambluri rezidențiale</h2>
+      <p>
+        Cifrele vin din campanii pe care le-am dus cap-coadă: pagina de ofertă, campaniile
+        Google și Meta, iar lead-urile adunate într-un singur tabel și predate echipei de vânzări.
+      </p>
+    </div>
+
+    <div class="ads-rez__grid rv rv-d2">
+
+      <div class="ads-rez__c">
+        <p class="ads-rez__n">Evergreen Towers</p>
+        <p class="ads-rez__loc">Ansamblu rezidențial · Iași</p>
+        <div class="ads-rez__cifre">
+          <div><b class="ads-rez__v">6.600+</b><span class="ads-rez__e">lead-uri în 3 ani</span></div>
+          <div><b class="ads-rez__v">400+</b><span class="ads-rez__e">apartamente vândute în 3 ani</span></div>
+        </div>
+        <p class="ads-rez__u">evergreentowers.ro/oferta</p>
+      </div>
+
+      <div class="ads-rez__c">
+        <p class="ads-rez__n">Picolina Bucium</p>
+        <p class="ads-rez__loc">Ansamblu rezidențial · Iași</p>
+        <div class="ads-rez__cifre">
+          <div><b class="ads-rez__v">1.000+</b><span class="ads-rez__e">lead-uri în 5 luni</span></div>
+        </div>
+        <p class="ads-rez__u">picolina.ro/oferta-blocuri</p>
+      </div>
+
+      <div class="ads-rez__c">
+        <p class="ads-rez__n">Armur Design</p>
+        <p class="ads-rez__loc">Ansamblu rezidențial Galata · Iași</p>
+        <div class="ads-rez__cifre">
+          <div><b class="ads-rez__v">600+</b><span class="ads-rez__e">lead-uri în 5 luni</span></div>
+          <div><b class="ads-rez__v">10</b><span class="ads-rez__e">case de 350.000 € vândute în 5 luni</span></div>
+        </div>
+        <p class="ads-rez__u">armurdesign.ro/ansamblul-rezidential-galata</p>
+      </div>
+
+    </div>
+
+    <p class="ads-rez__nota rv">
+      Evergreen Towers și Picolina au mers în colaborare cu Vistory. Rezultatele proiectelor
+      la care lucrăm acum le arătăm la cerere, în conturile clientului, cu acordul lui.
+    </p>
   </div>
 </section>
 

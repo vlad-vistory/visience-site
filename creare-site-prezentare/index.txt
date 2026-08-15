@@ -27,7 +27,7 @@ e:I[68027,["/_next/static/chunks/2u_5_u_b9qrst.js","/_next/static/chunks/158myu8
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","creare-site-prezentare",""],"q":"","i":false,"f":[[["",{"children":["creare-site-prezentare",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2u_5_u_b9qrst.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"vski0VpaOw396GoMVle6B"}
+})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","creare-site-prezentare",""],"q":"","i":false,"f":[[["",{"children":["creare-site-prezentare",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0zb3_8pldwzjl.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2u_5_u_b9qrst.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"kGh-yOZiw3CndbtI_iwM3"}
 11:I[39756,["/_next/static/chunks/2u_5_u_b9qrst.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 12:I[37457,["/_next/static/chunks/2u_5_u_b9qrst.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 14:I[27961,["/_next/static/chunks/2u_5_u_b9qrst.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
@@ -235,7 +235,7 @@ e:I[68027,["/_next/static/chunks/2u_5_u_b9qrst.js","/_next/static/chunks/158myu8
 8:["$","$L14",null,{}]
 9:["$","$L15",null,{}]
 a:["$","$1","c",{"children":[null,["$","$L11",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L12",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
-16:Tbec,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-prezentare/#service","name":"Creare website de prezentare","serviceType":"Web design și dezvoltare website","description":"Creare site-uri de prezentare profesionale: landing page-uri, site-uri de companie și portofolii. Design adaptiv, SEO tehnic, CMS inclus. De la 500€.","provider":{"@type":"Organization","name":"Visience Creative Experience","url":"https://visience.ro/"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"500","highPrice":"2500","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-prezentare/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site de prezentare?","acceptedAnswer":{"@type":"Answer","text":"Un site de prezentare pornește de la 750€ — pachetul Basic, cu până la 6 pagini. Pachetul Standard, cu SEO on-site complet, costă 1.200€, iar un site premium cu design custom pornește de la 2.500€. Pentru o campanie punctuală, un landing page pornește de la 500€. Prețul final depinde de numărul de pagini, funcționalități și nivelul de personalizare."}},{"@type":"Question","name":"Cât durează realizarea unui site de prezentare?","acceptedAnswer":{"@type":"Answer","text":"Un landing page e gata în câteva zile. Un site de prezentare durează de regulă 2–4 săptămâni, iar un proiect premium 4–8 săptămâni, în funcție de cât de repede primim textele și pozele. Termenul exact îl primești în ofertă, în scris, și îl respectăm."}},{"@type":"Question","name":"Pe ce platformă construiți site-ul?","acceptedAnswer":{"@type":"Answer","text":"Construim cel mai des pe WordPress (Oxygen Builder sau Elementor) și Webflow, astfel încât să poți edita ușor conținutul după livrare."}},{"@type":"Question","name":"Site-ul va fi optimizat pentru telefon și pentru Google?","acceptedAnswer":{"@type":"Answer","text":"Da. Fiecare site este responsive și include SEO tehnic din construcție: viteză, structură corectă și date structurate. Punem accent pe viteza pe mobil, acolo unde ajung cei mai mulți vizitatori."}},{"@type":"Question","name":"Pot edita singur conținutul după ce primesc site-ul?","acceptedAnswer":{"@type":"Answer","text":"Da. Toate site-urile includ un CMS, deci poți modifica texte, imagini și pagini fără cunoștințe tehnice. Oferim și o sesiune de instruire la livrare."}},{"@type":"Question","name":"Includeți și textele (copywriting) pentru site?","acceptedAnswer":{"@type":"Answer","text":"Da. Copywriting-ul orientat spre conversie este inclus în pachetele Standard și Premium, iar pentru landing page poate fi adăugat ca opțiune."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Website de prezentare","item":"https://visience.ro/creare-site-prezentare/"}]}]}17:Td16f,<style>
+16:Tbec,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-prezentare/#service","name":"Creare website de prezentare","serviceType":"Web design și dezvoltare website","description":"Creare site-uri de prezentare profesionale: landing page-uri, site-uri de companie și portofolii. Design adaptiv, SEO tehnic, CMS inclus. De la 500€.","provider":{"@type":"Organization","name":"Visience Creative Experience","url":"https://visience.ro/"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"500","highPrice":"2500","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-prezentare/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site de prezentare?","acceptedAnswer":{"@type":"Answer","text":"Un site de prezentare pornește de la 750€ — pachetul Basic, cu până la 6 pagini. Pachetul Standard, cu SEO on-site complet, costă 1.200€, iar un site premium cu design custom pornește de la 2.500€. Pentru o campanie punctuală, un landing page pornește de la 500€. Prețul final depinde de numărul de pagini, funcționalități și nivelul de personalizare."}},{"@type":"Question","name":"Cât durează realizarea unui site de prezentare?","acceptedAnswer":{"@type":"Answer","text":"Un landing page e gata în câteva zile. Un site de prezentare durează de regulă 2–4 săptămâni, iar un proiect premium 4–8 săptămâni, în funcție de cât de repede primim textele și pozele. Termenul exact îl primești în ofertă, în scris, și îl respectăm."}},{"@type":"Question","name":"Pe ce platformă construiți site-ul?","acceptedAnswer":{"@type":"Answer","text":"Construim cel mai des pe WordPress (Oxygen Builder sau Elementor) și Webflow, astfel încât să poți edita ușor conținutul după livrare."}},{"@type":"Question","name":"Site-ul va fi optimizat pentru telefon și pentru Google?","acceptedAnswer":{"@type":"Answer","text":"Da. Fiecare site este responsive și include SEO tehnic din construcție: viteză, structură corectă și date structurate. Punem accent pe viteza pe mobil, acolo unde ajung cei mai mulți vizitatori."}},{"@type":"Question","name":"Pot edita singur conținutul după ce primesc site-ul?","acceptedAnswer":{"@type":"Answer","text":"Da. Toate site-urile includ un CMS, deci poți modifica texte, imagini și pagini fără cunoștințe tehnice. Oferim și o sesiune de instruire la livrare."}},{"@type":"Question","name":"Includeți și textele (copywriting) pentru site?","acceptedAnswer":{"@type":"Answer","text":"Da. Copywriting-ul orientat spre conversie este inclus în pachetele Standard și Premium, iar pentru landing page poate fi adăugat ca opțiune."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Website de prezentare","item":"https://visience.ro/creare-site-prezentare/"}]}]}17:Tb93a,<style>
 .wsp-sec-head { margin-bottom: 52px; max-width: 640px; }
 @media (max-width: 640px) { .wsp-sec-head { margin-bottom: 36px; } }
 
@@ -499,6 +499,28 @@ a:["$","$1","c",{"children":[null,["$","$L11",null,{"parallelRouterKey":"childre
 .wsp-work__grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px; align-items: start; }
 .wsp-work__grid .pj-card { max-width: 100%; width: 100%; }
 .wsp-work__more { margin-top: 44px; text-align: center; }
+.wsp-tiles { display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px; }
+.wsp-tile { display: block; text-decoration: none; }
+.wsp-tile__img {
+  display: block; aspect-ratio: 4 / 5; border-radius: 14px; overflow: hidden;
+  background: var(--cream2);
+  transition: transform .35s cubic-bezier(.25,.46,.45,.94), box-shadow .35s cubic-bezier(.25,.46,.45,.94);
+}
+.wsp-tile__img img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.wsp-tile:hover .wsp-tile__img { transform: translateY(-4px); box-shadow: 0 20px 40px rgba(17,16,16,.10); }
+.wsp-tile__b { display: block; padding: 14px 2px 0; }
+.wsp-tile__n {
+  display: block; font-family: var(--f-d); font-weight: 700; font-size: 16px;
+  letter-spacing: -.015em; color: var(--ink); line-height: 1.25;
+}
+.wsp-tile__t { display: block; margin-top: 3px; font-size: 13px; color: var(--mid); font-weight: 300; }
+.wsp-tile__u {
+  display: inline-block; margin-top: 8px; padding-left: 2px;
+  font-family: var(--f-m); font-size: 11.5px; font-weight: 500; color: var(--acc-deep);
+}
+.wsp-tile:hover .wsp-tile__u { text-decoration: underline; }
+@media (max-width: 1024px) { .wsp-tiles { grid-template-columns: repeat(2, 1fr); gap: 18px; } }
+@media (max-width: 560px) { .wsp-tiles { grid-template-columns: repeat(2, 1fr); gap: 12px; } .wsp-tile__n { font-size: 14px; } .wsp-tile__t { font-size: 12px; } }
 @media (max-width: 1024px) { .wsp-work { padding: 80px 0; } .wsp-work__grid { grid-template-columns: 1fr 1fr; } }
 @media (max-width: 640px) { .wsp-work__grid { grid-template-columns: 1fr; max-width: 420px; margin: 0 auto; } }
 
@@ -694,218 +716,81 @@ a.rev-card__firma:hover { text-decoration: underline; }
     <div class="wsp-sec-head rv">
       <h2 class="dd dd-lg" id="wsp-work-h">Site-uri de prezentare<br>livrate de noi</h2>
       <p class="wsp-work__lead">
-        Un <strong>site de prezentare</strong> arată afacerea, serviciile și oamenii din spatele ei, ca să transforme vizitatorii în clienți. Îl construim de la zero, adaptat brandului și industriei tale: ansambluri rezidențiale, restaurante, magazine, firme de proiectare sau construcții. Fiecare link de mai jos e un site care rulează acum și pe care îl poți deschide.
+        Un <strong>site de prezentare</strong> arată afacerea, serviciile și oamenii din spatele ei, ca să transforme vizitatorii în clienți. Îl construim de la zero, adaptat brandului și industriei tale: ansambluri rezidențiale, restaurante, magazine, firme de proiectare sau construcții. Apasă pe oricare ca să vezi cum a fost gândit.
       </p>
     </div>
 
-    <div class="wsp-work__grid rv rv-d1">
-
-      <article class="pj-card pj-card--v1">
-        <div class="pj-card__vis">
-          <div class="pj-phone">
-            <video class="pj-phone__vid"
-                   poster="/media/vlaicu-placeholder.avif"
-                   data-src="/media/Vlaicu87-Vlaicu87-Google-Chrome-2026-05-15-23-26-11-3.webm"
-                   muted loop playsinline preload="none"></video>
-            <span class="pj-phone__play">
-              <i class="fa-regular fa-hand-pointer"></i>
-              Vezi preview
-            </span>
-          </div>
-          <div class="pj-right">
-            <div class="pj-logo">
-              <img src="/media/vlaiculogo.avif" alt="Logo Vlaicu87 — ansamblu rezidențial Iași" loading="lazy" width="1200" height="1200">
-            </div>
-            <div class="pj-social">
-              <img src="/media/vlaicusocial.avif" alt="Postare social media Vlaicu87 realizată de Visience" loading="lazy" width="1200" height="1200">
-            </div>
-          </div>
-        </div>
-        <div class="pj-card__body">
-          <div class="pj-card__pills">
-            <span class="pj-pill pj-pill--svc">Website</span>
-            <span class="pj-pill pj-pill--svc">Branding</span>
-            <span class="pj-pill pj-pill--ind">Dezvoltator imobiliar</span>
-          </div>
-          <h3 class="pj-card__title">Vlaicu87 — Cartier &amp; Parc</h3>
-          <div class="pj-card__foot">
-            <a href="https://vlaicu87.ro/" target="_blank" rel="noopener" class="pj-card__url">vlaicu87.ro ↗</a>
-            <span class="pj-card__collab">cu Vistory</span>
-          </div>
-          <a class="pj-card__more" href="/proiecte/vlaicu87/">Vezi proiectul <span aria-hidden="true">→</span></a>
-        </div>
-      </article>
-
-      <article class="pj-card pj-card--v2">
-        <div class="pj-card__vis">
-          <div class="pj-phone">
-            <video class="pj-phone__vid"
-                   poster="/media/casa-vatra-placeholder.avif"
-                   data-src="/media/casa-vatra.webm"
-                   muted loop playsinline preload="none"></video>
-            <span class="pj-phone__play">
-              <i class="fa-regular fa-hand-pointer"></i>
-              Vezi preview
-            </span>
-          </div>
-          <div class="pj-desktop">
-            <img src="/media/casa-vatra-desk.avif" alt="Website de prezentare Casa Vatră — restaurant și hotel, realizat de Visience" loading="lazy" width="1898" height="949">
-          </div>
-        </div>
-        <div class="pj-card__body">
-          <div class="pj-card__pills">
-            <span class="pj-pill pj-pill--svc">Website</span>
-            <span class="pj-pill pj-pill--svc">Meniu</span>
-            <span class="pj-pill pj-pill--ind">Restaurant &amp; Hotel</span>
-          </div>
-          <h3 class="pj-card__title">Casa Vatră — Restaurant &amp; Hotel</h3>
-          <div class="pj-card__foot">
-            <a href="https://casavatra.ro" target="_blank" rel="noopener" class="pj-card__url">casavatra.ro ↗</a>
-          </div>
-          <a class="pj-card__more" href="/proiecte/casa-vatra/">Vezi proiectul <span aria-hidden="true">→</span></a>
-        </div>
-      </article>
-
-      <article class="pj-card pj-card--v1">
-        <div class="pj-card__vis">
-          <div class="pj-phone">
-            <video class="pj-phone__vid"
-                   poster="/media/carmangeria-evei-placeholder.avif"
-                   data-src="/media/carmangeria-evei.webm"
-                   muted loop playsinline preload="none"></video>
-            <span class="pj-phone__play">
-              <i class="fa-regular fa-hand-pointer"></i>
-              Vezi preview
-            </span>
-          </div>
-          <div class="pj-right">
-            <div class="pj-logo">
-              <img src="/media/carmangeria-evei-social-2.avif" alt="Logo Carmangeria Evei" loading="lazy" width="1200" height="1200">
-            </div>
-            <div class="pj-social">
-              <img src="/media/carmangeria-evei-social-1.avif" alt="Postare social media Carmangeria Evei realizată de Visience" loading="lazy" width="1200" height="1200">
-            </div>
-          </div>
-        </div>
-        <div class="pj-card__body">
-          <div class="pj-card__pills">
-            <span class="pj-pill pj-pill--svc">Magazin online</span>
-            <span class="pj-pill pj-pill--svc">Social media</span>
-            <span class="pj-pill pj-pill--ind">Carmangerie</span>
-          </div>
-          <h3 class="pj-card__title">Carmangeria Evei</h3>
-          <div class="pj-card__foot">
-            <a href="https://carmangeriaevei.ro/" target="_blank" rel="noopener" class="pj-card__url">carmangeriaevei.ro ↗</a>
-          </div>
-          <a class="pj-card__more" href="/proiecte/carmangeria-evei/">Vezi proiectul <span aria-hidden="true">→</span></a>
-        </div>
-      </article>
-
-      <article class="pj-card pj-card--v1">
-        <div class="pj-card__vis">
-          <div class="pj-phone">
-            <video class="pj-phone__vid"
-                   poster="/media/cameo-placeholder.avif"
-                   data-src="/media/cameo.webm"
-                   muted loop playsinline preload="none"></video>
-            <span class="pj-phone__play">
-              <i class="fa-regular fa-hand-pointer"></i>
-              Vezi preview
-            </span>
-          </div>
-          <div class="pj-right">
-            <div class="pj-logo">
-              <img src="/media/cameo-logo.avif" alt="Logo Cameo Residence — apartamente moderne Iași" loading="lazy" width="1200" height="1200">
-            </div>
-            <div class="pj-social">
-              <img src="/media/cameo-social-media-post.avif" alt="Postare social media Cameo Residence realizată de Visience" loading="lazy" width="1200" height="1200">
-            </div>
-          </div>
-        </div>
-        <div class="pj-card__body">
-          <div class="pj-card__pills">
-            <span class="pj-pill pj-pill--svc">Website</span>
-            <span class="pj-pill pj-pill--svc">Branding</span>
-            <span class="pj-pill pj-pill--ind">Dezvoltator imobiliar</span>
-          </div>
-          <h3 class="pj-card__title">Cameo — Apartamente moderne</h3>
-          <div class="pj-card__foot">
-            <a href="https://cameoresidence.ro/" target="_blank" rel="noopener" class="pj-card__url">cameoresidence.ro ↗</a>
-            <span class="pj-card__collab">cu Vistory</span>
-          </div>
-          <a class="pj-card__more" href="/proiecte/cameo-residence/">Vezi proiectul <span aria-hidden="true">→</span></a>
-        </div>
-      </article>
-
-      <article class="pj-card pj-card--v1">
-        <div class="pj-card__vis">
-          <div class="pj-phone">
-            <video class="pj-phone__vid"
-                   poster="/media/amodelic-placeholder.avif"
-                   data-src="/media/amodelic.webm"
-                   muted loop playsinline preload="none"></video>
-            <span class="pj-phone__play">
-              <i class="fa-regular fa-hand-pointer"></i>
-              Vezi preview
-            </span>
-          </div>
-          <div class="pj-right">
-            <div class="pj-logo">
-              <img src="/media/amodelic-logo.avif" alt="Logo Amodelic — proiectare și consultanță" loading="lazy" width="1200" height="1200">
-            </div>
-            <div class="pj-social">
-              <img src="/media/amodelic-brand.avif" alt="Identitate vizuală Amodelic realizată de Visience" loading="lazy" width="1200" height="1200">
-            </div>
-          </div>
-        </div>
-        <div class="pj-card__body">
-          <div class="pj-card__pills">
-            <span class="pj-pill pj-pill--svc">Website</span>
-            <span class="pj-pill pj-pill--svc">Branding</span>
-            <span class="pj-pill pj-pill--ind">Proiectare B2B</span>
-          </div>
-          <h3 class="pj-card__title">Amodelic — Proiectare &amp; Consultanță</h3>
-          <div class="pj-card__foot">
-            <a href="https://amodelic.com" target="_blank" rel="noopener" class="pj-card__url">amodelic.com ↗</a>
-          </div>
-          <a class="pj-card__more" href="/proiecte/amodelic/">Vezi proiectul <span aria-hidden="true">→</span></a>
-        </div>
-      </article>
-
-      <article class="pj-card pj-card--v2">
-        <div class="pj-card__vis">
-          <div class="pj-phone">
-            <video class="pj-phone__vid"
-                   poster="/media/2m-tech-placeholder.avif"
-                   data-src="/media/2mtech.webm"
-                   muted loop playsinline preload="none"></video>
-            <span class="pj-phone__play">
-              <i class="fa-regular fa-hand-pointer"></i>
-              Vezi preview
-            </span>
-          </div>
-          <div class="pj-desktop">
-            <img src="/media/2m-tech-desk.avif" alt="Website de prezentare 2M Tech — construcții și dezvoltare imobiliară, realizat de Visience" loading="lazy" width="1898" height="949">
-          </div>
-        </div>
-        <div class="pj-card__body">
-          <div class="pj-card__pills">
-            <span class="pj-pill pj-pill--svc">Website</span>
-            <span class="pj-pill pj-pill--ind">Construcții</span>
-          </div>
-          <h3 class="pj-card__title">2M Tech — Construcții și dezvoltare</h3>
-          <div class="pj-card__foot">
-            <a href="https://2mtech.ro/" target="_blank" rel="noopener" class="pj-card__url">2mtech.ro ↗</a>
-            <span class="pj-card__collab">cu Vistory</span>
-          </div>
-          <a class="pj-card__more" href="/proiecte/2m-tech/">Vezi proiectul <span aria-hidden="true">→</span></a>
-        </div>
-      </article>
-
+    <div class="wsp-tiles rv rv-d1">
+      <a class="wsp-tile" href="/proiecte/vlaicu87/">
+        <span class="wsp-tile__img">
+          <img src="/media/tiles/v2/vlaicu87.avif" alt="Vlaicu87 — site de prezentare realizat de Visience"
+               width="720" height="900" loading="lazy">
+        </span>
+        <span class="wsp-tile__b">
+          <span class="wsp-tile__n">Vlaicu87</span>
+          <span class="wsp-tile__t">Ansamblu rezidențial · Iași</span>
+        </span>
+        <span class="wsp-tile__u">vlaicu87.ro</span>
+      </a>
+      <a class="wsp-tile" href="/proiecte/casa-vatra/">
+        <span class="wsp-tile__img">
+          <img src="/media/tiles/v2/casa-vatra.fc383a.avif" alt="Casa Vatră — site de prezentare realizat de Visience"
+               width="720" height="900" loading="lazy">
+        </span>
+        <span class="wsp-tile__b">
+          <span class="wsp-tile__n">Casa Vatră</span>
+          <span class="wsp-tile__t">Restaurant și hotel · Rădăuți</span>
+        </span>
+        <span class="wsp-tile__u">casavatra.ro</span>
+      </a>
+      <a class="wsp-tile" href="/proiecte/carmangeria-evei/">
+        <span class="wsp-tile__img">
+          <img src="/media/tiles/v2/carmangeria-evei.avif" alt="Carmangeria Evei — site de prezentare realizat de Visience"
+               width="720" height="900" loading="lazy">
+        </span>
+        <span class="wsp-tile__b">
+          <span class="wsp-tile__n">Carmangeria Evei</span>
+          <span class="wsp-tile__t">Carmangerie · Ștefan Vodă</span>
+        </span>
+        <span class="wsp-tile__u">carmangeriaevei.ro</span>
+      </a>
+      <a class="wsp-tile" href="/proiecte/cameo-residence/">
+        <span class="wsp-tile__img">
+          <img src="/media/tiles/v2/cameo-residence.avif" alt="Cameo Residence — site de prezentare realizat de Visience"
+               width="720" height="900" loading="lazy">
+        </span>
+        <span class="wsp-tile__b">
+          <span class="wsp-tile__n">Cameo Residence</span>
+          <span class="wsp-tile__t">Ansamblu rezidențial · Iași</span>
+        </span>
+        <span class="wsp-tile__u">cameoresidence.ro</span>
+      </a>
+      <a class="wsp-tile" href="/proiecte/amodelic/">
+        <span class="wsp-tile__img">
+          <img src="/media/tiles/v2/amodelic.avif" alt="Amodelic — site de prezentare realizat de Visience"
+               width="720" height="900" loading="lazy">
+        </span>
+        <span class="wsp-tile__b">
+          <span class="wsp-tile__n">Amodelic</span>
+          <span class="wsp-tile__t">Birou de proiectare · Iași</span>
+        </span>
+        <span class="wsp-tile__u">amodelic.com</span>
+      </a>
+      <a class="wsp-tile" href="/proiecte/2m-tech/">
+        <span class="wsp-tile__img">
+          <img src="/media/tiles/v2/2m-tech.avif" alt="2M Tech — site de prezentare realizat de Visience"
+               width="720" height="900" loading="lazy">
+        </span>
+        <span class="wsp-tile__b">
+          <span class="wsp-tile__n">2M Tech</span>
+          <span class="wsp-tile__t">Construcții · Iași</span>
+        </span>
+        <span class="wsp-tile__u">2mtech.ro</span>
+      </a>
     </div>
 
     <div class="wsp-work__more rv">
-      <a href="/portofoliu/" class="btn btn-ghost">Vezi tot portofoliul →</a>
+      <a href="/portofoliu/" class="btn btn-ghost">Vezi toate cele 120 de proiecte <span aria-hidden="true">→</span></a>
     </div>
   </div>
 </section>
