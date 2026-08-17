@@ -27,7 +27,7 @@ e:I[68027,["/_next/static/chunks/18f9s_0khx0jc.js","/_next/static/chunks/158myu8
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","marketing-dezvoltatori-imobiliari",""],"q":"","i":false,"f":[[["",{"children":["marketing-dezvoltatori-imobiliari",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/18f9s_0khx0jc.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"YJPr3_D3R3-QGysyanXro"}
+})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","marketing-dezvoltatori-imobiliari",""],"q":"","i":false,"f":[[["",{"children":["marketing-dezvoltatori-imobiliari",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/18f9s_0khx0jc.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"vUFKwdkLQ-GikKL7vLikS"}
 11:I[39756,["/_next/static/chunks/18f9s_0khx0jc.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 12:I[37457,["/_next/static/chunks/18f9s_0khx0jc.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 14:I[27961,["/_next/static/chunks/18f9s_0khx0jc.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
@@ -261,7 +261,7 @@ c:"$W19"
 d:["$","$1","h",{"children":[null,["$","$L1a",null,{"children":"$L1b"}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.Metadata","children":"$L1e"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 20:I[97367,["/_next/static/chunks/18f9s_0khx0jc.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
-1f:Te242,<style>
+1f:Te5dd,<style>
 .dev-page { background: var(--cream); }
 
 .dev-section__head {
@@ -1068,12 +1068,33 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0
   .br-pasi__i { grid-template-columns: 1fr; gap: 6px; }
 }
 @media (max-width: 600px) { .br-lant { grid-template-columns: 1fr; } .br-proj { grid-template-columns: 1fr 1fr; gap: 12px; } }
+/* subtitlul din hero: nu mai e in H1, ca titlul sa ramana scurt si clar */
+.dev-hero__sub {
+  font-family: var(--f-d); font-weight: 300;
+  font-size: clamp(19px, 2.1vw, 30px); line-height: 1.25;
+  letter-spacing: -.015em; color: rgba(255,255,255,.74);
+  margin: 10px 0 26px; max-width: 24ch;
+}
+/* titlul nu mai creste la nesfarsit pe ecrane mari si nu se mai rupe in doua */
+.dev-hero__in { max-width: 1180px; }
+.dev-hero h1.dd-xl {
+  font-size: clamp(38px, 5.4vw, 74px);
+  line-height: 1.04;
+  letter-spacing: -.03em;
+  max-width: 18ch;
+}
+.dev-hero .body-lg { max-width: 60ch; }
+@media (min-width: 1600px) {
+  .dev-hero { padding: 130px 0 110px; }
+  .br-sec { padding: 100px 0; }
+}
 </style>
 <main class="dev-page">
 
   <section class="dev-hero" aria-labelledby="dev-hero-h">
     <div class="wrap dev-hero__in">
-      <h1 class="dd dd-xl" id="dev-hero-h">Marketing imobiliar,<br>de la prima postare<br>la ultimul apartament vândut.</h1>
+      <h1 class="dd dd-xl" id="dev-hero-h">Marketing imobiliar</h1>
+      <p class="dev-hero__sub">de la prima postare la ultimul apartament vândut</p>
       <p class="body-lg">
         Construiești bine. Noi avem grijă ca munca ta să se vadă și să ajungă la oamenii
         care chiar caută un apartament: brand, website, campanii și un singur loc în care
@@ -1084,10 +1105,10 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0
         <a href="/analiza-de-zona/" class="btn btn-ghost">Începe cu analiza de zonă</a>
       </div>
       <div class="dev-hero__stats">
-        <div><b>8.200+</b><span>lead-uri imobiliare</span></div>
-        <div><b>12 ani</b><span>experiență</span></div>
-        <div><b>9</b><span>proiecte imobiliare</span></div>
-        <div><b>120+</b><span>proiecte livrate</span></div>
+        <div class="dev-hero__stat"><span class="num">8.200+</span><span class="lbl">lead-uri imobiliare</span></div>
+        <div class="dev-hero__stat"><span class="num">12 ani</span><span class="lbl">experiență</span></div>
+        <div class="dev-hero__stat"><span class="num">9</span><span class="lbl">proiecte imobiliare</span></div>
+        <div class="dev-hero__stat"><span class="num">120+</span><span class="lbl">proiecte livrate</span></div>
       </div>
     </div>
   </section>
