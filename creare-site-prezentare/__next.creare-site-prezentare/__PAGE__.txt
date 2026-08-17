@@ -901,6 +901,6 @@ a.rev-card__firma:hover { text-decoration: underline; }
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"xQ5XQIa6jibmHm9s5gi9U"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"l3jvf3sredn_AHKoaSMYi"}
 4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
 7:null
