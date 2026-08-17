@@ -27,7 +27,7 @@ e:I[68027,["/_next/static/chunks/18f9s_0khx0jc.js","/_next/static/chunks/158myu8
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","marketing-dezvoltatori-imobiliari",""],"q":"","i":false,"f":[[["",{"children":["marketing-dezvoltatori-imobiliari",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/18f9s_0khx0jc.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"SJWq0p1q9pDuNiMAfE1MR"}
+})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","marketing-dezvoltatori-imobiliari",""],"q":"","i":false,"f":[[["",{"children":["marketing-dezvoltatori-imobiliari",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/18f9s_0khx0jc.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"VzegLXhW1LkPSJFZKAW_s"}
 11:I[39756,["/_next/static/chunks/18f9s_0khx0jc.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 12:I[37457,["/_next/static/chunks/18f9s_0khx0jc.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 14:I[27961,["/_next/static/chunks/18f9s_0khx0jc.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
@@ -261,7 +261,7 @@ c:"$W19"
 d:["$","$1","h",{"children":[null,["$","$L1a",null,{"children":"$L1b"}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.Metadata","children":"$L1e"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 20:I[97367,["/_next/static/chunks/18f9s_0khx0jc.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
-1f:Te6ad,<style>
+1f:Tee05,<style>
 .dev-page { background: var(--cream); }
 
 .dev-section__head {
@@ -1090,6 +1090,15 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0
   .dev-hero { padding: 130px 0 110px; }
   .br-sec { padding: 100px 0; }
 }
+/* capturi ale paginii de vanzare */
+.br-shots { display: flex; gap: 18px; flex-wrap: wrap; margin-bottom: 32px; }
+.br-shots figure { margin: 0; width: 220px; }
+.br-shots img { width: 100%; height: auto; display: block; border-radius: 14px; box-shadow: 0 10px 30px rgba(17,16,16,.12); }
+.br-shots figcaption { margin-top: 9px; font-family: var(--f-m); font-size: 11.5px; color: var(--mid); }
+/* placa mica pe cardul de rezultate */
+.br-rez__pl { display: block; width: 74px; aspect-ratio: 4/5; border-radius: 9px; overflow: hidden; margin-bottom: 14px; }
+.br-rez__pl img { width: 100%; height: 100%; object-fit: cover; display: block; }
+@media (max-width: 640px) { .br-shots figure { width: calc(50% - 9px); } .br-shots figcaption { font-size: 10.5px; } }
 </style>
 <main class="dev-page">
 
@@ -1258,6 +1267,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0
       </div>
       <div class="br-rez rv rv-d2">
         <div class="br-rez__c">
+          <span class="br-rez__pl"><img src="/media/tiles/v2/evergreen-towers.avif" alt="Evergreen Towers" width="720" height="900" loading="lazy"></span>
           <p class="br-rez__n">Evergreen Towers</p><p class="br-rez__u">evergreentowers.ro/oferta</p>
           <div class="br-rez__cif">
             <div><b class="br-rez__v">6.600+</b><span class="br-rez__e">lead-uri în 3 ani</span></div>
@@ -1265,10 +1275,12 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0
           </div>
         </div>
         <div class="br-rez__c">
+          <span class="br-rez__pl"><img src="/media/tiles/v2/picolina.avif" alt="Picolina Bucium" width="720" height="900" loading="lazy"></span>
           <p class="br-rez__n">Picolina Bucium</p><p class="br-rez__u">picolina.ro/oferta-blocuri</p>
           <div class="br-rez__cif"><div><b class="br-rez__v">1.000+</b><span class="br-rez__e">lead-uri în 5 luni</span></div></div>
         </div>
         <div class="br-rez__c">
+          <span class="br-rez__pl"><img src="/media/tiles/v2/armur-design.avif" alt="Armur Design" width="720" height="900" loading="lazy"></span>
           <p class="br-rez__n">Armur Design</p><p class="br-rez__u">armurdesign.ro/ansamblul-rezidential-galata</p>
           <div class="br-rez__cif">
             <div><b class="br-rez__v">600+</b><span class="br-rez__e">lead-uri în 5 luni</span></div>
@@ -1286,6 +1298,12 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0
         <h2>Cum arată pagina care aduce lead-urile</h2>
         <p>Campania duce omul într-un singur loc, iar acolo se decide totul. Structura de mai jos e cea care a adus cele 600 de lead-uri pentru Armur Design: exact atâtea secțiuni cât să răspundă la toate întrebările, în ordinea în care apar.</p>
       </div>
+      <div class="br-shots rv">
+        <figure><img src="/media/mobil/armur-design-1.avif" alt="Pagina de ofertă Armur Design, prima parte" width="480" height="1039" loading="lazy"><figcaption>Prezentare și buton de ofertă</figcaption></figure>
+        <figure><img src="/media/mobil/armur-design-2.avif" alt="Pagina de ofertă Armur Design, detalii" width="480" height="1039" loading="lazy"><figcaption>Detalii, planuri și dotări</figcaption></figure>
+        <figure><img src="/media/mobil/armur-design-3.avif" alt="Pagina de ofertă Armur Design, formular" width="480" height="1039" loading="lazy"><figcaption>Formular și contact</figcaption></figure>
+      </div>
+
       <div class="br-pasi rv rv-d2">
         <div class="br-pasi__i"><span class="br-pasi__t">Prezentare</span><p class="br-pasi__p">Numele ansamblului, locația și cele patru argumente care contează. Omul știe în trei secunde dacă e pentru el.</p></div>
         <div class="br-pasi__i"><span class="br-pasi__t">Concept</span><p class="br-pasi__p">Ce fel de locuință e și pentru cine. Aici se face diferența față de anunțurile de pe portaluri.</p></div>
