@@ -27,7 +27,7 @@ e:I[68027,["/_next/static/chunks/18f9s_0khx0jc.js","/_next/static/chunks/158myu8
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","marketing-dezvoltatori-imobiliari",""],"q":"","i":false,"f":[[["",{"children":["marketing-dezvoltatori-imobiliari",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/18f9s_0khx0jc.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"XtHdmmiZRxWxlyk1eNvSz"}
+})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","marketing-dezvoltatori-imobiliari",""],"q":"","i":false,"f":[[["",{"children":["marketing-dezvoltatori-imobiliari",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/18f9s_0khx0jc.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"YJPr3_D3R3-QGysyanXro"}
 11:I[39756,["/_next/static/chunks/18f9s_0khx0jc.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 12:I[37457,["/_next/static/chunks/18f9s_0khx0jc.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 14:I[27961,["/_next/static/chunks/18f9s_0khx0jc.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
@@ -261,7 +261,7 @@ c:"$W19"
 d:["$","$1","h",{"children":[null,["$","$L1a",null,{"children":"$L1b"}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.Metadata","children":"$L1e"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 20:I[97367,["/_next/static/chunks/18f9s_0khx0jc.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
-1f:Tbf4b,<style>
+1f:Te242,<style>
 .dev-page { background: var(--cream); }
 
 .dev-section__head {
@@ -977,431 +977,438 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0
   .dev-cta__acts { flex-direction: column; }
   .dev-cta__acts .btn { width: 100%; justify-content: center; }
 }
+/* ── structura preluata din brosura de propunere ── */
+.br-sec { padding: clamp(60px, 8vw, 100px) 0; }
+.br-sec--cream { background: var(--cream); }
+.br-sec--ink { background: var(--ink); color: #fff; }
+.br-h { max-width: 780px; margin-bottom: 40px; }
+.br-h h2 {
+  font-family: var(--f-d); font-weight: 700;
+  font-size: clamp(26px, 3.6vw, 40px); line-height: 1.14;
+  letter-spacing: -.022em; color: var(--ink); margin: 0 0 14px;
+}
+.br-sec--ink .br-h h2 { color: #fff; }
+.br-h p { font-size: 16.5px; line-height: 1.7; color: var(--ink2); margin: 0; }
+.br-sec--ink .br-h p { color: rgba(255,255,255,.72); }
+
+/* lantul de 5 etape */
+.br-lant { display: grid; grid-template-columns: repeat(5, 1fr); gap: 2px; background: var(--border); border-radius: 14px; overflow: hidden; margin-bottom: 36px; }
+.br-lant__c { background: var(--white); padding: 22px 18px; }
+.br-lant__n { font-family: var(--f-d); font-weight: 700; font-size: 16px; color: var(--ink); margin: 0 0 6px; }
+.br-lant__c:last-child .br-lant__n { color: var(--acc-deep); }
+.br-lant__p { font-size: 13px; line-height: 1.5; color: var(--mid); margin: 0; }
+
+/* lista numerotata de servicii */
+.br-list { display: grid; grid-template-columns: 1fr 1fr; gap: 2px; background: var(--border); border-radius: 14px; overflow: hidden; }
+.br-list__i { background: var(--white); padding: 26px 24px; display: grid; grid-template-columns: 34px 1fr; gap: 16px; align-items: start; }
+.br-list__n { font-family: var(--f-m); font-size: 12px; font-weight: 600; color: var(--acc-deep); padding-top: 3px; }
+.br-list__i h3 { font-family: var(--f-d); font-weight: 700; font-size: 17px; line-height: 1.25; color: var(--ink); margin: 0 0 7px; }
+.br-list__i p { font-size: 14.5px; line-height: 1.65; color: var(--ink2); margin: 0; }
+
+/* proiecte clicabile */
+.br-proj { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+.br-proj__c { display: block; text-decoration: none; background: var(--white); border-radius: 14px; overflow: hidden; transition: transform .3s, box-shadow .3s; }
+.br-sec--cream .br-proj__c { background: var(--white); }
+.br-proj__c:hover { transform: translateY(-4px); box-shadow: 0 18px 40px rgba(17,16,16,.12); }
+.br-proj__img { display: block; aspect-ratio: 4 / 5; overflow: hidden; background: var(--cream2); }
+.br-proj__img img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.br-proj__b { padding: 16px 18px 18px; }
+.br-proj__n { font-family: var(--f-d); font-weight: 700; font-size: 16px; color: var(--ink); margin: 0 0 5px; }
+.br-proj__p { font-size: 13.5px; line-height: 1.55; color: var(--ink2); margin: 0 0 10px; }
+.br-proj__m { font-family: var(--f-m); font-size: 11.5px; font-weight: 500; color: var(--acc-deep); }
+.br-proj__c:hover .br-proj__m { text-decoration: underline; }
+
+/* rezultate */
+.br-rez { display: grid; grid-template-columns: 1.1fr 1fr 1fr; gap: 18px; }
+.br-rez__c { background: rgba(255,255,255,.06); border-radius: 16px; padding: 28px 26px; display: flex; flex-direction: column; }
+.br-rez__n { font-family: var(--f-d); font-weight: 700; font-size: 18px; color: #fff; margin: 0 0 3px; }
+.br-rez__u { font-family: var(--f-m); font-size: 11.5px; color: rgba(255,255,255,.5); margin: 0 0 22px; word-break: break-all; }
+.br-rez__cif { display: flex; gap: 28px; flex-wrap: wrap; margin-top: auto; }
+.br-rez__v { font-family: var(--f-d); font-weight: 700; font-size: clamp(28px, 3.2vw, 38px); line-height: 1; letter-spacing: -.03em; color: var(--acc); display: block; }
+.br-rez__e { display: block; margin-top: 6px; font-size: 12.5px; line-height: 1.45; color: rgba(255,255,255,.66); max-width: 14ch; }
+
+/* pagina de vanzare, pasi */
+.br-pasi { display: grid; gap: 2px; background: var(--border); border-radius: 14px; overflow: hidden; }
+.br-pasi__i { background: var(--white); padding: 20px 24px; display: grid; grid-template-columns: 200px 1fr; gap: 22px; align-items: baseline; }
+.br-pasi__t { font-family: var(--f-d); font-weight: 700; font-size: 15.5px; color: var(--ink); }
+.br-pasi__p { font-size: 14.5px; line-height: 1.65; color: var(--ink2); margin: 0; }
+
+/* pachete */
+.br-pk { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; align-items: stretch; }
+.br-pk__c { background: var(--white); border-radius: 16px; padding: 30px 26px; display: flex; flex-direction: column; }
+.br-pk__c--rec { background: var(--ink); color: #fff; }
+.br-pk__tag { font-family: var(--f-m); font-size: 10.5px; letter-spacing: .12em; text-transform: uppercase; color: var(--acc-deep); margin-bottom: 12px; }
+.br-pk__c--rec .br-pk__tag { color: var(--acc); }
+.br-pk__n { font-family: var(--f-d); font-weight: 700; font-size: 21px; margin: 0 0 8px; }
+.br-pk__d { font-size: 14px; line-height: 1.6; color: var(--ink2); margin: 0 0 20px; }
+.br-pk__c--rec .br-pk__d { color: rgba(255,255,255,.72); }
+.br-pk__pret { font-family: var(--f-d); font-weight: 700; font-size: 34px; line-height: 1; letter-spacing: -.03em; margin-bottom: 4px; }
+.br-pk__sub { font-size: 13px; color: var(--mid); margin-bottom: 20px; }
+.br-pk__c--rec .br-pk__sub { color: rgba(255,255,255,.6); }
+.br-pk__l { list-style: none; margin: 0 0 20px; padding: 0; }
+.br-pk__l li { position: relative; padding-left: 20px; margin-bottom: 9px; font-size: 13.5px; line-height: 1.55; color: var(--ink2); }
+.br-pk__c--rec .br-pk__l li { color: rgba(255,255,255,.8); }
+.br-pk__l li::before { content: "✓"; position: absolute; left: 0; color: var(--acc-deep); font-weight: 700; font-size: 12px; }
+.br-pk__c--rec .br-pk__l li::before { color: var(--acc); }
+.br-pk__c .btn { margin-top: auto; width: 100%; justify-content: center; }
+
+/* tarife pe bucata */
+.br-tar { display: grid; grid-template-columns: 1fr 1fr; gap: 2px; background: var(--border); border-radius: 14px; overflow: hidden; }
+.br-tar__i { background: var(--white); padding: 18px 22px; display: flex; justify-content: space-between; gap: 18px; align-items: baseline; }
+.br-tar__n { font-size: 14.5px; color: var(--ink); font-weight: 500; }
+.br-tar__n small { display: block; font-size: 12.5px; color: var(--mid); font-weight: 400; margin-top: 3px; }
+.br-tar__p { font-family: var(--f-d); font-weight: 700; font-size: 15px; color: var(--acc-deep); white-space: nowrap; }
+.br-nota { margin-top: 22px; font-size: 13px; line-height: 1.65; color: var(--mid); max-width: 82ch; }
+
+@media (max-width: 1000px) {
+  .br-lant { grid-template-columns: 1fr 1fr; }
+  .br-list, .br-tar { grid-template-columns: 1fr; }
+  .br-proj { grid-template-columns: 1fr 1fr; }
+  .br-rez, .br-pk { grid-template-columns: 1fr; }
+  .br-pasi__i { grid-template-columns: 1fr; gap: 6px; }
+}
+@media (max-width: 600px) { .br-lant { grid-template-columns: 1fr; } .br-proj { grid-template-columns: 1fr 1fr; gap: 12px; } }
 </style>
-
-
 <main class="dev-page">
 
-  <section class="dev-hero">
-    <div class="wrap">
-      <h1 class="dd dd-xl dev-hero__h rv">
-        <span class="hi">Marketing pentru</span><br>
-        dezvoltatori imobiliari.
-      </h1>
-
-      <p class="body-lg dev-hero__sub rv rv-d1">
-        Strategie, branding de ansamblu, website cu pagini de apartamente și campanii
-        Google &amp; Meta care aduc cumpărători reali, nu doar trafic. Pentru cartiere
-        de case, ansambluri rezidențiale și complexuri.
+  <section class="dev-hero" aria-labelledby="dev-hero-h">
+    <div class="wrap dev-hero__in">
+      <h1 class="dd dd-xl" id="dev-hero-h">Marketing imobiliar,<br>de la prima postare<br>la ultimul apartament vândut.</h1>
+      <p class="body-lg">
+        Construiești bine. Noi avem grijă ca munca ta să se vadă și să ajungă la oamenii
+        care chiar caută un apartament: brand, website, campanii și un singur loc în care
+        intră toate lead-urile.
       </p>
-
-      <p class="body-lg dev-hero__sub rv rv-d1">
-        Visience este agenția de marketing din Iași care lucrează cu dezvoltatori imobiliari din toată
-        România, de 12 ani. Am construit brandul, site-ul și campaniile pentru Vlaicu87, Cameo Residence,
-        Evergreen Towers, Picolina Bucium și Armur Design, iar pachetul de pornire pentru un ansamblu
-        începe de la 3.500€.
-      </p>
-
-      <div class="dev-hero__acts rv rv-d2">
-        <a href="#contact" class="btn btn-solid">Solicită propunere <span style="margin-left:4px">→</span></a>
-        <a href="#proiecte" class="btn btn-ghost">Vezi proiectele noastre</a>
+      <div class="dev-hero__acts">
+        <a href="/contact/" class="btn btn-solid">Cere o propunere pentru ansamblul tău <span aria-hidden="true">→</span></a>
+        <a href="/analiza-de-zona/" class="btn btn-ghost">Începe cu analiza de zonă</a>
       </div>
-
-      <div class="dev-hero__stats rv rv-d3">
-        <div class="dev-hero__stat"><span class="num">12 ani</span><span class="lbl">Experiență în marketing</span></div>
-        <div class="dev-hero__stat"><span class="num">7</span><span class="lbl">Proiecte imobiliare</span></div>
-        <div class="dev-hero__stat"><span class="num">120+</span><span class="lbl">Proiecte livrate în total</span></div>
-        <div class="dev-hero__stat"><span class="num">Iași</span><span class="lbl">Sediu propriu, lucrăm în toată țara</span></div>
+      <div class="dev-hero__stats">
+        <div><b>8.200+</b><span>lead-uri imobiliare</span></div>
+        <div><b>12 ani</b><span>experiență</span></div>
+        <div><b>9</b><span>proiecte imobiliare</span></div>
+        <div><b>120+</b><span>proiecte livrate</span></div>
       </div>
     </div>
   </section>
 
-
-  <section class="dev-pain">
+  <section class="br-sec br-sec--cream">
     <div class="wrap">
-      <div class="dev-section__head rv">
-        <h2 class="dd dd-lg">Construiești bine.<br><span class="hi">Dar cumpărătorii cer mai mult.</span></h2>
-        <p class="body-lg">O broșură PDF și un formular pe site nu mai sunt suficiente.
-        Cumpărătorii de azi caută online, compară, vor să simtă brandul înainte să te sune.</p>
+      <div class="br-h rv">
+        <h2>De ce lucrează dezvoltatorii cu noi</h2>
       </div>
-
-      <div class="dev-pain__grid rv rv-d2">
-        <div class="dev-pain-card">
-          <div class="dev-pain-card__ico"><i class="fa-solid fa-magnifying-glass-chart"></i></div>
-          <h3>Caută online, decid online</h3>
-          <p>89% dintre cumpărători cercetează pe internet înainte să viziteze. Dacă site-ul nu transmite încredere în 5 secunde, te pierd.</p>
-        </div>
-        <div class="dev-pain-card">
-          <div class="dev-pain-card__ico"><i class="fa-solid fa-mobile-screen-button"></i></div>
-          <h3>Mobile-first, mereu</h3>
-          <p>70% din trafic vine de pe telefon. Un site lent sau confuz pe mobil = lead-uri pierdute pe care le-ai plătit cu bani de Ads.</p>
-        </div>
-        <div class="dev-pain-card">
-          <div class="dev-pain-card__ico"><i class="fa-solid fa-chart-line"></i></div>
-          <h3>Costul lead-ului contează</h3>
-          <p>În conturile pe care le administrăm am văzut costuri pe lead de la 8€ până la 80€, cu majoritatea proiectelor între 15€ și 50€. Diferența vine din zonă, din preț și din cât de ușor găsește omul planul și stadiul lucrărilor.</p>
-        </div>
-        <div class="dev-pain-card">
-          <div class="dev-pain-card__ico"><i class="fa-solid fa-handshake"></i></div>
-          <h3>Concurența nu doarme</h3>
-          <p>Cartierele rivale lansează cu branding profesional, video drone, virtual tour. Dacă rămâi în urmă, pierzi cumpărători.</p>
-        </div>
+      <div class="br-list rv rv-d2">
+        <div class="br-list__i"><span class="br-list__n">01</span><div><h3>Un singur partener</h3><p>Brand, website, campanii, conținut și lead-uri sub același acoperiș. Un singur om de contact, nu cinci firme care dau vina una pe alta.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">02</span><div><h3>Raportare clară</h3><p>Vezi ce funcționează și de unde vine fiecare cumpărător. Decizii pe date, nu pe presupuneri.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">03</span><div><h3>Fără prețuri ascunse</h3><p>Toate pachetele și tarifele sunt publice, pe această pagină. Fără surprize în factură.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">04</span><div><h3>Răspuns personal</h3><p>Rămânem implicați direct în proiect. Nu te pasăm unui junior după semnare.</p></div></div>
       </div>
     </div>
   </section>
 
-
-  <section class="dev-portfolio" id="proiecte">
+  <section class="br-sec" id="servicii">
     <div class="wrap">
-      <div class="dev-section__head rv">
-        <h2 class="dd dd-lg">Cartiere și ansambluri<br><span class="hi">pe care le-am promovat.</span></h2>
-        <p class="body-lg">Proiecte reale de marketing imobiliar, cu rezultate măsurate în rapoarte, nu estimate.</p>
+      <div class="br-h rv">
+        <h2>Tot ce îi trebuie unui ansamblu ca să se vândă, într-un singur loc</h2>
+        <p>Nu trebuie să lucrezi cu o firmă pentru design, cu alta pentru site, cu alta pentru campanii și cu încă una pentru social media. Ne ocupăm de tot lanțul, iar la final îți dăm și un CRM în care ai toate lead-urile și le gestionezi cu echipa ta de vânzări.</p>
       </div>
+      <div class="br-lant rv">
+        <div class="br-lant__c"><p class="br-lant__n">Prezență</p><p class="br-lant__p">Brand, website și social media</p></div>
+        <div class="br-lant__c"><p class="br-lant__n">Vizibilitate</p><p class="br-lant__p">Campanii Google și Meta, SEO</p></div>
+        <div class="br-lant__c"><p class="br-lant__n">Captare</p><p class="br-lant__p">Pagini de ofertă și formulare</p></div>
+        <div class="br-lant__c"><p class="br-lant__n">Lead-uri</p><p class="br-lant__p">Toate într-un singur CRM</p></div>
+        <div class="br-lant__c"><p class="br-lant__n">Vânzare</p><p class="br-lant__p">Rapoarte și automatizări</p></div>
+      </div>
+      <div class="br-list rv rv-d2">
+        <div class="br-list__i"><span class="br-list__n">01</span><div><h3>Branding de ansamblu</h3><p>Mai întâi un nume de companie bine ales, apoi un nume de complex pe măsură. Lumea te ține minte, așa că la următorul proiect pornești cu notorietate, nu de la zero. Logo, paletă, brand book, totul consecvent.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">02</span><div><h3>Website și pagini de apartamente</h3><p>Site rapid pe mobil, cu o pagină dedicată pentru fiecare tip de apartament: planuri, randări, dotări, preț și formular propriu.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">03</span><div><h3>Campanii Google și Meta</h3><p>Generare de lead-uri prin Search, Display, YouTube, Facebook și Instagram, cu direcționare pe zonă și pe intenția reală de cumpărare.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">04</span><div><h3>SEO și Google Maps</h3><p>Site-ul prinde căutările organice pentru zona ta, iar profilul Google Business aduce telefoane direct de pe hartă.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">05</span><div><h3>Producție vizuală</h3><p>Coordonăm randări 3D, foto de șantier, video cu drona și tur virtual 360. Conținut care vinde stilul de viață, nu doar blocul.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">06</span><div><h3>CRM și grila de apartamente</h3><p>Toate lead-urile într-un singur loc, cu status pe fiecare cumpărător și cont pentru fiecare agent. Plus grila apartamentelor pe site, unde clientul vede în timp real ce e liber, ce e rezervat și ce s-a vândut.</p></div></div>
+      </div>
+    </div>
+  </section>
 
-      <div class="dev-portfolio__grid rv rv-d2">
-        <a href="/portofoliu/" class="dev-folio">
-          <div class="dev-folio__img">
-            <img src="/media/vlaicu-placeholder.avif" alt="Website-ul cartierului rezidențial Vlaicu87, proiect de marketing imobiliar realizat de Visience" loading="lazy">
-          </div>
-          <div class="dev-folio__body">
-            <h3>Vlaicu87 — cartier &amp; parc</h3>
-            <p>Branding de ansamblu, website și campanii Google &amp; Meta pentru un cartier de case cu parc propriu.</p>
-            <span class="dev-folio__stat">Website, branding și sistem de preluare a cererilor</span>
-          </div>
+  <section class="br-sec br-sec--cream" id="crm">
+    <div class="wrap">
+      <div class="br-h rv">
+        <h2>Toate lead-urile într-un singur loc</h2>
+        <p>Cel mai des, lead-urile se pierd nu pentru că sunt puține, ci pentru că sunt împrăștiate: unele pe e-mail, unele pe WhatsApp, unele pe telefon, unele pe Facebook. Le adunăm pe toate într-un singur sistem, cu notificare instantanee la vânzări.</p>
+      </div>
+      <div class="br-list rv rv-d2">
+        <div class="br-list__i"><span class="br-list__n">01</span><div><h3>Grila de apartamente, live pe site</h3><p>Fiecare apartament e marcat ca disponibil, rezervat sau vândut, iar grila se actualizează în timp real. Cumpărătorul vede pe loc ce mai e liber, iar tu nu mai răspunzi de zece ori la aceeași întrebare.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">02</span><div><h3>Vezi de unde vine fiecare cumpărător</h3><p>Vezi ce canal de reclamă îți aduce vânzări reale, nu doar formulare completate. Fiecare lead vine cu pagina de intrare, butonul apăsat și sursa vizitei.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">03</span><div><h3>Se leagă de echipa ta de vânzări</h3><p>Cont separat pentru fiecare agent, status pe fiecare cumpărător și raport lunar. Se poate lega și de agenția parteneră, cu predarea lead-urilor și măsurare separată pe fiecare canal.</p></div></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="br-sec" id="proiecte">
+    <div class="wrap">
+      <div class="br-h rv">
+        <h2>Experiență reală în domeniul imobiliar</h2>
+        <p>Nu învățăm meserie pe proiectul tău. Am dus deja ansambluri și cartiere de la lansare la vânzare, cu brand, website, campanii și conținut care aduc cumpărători. Apasă pe oricare ca să vezi ce am făcut acolo.</p>
+      </div>
+      <div class="br-proj rv rv-d2">
+        <a class="br-proj__c" href="/proiecte/cameo-residence/">
+          <span class="br-proj__img"><img src="/media/tiles/v2/cameo-residence.avif" alt="Cameo Residence — proiect Visience" width="720" height="900" loading="lazy"></span>
+          <span class="br-proj__b">
+            <span class="br-proj__n">Cameo Residence</span>
+            <span class="br-proj__p">Logo, website cu pagini per apartament, social media și campanii Meta.</span>
+            <span class="br-proj__m">Vezi proiectul →</span>
+          </span>
         </a>
-        <a href="/portofoliu/" class="dev-folio">
-          <div class="dev-folio__img">
-            <img src="/media/cameo-placeholder.avif" alt="Website-ul ansamblului de apartamente Cameo, promovare pentru dezvoltator imobiliar" loading="lazy">
-          </div>
-          <div class="dev-folio__body">
-            <h3>Cameo — apartamente moderne</h3>
-            <p>Website cu pagini pe tipologii de apartamente și campanii de lead generation pentru un ansamblu rezidențial.</p>
-            <span class="dev-folio__stat">Identitate, materiale de vânzare și conținut social</span>
-          </div>
+        <a class="br-proj__c" href="/proiecte/vlaicu87/">
+          <span class="br-proj__img"><img src="/media/tiles/v2/vlaicu87.avif" alt="Vlaicu87 — proiect Visience" width="720" height="900" loading="lazy"></span>
+          <span class="br-proj__b">
+            <span class="br-proj__n">Vlaicu87</span>
+            <span class="br-proj__p">Cartier de case cu parc propriu. Branding de ansamblu și website.</span>
+            <span class="br-proj__m">Vezi proiectul →</span>
+          </span>
         </a>
-        <div class="dev-folio dev-folio--cta">
-          <h3>Următorul ansamblu<br>poate fi al tău.</h3>
-          <p>Spune-ne unde construiești și ce vinzi. Îți arătăm planul de marketing înainte să semnezi ceva.</p>
-          <a href="#contact" class="btn btn-solid">Solicită propunere →</a>
-        </div>
-      </div>
-
-      <div class="rv rv-d2" style="margin-top:28px">
-        <a href="/portofoliu/" class="btn btn-ghost">Vezi portofoliul complet →</a>
-      </div>
-    </div>
-  </section>
-
-
-  <section class="dev-services">
-    <div class="wrap">
-      <div class="dev-section__head rv">
-        <h2 class="dd dd-lg">Ecosistemul complet<br>pentru un cartier care se vinde.</h2>
-        <p class="body-lg">Toate serviciile de marketing imobiliar sub un singur acoperiș: de la numele ansamblului până la raportul lunar de lead-uri.</p>
-      </div>
-
-      <div class="dev-services__grid rv rv-d2">
-        <div class="dev-svc">
-          <span class="dev-svc__num">01</span>
-          <i class="fa-solid fa-globe dev-svc__ico"></i>
-          <h3>Website ansamblu</h3>
-          <p>Pagini pentru concept, planuri, zonă, dotări, materiale. Loading rapid, copy convingător, SEO tehnic.</p>
-        </div>
-        <div class="dev-svc">
-          <span class="dev-svc__num">02</span>
-          <i class="fa-solid fa-house dev-svc__ico"></i>
-          <h3>Pagini produs apartamente</h3>
-          <p>O pagină dedicată per tip apartament/casă: planuri, randări 3D, dotări, preț, formular dedicat.</p>
-        </div>
-        <div class="dev-svc">
-          <span class="dev-svc__num">03</span>
-          <i class="fa-solid fa-palette dev-svc__ico"></i>
-          <h3>Branding ansamblu</h3>
-          <p>Nume, logo, paletă, tipografie, brand book. Identitate consistentă de la primul afiș la materialul de șantier.</p>
-        </div>
-        <div class="dev-svc">
-          <span class="dev-svc__num">04</span>
-          <i class="fa-solid fa-bullhorn dev-svc__ico"></i>
-          <h3>Campanii Google &amp; Meta</h3>
-          <p>Generare de lead-uri prin Google Search, Display, YouTube, Facebook, Instagram. Targetare precisă, raportare lunară.</p>
-        </div>
-        <div class="dev-svc">
-          <span class="dev-svc__num">05</span>
-          <i class="fa-solid fa-camera dev-svc__ico"></i>
-          <h3>Producție vizuală</h3>
-          <p>Coordonare 3D randări, foto șantier, video drone, virtual tour 360. Conținut care vinde — nu doar ilustrează.</p>
-        </div>
-        <div class="dev-svc">
-          <span class="dev-svc__num">06</span>
-          <i class="fa-solid fa-chart-pie dev-svc__ico"></i>
-          <h3>CRM &amp; integrări</h3>
-          <p>Conectăm formularele cu Trello, Notion, HubSpot. Notificări instant pe WhatsApp/email pentru vânzători.</p>
-        </div>
+        <a class="br-proj__c" href="/proiecte/evergreen-towers/">
+          <span class="br-proj__img"><img src="/media/tiles/v2/evergreen-towers.avif" alt="Evergreen Towers — proiect Visience" width="720" height="900" loading="lazy"></span>
+          <span class="br-proj__b">
+            <span class="br-proj__n">Evergreen Towers</span>
+            <span class="br-proj__p">Website, prezență online și campanii de generare de lead-uri.</span>
+            <span class="br-proj__m">Vezi proiectul →</span>
+          </span>
+        </a>
+        <a class="br-proj__c" href="/proiecte/lapis-residence/">
+          <span class="br-proj__img"><img src="/media/tiles/v2/lapis-residence.avif" alt="Lapis Residence — proiect Visience" width="720" height="900" loading="lazy"></span>
+          <span class="br-proj__b">
+            <span class="br-proj__n">Lapis Residence</span>
+            <span class="br-proj__p">Campanii Meta pentru vânzarea apartamentelor din Galata.</span>
+            <span class="br-proj__m">Vezi proiectul →</span>
+          </span>
+        </a>
+        <a class="br-proj__c" href="/proiecte/grand-beetle/">
+          <span class="br-proj__img"><img src="/media/tiles/v2/grand-beetle.avif" alt="Grand Beetle — proiect Visience" width="720" height="900" loading="lazy"></span>
+          <span class="br-proj__b">
+            <span class="br-proj__n">Grand Beetle</span>
+            <span class="br-proj__p">Identitate și website pentru un ansamblu nou din Iași.</span>
+            <span class="br-proj__m">Vezi proiectul →</span>
+          </span>
+        </a>
+        <a class="br-proj__c" href="/proiecte/alfa-park-residence/">
+          <span class="br-proj__img"><img src="/media/tiles/v2/alfa-park-residence.avif" alt="Alfa Park Residence — proiect Visience" width="720" height="900" loading="lazy"></span>
+          <span class="br-proj__b">
+            <span class="br-proj__n">Alfa Park Residence</span>
+            <span class="br-proj__p">Website pentru vânzarea unităților, la Botoșani.</span>
+            <span class="br-proj__m">Vezi proiectul →</span>
+          </span>
+        </a>
+        <a class="br-proj__c" href="/proiecte/picolina/">
+          <span class="br-proj__img"><img src="/media/tiles/v2/picolina.avif" alt="Picolina Bucium — proiect Visience" width="720" height="900" loading="lazy"></span>
+          <span class="br-proj__b">
+            <span class="br-proj__n">Picolina Bucium</span>
+            <span class="br-proj__p">Case și blocuri: brand, site, campanii și materiale de vânzare.</span>
+            <span class="br-proj__m">Vezi proiectul →</span>
+          </span>
+        </a>
+        <a class="br-proj__c" href="/proiecte/armur-design/">
+          <span class="br-proj__img"><img src="/media/tiles/v2/armur-design.avif" alt="Armur Design — proiect Visience" width="720" height="900" loading="lazy"></span>
+          <span class="br-proj__b">
+            <span class="br-proj__n">Armur Design</span>
+            <span class="br-proj__p">Amenajări și construcții, cu ansamblul rezidențial Galata.</span>
+            <span class="br-proj__m">Vezi proiectul →</span>
+          </span>
+        </a>
+        <a class="br-proj__c" href="/proiecte/4biz-properties/">
+          <span class="br-proj__img"><img src="/media/tiles/v2/4biz-properties.avif" alt="4Biz Properties — proiect Visience" width="720" height="900" loading="lazy"></span>
+          <span class="br-proj__b">
+            <span class="br-proj__n">4Biz Properties</span>
+            <span class="br-proj__p">Consultanță imobiliară comercială: site, identitate și campanii.</span>
+            <span class="br-proj__m">Vezi proiectul →</span>
+          </span>
+        </a>
       </div>
     </div>
   </section>
 
-
-<style>
-.dev-step__cta {
-  display: inline-flex; align-items: center; gap: 6px; margin-top: 16px;
-  font-family: var(--f-m); font-size: 13px; font-weight: 500;
-  color: var(--acc-deep); text-decoration: none;
-  padding: 9px 16px; border-radius: 100px; background: rgba(155,195,26,.12);
-  transition: background .2s, transform .2s;
-}
-.dev-step__cta:hover { background: rgba(155,195,26,.2); }
-.dev-step__cta span { transition: transform .22s; }
-.dev-step__cta:hover span { transform: translateX(3px); }
-.dev-az {
-  background: var(--cream); border-radius: 16px;
-  padding: 30px 32px; margin-bottom: 34px;
-  display: flex; align-items: center; justify-content: space-between;
-  gap: 26px; flex-wrap: wrap;
-}
-.dev-az__t { font-family: var(--f-d); font-weight: 700; font-size: 20px; color: var(--ink); margin: 0 0 6px; }
-.dev-az__p { font-size: 15px; line-height: 1.6; color: var(--ink2); margin: 0; max-width: 62ch; }
-.dev-az__p strong { color: var(--ink); }
-@media (max-width: 700px) { .dev-az { padding: 24px 20px; } .dev-az .btn { width: 100%; justify-content: center; } }
-</style>
-
-  <section class="dev-process">
+  <section class="br-sec br-sec--ink" id="rezultate">
     <div class="wrap">
-      <div class="dev-section__head rv">
-        <h2 class="dd dd-lg">Trei faze,<br>în ritmul șantierului.</h2>
-        <p class="body-lg">Un ansamblu se vinde în etape, iar fiecare etapă cere altceva: întâi cifre despre zonă, apoi brand, site și lansare, apoi disciplină pe cereri și pe stocul rămas. Le ducem pe toate trei cu aceeași echipă.</p>
+      <div class="br-h rv">
+        <h2>Rezultate, nu promisiuni</h2>
+        <p>Cifrele vin din campanii pe care le-am dus cap-coadă: pagină de ofertă, campanii Google și Meta, lead-uri adunate într-un singur tabel și predate echipei de vânzări.</p>
       </div>
-
-      <div class="dev-process__list dev-process__list--faze rv rv-d2">
-        <article class="dev-step">
-          <div class="dev-step__n">01</div>
-          <div class="dev-step__time">Înainte să fixezi tipologiile și prețurile</div>
-          <h3>Analiza zonei și poziționarea</h3>
-          <p>Ne uităm la ce se construiește în jur, la ce cere cumpărătorul local și la ce lipsește din stocul concurent. Din analiza asta ies poziționarea ansamblului, profilul cumpărătorului și mesajele pe care le folosești în anii următori. Livrăm un document scris, cu sursele la vedere și cu ipotezele declarate ca ipoteze.</p>
-          <ul class="dev-step__liv">
-            <li>Harta proiectelor din zonă: stoc rămas, tipologii, dotări, prețuri afișate</li>
-            <li>Profilul cumpărătorului pe segmente: prima casă, upgrade, investiție, diaspora</li>
-            <li>Poziționarea ansamblului și mesajele-cheie, formulate separat pe fiecare segment</li>
-            <li>Numele ansamblului, teritoriul vizual și direcția de brand</li>
-            <li>Planul de marketing pe etape, cu buget și calendar pe canale</li>
-          </ul>
-          <a href="/analiza-de-zona/" class="dev-step__cta">Ce conține analiza de zonă și cum o facem <span aria-hidden="true">→</span></a>
-        </article>
-        <article class="dev-step">
-          <div class="dev-step__n">02</div>
-          <div class="dev-step__time">De la autorizație la primele vizionări</div>
-          <h3>Lansarea proiectului</h3>
-          <p>Construim tot ce vede cumpărătorul: identitatea ansamblului, site-ul cu pagini pe tipologii și disponibilitate, materialele echipei de vânzări și campaniile care aduc primele cereri. Începem cu o listă de așteptare înainte de anunțul public de prețuri, ca la deschidere să existe deja oameni care așteaptă.</p>
-          <ul class="dev-step__liv">
-            <li>Brand de ansamblu: logo, paletă, tipografie, aplicare pe panouri și materiale tipărite</li>
-            <li>Site de proiect cu pagini pe tipologii, planuri, stadiul lucrărilor și formular legat de CRM</li>
-            <li>Listă de așteptare și campanie de pre-lansare, înainte de comunicarea publică a prețurilor</li>
-            <li>Campanii Google și Meta cu urmărirea conversiilor și sursa marcată pe fiecare cerere</li>
-            <li>Pachetul echipei de vânzări: prezentare, răspunsuri la întrebările frecvente, materiale pentru agențiile partenere</li>
-            <li>Conturile de reclame, analytics și domeniul se deschid pe firma ta, noi lucrăm cu acces de administrator</li>
-          </ul>
-        </article>
-        <article class="dev-step">
-          <div class="dev-step__n">03</div>
-          <div class="dev-step__time">Din prima lună de vânzare activă</div>
-          <h3>Vânzarea, lună de lună</h3>
-          <p>Lunar ne uităm la ce s-a întâmplat cu fiecare cerere: câți au ajuns la vizionare, ce tipologii se mișcă, ce mesaj aduce oameni care revin. Mutăm bugetul spre ce funcționează și schimbăm mesajul pe stocul rămas, cu campanii separate pentru tipologiile mai greu de vândut.</p>
-          <ul class="dev-step__liv">
-            <li>Definiția scrisă a cererii calificate și formularul care o aplică</li>
-            <li>Raport lunar pe canal: cereri, vizionări și costul pe fiecare treaptă; rezervările intră dacă echipa ta ne dă datele</li>
-            <li>Campanii separate pe stocul rămas și pe tipologiile care se mișcă mai lent</li>
-            <li>Remarketing și e-mailuri legate de stadiul lucrărilor, pentru cei care încă decid</li>
-            <li>Discuție lunară cu echipa de vânzări, cu ce am auzit de la cumpărători în luna respectivă</li>
-            <li>Pregătirea fazei următoare: materiale actualizate și listă de așteptare nouă</li>
-          </ul>
-        </article>
-      </div>
-    </div>
-  </section>
-
-
-  <section class="dev-channels">
-    <div class="wrap">
-      <div class="dev-section__head rv">
-        <h2 class="dd dd-lg">Strategie multi-canal:<br><span class="hi">unde apare ansamblul tău.</span></h2>
-        <p class="body-lg">Promovarea unui proiect imobiliar nu înseamnă doar reclame. Combinăm canalele după stadiul construcției și mutăm bugetul lunar acolo unde costul per lead e cel mai mic.</p>
-      </div>
-
-      <div class="dev-pain__grid rv rv-d2">
-        <div class="dev-pain-card">
-          <div class="dev-pain-card__ico"><i class="fa-brands fa-google"></i></div>
-          <h3>Google Ads</h3>
-          <p>Căutări cu intenție reală: „apartamente noi" plus zona ta. Search pentru cerere existentă, Display și YouTube pentru notorietate la lansare.</p>
-        </div>
-        <div class="dev-pain-card">
-          <div class="dev-pain-card__ico"><i class="fa-brands fa-meta"></i></div>
-          <h3>Meta Ads</h3>
-          <p>Facebook și Instagram cu targetare pe zonă și interese de cumpărare. Formulare instant și creative care arată viața din cartier, nu doar blocul.</p>
-        </div>
-        <div class="dev-pain-card">
-          <div class="dev-pain-card__ico"><i class="fa-solid fa-arrows-rotate"></i></div>
-          <h3>Remarketing</h3>
-          <p>Un apartament se decide în luni, nu în zile. Rămânem în fața cumpărătorului cu mesaje pe etape, până revine să programeze vizionarea.</p>
-        </div>
-        <div class="dev-pain-card">
-          <div class="dev-pain-card__ico"><i class="fa-solid fa-envelope-open-text"></i></div>
-          <h3>Email &amp; listă de așteptare</h3>
-          <p>Lead-urile care nu cumpără azi nu sunt pierdute. Newsletter cu stadiul lucrărilor și oferte de lansare pentru fazele următoare.</p>
-        </div>
-        <div class="dev-pain-card">
-          <div class="dev-pain-card__ico"><i class="fa-solid fa-building-user"></i></div>
-          <h3>Portaluri &amp; agenții imobiliare</h3>
-          <p>Coordonăm listările pe Imobiliare.ro și Storia și predăm lead-urile către agenții tăi, cu tracking separat pe fiecare canal.</p>
-        </div>
-        <div class="dev-pain-card">
-          <div class="dev-pain-card__ico"><i class="fa-solid fa-map-location-dot"></i></div>
-          <h3>SEO &amp; Google Maps</h3>
-          <p>Site-ul prinde căutările organice pentru zona ta, iar profilul Google Business aduce telefoane direct de pe hartă.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-
-  <section class="dev-results">
-    <div class="wrap">
-      <div class="dev-section__head rv">
-        <h2 class="dd dd-lg">Ce vezi în raport<br><span class="hi">lună de lună.</span></h2>
-      </div>
-
-      <div class="dev-results__grid rv rv-d2">
-        <div class="dev-result">
-          <div class="dev-result__num dev-result__num--txt">Cost / lead</div>
-          <div class="dev-result__lbl">Cât te costă un om care îți lasă datele</div>
-        </div>
-        <div class="dev-result">
-          <div class="dev-result__num dev-result__num--txt">Sursa</div>
-          <div class="dev-result__lbl">Din ce pagină și ce buton a venit fiecare cerere</div>
-        </div>
-        <div class="dev-result">
-          <div class="dev-result__num dev-result__num--txt">Lead → vizionare</div>
-          <div class="dev-result__lbl">Câți dintre ei ajung efectiv la o vizionare</div>
-        </div>
-        <div class="dev-result">
-          <div class="dev-result__num dev-result__num--txt">Cost / vânzare</div>
-          <div class="dev-result__lbl">Cifra finală, raportată la apartamentul vândut</div>
-        </div>
-      </div>
-
-      <p class="dev-results__note rv">Cifrele astea sunt ale tale, din conturile tale de Google și Meta — nu capturi de ecran alese de noi. Rezultatele proiectelor la care lucrăm acum le arătăm la cerere, cu acordul clientului.</p>
-    </div>
-  </section>
-
-
-  <section class="dev-pricing">
-    <div class="wrap">
-      <div class="dev-section__head rv">
-        <h2 class="dd dd-lg">Pachete pentru dezvoltatori</h2>
-        <p class="body-lg">Prețuri orientative — finale după brief detaliat. Bugetul de Ads (Google + Meta) se plătește direct la platforme și nu e inclus.</p>
-      </div>
-
-      <div class="dev-az rv">
-        <div>
-          <p class="dev-az__t">Înainte de orice pachet: analiza de zonă</p>
-          <p class="dev-az__p">Ce tipologii construiești, la ce preț listezi și când începi promovarea — cu cifre din zona ta, într-un document scris. <strong>800€, o singură dată</strong>, și se scad integral din pachetul de lansare dacă mergem mai departe împreună.</p>
-        </div>
-        <a href="/analiza-de-zona/" class="btn btn-solid">Vezi ce conține <span aria-hidden="true">→</span></a>
-      </div>
-
-      <div class="dev-pkg-grid rv rv-d2">
-
-        <article class="dev-pkg">
-          <div class="dev-pkg__tag">Esențial</div>
-          <h3 class="dev-pkg__h">Brand &amp; Site</h3>
-          <div class="dev-pkg__price">
-            <span class="dev-pkg__from">de la</span>
-            <span class="dev-pkg__amt">3.500€</span>
-            <span class="dev-pkg__unit">one-time</span>
+      <div class="br-rez rv rv-d2">
+        <div class="br-rez__c">
+          <p class="br-rez__n">Evergreen Towers</p><p class="br-rez__u">evergreentowers.ro/oferta</p>
+          <div class="br-rez__cif">
+            <div><b class="br-rez__v">6.600+</b><span class="br-rez__e">lead-uri în 3 ani</span></div>
+            <div><b class="br-rez__v">400+</b><span class="br-rez__e">apartamente vândute în 3 ani</span></div>
           </div>
-          <p class="dev-pkg__desc">Pentru ansambluri mici (sub 30 unități) care vor o prezență online curată.</p>
-          <ul class="dev-pkg__list">
-            <li>Branding starter (logo + paletă)</li>
-            <li>Website 5–7 pagini</li>
-            <li>1 pagină tip apartament</li>
-            <li>SEO tehnic de bază</li>
-            <li>Google Analytics + Search Console</li>
-          </ul>
-          <a href="#contact" class="dev-pkg__cta">Solicită ofertă →</a>
-        </article>
-
-        <article class="dev-pkg dev-pkg--featured">
-          <div class="dev-pkg__tag">Cel mai ales</div>
-          <h3 class="dev-pkg__h">Standard</h3>
-          <div class="dev-pkg__price">
-            <span class="dev-pkg__from">de la</span>
-            <span class="dev-pkg__amt">6.500€</span>
-            <span class="dev-pkg__unit">+ 1.500€/lună</span>
+        </div>
+        <div class="br-rez__c">
+          <p class="br-rez__n">Picolina Bucium</p><p class="br-rez__u">picolina.ro/oferta-blocuri</p>
+          <div class="br-rez__cif"><div><b class="br-rez__v">1.000+</b><span class="br-rez__e">lead-uri în 5 luni</span></div></div>
+        </div>
+        <div class="br-rez__c">
+          <p class="br-rez__n">Armur Design</p><p class="br-rez__u">armurdesign.ro/ansamblul-rezidential-galata</p>
+          <div class="br-rez__cif">
+            <div><b class="br-rez__v">600+</b><span class="br-rez__e">lead-uri în 5 luni</span></div>
+            <div><b class="br-rez__v">10</b><span class="br-rez__e">case de 350.000 € vândute</span></div>
           </div>
-          <p class="dev-pkg__desc">Pentru cartiere medii (30–80 unități) cu obiective clare de vânzări.</p>
-          <ul class="dev-pkg__list">
-            <li>Branding complet + brand book</li>
-            <li>Website 10–15 pagini</li>
-            <li>Pagini dedicate per tip apartament</li>
-            <li>Campanii Google + Meta active</li>
-            <li>CRM integrat (Trello/Notion)</li>
-            <li>Raport lunar performanță</li>
-          </ul>
-          <a href="#contact" class="dev-pkg__cta">Solicită ofertă →</a>
-        </article>
+        </div>
+      </div>
+      <p class="br-nota" style="color:rgba(255,255,255,.5)">Evergreen Towers și Picolina au mers în colaborare cu Vistory.</p>
+    </div>
+  </section>
 
-        <article class="dev-pkg">
-          <div class="dev-pkg__tag">Premium</div>
-          <h3 class="dev-pkg__h">Ecosistem Complet</h3>
-          <div class="dev-pkg__price">
-            <span class="dev-pkg__from">de la</span>
-            <span class="dev-pkg__amt">12.000€</span>
-            <span class="dev-pkg__unit">+ 4.500€/lună</span>
-          </div>
-          <p class="dev-pkg__desc">Pentru ansambluri mari (80+ unități) sau dezvoltatori cu mai multe proiecte.</p>
-          <ul class="dev-pkg__list">
+  <section class="br-sec">
+    <div class="wrap">
+      <div class="br-h rv">
+        <h2>Cum arată pagina care aduce lead-urile</h2>
+        <p>Campania duce omul într-un singur loc, iar acolo se decide totul. Structura de mai jos e cea care a adus cele 600 de lead-uri pentru Armur Design: exact atâtea secțiuni cât să răspundă la toate întrebările, în ordinea în care apar.</p>
+      </div>
+      <div class="br-pasi rv rv-d2">
+        <div class="br-pasi__i"><span class="br-pasi__t">Prezentare</span><p class="br-pasi__p">Numele ansamblului, locația și cele patru argumente care contează. Omul știe în trei secunde dacă e pentru el.</p></div>
+        <div class="br-pasi__i"><span class="br-pasi__t">Concept</span><p class="br-pasi__p">Ce fel de locuință e și pentru cine. Aici se face diferența față de anunțurile de pe portaluri.</p></div>
+        <div class="br-pasi__i"><span class="br-pasi__t">Buton de ofertă</span><p class="br-pasi__p">Aceeași cerere se repetă pe tot parcursul paginii, ca omul să nu fie nevoit să caute unde lasă datele.</p></div>
+        <div class="br-pasi__i"><span class="br-pasi__t">Detalii și planuri</span><p class="br-pasi__p">Suprafețe, compartimentare, plan de nivel. Ce întreabă oricine la primul telefon.</p></div>
+        <div class="br-pasi__i"><span class="br-pasi__t">Materiale și dotări</span><p class="br-pasi__p">Structură, fațadă, instalații, finisaje. Secțiunea care taie lead-urile nepotrivite și îi convinge pe cei serioși.</p></div>
+        <div class="br-pasi__i"><span class="br-pasi__t">Locație pe hartă</span><p class="br-pasi__p">Distanțe reale față de școli, magazine și centru.</p></div>
+        <div class="br-pasi__i"><span class="br-pasi__t">Formular de contact</span><p class="br-pasi__p">Pe aceeași pagină, scurt, cu datele care ajung direct în CRM.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="br-sec br-sec--cream" id="proces">
+    <div class="wrap">
+      <div class="br-h rv">
+        <h2>Cum lucrăm, de la brief la primele lead-uri</h2>
+        <p>Fiecare etapă are livrabilele ei și știi mereu unde suntem și ce urmează. Ritmul îl dăm după calendarul tău de execuție.</p>
+      </div>
+      <div class="br-list rv rv-d2">
+        <div class="br-list__i"><span class="br-list__n">01</span><div><h3>Analiză și brief</h3><p>Înțelegem ansamblul, publicul-țintă și punctele forte. Analizăm concurența locală și ce funcționează deja în piață.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">02</span><div><h3>Strategie și concept</h3><p>Definim mesajul, poziționarea și structura site-ului. Decidem ce campanii pornim întâi și cu ce ofertă.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">03</span><div><h3>Branding, dacă e nevoie</h3><p>Logo, paletă, brand book. Identitate aplicată consecvent pe site, print, social media și materiale de șantier.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">04</span><div><h3>Website și pagini de apartamente</h3><p>Design, dezvoltare, texte, măsurare. Lansare cu toate paginile complete și optimizate pentru căutări.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">05</span><div><h3>Configurare campanii</h3><p>Configurăm Google Ads, Meta Ads și măsurarea conversiilor. Pornim cu bugete de test, ca să vedem ce mesaj și ce zonă funcționează.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">06</span><div><h3>Optimizare lunară</h3><p>Raport lunar și optimizare continuă. Ajustăm anunțurile săptămânal și paginile lunar.</p></div></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="br-sec">
+    <div class="wrap">
+      <div class="br-h rv">
+        <h2>Ai deja un site? Ne pliem pe ce ai</h2>
+        <p>Nu trebuie să arunci tot ce ai construit. Pornim de la site-ul existent: îl reparăm, îl restructurăm și îl conectăm la campanii, ca să înceapă să aducă oameni care chiar vor un apartament și sunt aproape de decizie.</p>
+      </div>
+      <div class="br-list rv rv-d2">
+        <div class="br-list__i"><span class="br-list__n">01</span><div><h3>Viteză și experiență pe mobil</h3><p>Cei mai mulți cumpărători caută de pe telefon. Un site lent sau confuz pierde lead-uri pe care le-ai plătit deja cu bani de reclamă.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">02</span><div><h3>Pagini de apartamente și formulare</h3><p>Adăugăm o pagină dedicată pentru fiecare tipologie, cu planuri, preț și un formular simplu, la care oamenii chiar răspund.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">03</span><div><h3>Măsurare corectă a conversiilor</h3><p>Configurăm evenimente de conversie pe formulare, telefon și WhatsApp. Fără măsurare, campaniile merg în orb.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">04</span><div><h3>Mesaj și poziționare</h3><p>Rescriem textele ca să vorbească limbajul cumpărătorului: zonă, stil de viață, opțiuni de plată.</p></div></div>
+      </div>
+      <p class="br-nota">Începem cu o verificare gratuită a site-ului: ne uităm la viteză, structură, mesaj și măsurare, apoi îți spunem sincer ce merită reparat, ce merită refăcut și ce aduce cel mai repede lead-uri. Fără obligații. <a href="/contact/">Cere verificarea</a>.</p>
+    </div>
+  </section>
+
+  <section class="br-sec br-sec--cream" id="preturi">
+    <div class="wrap">
+      <div class="br-h rv">
+        <h2>Prețuri transparente, fără surprize</h2>
+        <p>Pentru un ansamblu de la zero: brand, website și campanii. Prețuri orientative, finalizate după un brief. Sumele sunt onorariul nostru de lucru; bugetul cu care cumperi spațiul de reclamă se plătește separat, direct către Google și Meta.</p>
+      </div>
+      <div class="br-pk rv rv-d2">
+        <div class="br-pk__c">
+          <p class="br-pk__tag">Start</p>
+          <p class="br-pk__n">Sub 30 de unități</p>
+          <p class="br-pk__d">Tot ce trebuie ca să pornești vânzarea, fără abonament mare lunar.</p>
+          <p class="br-pk__pret">3.500€</p>
+          <p class="br-pk__sub">cost unic, plus 500€/lună pentru campanii</p>
+          <ul class="br-pk__l">
+            <li>Branding complet: 3 variante de logo, paletă, brand book</li>
+            <li>Website de 10-15 pagini, optimizat pentru căutări</li>
+            <li>Pagină dedicată pentru fiecare tip de apartament</li>
+            <li>CRM inclus și grila de apartamente pe site</li>
+            <li>Configurarea campaniilor și măsurarea conversiilor</li>
+            <li>Analytics, Search Console și profil Google Business</li>
+          </ul>
+          <a href="/contact/" class="btn btn-ghost">Cere ofertă</a>
+        </div>
+        <div class="br-pk__c br-pk__c--rec">
+          <p class="br-pk__tag">Recomandat</p>
+          <p class="br-pk__n">Standard</p>
+          <p class="br-pk__d">Pentru cartiere medii, 30-80 de unități, cu obiective clare de vânzări.</p>
+          <p class="br-pk__pret">6.500€</p>
+          <p class="br-pk__sub">cost unic, plus 1.500€/lună pentru campanii</p>
+          <ul class="br-pk__l">
+            <li>Branding premium: brand book complet și animație de logo</li>
+            <li>Website premium: 3 variante de design, animații, copywriting</li>
+            <li>Pagini cu planuri și prețuri pentru fiecare tipologie</li>
+            <li>CRM și grila de apartamente</li>
+            <li>Strategie și plan de campanii pe toată perioada de vânzare</li>
+            <li>Remarketing și automatizări</li>
+          </ul>
+          <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+        </div>
+        <div class="br-pk__c">
+          <p class="br-pk__tag">Ecosistem complet</p>
+          <p class="br-pk__n">Peste 80 de unități</p>
+          <p class="br-pk__d">Pentru ansambluri mari sau dezvoltatori cu mai multe proiecte.</p>
+          <p class="br-pk__pret">12.000€</p>
+          <p class="br-pk__sub">cost unic, plus 4.500€/lună pentru campanii</p>
+          <ul class="br-pk__l">
             <li>Tot ce e în Standard, plus:</li>
-            <li>Coordonare producție foto/video/3D</li>
-            <li>Virtual tour 360</li>
-            <li>Social media management</li>
-            <li>Newsletter automatizat</li>
-            <li>A/B testing continuu</li>
-            <li>Account manager dedicat</li>
+            <li>Coordonare producție foto, video și randări 3D</li>
+            <li>Tur virtual 360 al apartamentelor</li>
+            <li>Configurator de apartamente, cu filtrare</li>
+            <li>Website în două limbi</li>
+            <li>Pachet complet de materiale print</li>
           </ul>
-          <a href="#contact" class="dev-pkg__cta">Solicită ofertă →</a>
-        </article>
-
+          <a href="/contact/" class="btn btn-ghost">Cere ofertă</a>
+        </div>
       </div>
+      <p class="br-nota">Bugetul de reclame nu este inclus. Onorariul lunar acoperă munca noastră: construcția campaniilor, textele, creativele, optimizarea și raportul. Banii cu care se cumpără afișările se plătesc direct către Google și Meta, din cardul tău, și rămân integral la ei. Pentru un ansamblu mediu recomandăm de la 1.500-2.500€ pe lună.</p>
     </div>
   </section>
 
-
-  <section class="dev-guides">
+  <section class="br-sec">
     <div class="wrap">
-      <div class="dev-section__head rv">
-        <h2 class="dd dd-lg">Ghiduri scrise pentru dezvoltatori</h2>
-        <p class="dev-section__sub">Răspunsurile lungi la întrebările pe care le primim înainte de orice contract.</p>
+      <div class="br-h rv">
+        <h2>Ai deja site? Plătești doar campaniile</h2>
+        <p>Nu reconstruim nimic. Pornim campaniile pe site-ul tău și îl ținem în formă cât timp rulează reclamele, ca banii de publicitate să nu se piardă pe o pagină care nu răspunde la întrebările cumpărătorului.</p>
       </div>
-      <div class="dev-guides__grid rv">
-        <a class="dev-guide" href="/blog/cat-costa-promovarea-unui-ansamblu-rezidential/">
-          <span class="dev-guide__t">Cât costă promovarea unui ansamblu rezidențial?</span>
-          <span class="dev-guide__d">Cele 3 bugete separate, regula 1–3% din valoarea proiectului și costul real per apartament vândut.</span>
-          <span class="dev-guide__arr">Citește ghidul →</span>
-        </a>
-        <a class="dev-guide" href="/blog/cand-incepi-marketingul-unui-proiect-imobiliar/">
-          <span class="dev-guide__t">Când începi marketingul unui proiect imobiliar?</span>
-          <span class="dev-guide__d">Calendarul pe etape, de la autorizație la predare — și de ce lista de așteptare se face înainte de șantier.</span>
-          <span class="dev-guide__arr">Citește ghidul →</span>
-        </a>
-        <a class="dev-guide" href="/blog/cum-vinzi-apartamente-inainte-de-finalizarea-constructiei/">
-          <span class="dev-guide__t">Cum vinzi apartamente înainte de finalizare?</span>
-          <span class="dev-guide__d">Randări cu prețuri afișate, progresul șantierului arătat lunar și rezervarea cu avans mic.</span>
-          <span class="dev-guide__arr">Citește ghidul →</span>
-        </a>
+      <div class="br-pk rv rv-d2" style="grid-template-columns:1fr">
+        <div class="br-pk__c br-pk__c--rec" style="max-width:520px">
+          <p class="br-pk__tag">Recomandat</p>
+          <p class="br-pk__n">Campanii gestionate</p>
+          <p class="br-pk__d">Tot ce trebuie ca să meargă reclamele, luat împreună. Separat ar fi 940€ pe lună.</p>
+          <p class="br-pk__pret">850€<span style="font-size:15px;font-weight:400">/lună</span></p>
+          <p class="br-pk__sub">plus 400€ o singură dată, la configurare</p>
+          <ul class="br-pk__l">
+            <li>Management campanii, Google și Meta</li>
+            <li>Reparații și optimizări pe site, 4 ore incluse</li>
+            <li>Optimizare săptămânală a campaniilor</li>
+            <li>Măsurarea conversiilor și raport lunar</li>
+          </ul>
+          <a href="/contact/" class="btn btn-solid">Pornește campaniile</a>
+        </div>
       </div>
+
+      <h3 class="br-h" style="margin:44px 0 18px;font-family:var(--f-d);font-size:20px;font-weight:700">Sau iei doar ce îți trebuie</h3>
+      <div class="br-tar rv">
+        <div class="br-tar__i"><span class="br-tar__n">Management campanii, o platformă<small>Doar Google sau doar Meta.</small></span><span class="br-tar__p">400€/lună</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Management campanii, ambele platforme<small>Google și Meta, fără întreținerea site-ului.</small></span><span class="br-tar__p">700€/lună</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Configurarea campaniilor și măsurarea conversiilor<small>O singură dată, înainte de prima campanie.</small></span><span class="br-tar__p">400€</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Strategie și plan de campanii<small>Pentru un ansamblu. Fiecare ansamblu în plus: 250€.</small></span><span class="br-tar__p">500€</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Remarketing și automatizări<small>Urmărirea vizitatorilor care n-au lăsat datele, plus e-mailuri automate.</small></span><span class="br-tar__p">600€</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">SEO și Google Maps<small>Vizibilitate organică pentru zona ansamblului.</small></span><span class="br-tar__p">600€/lună</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Social media<small>8 postări pe lună. Cu 15 postări: 450€.</small></span><span class="br-tar__p">300€/lună</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Reparații și optimizări pe site<small>Viteză, formulare, pagini noi.</small></span><span class="br-tar__p">60€/oră</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Pagină de ofertă nouă<small>O pagină dedicată campaniei, cu formular propriu.</small></span><span class="br-tar__p">500€</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Analiză de zonă<small>Înainte de orice pachet. Se scade din pachetul de lansare.</small></span><span class="br-tar__p">800€</span></div>
+      </div>
+      <p class="br-nota">Sumele sunt onorariul nostru și nu includ bugetul de reclamă. Bugetul se pune direct în conturile tale Google Ads și Meta și merge integral la ele. Prețul urcă odată cu numărul de platforme, de ansambluri și de faze promovate în paralel.</p>
     </div>
   </section>
 
-  <section class="dev-faq">
+<section class="dev-faq">
     <div class="wrap">
       <div class="dev-section__head rv">
         <h2 class="dd dd-lg">Ce ne întreabă cel mai des dezvoltatorii</h2>
