@@ -101,7 +101,7 @@
   recalc();
 })();
 </script>
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],["$L3"],"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"hXHsRF-PrZS8oejf5ENCP"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],["$L3"],"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2necdwxZKtTeg3SC-Bji1"}
 3:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3dpbwq9v8sqbu.css","precedence":"next"}]
 4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
 7:null

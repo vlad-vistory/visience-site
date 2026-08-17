@@ -27,7 +27,7 @@ e:I[68027,["/_next/static/chunks/3kwomlxf-1vhf.js","/_next/static/chunks/158myu8
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","marketing-dezvoltatori-imobiliari",""],"q":"","i":false,"f":[[["",{"children":["marketing-dezvoltatori-imobiliari",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/3kwomlxf-1vhf.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"hXHsRF-PrZS8oejf5ENCP"}
+})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","marketing-dezvoltatori-imobiliari",""],"q":"","i":false,"f":[[["",{"children":["marketing-dezvoltatori-imobiliari",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/3kwomlxf-1vhf.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"2necdwxZKtTeg3SC-Bji1"}
 11:I[39756,["/_next/static/chunks/3kwomlxf-1vhf.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 12:I[37457,["/_next/static/chunks/3kwomlxf-1vhf.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 14:I[27961,["/_next/static/chunks/3kwomlxf-1vhf.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
@@ -261,7 +261,7 @@ c:"$W19"
 d:["$","$1","h",{"children":[null,["$","$L1a",null,{"children":"$L1b"}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.Metadata","children":"$L1e"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 20:I[97367,["/_next/static/chunks/3kwomlxf-1vhf.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
-1f:Tffbc,<style>
+1f:T10c27,<style>
 .dev-page { background: var(--cream); }
 
 .dev-section__head {
@@ -1164,14 +1164,40 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0
 @media (prefers-reduced-motion: reduce) { .dev-hero__v { transition: none; } }
 
 /* capturi ale paginii de vanzare */
-.br-shots { display: flex; gap: 18px; flex-wrap: wrap; margin-bottom: 32px; }
-.br-shots figure { margin: 0; width: 220px; }
-.br-shots img { width: 100%; height: auto; display: block; border-radius: 14px; box-shadow: 0 10px 30px rgba(17,16,16,.12); }
-.br-shots figcaption { margin-top: 9px; font-family: var(--f-m); font-size: 11.5px; color: var(--mid); }
+/* anatomia paginii: fiecare bucata explicata, cu bucata de pagina langa ea */
+.br-anat { display: flex; flex-direction: column; gap: 6px; margin-bottom: 34px; }
+.br-anat__r {
+  display: grid; grid-template-columns: 1fr 300px; gap: clamp(28px, 5vw, 70px);
+  align-items: center; padding: 34px 0; border-top: 1px solid rgba(17,16,16,.1);
+}
+.br-anat__r:first-child { border-top: 0; padding-top: 6px; }
+.br-anat__r--inv { grid-template-columns: 300px 1fr; }
+.br-anat__r--inv .br-anat__f { order: -1; }
+.br-anat__n {
+  display: block; font-family: var(--f-m); font-size: 11px; letter-spacing: .16em;
+  color: var(--acc-deep); margin-bottom: 11px;
+}
+.br-anat__t h3 { font-family: var(--f-d); font-weight: 700; font-size: clamp(21px, 2.3vw, 28px); letter-spacing: -.02em; color: var(--ink); margin: 0 0 10px; }
+.br-anat__t p { font-size: 15px; line-height: 1.68; color: var(--ink2); margin: 0; max-width: 46ch; }
+.br-anat__f { margin: 0; }
+.br-anat__f img {
+  display: block; width: 100%; height: auto; border-radius: 12px;
+  box-shadow: 0 16px 44px rgba(17,16,16,.16);
+}
+.br-anat__f figcaption { margin-top: 10px; font-family: var(--f-m); font-size: 11px; color: var(--mid); }
+.br-anat__rest { display: flex; flex-wrap: wrap; gap: 10px 34px; padding-top: 26px; border-top: 1px solid rgba(17,16,16,.1); }
+.br-anat__rest div { max-width: 34ch; }
+.br-anat__rest b { display: block; font-family: var(--f-d); font-weight: 700; font-size: 15px; color: var(--ink); margin-bottom: 5px; }
+.br-anat__rest p { font-size: 14px; line-height: 1.6; color: var(--ink2); margin: 0; }
+@media (max-width: 860px) {
+  .br-anat__r, .br-anat__r--inv { grid-template-columns: 1fr; gap: 22px; padding: 26px 0; }
+  .br-anat__r--inv .br-anat__f { order: 0; }
+  .br-anat__f { max-width: 280px; }
+}
 /* placa mica pe cardul de rezultate */
-.br-rez__pl { display: block; width: 74px; aspect-ratio: 4/5; border-radius: 9px; overflow: hidden; margin-bottom: 14px; }
-.br-rez__pl img { width: 100%; height: 100%; object-fit: cover; display: block; }
-@media (max-width: 640px) { .br-shots figure { width: calc(50% - 9px); } .br-shots figcaption { font-size: 10.5px; } }
+/* pe cardurile de rezultate punem sigla clientului, curata, fara imagine sub ea */
+.br-rez__lg { display: block; margin-bottom: 22px; }
+.br-rez__lg img { display: block; width: auto; height: 34px; max-width: 180px; }
 </style>
 <main class="dev-page">
 
@@ -1307,7 +1333,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0
           </span>
         </a>
         <a class="br-proj__c" href="/proiecte/grand-beetle/">
-          <span class="br-proj__img"><img src="/media/tiles/v2/grand-beetle.avif" alt="Grand Beetle — proiect Visience" width="720" height="900" loading="lazy"></span>
+          <span class="br-proj__img"><img src="/media/tiles/v3/grand-beetle.avif" alt="Grand Beetle — proiect Visience" width="720" height="900" loading="lazy"></span>
           <span class="br-proj__b">
             <span class="br-proj__n">Grand Beetle</span>
             <span class="br-proj__p">Identitate și website pentru un ansamblu nou din Iași.</span>
@@ -1323,7 +1349,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0
           </span>
         </a>
         <a class="br-proj__c" href="/proiecte/picolina/">
-          <span class="br-proj__img"><img src="/media/tiles/v2/picolina.avif" alt="Picolina Bucium — proiect Visience" width="720" height="900" loading="lazy"></span>
+          <span class="br-proj__img"><img src="/media/tiles/v3/picolina.avif" alt="Picolina Bucium — proiect Visience" width="720" height="900" loading="lazy"></span>
           <span class="br-proj__b">
             <span class="br-proj__n">Picolina Bucium</span>
             <span class="br-proj__p">Case și blocuri: brand, site, campanii și materiale de vânzare.</span>
@@ -1331,7 +1357,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0
           </span>
         </a>
         <a class="br-proj__c" href="/proiecte/armur-design/">
-          <span class="br-proj__img"><img src="/media/tiles/v2/armur-design.avif" alt="Armur Design — proiect Visience" width="720" height="900" loading="lazy"></span>
+          <span class="br-proj__img"><img src="/media/tiles/v3/armur-design.avif" alt="Armur Design — proiect Visience" width="720" height="900" loading="lazy"></span>
           <span class="br-proj__b">
             <span class="br-proj__n">Armur Design</span>
             <span class="br-proj__p">Amenajări și construcții, cu ansamblul rezidențial Galata.</span>
@@ -1358,7 +1384,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0
       </div>
       <div class="br-rez rv rv-d2">
         <div class="br-rez__c">
-          <span class="br-rez__pl"><img src="/media/tiles/v2/evergreen-towers.avif" alt="Evergreen Towers" width="720" height="900" loading="lazy"></span>
+          <span class="br-rez__lg"><img src="/media/logo/evergreen-towers-v1.webp" alt="Evergreen Towers" width="370" height="132" loading="lazy"></span>
           <p class="br-rez__n">Evergreen Towers</p><p class="br-rez__u">evergreentowers.ro/oferta</p>
           <div class="br-rez__cif">
             <div><b class="br-rez__v">6.600+</b><span class="br-rez__e">lead-uri în 3 ani</span></div>
@@ -1366,12 +1392,12 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0
           </div>
         </div>
         <div class="br-rez__c">
-          <span class="br-rez__pl"><img src="/media/tiles/v2/picolina.avif" alt="Picolina Bucium" width="720" height="900" loading="lazy"></span>
+          <span class="br-rez__lg"><img src="/media/logo/picolina-v1.webp" alt="Picolina Bucium" width="439" height="132" loading="lazy"></span>
           <p class="br-rez__n">Picolina Bucium</p><p class="br-rez__u">picolina.ro/oferta-blocuri</p>
           <div class="br-rez__cif"><div><b class="br-rez__v">1.000+</b><span class="br-rez__e">lead-uri în 5 luni</span></div></div>
         </div>
         <div class="br-rez__c">
-          <span class="br-rez__pl"><img src="/media/tiles/v2/armur-design.avif" alt="Armur Design" width="720" height="900" loading="lazy"></span>
+          <span class="br-rez__lg"><img src="/media/logo/armur-design-v1.webp" alt="Armur Design" width="367" height="132" loading="lazy"></span>
           <p class="br-rez__n">Armur Design</p><p class="br-rez__u">armurdesign.ro/ansamblul-rezidential-galata</p>
           <div class="br-rez__cif">
             <div><b class="br-rez__v">600+</b><span class="br-rez__e">lead-uri în 5 luni</span></div>
@@ -1389,20 +1415,77 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0
         <h2>Cum arată pagina care aduce lead-urile</h2>
         <p>Campania duce omul într-un singur loc, iar acolo se decide totul. Structura de mai jos e cea care a adus cele 600 de lead-uri pentru Armur Design: exact atâtea secțiuni cât să răspundă la toate întrebările, în ordinea în care apar.</p>
       </div>
-      <div class="br-shots rv">
-        <figure><img src="/media/mobil/armur-design-1.avif" alt="Pagina de ofertă Armur Design, prima parte" width="480" height="1039" loading="lazy"><figcaption>Prezentare și buton de ofertă</figcaption></figure>
-        <figure><img src="/media/mobil/armur-design-2.avif" alt="Pagina de ofertă Armur Design, detalii" width="480" height="1039" loading="lazy"><figcaption>Detalii, planuri și dotări</figcaption></figure>
-        <figure><img src="/media/mobil/armur-design-3.avif" alt="Pagina de ofertă Armur Design, formular" width="480" height="1039" loading="lazy"><figcaption>Formular și contact</figcaption></figure>
-      </div>
-
-      <div class="br-pasi rv rv-d2">
-        <div class="br-pasi__i"><span class="br-pasi__t">Prezentare</span><p class="br-pasi__p">Numele ansamblului, locația și cele patru argumente care contează. Omul știe în trei secunde dacă e pentru el.</p></div>
-        <div class="br-pasi__i"><span class="br-pasi__t">Concept</span><p class="br-pasi__p">Ce fel de locuință e și pentru cine. Aici se face diferența față de anunțurile de pe portaluri.</p></div>
-        <div class="br-pasi__i"><span class="br-pasi__t">Buton de ofertă</span><p class="br-pasi__p">Aceeași cerere se repetă pe tot parcursul paginii, ca omul să nu fie nevoit să caute unde lasă datele.</p></div>
-        <div class="br-pasi__i"><span class="br-pasi__t">Detalii și planuri</span><p class="br-pasi__p">Suprafețe, compartimentare, plan de nivel. Ce întreabă oricine la primul telefon.</p></div>
-        <div class="br-pasi__i"><span class="br-pasi__t">Materiale și dotări</span><p class="br-pasi__p">Structură, fațadă, instalații, finisaje. Secțiunea care taie lead-urile nepotrivite și îi convinge pe cei serioși.</p></div>
-        <div class="br-pasi__i"><span class="br-pasi__t">Locație pe hartă</span><p class="br-pasi__p">Distanțe reale față de școli, magazine și centru.</p></div>
-        <div class="br-pasi__i"><span class="br-pasi__t">Formular de contact</span><p class="br-pasi__p">Pe aceeași pagină, scurt, cu datele care ajung direct în CRM.</p></div>
+      <div class="br-anat rv">
+        <div class="br-anat__r">
+          <div class="br-anat__t">
+            <span class="br-anat__n">01</span>
+            <h3>Prezentare</h3>
+            <p>Numele ansamblului, orașul, câte locuințe și cât teren. Omul știe în trei secunde dacă e pentru el sau nu, fără să deruleze.</p>
+          </div>
+          <figure class="br-anat__f">
+            <img src="/media/pagina/armur-prezentare.avif" alt="Antetul paginii de pe pagina Armur Design" width="480" height="700" loading="lazy">
+            <figcaption>Antetul paginii</figcaption>
+          </figure>
+        </div>
+        <div class="br-anat__r br-anat__r--inv">
+          <div class="br-anat__t">
+            <span class="br-anat__n">02</span>
+            <h3>Ce primește</h3>
+            <p>Design, confort, materiale, eficiență energetică. Patru argumente scurte, cu iconițe, nu trei paragrafe pe care nu le citește nimeni.</p>
+          </div>
+          <figure class="br-anat__f">
+            <img src="/media/pagina/armur-avantaje.avif" alt="Argumentele, pe scurt de pe pagina Armur Design" width="480" height="700" loading="lazy">
+            <figcaption>Argumentele, pe scurt</figcaption>
+          </figure>
+        </div>
+        <div class="br-anat__r">
+          <div class="br-anat__t">
+            <span class="br-anat__n">03</span>
+            <h3>Concept și fotografii</h3>
+            <p>Ce fel de locuință e și pentru cine, cu galeria de randări dedesubt. Aici se face diferența față de un anunț pe portal.</p>
+          </div>
+          <figure class="br-anat__f">
+            <img src="/media/pagina/armur-concept.avif" alt="Concept și galerie de pe pagina Armur Design" width="480" height="700" loading="lazy">
+            <figcaption>Concept și galerie</figcaption>
+          </figure>
+        </div>
+        <div class="br-anat__r br-anat__r--inv">
+          <div class="br-anat__t">
+            <span class="br-anat__n">04</span>
+            <h3>Buton de ofertă</h3>
+            <p>Aceeași cerere apare de mai multe ori pe pagină, ca omul să nu fie nevoit să caute unde lasă datele când s-a hotărât.</p>
+          </div>
+          <figure class="br-anat__f">
+            <img src="/media/pagina/armur-oferta.avif" alt="Butonul care aduce lead-ul de pe pagina Armur Design" width="480" height="700" loading="lazy">
+            <figcaption>Butonul care aduce lead-ul</figcaption>
+          </figure>
+        </div>
+        <div class="br-anat__r">
+          <div class="br-anat__t">
+            <span class="br-anat__n">05</span>
+            <h3>Detalii și planuri</h3>
+            <p>Suprafețe pe fiecare cameră, compartimentare, plan de nivel. Exact ce se întreabă la primul telefon, scris o dată pentru toți.</p>
+          </div>
+          <figure class="br-anat__f">
+            <img src="/media/pagina/armur-detalii.avif" alt="Suprafețe, cameră cu cameră de pe pagina Armur Design" width="480" height="700" loading="lazy">
+            <figcaption>Suprafețe, cameră cu cameră</figcaption>
+          </figure>
+        </div>
+        <div class="br-anat__r br-anat__r--inv">
+          <div class="br-anat__t">
+            <span class="br-anat__n">06</span>
+            <h3>Materiale și dotări</h3>
+            <p>Structură, fațadă, utilități, curte. Secțiunea asta îi convinge pe cei serioși și îi oprește pe cei care oricum nu cumpărau.</p>
+          </div>
+          <figure class="br-anat__f">
+            <img src="/media/pagina/armur-dotari.avif" alt="Ce intră în casă de pe pagina Armur Design" width="480" height="700" loading="lazy">
+            <figcaption>Ce intră în casă</figcaption>
+          </figure>
+        </div>
+        <div class="br-anat__rest">
+          <div><b>Locație pe hartă</b><p>Distanțe reale față de școli, magazine și centru, nu doar o adresă scrisă.</p></div>
+          <div><b>Formular de contact</b><p>Pe aceeași pagină, scurt, cu datele care ajung direct în CRM.</p></div>
+        </div>
       </div>
     </div>
   </section>
