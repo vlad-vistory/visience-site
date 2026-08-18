@@ -27,7 +27,7 @@ e:I[68027,["/_next/static/chunks/17j7jrfi3mvmb.js","/_next/static/chunks/158myu8
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","marketing-dezvoltatori-imobiliari",""],"q":"","i":false,"f":[[["",{"children":["marketing-dezvoltatori-imobiliari",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/17j7jrfi3mvmb.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"j9ciMWgMJW9wHOjfihgEC"}
+})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","marketing-dezvoltatori-imobiliari",""],"q":"","i":false,"f":[[["",{"children":["marketing-dezvoltatori-imobiliari",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/17j7jrfi3mvmb.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"1relWb48lHcWb7hPBVoyD"}
 11:I[39756,["/_next/static/chunks/17j7jrfi3mvmb.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 12:I[37457,["/_next/static/chunks/17j7jrfi3mvmb.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 14:I[27961,["/_next/static/chunks/17j7jrfi3mvmb.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
@@ -35,7 +35,7 @@ e:I[68027,["/_next/static/chunks/17j7jrfi3mvmb.js","/_next/static/chunks/158myu8
 1a:I[97367,["/_next/static/chunks/17j7jrfi3mvmb.js","/_next/static/chunks/158myu8e_yme3.js"],"ViewportBoundary"]
 1c:I[97367,["/_next/static/chunks/17j7jrfi3mvmb.js","/_next/static/chunks/158myu8e_yme3.js"],"MetadataBoundary"]
 1d:"$Sreact.suspense"
-10:Tf11,<header class="nav" id="nav" role="banner">
+10:Tf25,<header class="nav" id="nav" role="banner">
   <div class="wrap nav__in">
     <a href="/" class="nav__logo" aria-label="Visience — Acasă">
       <img class="nav__logo-img nav__logo-img--light" src="/media/sigla-mark-visience-new-colors.avif"
@@ -55,7 +55,7 @@ e:I[68027,["/_next/static/chunks/17j7jrfi3mvmb.js","/_next/static/chunks/158myu8
           <a href="/google-meta-ads/">Google &amp; Meta Ads</a>
           <a href="/optimizare-seo/">SEO &amp; content</a>
           <a href="/dezvoltare-software/">Dezvoltare software</a>
-          <a href="/marketing-dezvoltatori-imobiliari/">Marketing imobiliar</a>
+          <a href="/marketing-dezvoltatori-imobiliari/">Marketing pentru dezvoltatori</a>
         </div>
       </div>
       <a href="/portofoliu/">Proiecte</a>
@@ -92,7 +92,7 @@ e:I[68027,["/_next/static/chunks/17j7jrfi3mvmb.js","/_next/static/chunks/158myu8
         <a href="/google-meta-ads/" class="nm-sub">Google &amp; Meta Ads</a>
         <a href="/optimizare-seo/" class="nm-sub">SEO &amp; content</a>
         <a href="/dezvoltare-software/" class="nm-sub">Dezvoltare software</a>
-        <a href="/marketing-dezvoltatori-imobiliari/" class="nm-sub">Marketing imobiliar</a>
+        <a href="/marketing-dezvoltatori-imobiliari/" class="nm-sub">Marketing pentru dezvoltatori</a>
         <a href="/analiza-de-zona/" class="nm-sub">Analiză de zonă</a>
       </div>
     </div>
@@ -115,7 +115,7 @@ e:I[68027,["/_next/static/chunks/17j7jrfi3mvmb.js","/_next/static/chunks/158myu8
 </nav>
 5:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$10"}}]
 6:["$","$L11",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L12",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
-13:T2003,<footer class="footer" role="contentinfo">
+13:T1f85,<footer class="footer" role="contentinfo">
   <div class="wrap">
 
     <div class="footer__grid">
@@ -205,7 +205,7 @@ e:I[68027,["/_next/static/chunks/17j7jrfi3mvmb.js","/_next/static/chunks/158myu8
           <li><a href="/google-meta-ads/">Google &amp; Meta Ads</a></li>
           <li><a href="/optimizare-seo/">SEO &amp; Content</a></li>
           <li><a href="/dezvoltare-software/">Dezvoltare software</a></li>
-          <li><a href="/marketing-dezvoltatori-imobiliari/">Marketing imobiliar</a></li>
+          <li><a href="/marketing-dezvoltatori-imobiliari/">Marketing pentru dezvoltatori</a></li>
           <li><a href="/marketing-imobiliar-iasi/">Marketing imobiliar Iași</a></li>
             <li><a href="/analiza-de-zona/">Analiză de zonă</a></li>
         </ul>
@@ -261,7 +261,7 @@ c:"$W19"
 d:["$","$1","h",{"children":[null,["$","$L1a",null,{"children":"$L1b"}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.Metadata","children":"$L1e"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 20:I[97367,["/_next/static/chunks/17j7jrfi3mvmb.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
-1f:T11484,<style>
+1f:T117a3,<style>
 .dev-page { background: var(--cream); }
 
 .dev-section__head {
@@ -1216,12 +1216,13 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0
 
 
     <div class="wrap dev-hero__in">
-      <h1 class="dd dd-xl" id="dev-hero-h">Marketing imobiliar</h1>
+      <h1 class="dd dd-xl" id="dev-hero-h">Marketing imobiliar pentru dezvoltatori</h1>
       <p class="dev-hero__sub">de la prima postare la ultimul apartament vândut</p>
       <p class="body-lg">
-        Construiești bine. Noi avem grijă ca munca ta să se vadă și să ajungă la oamenii
-        care chiar caută un apartament: brand, website, campanii și un singur loc în care
-        intră toate lead-urile.
+        Lucrăm cu dezvoltatori imobiliari care vând apartamente noi: brand de ansamblu,
+        website cu pagini de apartamente, campanii Google și Meta și un singur loc în care
+        intră toate lead-urile. Tu construiești, noi ducem proiectul în fața oamenilor
+        care chiar cumpără.
       </p>
       <div class="dev-hero__acts">
         <a href="/contact/" class="btn btn-solid">Cere o propunere pentru ansamblul tău <span aria-hidden="true">→</span></a>
@@ -1272,7 +1273,8 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0
   <section class="br-sec br-sec--cream">
     <div class="wrap">
       <div class="br-h rv">
-        <h2>De ce lucrează dezvoltatorii cu noi</h2>
+        <h2>De ce lucrează dezvoltatorii imobiliari cu noi</h2>
+        <p>Suntem o agenție de marketing imobiliar din Iași, cu clienți în toată țara. Ne ocupăm de promovarea unui ansamblu rezidențial de la primul semn de pe gard până la ultimul apartament vândut, cu aceeași echipă de la un capăt la altul.</p>
       </div>
       <div class="br-list rv rv-d2">
         <div class="br-list__i"><span class="br-list__n">01</span><div><h3>Un singur partener</h3><p>Brand, website, campanii, conținut și lead-uri sub același acoperiș. Un singur om de contact, nu cinci firme care dau vina una pe alta.</p></div></div>
@@ -1287,7 +1289,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0
     <div class="wrap">
       <div class="br-h rv">
         <h2>Tot ce îi trebuie unui ansamblu ca să se vândă, într-un singur loc</h2>
-        <p>Nu trebuie să lucrezi cu o firmă pentru design, cu alta pentru site, cu alta pentru campanii și cu încă una pentru social media. Ne ocupăm de tot lanțul, iar la final îți dăm și un CRM în care ai toate lead-urile și le gestionezi cu echipa ta de vânzări.</p>
+        <p>Promovarea unui ansamblu rezidențial nu înseamnă doar reclame. Nu trebuie să lucrezi cu o firmă pentru design, cu alta pentru site, cu alta pentru campanii și cu încă una pentru social media. Ne ocupăm de tot lanțul, iar la final îți dăm și un CRM în care ai toate lead-urile și le gestionezi cu echipa ta de vânzări.</p>
       </div>
       <div class="br-lant rv">
         <div class="br-lant__c"><p class="br-lant__n">Prezență</p><p class="br-lant__p">Brand, website și social media</p></div>
@@ -1297,7 +1299,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0
         <div class="br-lant__c"><p class="br-lant__n">Vânzare</p><p class="br-lant__p">Rapoarte și automatizări</p></div>
       </div>
       <div class="br-list rv rv-d2">
-        <div class="br-list__i"><span class="br-list__n">01</span><div><h3>Branding de ansamblu</h3><p>Mai întâi un nume de companie bine ales, apoi un nume de complex pe măsură. Lumea te ține minte, așa că la următorul proiect pornești cu notorietate, nu de la zero. Logo, paletă, brand book, totul consecvent.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">01</span><div><h3>Branding de ansamblu rezidențial</h3><p>Un brand de proiect imobiliar începe cu un nume de companie bine ales, apoi un nume de complex pe măsură. Lumea te ține minte, așa că la următorul proiect pornești cu notorietate, nu de la zero. Logo, paletă, brand book, totul consecvent.</p></div></div>
         <div class="br-list__i"><span class="br-list__n">02</span><div><h3>Website și pagini de apartamente</h3><p>Site rapid pe mobil, cu o pagină dedicată pentru fiecare tip de apartament: planuri, randări, dotări, preț și formular propriu.</p></div></div>
         <div class="br-list__i"><span class="br-list__n">03</span><div><h3>Campanii Google și Meta</h3><p>Generare de lead-uri prin Search, Display, YouTube, Facebook și Instagram, cu direcționare pe zonă și pe intenția reală de cumpărare.</p></div></div>
         <div class="br-list__i"><span class="br-list__n">04</span><div><h3>SEO și Google Maps</h3><p>Site-ul prinde căutările organice pentru zona ta, iar profilul Google Business aduce telefoane direct de pe hartă.</p></div></div>
@@ -1310,8 +1312,8 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0
   <section class="br-sec br-sec--cream" id="crm">
     <div class="wrap">
       <div class="br-h rv">
-        <h2>Toate lead-urile într-un singur loc</h2>
-        <p>Cel mai des, lead-urile se pierd nu pentru că sunt puține, ci pentru că sunt împrăștiate: unele pe e-mail, unele pe WhatsApp, unele pe telefon, unele pe Facebook. Le adunăm pe toate într-un singur sistem, cu notificare instantanee la vânzări.</p>
+        <h2>CRM pentru dezvoltatori imobiliari, cu toate lead-urile într-un singur loc</h2>
+        <p>Lead-urile pentru un ansamblu se pierd rar pentru că sunt puține. Se pierd pentru că sunt împrăștiate: unele pe e-mail, unele pe WhatsApp, unele pe telefon, unele pe Facebook. Le adunăm pe toate într-un singur sistem, cu notificare instantanee la vânzări.</p>
       </div>
       <div class="br-list rv rv-d2">
         <div class="br-list__i"><span class="br-list__n">01</span><div><h3>Grila de apartamente, live pe site</h3><p>Fiecare apartament e marcat ca disponibil, rezervat sau vândut, iar grila se actualizează în timp real. Cumpărătorul vede pe loc ce mai e liber, iar tu nu mai răspunzi de zece ori la aceeași întrebare.</p></div></div>
@@ -1325,7 +1327,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0
     <div class="wrap">
       <div class="br-h rv">
         <h2>Experiență reală în domeniul imobiliar</h2>
-        <p>Nu învățăm meserie pe proiectul tău. Am dus deja ansambluri și cartiere de la lansare la vânzare, cu brand, website, campanii și conținut care aduc cumpărători. Apasă pe oricare ca să vezi ce am făcut acolo.</p>
+        <p>Nu învățăm meserie pe proiectul tău. Am dus deja ansambluri rezidențiale și cartiere de case de la lansare la vânzare, cu brand, website, campanii și conținut care aduc cumpărători. Apasă pe oricare ca să vezi ce am făcut acolo.</p>
       </div>
       <div class="br-proj rv rv-d2">
         <a class="br-proj__c" href="/proiecte/cameo-residence/">
@@ -1408,7 +1410,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0
     <div class="wrap">
       <div class="br-h rv">
         <h2>Rezultate, nu promisiuni</h2>
-        <p>Cifrele vin din campanii pe care le-am dus cap-coadă: pagină de ofertă, campanii Google și Meta, lead-uri adunate într-un singur tabel și predate echipei de vânzări.</p>
+        <p>Cifrele sunt de la dezvoltatori imobiliari cu care lucrăm și vin din campanii duse cap-coadă: pagină de ofertă, campanii Google și Meta, lead-uri adunate într-un singur tabel și predate echipei de vânzări.</p>
       </div>
       <div class="br-rez rv rv-d2">
         <div class="br-rez__c">
@@ -1539,7 +1541,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0
     <div class="wrap">
       <div class="br-h rv">
         <h2>Ai deja un site? Ne pliem pe ce ai</h2>
-        <p>Nu trebuie să arunci tot ce ai construit. Pornim de la site-ul existent: îl reparăm, îl restructurăm și îl conectăm la campanii, ca să înceapă să aducă oameni care chiar vor un apartament și sunt aproape de decizie.</p>
+        <p>Nu trebuie să arunci tot ce ai construit. Pornim de la site-ul existent: îl reparăm, îl restructurăm și îl conectăm la campanii, ca să înceapă să aducă oameni care chiar caută apartamente noi și sunt aproape de decizie.</p>
       </div>
       <div class="br-list rv rv-d2">
         <div class="br-list__i"><span class="br-list__n">01</span><div><h3>Viteză și experiență pe mobil</h3><p>Cei mai mulți cumpărători caută de pe telefon. Un site lent sau confuz pierde lead-uri pe care le-ai plătit deja cu bani de reclamă.</p></div></div>
@@ -1555,7 +1557,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0
     <div class="wrap">
       <div class="br-h rv">
         <h2>Prețuri transparente, fără surprize</h2>
-        <p>Pentru un ansamblu de la zero: brand, website și campanii. Prețuri orientative, finalizate după un brief. Sumele sunt onorariul nostru de lucru; bugetul cu care cumperi spațiul de reclamă se plătește separat, direct către Google și Meta.</p>
+        <p>Pachetele de marketing pentru un ansamblu rezidențial pornit de la zero: brand, website și campanii. Prețuri orientative, finalizate după un brief. Sumele sunt onorariul nostru de lucru; bugetul cu care cumperi spațiul de reclamă se plătește separat, direct către Google și Meta.</p>
       </div>
       <div class="br-pk rv rv-d2">
         <div class="br-pk__c">
@@ -1654,7 +1656,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0
 <section class="dev-faq">
     <div class="wrap">
       <div class="dev-section__head rv">
-        <h2 class="dd dd-lg">Ce ne întreabă cel mai des dezvoltatorii</h2>
+        <h2 class="dd dd-lg">Ce ne întreabă cel mai des dezvoltatorii imobiliari</h2>
       </div>
 
       <div class="dev-faq__list rv rv-d2">
@@ -1722,8 +1724,10 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0
           <span class="hi">poate fi al tău.</span>
         </h2>
         <p class="dev-cta__p">
-          Spune-ne despre proiect. În 24 de ore îți răspundem cu o propunere
-          inițială și programăm un apel de descoperire de 30 de minute.
+          Spune-ne despre proiect. În 24 de ore îți răspundem cu o propunere de
+          promovare pentru ansamblul tău și programăm o discuție de 30 de minute.
+          Lucrăm la fel și cu un dezvoltator imobiliar la primul bloc, și cu unul
+          care e la al patrulea ansamblu.
         </p>
         <div class="dev-cta__acts">
           <a href="mailto:contact@visience.ro" class="btn btn-solid">
