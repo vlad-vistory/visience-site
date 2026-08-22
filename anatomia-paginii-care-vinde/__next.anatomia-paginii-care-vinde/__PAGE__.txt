@@ -1,221 +1,9 @@
 1:"$Sreact.fragment"
-6:I[97367,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
-7:"$Sreact.suspense"
-2:T1588,{"@context":"https://schema.org","@graph":[{"@type":"HowTo","@id":"https://visience.ro/anatomia-paginii-care-vinde/#howto","name":"Cum verifici pagina unui ansamblu rezidențial, în 19 puncte","description":"Lista de verificare pentru pagina unui ansamblu rezidențial: antet, primul ecran, tipuri de apartamente, grilă de disponibilitate, galerie, stadiul lucrărilor, zonă, materiale, recenzii, formular și subsol.","inLanguage":"ro-RO","totalTime":"PT30M","step":[{"@type":"HowToStep","position":1,"name":"Sigla, cu numele ansamblului","text":"Numele ansamblului vizibil sus, cu orașul lângă. Numele firmei apare mai jos, la despre dezvoltator.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-1"},{"@type":"HowToStep","position":2,"name":"Meniu scurt, cu cinci intrări","text":"Maximum cinci intrări, cu ancore în aceeași pagină. Disponibilitate și Prețuri printre primele.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-2"},{"@type":"HowToStep","position":3,"name":"Telefonul scris cu cifre","text":"Numărul vizibil în antet, ca link tel:, cu buton fix jos pe telefon și apelul numărat ca eveniment de conversie.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-3"},{"@type":"HowToStep","position":4,"name":"Un buton în antet, care cere ceva mic","text":"Un singur buton, colorat diferit, cu text care spune ce primește omul: Vezi prețurile, nu Contactează-ne.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-4"},{"@type":"HowToStep","position":5,"name":"Titlul: ce, unde și pentru cine","text":"O propoziție cu tipul de locuință, zona și un reper concret, în cel mult zece cuvinte.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-5"},{"@type":"HowToStep","position":6,"name":"Subtitlul care taie pe cine nu e potrivit","text":"Intervalul de preț sau prețul de pornire, plus cui i se potrivește proiectul, în două rânduri.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-6"},{"@type":"HowToStep","position":7,"name":"Două butoane, pentru două momente","text":"Butonul principal pentru vizionare, al doilea discret pentru apartamentele disponibile, repetate la fiecare două-trei secțiuni.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-7"},{"@type":"HowToStep","position":8,"name":"O dovadă mică, sus de tot","text":"Nota Google cu numărul de recenzii, sau câte ansambluri ai livrat, chiar sub butoane.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-8"},{"@type":"HowToStep","position":9,"name":"Imaginea: clădirea ta, în context","text":"Randare sau fotografie a proiectului, cu împrejurimile în cadru, sub 200 KB.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-9"},{"@type":"HowToStep","position":10,"name":"Patru cifre care răspund înainte să fie întrebate","text":"Stadiul lucrărilor, numărul de unități, regimul de înălțime și distanța până în centru, în minute.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-10"},{"@type":"HowToStep","position":11,"name":"Tipurile de apartamente, fiecare cu pagina lui","text":"Card și pagină separată pentru fiecare tipologie, cu plan, suprafață, preț de la și buton.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-11"},{"@type":"HowToStep","position":12,"name":"Grila de disponibilitate, actualizată","text":"Trei stări clare — liber, rezervat, vândut — apăsabile, actualizate din CRM.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-12"},{"@type":"HowToStep","position":13,"name":"Galeria: randări și fotografii de pe teren","text":"Randări marcate ca atare, plus fotografii reale de șantier, cu luna în care au fost făcute.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-13"},{"@type":"HowToStep","position":14,"name":"Stadiul lucrărilor, cu data actualizării","text":"Bară de progres pe etape, două-trei fotografii noi lunar și data actualizării scrisă vizibil.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-14"},{"@type":"HowToStep","position":15,"name":"Zona, în minute și nume","text":"Hartă interactivă și listă de repere cu numele lor și timpul până acolo.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-15"},{"@type":"HowToStep","position":16,"name":"Materiale și dotări, cu marca lor","text":"Structură, închideri, termoizolație, tâmplărie, centrală, cu grosimi și mărci concrete.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-16"},{"@type":"HowToStep","position":17,"name":"Recenzii cu nume, față și proiect","text":"Preluate din Google, cu nume complet și ansamblul în care a cumpărat omul.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-17"},{"@type":"HowToStep","position":18,"name":"Formular de trei câmpuri, plus WhatsApp","text":"Nume, telefon și tipul de apartament, cu buton de WhatsApp lângă și conversie măsurată la trimitere.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-18"},{"@type":"HowToStep","position":19,"name":"Subsolul care arată că firma e reală","text":"Denumire completă, CUI, Registrul Comerțului, sediu, politici, ANPC și SOL.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-19"}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Anatomia paginii care vinde","item":"https://visience.ro/anatomia-paginii-care-vinde/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"1c4LrXxhLAQct0H3rb71p"}
-5:Tc890,<style>
-/* ══════════════════════════════════════════════
-   ANATOMIA PAGINII — machetă disecată, cu numere
-   ══════════════════════════════════════════════ */
-:root { --pin: #9BC31A; --pin-ink: #1A1A0E; }
-.an {
-  --pin: #9BC31A;
-  --pin-ink: #1A1A0E;
-  --wf: #D9D8D4;
-  --wf2: #C4C3BE;
-  --wf3: #EDECE8;
-  background: var(--cream2, #F1F0EC);
-}
-
-/* ─── hero ─── */
-.an-hero { padding: clamp(70px, 9vw, 120px) 0 clamp(40px, 5vw, 60px); background: var(--white, #fff); }
-.an-hero__in { max-width: 1080px; }
-.an-hero h1 { margin: 0 0 22px; max-width: 17ch; font-size: clamp(34px, 4.6vw, 62px); line-height: 1.06; letter-spacing: -.03em; }
-.an-hero h1 .hi { font-family: var(--f-d); font-style: italic; font-weight: 400; color: var(--acc-deep, #6D8A12); }
-.an-hero__p { font-size: clamp(16px, 1.5vw, 19px); line-height: 1.7; color: var(--ink2, #4A4844); max-width: 62ch; margin: 0 0 10px; }
-.an-hero__p b { color: var(--ink, #111010); }
-
-.an-pasi {
-  display: grid; grid-template-columns: repeat(4, 1fr); gap: clamp(20px, 3vw, 40px);
-  background: var(--white, #fff); border: 1px solid var(--border, #E5E3DE);
-  border-radius: 18px; padding: clamp(26px, 3vw, 38px); margin-top: 38px;
-  box-shadow: 0 18px 50px rgba(17, 16, 16, .06);
-}
-.an-pasi__t { grid-column: 1 / -1; margin: 0 0 6px; font-family: var(--f-d); font-weight: 700; font-size: clamp(17px, 1.8vw, 21px); color: var(--ink, #111010); }
-.an-pasi__t i { font-style: italic; font-weight: 400; color: var(--acc-deep, #6D8A12); }
-.an-pas__n { display: block; font-family: var(--f-d); font-style: italic; font-weight: 700; font-size: 30px; line-height: 1; color: var(--acc-deep, #6D8A12); margin-bottom: 12px; }
-.an-pas p { margin: 0; font-size: 14px; line-height: 1.6; color: var(--ink2, #4A4844); }
-.an-pas p b { color: var(--ink, #111010); }
-
-/* ─── zona machetei ─── */
-.an-macheta { padding: clamp(40px, 5vw, 64px) 0 clamp(60px, 7vw, 90px); }
-.an-macheta__h { text-align: center; margin-bottom: 26px; }
-.an-macheta__k {
-  display: inline-block; font-family: var(--f-m, monospace); font-size: 11px;
-  letter-spacing: .16em; text-transform: uppercase; color: var(--ink2, #4A4844);
-}
-.an-macheta__k b { background: var(--pin); color: var(--pin-ink); padding: 2px 7px; border-radius: 4px; }
-.an-macheta__s { margin: 10px 0 0; font-size: 15px; color: var(--ink2, #4A4844); }
-.an-macheta__s b { color: var(--ink, #111010); }
-
-.an-browser {
-  max-width: 1120px; margin: 0 auto; background: #fff;
-  border-radius: 16px; overflow: hidden; border: 1px solid var(--border, #E5E3DE);
-  box-shadow: 0 30px 80px rgba(17, 16, 16, .12);
-}
-.an-browser__bar {
-  display: flex; align-items: center; gap: 14px;
-  padding: 13px 16px; background: var(--wf3); border-bottom: 1px solid var(--border, #E5E3DE);
-}
-.an-dots { display: flex; gap: 6px; }
-.an-dots i { width: 10px; height: 10px; border-radius: 50%; background: var(--wf2); display: block; }
-.an-url {
-  flex: 1; max-width: 420px; background: #fff; border-radius: 7px;
-  padding: 7px 12px; font-family: var(--f-m, monospace); font-size: 12px; color: var(--mid, #7A7873);
-}
-
-/* ─── piese de wireframe ─── */
-.an-wf { position: relative; }
-.an-wf section { position: relative; padding: 34px clamp(18px, 3vw, 44px); }
-.an-wf .alt { background: var(--wf3); }
-.b { display: block; height: 11px; border-radius: 4px; background: var(--wf); }
-.b.d { background: var(--wf2); height: 15px; }
-.b.t { height: 8px; }
-.w90 { width: 90%; } .w80 { width: 80%; } .w70 { width: 70%; } .w60 { width: 60%; }
-.w50 { width: 50%; } .w40 { width: 40%; } .w30 { width: 30%; } .w20 { width: 20%; }
-.st { display: flex; flex-direction: column; gap: 8px; }
-.an-img {
-  background:
-    repeating-linear-gradient(-45deg, rgba(155,195,26,.16) 0 7px, rgba(155,195,26,.05) 7px 14px);
-  border: 1px solid rgba(155,195,26,.35); border-radius: 10px;
-  display: grid; place-items: center; min-height: 120px;
-}
-.an-img::after {
-  content: ''; width: 26px; height: 21px; border: 2px solid rgba(109,138,18,.4);
-  border-radius: 4px;
-}
-.an-btn { height: 34px; border-radius: 8px; background: var(--pin); width: 130px; }
-.an-btn.g { background: transparent; border: 1.5px solid var(--wf2); }
-.an-chip { height: 24px; border-radius: 6px; background: var(--wf2); width: 74px; }
-.an-card { border: 1px solid var(--border, #E5E3DE); border-radius: 10px; padding: 16px; background: #fff; }
-.an-row { display: grid; gap: 14px; }
-.c2 { grid-template-columns: 1fr 1fr; } .c3 { grid-template-columns: repeat(3, 1fr); }
-.c4 { grid-template-columns: repeat(4, 1fr); } .c5 { grid-template-columns: repeat(5, 1fr); }
-.an-mid { display: grid; grid-template-columns: 1.05fr .95fr; gap: clamp(20px, 3vw, 44px); align-items: center; }
-.an-stele { display: flex; gap: 3px; }
-.an-stele i { width: 11px; height: 11px; background: #E8B830; clip-path: polygon(50% 0, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%); display: block; }
-.an-grila { display: grid; grid-template-columns: repeat(8, 1fr); gap: 5px; }
-.an-grila i { display: block; height: 22px; border-radius: 4px; background: var(--wf); }
-.an-grila i.l { background: rgba(155,195,26,.5); }
-.an-grila i.r { background: rgba(232,184,48,.45); }
-.an-grila i.v { background: var(--wf2); }
-.an-camp { height: 32px; border-radius: 7px; border: 1.5px solid var(--wf); background: #fff; }
-
-/* ─── numerele ─── */
-.has-pin { position: relative; }
-.an-pin {
-  position: absolute; z-index: 5; top: -12px; right: -12px;
-  width: 30px; height: 30px; border-radius: 50%;
-  background: var(--pin); color: var(--pin-ink);
-  border: 2px solid #fff; box-shadow: 0 3px 10px rgba(17,16,16,.22);
-  font-family: var(--f-d); font-weight: 700; font-size: 13px; line-height: 1;
-  display: grid; place-items: center; cursor: pointer; padding: 0;
-  transition: transform .2s ease, box-shadow .2s ease;
-}
-.an-pin:hover, .an-pin:focus-visible { transform: scale(1.18); box-shadow: 0 6px 18px rgba(17,16,16,.3); outline: none; }
-.an-pin.vazut { background: var(--ink, #111010); color: #fff; }
-.an-pin::before {
-  content: ''; position: absolute; inset: -6px; border-radius: 50%;
-  border: 2px solid var(--pin); opacity: .55; animation: anPuls 2.6s ease-out infinite;
-}
-.an-pin.vazut::before { display: none; }
-@keyframes anPuls { 0% { transform: scale(.8); opacity: .6; } 70%, 100% { transform: scale(1.5); opacity: 0; } }
-@media (prefers-reduced-motion: reduce) { .an-pin::before { animation: none; } }
-
-/* ─── sertarul ─── */
-.an-fond {
-  position: fixed; inset: 0; background: rgba(17,16,16,.35); z-index: 1200;
-  opacity: 0; pointer-events: none; transition: opacity .3s ease;
-  -webkit-backdrop-filter: blur(2px); backdrop-filter: blur(2px);
-}
-.an-fond.on { opacity: 1; pointer-events: auto; }
-.an-sertar {
-  position: fixed; top: 0; right: 0; bottom: 0; width: min(460px, 92vw);
-  background: #fff; z-index: 1201; transform: translateX(102%);
-  transition: transform .34s cubic-bezier(.4, 0, .2, 1);
-  display: flex; flex-direction: column; box-shadow: -20px 0 60px rgba(17,16,16,.18);
-}
-.an-sertar.on { transform: translateX(0); }
-.an-sertar__sus {
-  display: flex; align-items: flex-start; justify-content: space-between; gap: 16px;
-  padding: 24px 24px 20px; border-bottom: 1px solid var(--border, #E5E3DE);
-}
-.an-sertar__n { font-family: var(--f-d); font-style: italic; font-weight: 700; font-size: 30px; line-height: 1; color: var(--acc-deep, #6D8A12); display: block; }
-.an-sertar__k { display: block; margin-top: 7px; font-family: var(--f-m, monospace); font-size: 10.5px; letter-spacing: .16em; text-transform: uppercase; color: var(--mid, #7A7873); }
-.an-x {
-  width: 34px; height: 34px; flex: 0 0 34px; border-radius: 9px;
-  border: 1px solid var(--border, #E5E3DE); background: #fff; cursor: pointer;
-  display: grid; place-items: center; color: var(--ink, #111010);
-}
-.an-x:hover { background: var(--cream, #F6F5F2); }
-.an-sertar__corp { padding: 24px; overflow-y: auto; flex: 1; }
-.an-sertar__jos {
-  display: flex; align-items: center; justify-content: space-between; gap: 10px;
-  padding: 14px 24px; border-top: 1px solid var(--border, #E5E3DE); background: var(--cream, #F6F5F2);
-}
-.an-nav {
-  border: 1px solid var(--border, #E5E3DE); background: #fff; border-radius: 8px;
-  padding: 8px 14px; font-family: var(--f-m, monospace); font-size: 12px; cursor: pointer; color: var(--ink, #111010);
-}
-.an-nav:disabled { opacity: .35; cursor: default; }
-.an-nav__c { font-family: var(--f-m, monospace); font-size: 12px; color: var(--mid, #7A7873); }
-
-/* ─── conținutul unui punct (folosit și în listă, și în sertar) ─── */
-.lev__t { font-family: var(--f-d); font-weight: 700; font-size: 21px; line-height: 1.3; letter-spacing: -.02em; color: var(--ink, #111010); margin: 0 0 10px; }
-.lev__t i { font-style: italic; font-weight: 400; color: var(--acc-deep, #6D8A12); }
-.lev__p { font-size: 15px; line-height: 1.68; color: var(--ink2, #4A4844); margin: 0 0 20px; }
-.lev__p b { color: var(--ink, #111010); }
-.lev__h { font-family: var(--f-m, monospace); font-size: 10.5px; letter-spacing: .16em; text-transform: uppercase; color: var(--mid, #7A7873); margin: 0 0 11px; }
-.lev ul { list-style: none; margin: 0 0 20px; padding: 0; }
-.lev li { position: relative; padding-left: 20px; margin-bottom: 9px; font-size: 14.5px; line-height: 1.55; color: var(--ink2, #4A4844); }
-.lev li::before { content: ''; position: absolute; left: 0; top: 7px; width: 9px; height: 9px; border-radius: 50%; background: var(--pin); }
-.lev .nu li::before { background: #D6564A; }
-.lev__ex {
-  border-left: 3px solid var(--pin); padding: 4px 0 4px 16px; margin: 0 0 20px;
-  font-size: 14.5px; line-height: 1.6; color: var(--ink2, #4A4844);
-}
-.lev__ex b { color: var(--ink, #111010); }
-
-/* ─── lista completă de dedesubt ─── */
-.an-lista { background: var(--white, #fff); padding: clamp(60px, 7vw, 96px) 0; }
-.an-lista__h { max-width: 720px; margin-bottom: 44px; }
-.an-lista__grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: clamp(26px, 3vw, 46px); }
-.an-lev {
-  border-top: 1px solid var(--border, #E5E3DE); padding-top: 24px;
-}
-.an-lev__n {
-  font-family: var(--f-d); font-style: italic; font-weight: 700; font-size: 26px; line-height: 1;
-  color: var(--acc-deep, #6D8A12); display: block; margin-bottom: 4px;
-}
-.an-lev__k { display: block; font-family: var(--f-m, monospace); font-size: 10.5px; letter-spacing: .16em; text-transform: uppercase; color: var(--mid, #7A7873); margin-bottom: 14px; }
-
-/* ─── încheiere ─── */
-.an-cta { background: var(--ink, #111010); color: #fff; padding: clamp(60px, 7vw, 96px) 0; text-align: center; }
-.an-cta h2 { color: #fff; margin: 0 0 16px; }
-.an-cta h2 .hi { color: var(--pin); }
-.an-cta p { max-width: 56ch; margin: 0 auto 30px; color: rgba(255,255,255,.72); font-size: 16px; line-height: 1.7; }
-.an-cta__acts { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
-
-@media (max-width: 900px) {
-  .an-pasi { grid-template-columns: 1fr 1fr; }
-  .an-lista__grid { grid-template-columns: 1fr; }
-  .an-mid { grid-template-columns: 1fr; }
-  .c4, .c5 { grid-template-columns: 1fr 1fr; }
-  .an-grila { grid-template-columns: repeat(6, 1fr); }
-}
-@media (max-width: 600px) {
-  .an-pasi { grid-template-columns: 1fr; }
-  .c3 { grid-template-columns: 1fr; }
-  .an-wf section { padding: 22px 14px; }
-  /* pe telefon macheta trebuie sa se parcurga repede, nu sa se intinda pe zece ecrane */
-  .an-wf .an-img { min-height: 74px !important; }
-  .an-wf .an-mid { gap: 16px; }
-  .an-grila i { height: 16px; }
-  .an-pin { width: 26px; height: 26px; font-size: 12px; top: -10px; right: -8px; }
-  .an-macheta { padding-left: 0; padding-right: 0; }
-}
-</style>
-
-<main class="an">
+7:I[97367,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["/_next/static/chunks/1vrakbor0c53m.css","style"]
+2:T1588,{"@context":"https://schema.org","@graph":[{"@type":"HowTo","@id":"https://visience.ro/anatomia-paginii-care-vinde/#howto","name":"Cum verifici pagina unui ansamblu rezidențial, în 19 puncte","description":"Lista de verificare pentru pagina unui ansamblu rezidențial: antet, primul ecran, tipuri de apartamente, grilă de disponibilitate, galerie, stadiul lucrărilor, zonă, materiale, recenzii, formular și subsol.","inLanguage":"ro-RO","totalTime":"PT30M","step":[{"@type":"HowToStep","position":1,"name":"Sigla, cu numele ansamblului","text":"Numele ansamblului vizibil sus, cu orașul lângă. Numele firmei apare mai jos, la despre dezvoltator.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-1"},{"@type":"HowToStep","position":2,"name":"Meniu scurt, cu cinci intrări","text":"Maximum cinci intrări, cu ancore în aceeași pagină. Disponibilitate și Prețuri printre primele.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-2"},{"@type":"HowToStep","position":3,"name":"Telefonul scris cu cifre","text":"Numărul vizibil în antet, ca link tel:, cu buton fix jos pe telefon și apelul numărat ca eveniment de conversie.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-3"},{"@type":"HowToStep","position":4,"name":"Un buton în antet, care cere ceva mic","text":"Un singur buton, colorat diferit, cu text care spune ce primește omul: Vezi prețurile, nu Contactează-ne.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-4"},{"@type":"HowToStep","position":5,"name":"Titlul: ce, unde și pentru cine","text":"O propoziție cu tipul de locuință, zona și un reper concret, în cel mult zece cuvinte.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-5"},{"@type":"HowToStep","position":6,"name":"Subtitlul care taie pe cine nu e potrivit","text":"Intervalul de preț sau prețul de pornire, plus cui i se potrivește proiectul, în două rânduri.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-6"},{"@type":"HowToStep","position":7,"name":"Două butoane, pentru două momente","text":"Butonul principal pentru vizionare, al doilea discret pentru apartamentele disponibile, repetate la fiecare două-trei secțiuni.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-7"},{"@type":"HowToStep","position":8,"name":"O dovadă mică, sus de tot","text":"Nota Google cu numărul de recenzii, sau câte ansambluri ai livrat, chiar sub butoane.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-8"},{"@type":"HowToStep","position":9,"name":"Imaginea: clădirea ta, în context","text":"Randare sau fotografie a proiectului, cu împrejurimile în cadru, sub 200 KB.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-9"},{"@type":"HowToStep","position":10,"name":"Patru cifre care răspund înainte să fie întrebate","text":"Stadiul lucrărilor, numărul de unități, regimul de înălțime și distanța până în centru, în minute.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-10"},{"@type":"HowToStep","position":11,"name":"Tipurile de apartamente, fiecare cu pagina lui","text":"Card și pagină separată pentru fiecare tipologie, cu plan, suprafață, preț de la și buton.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-11"},{"@type":"HowToStep","position":12,"name":"Grila de disponibilitate, actualizată","text":"Trei stări clare — liber, rezervat, vândut — apăsabile, actualizate din CRM.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-12"},{"@type":"HowToStep","position":13,"name":"Galeria: randări și fotografii de pe teren","text":"Randări marcate ca atare, plus fotografii reale de șantier, cu luna în care au fost făcute.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-13"},{"@type":"HowToStep","position":14,"name":"Stadiul lucrărilor, cu data actualizării","text":"Bară de progres pe etape, două-trei fotografii noi lunar și data actualizării scrisă vizibil.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-14"},{"@type":"HowToStep","position":15,"name":"Zona, în minute și nume","text":"Hartă interactivă și listă de repere cu numele lor și timpul până acolo.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-15"},{"@type":"HowToStep","position":16,"name":"Materiale și dotări, cu marca lor","text":"Structură, închideri, termoizolație, tâmplărie, centrală, cu grosimi și mărci concrete.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-16"},{"@type":"HowToStep","position":17,"name":"Recenzii cu nume, față și proiect","text":"Preluate din Google, cu nume complet și ansamblul în care a cumpărat omul.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-17"},{"@type":"HowToStep","position":18,"name":"Formular de trei câmpuri, plus WhatsApp","text":"Nume, telefon și tipul de apartament, cu buton de WhatsApp lângă și conversie măsurată la trimitere.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-18"},{"@type":"HowToStep","position":19,"name":"Subsolul care arată că firma e reală","text":"Denumire completă, CUI, Registrul Comerțului, sediu, politici, ANPC și SOL.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-19"}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Anatomia paginii care vinde","item":"https://visience.ro/anatomia-paginii-care-vinde/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"bvsP6S_tnsagjNGY9oyEK"}
+6:T9af5,<main class="an">
 
   <section class="an-hero">
     <div class="wrap an-hero__in">
@@ -227,6 +15,11 @@
       </p>
       <p class="an-hero__p">
         <b>Pleci de aici cu o listă cu care poți verifica site-ul pe care îl ai acum.</b>
+      </p>
+
+      <p class="an-hero__p" style="margin-bottom:0">
+        Ai o firmă de servicii, nu un ansamblu?
+        <a href="/anatomia-paginii-de-servicii/">Vezi varianta pentru site-uri de servicii</a>.
       </p>
 
       <div class="an-pasi">
@@ -881,6 +674,7 @@
     <button class="an-nav" id="anNext" type="button">Următorul →</button>
   </div>
 </aside>
-3:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$5"}}]
-4:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
-8:null
+3:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$6"}}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1vrakbor0c53m.css","precedence":"next"}]
+5:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null
