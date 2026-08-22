@@ -1,0 +1,1148 @@
+1:"$Sreact.fragment"
+e:I[68027,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"default",1]
+:HL["/_next/static/chunks/0wzhkftc38ec0.css","style"]
+:HL["/_next/static/media/0da9c7f357bd9d4d-s.p.1975l3y3401x_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2094fb60fd9c8287-s.p.3qxy1tqak831c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/47fe1b7cd6e6ed85-s.p.3bh2vc0w-r-ll.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5f9d24ebef5d5292-s.p.19xuq3td7fwu_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6c55a692938ebbbc-s.p.1emuuracu50qd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/798ea22d9983e047-s.p.3go-kn2r40gie.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/829ba4228c966254-s.p.2mm3nq9i83l-m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8cf1ea7b03cdeb83-s.p.3dbq0oou7i_24.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8e6fa89aa22d24ec-s.p.2o7m9ogm38dql.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a218039a3287bcfd-s.p.43zbiuwnnoiok.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c875c6f5d3e977ac-s.p.1h18_wedhzk4h.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e2334d715941921e-s.p.3o_v2fun1jzxk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css","style"]
+2:["$","link",null,{"rel":"stylesheet","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}]
+3:T5c7,(function(){
+  window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}window.gtag=gtag;
+  var K='visience-consent',c=null;try{c=localStorage.getItem(K);}catch(e){}
+  gtag('consent','default',{ad_storage:'denied',analytics_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',wait_for_update:500});
+  gtag('set','ads_data_redaction',true);gtag('set','url_passthrough',true);
+  function loadClarity(){if(window.clarity)return;(function(c,l,a,r,i){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};var t=l.createElement(r);t.async=1;t.src='https://www.clarity.ms/tag/'+i;var y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,'clarity','script','sxwbb1ueew');}
+  function apply(a,m){gtag('consent','update',{analytics_storage:a?'granted':'denied',ad_storage:m?'granted':'denied',ad_user_data:m?'granted':'denied',ad_personalization:m?'granted':'denied'});if(a)loadClarity();}
+  window.visienceConsent=function(a,m){try{localStorage.setItem(K,JSON.stringify({a:!!a,m:!!m}));}catch(e){}apply(!!a,!!m);};
+  var p=null;if(c==='granted')p={a:1,m:1};else if(c==='denied')p={a:0,m:0};else if(c){try{p=JSON.parse(c);}catch(e){}}
+  if(p)apply(!!p.a,!!p.m);
+  gtag('js',new Date());gtag('config','GT-MJWWD7S8');
+  var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
+})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","anatomia-paginii-care-vinde",""],"q":"","i":false,"f":[[["",{"children":["anatomia-paginii-care-vinde",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1j18jy-fz2p7y.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"1c4LrXxhLAQct0H3rb71p"}
+11:I[39756,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
+12:I[37457,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
+14:I[27961,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
+15:I[11015,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
+1a:I[97367,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"ViewportBoundary"]
+1c:I[97367,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"MetadataBoundary"]
+1d:"$Sreact.suspense"
+10:Tf25,<header class="nav" id="nav" role="banner">
+  <div class="wrap nav__in">
+    <a href="/" class="nav__logo" aria-label="Visience — Acasă">
+      <img class="nav__logo-img nav__logo-img--light" src="/media/sigla-mark-visience-new-colors.avif"
+           alt="Visience" width="160" height="30" fetchpriority="high">
+      <img class="nav__logo-img nav__logo-img--dark" src="/media/sigla-visience-dark.avif"
+           alt="" aria-hidden="true" width="160" height="30">
+    </a>
+
+    <nav class="nav__links" aria-label="Navigare principală">
+      <div class="nav__has-drop">
+        <a href="/#servicii">Servicii<svg class="nav__drop-ico" viewBox="0 0 10 6" aria-hidden="true"><path d="M1 1l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+        <div class="nav__drop">
+          <a href="/creare-site-prezentare/">Creare site de prezentare</a>
+          <a href="/creare-magazin-online/">Creare magazin online</a>
+          <a href="/branding-identitate-vizuala/">Branding &amp; identitate</a>
+          <a href="/social-media-management/">Social media</a>
+          <a href="/google-meta-ads/">Google &amp; Meta Ads</a>
+          <a href="/optimizare-seo/">SEO &amp; content</a>
+          <a href="/dezvoltare-software/">Dezvoltare software</a>
+          <a href="/marketing-dezvoltatori-imobiliari/">Marketing pentru dezvoltatori</a>
+        </div>
+      </div>
+      <a href="/portofoliu/">Proiecte</a>
+      <a href="/preturi/">Prețuri</a>
+      <a href="/blog/">Blog</a>
+      <a href="/#rezultate">Rezultate</a>
+      <a href="/#despre">Despre</a>
+      <a href="/contact/">Contact</a>
+    </nav>
+
+    <a href="/#contact" class="nav__cta">Solicită ofertă</a>
+
+    <button class="nav__burger" id="navBurger"
+            aria-label="Deschide meniul" aria-expanded="false" aria-controls="navMob">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<nav class="nav__mob" id="navMob" aria-label="Meniu mobil">
+  <div class="nm-in">
+    <div class="nm-grup">
+      <button type="button" class="nm-l nm-tog" id="nmServicii" aria-expanded="false" aria-controls="nmSub">
+        Servicii
+        <svg class="nm-tog__i" width="18" height="18" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+          <path d="M5 8l5 5 5-5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
+      <div class="nm-sublista" id="nmSub" hidden>
+        <a href="/creare-site-prezentare/" class="nm-sub">Creare site de prezentare</a>
+        <a href="/creare-magazin-online/" class="nm-sub">Creare magazin online</a>
+        <a href="/branding-identitate-vizuala/" class="nm-sub">Branding &amp; identitate</a>
+        <a href="/social-media-management/" class="nm-sub">Social media</a>
+        <a href="/google-meta-ads/" class="nm-sub">Google &amp; Meta Ads</a>
+        <a href="/optimizare-seo/" class="nm-sub">SEO &amp; content</a>
+        <a href="/dezvoltare-software/" class="nm-sub">Dezvoltare software</a>
+        <a href="/marketing-dezvoltatori-imobiliari/" class="nm-sub">Marketing pentru dezvoltatori</a>
+        <a href="/analiza-de-zona/" class="nm-sub">Analiză de zonă</a>
+      </div>
+    </div>
+
+    <a href="/portofoliu/" class="nm-l">Proiecte</a>
+    <a href="/preturi/"   class="nm-l">Prețuri</a>
+    <a href="/blog/"      class="nm-l">Blog</a>
+    <a href="/#rezultate" class="nm-l">Rezultate</a>
+    <a href="/#despre"    class="nm-l">Despre</a>
+    <a href="/contact/"   class="nm-l">Contact</a>
+
+    <div class="nm-jos">
+      <a href="/contact/" class="btn btn-solid nm-cta">Solicită ofertă</a>
+      <div class="nm-contact">
+        <a href="tel:+40771486499">+40 771 486 499</a>
+        <a href="mailto:contact@visience.ro">contact@visience.ro</a>
+      </div>
+    </div>
+  </div>
+</nav>
+5:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$10"}}]
+6:["$","$L11",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L12",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
+13:T1f85,<footer class="footer" role="contentinfo">
+  <div class="wrap">
+
+    <div class="footer__grid">
+
+      <div>
+        <div class="footer__logo">
+          <img src="/media/sigla-mark-visience-new-colors.avif"
+               alt="Visience" width="148" height="28" loading="lazy">
+        </div>
+
+        <p class="footer__brand">
+          Agenție de marketing digital cu 12 ani de experiență. Transformăm imaginea companiilor prin branding, website, social media și marketing precis configurat.
+        </p>
+
+        <p class="footer__trust">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M20 6 9 17l-5-5"/>
+          </svg>
+          Prețuri publice, fără costuri ascunse — <a href="/preturi/">vezi prețurile</a>.
+        </p>
+
+        <div class="footer__contact">
+          <a href="tel:+40771486499">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.67A2 2 0 012 .92h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L6.91 8.09a16 16 0 006 6l1.27-.83a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/>
+            </svg>
+            +40 771 486 499
+          </a>
+          <a href="mailto:contact@visience.ro">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+              <polyline points="22,6 12,13 2,6"/>
+            </svg>
+            contact@visience.ro
+          </a>
+        </div>
+
+        <div class="footer__social">
+          <a href="https://www.facebook.com/visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience pe Facebook">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M24 12c0-6.63-5.37-12-12-12S0 5.37 0 12c0 5.99 4.39 10.95 10.13 11.85v-8.38H7.08V12h3.05V9.36c0-3.01 1.79-4.67 4.53-4.67 1.31 0 2.69.23 2.69.23v2.96h-1.52c-1.49 0-1.96.93-1.96 1.88V12h3.33l-.53 3.47h-2.8v8.38C19.61 22.95 24 17.99 24 12z"/>
+            </svg>
+          </a>
+          <a href="https://www.instagram.com/visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience pe Instagram">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M12 2.16c3.2 0 3.58.01 4.85.07 1.17.05 1.8.25 2.23.41.56.22.96.48 1.38.9.42.42.68.82.9 1.38.16.42.36 1.06.41 2.23.06 1.27.07 1.65.07 4.85s-.01 3.58-.07 4.85c-.05 1.17-.25 1.8-.41 2.23-.22.56-.48.96-.9 1.38-.42.42-.82.68-1.38.9-.42.16-1.06.36-2.23.41-1.27.06-1.65.07-4.85.07s-3.58-.01-4.85-.07c-1.17-.05-1.8-.25-2.23-.41-.56-.22-.96-.48-1.38-.9-.42-.42-.68-.82-.9-1.38-.16-.42-.36-1.06-.41-2.23C2.17 15.58 2.16 15.2 2.16 12s.01-3.58.07-4.85c.05-1.17.25-1.8.41-2.23.22-.56.48-.96.9-1.38.42-.42.82-.68 1.38-.9.42-.16 1.06-.36 2.23-.41C8.42 2.17 8.8 2.16 12 2.16M12 0C8.74 0 8.33.01 7.05.07 5.78.13 4.9.33 4.14.63c-.79.3-1.46.72-2.12 1.38C1.35 2.68.94 3.35.63 4.14.33 4.9.13 5.78.07 7.05.01 8.33 0 8.74 0 12s.01 3.67.07 4.95c.06 1.27.26 2.15.56 2.91.3.79.72 1.46 1.38 2.12.66.66 1.33 1.08 2.12 1.38.76.3 1.64.5 2.91.56C8.33 23.99 8.74 24 12 24s3.67-.01 4.95-.07c1.27-.06 2.15-.26 2.91-.56.79-.3 1.46-.72 2.12-1.38.66-.66 1.08-1.33 1.38-2.12.3-.76.5-1.64.56-2.91.06-1.28.07-1.69.07-4.95s-.01-3.67-.07-4.95c-.06-1.27-.26-2.15-.56-2.91-.3-.79-.72-1.46-1.38-2.12C21.32 1.35 20.65.94 19.86.63 19.1.33 18.22.13 16.95.07 15.67.01 15.26 0 12 0z"/>
+              <path d="M12 5.84A6.16 6.16 0 1 0 18.16 12 6.16 6.16 0 0 0 12 5.84zM12 16a4 4 0 1 1 4-4 4 4 0 0 1-4 4z"/>
+              <circle cx="18.41" cy="5.59" r="1.44"/>
+            </svg>
+          </a>
+          <a href="https://www.tiktok.com/@visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience pe TikTok">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M16.6 5.82A4.28 4.28 0 0 1 15.54 3h-3.09v12.4a2.59 2.59 0 0 1-2.59 2.5 2.59 2.59 0 0 1 0-5.18c.27 0 .52.04.76.12v-3.2a5.79 5.79 0 0 0-.76-.05 5.69 5.69 0 1 0 5.69 5.69V9.01a7.35 7.35 0 0 0 4.29 1.37V7.3a4.29 4.29 0 0 1-3.24-1.48z"/>
+            </svg>
+          </a>
+        </div>
+
+        <div class="footer__anpc">
+          <a class="anpc-b" href="https://anpc.ro/" target="_blank" rel="noopener noreferrer"
+             aria-label="ANPC — Autoritatea Națională pentru Protecția Consumatorilor">
+            <img src="https://anpc.ro/wp-content/themes/anpc/img/anpc_logo.png"
+                 alt="ANPC" width="50" height="18" loading="lazy"
+                 onerror="this.style.display='none'">
+            ANPC
+          </a>
+          <a class="anpc-b" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage"
+             target="_blank" rel="noopener noreferrer"
+             aria-label="SOL — Soluționare Online a Litigiilor">
+            SOL
+          </a>
+        </div>
+      </div>
+
+      <nav aria-label="Servicii">
+        <div class="footer__col-title">Servicii</div>
+        <ul class="footer__links">
+          <li><a href="/creare-site-prezentare/">Creare site de prezentare</a></li>
+          <li><a href="/creare-site-prezentare-iasi/">Creare site de prezentare Iași</a></li>
+          <li><a href="/creare-site-prezentare-bacau/">Creare site de prezentare Bacău</a></li>
+          <li><a href="/creare-site-prezentare-bucuresti/">Creare site de prezentare București</a></li>
+          <li><a href="/creare-magazin-online/">Creare magazin online</a></li>
+          <li><a href="/branding-identitate-vizuala/">Branding &amp; identitate</a></li>
+          <li><a href="/social-media-management/">Social Media</a></li>
+          <li><a href="/google-meta-ads/">Google &amp; Meta Ads</a></li>
+          <li><a href="/optimizare-seo/">SEO &amp; Content</a></li>
+          <li><a href="/dezvoltare-software/">Dezvoltare software</a></li>
+          <li><a href="/marketing-dezvoltatori-imobiliari/">Marketing pentru dezvoltatori</a></li>
+          <li><a href="/marketing-imobiliar-iasi/">Marketing imobiliar Iași</a></li>
+            <li><a href="/analiza-de-zona/">Analiză de zonă</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Companie">
+        <div class="footer__col-title">Companie</div>
+        <ul class="footer__links">
+          <li><a href="/portofoliu/">Portofoliu</a></li>
+          <li><a href="/parteneri/">Parteneri</a></li>
+          <li><a href="/blog/">Blog</a></li>
+          <li><a href="/preturi/">Prețuri</a></li>
+          <li><a href="/#rezultate">Studii de caz</a></li>
+          <li><a href="/#despre">Despre noi</a></li>
+          <li><a href="/contact/">Contact</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Legal">
+        <div class="footer__col-title">Legal &amp; GDPR</div>
+        <ul class="footer__links">
+          <li><a href="/termeni-si-conditii/">Termeni și Condiții</a></li>
+          <li><a href="/politica-de-confidentialitate/">Politică Confidențialitate</a></li>
+          <li><a href="/politica-cookies/">Politică Cookies</a></li>
+        </ul>
+      </nav>
+
+    </div>
+
+    <div class="footer__bottom">
+      <div class="footer__bottom-in">
+        <p class="footer__copy">
+          © 2026 Visience Creative Experience SRL · Toate drepturile rezervate
+        </p>
+        <div class="footer__legal">
+          <a href="/termeni-si-conditii/">Termeni</a>
+          <a href="/politica-de-confidentialitate/">Confidențialitate</a>
+          <a href="/politica-cookies/">Cookies</a>
+          <a href="/gdpr/">GDPR</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</footer>
+7:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$13"}}]
+8:["$","$L14",null,{}]
+9:["$","$L15",null,{}]
+a:["$","$1","c",{"children":[null,["$","$L11",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L12",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+16:T1588,{"@context":"https://schema.org","@graph":[{"@type":"HowTo","@id":"https://visience.ro/anatomia-paginii-care-vinde/#howto","name":"Cum verifici pagina unui ansamblu rezidențial, în 19 puncte","description":"Lista de verificare pentru pagina unui ansamblu rezidențial: antet, primul ecran, tipuri de apartamente, grilă de disponibilitate, galerie, stadiul lucrărilor, zonă, materiale, recenzii, formular și subsol.","inLanguage":"ro-RO","totalTime":"PT30M","step":[{"@type":"HowToStep","position":1,"name":"Sigla, cu numele ansamblului","text":"Numele ansamblului vizibil sus, cu orașul lângă. Numele firmei apare mai jos, la despre dezvoltator.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-1"},{"@type":"HowToStep","position":2,"name":"Meniu scurt, cu cinci intrări","text":"Maximum cinci intrări, cu ancore în aceeași pagină. Disponibilitate și Prețuri printre primele.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-2"},{"@type":"HowToStep","position":3,"name":"Telefonul scris cu cifre","text":"Numărul vizibil în antet, ca link tel:, cu buton fix jos pe telefon și apelul numărat ca eveniment de conversie.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-3"},{"@type":"HowToStep","position":4,"name":"Un buton în antet, care cere ceva mic","text":"Un singur buton, colorat diferit, cu text care spune ce primește omul: Vezi prețurile, nu Contactează-ne.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-4"},{"@type":"HowToStep","position":5,"name":"Titlul: ce, unde și pentru cine","text":"O propoziție cu tipul de locuință, zona și un reper concret, în cel mult zece cuvinte.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-5"},{"@type":"HowToStep","position":6,"name":"Subtitlul care taie pe cine nu e potrivit","text":"Intervalul de preț sau prețul de pornire, plus cui i se potrivește proiectul, în două rânduri.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-6"},{"@type":"HowToStep","position":7,"name":"Două butoane, pentru două momente","text":"Butonul principal pentru vizionare, al doilea discret pentru apartamentele disponibile, repetate la fiecare două-trei secțiuni.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-7"},{"@type":"HowToStep","position":8,"name":"O dovadă mică, sus de tot","text":"Nota Google cu numărul de recenzii, sau câte ansambluri ai livrat, chiar sub butoane.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-8"},{"@type":"HowToStep","position":9,"name":"Imaginea: clădirea ta, în context","text":"Randare sau fotografie a proiectului, cu împrejurimile în cadru, sub 200 KB.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-9"},{"@type":"HowToStep","position":10,"name":"Patru cifre care răspund înainte să fie întrebate","text":"Stadiul lucrărilor, numărul de unități, regimul de înălțime și distanța până în centru, în minute.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-10"},{"@type":"HowToStep","position":11,"name":"Tipurile de apartamente, fiecare cu pagina lui","text":"Card și pagină separată pentru fiecare tipologie, cu plan, suprafață, preț de la și buton.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-11"},{"@type":"HowToStep","position":12,"name":"Grila de disponibilitate, actualizată","text":"Trei stări clare — liber, rezervat, vândut — apăsabile, actualizate din CRM.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-12"},{"@type":"HowToStep","position":13,"name":"Galeria: randări și fotografii de pe teren","text":"Randări marcate ca atare, plus fotografii reale de șantier, cu luna în care au fost făcute.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-13"},{"@type":"HowToStep","position":14,"name":"Stadiul lucrărilor, cu data actualizării","text":"Bară de progres pe etape, două-trei fotografii noi lunar și data actualizării scrisă vizibil.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-14"},{"@type":"HowToStep","position":15,"name":"Zona, în minute și nume","text":"Hartă interactivă și listă de repere cu numele lor și timpul până acolo.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-15"},{"@type":"HowToStep","position":16,"name":"Materiale și dotări, cu marca lor","text":"Structură, închideri, termoizolație, tâmplărie, centrală, cu grosimi și mărci concrete.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-16"},{"@type":"HowToStep","position":17,"name":"Recenzii cu nume, față și proiect","text":"Preluate din Google, cu nume complet și ansamblul în care a cumpărat omul.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-17"},{"@type":"HowToStep","position":18,"name":"Formular de trei câmpuri, plus WhatsApp","text":"Nume, telefon și tipul de apartament, cu buton de WhatsApp lângă și conversie măsurată la trimitere.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-18"},{"@type":"HowToStep","position":19,"name":"Subsolul care arată că firma e reală","text":"Denumire completă, CUI, Registrul Comerțului, sediu, politici, ANPC și SOL.","url":"https://visience.ro/anatomia-paginii-care-vinde/#lev-19"}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Anatomia paginii care vinde","item":"https://visience.ro/anatomia-paginii-care-vinde/"}]}]}b:["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$16"}}],"$L17"],null,"$L18"]}]
+19:[]
+c:"$W19"
+d:["$","$1","h",{"children":[null,["$","$L1a",null,{"children":"$L1b"}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.Metadata","children":"$L1e"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+20:I[97367,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+1f:Tc890,<style>
+/* ══════════════════════════════════════════════
+   ANATOMIA PAGINII — machetă disecată, cu numere
+   ══════════════════════════════════════════════ */
+:root { --pin: #9BC31A; --pin-ink: #1A1A0E; }
+.an {
+  --pin: #9BC31A;
+  --pin-ink: #1A1A0E;
+  --wf: #D9D8D4;
+  --wf2: #C4C3BE;
+  --wf3: #EDECE8;
+  background: var(--cream2, #F1F0EC);
+}
+
+/* ─── hero ─── */
+.an-hero { padding: clamp(70px, 9vw, 120px) 0 clamp(40px, 5vw, 60px); background: var(--white, #fff); }
+.an-hero__in { max-width: 1080px; }
+.an-hero h1 { margin: 0 0 22px; max-width: 17ch; font-size: clamp(34px, 4.6vw, 62px); line-height: 1.06; letter-spacing: -.03em; }
+.an-hero h1 .hi { font-family: var(--f-d); font-style: italic; font-weight: 400; color: var(--acc-deep, #6D8A12); }
+.an-hero__p { font-size: clamp(16px, 1.5vw, 19px); line-height: 1.7; color: var(--ink2, #4A4844); max-width: 62ch; margin: 0 0 10px; }
+.an-hero__p b { color: var(--ink, #111010); }
+
+.an-pasi {
+  display: grid; grid-template-columns: repeat(4, 1fr); gap: clamp(20px, 3vw, 40px);
+  background: var(--white, #fff); border: 1px solid var(--border, #E5E3DE);
+  border-radius: 18px; padding: clamp(26px, 3vw, 38px); margin-top: 38px;
+  box-shadow: 0 18px 50px rgba(17, 16, 16, .06);
+}
+.an-pasi__t { grid-column: 1 / -1; margin: 0 0 6px; font-family: var(--f-d); font-weight: 700; font-size: clamp(17px, 1.8vw, 21px); color: var(--ink, #111010); }
+.an-pasi__t i { font-style: italic; font-weight: 400; color: var(--acc-deep, #6D8A12); }
+.an-pas__n { display: block; font-family: var(--f-d); font-style: italic; font-weight: 700; font-size: 30px; line-height: 1; color: var(--acc-deep, #6D8A12); margin-bottom: 12px; }
+.an-pas p { margin: 0; font-size: 14px; line-height: 1.6; color: var(--ink2, #4A4844); }
+.an-pas p b { color: var(--ink, #111010); }
+
+/* ─── zona machetei ─── */
+.an-macheta { padding: clamp(40px, 5vw, 64px) 0 clamp(60px, 7vw, 90px); }
+.an-macheta__h { text-align: center; margin-bottom: 26px; }
+.an-macheta__k {
+  display: inline-block; font-family: var(--f-m, monospace); font-size: 11px;
+  letter-spacing: .16em; text-transform: uppercase; color: var(--ink2, #4A4844);
+}
+.an-macheta__k b { background: var(--pin); color: var(--pin-ink); padding: 2px 7px; border-radius: 4px; }
+.an-macheta__s { margin: 10px 0 0; font-size: 15px; color: var(--ink2, #4A4844); }
+.an-macheta__s b { color: var(--ink, #111010); }
+
+.an-browser {
+  max-width: 1120px; margin: 0 auto; background: #fff;
+  border-radius: 16px; overflow: hidden; border: 1px solid var(--border, #E5E3DE);
+  box-shadow: 0 30px 80px rgba(17, 16, 16, .12);
+}
+.an-browser__bar {
+  display: flex; align-items: center; gap: 14px;
+  padding: 13px 16px; background: var(--wf3); border-bottom: 1px solid var(--border, #E5E3DE);
+}
+.an-dots { display: flex; gap: 6px; }
+.an-dots i { width: 10px; height: 10px; border-radius: 50%; background: var(--wf2); display: block; }
+.an-url {
+  flex: 1; max-width: 420px; background: #fff; border-radius: 7px;
+  padding: 7px 12px; font-family: var(--f-m, monospace); font-size: 12px; color: var(--mid, #7A7873);
+}
+
+/* ─── piese de wireframe ─── */
+.an-wf { position: relative; }
+.an-wf section { position: relative; padding: 34px clamp(18px, 3vw, 44px); }
+.an-wf .alt { background: var(--wf3); }
+.b { display: block; height: 11px; border-radius: 4px; background: var(--wf); }
+.b.d { background: var(--wf2); height: 15px; }
+.b.t { height: 8px; }
+.w90 { width: 90%; } .w80 { width: 80%; } .w70 { width: 70%; } .w60 { width: 60%; }
+.w50 { width: 50%; } .w40 { width: 40%; } .w30 { width: 30%; } .w20 { width: 20%; }
+.st { display: flex; flex-direction: column; gap: 8px; }
+.an-img {
+  background:
+    repeating-linear-gradient(-45deg, rgba(155,195,26,.16) 0 7px, rgba(155,195,26,.05) 7px 14px);
+  border: 1px solid rgba(155,195,26,.35); border-radius: 10px;
+  display: grid; place-items: center; min-height: 120px;
+}
+.an-img::after {
+  content: ''; width: 26px; height: 21px; border: 2px solid rgba(109,138,18,.4);
+  border-radius: 4px;
+}
+.an-btn { height: 34px; border-radius: 8px; background: var(--pin); width: 130px; }
+.an-btn.g { background: transparent; border: 1.5px solid var(--wf2); }
+.an-chip { height: 24px; border-radius: 6px; background: var(--wf2); width: 74px; }
+.an-card { border: 1px solid var(--border, #E5E3DE); border-radius: 10px; padding: 16px; background: #fff; }
+.an-row { display: grid; gap: 14px; }
+.c2 { grid-template-columns: 1fr 1fr; } .c3 { grid-template-columns: repeat(3, 1fr); }
+.c4 { grid-template-columns: repeat(4, 1fr); } .c5 { grid-template-columns: repeat(5, 1fr); }
+.an-mid { display: grid; grid-template-columns: 1.05fr .95fr; gap: clamp(20px, 3vw, 44px); align-items: center; }
+.an-stele { display: flex; gap: 3px; }
+.an-stele i { width: 11px; height: 11px; background: #E8B830; clip-path: polygon(50% 0, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%); display: block; }
+.an-grila { display: grid; grid-template-columns: repeat(8, 1fr); gap: 5px; }
+.an-grila i { display: block; height: 22px; border-radius: 4px; background: var(--wf); }
+.an-grila i.l { background: rgba(155,195,26,.5); }
+.an-grila i.r { background: rgba(232,184,48,.45); }
+.an-grila i.v { background: var(--wf2); }
+.an-camp { height: 32px; border-radius: 7px; border: 1.5px solid var(--wf); background: #fff; }
+
+/* ─── numerele ─── */
+.has-pin { position: relative; }
+.an-pin {
+  position: absolute; z-index: 5; top: -12px; right: -12px;
+  width: 30px; height: 30px; border-radius: 50%;
+  background: var(--pin); color: var(--pin-ink);
+  border: 2px solid #fff; box-shadow: 0 3px 10px rgba(17,16,16,.22);
+  font-family: var(--f-d); font-weight: 700; font-size: 13px; line-height: 1;
+  display: grid; place-items: center; cursor: pointer; padding: 0;
+  transition: transform .2s ease, box-shadow .2s ease;
+}
+.an-pin:hover, .an-pin:focus-visible { transform: scale(1.18); box-shadow: 0 6px 18px rgba(17,16,16,.3); outline: none; }
+.an-pin.vazut { background: var(--ink, #111010); color: #fff; }
+.an-pin::before {
+  content: ''; position: absolute; inset: -6px; border-radius: 50%;
+  border: 2px solid var(--pin); opacity: .55; animation: anPuls 2.6s ease-out infinite;
+}
+.an-pin.vazut::before { display: none; }
+@keyframes anPuls { 0% { transform: scale(.8); opacity: .6; } 70%, 100% { transform: scale(1.5); opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .an-pin::before { animation: none; } }
+
+/* ─── sertarul ─── */
+.an-fond {
+  position: fixed; inset: 0; background: rgba(17,16,16,.35); z-index: 1200;
+  opacity: 0; pointer-events: none; transition: opacity .3s ease;
+  -webkit-backdrop-filter: blur(2px); backdrop-filter: blur(2px);
+}
+.an-fond.on { opacity: 1; pointer-events: auto; }
+.an-sertar {
+  position: fixed; top: 0; right: 0; bottom: 0; width: min(460px, 92vw);
+  background: #fff; z-index: 1201; transform: translateX(102%);
+  transition: transform .34s cubic-bezier(.4, 0, .2, 1);
+  display: flex; flex-direction: column; box-shadow: -20px 0 60px rgba(17,16,16,.18);
+}
+.an-sertar.on { transform: translateX(0); }
+.an-sertar__sus {
+  display: flex; align-items: flex-start; justify-content: space-between; gap: 16px;
+  padding: 24px 24px 20px; border-bottom: 1px solid var(--border, #E5E3DE);
+}
+.an-sertar__n { font-family: var(--f-d); font-style: italic; font-weight: 700; font-size: 30px; line-height: 1; color: var(--acc-deep, #6D8A12); display: block; }
+.an-sertar__k { display: block; margin-top: 7px; font-family: var(--f-m, monospace); font-size: 10.5px; letter-spacing: .16em; text-transform: uppercase; color: var(--mid, #7A7873); }
+.an-x {
+  width: 34px; height: 34px; flex: 0 0 34px; border-radius: 9px;
+  border: 1px solid var(--border, #E5E3DE); background: #fff; cursor: pointer;
+  display: grid; place-items: center; color: var(--ink, #111010);
+}
+.an-x:hover { background: var(--cream, #F6F5F2); }
+.an-sertar__corp { padding: 24px; overflow-y: auto; flex: 1; }
+.an-sertar__jos {
+  display: flex; align-items: center; justify-content: space-between; gap: 10px;
+  padding: 14px 24px; border-top: 1px solid var(--border, #E5E3DE); background: var(--cream, #F6F5F2);
+}
+.an-nav {
+  border: 1px solid var(--border, #E5E3DE); background: #fff; border-radius: 8px;
+  padding: 8px 14px; font-family: var(--f-m, monospace); font-size: 12px; cursor: pointer; color: var(--ink, #111010);
+}
+.an-nav:disabled { opacity: .35; cursor: default; }
+.an-nav__c { font-family: var(--f-m, monospace); font-size: 12px; color: var(--mid, #7A7873); }
+
+/* ─── conținutul unui punct (folosit și în listă, și în sertar) ─── */
+.lev__t { font-family: var(--f-d); font-weight: 700; font-size: 21px; line-height: 1.3; letter-spacing: -.02em; color: var(--ink, #111010); margin: 0 0 10px; }
+.lev__t i { font-style: italic; font-weight: 400; color: var(--acc-deep, #6D8A12); }
+.lev__p { font-size: 15px; line-height: 1.68; color: var(--ink2, #4A4844); margin: 0 0 20px; }
+.lev__p b { color: var(--ink, #111010); }
+.lev__h { font-family: var(--f-m, monospace); font-size: 10.5px; letter-spacing: .16em; text-transform: uppercase; color: var(--mid, #7A7873); margin: 0 0 11px; }
+.lev ul { list-style: none; margin: 0 0 20px; padding: 0; }
+.lev li { position: relative; padding-left: 20px; margin-bottom: 9px; font-size: 14.5px; line-height: 1.55; color: var(--ink2, #4A4844); }
+.lev li::before { content: ''; position: absolute; left: 0; top: 7px; width: 9px; height: 9px; border-radius: 50%; background: var(--pin); }
+.lev .nu li::before { background: #D6564A; }
+.lev__ex {
+  border-left: 3px solid var(--pin); padding: 4px 0 4px 16px; margin: 0 0 20px;
+  font-size: 14.5px; line-height: 1.6; color: var(--ink2, #4A4844);
+}
+.lev__ex b { color: var(--ink, #111010); }
+
+/* ─── lista completă de dedesubt ─── */
+.an-lista { background: var(--white, #fff); padding: clamp(60px, 7vw, 96px) 0; }
+.an-lista__h { max-width: 720px; margin-bottom: 44px; }
+.an-lista__grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: clamp(26px, 3vw, 46px); }
+.an-lev {
+  border-top: 1px solid var(--border, #E5E3DE); padding-top: 24px;
+}
+.an-lev__n {
+  font-family: var(--f-d); font-style: italic; font-weight: 700; font-size: 26px; line-height: 1;
+  color: var(--acc-deep, #6D8A12); display: block; margin-bottom: 4px;
+}
+.an-lev__k { display: block; font-family: var(--f-m, monospace); font-size: 10.5px; letter-spacing: .16em; text-transform: uppercase; color: var(--mid, #7A7873); margin-bottom: 14px; }
+
+/* ─── încheiere ─── */
+.an-cta { background: var(--ink, #111010); color: #fff; padding: clamp(60px, 7vw, 96px) 0; text-align: center; }
+.an-cta h2 { color: #fff; margin: 0 0 16px; }
+.an-cta h2 .hi { color: var(--pin); }
+.an-cta p { max-width: 56ch; margin: 0 auto 30px; color: rgba(255,255,255,.72); font-size: 16px; line-height: 1.7; }
+.an-cta__acts { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+
+@media (max-width: 900px) {
+  .an-pasi { grid-template-columns: 1fr 1fr; }
+  .an-lista__grid { grid-template-columns: 1fr; }
+  .an-mid { grid-template-columns: 1fr; }
+  .c4, .c5 { grid-template-columns: 1fr 1fr; }
+  .an-grila { grid-template-columns: repeat(6, 1fr); }
+}
+@media (max-width: 600px) {
+  .an-pasi { grid-template-columns: 1fr; }
+  .c3 { grid-template-columns: 1fr; }
+  .an-wf section { padding: 22px 14px; }
+  /* pe telefon macheta trebuie sa se parcurga repede, nu sa se intinda pe zece ecrane */
+  .an-wf .an-img { min-height: 74px !important; }
+  .an-wf .an-mid { gap: 16px; }
+  .an-grila i { height: 16px; }
+  .an-pin { width: 26px; height: 26px; font-size: 12px; top: -10px; right: -8px; }
+  .an-macheta { padding-left: 0; padding-right: 0; }
+}
+</style>
+
+<main class="an">
+
+  <section class="an-hero">
+    <div class="wrap an-hero__in">
+      <h1 class="dd dd-xl">O pagină de ansamblu, <span class="hi">desfăcută</span> bucată cu bucată.</h1>
+      <p class="an-hero__p">
+        Am luat structura pe care o folosim la paginile de ansambluri rezidențiale și am pus un
+        număr pe fiecare piesă. Apeși pe număr și afli de ce e acolo, ce trebuie să conțină și
+        ce o strică.
+      </p>
+      <p class="an-hero__p">
+        <b>Pleci de aici cu o listă cu care poți verifica site-ul pe care îl ai acum.</b>
+      </p>
+
+      <div class="an-pasi">
+        <p class="an-pasi__t">Patru pași, ca să te folosească la ceva <i>concret</i>.</p>
+        <div class="an-pas">
+          <span class="an-pas__n">01</span>
+          <p><b>Citește macheta întreagă.</b> Vezi ordinea în care apar secțiunile, de la antet până la subsol.</p>
+        </div>
+        <div class="an-pas">
+          <span class="an-pas__n">02</span>
+          <p><b>Apasă pe fiecare număr.</b> Se deschide un panou cu ce trebuie făcut și ce trebuie evitat.</p>
+        </div>
+        <div class="an-pas">
+          <span class="an-pas__n">03</span>
+          <p><b>Compară cu site-ul tău.</b> Notează ce lipsește. De obicei lipsesc trei-patru lucruri, nu douăzeci.</p>
+        </div>
+        <div class="an-pas">
+          <span class="an-pas__n">04</span>
+          <p><b>Repară în ordinea de aici.</b> Antetul și primul ecran aduc cel mai mult, cu cel mai puțin efort.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="an-macheta">
+    <div class="wrap">
+      <div class="an-macheta__h">
+        <span class="an-macheta__k">↓ <b>Exemplu</b> &nbsp;pagina unui ansamblu rezidențial</span>
+        <p class="an-macheta__s">Apasă pe cele <b>19 numere verzi</b> ca să vezi de ce e fiecare piesă acolo.</p>
+      </div>
+
+      <div class="an-browser">
+        <div class="an-browser__bar">
+          <span class="an-dots"><i></i><i></i><i></i></span>
+          <span class="an-url">ansamblul-tau.ro</span>
+        </div>
+
+        <div class="an-wf">
+
+          <!-- ANTET -->
+          <section style="display:flex;align-items:center;gap:18px;padding-top:18px;padding-bottom:18px;border-bottom:1px solid var(--wf3)">
+            <span class="has-pin" style="display:block;width:96px">
+              <span class="b d" style="width:100%"></span>
+              <button class="an-pin" data-pin="1" type="button" aria-label="Punctul 1: sigla">1</button>
+            </span>
+            <span class="has-pin" style="display:flex;gap:16px;flex:1">
+              <span class="b t w20"></span><span class="b t w20"></span><span class="b t w20"></span><span class="b t w20"></span>
+              <button class="an-pin" data-pin="2" type="button" aria-label="Punctul 2: meniul">2</button>
+            </span>
+            <span class="has-pin" style="display:block;width:88px">
+              <span class="b t" style="width:100%"></span>
+              <button class="an-pin" data-pin="3" type="button" aria-label="Punctul 3: telefonul">3</button>
+            </span>
+            <span class="has-pin" style="display:block">
+              <span class="an-btn" style="width:112px;height:30px"></span>
+              <button class="an-pin" data-pin="4" type="button" aria-label="Punctul 4: butonul din antet">4</button>
+            </span>
+          </section>
+
+          <!-- PRIMUL ECRAN -->
+          <section>
+            <div class="an-mid">
+              <div class="st" style="gap:14px">
+                <span class="an-chip" style="width:120px;height:20px"></span>
+                <span class="has-pin st" style="gap:9px">
+                  <span class="b d w90"></span><span class="b d w60"></span>
+                  <button class="an-pin" data-pin="5" type="button" aria-label="Punctul 5: titlul">5</button>
+                </span>
+                <span class="has-pin st" style="gap:7px;margin-top:6px">
+                  <span class="b w80"></span><span class="b w70"></span>
+                  <button class="an-pin" data-pin="6" type="button" aria-label="Punctul 6: subtitlul">6</button>
+                </span>
+                <span class="has-pin" style="display:flex;gap:12px;margin-top:12px">
+                  <span class="an-btn"></span><span class="an-btn g"></span>
+                  <button class="an-pin" data-pin="7" type="button" aria-label="Punctul 7: butoanele">7</button>
+                </span>
+                <span class="has-pin" style="display:flex;gap:10px;align-items:center;margin-top:14px">
+                  <span class="an-stele"><i></i><i></i><i></i><i></i><i></i></span>
+                  <span class="b t" style="width:120px"></span>
+                  <button class="an-pin" data-pin="8" type="button" aria-label="Punctul 8: dovada">8</button>
+                </span>
+              </div>
+              <div class="has-pin">
+                <span class="an-img" style="min-height:230px"></span>
+                <button class="an-pin" data-pin="9" type="button" aria-label="Punctul 9: imaginea">9</button>
+              </div>
+            </div>
+          </section>
+
+          <!-- BARA DE REPERE -->
+          <section class="alt" style="padding-top:22px;padding-bottom:22px">
+            <div class="has-pin an-row c4">
+              <span class="st" style="gap:6px"><span class="b d w40"></span><span class="b t w80"></span></span>
+              <span class="st" style="gap:6px"><span class="b d w40"></span><span class="b t w80"></span></span>
+              <span class="st" style="gap:6px"><span class="b d w40"></span><span class="b t w80"></span></span>
+              <span class="st" style="gap:6px"><span class="b d w40"></span><span class="b t w80"></span></span>
+              <button class="an-pin" data-pin="10" type="button" aria-label="Punctul 10: reperele">10</button>
+            </div>
+          </section>
+
+          <!-- TIPURI DE APARTAMENTE -->
+          <section>
+            <div class="st" style="align-items:center;gap:9px;margin-bottom:22px">
+              <span class="b d" style="width:44%"></span><span class="b t" style="width:60%"></span>
+            </div>
+            <div class="has-pin an-row c3">
+              <span class="an-card st" style="gap:9px"><span class="an-img" style="min-height:74px"></span><span class="b d w70"></span><span class="b t w90"></span><span class="b t w60"></span><span class="an-chip" style="margin-top:6px"></span></span>
+              <span class="an-card st" style="gap:9px"><span class="an-img" style="min-height:74px"></span><span class="b d w70"></span><span class="b t w90"></span><span class="b t w60"></span><span class="an-chip" style="margin-top:6px"></span></span>
+              <span class="an-card st" style="gap:9px"><span class="an-img" style="min-height:74px"></span><span class="b d w70"></span><span class="b t w90"></span><span class="b t w60"></span><span class="an-chip" style="margin-top:6px"></span></span>
+              <button class="an-pin" data-pin="11" type="button" aria-label="Punctul 11: tipurile de apartamente">11</button>
+            </div>
+          </section>
+
+          <!-- GRILA -->
+          <section class="alt">
+            <div class="st" style="align-items:center;gap:9px;margin-bottom:20px">
+              <span class="b d" style="width:36%"></span>
+            </div>
+            <div class="has-pin an-grila">
+              <i class="l"></i><i class="l"></i><i class="r"></i><i class="v"></i><i class="l"></i><i class="v"></i><i class="l"></i><i class="r"></i>
+              <i class="v"></i><i class="l"></i><i class="l"></i><i class="v"></i><i class="r"></i><i class="l"></i><i class="v"></i><i class="l"></i>
+              <i class="l"></i><i class="v"></i><i class="l"></i><i class="l"></i><i class="v"></i><i class="r"></i><i class="l"></i><i class="v"></i>
+              <button class="an-pin" data-pin="12" type="button" aria-label="Punctul 12: grila de disponibilitate">12</button>
+            </div>
+          </section>
+
+          <!-- GALERIE -->
+          <section>
+            <div class="has-pin an-row" style="grid-template-columns:1.4fr 1fr 1fr">
+              <span class="an-img" style="min-height:190px;grid-row:span 2"></span>
+              <span class="an-img" style="min-height:88px"></span>
+              <span class="an-img" style="min-height:88px"></span>
+              <span class="an-img" style="min-height:88px"></span>
+              <span class="an-img" style="min-height:88px"></span>
+              <button class="an-pin" data-pin="13" type="button" aria-label="Punctul 13: galeria">13</button>
+            </div>
+          </section>
+
+          <!-- STADIU SANTIER -->
+          <section class="alt">
+            <div class="an-mid">
+              <div class="st" style="gap:9px">
+                <span class="b d w60"></span><span class="b t w90"></span><span class="b t w80"></span>
+                <span class="an-chip" style="margin-top:8px;width:110px"></span>
+              </div>
+              <div class="has-pin">
+                <span class="an-img" style="min-height:150px"></span>
+                <button class="an-pin" data-pin="14" type="button" aria-label="Punctul 14: stadiul lucrărilor">14</button>
+              </div>
+            </div>
+          </section>
+
+          <!-- ZONA -->
+          <section>
+            <div class="an-mid">
+              <div class="has-pin">
+                <span class="an-img" style="min-height:170px"></span>
+                <button class="an-pin" data-pin="15" type="button" aria-label="Punctul 15: zona și harta">15</button>
+              </div>
+              <div class="st" style="gap:11px">
+                <span class="b d w50"></span>
+                <span class="b t w90"></span><span class="b t w80"></span><span class="b t w90"></span><span class="b t w70"></span>
+              </div>
+            </div>
+          </section>
+
+          <!-- MATERIALE -->
+          <section class="alt">
+            <div class="st" style="align-items:center;gap:9px;margin-bottom:20px">
+              <span class="b d" style="width:38%"></span>
+            </div>
+            <div class="has-pin an-row c4">
+              <span class="st" style="gap:7px"><span class="an-chip" style="width:28px;height:28px;border-radius:7px"></span><span class="b t w80"></span><span class="b t w60"></span></span>
+              <span class="st" style="gap:7px"><span class="an-chip" style="width:28px;height:28px;border-radius:7px"></span><span class="b t w80"></span><span class="b t w60"></span></span>
+              <span class="st" style="gap:7px"><span class="an-chip" style="width:28px;height:28px;border-radius:7px"></span><span class="b t w80"></span><span class="b t w60"></span></span>
+              <span class="st" style="gap:7px"><span class="an-chip" style="width:28px;height:28px;border-radius:7px"></span><span class="b t w80"></span><span class="b t w60"></span></span>
+              <button class="an-pin" data-pin="16" type="button" aria-label="Punctul 16: materiale și dotări">16</button>
+            </div>
+          </section>
+
+          <!-- RECENZII -->
+          <section>
+            <div class="has-pin an-row c3">
+              <span class="an-card st" style="gap:8px"><span class="an-stele"><i></i><i></i><i></i><i></i><i></i></span><span class="b t w90"></span><span class="b t w80"></span><span class="b t w40" style="margin-top:6px"></span></span>
+              <span class="an-card st" style="gap:8px"><span class="an-stele"><i></i><i></i><i></i><i></i><i></i></span><span class="b t w90"></span><span class="b t w70"></span><span class="b t w40" style="margin-top:6px"></span></span>
+              <span class="an-card st" style="gap:8px"><span class="an-stele"><i></i><i></i><i></i><i></i><i></i></span><span class="b t w80"></span><span class="b t w90"></span><span class="b t w40" style="margin-top:6px"></span></span>
+              <button class="an-pin" data-pin="17" type="button" aria-label="Punctul 17: recenziile">17</button>
+            </div>
+          </section>
+
+          <!-- FORMULAR -->
+          <section class="alt">
+            <div class="an-mid">
+              <div class="st" style="gap:10px">
+                <span class="b d w60"></span><span class="b t w90"></span>
+              </div>
+              <div class="has-pin st" style="gap:10px">
+                <span class="an-camp"></span><span class="an-camp"></span><span class="an-camp"></span>
+                <span class="an-btn" style="width:100%;margin-top:4px"></span>
+                <button class="an-pin" data-pin="18" type="button" aria-label="Punctul 18: formularul">18</button>
+              </div>
+            </div>
+          </section>
+
+          <!-- SUBSOL -->
+          <section style="background:var(--wf3);padding-top:26px;padding-bottom:26px">
+            <div class="has-pin an-row c4">
+              <span class="st" style="gap:7px"><span class="b w60"></span><span class="b t w80"></span><span class="b t w70"></span></span>
+              <span class="st" style="gap:7px"><span class="b w50"></span><span class="b t w80"></span><span class="b t w60"></span></span>
+              <span class="st" style="gap:7px"><span class="b w50"></span><span class="b t w70"></span><span class="b t w80"></span></span>
+              <span class="st" style="gap:7px"><span class="b w60"></span><span class="b t w60"></span><span class="b t w80"></span></span>
+              <button class="an-pin" data-pin="19" type="button" aria-label="Punctul 19: subsolul">19</button>
+            </div>
+          </section>
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══════ LISTA COMPLETĂ ══════ -->
+  <section class="an-lista" id="lista">
+    <div class="wrap">
+      <div class="an-lista__h">
+        <h2 class="dd dd-lg">Cele 19 piese, pe scurt</h2>
+        <p class="an-hero__p">
+          Aceleași explicații ca în panouri, puse una sub alta. Folosește-le ca listă de
+          verificare pe site-ul pe care îl ai acum: ce ai, ce lipsește, ce e pus prost.
+        </p>
+      </div>
+
+      <div class="an-lista__grid">
+
+        <article class="an-lev lev" id="lev-1">
+          <span class="an-lev__n">01</span>
+          <span class="an-lev__k">Antet</span>
+          <h3 class="lev__t">Sigla, cu <i>numele ansamblului</i>, nu al firmei</h3>
+          <p class="lev__p">Omul a venit dintr-o reclamă pentru un ansamblu anume. Dacă sus vede numele unei firme de construcții pe care n-o cunoaște, are o secundă de îndoială că a nimerit unde trebuie.</p>
+          <p class="lev__h">De făcut</p>
+          <ul>
+            <li>Numele ansamblului, vizibil, cu orașul sau cartierul lângă</li>
+            <li>Sigla duce înapoi pe prima pagină, de oriunde</li>
+            <li>Numele firmei apare mai jos, la „despre dezvoltator”</li>
+          </ul>
+          <p class="lev__ex"><b>Exemplu:</b> „Alfa Park Residence · Botoșani”, nu „S.C. Construct Grup S.R.L.”</p>
+          <p class="lev__h">De evitat</p>
+          <ul class="nu">
+            <li>Siglă cu text ilizibil sub 40 de pixeli înălțime</li>
+            <li>Sigla care nu duce nicăieri când o apeși</li>
+            <li>Două sigle una lângă alta, a firmei și a proiectului</li>
+          </ul>
+        </article>
+
+        <article class="an-lev lev" id="lev-2">
+          <span class="an-lev__n">02</span>
+          <span class="an-lev__k">Antet</span>
+          <h3 class="lev__t">Meniu scurt, cu <i>cinci intrări</i>, nu unsprezece</h3>
+          <p class="lev__p">Meniul unui site de ansamblu nu e un cuprins. E o listă cu ce vrea omul să vadă înainte să sune: ce apartamente sunt, cât costă, unde e, cum arată acum șantierul.</p>
+          <p class="lev__h">De făcut</p>
+          <ul>
+            <li>Maximum cinci intrări, cu cuvintele lui, nu cu ale tale</li>
+            <li>Ancore care duc la secțiuni din aceeași pagină, nu pagini noi</li>
+            <li>„Disponibilitate” și „Prețuri” printre primele</li>
+          </ul>
+          <p class="lev__ex"><b>Exemplu:</b> Apartamente · Prețuri · Stadiu șantier · Zonă · Contact</p>
+          <p class="lev__h">De evitat</p>
+          <ul class="nu">
+            <li>„Acasă” ca prima intrare, când sigla face deja asta</li>
+            <li>Submeniuri care se deschid la trecerea mouse-ului, pe telefon</li>
+            <li>„Misiunea noastră”, „Valori”, „Cariere” pe un site de vânzare</li>
+          </ul>
+        </article>
+
+        <article class="an-lev lev" id="lev-3">
+          <span class="an-lev__n">03</span>
+          <span class="an-lev__k">Antet</span>
+          <h3 class="lev__t">Telefonul, <i>scris cu cifre</i>, nu ascuns într-o iconiță</h3>
+          <p class="lev__p">În imobiliare, o parte bună din cumpărători nu completează niciun formular. Sună. Dacă numărul nu se vede în antet, canalul ăla dispare din statistici și pare că reclama nu produce.</p>
+          <p class="lev__h">De făcut</p>
+          <ul>
+            <li>Numărul scris, vizibil pe desktop, ca link <code>tel:</code></li>
+            <li>Pe telefon, buton fix jos, care rămâne pe ecran la derulare</li>
+            <li>Programul afișat lângă, dacă nu se răspunde non-stop</li>
+          </ul>
+          <p class="lev__ex"><b>Exemplu:</b> „0753 169 349 · L–V, 9:00–18:00”, cu apelul numărat ca eveniment de conversie.</p>
+          <p class="lev__h">De evitat</p>
+          <ul class="nu">
+            <li>Doar o iconiță de telefon, fără cifre</li>
+            <li>Număr scris ca imagine — nu se poate apăsa și nu se poate copia</li>
+            <li>Apeluri nemăsurate, deci canal invizibil în rapoarte</li>
+          </ul>
+        </article>
+
+        <article class="an-lev lev" id="lev-4">
+          <span class="an-lev__n">04</span>
+          <span class="an-lev__k">Antet</span>
+          <h3 class="lev__t">Un buton în antet, care <i>cere ceva mic</i></h3>
+          <p class="lev__p">Butonul din antet e singurul care se vede pe toată pagina. Nu cere semnătură, cere primul pas: lista de prețuri, o vizionare, oferta actualizată.</p>
+          <p class="lev__h">De făcut</p>
+          <ul>
+            <li>Un singur buton, colorat diferit de tot restul antetului</li>
+            <li>Text care spune ce primește omul, nu ce faci tu</li>
+            <li>Duce la formular sau deschide direct WhatsApp</li>
+          </ul>
+          <p class="lev__ex"><b>Exemplu:</b> „Vezi prețurile” convertește mai bine decât „Contactează-ne”, pentru că e clar ce urmează.</p>
+          <p class="lev__h">De evitat</p>
+          <ul class="nu">
+            <li>Trei butoane în antet, toate la fel de importante</li>
+            <li>„Trimite cerere” — sună a formular lung</li>
+            <li>Buton care dispare pe telefon</li>
+          </ul>
+        </article>
+
+        <article class="an-lev lev" id="lev-5">
+          <span class="an-lev__n">05</span>
+          <span class="an-lev__k">Primul ecran</span>
+          <h3 class="lev__t">Titlul: <i>ce, unde și pentru cine</i>, în zece cuvinte</h3>
+          <p class="lev__p">Omul trebuie să înțeleagă în trei secunde ce e proiectul și dacă îl privește, fără să deruleze. Titlul e singurul lucru pe care îl citește toată lumea.</p>
+          <p class="lev__h">De făcut</p>
+          <ul>
+            <li>O propoziție, cu tipul de locuință, zona și un reper concret</li>
+            <li>O cifră, dacă ai una: an de finalizare, număr de unități, distanță</li>
+            <li>Scris cum vorbește cumpărătorul, nu cum scrie arhitectul</li>
+          </ul>
+          <p class="lev__ex"><b>Exemplu:</b> „Apartamente cu 2 și 3 camere în Galata, finalizate în 2027.” Nouă cuvinte, tot ce trebuie.</p>
+          <p class="lev__h">De evitat</p>
+          <ul class="nu">
+            <li>„Bine ai venit pe site-ul nostru”</li>
+            <li>„Locuiește viața la superlativ”</li>
+            <li>„Un nou standard în locuire” — nu spune nimic verificabil</li>
+          </ul>
+        </article>
+
+        <article class="an-lev lev" id="lev-6">
+          <span class="an-lev__n">06</span>
+          <span class="an-lev__k">Primul ecran</span>
+          <h3 class="lev__t">Subtitlul care <i>taie</i> pe cine nu e potrivit</h3>
+          <p class="lev__p">Rolul subtitlului nu e să convingă pe toată lumea. E să facă pe cei nepotriviți să plece, ca vânzătorii tăi să nu-și piardă ziua pe telefon cu ei.</p>
+          <p class="lev__h">De făcut</p>
+          <ul>
+            <li>Intervalul de preț sau prețul de pornire, chiar aici</li>
+            <li>Cui i se potrivește: familie, prima casă, investiție</li>
+            <li>Două rânduri, maximum trei</li>
+          </ul>
+          <p class="lev__ex"><b>Exemplu:</b> „De la 89.000 €, cu avans de 15%. Predare la cheie, cu parcare inclusă.”</p>
+          <p class="lev__h">De evitat</p>
+          <ul class="nu">
+            <li>Un paragraf de cinci rânduri pe care nu-l citește nimeni</li>
+            <li>„Prețuri la cerere” — dublează formularele și înjumătățește vânzările</li>
+            <li>Repetarea titlului cu alte cuvinte</li>
+          </ul>
+        </article>
+
+        <article class="an-lev lev" id="lev-7">
+          <span class="an-lev__n">07</span>
+          <span class="an-lev__k">Primul ecran</span>
+          <h3 class="lev__t">Două butoane: unul <i>pentru cei hotărâți</i>, unul pentru restul</h3>
+          <p class="lev__p">Nu toți sunt în același punct. Unul vrea să vadă un apartament săptămâna asta, altul strânge informații de trei luni. Dacă le dai un singur buton, îl pierzi pe unul dintre ei.</p>
+          <p class="lev__h">De făcut</p>
+          <ul>
+            <li>Butonul principal, colorat: „Programează o vizionare”</li>
+            <li>Al doilea, discret: „Vezi apartamentele disponibile”</li>
+            <li>Amândouă se repetă mai jos, la fiecare două-trei secțiuni</li>
+          </ul>
+          <p class="lev__ex"><b>Exemplu:</b> pe pagina Armur Design butonul de ofertă apare de patru ori pe parcursul paginii. Omul nu trebuie să caute unde lasă datele.</p>
+          <p class="lev__h">De evitat</p>
+          <ul class="nu">
+            <li>Două butoane cu aceeași culoare — nu se înțelege care e principalul</li>
+            <li>„Află mai multe”, care nu spune unde duce</li>
+            <li>Butonul principal care deschide un PDF</li>
+          </ul>
+        </article>
+
+        <article class="an-lev lev" id="lev-8">
+          <span class="an-lev__n">08</span>
+          <span class="an-lev__k">Primul ecran</span>
+          <h3 class="lev__t">O dovadă mică, <i>sus de tot</i></h3>
+          <p class="lev__p">Un rând cu ceva verificabil, chiar sub butoane, schimbă tonul întregii pagini. Nu e nevoie de o secțiune întreagă, e nevoie de un semn că firma există de dinainte de site-ul ăsta.</p>
+          <p class="lev__h">De făcut</p>
+          <ul>
+            <li>Nota Google cu numărul de recenzii, luată automat</li>
+            <li>Sau: câte ansambluri ai livrat, cu ani</li>
+            <li>Sau: câte apartamente s-au vândut deja în faza curentă</li>
+          </ul>
+          <p class="lev__ex"><b>Exemplu:</b> „4,8 din 5 pe Google, 63 de recenzii” sau „Al treilea ansamblu livrat în Iași din 2019”.</p>
+          <p class="lev__h">De evitat</p>
+          <ul class="nu">
+            <li>Stele desenate, fără număr de recenzii în spate</li>
+            <li>„Peste 1.000 de clienți mulțumiți”, fără sursă</li>
+            <li>Sigle de „parteneri” care sunt de fapt furnizori</li>
+          </ul>
+        </article>
+
+        <article class="an-lev lev" id="lev-9">
+          <span class="an-lev__n">09</span>
+          <span class="an-lev__k">Primul ecran</span>
+          <h3 class="lev__t">Imaginea: <i>clădirea ta</i>, nu un apartament din Stockholm</h3>
+          <p class="lev__p">Imaginea din primul ecran e cea care decide dacă omul derulează. Trebuie să arate exact ce cumpără: clădirea, din exterior, în context, cu vegetație și oameni, nu un hol alb dintr-o bancă de imagini.</p>
+          <p class="lev__h">De făcut</p>
+          <ul>
+            <li>Randare a proiectului tău, sau fotografie dacă e construit</li>
+            <li>Cu împrejurimile în cadru: stradă, copaci, mașini, scară umană</li>
+            <li>Sub 200 KB, în format modern, ca să se încarce sub 2,5 secunde</li>
+          </ul>
+          <p class="lev__ex"><b>Exemplu:</b> o randare de exterior cu un om pe bicicletă în prim-plan spune „aici se locuiește” mai bine decât zece rânduri de text.</p>
+          <p class="lev__h">De evitat</p>
+          <ul class="nu">
+            <li>Fotografii de stoc cu interioare care nu sunt ale tale</li>
+            <li>Randări fără context, clădirea plutind pe fond alb</li>
+            <li>Imagine de 4 MB care ține pagina în loc pe telefon</li>
+          </ul>
+        </article>
+
+        <article class="an-lev lev" id="lev-10">
+          <span class="an-lev__n">10</span>
+          <span class="an-lev__k">Repere</span>
+          <h3 class="lev__t">Patru cifre care <i>răspund înainte să fie întrebate</i></h3>
+          <p class="lev__p">O bandă subțire, imediat sub primul ecran, cu datele pe care le cere oricine la primul telefon. Fiecare cifră de aici e un telefon mai scurt pentru echipa de vânzări.</p>
+          <p class="lev__h">De făcut</p>
+          <ul>
+            <li>Stadiul lucrărilor și termenul de predare</li>
+            <li>Câte unități are proiectul și câte mai sunt libere</li>
+            <li>Regimul de înălțime și numărul de locuri de parcare</li>
+            <li>Distanța până în centru, în minute, nu în kilometri</li>
+          </ul>
+          <p class="lev__ex"><b>Exemplu:</b> „Predare T4 2027 · 48 de apartamente · 12 minute până în centru · parcare subterană”.</p>
+          <p class="lev__h">De evitat</p>
+          <ul class="nu">
+            <li>Cifre generale de firmă: „25 de ani de experiență”</li>
+            <li>Iconițe fără cifre lângă ele</li>
+            <li>Date care rămân neactualizate șase luni</li>
+          </ul>
+        </article>
+
+        <article class="an-lev lev" id="lev-11">
+          <span class="an-lev__n">11</span>
+          <span class="an-lev__k">Corp</span>
+          <h3 class="lev__t">Tipurile de apartamente, <i>fiecare cu pagina lui</i></h3>
+          <p class="lev__p">Omul nu caută „ansamblu rezidențial”. Caută „apartament 2 camere Galata”. Dacă fiecare tipologie are pagina ei, prinzi căutarea aia și, în plus, ai unde trimite reclama potrivită.</p>
+          <p class="lev__h">De făcut</p>
+          <ul>
+            <li>Card pentru fiecare tipologie: plan, suprafață, preț de la, buton</li>
+            <li>Pagină separată pentru fiecare, indexabilă, cu adresă proprie</li>
+            <li>Planul descărcabil în PDF, fără să ceri datele înainte</li>
+          </ul>
+          <p class="lev__ex"><b>Exemplu:</b> <code>/apartamente-2-camere/</code> prinde o căutare pe care pagina principală n-o prinde niciodată.</p>
+          <p class="lev__h">De evitat</p>
+          <ul class="nu">
+            <li>Un singur PDF cu toate planurile, de 30 MB</li>
+            <li>Planuri care se deschid într-o fereastră nouă și pierd omul</li>
+            <li>Suprafețe scrise doar în tabelul din subsol</li>
+          </ul>
+        </article>
+
+        <article class="an-lev lev" id="lev-12">
+          <span class="an-lev__n">12</span>
+          <span class="an-lev__k">Corp</span>
+          <h3 class="lev__t">Grila de disponibilitate, <i>actualizată</i>, nu decorativă</h3>
+          <p class="lev__p">E secțiunea cu cel mai mult timp petrecut pe ea, pe orice site de ansamblu. Arată ce e liber, ce e rezervat și ce s-a vândut, și scade întrebările repetate care ajung la vânzări.</p>
+          <p class="lev__h">De făcut</p>
+          <ul>
+            <li>Trei stări clare, cu culori diferite: liber, rezervat, vândut</li>
+            <li>Apeși pe un apartament și vezi planul și prețul</li>
+            <li>Actualizată din CRM sau dintr-un tabel, nu manual în cod</li>
+          </ul>
+          <p class="lev__ex"><b>Exemplu:</b> vândutul lăsat vizibil, nu șters. Un bloc pe jumătate vândut e cel mai bun argument de grabă pe care îl ai.</p>
+          <p class="lev__h">De evitat</p>
+          <ul class="nu">
+            <li>Grilă care arată tot liber de opt luni</li>
+            <li>Ștergerea apartamentelor vândute din grilă</li>
+            <li>Imagine statică în loc de grilă apăsabilă</li>
+          </ul>
+        </article>
+
+        <article class="an-lev lev" id="lev-13">
+          <span class="an-lev__n">13</span>
+          <span class="an-lev__k">Corp</span>
+          <h3 class="lev__t">Galeria: randări <i>și</i> fotografii de pe teren</h3>
+          <p class="lev__p">Randările arată ce va fi. Fotografiile de șantier arată că se întâmplă. Cumpărătorul care dă avans pentru ceva neterminat are nevoie de amândouă, iar a doua lipsește aproape de pe toate site-urile.</p>
+          <p class="lev__h">De făcut</p>
+          <ul>
+            <li>Randări de exterior și de interior, marcate ca atare</li>
+            <li>Fotografii reale de pe șantier, cu luna în care au fost făcute</li>
+            <li>Se deschid mare la apăsare, cu săgeți pentru următoarea</li>
+          </ul>
+          <p class="lev__ex"><b>Exemplu:</b> o etichetă „iunie 2026” pe fotografia de șantier valorează cât un paragraf de promisiuni.</p>
+          <p class="lev__h">De evitat</p>
+          <ul class="nu">
+            <li>Randări prezentate ca fotografii, fără să se spună</li>
+            <li>Galerie cu 40 de imagini aproape identice</li>
+            <li>Poze făcute cu telefonul, în ceață, contra luminii</li>
+          </ul>
+        </article>
+
+        <article class="an-lev lev" id="lev-14">
+          <span class="an-lev__n">14</span>
+          <span class="an-lev__k">Corp</span>
+          <h3 class="lev__t">Stadiul lucrărilor, cu <i>data ultimei actualizări</i></h3>
+          <p class="lev__p">Secțiunea asta face două lucruri deodată: liniștește cumpărătorul care a dat deja avans și convinge pe cel care ezită. E și motivul pentru care oamenii se întorc pe site fără să dai bani pe reclamă.</p>
+          <p class="lev__h">De făcut</p>
+          <ul>
+            <li>O bară de progres pe etape, cu procentul curent</li>
+            <li>Două-trei fotografii noi în fiecare lună</li>
+            <li>Data actualizării, scrisă vizibil</li>
+          </ul>
+          <p class="lev__ex"><b>Exemplu:</b> „Structură: finalizată · Închideri: 70% · Finisaje: în curs. Actualizat pe 12 august 2026.”</p>
+          <p class="lev__h">De evitat</p>
+          <ul class="nu">
+            <li>„În curs de execuție”, fără dată și fără procent</li>
+            <li>Aceleași fotografii de la turnarea fundației, un an mai târziu</li>
+            <li>Bară de progres care arată 80% de nouă luni</li>
+          </ul>
+        </article>
+
+        <article class="an-lev lev" id="lev-15">
+          <span class="an-lev__n">15</span>
+          <span class="an-lev__k">Corp</span>
+          <h3 class="lev__t">Zona, în <i>minute și nume</i>, nu în adjective</h3>
+          <p class="lev__p">Cine cumpără într-un cartier pe care nu-l știe are aceleași cinci întrebări: unde e școala, unde e magazinul, cât fac până la muncă, ce se mai construiește în jur, cum e cu parcarea.</p>
+          <p class="lev__h">De făcut</p>
+          <ul>
+            <li>Hartă cu proiectul marcat, care se poate mișca</li>
+            <li>Listă de repere cu numele lor și timpul până acolo</li>
+            <li>Ce se construiește în jur, dacă e în avantajul tău</li>
+          </ul>
+          <p class="lev__ex"><b>Exemplu:</b> „Școala Gimnazială nr. 26 — 6 minute pe jos” bate „aproape de toate facilitățile”.</p>
+          <p class="lev__h">De evitat</p>
+          <ul class="nu">
+            <li>„Zonă liniștită, cu acces facil” — nimeni nu scrie contrariul</li>
+            <li>Hartă ca imagine, fără interacțiune</li>
+            <li>Distanțe în kilometri, când oamenii gândesc în minute</li>
+          </ul>
+        </article>
+
+        <article class="an-lev lev" id="lev-16">
+          <span class="an-lev__n">16</span>
+          <span class="an-lev__k">Corp</span>
+          <h3 class="lev__t">Materiale și dotări, <i>cu marca lor</i></h3>
+          <p class="lev__p">Secțiunea care pare plictisitoare și care de fapt convinge. Cumpărătorul serios compară două proiecte exact pe lista asta, iar cine scrie mărcile câștigă în fața celui care scrie „materiale premium”.</p>
+          <p class="lev__h">De făcut</p>
+          <ul>
+            <li>Structură, închideri, termoizolație, tâmplărie, centrală, lift</li>
+            <li>Grosimi, clase de eficiență, mărci concrete</li>
+            <li>Ce e inclus în preț și ce se plătește separat</li>
+          </ul>
+          <p class="lev__ex"><b>Exemplu:</b> „Termoizolație polistiren 10 cm · tâmplărie tripan · centrală proprie pe gaz” spune mai mult decât „finisaje de calitate superioară”.</p>
+          <p class="lev__h">De evitat</p>
+          <ul class="nu">
+            <li>„Materiale premium de la furnizori de top”</li>
+            <li>Lista ascunsă într-un PDF pe care trebuie să-l ceri</li>
+            <li>Dotări trecute la comun, fără să se spună ce e opțional</li>
+          </ul>
+        </article>
+
+        <article class="an-lev lev" id="lev-17">
+          <span class="an-lev__n">17</span>
+          <span class="an-lev__k">Corp</span>
+          <h3 class="lev__t">Recenzii cu <i>nume, față și proiect</i></h3>
+          <p class="lev__p">O recenzie fără nume nu convinge pe nimeni. Una cu numele omului, fotografia lui și proiectul în care a cumpărat face cât toată pagina de „despre noi”.</p>
+          <p class="lev__h">De făcut</p>
+          <ul>
+            <li>Preluate automat din Google, cu link către profil</li>
+            <li>Nume complet, cu acordul lui, și ansamblul în care a cumpărat</li>
+            <li>Trei-patru, alese pentru ce spun, nu pentru câte stele au</li>
+          </ul>
+          <p class="lev__ex"><b>Exemplu:</b> o recenzie care spune „am primit cheile cu două săptămâni mai devreme” valorează cât zece de „recomand cu încredere”.</p>
+          <p class="lev__h">De evitat</p>
+          <ul class="nu">
+            <li>„M.P., client mulțumit” — citește ca inventat</li>
+            <li>Fotografii de stoc puse ca chipuri de clienți</li>
+            <li>Douăzeci de recenzii într-un carusel care se învârte singur</li>
+          </ul>
+        </article>
+
+        <article class="an-lev lev" id="lev-18">
+          <span class="an-lev__n">18</span>
+          <span class="an-lev__k">Contact</span>
+          <h3 class="lev__t">Formular de <i>trei câmpuri</i>, plus WhatsApp</h3>
+          <p class="lev__p">Fiecare câmp în plus taie din numărul de oameni care îl completează. Nu ai nevoie de CNP la primul contact. Ai nevoie de un nume, un număr și eventual ce tip de apartament caută.</p>
+          <p class="lev__h">De făcut</p>
+          <ul>
+            <li>Nume, telefon și o listă scurtă cu tipul de apartament</li>
+            <li>Buton de WhatsApp lângă, pentru cei care nu scriu în formulare</li>
+            <li>Mesaj de confirmare care spune în cât timp se sună</li>
+            <li>Trimiterea numărată ca eveniment de conversie, nu doar afișarea paginii de mulțumire</li>
+          </ul>
+          <p class="lev__ex"><b>Exemplu:</b> „Te sunăm în aceeași zi lucrătoare” e o promisiune pe care o poți ține și care crește completările.</p>
+          <p class="lev__h">De evitat</p>
+          <ul class="nu">
+            <li>Șapte câmpuri, dintre care patru obligatorii</li>
+            <li>Casetă de mesaj mare, care sperie</li>
+            <li>Formular fără bifă de acord pentru prelucrarea datelor</li>
+          </ul>
+        </article>
+
+        <article class="an-lev lev" id="lev-19">
+          <span class="an-lev__n">19</span>
+          <span class="an-lev__k">Subsol</span>
+          <h3 class="lev__t">Subsolul care <i>arată că firma e reală</i></h3>
+          <p class="lev__p">Nimeni nu citește subsolul din plăcere. Dar cine e pe punctul să dea un avans de 15.000 € se uită acolo după datele firmei. Un subsol gol e un semn de întrebare exact în momentul deciziei.</p>
+          <p class="lev__h">De făcut</p>
+          <ul>
+            <li>Denumirea completă, CUI, numărul de la Registrul Comerțului, sediul</li>
+            <li>Politica de confidențialitate, politica de cookies, ANPC și SOL</li>
+            <li>Datele de contact, repetate, și linkurile către rețele</li>
+          </ul>
+          <p class="lev__ex"><b>Exemplu:</b> linkurile ANPC și SOL sunt obligatorii pentru site-urile care vând către persoane fizice, iar lipsa lor se sancționează.</p>
+          <p class="lev__h">De evitat</p>
+          <ul class="nu">
+            <li>Subsol cu o singură linie: „Toate drepturile rezervate”</li>
+            <li>An de copyright rămas la 2021</li>
+            <li>Linkuri către rețele sociale care duc la pagini goale</li>
+          </ul>
+        </article>
+
+      </div>
+    </div>
+  </section>
+
+  <section class="an-cta">
+    <div class="wrap">
+      <h2 class="dd dd-lg">Vrei să vezi ce lipsește de pe <span class="hi">site-ul tău</span>?</h2>
+      <p>
+        Trimite-ne adresa. Ne uităm la ea cu lista asta în mână și îți spunem, în scris, ce
+        lipsește și în ce ordine merită reparat. Fără obligații și fără prezentare de vânzare.
+      </p>
+      <div class="an-cta__acts">
+        <a href="/contact/" class="btn btn-solid">Cere o verificare <span aria-hidden="true">→</span></a>
+        <a href="/marketing-dezvoltatori-imobiliari/" class="btn btn-dark">Marketing pentru dezvoltatori</a>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<!-- sertarul -->
+<div class="an-fond" id="anFond" hidden></div>
+<aside class="an-sertar" id="anSertar" role="dialog" aria-modal="true" aria-labelledby="anSertarT" hidden>
+  <div class="an-sertar__sus">
+    <div>
+      <span class="an-sertar__n" id="anSertarN">01</span>
+      <span class="an-sertar__k" id="anSertarK">Antet</span>
+    </div>
+    <button class="an-x" id="anX" type="button" aria-label="Închide">
+      <svg width="13" height="13" viewBox="0 0 13 13" fill="none" aria-hidden="true"><path d="M1.5 1.5l10 10M11.5 1.5l-10 10" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg>
+    </button>
+  </div>
+  <div class="an-sertar__corp lev" id="anSertarC"></div>
+  <div class="an-sertar__jos">
+    <button class="an-nav" id="anPrev" type="button">← Înapoi</button>
+    <span class="an-nav__c" id="anCount">1 / 19</span>
+    <button class="an-nav" id="anNext" type="button">Următorul →</button>
+  </div>
+</aside>
+17:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$1f"}}]
+18:["$","$L20",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@21"}]}]
+1b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#FFFFFF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#111114","media":"(prefers-color-scheme: dark)"}]]
+22:I[27201,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"IconMark"]
+1e:[["$","title","0",{"children":"Anatomia unei pagini de ansamblu care aduce lead-uri | Visience"}],["$","meta","1",{"name":"description","content":"Macheta unei pagini de ansamblu rezidențial, desfăcută în 19 piese. Apeși pe un număr și afli de ce e acolo, ce trebuie să conțină și ce o strică. Listă de verificare pentru site-ul pe care îl ai acum."}],["$","link","2",{"rel":"canonical","href":"https://visience.ro/anatomia-paginii-care-vinde/"}],["$","meta","3",{"property":"og:title","content":"Anatomia unei pagini de ansamblu care aduce lead-uri — Visience"}],["$","meta","4",{"property":"og:description","content":"19 piese dintr-o pagină de ansamblu rezidențial, fiecare explicată: ce trebuie să conțină și ce o strică."}],["$","meta","5",{"property":"og:url","content":"https://visience.ro/anatomia-paginii-care-vinde/"}],["$","meta","6",{"property":"og:locale","content":"ro_RO"}],["$","meta","7",{"property":"og:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Agenție de Marketing & Creare Site-uri în Iași | Visience"}],["$","meta","11",{"name":"twitter:description","content":"Branding, website-uri, magazine online, Google & Meta Ads, SEO. Prețuri publice, fără costuri ascunse."}],["$","meta","12",{"name":"twitter:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","link","13",{"rel":"icon","href":"/favicon.ico?favicon.04nd99rd6ooix.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","14",{"rel":"icon","href":"/icon.png?icon.3v2r-pcu8x6vx.png","sizes":"192x192","type":"image/png"}],["$","link","15",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2y52blaubq-q-.png","sizes":"180x180","type":"image/png"}],["$","$L22","16",{}]]
+21:null
