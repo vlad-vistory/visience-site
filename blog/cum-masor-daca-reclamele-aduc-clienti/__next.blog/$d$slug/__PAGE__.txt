@@ -1,0 +1,172 @@
+1:"$Sreact.fragment"
+a:I[97367,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["/_next/static/chunks/28or4npab1wgt.css","style"]
+2:T11df,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/cum-masor-daca-reclamele-aduc-clienti/#article","headline":"Cum măsor dacă reclamele aduc clienți reali sau doar clickuri?","description":"Cele cinci trepte de la click la client, ce măsori la fiecare, de ce cifrele din platforme nu se potrivesc cu realitatea și ce cifre ceri într-un raport lunar.","datePublished":"2026-08-20","dateModified":"2026-08-20","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/cum-masor-daca-reclamele-aduc-clienti/","articleSection":"Marketing & business"},{"@type":"FAQPage","@id":"https://visience.ro/blog/cum-masor-daca-reclamele-aduc-clienti/#faq","mainEntity":[{"@type":"Question","name":"Cum măsor dacă reclamele aduc clienți reali sau doar clickuri?","acceptedAnswer":{"@type":"Answer","text":"Măsoară cele cinci trepte: click, cerere, apel preluat, ofertă sau întâlnire, client plătitor. Ai nevoie de evenimente de conversie pe site, de un singur loc în care intră toate cererile cu sursa lor și de un status completat pe fiecare cerere. Reclama se judecă pe costul pe client, nu pe costul pe click."}},{"@type":"Question","name":"De ce cifrele din Google Ads nu se potrivesc cu cele din realitate?","acceptedAnswer":{"@type":"Answer","text":"Din patru motive: ferestre de atribuire diferite între platforme, conversii estimate statistic când urmărirea directă nu e posibilă, vizitatori care refuză cookie-urile și nu sunt urmăriți, și decizii care durează mai mult decât fereastra de atribuire."}},{"@type":"Question","name":"Ce trebuie configurat minimum ca să pot măsura reclamele?","acceptedAnswer":{"@type":"Answer","text":"Evenimente de conversie pe formular, pe apăsarea numărului de telefon și pe clickul de WhatsApp, etichete UTM pe toate linkurile din reclame, un singur loc unde intră cererile și un câmp de status pe fiecare cerere."}},{"@type":"Question","name":"Ce e o rată de conversie normală pentru un site de servicii?","acceptedAnswer":{"@type":"Answer","text":"De regulă între 1 și 5% din vizitatori lasă o cerere. O rată de peste 15–20% e aproape întotdeauna semn că se numără și altceva decât cererile reale."}},{"@type":"Question","name":"Merită să întreb clienții de unde au auzit de noi?","acceptedAnswer":{"@type":"Answer","text":"Ca discuție, da. Ca măsurătoare, nu. Oamenii spun de obicei ultimul pas, chiar dacă decizia a pornit de la o reclamă văzută cu zile înainte. Folosește răspunsul ca să afli ce i-a convins, nu ca să împarți bugetul."}},{"@type":"Question","name":"Ce sunt conversiile offline și când am nevoie de ele?","acceptedAnswer":{"@type":"Answer","text":"Înseamnă să trimiți înapoi în Google Ads și Meta informația despre care cereri au devenit clienți, ca algoritmul să caute oameni asemănători. Merită la firme cu volum mare de lead-uri; la volume mici e suficient să ții sursa în CRM."}},{"@type":"Question","name":"Cum măsor apelurile telefonice venite din reclame?","acceptedAnswer":{"@type":"Answer","text":"Numărul de telefon trebuie să fie un link apăsabil, iar apăsarea lui configurată ca eveniment de conversie. Fără asta, canalul telefonic pare mort în rapoarte, deși la firmele de servicii aduce des jumătate din cereri."}},{"@type":"Question","name":"Ce cifre ar trebui să conțină raportul lunar de la agenție?","acceptedAnswer":{"@type":"Answer","text":"Numărul de cereri pe canal, costul pe cerere pe canal, câte cereri au devenit discuții reale, câți clienți au ieșit și ce valoare au adus, plus ce s-a schimbat în cont luna trecută și ce urmează."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Cum măsor dacă reclamele aduc clienți reali sau doar clickuri?","item":"https://visience.ro/blog/cum-masor-daca-reclamele-aduc-clienti/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0lmkHUBy2P1XxH1Q_j3bH"}
+6:T288b,<style>
+.pr-tab { width: 100%; border-collapse: collapse; font-size: 14.5px; }
+.pr-tab th { text-align: left; }
+.pr-nota {
+  background: #111010; color: #fff; border-radius: 14px;
+  padding: 20px 24px; margin: 28px 0; font-size: 15px; line-height: 1.65;
+}
+.pr-nota b {
+  color: #9BC31A; display: block; font-size: 11px; letter-spacing: .16em;
+  text-transform: uppercase; margin-bottom: 7px; font-family: var(--f-m, monospace);
+}
+.pr-sumar { border-left: 3px solid #9BC31A; padding: 4px 0 4px 22px; margin: 30px 0 38px; list-style: none; }
+.pr-sumar li { margin-bottom: 11px; }
+code { background: rgba(17,16,16,.06); padding: 1px 5px; border-radius: 4px; font-size: .92em; }
+</style>
+
+<p class="key-answer">Clickul nu e o măsură. Între click și client sunt cinci trepte, iar reclama
+se judecă pe ultima, nu pe prima: <strong>click → cerere → apel preluat → întâlnire sau ofertă →
+client plătitor</strong>. Ca să știi dacă reclamele aduc clienți reali, ai nevoie de trei lucruri:
+evenimente de conversie pe site, un loc unde intră toate cererile cu sursa lor, și obiceiul de a
+trece în acel loc ce s-a întâmplat după.</p>
+
+<ul class="pr-sumar">
+  <li><b>Treapta 1:</b> clickuri și cost pe click — se vede în Google Ads și Meta. Nu spune nimic despre clienți.</li>
+  <li><b>Treapta 2:</b> cereri — formular, apel, WhatsApp, măsurate ca evenimente de conversie.</li>
+  <li><b>Treapta 3:</b> apeluri preluate — câte dintre cereri au răspuns la telefon.</li>
+  <li><b>Treapta 4:</b> oferte trimise sau întâlniri.</li>
+  <li><b>Treapta 5:</b> clienți plătitori și valoarea lor. Aici se judecă bugetul.</li>
+</ul>
+
+<h2 id="trepte">Ce măsori la fiecare treaptă</h2>
+<table class="pr-tab">
+  <thead><tr><th>Treapta</th><th>Unde se vede</th><th>Cifra care contează</th></tr></thead>
+  <tbody>
+    <tr><td>Clickuri</td><td>Google Ads, Meta Ads</td><td>cost pe click — util doar ca semnal de preț al pieței</td></tr>
+    <tr><td>Cereri</td><td>evenimente de conversie, GA4</td><td>cost pe cerere</td></tr>
+    <tr><td>Apeluri preluate</td><td>CRM sau un tabel</td><td>câte cereri au răspuns la telefon</td></tr>
+    <tr><td>Oferte sau întâlniri</td><td>CRM</td><td>câte cereri au devenit discuții reale</td></tr>
+    <tr><td>Clienți</td><td>CRM, facturare</td><td><b>cost pe client</b> și valoarea medie</td></tr>
+  </tbody>
+</table>
+<p>Cele mai multe firme se opresc la treapta a doua. De acolo încolo, informația există — o știe
+omul de la vânzări — dar nu ajunge niciodată înapoi lângă cifra de buget.</p>
+
+<div class="pr-nota">
+  <b>De reținut</b>
+  O campanie cu 300 de clickuri și 4 clienți e mai bună decât una cu 3.000 de clickuri și 3
+  clienți, chiar dacă a doua arată de zece ori mai bine în raport. Dacă raportul lunar pe care îl
+  primești se oprește la afișări, clickuri și rată de click, nu ai un raport, ai o captură de
+  ecran.
+</div>
+
+<h2 id="minimul">Minimul de configurat, ca să poți măsura ceva</h2>
+<ol>
+  <li><b>Evenimente de conversie pe toate căile de contact.</b> Nu doar formularul: și apăsarea numărului de telefon, și clickul pe WhatsApp. La servicii, jumătate din cereri vin pe telefon.</li>
+  <li><b>Etichete UTM pe toate linkurile</b> din reclame, e-mailuri și postări. Fără ele, traficul din Facebook apare ca „direct" și nu mai știi de unde a venit.</li>
+  <li><b>Un singur loc pentru cereri.</b> Poate fi un CRM sau un tabel, dar unul singur. Cererile împrăștiate pe e-mail, WhatsApp și telefon nu se pot număra.</li>
+  <li><b>Un câmp de status</b> pe fiecare cerere: contactat, ofertat, client, pierdut. Trei secunde de completare pe cerere.</li>
+</ol>
+<p>La noi, CRM-ul reține automat pentru fiecare cerere <b>pagina pe care a intrat omul, butonul pe
+care l-a apăsat și sursa vizitei</b>, tocmai ca treptele 2–5 să se poată lega fără muncă în plus.
+Configurarea completă a măsurătorii costă <b>400 €</b>, o singură dată, și e pe
+<a href="/preturi/">pagina de prețuri</a>.</p>
+
+<h2 id="platforme">De ce cifrele din platforme nu se potrivesc cu realitatea</h2>
+<p>E normal să nu se potrivească, și e util să știi de ce, ca să nu tragi concluzii greșite:</p>
+<ul>
+  <li><b>Ferestre de atribuire diferite.</b> Meta pune pe seama ei o conversie petrecută în 7 zile de la click. Google are propriile reguli. Aceeași vânzare poate apărea în ambele rapoarte.</li>
+  <li><b>Conversii modelate.</b> Când nu poate urmări direct, platforma estimează statistic. Cifra e utilă pentru optimizare, dar nu e o listă de oameni.</li>
+  <li><b>Consimțământ.</b> Cine refuză cookie-urile nu e urmărit. O parte din conversii pur și simplu nu se văd.</li>
+  <li><b>Timp până la decizie.</b> La servicii scumpe și la imobiliare, între click și contract pot trece luni. Fereastra de atribuire se închide înainte.</li>
+</ul>
+<p>Concluzia practică: <b>folosește cifrele din platforme ca să optimizezi, și cifrele din CRM ca
+să decizi bugetul.</b> Nu invers.</p>
+
+<h2 id="offline">Cum legi vânzarea de reclamă</h2>
+<p>Două variante, în funcție de cât de departe vrei să duci măsurarea:</p>
+<table class="pr-tab">
+  <thead><tr><th>Varianta</th><th>Cum funcționează</th><th>Pentru cine</th></tr></thead>
+  <tbody>
+    <tr><td>Simplă: sursa în CRM</td><td>fiecare cerere intră cu sursa, pagina și butonul; la final numeri clienții pe sursă</td><td>majoritatea firmelor mici și mijlocii</td></tr>
+    <tr><td>Avansată: conversii offline</td><td>trimiți înapoi în Google Ads și Meta ce cereri au devenit clienți, ca algoritmul să caute oameni ca ei</td><td>firme cu volum mare de lead-uri</td></tr>
+  </tbody>
+</table>
+<p>Varianta simplă rezolvă 90% din nevoie și nu cere nimic tehnic. Varianta avansată chiar
+îmbunătățește performanța campaniilor, pentru că algoritmul primește ca semnal clientul real, nu
+formularul completat.</p>
+
+<h2 id="raport">Ce ceri într-un raport lunar</h2>
+<p>Cinci rânduri. Dacă lipsesc, cere-le:</p>
+<ol>
+  <li>Câte <b>cereri</b> au venit, împărțite pe canal.</li>
+  <li><b>Costul pe cerere</b>, pe fiecare canal.</li>
+  <li>Câte cereri au devenit <b>discuții reale</b>.</li>
+  <li>Câți <b>clienți</b> au ieșit și ce valoare au adus.</li>
+  <li>Ce s-a schimbat în cont luna trecută și ce se schimbă luna asta.</li>
+</ol>
+
+<h2 id="semnale">Semnale că măsurarea e greșită</h2>
+<ul>
+  <li><b>Rata de conversie e suspect de mare</b>, peste 15–20% la un site de servicii. De obicei înseamnă că se numără și altceva, nu doar cererile.</li>
+  <li><b>Conversia e legată de pagina de mulțumire</b>, dar pagina se încarcă și când formularul dă eroare.</li>
+  <li><b>Numărul de conversii din Google Ads e mult peste numărul de e-mailuri primite.</b> Ceva se numără de două ori.</li>
+  <li><b>Apelurile nu apar nicăieri.</b> Canalul pare mort, deși aduce jumătate din clienți.</li>
+  <li><b>Traficul din reclame apare ca „direct".</b> Lipsesc etichetele UTM.</li>
+</ul>
+
+<h2 id="intrebarea">Despre „de unde ați auzit de noi"</h2>
+<p>E o întrebare bună de pus la telefon, dar o sursă slabă de date. Oamenii răspund „de pe Google"
+și pentru o reclamă Meta văzută cu trei zile înainte, pentru că Google a fost ultimul pas. Nu o
+folosi ca măsurătoare; folosește-o ca să afli ce anume i-a convins.</p>
+
+<h2 id="mai-departe">Mai departe</h2>
+<p>Începe cu <a href="/blog/cum-verific-daca-am-pixel-meta-instalat/">verificarea pixelului și a
+evenimentelor</a>, apoi vezi
+<a href="/blog/cat-costa-managementul-reclamelor-google-meta/">ce trebuie să conțină un onorariu
+lunar de campanii</a>. Dacă cererile ajung în locuri diferite, ai
+<a href="/google-meta-ads/">pagina de Google și Meta Ads</a>, unde e și partea de CRM.</p>
+
+<h2 id="faq">Întrebări frecvente</h2>
+
+<h3>Cum măsor dacă reclamele aduc clienți reali sau doar clickuri?</h3>
+<p>Măsoară cele cinci trepte: click, cerere, apel preluat, ofertă sau întâlnire, client plătitor.
+Ai nevoie de evenimente de conversie pe site, de un singur loc în care intră toate cererile cu
+sursa lor, și de un status completat pe fiecare cerere. Reclama se judecă pe costul pe client, nu
+pe costul pe click.</p>
+
+<h3>De ce cifrele din Google Ads nu se potrivesc cu cele din realitate?</h3>
+<p>Din patru motive: ferestre de atribuire diferite între platforme, conversii estimate statistic
+când urmărirea directă nu e posibilă, vizitatori care refuză cookie-urile și nu sunt urmăriți, și
+decizii care durează mai mult decât fereastra de atribuire.</p>
+
+<h3>Ce trebuie configurat minimum ca să pot măsura?</h3>
+<p>Evenimente de conversie pe formular, pe apăsarea numărului de telefon și pe clickul de WhatsApp,
+etichete UTM pe toate linkurile din reclame, un singur loc unde intră cererile și un câmp de status
+pe fiecare cerere.</p>
+
+<h3>Ce e o rată de conversie normală pentru un site de servicii?</h3>
+<p>De regulă între 1 și 5% din vizitatori lasă o cerere. O rată de peste 15–20% e aproape
+întotdeauna semn că se numără și altceva decât cererile reale.</p>
+
+<h3>Merită să întreb clienții de unde au auzit de noi?</h3>
+<p>Ca discuție, da. Ca măsurătoare, nu. Oamenii spun de obicei ultimul pas — „de pe Google" — chiar
+dacă decizia a pornit de la o reclamă văzută cu zile înainte. Folosește răspunsul ca să afli ce
+i-a convins, nu ca să împarți bugetul.</p>
+
+<h3>Ce sunt conversiile offline și când am nevoie de ele?</h3>
+<p>Înseamnă să trimiți înapoi în Google Ads și Meta informația despre care cereri au devenit
+clienți, ca algoritmul să caute oameni asemănători. Merită la firme cu volum mare de lead-uri; la
+volume mici, e suficient să ții sursa în CRM.</p>
+
+<h3>Cum măsor apelurile telefonice venite din reclame?</h3>
+<p>Numărul de telefon trebuie să fie un link apăsabil, iar apăsarea lui trebuie configurată ca
+eveniment de conversie. Fără asta, canalul telefonic pare mort în rapoarte, deși la firmele de
+servicii aduce des jumătate din cereri.</p>
+
+<h3>Ce cifre ar trebui să conțină raportul lunar de la agenție?</h3>
+<p>Numărul de cereri pe canal, costul pe cerere pe canal, câte cereri au devenit discuții reale,
+câți clienți au ieșit și ce valoare au adus, plus ce s-a schimbat în cont luna trecută și ce
+urmează.</p>
+3:["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Cum măsor dacă reclamele aduc clienți reali sau doar clickuri?"}],["$","div",null,{"className":"blog-article__meta","children":[["$","span",null,{"className":"blog-article__cat","children":"Marketing & business"}],["$","time",null,{"dateTime":"2026-08-20","children":"20 august 2026"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$6"}}],"$L7","$L8","$L9"]}]}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/28or4npab1wgt.css","precedence":"next"}]
+5:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+7:["$","div",null,{"className":"parere","children":[["$","span",null,{"className":"parere__q","children":"Ți-a fost utilă pagina?"}],["$","div",null,{"className":"parere__btns","children":[["$","button",null,{"type":"button","data-nota":"da","children":"Da"}],["$","button",null,{"type":"button","data-nota":"partial","children":"Parțial"}],["$","button",null,{"type":"button","data-nota":"nu","children":"Nu"}]]}],["$","div",null,{"className":"parere__extra","hidden":true,"children":["$","form",null,{"children":[["$","textarea",null,{"rows":2,"placeholder":"Ce ai fi vrut să găsești aici? (opțional)"}],["$","button",null,{"className":"btn btn-solid","type":"submit","children":"Trimite"}]]}]}]]}]
+8:["$","div",null,{"className":"blog-author","children":[["$","span",null,{"className":"blog-author__ava","aria-hidden":"true","children":"V"}],["$","div",null,{"className":"blog-author__body","children":[["$","span",null,{"className":"blog-author__name","children":"Vlad Roman"}],["$","span",null,{"className":"blog-author__role","children":["Fondator Visience · ",["$","a",null,{"href":"https://www.linkedin.com/in/roman-vladut-constantin/","target":"_blank","rel":"noopener","className":"blog-author__link","children":"LinkedIn ↗"}]]}],["$","p",null,{"className":"blog-author__bio","children":"Conduce Visience, agenția de web design și marketing digital din Iași. Scrie despre creare de site-uri, SEO și cum își cresc afacerile mici și mijlocii prezența online."}]]}]]}]
+9:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
+c:null
