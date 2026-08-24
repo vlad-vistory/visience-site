@@ -28,7 +28,7 @@ f:I[68027,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","blog","cat-costa-un-site-web",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","cat-costa-un-site-web","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1j18jy-fz2p7y.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{"children":["$Lb",{"children":["$Lc",{},null,false,null]},null,false,"$@d"]},null,false,"$@d"]},null,false,null],"$Le",false]],"m":"$undefined","G":["$f",["$L10"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"bvsP6S_tnsagjNGY9oyEK"}
+})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","blog","cat-costa-un-site-web",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","cat-costa-un-site-web","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1j18jy-fz2p7y.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{"children":["$Lb",{"children":["$Lc",{},null,false,null]},null,false,"$@d"]},null,false,"$@d"]},null,false,null],"$Le",false]],"m":"$undefined","G":["$f",["$L10"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"UaT3Cqo8grnCX4Xq832Mq"}
 12:I[39756,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 13:I[37457,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
 15:I[27961,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
@@ -263,34 +263,166 @@ c:["$","$1","c",{"children":["$L17",[["$","link","0",{"rel":"stylesheet","href":
 d:"$W1b"
 e:["$","$1","h",{"children":[null,["$","$L1c",null,{"children":"$L1d"}],["$","div",null,{"hidden":true,"children":["$","$L1e",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":"$L1f"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 10:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
-20:T5c2,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/cat-costa-un-site-web/#article","headline":"Cât costă un site web în România? Ce urcă și ce coboară prețul","description":"De ce nu există un preț unic pentru un site web și ce anume îl face ieftin sau scump: pagini, design la comandă, magazin online, conținut. Plus atenție la prețul „prea bun\".","datePublished":"2024-01-04","dateModified":"2024-01-04","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/cat-costa-un-site-web/","articleSection":"Creare site"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Cât costă un site web în România? Ce urcă și ce coboară prețul","item":"https://visience.ro/blog/cat-costa-un-site-web/"}]}]}21:Tc2c,<p>„Cât costă un site web?" e prima întrebare pe care o primește orice agenție — și cea la care nu se poate răspunde onest într-o singură cifră. E ca și cum ai suna un constructor și l-ai întreba „cât costă o casă?". O garsonieră la roșu și o vilă la cheie sunt amândouă „case", dar între ele e o distanță de zece ori. La fel și la site-uri: sub aceeași întrebare încap lucruri complet diferite.</p>
+20:T106d,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/cat-costa-un-site-web/#article","headline":"Cât costă un site de prezentare în România în 2026?","description":"Cât costă un site de prezentare în 2026: 500–2.500 €, cu prețuri publice pe pachete, ore de lucru incluse, ce urcă și ce coboară costul, plus domeniul și găzduirea.","datePublished":"2026-08-20","dateModified":"2026-08-20","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/cat-costa-un-site-web/","articleSection":"Prețuri"},{"@type":"FAQPage","@id":"https://visience.ro/blog/cat-costa-un-site-web/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site de prezentare în România în 2026?","acceptedAnswer":{"@type":"Answer","text":"Între 500 și 2.500 €, o singură dată. Un landing page de campanie pornește de la 500 €, un site de firmă până la 6 pagini de la 750 €, iar pachetul ales cel mai des, cu 10 pagini optimizate și SEO complet, costă 1.200 €. Peste asta se adaugă domeniul, 15 €, și găzduirea, 85 € pe an."}},{"@type":"Question","name":"Cât costă un site de prezentare simplu, de firmă mică?","acceptedAnswer":{"@type":"Answer","text":"750 € pentru un site de până la 6 pagini, cu blog, galerie, GDPR și SEO de bază. Dacă ai nevoie de o singură pagină făcută pentru o campanie de reclame, costă 500 €."}},{"@type":"Question","name":"De ce unii cer 300 € și alții 3.000 € pentru același lucru?","acceptedAnswer":{"@type":"Answer","text":"Pentru că nu e același lucru. La 300 € primești un șablon cu textele schimbate. La 3.000 € primești structură gândită pe afacerea ta, texte scrise, măsurare configurată și pagini care pot prinde căutări."}},{"@type":"Question","name":"Cât costă găzduirea și domeniul unui site?","acceptedAnswer":{"@type":"Answer","text":"Domeniul .ro costă 15 €, iar găzduirea 85 € pe an. Sunt costuri separate de prețul site-ului și rămân pe conturile tale."}},{"@type":"Question","name":"Trebuie să plătesc lunar ceva după ce site-ul e gata?","acceptedAnswer":{"@type":"Answer","text":"Obligatoriu, doar găzduirea și domeniul. Mentenanța e opțională. Dacă pornești campanii de reclame apar bugetul plătit direct către Google și Meta și managementul lunar, dar sunt servicii separate de site."}},{"@type":"Question","name":"Cât durează realizarea unui site de prezentare?","acceptedAnswer":{"@type":"Answer","text":"Un site Basic în două-trei săptămâni, unul Standard în patru-șase. Termenul depinde aproape în întregime de cât de repede vin textele și fotografiile de la client."}},{"@type":"Question","name":"Site-ul include și apariția în Google?","acceptedAnswer":{"@type":"Answer","text":"Include SEO tehnic și structura pe care se poate construi: pagini indexabile, viteză, date structurate, sitemap. Poziționarea pe cuvinte cu concurență este o muncă separată și continuă, care pornește de la 600 € pe lună."}},{"@type":"Question","name":"Ce se întâmplă dacă vreau să schimb agenția?","acceptedAnswer":{"@type":"Answer","text":"Domeniul, găzduirea și site-ul sunt ale clientului, pe conturile lui. Poate pleca oricând cu tot cu site. Dacă o ofertă nu spune clar asta, întreabă înainte de semnare."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Cât costă un site de prezentare în România în 2026?","item":"https://visience.ro/blog/cat-costa-un-site-web/"}]}]}17:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$20"}}],"$L21"]
+22:T2573,<style>
+.pr-tab { width: 100%; border-collapse: collapse; font-size: 14.5px; }
+.pr-tab th { text-align: left; }
+.pr-nota {
+  background: #111010; color: #fff; border-radius: 14px;
+  padding: 20px 24px; margin: 28px 0; font-size: 15px; line-height: 1.65;
+}
+.pr-nota b {
+  color: #9BC31A; display: block; font-size: 11px; letter-spacing: .16em;
+  text-transform: uppercase; margin-bottom: 7px; font-family: var(--f-m, monospace);
+}
+.pr-sumar { border-left: 3px solid #9BC31A; padding: 4px 0 4px 22px; margin: 30px 0 38px; list-style: none; }
+.pr-sumar li { margin-bottom: 11px; }
+</style>
 
-<p>Așa că, în loc să-ți arunc o cifră care oricum n-ar fi corectă, hai să-ți arăt ce anume face un site ieftin sau scump — ca să știi pe ce plătești și să poți compara ofertele cu cap.</p>
+<p class="key-answer">Un site de prezentare pentru o firmă din România costă, în 2026,
+<strong>între 500 și 2.500 €</strong>, o singură dată. Un landing page de campanie pornește de la
+500 €, un site de firmă cu 6 pagini de la 750 €, iar pachetul cel mai des ales — site complet,
+optimizat pentru căutări — este 1.200 €. Peste asta se adaugă domeniul (15 €) și găzduirea
+(85 € pe an).</p>
 
-<h2>Ce urcă (sau coboară) prețul</h2>
-
-<ul>
-<li><strong>Numărul și complexitatea paginilor.</strong> Un site de prezentare cu 5 pagini și un magazin cu 500 de produse, filtre și cont de client sunt două lumi. Cu cât mai multă funcționalitate, cu atât mai multă muncă.</li>
-<li><strong>Design la comandă vs. șablon.</strong> Un template cumpărat și umplut cu textul tău e ieftin și rapid — dar arată ca alte mii de site-uri. Un design pe brandul tău costă mai mult pentru că se gândește și se desenează de la zero.</li>
-<li><strong>Magazin online.</strong> Plata cu cardul, gestiunea stocului, integrarea cu curieri și facturare adaugă straturi de complexitate pe care un site simplu nu le are.</li>
-<li><strong>Conținutul.</strong> Dacă ai deja texte și poze bune, mergem mai repede. Dacă trebuie scrise textele și făcute pozele, e muncă în plus — dar de multe ori exact partea asta face diferența la vânzări.</li>
-<li><strong>Cine îl face.</strong> Un freelancer la început de drum, o agenție cu portofoliu sau o firmă mare cu overhead — toate cer prețuri diferite pentru „același" site. Diferența reală e ce se întâmplă după lansare: dacă ai pe cineva care răspunde când ceva se strică.</li>
+<ul class="pr-sumar">
+  <li><b>500 €</b> — o singură pagină, făcută pentru o campanie de reclame.</li>
+  <li><b>750 €</b> — site de firmă până la 6 pagini, cu blog și galerie.</li>
+  <li><b>1.200 €</b> — varianta aleasă cel mai des: 10 pagini optimizate pe orașe sau servicii, SEO complet, date structurate.</li>
+  <li><b>2.500 €</b> — design în trei variante, animații, copywriting și strategie pe baza analizei clienților.</li>
+  <li><b>De la 1.000 €</b> — dacă e magazin online, nu site de prezentare.</li>
 </ul>
 
-<h2>Atenție la prețul „prea bun"</h2>
+<p>Astea sunt prețurile noastre, publicate integral pe <a href="/preturi/">pagina de prețuri</a>,
+nu estimări. Mai jos e ce le urcă, ce le coboară și cum îți dai seama dacă o ofertă pe care ai
+primit-o e corectă.</p>
 
-<p>Un site foarte ieftin ascunde de obicei un cost pe care îl plătești mai târziu: te trezești că nu ești proprietarul lui, că plătești o „chirie" lunară ca să-l ții pornit, că e lent și nu apare în Google, sau că nu răspunde nimeni când ai nevoie de o modificare. Ieftin la achiziție, scump la utilizare. Un site e o investiție care ar trebui să-ți aducă clienți ani la rând — nu cea mai mică factură de azi.</p>
+<h2 id="ce-plateste">Ce plătești de fapt când plătești un site</h2>
+<p>Prețul unui site nu e prețul paginilor. E prețul orelor de lucru plus al deciziilor luate în
+acele ore. Un site de 750 € și unul de 2.500 € pot arăta la fel în captura de ecran; diferența e
+în cât s-a lucrat la ce se întâmplă după ce omul intră.</p>
+<table class="pr-tab">
+  <thead><tr><th>Pachet</th><th>Preț</th><th>Ore de lucru</th><th>Ce intră</th></tr></thead>
+  <tbody>
+    <tr><td>Landing page de campanie</td><td>500 €</td><td>—</td><td>o pagină, formular, măsurarea conversiilor</td></tr>
+    <tr><td>Website Basic</td><td>750 €</td><td>25</td><td>până la 6 pagini, blog, galerie, GDPR, SEO de bază</td></tr>
+    <tr><td>Website Standard</td><td>1.200 €</td><td>50</td><td>tot din Basic, plus 10 pagini pe orașe sau servicii, SEO on-site complet, date structurate</td></tr>
+    <tr><td>Website Premium</td><td>2.500 €</td><td>100</td><td>tot din Standard, plus trei variante de design, animații, copywriting, Tag Manager</td></tr>
+  </tbody>
+</table>
+<p>Ora de lucru e cel mai bun etalon când compari două oferte. Dacă una spune „site complet,
+900 €" și nu spune câte ore intră, întreabă. Un site de firmă serios nu se face în opt ore, iar
+cine îl vinde ca atare face altceva: pune un șablon și schimbă textele.</p>
 
-<h2>Cum stăm noi cu prețurile</h2>
+<h2 id="ce-urca">Ce urcă prețul</h2>
+<ul>
+  <li><b>Numărul de pagini distincte.</b> Nu paginile la fel, ci cele cu structură proprie: servicii, prețuri, portofoliu, zone.</li>
+  <li><b>Textele.</b> Dacă le scrie agenția, e muncă în plus. Dacă le scrii tu, prețul scade — dar termenul de livrare depinde de tine.</li>
+  <li><b>Design de la zero</b>, în loc de o temă adaptată. Trei variante de home costă cât un site întreg mic.</li>
+  <li><b>Funcții care cer programare:</b> calculator de preț, configurator, grilă de disponibilitate, cont de client, integrare cu un ERP.</li>
+  <li><b>Mai multe limbi.</b> Fiecare limbă e conținut nou, nu un buton.</li>
+  <li><b>Măsurarea.</b> Tag Manager, evenimente de conversie, integrare cu Google Ads și Meta. Costă puțin și lipsește aproape mereu.</li>
+</ul>
 
-<p>Spre deosebire de mulți care ascund cifrele în spatele lui „cere ofertă", <strong>noi avem prețurile publice</strong>. Vezi negru pe alb cât costă un site de prezentare, un magazin online sau un site premium, ce e inclus și ce nu — și decizi în cunoștință de cauză, fără presiune și fără surprize în factură. <a href="/preturi/">Vezi toate prețurile aici</a>.</p>
+<h2 id="ce-coboara">Ce coboară prețul</h2>
+<ul>
+  <li><b>Ai deja textele și fotografiile.</b> E cea mai mare economie posibilă și, de obicei, cea mai grea de făcut.</li>
+  <li><b>Accepți o structură cunoscută</b>, în loc de una inventată de la zero. Structurile care funcționează sunt deja știute.</li>
+  <li><b>Pornești cu mai puține pagini</b> și adaugi pe parcurs. Un site de 6 pagini care există bate un site de 20 care se face de opt luni.</li>
+  <li><b>Nu ceri lucruri pe care nu le vei folosi:</b> zonă de membri, forum, aplicație, chat cu operator uman.</li>
+</ul>
 
-<p>Iar dacă nu ești sigur ce categorie ți se potrivește, spune-ne ce faci și ce vrei să obții — îți zicem sincer de ce ai nevoie, chiar dacă înseamnă o variantă mai mică decât credeai. <a href="/contact/">Scrie-ne pentru o discuție</a>.</p>
-17:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$20"}}],["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Cât costă un site web în România? Ce urcă și ce coboară prețul"}],["$","div",null,{"className":"blog-article__meta","children":[["$","span",null,{"className":"blog-article__cat","children":"Creare site"}],["$","time",null,{"dateTime":"2024-01-04","children":"4 ianuarie 2024"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$21"}}],"$L22","$L23","$L24"]}]}]]
-22:["$","div",null,{"className":"parere","children":[["$","span",null,{"className":"parere__q","children":"Ți-a fost utilă pagina?"}],["$","div",null,{"className":"parere__btns","children":[["$","button",null,{"type":"button","data-nota":"da","children":"Da"}],["$","button",null,{"type":"button","data-nota":"partial","children":"Parțial"}],["$","button",null,{"type":"button","data-nota":"nu","children":"Nu"}]]}],["$","div",null,{"className":"parere__extra","hidden":true,"children":["$","form",null,{"children":[["$","textarea",null,{"rows":2,"placeholder":"Ce ai fi vrut să găsești aici? (opțional)"}],["$","button",null,{"className":"btn btn-solid","type":"submit","children":"Trimite"}]]}]}]]}]
-23:["$","div",null,{"className":"blog-author","children":[["$","span",null,{"className":"blog-author__ava","aria-hidden":"true","children":"V"}],["$","div",null,{"className":"blog-author__body","children":[["$","span",null,{"className":"blog-author__name","children":"Vlad Roman"}],["$","span",null,{"className":"blog-author__role","children":["Fondator Visience · ",["$","a",null,{"href":"https://www.linkedin.com/in/roman-vladut-constantin/","target":"_blank","rel":"noopener","className":"blog-author__link","children":"LinkedIn ↗"}]]}],["$","p",null,{"className":"blog-author__bio","children":"Conduce Visience, agenția de web design și marketing digital din Iași. Scrie despre creare de site-uri, SEO și cum își cresc afacerile mici și mijlocii prezența online."}]]}]]}]
-24:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
+<div class="pr-nota">
+  <b>De reținut</b>
+  Cel mai scump site nu e cel de 2.500 €. E cel de 600 € refăcut peste un an, pentru că nu se
+  putea modifica, nu apărea în Google și nu măsura nimic. Diferența dintre pachete nu e cât de
+  frumos arată, ci cât din munca de după livrare mai trebuie plătită o dată.
+</div>
+
+<h2 id="ascunse">Costurile de care nu se vorbește în ofertă</h2>
+<p>Prețul site-ului e o parte din ce plătești în primul an. Restul, la noi, arată așa:</p>
+<table class="pr-tab">
+  <thead><tr><th>Cost</th><th>Cât</th><th>Când</th></tr></thead>
+  <tbody>
+    <tr><td>Domeniu (.ro)</td><td>15 €</td><td>o dată, apoi anual</td></tr>
+    <tr><td>Găzduire</td><td>85 € pe an</td><td>anual</td></tr>
+    <tr><td>Mentenanță și actualizări</td><td>opțional</td><td>lunar sau la nevoie</td></tr>
+    <tr><td>Fotografii proprii</td><td>variabil</td><td>o dată</td></tr>
+    <tr><td>Buget de reclamă, dacă pornești campanii</td><td>de la 500 € pe lună, recomandat</td><td>lunar, direct către Google și Meta</td></tr>
+  </tbody>
+</table>
+<p>Bugetul de reclamă nu se plătește agenției. Se plătește direct platformelor. Orice ofertă care
+îl amestecă cu onorariul e o ofertă din care nu înțelegi ce cumperi.</p>
+
+<h2 id="corect">Cum îți dai seama dacă prețul e corect</h2>
+<p>Patru întrebări, la care o ofertă serioasă răspunde fără ezitare:</p>
+<ol>
+  <li><b>Câte ore de lucru intră?</b> Dacă răspunsul e „depinde", cere un interval.</li>
+  <li><b>Cine scrie textele?</b> E cea mai frecventă sursă de întârzieri și de costuri neprevăzute.</li>
+  <li><b>Ce se întâmplă după livrare?</b> Poți modifica singur o pagină, sau suni de fiecare dată?</li>
+  <li><b>Cum se măsoară?</b> Dacă nu se instalează nimic care numără cererile, nu vei ști niciodată dacă site-ul funcționează.</li>
+</ol>
+
+<h2 id="semnale">Semnale că prețul e prea mic</h2>
+<ul>
+  <li>Preț fix, fără nicio întrebare despre firma ta</li>
+  <li>„Site profesional în 3 zile"</li>
+  <li>Nu ți se spune pe ce se construiește și cine ține domeniul</li>
+  <li>Nu există contract sau descriere scrisă a ce intră</li>
+  <li>Portofoliul are doar capturi, fără adrese pe care le poți deschide</li>
+</ul>
+<p>Ultimul e cel mai simplu de verificat și cel mai rar verificat. Cere trei adrese live și
+deschide-le pe telefon.</p>
+
+<h2 id="noi">Ce facem noi la fiecare preț</h2>
+<p>Toate site-urile noastre se construiesc pe WordPress, cu panou de administrare din care poți
+modifica singur textele și pozele. Toate ies cu SEO tehnic făcut, GDPR, politici și formular
+măsurat. Diferența dintre pachete e cât de departe mergem cu structura, conținutul și designul.</p>
+<p>Vezi <a href="/creare-site-prezentare/">ce intră într-un site de prezentare</a>,
+<a href="/preturi/">toate prețurile</a> sau
+<a href="/portofoliu/">site-urile pe care le-am livrat</a>, cu adrese pe care le poți deschide.</p>
+
+<h2 id="faq">Întrebări frecvente</h2>
+
+<h3>Cât costă un site de prezentare simplu, de firmă mică?</h3>
+<p>750 € pentru un site de până la 6 pagini, cu blog, galerie, GDPR și SEO de bază. Dacă ai nevoie
+de o singură pagină, făcută pentru o campanie de reclame, costă 500 €.</p>
+
+<h3>De ce unii cer 300 € și alții 3.000 € pentru „același lucru"?</h3>
+<p>Pentru că nu e același lucru. La 300 € primești un șablon cu textele schimbate. La 3.000 €
+primești structură gândită pe afacerea ta, texte scrise, măsurare configurată și pagini care pot
+prinde căutări. Amândouă se numesc „site".</p>
+
+<h3>Cât costă găzduirea și domeniul?</h3>
+<p>Domeniul .ro costă 15 €, iar găzduirea 85 € pe an. Sunt costuri separate de prețul site-ului
+și rămân ale tale, pe conturile tale.</p>
+
+<h3>Trebuie să plătesc lunar ceva după ce site-ul e gata?</h3>
+<p>Obligatoriu, doar găzduirea și domeniul. Mentenanța e opțională. Dacă pornești campanii de
+reclame, apare bugetul plătit direct către Google și Meta, plus managementul lunar, dar alea sunt
+servicii separate de site.</p>
+
+<h3>Pot plăti în rate?</h3>
+<p>Da, pe etape legate de livrare. De obicei un avans la start, o tranșă la aprobarea designului
+și restul la punerea online.</p>
+
+<h3>Cât durează?</h3>
+<p>Un site Basic în două-trei săptămâni, Standard în patru-șase. Termenul depinde aproape în
+întregime de cât de repede vin textele și fotografiile de la tine.</p>
+
+<h3>Site-ul include și apariția în Google?</h3>
+<p>Include SEO tehnic și structura pe care se poate construi: pagini indexabile, viteză, date
+structurate, sitemap. Poziționarea pe cuvinte cu concurență e o muncă separată și continuă,
+care începe de la 600 € pe lună.</p>
+
+<h3>Ce se întâmplă dacă vreau să schimb agenția?</h3>
+<p>Domeniul, găzduirea și site-ul sunt ale tale, pe conturile tale. Poți pleca oricând cu tot cu
+site. Dacă o ofertă nu îți spune clar asta, întreabă înainte să semnezi.</p>
+21:["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Cât costă un site de prezentare în România în 2026?"}],["$","div",null,{"className":"blog-article__meta","children":[["$","span",null,{"className":"blog-article__cat","children":"Prețuri"}],["$","time",null,{"dateTime":"2026-08-20","children":"20 august 2026"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$22"}}],"$L23","$L24","$L25"]}]}]
+23:["$","div",null,{"className":"parere","children":[["$","span",null,{"className":"parere__q","children":"Ți-a fost utilă pagina?"}],["$","div",null,{"className":"parere__btns","children":[["$","button",null,{"type":"button","data-nota":"da","children":"Da"}],["$","button",null,{"type":"button","data-nota":"partial","children":"Parțial"}],["$","button",null,{"type":"button","data-nota":"nu","children":"Nu"}]]}],["$","div",null,{"className":"parere__extra","hidden":true,"children":["$","form",null,{"children":[["$","textarea",null,{"rows":2,"placeholder":"Ce ai fi vrut să găsești aici? (opțional)"}],["$","button",null,{"className":"btn btn-solid","type":"submit","children":"Trimite"}]]}]}]]}]
+24:["$","div",null,{"className":"blog-author","children":[["$","span",null,{"className":"blog-author__ava","aria-hidden":"true","children":"V"}],["$","div",null,{"className":"blog-author__body","children":[["$","span",null,{"className":"blog-author__name","children":"Vlad Roman"}],["$","span",null,{"className":"blog-author__role","children":["Fondator Visience · ",["$","a",null,{"href":"https://www.linkedin.com/in/roman-vladut-constantin/","target":"_blank","rel":"noopener","className":"blog-author__link","children":"LinkedIn ↗"}]]}],["$","p",null,{"className":"blog-author__bio","children":"Conduce Visience, agenția de web design și marketing digital din Iași. Scrie despre creare de site-uri, SEO și cum își cresc afacerile mici și mijlocii prezența online."}]]}]]}]
+25:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
 1d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#FFFFFF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#111114","media":"(prefers-color-scheme: dark)"}]]
-25:I[27201,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"IconMark"]
+26:I[27201,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"IconMark"]
 1a:null
-1f:[["$","title","0",{"children":"Cât costă un site web în România? Ce urcă și ce coboară prețul | Visience"}],["$","meta","1",{"name":"description","content":"De ce nu există un preț unic pentru un site web și ce anume îl face ieftin sau scump: pagini, design la comandă, magazin online, conținut. Plus atenție la prețul „prea bun\"."}],["$","link","2",{"rel":"canonical","href":"https://visience.ro/blog/cat-costa-un-site-web/"}],["$","meta","3",{"property":"og:title","content":"Cât costă un site web în România? Ce urcă și ce coboară prețul"}],["$","meta","4",{"property":"og:description","content":"De ce nu există un preț unic pentru un site web și ce anume îl face ieftin sau scump: pagini, design la comandă, magazin online, conținut. Plus atenție la prețul „prea bun\"."}],["$","meta","5",{"property":"og:url","content":"https://visience.ro/blog/cat-costa-un-site-web/"}],["$","meta","6",{"property":"og:locale","content":"ro_RO"}],["$","meta","7",{"property":"og:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Visience — agenție de marketing & creare site-uri în Iași"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2024-01-04"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Cât costă un site web în România? Ce urcă și ce coboară prețul"}],["$","meta","15",{"name":"twitter:description","content":"De ce nu există un preț unic pentru un site web și ce anume îl face ieftin sau scump: pagini, design la comandă, magazin online, conținut. Plus atenție la prețul „prea bun\"."}],["$","meta","16",{"name":"twitter:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","link","17",{"rel":"icon","href":"/favicon.ico?favicon.04nd99rd6ooix.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","18",{"rel":"icon","href":"/icon.png?icon.3v2r-pcu8x6vx.png","sizes":"192x192","type":"image/png"}],["$","link","19",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2y52blaubq-q-.png","sizes":"180x180","type":"image/png"}],["$","$L25","20",{}]]
+1f:[["$","title","0",{"children":"Cât costă un site de prezentare în România în 2026? | Visience"}],["$","meta","1",{"name":"description","content":"Cât costă un site de prezentare în 2026: 500–2.500 €, cu prețuri publice pe pachete, ore de lucru incluse, ce urcă și ce coboară costul, plus domeniul și găzduirea."}],["$","link","2",{"rel":"canonical","href":"https://visience.ro/blog/cat-costa-un-site-web/"}],["$","meta","3",{"property":"og:title","content":"Cât costă un site de prezentare în România în 2026?"}],["$","meta","4",{"property":"og:description","content":"Cât costă un site de prezentare în 2026: 500–2.500 €, cu prețuri publice pe pachete, ore de lucru incluse, ce urcă și ce coboară costul, plus domeniul și găzduirea."}],["$","meta","5",{"property":"og:url","content":"https://visience.ro/blog/cat-costa-un-site-web/"}],["$","meta","6",{"property":"og:locale","content":"ro_RO"}],["$","meta","7",{"property":"og:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Visience — agenție de marketing & creare site-uri în Iași"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2026-08-20"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Cât costă un site de prezentare în România în 2026?"}],["$","meta","15",{"name":"twitter:description","content":"Cât costă un site de prezentare în 2026: 500–2.500 €, cu prețuri publice pe pachete, ore de lucru incluse, ce urcă și ce coboară costul, plus domeniul și găzduirea."}],["$","meta","16",{"name":"twitter:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","link","17",{"rel":"icon","href":"/favicon.ico?favicon.04nd99rd6ooix.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","18",{"rel":"icon","href":"/icon.png?icon.3v2r-pcu8x6vx.png","sizes":"192x192","type":"image/png"}],["$","link","19",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2y52blaubq-q-.png","sizes":"180x180","type":"image/png"}],["$","$L26","20",{}]]

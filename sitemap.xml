@@ -356,6 +356,12 @@
 <priority>0.5</priority>
 </url>
 <url>
+<loc>https://visience.ro/blog/cat-costa-un-site-web/</loc>
+<lastmod>2026-08-20</lastmod>
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
 <loc>https://visience.ro/blog/ghid-marketing-imobiliar-pentru-dezvoltatori/</loc>
 <lastmod>2026-08-19</lastmod>
 <changefreq>yearly</changefreq>
@@ -502,12 +508,6 @@
 <url>
 <loc>https://visience.ro/blog/cum-sa-creezi-o-pagina-de-start-eficienta/</loc>
 <lastmod>2024-02-26</lastmod>
-<changefreq>yearly</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
-<loc>https://visience.ro/blog/cat-costa-un-site-web/</loc>
-<lastmod>2024-01-04</lastmod>
 <changefreq>yearly</changefreq>
 <priority>0.5</priority>
 </url>
