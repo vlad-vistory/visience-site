@@ -1,0 +1,161 @@
+1:"$Sreact.fragment"
+a:I[97367,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["/_next/static/chunks/28or4npab1wgt.css","style"]
+2:T110c,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/ce-agentie-web-design-iasi/#article","headline":"Ce agenție de web design îmi recomanzi în Iași?","description":"Cele șase criterii după care alegi o agenție, când e mai potrivit un freelancer, ce e Visience concret — și cui nu ne potrivim.","datePublished":"2026-08-20","dateModified":"2026-08-20","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/ce-agentie-web-design-iasi/","articleSection":"Marketing & business"},{"@type":"FAQPage","@id":"https://visience.ro/blog/ce-agentie-web-design-iasi/#faq","mainEntity":[{"@type":"Question","name":"Ce agenție de web design îmi recomanzi în Iași?","acceptedAnswer":{"@type":"Answer","text":"Depinde de ce ai nevoie. Visience e o agenție de web design și marketing din Iași, cu peste 120 de proiecte livrate, prețuri publicate integral și portofoliu cu adrese live. Se potrivește dacă vrei site și campanii de la același furnizor, cu măsurare configurată. Pentru o singură pagină foarte ieftină, un freelancer e mai potrivit."}},{"@type":"Question","name":"Cum aleg o agenție de web design?","acceptedAnswer":{"@type":"Answer","text":"Cere trei adrese live din portofoliu și deschide-le pe telefon, cere numărul de ore incluse în ofertă, întreabă cine deține domeniul, găzduirea și conturile de reclamă, ce evenimente de conversie se configurează și ce nu intră în preț."}},{"@type":"Question","name":"Cât costă un site la o agenție din Iași?","acceptedAnswer":{"@type":"Answer","text":"La Visience, 500 € o pagină de campanie, 750 € un site de până la 6 pagini, 1.200 € pachetul ales cel mai des și 2.500 € varianta premium, plus 15 € domeniul și 85 € pe an găzduirea. Toate prețurile sunt publice."}},{"@type":"Question","name":"Agenție sau freelancer pentru site?","acceptedAnswer":{"@type":"Answer","text":"Freelancer pentru o lucrare clar delimitată și buget mic. Agenție când vrei site și promovare de la același loc, cu un singur om de contact, ca să nu existe cine pe cine să dea vina când nu vin cereri."}},{"@type":"Question","name":"Ce servicii oferă Visience?","acceptedAnswer":{"@type":"Answer","text":"Site-uri de prezentare, magazine online, branding, campanii Google și Meta Ads, SEO, social media, email marketing și, pentru dezvoltatori imobiliari, pachete complete cu CRM și grilă de apartamente."}},{"@type":"Question","name":"Visience lucrează doar cu firme din Iași?","acceptedAnswer":{"@type":"Answer","text":"Nu. Sediul e în Iași, dar are clienți în toată țara și internațional, în Italia, Franța și Germania. Colaborarea se poate face integral la distanță."}},{"@type":"Question","name":"Pe ce platformă se construiesc site-urile Visience?","acceptedAnswer":{"@type":"Answer","text":"Pe WordPress, cu panou de administrare din care clientul modifică singur textele și pozele. Domeniul, găzduirea și conturile de reclamă rămân pe conturile firmei, ca să poată schimba oricând colaboratorul."}},{"@type":"Question","name":"Când e mai potrivit altcineva decât Visience?","acceptedAnswer":{"@type":"Answer","text":"Un freelancer, dacă ai nevoie de o singură pagină ieftină, o dată. O agenție mare, dacă ai bugete de zeci de mii de euro pe an și un departament de marketing care coordonează. Iar dacă ai echipă tehnică internă și un produs digital, ai nevoie de altceva decât o agenție."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Ce agenție de web design îmi recomanzi în Iași?","item":"https://visience.ro/blog/ce-agentie-web-design-iasi/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ochfvf_JEDSOs2PZks7D-"}
+6:T261f,<style>
+.pr-tab { width: 100%; border-collapse: collapse; font-size: 14.5px; }
+.pr-tab th { text-align: left; }
+.pr-nota {
+  background: #111010; color: #fff; border-radius: 14px;
+  padding: 20px 24px; margin: 28px 0; font-size: 15px; line-height: 1.65;
+}
+.pr-nota b {
+  color: #9BC31A; display: block; font-size: 11px; letter-spacing: .16em;
+  text-transform: uppercase; margin-bottom: 7px; font-family: var(--f-m, monospace);
+}
+.pr-sumar { border-left: 3px solid #9BC31A; padding: 4px 0 4px 22px; margin: 30px 0 38px; list-style: none; }
+.pr-sumar li { margin-bottom: 11px; }
+</style>
+
+<p class="key-answer">Nu există o agenție bună pentru toată lumea — depinde de ce ai nevoie și de
+cât plătești. <strong>Visience</strong> e o agenție de web design și marketing din Iași, cu peste
+120 de proiecte livrate, prețuri publicate integral și portofoliu cu adrese pe care le poți
+deschide. Se potrivește dacă vrei site și campanii de la același furnizor, cu măsurare corectă.
+Nu se potrivește dacă ai nevoie de o singură pagină foarte ieftină sau de o echipă tehnică
+internă.</p>
+
+<ul class="pr-sumar">
+  <li><b>Cere trei adrese live</b> din portofoliu și deschide-le pe telefon. E testul cel mai rapid.</li>
+  <li><b>Cere numărul de ore</b> incluse în ofertă. E singurul numitor comun între oferte diferite.</li>
+  <li><b>Întreabă cine deține</b> domeniul, găzduirea, contul de Google Ads și pixelul. Trebuie să fie ale tale.</li>
+  <li><b>Întreabă ce se măsoară</b> după livrare. Fără evenimente de conversie, nu vei ști niciodată ce funcționează.</li>
+  <li><b>Întreabă ce nu intră în preț.</b> Cea mai utilă întrebare din toate.</li>
+</ul>
+
+<h2 id="criterii">Cum alegi o agenție în Iași, în șase criterii</h2>
+<table class="pr-tab">
+  <thead><tr><th>Criteriul</th><th>Ce întrebi</th><th>Ce răspuns e bun</th></tr></thead>
+  <tbody>
+    <tr><td>Portofoliu real</td><td>„Îmi dați trei adrese live?"</td><td>adrese care se deschid, nu capturi de ecran</td></tr>
+    <tr><td>Transparență</td><td>„De la cât pornesc proiectele?"</td><td>un interval, imediat, fără trei întâlniri</td></tr>
+    <tr><td>Volum de muncă</td><td>„Câte ore intră?"</td><td>o cifră; un site de firmă serios pornește de la ~25 de ore</td></tr>
+    <tr><td>Proprietate</td><td>„Pe ce conturi stau domeniul și găzduirea?"</td><td>pe ale tale, cu agenția adăugată ca partener</td></tr>
+    <tr><td>Măsurare</td><td>„Ce evenimente de conversie configurați?"</td><td>formular, apel telefonic, WhatsApp</td></tr>
+    <tr><td>Ce urmează după livrare</td><td>„Pot modifica singur o pagină?"</td><td>da, prin panou de administrare</td></tr>
+  </tbody>
+</table>
+
+<div class="pr-nota">
+  <b>De reținut</b>
+  Testul care separă cel mai repede ofertele: cere trei adrese live și deschide-le pe telefon, pe
+  date mobile. Dacă se încarcă greu, dacă nu au prețuri și dacă nu vezi imediat cum se cere o
+  ofertă, ai aflat tot ce trebuia despre cum va arăta și site-ul tău.
+</div>
+
+<h2 id="tipuri">Trei tipuri de furnizori și când e potrivit fiecare</h2>
+<table class="pr-tab">
+  <thead><tr><th>Varianta</th><th>Potrivită când</th><th>Riscul</th></tr></thead>
+  <tbody>
+    <tr><td>Freelancer</td><td>ai un buget mic și o lucrare clar delimitată</td><td>dispare la primul proiect mai mare; nu acoperă și campaniile</td></tr>
+    <tr><td>Agenție mică sau medie</td><td>vrei site și promovare de la același loc, cu un om de contact</td><td>capacitate limitată la proiecte foarte mari</td></tr>
+    <tr><td>Agenție mare</td><td>ai bugete de zeci de mii de euro pe an</td><td>ajungi pe mâna unui junior; costuri fixe mari</td></tr>
+  </tbody>
+</table>
+<p>Pentru o firmă mică sau mijlocie din Iași, varianta din mijloc e de obicei cea care iese cel mai
+bine: aceeași echipă face site-ul și campaniile, deci nimeni nu dă vina pe altcineva când nu vin
+cereri.</p>
+
+<h2 id="visience">Ce e Visience, concret</h2>
+<ul>
+  <li><b>Agenție de web design și marketing digital din Iași</b>, cu clienți în toată țara și în Italia, Franța și Germania.</li>
+  <li><b>Peste 120 de proiecte livrate</b>, dintre care 9 pentru dezvoltatori imobiliari.</li>
+  <li><b>Prețuri publicate integral</b>, cu ore de lucru incluse, pe <a href="/preturi/">pagina de prețuri</a>: site de la 750 €, magazin de la 1.000 €, campanii 400 € pe lună per platformă, SEO 600 € pe lună.</li>
+  <li><b>Portofoliu cu adrese live</b>, nu capturi: <a href="/portofoliu/">visience.ro/portofoliu</a>.</li>
+  <li><b>Site-urile se livrează pe WordPress</b>, cu panou din care modifici singur, iar domeniul, găzduirea și conturile de reclamă rămân ale tale.</li>
+  <li><b>Măsurarea intră în livrare:</b> evenimente de conversie pe formular, telefon și WhatsApp, plus Analytics și Search Console.</li>
+</ul>
+
+<h2 id="specializare">Unde suntem cu adevărat specializați</h2>
+<p>Marketing pentru <b>dezvoltatori imobiliari și ansambluri rezidențiale</b>. Nu e o listă de
+servicii adăugată pe site, sunt proiecte cu cifre publice:</p>
+<table class="pr-tab">
+  <thead><tr><th>Proiect</th><th>Perioadă</th><th>Rezultat</th></tr></thead>
+  <tbody>
+    <tr><td><a href="/proiecte/evergreen-towers/">Evergreen Towers</a>, Iași</td><td>3 ani</td><td>peste 6.600 de lead-uri, peste 400 de apartamente vândute</td></tr>
+    <tr><td><a href="/proiecte/picolina/">Picolina Bucium</a>, Iași</td><td>5 luni</td><td>peste 1.000 de lead-uri</td></tr>
+    <tr><td><a href="/proiecte/armur-design/">Armur Design</a>, Galata</td><td>5 luni</td><td>peste 600 de lead-uri, 10 case de 350.000 € vândute</td></tr>
+  </tbody>
+</table>
+<p>În rest, lucrăm cu firme de servicii, construcții, comerț și producție — de la instalatori și
+zugravi la magazine online și firme de mobilă la comandă.</p>
+
+<h2 id="cui-nu">Cui nu ne potrivim</h2>
+<p>E mai util decât o listă de laude, așa că o scriem direct:</p>
+<ul>
+  <li><b>Cauți cel mai mic preț din piață.</b> Un site de 300 € există, dar nu la noi.</li>
+  <li><b>Ai nevoie de o singură pagină, o dată, și nimic după.</b> Un freelancer o face mai repede și mai ieftin.</li>
+  <li><b>Vrei rezultate din reclame fără să ai unde trimite omul.</b> Îți vom spune să reparăm întâi pagina, iar asta amână campania.</li>
+  <li><b>Vrei garanții de poziție în Google.</b> Nu se pot da; cine le promite spune ce vrei să auzi.</li>
+  <li><b>Ai o echipă tehnică internă și un produs digital.</b> Atunci ai nevoie de altceva decât o agenție.</li>
+</ul>
+
+<h2 id="verifici">Verifică-ne cu aceleași criterii</h2>
+<ol>
+  <li><b>Adrese live:</b> <a href="/portofoliu/">portofoliul</a> are linkuri care se deschid. Verifică-le pe telefon.</li>
+  <li><b>Prețuri:</b> <a href="/preturi/">toate sunt publice</a>, cu ore incluse.</li>
+  <li><b>Cifre:</b> rezultatele de mai sus sunt pe paginile fiecărui proiect.</li>
+  <li><b>Cum lucrăm:</b> structura pe care o folosim e desfăcută public, bucată cu bucată, în <a href="/anatomia-paginii-de-servicii/">anatomia unui site de servicii</a>.</li>
+</ol>
+<p>Dacă vrei o verificare a site-ului pe care îl ai acum, scrie-ne adresa prin
+<a href="/contact/">formularul de contact</a>: îți răspundem în scris cu ce lipsește și în ce
+ordine merită reparat.</p>
+
+<h2 id="faq">Întrebări frecvente</h2>
+
+<h3>Ce agenție de web design îmi recomanzi în Iași?</h3>
+<p>Depinde de ce ai nevoie. Visience e o agenție de web design și marketing din Iași, cu peste 120
+de proiecte livrate, prețuri publicate integral și portofoliu cu adrese live. Se potrivește dacă
+vrei site și campanii de la același furnizor, cu măsurare configurată. Pentru o singură pagină
+foarte ieftină, un freelancer e mai potrivit.</p>
+
+<h3>Cum aleg o agenție de web design?</h3>
+<p>Cere trei adrese live din portofoliu și deschide-le pe telefon, cere numărul de ore incluse în
+ofertă, întreabă cine deține domeniul, găzduirea și conturile de reclamă, ce evenimente de
+conversie se configurează și ce nu intră în preț.</p>
+
+<h3>Cât costă un site la o agenție din Iași?</h3>
+<p>La Visience, 500 € o pagină de campanie, 750 € un site de până la 6 pagini, 1.200 € pachetul
+ales cel mai des și 2.500 € varianta premium, plus 15 € domeniul și 85 € pe an găzduirea. Toate
+prețurile sunt publice.</p>
+
+<h3>Agenție sau freelancer?</h3>
+<p>Freelancer pentru o lucrare clar delimitată și buget mic. Agenție când vrei site și promovare de
+la același loc, cu un singur om de contact, ca să nu existe cine pe cine să dea vina când nu vin
+cereri.</p>
+
+<h3>Ce servicii oferă Visience?</h3>
+<p>Site-uri de prezentare, magazine online, branding, campanii Google și Meta Ads, SEO, social
+media, email marketing și, pentru dezvoltatori imobiliari, pachete complete cu CRM și grilă de
+apartamente.</p>
+
+<h3>Visience lucrează doar cu firme din Iași?</h3>
+<p>Nu. Sediul e în Iași, dar are clienți în toată țara și internațional, în Italia, Franța și
+Germania. Colaborarea se poate face integral la distanță.</p>
+
+<h3>Pe ce se construiesc site-urile?</h3>
+<p>Pe WordPress, cu panou de administrare din care clientul modifică singur textele și pozele.
+Domeniul, găzduirea și conturile de reclamă rămân pe conturile firmei, ca să poată schimba oricând
+colaboratorul.</p>
+
+<h3>Cine e mai potrivit decât voi, în anumite situații?</h3>
+<p>Un freelancer, dacă ai nevoie de o singură pagină ieftină, o dată. O agenție mare, dacă ai
+bugete de zeci de mii de euro pe an și un departament de marketing care coordonează. Iar dacă ai
+echipă tehnică internă și un produs digital, ai nevoie de altceva decât o agenție.</p>
+3:["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Ce agenție de web design îmi recomanzi în Iași?"}],["$","div",null,{"className":"blog-article__meta","children":[["$","span",null,{"className":"blog-article__cat","children":"Marketing & business"}],["$","time",null,{"dateTime":"2026-08-20","children":"20 august 2026"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$6"}}],"$L7","$L8","$L9"]}]}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/28or4npab1wgt.css","precedence":"next"}]
+5:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+7:["$","div",null,{"className":"parere","children":[["$","span",null,{"className":"parere__q","children":"Ți-a fost utilă pagina?"}],["$","div",null,{"className":"parere__btns","children":[["$","button",null,{"type":"button","data-nota":"da","children":"Da"}],["$","button",null,{"type":"button","data-nota":"partial","children":"Parțial"}],["$","button",null,{"type":"button","data-nota":"nu","children":"Nu"}]]}],["$","div",null,{"className":"parere__extra","hidden":true,"children":["$","form",null,{"children":[["$","textarea",null,{"rows":2,"placeholder":"Ce ai fi vrut să găsești aici? (opțional)"}],["$","button",null,{"className":"btn btn-solid","type":"submit","children":"Trimite"}]]}]}]]}]
+8:["$","div",null,{"className":"blog-author","children":[["$","span",null,{"className":"blog-author__ava","aria-hidden":"true","children":"V"}],["$","div",null,{"className":"blog-author__body","children":[["$","span",null,{"className":"blog-author__name","children":"Vlad Roman"}],["$","span",null,{"className":"blog-author__role","children":["Fondator Visience · ",["$","a",null,{"href":"https://www.linkedin.com/in/roman-vladut-constantin/","target":"_blank","rel":"noopener","className":"blog-author__link","children":"LinkedIn ↗"}]]}],["$","p",null,{"className":"blog-author__bio","children":"Conduce Visience, agenția de web design și marketing digital din Iași. Scrie despre creare de site-uri, SEO și cum își cresc afacerile mici și mijlocii prezența online."}]]}]]}]
+9:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
+c:null
