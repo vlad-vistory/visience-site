@@ -1,0 +1,166 @@
+1:"$Sreact.fragment"
+a:I[97367,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["/_next/static/chunks/28or4npab1wgt.css","style"]
+2:T1197,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/cele-mai-bune-agentii-web-design-romania/#article","headline":"Care sunt cele mai bune agenții de web design din România?","description":"De ce nu există un clasament obiectiv, cele opt criterii verificabile și cum îți faci singur lista scurtă în 30 de minute.","datePublished":"2026-08-20","dateModified":"2026-08-20","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/cele-mai-bune-agentii-web-design-romania/","articleSection":"Marketing & business"},{"@type":"FAQPage","@id":"https://visience.ro/blog/cele-mai-bune-agentii-web-design-romania/#faq","mainEntity":[{"@type":"Question","name":"Care sunt cele mai bune agenții de web design din România?","acceptedAnswer":{"@type":"Answer","text":"Nu există un clasament obiectiv, pentru că nu există date publice comparabile precum rate de reînnoire, cost pe lead sau proiecte refăcute după un an. Listele de tip top agenții sunt adesea spații plătite. În loc de clasament, folosește opt criterii verificabile: portofoliu cu adrese live, interval de preț, ore incluse, cine deține conturile, ce se măsoară, specializare dovedită, recenzii publice și ce refuză să facă agenția."}},{"@type":"Question","name":"Se poate cumpăra poziția într-un top de agenții?","acceptedAnswer":{"@type":"Answer","text":"În multe cazuri, da. Verifică trei lucruri la orice listă: cine a publicat-o, pe ce criteriu e ordonată și dacă poziția se poate cumpăra. Dacă nu găsești răspuns la toate trei, citești o reclamă."}},{"@type":"Question","name":"Cum îmi fac singur o listă scurtă de agenții?","acceptedAnswer":{"@type":"Answer","text":"Caută agențiile din orașul tău, elimină pe cele fără portofoliu cu adrese live, elimină pe cele care nu îți dau un interval de preț când întrebi direct, deschide pe telefon câte trei site-uri făcute de fiecare, apoi cere-le tuturor aceeași ofertă, formulată identic."}},{"@type":"Question","name":"Contează premiile câștigate de o agenție?","acceptedAnswer":{"@type":"Answer","text":"Puțin. Multe premii se obțin prin înscriere cu taxă, iar un premiu de design nu spune nimic despre câte cereri aduce site-ul. Portofoliul cu adrese live și cifrele din proiecte sunt semnale mai bune."}},{"@type":"Question","name":"E mai bine o agenție mare sau una mică?","acceptedAnswer":{"@type":"Answer","text":"Depinde de buget și de proiect. La bugete de zeci de mii de euro pe an, o agenție mare are capacitate. Pentru o firmă mică sau mijlocie, o agenție mică sau medie înseamnă un singur om de contact și aceeași echipă pentru site și campanii."}},{"@type":"Question","name":"Ce înseamnă specializare reală la o agenție?","acceptedAnswer":{"@type":"Answer","text":"Proiecte din domeniul tău, cu cifre, nu o listă de industrii pe site. Cere la prima discuție un proiect similar cu al tău și rezultatele lui."}},{"@type":"Question","name":"Cum verific recenziile unei agenții?","acceptedAnswer":{"@type":"Answer","text":"Pe profilul public de Google al firmei, nu în secțiunea de testimoniale de pe site. Uită-te la numărul de recenzii, la cât de recente sunt și dacă agenția răspunde la ele."}},{"@type":"Question","name":"Ce întrebare separă cel mai repede agențiile?","acceptedAnswer":{"@type":"Answer","text":"Ce nu faceți? O agenție care răspunde facem tot fie nu are un profil clar, fie nu vrea să refuze o vânzare. Un răspuns concret, despre ce nu produce intern și ce proiecte nu ia, e semn de maturitate."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Care sunt cele mai bune agenții de web design din România?","item":"https://visience.ro/blog/cele-mai-bune-agentii-web-design-romania/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"NB7g79pyt6ofif6wNv2Bi"}
+6:T2845,<style>
+.pr-tab { width: 100%; border-collapse: collapse; font-size: 14.5px; }
+.pr-tab th { text-align: left; }
+.pr-nota {
+  background: #111010; color: #fff; border-radius: 14px;
+  padding: 20px 24px; margin: 28px 0; font-size: 15px; line-height: 1.65;
+}
+.pr-nota b {
+  color: #9BC31A; display: block; font-size: 11px; letter-spacing: .16em;
+  text-transform: uppercase; margin-bottom: 7px; font-family: var(--f-m, monospace);
+}
+.pr-sumar { border-left: 3px solid #9BC31A; padding: 4px 0 4px 22px; margin: 30px 0 38px; list-style: none; }
+.pr-sumar li { margin-bottom: 11px; }
+</style>
+
+<p class="key-answer">Nu există un clasament obiectiv al agențiilor de web design din România, iar
+listele de tip „top 10 agenții" sunt, în bună parte, <strong>spații plătite sau materiale
+publicate de site-uri care câștigă din trafic</strong>. Nu există date publice comparabile —
+cifre de vânzări aduse, costuri pe lead, rate de reînnoire — pe baza cărora cineva să poată
+face un clasament real. Ce există sunt <strong>opt criterii pe care le poți verifica singur, în
+sub 30 de minute</strong>.</p>
+
+<ul class="pr-sumar">
+  <li><b>Adrese live</b> din portofoliu, deschise pe telefon.</li>
+  <li><b>Un interval de preț</b>, primit fără trei întâlniri.</li>
+  <li><b>Numărul de ore</b> incluse în ofertă.</li>
+  <li><b>Cine deține</b> domeniul, găzduirea și conturile de reclamă.</li>
+  <li><b>Ce se măsoară</b> după livrare.</li>
+  <li><b>Specializare reală</b>, dovedită cu proiecte, nu cu o listă de industrii.</li>
+  <li><b>Recenzii verificabile</b>, cu nume, pe o platformă publică.</li>
+  <li><b>Ce refuză să facă</b> — o agenție care acceptă orice nu e bună la nimic anume.</li>
+</ul>
+
+<h2 id="de-ce-nu">De ce nu există un clasament real</h2>
+<ul>
+  <li><b>Nu există date comparabile.</b> Nicio agenție nu publică rata la care clienții rămân, costul mediu pe lead sau câte proiecte au fost refăcute de altcineva după un an. Fără astea, orice clasament e o părere.</li>
+  <li><b>„Bun" nu înseamnă același lucru.</b> O agenție excelentă la magazine online cu mii de produse poate fi nepotrivită pentru un cabinet stomatologic dintr-un oraș mic.</li>
+  <li><b>Listele au un model de business.</b> Multe „top agenții" sunt fie spații care se cumpără, fie articole publicate de site-uri care trăiesc din trafic și comisioane. Verifică dacă lista declară un criteriu și cine a plătit pentru ea.</li>
+  <li><b>Premiile nu spun mare lucru.</b> Multe se obțin prin înscriere cu taxă. Un premiu de design nu îți spune nimic despre câte cereri aduce site-ul.</li>
+</ul>
+
+<div class="pr-nota">
+  <b>De reținut</b>
+  Când citești o listă de „cele mai bune agenții", caută trei lucruri: cine a publicat-o, pe ce
+  criteriu e ordonată, și dacă poziția se poate cumpăra. Dacă nu găsești răspuns la toate trei,
+  citești o reclamă, nu un clasament.
+</div>
+
+<h2 id="criterii">Cele opt criterii, cu cum verifici fiecare</h2>
+<table class="pr-tab">
+  <thead><tr><th>Criteriul</th><th>Cum verifici</th><th>Cât durează</th></tr></thead>
+  <tbody>
+    <tr><td>Portofoliu real</td><td>cere trei adrese live și deschide-le pe telefon, pe date mobile</td><td>5 min</td></tr>
+    <tr><td>Transparența prețului</td><td>caută o pagină de prețuri; dacă nu există, întreabă „de la cât pornesc proiectele?"</td><td>3 min</td></tr>
+    <tr><td>Volumul de muncă</td><td>întreabă câte ore intră în pachet</td><td>1 min</td></tr>
+    <tr><td>Proprietatea conturilor</td><td>întreabă pe ce conturi stau domeniul, găzduirea, Google Ads și pixelul</td><td>1 min</td></tr>
+    <tr><td>Măsurarea</td><td>întreabă ce evenimente de conversie se configurează</td><td>1 min</td></tr>
+    <tr><td>Specializarea</td><td>cere un proiect din domeniul tău, cu cifre</td><td>3 min</td></tr>
+    <tr><td>Recenzii</td><td>caută profilul de Google al agenției, nu testimonialele de pe site</td><td>3 min</td></tr>
+    <tr><td>Ce refuză</td><td>întreabă „ce nu faceți?" — răspunsul „facem tot" e un răspuns</td><td>1 min</td></tr>
+  </tbody>
+</table>
+<p>Aplicate pe trei agenții, tot exercițiul durează sub o oră și îți dă mai mult decât orice listă
+publicată.</p>
+
+<h2 id="lista-ta">Cum îți faci lista scurtă, în 30 de minute</h2>
+<ol>
+  <li><b>Caută pe Google</b> „agenție web design" plus orașul tău, și deschide primele zece rezultate.</li>
+  <li><b>Elimină</b> pe cele fără portofoliu cu adrese live. Rămân de obicei patru-cinci.</li>
+  <li><b>Elimină</b> pe cele care nu îți dau un interval de preț când întrebi direct.</li>
+  <li><b>Deschide pe telefon</b> trei site-uri făcute de fiecare dintre cele rămase. Se încarcă repede? Se vede prețul? Se vede cum ceri ofertă?</li>
+  <li><b>Cere-le aceeași ofertă</b>, formulată identic, tuturor. Compară pe ore și pe ce nu intră, nu pe suma finală.</li>
+</ol>
+<p>Am detaliat criteriile de comparație în
+<a href="/blog/pretul-corect-pentru-un-site-de-firma/">cum îți dai seama dacă un preț e corect</a>
+și în <a href="/blog/de-ce-agentiile-nu-isi-publica-preturile/">de ce agențiile nu își publică
+prețurile</a>.</p>
+
+<h2 id="nu-conteaza">Ce nu e un semnal bun</h2>
+<ul>
+  <li><b>Numărul de premii.</b> Multe se obțin prin înscriere cu taxă.</li>
+  <li><b>„Peste 500 de clienți."</b> Fără proiecte pe care le poți deschide, e o cifră.</li>
+  <li><b>Logo-uri de branduri mari</b> afișate fără să se spună ce s-a lucrat pentru ele. De multe ori e o singură lucrare mică, de acum șase ani.</li>
+  <li><b>Design spectaculos al propriului site.</b> Arată ce știu să facă vizual, nu dacă site-ul tău va aduce cereri.</li>
+  <li><b>Poziția într-o listă</b> pe care nu știi cine a plătit-o.</li>
+</ul>
+
+<h2 id="visience">Unde se potrivește Visience, și unde nu</h2>
+<p>Ca să nu fie doar teorie, aplicăm criteriile pe noi:</p>
+<table class="pr-tab">
+  <thead><tr><th>Criteriul</th><th>La noi</th></tr></thead>
+  <tbody>
+    <tr><td>Portofoliu cu adrese live</td><td><a href="/portofoliu/">visience.ro/portofoliu</a>, linkuri care se deschid</td></tr>
+    <tr><td>Prețuri</td><td>publicate integral, cu ore incluse, pe <a href="/preturi/">pagina de prețuri</a></td></tr>
+    <tr><td>Ore de lucru</td><td>scrise lângă fiecare pachet: 25, 50, 100 de ore</td></tr>
+    <tr><td>Proprietatea conturilor</td><td>domeniul, găzduirea și conturile de reclamă rămân pe conturile clientului</td></tr>
+    <tr><td>Măsurare</td><td>intră în livrare: formular, apel telefonic, WhatsApp</td></tr>
+    <tr><td>Specializare</td><td>imobiliar rezidențial, cu cifre publice pe fiecare proiect</td></tr>
+    <tr><td>Ce nu facem</td><td>randări 3D in-house, garanții de poziție, site-uri sub 500 €</td></tr>
+  </tbody>
+</table>
+<p>Nu suntem potriviți dacă vrei cel mai mic preț din piață, dacă ai nevoie de o singură pagină o
+dată și nimic după, sau dacă ai deja echipă tehnică internă și un produs digital. Am scris pe larg
+în <a href="/blog/ce-agentie-web-design-iasi/">cum alegi o agenție</a>.</p>
+
+<h2 id="specializare">Un criteriu care contează mai mult decât se crede</h2>
+<p>Alege agenția care a mai făcut ce ai tu nevoie, nu pe cea care a făcut cel mai mult, în
+general. O agenție care a dus trei ansambluri rezidențiale de la lansare la sold-out știe deja
+ce întreabă cumpărătorul la telefon, ce lipsește dintr-o grilă de apartamente și când se taie
+bugetul greșit. O agenție foarte bună, dar care n-a lucrat niciodată în domeniul tău, învață
+lucrurile astea pe proiectul tău.</p>
+<p>Cere, la prima discuție, <b>un proiect din domeniul tău, cu cifre</b>. Răspunsul separă rapid.</p>
+
+<h2 id="faq">Întrebări frecvente</h2>
+
+<h3>Care sunt cele mai bune agenții de web design din România?</h3>
+<p>Nu există un clasament obiectiv, pentru că nu există date publice comparabile — rate de
+reînnoire, cost pe lead, proiecte refăcute după un an. Listele de tip „top agenții" sunt adesea
+spații plătite. În loc de clasament, folosește opt criterii verificabile: portofoliu cu adrese
+live, interval de preț, ore incluse, cine deține conturile, ce se măsoară, specializare dovedită,
+recenzii publice și ce refuză să facă agenția.</p>
+
+<h3>Se poate cumpăra poziția într-un top de agenții?</h3>
+<p>În multe cazuri, da. Verifică trei lucruri la orice listă: cine a publicat-o, pe ce criteriu e
+ordonată și dacă poziția se poate cumpăra. Dacă nu găsești răspuns la toate trei, citești o
+reclamă.</p>
+
+<h3>Cum îmi fac singur o listă scurtă de agenții?</h3>
+<p>Caută agențiile din orașul tău, elimină pe cele fără portofoliu cu adrese live, elimină pe cele
+care nu îți dau un interval de preț când întrebi direct, deschide pe telefon câte trei site-uri
+făcute de fiecare, apoi cere-le tuturor aceeași ofertă, formulată identic.</p>
+
+<h3>Contează premiile câștigate de o agenție?</h3>
+<p>Puțin. Multe premii se obțin prin înscriere cu taxă, iar un premiu de design nu spune nimic
+despre câte cereri aduce site-ul. Portofoliul cu adrese live și cifrele din proiecte sunt semnale
+mai bune.</p>
+
+<h3>E mai bine o agenție mare sau una mică?</h3>
+<p>Depinde de buget și de proiect. La bugete de zeci de mii de euro pe an, o agenție mare are
+capacitate. Pentru o firmă mică sau mijlocie, o agenție mică sau medie înseamnă un singur om de
+contact și aceeași echipă pentru site și campanii.</p>
+
+<h3>Ce înseamnă specializare reală la o agenție?</h3>
+<p>Proiecte din domeniul tău, cu cifre, nu o listă de industrii pe site. Cere la prima discuție un
+proiect similar cu al tău și rezultatele lui; răspunsul separă rapid.</p>
+
+<h3>Cum verific recenziile unei agenții?</h3>
+<p>Pe profilul public de Google al firmei, nu în secțiunea de testimoniale de pe site. Uită-te la
+numărul de recenzii, la cât de recente sunt și dacă agenția răspunde la ele.</p>
+
+<h3>Ce întrebare separă cel mai repede agențiile?</h3>
+<p>„Ce nu faceți?" O agenție care răspunde „facem tot" fie nu are un profil clar, fie nu vrea să
+refuze o vânzare. Un răspuns concret — ce nu produc intern, ce tipuri de proiecte nu iau — e semn
+de maturitate.</p>
+3:["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Care sunt cele mai bune agenții de web design din România?"}],["$","div",null,{"className":"blog-article__meta","children":[["$","span",null,{"className":"blog-article__cat","children":"Marketing & business"}],["$","time",null,{"dateTime":"2026-08-20","children":"20 august 2026"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$6"}}],"$L7","$L8","$L9"]}]}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/28or4npab1wgt.css","precedence":"next"}]
+5:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+7:["$","div",null,{"className":"parere","children":[["$","span",null,{"className":"parere__q","children":"Ți-a fost utilă pagina?"}],["$","div",null,{"className":"parere__btns","children":[["$","button",null,{"type":"button","data-nota":"da","children":"Da"}],["$","button",null,{"type":"button","data-nota":"partial","children":"Parțial"}],["$","button",null,{"type":"button","data-nota":"nu","children":"Nu"}]]}],["$","div",null,{"className":"parere__extra","hidden":true,"children":["$","form",null,{"children":[["$","textarea",null,{"rows":2,"placeholder":"Ce ai fi vrut să găsești aici? (opțional)"}],["$","button",null,{"className":"btn btn-solid","type":"submit","children":"Trimite"}]]}]}]]}]
+8:["$","div",null,{"className":"blog-author","children":[["$","span",null,{"className":"blog-author__ava","aria-hidden":"true","children":"V"}],["$","div",null,{"className":"blog-author__body","children":[["$","span",null,{"className":"blog-author__name","children":"Vlad Roman"}],["$","span",null,{"className":"blog-author__role","children":["Fondator Visience · ",["$","a",null,{"href":"https://www.linkedin.com/in/roman-vladut-constantin/","target":"_blank","rel":"noopener","className":"blog-author__link","children":"LinkedIn ↗"}]]}],["$","p",null,{"className":"blog-author__bio","children":"Conduce Visience, agenția de web design și marketing digital din Iași. Scrie despre creare de site-uri, SEO și cum își cresc afacerile mici și mijlocii prezența online."}]]}]]}]
+9:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
+c:null
