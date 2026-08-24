@@ -1,0 +1,162 @@
+1:"$Sreact.fragment"
+a:I[97367,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["/_next/static/chunks/28or4npab1wgt.css","style"]
+2:T113a,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/site-ul-nu-aduce-clienti-ce-verific/#article","headline":"Site-ul meu nu aduce clienți. Ce verific mai întâi?","description":"Diagnostic în patru pași: e problemă de trafic, de potrivire, de conversie sau de răspuns? Plus șapte verificări pe care le faci în zece minute, de pe telefon.","datePublished":"2026-08-20","dateModified":"2026-08-20","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/site-ul-nu-aduce-clienti-ce-verific/","articleSection":"Marketing & business"},{"@type":"FAQPage","@id":"https://visience.ro/blog/site-ul-nu-aduce-clienti-ce-verific/#faq","mainEntity":[{"@type":"Question","name":"Site-ul meu nu aduce clienți. Ce verific mai întâi?","acceptedAnswer":{"@type":"Answer","text":"Numărul de vizite din ultimele 30 de zile. Sub 100 de vizite ai o problemă de vizibilitate, nu de site. Peste 500 de vizite fără nicio cerere ai o problemă de conversie. Între ele, de obicei vine traficul greșit."}},{"@type":"Question","name":"Câte vizite pe lună ar trebui să am pe site?","acceptedAnswer":{"@type":"Answer","text":"Depinde de domeniu și de oraș, dar sub 100 de vizite lunare nu poți trage nicio concluzie despre site: pur și simplu nu ajunge nimeni la el. Prima intervenție e la vizibilitate, nu la pagină."}},{"@type":"Question","name":"Cum îmi dau seama dacă problema e traficul sau site-ul?","acceptedAnswer":{"@type":"Answer","text":"Uită-te de unde vine traficul și pe ce pagini intră. Trafic din social cu timp pe pagină foarte scurt e normal să nu convertească. Trafic din Google pe cuvinte potrivite care tot nu produce cereri indică o problemă pe pagină."}},{"@type":"Question","name":"Ce verific pe site în zece minute?","acceptedAnswer":{"@type":"Answer","text":"Viteza pe telefon, dacă se înțelege din primul ecran ce faci și pentru cine, dacă există prețuri sau intervale, câte câmpuri are formularul, dacă numărul de telefon se poate apăsa, dacă există recenzii reale și dacă un mesaj de test trimis prin formular chiar ajunge."}},{"@type":"Question","name":"Formularul meu funcționează, dar nu primesc mesaje. De ce?","acceptedAnswer":{"@type":"Answer","text":"Cel mai des, mesajele ajung în Spam sau pe o adresă care nu mai e verificată. Trimite-ți singur un test și urmărește unde ajunge. E una dintre cele mai frecvente cauze reale ale unui site care nu aduce nimic."}},{"@type":"Question","name":"Designul urât e motivul pentru care nu am clienți?","acceptedAnswer":{"@type":"Answer","text":"Rar. Un site simplu și clar, cu preț, dovezi și telefon la îndemână, aduce mai mult decât unul frumos care nu spune ce faci și nu are unde să te contacteze."}},{"@type":"Question","name":"Am trafic și cereri, dar nu se transformă în clienți. Ce fac?","acceptedAnswer":{"@type":"Answer","text":"Problema nu mai e pe site. Verifică în cât timp suni după o cerere, cine răspunde și ce se întâmplă după ce trimiți oferta. Viteza de răspuns e cel mai puternic factor la servicii."}},{"@type":"Question","name":"Merită să refac site-ul de la zero dacă nu aduce clienți?","acceptedAnswer":{"@type":"Answer","text":"Nu înainte de diagnostic. De multe ori lipsesc trei-patru lucruri: pagini pe servicii, prețuri, măsurare și un formular funcțional. Reconstrucția se justifică doar dacă site-ul nu poate fi modificat, nu poate primi pagini noi sau se încarcă foarte greu pe telefon."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Site-ul meu nu aduce clienți. Ce verific mai întâi?","item":"https://visience.ro/blog/site-ul-nu-aduce-clienti-ce-verific/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"51hLvp4m6WlKkrCucIZau"}
+6:T25e4,<style>
+.pr-tab { width: 100%; border-collapse: collapse; font-size: 14.5px; }
+.pr-tab th { text-align: left; }
+.pr-nota {
+  background: #111010; color: #fff; border-radius: 14px;
+  padding: 20px 24px; margin: 28px 0; font-size: 15px; line-height: 1.65;
+}
+.pr-nota b {
+  color: #9BC31A; display: block; font-size: 11px; letter-spacing: .16em;
+  text-transform: uppercase; margin-bottom: 7px; font-family: var(--f-m, monospace);
+}
+.pr-sumar { border-left: 3px solid #9BC31A; padding: 4px 0 4px 22px; margin: 30px 0 38px; list-style: none; }
+.pr-sumar li { margin-bottom: 11px; }
+</style>
+
+<p class="key-answer">Înainte să repari ceva, află care dintre cele patru probleme o ai.
+<strong>Deschide Google Analytics și uită-te la numărul de vizite din ultimele 30 de zile.</strong>
+Sub 100 de vizite ai o problemă de trafic, nu de site. Peste 500 de vizite fără nicio cerere ai o
+problemă de conversie. Între ele, de obicei vine traficul greșit. Iar dacă vin cereri și nu devin
+clienți, problema nu mai e pe site.</p>
+
+<ul class="pr-sumar">
+  <li><b>Pasul 0:</b> ai măsurare? Dacă nu știi câte vizite ai, asta e primul lucru de rezolvat.</li>
+  <li><b>Sub 100 de vizite pe lună</b> → nu te găsește nimeni. Problema e vizibilitatea.</li>
+  <li><b>100–500 de vizite, zero cereri</b> → vine traficul greșit, sau pagina nu răspunde.</li>
+  <li><b>Peste 500 de vizite, sub 1% cereri</b> → problemă de conversie, pe pagină.</li>
+  <li><b>Vin cereri, dar nu devin clienți</b> → problema e la telefon, nu pe site.</li>
+</ul>
+
+<h2 id="pasul-zero">Pasul 0: verifică dacă măsori ceva</h2>
+<p>Cel mai frecvent motiv pentru care cineva spune „site-ul nu aduce clienți" este că nu are de
+unde să știe. Cererile vin pe e-mail, telefonul sună, dar nimeni nu leagă un lucru de altul.</p>
+<p>Ai nevoie de trei lucruri, toate gratuite:</p>
+<ul>
+  <li><b>Google Analytics 4</b>, ca să vezi câte vizite ai și de unde vin.</li>
+  <li><b>Google Search Console</b>, ca să vezi ce caută oamenii care ajung la tine.</li>
+  <li><b>Un eveniment de conversie</b> pe formular, pe apăsarea numărului de telefon și pe WhatsApp.</li>
+</ul>
+<p>Al treilea lipsește la aproape toate site-urile pe care le preluăm. Fără el, orice discuție
+despre „ce funcționează" e o presupunere.</p>
+
+<div class="pr-nota">
+  <b>De reținut</b>
+  Un site nu „aduce clienți" de la sine, la fel cum un magazin cu vitrină frumoasă pe o stradă
+  fără trecători nu vinde. Site-ul convertește traficul care ajunge la el. Dacă nu ajunge nimeni,
+  nu site-ul e de reparat.
+</div>
+
+<h2 id="sub-100">Cazul 1: sub 100 de vizite pe lună</h2>
+<p>Nu e o problemă de site. E o problemă de vizibilitate: nu apari în Google, nu ai reclame și
+nimeni nu îți dă adresa. Ce verifici, în ordine:</p>
+<ol>
+  <li><b>Ești indexat?</b> Caută pe Google <code>site:domeniultau.ro</code>. Dacă nu apare nimic, site-ul nu e în index și nimic altceva nu contează.</li>
+  <li><b>Ai profil Google Business</b>, complet, cu poze, program și servicii? La firmele locale, el aduce mai multe apeluri decât site-ul.</li>
+  <li><b>Ai o pagină pentru fiecare serviciu?</b> O pagină „Servicii" cu douăzeci de rânduri nu prinde nicio căutare.</li>
+  <li><b>Apare orașul în titluri?</b> Oamenii caută „instalator Iași", nu „instalator".</li>
+</ol>
+<p>Detalii în <a href="/blog/de-ce-nu-te-gaseste-clientul-pe-google/">de ce nu te găsește clientul
+pe Google</a>.</p>
+
+<h2 id="100-500">Cazul 2: ai vizite, dar zero cereri</h2>
+<p>Aici sunt două cauze posibile și se disting ușor: uită-te <b>de unde vine</b> traficul.</p>
+<table class="pr-tab">
+  <thead><tr><th>Ce vezi în Analytics</th><th>Ce înseamnă</th><th>Ce faci</th></tr></thead>
+  <tbody>
+    <tr><td>Trafic din social, timp pe pagină sub 15 secunde</td><td>oameni care au dat click din curiozitate, nu cu intenție</td><td>e normal; nu de acolo vin cererile</td></tr>
+    <tr><td>Trafic din Google pe cuvinte generale</td><td>vine lumea care caută altceva</td><td>schimbă titlurile: adaugă orașul și serviciul exact</td></tr>
+    <tr><td>Trafic din reclame, dar pe prima pagină</td><td>omul aterizează unde nu trebuie</td><td>trimite fiecare anunț pe pagina serviciului lui</td></tr>
+    <tr><td>Trafic bun, pe pagini potrivite, tot zero cereri</td><td>problemă de pagină</td><td>vezi cazul 3</td></tr>
+  </tbody>
+</table>
+
+<h2 id="conversie">Cazul 3: trafic potrivit, dar nu cere nimeni nimic</h2>
+<p>Șapte verificări care se fac în zece minute, de pe telefon, fără nicio unealtă plătită:</p>
+<ol>
+  <li><b>Deschide site-ul pe telefon, pe date mobile.</b> Dacă durează peste 3 secunde, o parte din oameni pleacă înainte să vadă ceva.</li>
+  <li><b>Citește primul ecran.</b> Se înțelege în trei secunde ce faci, pentru cine și unde? Dacă scrie „Bine ai venit", nu.</li>
+  <li><b>Caută prețul.</b> Dacă nu există niciun preț și niciun interval, primești mai puține cereri și mai proaste.</li>
+  <li><b>Numără câmpurile din formular.</b> Peste patru câmpuri obligatorii taie serios din completări.</li>
+  <li><b>Vezi dacă numărul de telefon se poate apăsa.</b> Pe telefon, un număr care nu declanșează apelul e un număr pierdut.</li>
+  <li><b>Caută dovezile.</b> Recenzii cu nume, lucrări reale, date de firmă. Fără ele, ești încă un site care se laudă.</li>
+  <li><b>Trimite un test prin formular.</b> Ajunge mesajul? La ce adresă? În Spam? Se întâmplă mai des decât ai crede.</li>
+</ol>
+<p>Verificarea 7 e cea care rezolvă cele mai multe cazuri. Am văzut site-uri care „nu aduceau
+clienți" de opt luni pentru că formularul trimitea pe o adresă de e-mail care nu mai exista.</p>
+<p>Dacă vrei lista completă, pe piese, ai
+<a href="/anatomia-paginii-de-servicii/">anatomia unui site de servicii</a>: 19 elemente, fiecare
+cu ce trebuie să conțină și ce îl strică.</p>
+
+<h2 id="dupa">Cazul 4: vin cereri, dar nu devin clienți</h2>
+<p>Aici site-ul și-a făcut treaba. Problema e mai departe:</p>
+<ul>
+  <li><b>Cât de repede suni?</b> Cine sună în primele minute prinde omul încă în căutare. A doua zi, a vorbit deja cu alți trei.</li>
+  <li><b>Cine răspunde?</b> Dacă cererile ajung într-o căsuță pe care o citește cineva o dată pe zi, jumătate se răcesc.</li>
+  <li><b>Sunt cererile potrivite?</b> Dacă toți întreabă de ceva ce nu faci, mesajul de pe site atrage publicul greșit.</li>
+  <li><b>Ce se întâmplă după ofertă?</b> Fără un al doilea contact, o parte din oameni pur și simplu uită.</li>
+</ul>
+
+<h2 id="nu-e">Ce nu e, de obicei, problema</h2>
+<ul>
+  <li><b>Designul.</b> Un site simplu, clar, cu preț și telefon, bate unul frumos și mut.</li>
+  <li><b>Numărul de pagini.</b> Șase pagini bune bat douăzeci scrise ca să existe.</li>
+  <li><b>Blogul.</b> Ajută pe termen lung, dar nu rezolvă lipsa cererilor luna asta.</li>
+  <li><b>Platforma.</b> WordPress, Webflow sau altceva — dacă restul e în regulă, nu de acolo vine problema.</li>
+</ul>
+
+<h2 id="mai-departe">Mai departe</h2>
+<p>Dacă vrei să-ți spunem noi ce lipsește, trimite-ne adresa prin
+<a href="/contact/">formularul de contact</a>: ne uităm cu lista de mai sus în mână și îți
+răspundem în scris, cu ce e de reparat și în ce ordine.</p>
+
+<h2 id="faq">Întrebări frecvente</h2>
+
+<h3>Site-ul meu nu aduce clienți. Ce verific mai întâi?</h3>
+<p>Numărul de vizite din ultimele 30 de zile. Sub 100 de vizite ai o problemă de vizibilitate, nu
+de site. Peste 500 de vizite fără nicio cerere ai o problemă de conversie. Între ele, de obicei
+vine traficul greșit.</p>
+
+<h3>Câte vizite pe lună ar trebui să am?</h3>
+<p>Depinde de domeniu și de oraș, dar sub 100 de vizite lunare nu poți trage nicio concluzie
+despre site: pur și simplu nu ajunge nimeni la el. Prima intervenție e la vizibilitate, nu la
+pagină.</p>
+
+<h3>Cum îmi dau seama dacă problema e traficul sau site-ul?</h3>
+<p>Uită-te de unde vine traficul și pe ce pagini intră. Trafic din social cu timp pe pagină foarte
+scurt e normal să nu convertească. Trafic din Google pe cuvinte potrivite, care tot nu produce
+cereri, indică o problemă pe pagină.</p>
+
+<h3>Ce verific pe site în zece minute?</h3>
+<p>Viteza pe telefon, dacă se înțelege din primul ecran ce faci și pentru cine, dacă există prețuri
+sau intervale, câte câmpuri are formularul, dacă numărul de telefon se poate apăsa, dacă există
+recenzii reale, și dacă un mesaj de test trimis prin formular chiar ajunge.</p>
+
+<h3>Formularul meu funcționează, dar nu primesc mesaje. De ce?</h3>
+<p>Cel mai des, mesajele ajung în Spam sau pe o adresă care nu mai e verificată. Trimite-ți singur
+un test și urmărește unde ajunge. E una dintre cele mai frecvente cauze reale ale unui site care
+„nu aduce nimic".</p>
+
+<h3>Designul urât e motivul pentru care nu am clienți?</h3>
+<p>Rar. Un site simplu și clar, cu preț, dovezi și telefon la îndemână, aduce mai mult decât unul
+frumos care nu spune ce faci și nu are unde să te contacteze.</p>
+
+<h3>Am trafic și cereri, dar nu se transformă în clienți. Ce fac?</h3>
+<p>Problema nu mai e pe site. Verifică în cât timp suni după o cerere, cine răspunde și ce se
+întâmplă după ce trimiți oferta. Viteza de răspuns e cel mai puternic factor la servicii.</p>
+
+<h3>Merită să refac site-ul de la zero?</h3>
+<p>Nu înainte de diagnostic. De multe ori lipsesc trei-patru lucruri: pagini pe servicii, prețuri,
+măsurare și un formular funcțional. Reconstrucția se justifică doar dacă site-ul nu poate fi
+modificat, nu poate primi pagini noi sau se încarcă foarte greu pe telefon.</p>
+3:["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Site-ul meu nu aduce clienți. Ce verific mai întâi?"}],["$","div",null,{"className":"blog-article__meta","children":[["$","span",null,{"className":"blog-article__cat","children":"Marketing & business"}],["$","time",null,{"dateTime":"2026-08-20","children":"20 august 2026"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$6"}}],"$L7","$L8","$L9"]}]}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/28or4npab1wgt.css","precedence":"next"}]
+5:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+7:["$","div",null,{"className":"parere","children":[["$","span",null,{"className":"parere__q","children":"Ți-a fost utilă pagina?"}],["$","div",null,{"className":"parere__btns","children":[["$","button",null,{"type":"button","data-nota":"da","children":"Da"}],["$","button",null,{"type":"button","data-nota":"partial","children":"Parțial"}],["$","button",null,{"type":"button","data-nota":"nu","children":"Nu"}]]}],["$","div",null,{"className":"parere__extra","hidden":true,"children":["$","form",null,{"children":[["$","textarea",null,{"rows":2,"placeholder":"Ce ai fi vrut să găsești aici? (opțional)"}],["$","button",null,{"className":"btn btn-solid","type":"submit","children":"Trimite"}]]}]}]]}]
+8:["$","div",null,{"className":"blog-author","children":[["$","span",null,{"className":"blog-author__ava","aria-hidden":"true","children":"V"}],["$","div",null,{"className":"blog-author__body","children":[["$","span",null,{"className":"blog-author__name","children":"Vlad Roman"}],["$","span",null,{"className":"blog-author__role","children":["Fondator Visience · ",["$","a",null,{"href":"https://www.linkedin.com/in/roman-vladut-constantin/","target":"_blank","rel":"noopener","className":"blog-author__link","children":"LinkedIn ↗"}]]}],["$","p",null,{"className":"blog-author__bio","children":"Conduce Visience, agenția de web design și marketing digital din Iași. Scrie despre creare de site-uri, SEO și cum își cresc afacerile mici și mijlocii prezența online."}]]}]]}]
+9:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
+c:null
