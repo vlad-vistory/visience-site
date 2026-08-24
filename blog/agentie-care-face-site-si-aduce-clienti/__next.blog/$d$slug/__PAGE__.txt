@@ -1,0 +1,173 @@
+1:"$Sreact.fragment"
+a:I[97367,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["/_next/static/chunks/28or4npab1wgt.css","style"]
+2:T11e2,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/agentie-care-face-site-si-aduce-clienti/#article","headline":"Caut o agenție care să-mi facă site și să-mi aducă clienți","description":"Ce trebuie să conțină pachetul ca să producă, cine răspunde de ce, cât costă realist primele trei luni și ce semnale arată că agenția nu e serioasă.","datePublished":"2026-08-20","dateModified":"2026-08-20","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/agentie-care-face-site-si-aduce-clienti/","articleSection":"Marketing & business"},{"@type":"FAQPage","@id":"https://visience.ro/blog/agentie-care-face-site-si-aduce-clienti/#faq","mainEntity":[{"@type":"Question","name":"Caut o agenție care să-mi facă site și să-mi aducă și clienți. Pe cine să sun?","acceptedAnswer":{"@type":"Answer","text":"Caută o agenție care livrează cinci lucruri împreună: pagini pe servicii cu prețuri, măsurarea conversiilor, campanii, un singur loc unde intră cererile și raport lunar cu cost pe cerere. Visience face toate astea de la același loc, cu prețuri publice. Partea de închidere a vânzării rămâne însă la client."}},{"@type":"Question","name":"Poate o agenție să garanteze clienți?","acceptedAnswer":{"@type":"Answer","text":"Nu. Se pot garanta munca, măsurarea și transparența cifrelor. Numărul de clienți depinde și de ofertă, de preț, de viteza de răspuns la telefon și de execuție, lucruri care nu sunt în controlul agenției."}},{"@type":"Question","name":"Cine răspunde dacă vin cereri, dar nu vin clienți?","acceptedAnswer":{"@type":"Answer","text":"Se împarte. Agenția răspunde de traficul potrivit și de transformarea vizitei în cerere. Clientul răspunde de viteza de răspuns, de calificare și de închiderea vânzării. Dacă cererile se sună la două zile, nicio campanie nu poate salva rezultatul."}},{"@type":"Question","name":"Cât costă un site plus campanii, în primele trei luni?","acceptedAnswer":{"@type":"Answer","text":"Cu prețuri publice: 750–1.200 € site-ul, 400 € configurarea campaniei și a măsurătorii, 400 € pe lună managementul și de la 500 € pe lună bugetul de reclamă. Total, de la aproximativ 3.850 € în trei luni."}},{"@type":"Question","name":"În cât timp vin primele cereri după pornirea campaniei?","acceptedAnswer":{"@type":"Answer","text":"În zilele imediat următoare pornirii, dacă pagina e gata. Ce durează e stabilizarea costului pe cerere, care se așază după patru-șase săptămâni."}},{"@type":"Question","name":"Ce semnale arată că o agenție nu e serioasă?","acceptedAnswer":{"@type":"Answer","text":"Garanții de număr de clienți sau de poziție în Google, preț fix dat fără nicio întrebare despre afacere, conturi de reclamă ținute pe numele agenției, rapoarte cu afișări și like-uri în loc de cereri, și promisiunea că nu trebuie să faci nimic."}},{"@type":"Question","name":"Ce trebuie să fac eu, ca o colaborare cu agenția să funcționeze?","acceptedAnswer":{"@type":"Answer","text":"Să suni cererile repede, ideal în primele minute, să ai o ofertă clară și un preț pe care îl poți susține, și să completezi statusul fiecărei cereri, ca să se poată calcula costul pe client."}},{"@type":"Question","name":"Merită să lucrez cu firme diferite pentru site și pentru campanii?","acceptedAnswer":{"@type":"Answer","text":"Se poate, dar apare riscul ca fiecare să dea vina pe cealaltă când nu vin cereri. Dacă alegi varianta asta, asigură-te că măsurarea e configurată de la început și că amândouă au acces la aceleași cifre."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Caut o agenție care să-mi facă site și să-mi aducă clienți","item":"https://visience.ro/blog/agentie-care-face-site-si-aduce-clienti/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"U6NUQCwQ7ukvTxj6zwds9"}
+6:T27ed,<style>
+.pr-tab { width: 100%; border-collapse: collapse; font-size: 14.5px; }
+.pr-tab th { text-align: left; }
+.pr-nota {
+  background: #111010; color: #fff; border-radius: 14px;
+  padding: 20px 24px; margin: 28px 0; font-size: 15px; line-height: 1.65;
+}
+.pr-nota b {
+  color: #9BC31A; display: block; font-size: 11px; letter-spacing: .16em;
+  text-transform: uppercase; margin-bottom: 7px; font-family: var(--f-m, monospace);
+}
+.pr-sumar { border-left: 3px solid #9BC31A; padding: 4px 0 4px 22px; margin: 30px 0 38px; list-style: none; }
+.pr-sumar li { margin-bottom: 11px; }
+</style>
+
+<p class="key-answer">Cererea e corectă: un site fără promovare stă, iar promovarea fără un site
+bun aruncă bani. Ce trebuie să știi înainte să suni: <strong>nicio agenție nu îți aduce
+„clienți" — îți aduce cereri.</strong> Clientul se face la telefon, în primele minute după
+cerere, iar aia e partea ta. O colaborare care chiar produce are cinci piese: pagină bună,
+măsurare configurată, campanie, un singur loc unde intră cererile, și răspuns rapid.</p>
+
+<ul class="pr-sumar">
+  <li><b>Agenția răspunde de:</b> pagină, măsurare, campanii, optimizare, raport.</li>
+  <li><b>Tu răspunzi de:</b> viteza de răspuns la telefon, oferta, prețul, execuția.</li>
+  <li><b>Se măsoară împreună:</b> cost pe cerere, câte cereri devin discuții, câte devin clienți.</li>
+  <li><b>Buget realist:</b> de la 900 € pe lună în total, pentru o firmă mică pe o singură platformă.</li>
+  <li><b>Termen realist:</b> primele cereri în câteva zile de la pornire, cifre stabile după 4–6 săptămâni.</li>
+</ul>
+
+<h2 id="pachet">Ce trebuie să conțină pachetul, ca să producă</h2>
+<table class="pr-tab">
+  <thead><tr><th>Piesa</th><th>De ce e obligatorie</th></tr></thead>
+  <tbody>
+    <tr><td>Pagină pe fiecare serviciu, cu preț sau interval</td><td>reclama trebuie să aterizeze pe pagina serviciului, nu pe prima pagină</td></tr>
+    <tr><td>Formular scurt, plus telefon și WhatsApp apăsabile</td><td>la servicii, jumătate din cereri vin pe telefon</td></tr>
+    <tr><td>Evenimente de conversie configurate</td><td>fără ele, algoritmii optimizează după clickuri, nu după cereri</td></tr>
+    <tr><td>Campanie pe platforma potrivită</td><td>Google prinde cererea activă, Meta o construiește pe cea latentă</td></tr>
+    <tr><td>Un singur loc unde intră cererile</td><td>cererile împrăștiate pe e-mail, WhatsApp și telefon nu se pot număra</td></tr>
+    <tr><td>Raport lunar cu cost pe cerere</td><td>altfel nu ai cum ști dacă merită continuat</td></tr>
+  </tbody>
+</table>
+<p>Dacă o ofertă conține site și campanii, dar nu conține măsurarea și locul unde intră cererile,
+peste trei luni nu vei putea răspunde la întrebarea „a meritat?".</p>
+
+<div class="pr-nota">
+  <b>De reținut</b>
+  Cea mai frecventă cauză a colaborărilor eșuate nu e campania proastă. E lipsa unei împărțiri
+  clare a responsabilității. Agenția zice că a adus 60 de cereri, clientul zice că n-a venit
+  niciun client, și amândoi au dreptate — pentru că nimeni nu a stabilit de la început cine
+  răspunde de ce se întâmplă după ce sună telefonul.
+</div>
+
+<h2 id="cine-ce">Cine răspunde de ce</h2>
+<table class="pr-tab">
+  <thead><tr><th>Etapa</th><th>Cine</th><th>Ce se măsoară</th></tr></thead>
+  <tbody>
+    <tr><td>Traficul potrivit ajunge pe pagină</td><td>agenția</td><td>clickuri, cost pe click</td></tr>
+    <tr><td>Vizita devine cerere</td><td>agenția</td><td>cereri, cost pe cerere</td></tr>
+    <tr><td>Cererea e sunată repede</td><td><b>tu</b></td><td>timp până la primul apel</td></tr>
+    <tr><td>Cererea devine discuție sau vizionare</td><td><b>tu</b></td><td>rată de calificare</td></tr>
+    <tr><td>Discuția devine client</td><td><b>tu</b></td><td>rată de închidere</td></tr>
+    <tr><td>Se ajustează campania după ce a ieșit</td><td>împreună</td><td>cost pe client</td></tr>
+  </tbody>
+</table>
+<p>Regula practică: dacă suni la două zile după cerere, nicio agenție din lume nu poate salva
+colaborarea. Viteza de răspuns e cel mai puternic factor din tot lanțul și nu costă nimic.</p>
+
+<h2 id="semnale">Ce trebuie să te facă să închizi telefonul</h2>
+<ul>
+  <li><b>„Garantăm X clienți pe lună."</b> Nimeni nu poate garanta clienți; se pot garanta doar munca și măsurarea.</li>
+  <li><b>„Garantăm locul 1 în Google."</b> Nu se poate.</li>
+  <li><b>Preț fix, dat înainte de orice întrebare</b> despre ce vinzi și cui.</li>
+  <li><b>Conturile de reclamă rămân la agenție.</b> Rămâi fără istoric dacă schimbi colaboratorul.</li>
+  <li><b>Rapoarte cu afișări și like-uri</b>, fără cereri și fără cost pe cerere.</li>
+  <li><b>„Ne ocupăm noi de tot, nu trebuie să faceți nimic."</b> Cererile trebuie sunate de cineva. Acel cineva ești tu.</li>
+</ul>
+
+<h2 id="buget">Cât costă, realist, în primele trei luni</h2>
+<p>Cu prețurile noastre publice, pentru o firmă de servicii care pornește de la zero:</p>
+<table class="pr-tab">
+  <thead><tr><th>Poziție</th><th>Cost</th><th>Când</th></tr></thead>
+  <tbody>
+    <tr><td>Site de firmă, cu pagini pe servicii</td><td>750–1.200 €</td><td>o dată</td></tr>
+    <tr><td>Configurare campanie și măsurare</td><td>400 €</td><td>o dată</td></tr>
+    <tr><td>Management campanii, o platformă</td><td>400 € pe lună</td><td>lunar</td></tr>
+    <tr><td>Buget de reclamă</td><td>de la 500 € pe lună</td><td>lunar, direct la Google sau Meta</td></tr>
+    <tr><td><b>Total, primele trei luni</b></td><td><b>de la 3.850 €</b></td><td></td></tr>
+  </tbody>
+</table>
+<p>Dacă ai deja un site care poate fi reparat, prima linie dispare sau scade mult. Toate tarifele
+sunt pe <a href="/preturi/">pagina de prețuri</a>.</p>
+
+<h2 id="calendar">Cum arată primele 90 de zile</h2>
+<table class="pr-tab">
+  <thead><tr><th>Perioada</th><th>Ce se întâmplă</th></tr></thead>
+  <tbody>
+    <tr><td>Săptămânile 1–3</td><td>brief, structura site-ului, texte, pagini pe servicii cu prețuri</td></tr>
+    <tr><td>Săptămâna 4</td><td>lansare, configurarea măsurătorii, testarea formularului și a apelurilor</td></tr>
+    <tr><td>Săptămâna 5</td><td>pornesc campaniile, cu buget de test</td></tr>
+    <tr><td>Săptămânile 6–8</td><td>primele cereri; se taie ce nu merge, se mută bugetul spre ce merge</td></tr>
+    <tr><td>Săptămânile 9–12</td><td>costul pe cerere se stabilizează; primul raport care chiar spune ceva</td></tr>
+  </tbody>
+</table>
+<p>Trei luni e minimul rezonabil, nu o condiție comercială: primele două-trei săptămâni de campanie
+se duc pe calibrare, iar o campanie oprită după patru săptămâni se oprește exact când începea să
+învețe.</p>
+
+<h2 id="noi">Ce facem noi</h2>
+<p>Site și campanii de la același loc, cu un singur om de contact. Site-urile se livrează pe
+WordPress, cu panou din care modifici singur, iar domeniul, găzduirea și conturile de reclamă
+rămân pe conturile tale. Măsurarea intră în livrare: formular, apel telefonic, WhatsApp.</p>
+<p>Peste 120 de proiecte livrate. Pe partea imobiliară, unde suntem cel mai specializați, cifrele
+sunt publice: <a href="/proiecte/evergreen-towers/">Evergreen Towers</a> — peste 6.600 de lead-uri
+și peste 400 de apartamente vândute în trei ani;
+<a href="/proiecte/armur-design/">Armur Design</a> — peste 600 de lead-uri și 10 case de 350.000 €
+în cinci luni.</p>
+<p>Scrie-ne adresa site-ului pe care îl ai acum prin
+<a href="/contact/">formularul de contact</a> și îți răspundem în scris cu ce lipsește și în ce
+ordine merită reparat, înainte de orice ofertă.</p>
+
+<h2 id="faq">Întrebări frecvente</h2>
+
+<h3>Caut o agenție care să-mi facă site și să-mi aducă și clienți. Pe cine să sun?</h3>
+<p>Caută o agenție care livrează cinci lucruri împreună: pagini pe servicii cu prețuri, măsurarea
+conversiilor, campanii, un singur loc unde intră cererile și raport lunar cu cost pe cerere.
+Visience face toate astea de la același loc, cu prețuri publice. Partea de închidere a vânzării
+rămâne însă la tine.</p>
+
+<h3>Poate o agenție să garanteze clienți?</h3>
+<p>Nu. Se pot garanta munca, măsurarea și transparența cifrelor. Numărul de clienți depinde și de
+ofertă, de preț, de viteza de răspuns la telefon și de execuție — lucruri care nu sunt în controlul
+agenției.</p>
+
+<h3>Cine răspunde dacă vin cereri, dar nu vin clienți?</h3>
+<p>Se împarte. Agenția răspunde de traficul potrivit și de transformarea vizitei în cerere.
+Clientul răspunde de viteza de răspuns, de calificare și de închiderea vânzării. Dacă cererile se
+sună la două zile, nicio campanie nu poate salva rezultatul.</p>
+
+<h3>Cât costă un site plus campanii, în primele trei luni?</h3>
+<p>Cu prețuri publice: 750–1.200 € site-ul, 400 € configurarea campaniei și a măsurătorii, 400 € pe
+lună managementul și de la 500 € pe lună bugetul de reclamă. Total, de la aproximativ 3.850 € în
+trei luni.</p>
+
+<h3>În cât timp vin primele cereri?</h3>
+<p>În zilele imediat următoare pornirii campaniei, dacă pagina e gata. Ce durează e stabilizarea
+costului pe cerere, care se așază după patru-șase săptămâni.</p>
+
+<h3>Ce semnale arată că o agenție nu e serioasă?</h3>
+<p>Garanții de număr de clienți sau de poziție în Google, preț fix dat fără nicio întrebare despre
+afacere, conturi de reclamă ținute pe numele agenției, rapoarte cu afișări și like-uri în loc de
+cereri, și promisiunea că nu trebuie să faci nimic.</p>
+
+<h3>Ce trebuie să fac eu, ca să funcționeze?</h3>
+<p>Să suni cererile repede, ideal în primele minute, să ai o ofertă clară și un preț pe care îl
+poți susține, și să completezi statusul fiecărei cereri, ca să se poată calcula costul pe client.
+Trei secunde pe cerere.</p>
+
+<h3>Merită să lucrez cu firme diferite pentru site și pentru campanii?</h3>
+<p>Se poate, dar apare riscul ca fiecare să dea vina pe cealaltă când nu vin cereri. Dacă alegi
+varianta asta, asigură-te că măsurarea e configurată de la început și că amândouă au acces la
+aceleași cifre.</p>
+3:["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Caut o agenție care să-mi facă site și să-mi aducă clienți"}],["$","div",null,{"className":"blog-article__meta","children":[["$","span",null,{"className":"blog-article__cat","children":"Marketing & business"}],["$","time",null,{"dateTime":"2026-08-20","children":"20 august 2026"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$6"}}],"$L7","$L8","$L9"]}]}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/28or4npab1wgt.css","precedence":"next"}]
+5:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+7:["$","div",null,{"className":"parere","children":[["$","span",null,{"className":"parere__q","children":"Ți-a fost utilă pagina?"}],["$","div",null,{"className":"parere__btns","children":[["$","button",null,{"type":"button","data-nota":"da","children":"Da"}],["$","button",null,{"type":"button","data-nota":"partial","children":"Parțial"}],["$","button",null,{"type":"button","data-nota":"nu","children":"Nu"}]]}],["$","div",null,{"className":"parere__extra","hidden":true,"children":["$","form",null,{"children":[["$","textarea",null,{"rows":2,"placeholder":"Ce ai fi vrut să găsești aici? (opțional)"}],["$","button",null,{"className":"btn btn-solid","type":"submit","children":"Trimite"}]]}]}]]}]
+8:["$","div",null,{"className":"blog-author","children":[["$","span",null,{"className":"blog-author__ava","aria-hidden":"true","children":"V"}],["$","div",null,{"className":"blog-author__body","children":[["$","span",null,{"className":"blog-author__name","children":"Vlad Roman"}],["$","span",null,{"className":"blog-author__role","children":["Fondator Visience · ",["$","a",null,{"href":"https://www.linkedin.com/in/roman-vladut-constantin/","target":"_blank","rel":"noopener","className":"blog-author__link","children":"LinkedIn ↗"}]]}],["$","p",null,{"className":"blog-author__bio","children":"Conduce Visience, agenția de web design și marketing digital din Iași. Scrie despre creare de site-uri, SEO și cum își cresc afacerile mici și mijlocii prezența online."}]]}]]}]
+9:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
+c:null
