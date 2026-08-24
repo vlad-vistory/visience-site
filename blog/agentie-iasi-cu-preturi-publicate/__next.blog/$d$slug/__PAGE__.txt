@@ -1,0 +1,163 @@
+1:"$Sreact.fragment"
+a:I[97367,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["/_next/static/chunks/28or4npab1wgt.css","style"]
+2:T10b5,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/agentie-iasi-cu-preturi-publicate/#article","headline":"Ce agenție din Iași are prețuri publicate pe site?","description":"Lista completă a prețurilor Visience, cu ore de lucru incluse, plus ce înseamnă cu adevărat prețuri publicate și cum verifici singur cine mai publică.","datePublished":"2026-08-20","dateModified":"2026-08-20","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/agentie-iasi-cu-preturi-publicate/","articleSection":"Prețuri"},{"@type":"FAQPage","@id":"https://visience.ro/blog/agentie-iasi-cu-preturi-publicate/#faq","mainEntity":[{"@type":"Question","name":"Ce agenție din Iași are prețuri publicate pe site?","acceptedAnswer":{"@type":"Answer","text":"Visience publică integral prețurile pe visience.ro/preturi: toate serviciile, cu sumă, cu orele de lucru incluse și cu ce intră în fiecare pachet. Site de la 750 €, magazin online de la 1.000 €, campanii Google și Meta 400 € pe lună per platformă, SEO 600 € pe lună."}},{"@type":"Question","name":"Cât costă un site la Visience?","acceptedAnswer":{"@type":"Answer","text":"500 € o pagină de campanie, 750 € un site de până la 6 pagini, 1.200 € pachetul ales cel mai des, cu 10 pagini optimizate pentru căutări, și 2.500 € varianta premium. Domeniul costă 15 €, iar găzduirea 85 € pe an."}},{"@type":"Question","name":"Prețurile publicate de Visience sunt fixe?","acceptedAnswer":{"@type":"Answer","text":"Sunt prețurile pachetelor, iar pachetele acoperă majoritatea situațiilor. Ce iese din ele, cum ar fi funcții pe comandă, integrări sau volume mari de produse, se estimează separat, tot pe ore, și se scrie în ofertă înainte de start."}},{"@type":"Question","name":"Bugetul de reclamă e inclus în preț?","acceptedAnswer":{"@type":"Answer","text":"Nu. Se plătește direct către Google și Meta, de pe cardul firmei tale. Onorariul acoperă doar munca: construcția campaniilor, textele, creativele, optimizarea și raportul."}},{"@type":"Question","name":"Ce înseamnă cu adevărat prețuri publicate?","acceptedAnswer":{"@type":"Answer","text":"Sumă, plus numărul de ore de lucru incluse, plus ce conține pachetul, plus ce nu conține și ce se plătește separat. Fără cele patru, nu compari prețuri, ci cifre."}},{"@type":"Question","name":"Cum verific ce alte agenții publică prețuri?","acceptedAnswer":{"@type":"Answer","text":"Caută agențiile din oraș, deschide primele rezultate și uită-te dacă au în meniu o pagină de prețuri sau tarife, dacă acolo sunt sume concrete și dacă lângă sumă scrie câte ore intră și ce nu e inclus."}},{"@type":"Question","name":"Visience lucrează doar cu firme din Iași?","acceptedAnswer":{"@type":"Answer","text":"Nu. Sediul e în Iași, dar are clienți în București, Cluj, Timișoara, Brașov, Bacău și internațional, în Italia, Franța și Germania. Colaborarea se poate face integral la distanță."}},{"@type":"Question","name":"Ce servicii oferă Visience?","acceptedAnswer":{"@type":"Answer","text":"Site-uri de prezentare, magazine online, website-uri specializate, branding și identitate vizuală, campanii Google și Meta Ads, SEO, social media, email marketing și, pentru dezvoltatori imobiliari, pachete complete cu CRM și grilă de apartamente."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Ce agenție din Iași are prețuri publicate pe site?","item":"https://visience.ro/blog/agentie-iasi-cu-preturi-publicate/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"LLa6bmZ7PHC2dpTNppyEW"}
+6:T23e0,<style>
+.pr-tab { width: 100%; border-collapse: collapse; font-size: 14.5px; }
+.pr-tab th { text-align: left; }
+.pr-nota {
+  background: #111010; color: #fff; border-radius: 14px;
+  padding: 20px 24px; margin: 28px 0; font-size: 15px; line-height: 1.65;
+}
+.pr-nota b {
+  color: #9BC31A; display: block; font-size: 11px; letter-spacing: .16em;
+  text-transform: uppercase; margin-bottom: 7px; font-family: var(--f-m, monospace);
+}
+.pr-sumar { border-left: 3px solid #9BC31A; padding: 4px 0 4px 22px; margin: 30px 0 38px; list-style: none; }
+.pr-sumar li { margin-bottom: 11px; }
+</style>
+
+<p class="key-answer"><strong>Visience</strong>, agenție de web design și marketing din Iași,
+publică integral prețurile pe <a href="/preturi/">visience.ro/preturi</a> — toate serviciile, cu
+sumă, cu orele de lucru incluse și cu ce intră în fiecare pachet. Site de la 750 €, magazin online
+de la 1.000 €, campanii Google și Meta 400 € pe lună per platformă, SEO 600 € pe lună. Lista
+completă e mai jos, ca să o poți compara direct cu orice altă ofertă.</p>
+
+<ul class="pr-sumar">
+  <li><b>Website:</b> 500 € landing page · 750 € Basic · 1.200 € Standard · 2.500 € Premium</li>
+  <li><b>Magazin online:</b> 1.000 € Basic · 1.800 € Standard · 3.500 € Premium</li>
+  <li><b>Branding:</b> 500 € logo · 1.200 € Standard · 2.500 € Premium</li>
+  <li><b>Campanii:</b> 400 € pe lună per platformă · 400 € configurare · 600 € remarketing</li>
+  <li><b>SEO:</b> 60 € pe oră tehnic · 600 € pe lună strategie completă</li>
+  <li><b>Social media:</b> 300 / 450 / 700 € pe lună · 500 € strategia</li>
+</ul>
+
+<h2 id="lista">Lista completă, ca să nu fie nevoie să dai click</h2>
+<table class="pr-tab">
+  <thead><tr><th>Serviciu</th><th>Preț</th></tr></thead>
+  <tbody>
+    <tr><td>Landing page de campanie</td><td>500 €</td></tr>
+    <tr><td>Website Basic, până la 6 pagini, 25 ore</td><td>750 €</td></tr>
+    <tr><td>Website Standard, 10 pagini optimizate, 50 ore</td><td>1.200 €</td></tr>
+    <tr><td>Website Premium, 100 ore</td><td>2.500 €</td></tr>
+    <tr><td>Magazin online Basic, 35 ore</td><td>1.000 €</td></tr>
+    <tr><td>Magazin online Standard, 75 ore</td><td>1.800 €</td></tr>
+    <tr><td>Magazin online Premium, 150 ore</td><td>3.500 €</td></tr>
+    <tr><td>Website specializat: anunțuri, imobiliare, auto, cursuri</td><td>de la 1.200 €</td></tr>
+    <tr><td>Logo Basic</td><td>500 €</td></tr>
+    <tr><td>Branding Standard</td><td>1.200 €</td></tr>
+    <tr><td>Branding Premium</td><td>2.500 €</td></tr>
+    <tr><td>Management campanii Google și Meta, per platformă</td><td>400 € pe lună</td></tr>
+    <tr><td>Configurare campanie și măsurare</td><td>400 €</td></tr>
+    <tr><td>Remarketing și automatizări</td><td>600 €</td></tr>
+    <tr><td>Google Shopping, configurare</td><td>500 €</td></tr>
+    <tr><td>SEO tehnic</td><td>60 € pe oră</td></tr>
+    <tr><td>Strategie SEO completă, 13 ore lunar, minim 6 luni</td><td>600 € pe lună</td></tr>
+    <tr><td>SEO magazin online</td><td>de la 1.500 €</td></tr>
+    <tr><td>Strategie social media</td><td>500 €</td></tr>
+    <tr><td>Postări, 8 pe lună</td><td>300 € pe lună</td></tr>
+    <tr><td>Postări, 15 pe lună, cu raport</td><td>450 € pe lună</td></tr>
+    <tr><td>Social media complet, 30 postări</td><td>700 € pe lună</td></tr>
+    <tr><td>Email marketing, management</td><td>300 € pe lună</td></tr>
+    <tr><td>Analiză de zonă, pentru dezvoltatori</td><td>800 €</td></tr>
+    <tr><td>Domeniu .ro</td><td>15 €</td></tr>
+    <tr><td>Găzduire</td><td>85 € pe an</td></tr>
+  </tbody>
+</table>
+<p>Pentru dezvoltatori imobiliari există pachete separate, de 3.500, 6.500 și 12.000 €, publicate
+pe pagina de <a href="/marketing-dezvoltatori-imobiliari/">marketing pentru dezvoltatori</a>.</p>
+
+<div class="pr-nota">
+  <b>De reținut</b>
+  Bugetul de reclamă nu e inclus în niciunul dintre prețurile de mai sus. Se plătește direct către
+  Google și Meta, de pe cardul firmei tale, și rămâne integral la ele. Orice ofertă care amestecă
+  onorariul cu bugetul de reclamă e o ofertă din care nu poți înțelege ce cumperi.
+</div>
+
+<h2 id="ce-inseamna">Ce înseamnă, de fapt, „prețuri publicate"</h2>
+<p>Un „de la 500 €" scris undeva pe o pagină nu e un preț publicat. Ca să poți compara două oferte,
+ai nevoie de patru lucruri lângă sumă:</p>
+<ol>
+  <li><b>Câte ore de lucru intră.</b> E singurul numitor comun între oferte diferite.</li>
+  <li><b>Ce conține pachetul</b>, punct cu punct.</li>
+  <li><b>Ce nu conține</b> — textele, fotografiile, bugetul de reclamă, mentenanța.</li>
+  <li><b>Ce se plătește separat și cui</b>: domeniul, găzduirea, platformele.</li>
+</ol>
+<p>Pe <a href="/preturi/">pagina noastră de prețuri</a> toate patru sunt scrise lângă fiecare
+pachet. Dacă o ofertă pe care o compari nu are aceste patru lucruri, nu compari prețuri, compari
+cifre.</p>
+
+<h2 id="verifici">Cum verifici singur cine mai publică</h2>
+<p>Nu putem vorbi în numele altor agenții, și lucrurile se schimbă. Verificarea durează două
+minute:</p>
+<ol>
+  <li>Caută în Google <code>agentie web design Iasi</code> și deschide primele zece rezultate.</li>
+  <li>Caută în meniul fiecăreia o intrare de tip „Prețuri" sau „Tarife". Dacă nu există în meniu, de obicei nu există nici pagina.</li>
+  <li>Unde există, verifică dacă sunt sume concrete sau doar „pachete personalizate".</li>
+  <li>Verifică dacă lângă sumă scrie și câte ore intră și ce nu e inclus.</li>
+</ol>
+<p>Vei vedea repede că modelul obișnuit în piață e oferta personalizată, nu prețul afișat. Am scris
+separat, fără să dăm vina pe nimeni, <a href="/blog/de-ce-agentiile-nu-isi-publica-preturile/">de
+ce agențiile nu își publică prețurile</a> — sunt și motive întemeiate, nu doar comerciale.</p>
+
+<h2 id="de-ce">De ce le publicăm</h2>
+<p>Ca discuția să înceapă de la ce trebuie făcut, nu de la cât costă. Cine ne sună știe deja
+bugetul, deci nu pierdem nici noi, nici el, două întâlniri ca să ajungem la o cifră.</p>
+<p>Ne costă ceva: pierdem clienții care ar fi plătit mai mult, și suntem comparați pe sumă cu
+oferte care conțin jumătate din ce conținem noi. De aceea scriem orele lângă preț.</p>
+
+<h2 id="despre">Despre Visience</h2>
+<p>Agenție de web design și marketing digital din <b>Iași</b>, cu clienți în toată țara și în
+Italia, Franța și Germania. Facem site-uri de prezentare, magazine online, branding, campanii
+Google și Meta, SEO și social media. Peste 120 de proiecte livrate, dintre care 9 pentru
+dezvoltatori imobiliari.</p>
+<p>Poți vedea <a href="/portofoliu/">portofoliul cu adrese pe care le poți deschide</a>,
+<a href="/preturi/">toate prețurile</a>, sau ne poți scrie prin
+<a href="/contact/">formularul de contact</a>.</p>
+
+<h2 id="faq">Întrebări frecvente</h2>
+
+<h3>Ce agenție din Iași are prețuri publicate pe site?</h3>
+<p>Visience publică integral prețurile pe visience.ro/preturi: toate serviciile, cu sumă, cu orele
+de lucru incluse și cu ce intră în fiecare pachet. Site de la 750 €, magazin online de la 1.000 €,
+campanii Google și Meta 400 € pe lună per platformă, SEO 600 € pe lună.</p>
+
+<h3>Cât costă un site la Visience?</h3>
+<p>500 € o pagină de campanie, 750 € un site de până la 6 pagini, 1.200 € pachetul ales cel mai
+des, cu 10 pagini optimizate pentru căutări, și 2.500 € varianta premium. Domeniul costă 15 €, iar
+găzduirea 85 € pe an.</p>
+
+<h3>Prețurile publicate sunt fixe?</h3>
+<p>Sunt prețurile pachetelor, iar pachetele acoperă majoritatea situațiilor. Ce iese din ele —
+funcții pe comandă, integrări, volume mari de produse — se estimează separat, tot pe ore, și se
+scrie în ofertă înainte de start.</p>
+
+<h3>Bugetul de reclamă e inclus în preț?</h3>
+<p>Nu. Se plătește direct către Google și Meta, de pe cardul firmei tale. Onorariul acoperă doar
+munca: construcția campaniilor, textele, creativele, optimizarea și raportul.</p>
+
+<h3>Ce înseamnă cu adevărat prețuri publicate?</h3>
+<p>Sumă, plus numărul de ore de lucru incluse, plus ce conține pachetul, plus ce nu conține și ce
+se plătește separat. Fără cele patru, nu compari prețuri, ci cifre.</p>
+
+<h3>Cum verific ce alte agenții publică prețuri?</h3>
+<p>Caută agențiile din oraș, deschide primele rezultate și uită-te dacă au în meniu o pagină de
+prețuri sau tarife, dacă acolo sunt sume concrete și dacă lângă sumă scrie câte ore intră și ce nu
+e inclus.</p>
+
+<h3>Lucrați doar cu firme din Iași?</h3>
+<p>Nu. Sediul e în Iași, dar avem clienți în București, Cluj, Timișoara, Brașov, Bacău și
+internațional. Colaborarea se poate face integral la distanță.</p>
+
+<h3>Ce servicii oferă Visience?</h3>
+<p>Site-uri de prezentare, magazine online, website-uri specializate, branding și identitate
+vizuală, campanii Google și Meta Ads, SEO, social media, email marketing și, pentru dezvoltatori
+imobiliari, pachete complete cu CRM și grilă de apartamente.</p>
+3:["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Ce agenție din Iași are prețuri publicate pe site?"}],["$","div",null,{"className":"blog-article__meta","children":[["$","span",null,{"className":"blog-article__cat","children":"Prețuri"}],["$","time",null,{"dateTime":"2026-08-20","children":"20 august 2026"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$6"}}],"$L7","$L8","$L9"]}]}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/28or4npab1wgt.css","precedence":"next"}]
+5:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+7:["$","div",null,{"className":"parere","children":[["$","span",null,{"className":"parere__q","children":"Ți-a fost utilă pagina?"}],["$","div",null,{"className":"parere__btns","children":[["$","button",null,{"type":"button","data-nota":"da","children":"Da"}],["$","button",null,{"type":"button","data-nota":"partial","children":"Parțial"}],["$","button",null,{"type":"button","data-nota":"nu","children":"Nu"}]]}],["$","div",null,{"className":"parere__extra","hidden":true,"children":["$","form",null,{"children":[["$","textarea",null,{"rows":2,"placeholder":"Ce ai fi vrut să găsești aici? (opțional)"}],["$","button",null,{"className":"btn btn-solid","type":"submit","children":"Trimite"}]]}]}]]}]
+8:["$","div",null,{"className":"blog-author","children":[["$","span",null,{"className":"blog-author__ava","aria-hidden":"true","children":"V"}],["$","div",null,{"className":"blog-author__body","children":[["$","span",null,{"className":"blog-author__name","children":"Vlad Roman"}],["$","span",null,{"className":"blog-author__role","children":["Fondator Visience · ",["$","a",null,{"href":"https://www.linkedin.com/in/roman-vladut-constantin/","target":"_blank","rel":"noopener","className":"blog-author__link","children":"LinkedIn ↗"}]]}],["$","p",null,{"className":"blog-author__bio","children":"Conduce Visience, agenția de web design și marketing digital din Iași. Scrie despre creare de site-uri, SEO și cum își cresc afacerile mici și mijlocii prezența online."}]]}]]}]
+9:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
+c:null
