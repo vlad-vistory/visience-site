@@ -1,0 +1,180 @@
+1:"$Sreact.fragment"
+a:I[97367,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["/_next/static/chunks/28or4npab1wgt.css","style"]
+2:T1071,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/cat-costa-seo-pe-luna/#article","headline":"Cât costă serviciile SEO pe lună în România în 2026?","description":"Cât costă SEO în România: 600 € pe lună strategie completă, 60 € pe oră punctual. De ce se lucrează minim șase luni, ce semnale sunt rele într-o ofertă și când SEO nu e ce îți trebuie.","datePublished":"2026-08-20","dateModified":"2026-08-20","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/cat-costa-seo-pe-luna/","articleSection":"Prețuri"},{"@type":"FAQPage","@id":"https://visience.ro/blog/cat-costa-seo-pe-luna/#faq","mainEntity":[{"@type":"Question","name":"Cât costă serviciile SEO pe lună în România?","acceptedAnswer":{"@type":"Answer","text":"600 € pe lună pentru o strategie completă, cu minimum șase luni de colaborare, adică 13 ore de lucru lunar. Pentru intervenții punctuale tariful este 60 € pe oră. Un magazin online pornește de la 1.500 € pentru partea tehnică."}},{"@type":"Question","name":"De ce se cere minimum șase luni la SEO?","acceptedAnswer":{"@type":"Answer","text":"Pentru că Google are nevoie de timp să recrawleze și să confirme schimbările. Primele mișcări apar în lunile doi și trei, creșterea vizibilă a traficului între lunile patru și șase, iar cuvintele importante comercial se câștigă între șase și douăsprezece luni."}},{"@type":"Question","name":"Poate cineva să garanteze locul 1 în Google?","acceptedAnswer":{"@type":"Answer","text":"Nu. Nimeni nu controlează rezultatele Google. O garanție de poziție este fie pe cuvinte pe care nu le caută nimeni, fie o promisiune care nu se poate ține."}},{"@type":"Question","name":"SEO sau Google Ads: ce aleg?","acceptedAnswer":{"@type":"Answer","text":"Ads dacă ai nevoie de clienți în această lună. SEO dacă vrei ca peste un an costul pe cerere să fie mai mic. La o firmă cu buget se fac amândouă: reclamele acoperă perioada în care SEO încă lucrează."}},{"@type":"Question","name":"Cât durează până văd primele rezultate din SEO?","acceptedAnswer":{"@type":"Answer","text":"Primele mișcări pe cuvinte cu concurență mică și pe căutări locale apar în lunile doi și trei. Traficul organic crește vizibil între lunile patru și șase."}},{"@type":"Question","name":"Ce se întâmplă dacă opresc SEO după șase luni?","acceptedAnswer":{"@type":"Answer","text":"Pozițiile câștigate nu dispar imediat, dar scad lent, pe măsură ce concurenții publică. Spre deosebire de reclame, care se opresc în aceeași zi, SEO are inerție în ambele sensuri."}},{"@type":"Question","name":"Am nevoie de SEO dacă am deja un site nou și optimizat?","acceptedAnswer":{"@type":"Answer","text":"Un site optimizat din construcție are baza tehnică făcută: pagini indexabile, viteză, date structurate, sitemap. Ce lipsește este partea continuă, conținut nou și autoritate, care se construiește lună de lună."}},{"@type":"Question","name":"Cât costă un audit SEO?","acceptedAnswer":{"@type":"Answer","text":"Se tarifează la 60 € pe oră. Un audit tehnic complet pentru un site de firmă mică înseamnă câteva ore; pentru un magazin online considerabil mai mult, din cauza categoriilor, filtrelor și paginării."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Cât costă serviciile SEO pe lună în România în 2026?","item":"https://visience.ro/blog/cat-costa-seo-pe-luna/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"YTOCeTmzp2or-0k6pDS83"}
+6:T2a0d,<style>
+.pr-tab { width: 100%; border-collapse: collapse; font-size: 14.5px; }
+.pr-tab th { text-align: left; }
+.pr-nota {
+  background: #111010; color: #fff; border-radius: 14px;
+  padding: 20px 24px; margin: 28px 0; font-size: 15px; line-height: 1.65;
+}
+.pr-nota b {
+  color: #9BC31A; display: block; font-size: 11px; letter-spacing: .16em;
+  text-transform: uppercase; margin-bottom: 7px; font-family: var(--f-m, monospace);
+}
+.pr-sumar { border-left: 3px solid #9BC31A; padding: 4px 0 4px 22px; margin: 30px 0 38px; list-style: none; }
+.pr-sumar li { margin-bottom: 11px; }
+</style>
+
+<p class="key-answer">Serviciile SEO costă, în România în 2026, <strong>600 € pe lună</strong>
+pentru o strategie completă, cu o colaborare de minimum șase luni. Pentru lucrări punctuale —
+un audit, o problemă de indexare, viteza — tariful este <strong>60 € pe oră</strong>. Un magazin
+online cu sute de produse pornește de la <strong>1.500 €</strong> pentru partea tehnică.</p>
+
+<ul class="pr-sumar">
+  <li><b>600 € pe lună</b> — strategie completă: 13 ore lunar, on-page și off-page, minim 6 luni.</li>
+  <li><b>60 € pe oră</b> — SEO tehnic punctual: indexare, sitemap, date structurate, viteză, linkuri stricate.</li>
+  <li><b>De la 1.500 €</b> — SEO pentru magazin online, minimum 38 de ore.</li>
+  <li><b>400 €</b> — sistem de colectare a recenziilor, cu follow-up după livrare.</li>
+  <li><b>200 €</b> — raport cu site-urile de calitate din domeniul tău, pentru linkuri.</li>
+</ul>
+
+<p>Toate sunt publicate pe <a href="/preturi/">pagina de prețuri</a>. Mai jos e ce intră în banii
+ăștia, de ce se lucrează pe minimum șase luni și când SEO nu e ce îți trebuie.</p>
+
+<h2 id="ce-intra">Ce intră în 600 € pe lună</h2>
+<p>Treisprezece ore de lucru, împărțite cam așa:</p>
+<ul>
+  <li><b>Analiza cuvintelor cheie</b> și a ce caută concret clienții tăi, nu ce sună bine.</li>
+  <li><b>Optimizare on-page:</b> titluri, structură, texte, legături interne, date structurate.</li>
+  <li><b>Conținut nou</b> — pagini de servicii, pagini pe zone, articole care răspund la întrebări reale.</li>
+  <li><b>Link building</b>, adică obținerea de mențiuni de pe alte site-uri relevante.</li>
+  <li><b>Raport lunar</b> cu poziții, trafic organic și — cel mai important — cereri venite din căutare.</li>
+</ul>
+<p>Treisprezece ore pe lună înseamnă aproximativ trei ore pe săptămână. E suficient pentru un
+site de firmă mică sau mijlocie. Nu e suficient pentru un magazin cu mii de produse sau pentru o
+piață cu concurență națională puternică; acolo se lucrează cu bugete mai mari.</p>
+
+<h2 id="sase-luni">De ce minimum șase luni</h2>
+<p>Nu e o condiție comercială, e felul în care funcționează. Google are nevoie de timp să
+recrawleze, să reindexeze și să vadă dacă schimbările țin. Un calendar realist arată așa:</p>
+<table class="pr-tab">
+  <thead><tr><th>Perioada</th><th>Ce se întâmplă</th></tr></thead>
+  <tbody>
+    <tr><td>Luna 1</td><td>audit, reparații tehnice, structura de conținut. Nimic vizibil în afară.</td></tr>
+    <tr><td>Lunile 2–3</td><td>apar primele mișcări pe cuvinte cu concurență mică și pe căutări locale</td></tr>
+    <tr><td>Lunile 4–6</td><td>traficul organic începe să crească vizibil; apar primele cereri din căutare</td></tr>
+    <tr><td>Lunile 6–12</td><td>se câștigă cuvintele care contează comercial; efectul se compune</td></tr>
+  </tbody>
+</table>
+<p>Cine îți promite locul întâi în două luni fie lucrează pe cuvinte pe care nu le caută nimeni,
+fie nu îți spune adevărul.</p>
+
+<div class="pr-nota">
+  <b>De reținut</b>
+  SEO nu se plătește ca să apari în Google. Se plătește ca să nu mai plătești fiecare click.
+  O pagină care se poziționează bine aduce cereri și după ce oprești bugetul de reclamă. De
+  aceea se compară cu Ads pe orizontul de un an, nu pe cel de o lună.
+</div>
+
+<h2 id="modele">Cum se tarifează SEO în piață și ce semnale sunt rele</h2>
+<table class="pr-tab">
+  <thead><tr><th>Model</th><th>Cum sună</th><th>Ce trebuie să știi</th></tr></thead>
+  <tbody>
+    <tr><td>Abonament lunar</td><td>„X € pe lună, minim N luni"</td><td>modelul normal; cere să vezi câte ore intră</td></tr>
+    <tr><td>Pe oră</td><td>„Y € pe oră lucrată"</td><td>bun pentru probleme punctuale, nu pentru creștere continuă</td></tr>
+    <tr><td>Pe cuvânt cheie</td><td>„Z € pe cuvânt, pe lună"</td><td>tentant, dar împinge spre cuvinte ușoare, fără valoare comercială</td></tr>
+    <tr><td>Plată la rezultat</td><td>„plătești doar când ajungi pe prima pagină"</td><td>de obicei se aplică pe cuvinte pe care le-ai fi câștigat oricum</td></tr>
+  </tbody>
+</table>
+<p>Semnale la care merită să te oprești din discuție:</p>
+<ul>
+  <li><b>„Garantăm locul 1."</b> Nimeni nu poate garanta o poziție în Google, iar cine spune altfel îți spune ce vrei să auzi.</li>
+  <li><b>„Avem o legătură la Google."</b> Nu există așa ceva.</li>
+  <li><b>Rapoarte doar cu poziții</b>, fără trafic și fără cereri. Poziția pe un cuvânt fără căutări nu înseamnă nimic.</li>
+  <li><b>Linkuri cumpărate în masă</b>, de pe directoare fără legătură cu domeniul tău. Fac rău, nu bine.</li>
+</ul>
+
+<h2 id="cand-nu">Când SEO nu e ce îți trebuie</h2>
+<ul>
+  <li><b>Ai nevoie de clienți luna asta.</b> SEO nu rezolvă urgențe. Pentru asta sunt <a href="/blog/cat-costa-managementul-reclamelor-google-meta/">campaniile plătite</a>.</li>
+  <li><b>Site-ul are trei pagini.</b> Nu se poate optimiza ce nu există. Întâi conținut, apoi optimizare.</li>
+  <li><b>Nimeni nu caută ce vinzi.</b> Există afaceri fără cerere în căutare; acolo funcționează prospectarea directă și reclama, nu SEO.</li>
+  <li><b>Nu ai buget pe șase luni.</b> Trei luni de SEO sunt bani pierduți: e exact perioada în care se investește și nu se recoltează.</li>
+</ul>
+
+<h2 id="vs-ads">SEO sau reclame? Comparația onestă</h2>
+<table class="pr-tab">
+  <thead><tr><th></th><th>SEO</th><th>Google Ads</th></tr></thead>
+  <tbody>
+    <tr><td>Primele rezultate</td><td>3–6 luni</td><td>zile</td></tr>
+    <tr><td>Cost pe cerere, în timp</td><td>scade</td><td>rămâne constant sau crește</td></tr>
+    <tr><td>Ce se întâmplă dacă oprești</td><td>rămâne, scade lent</td><td>se oprește imediat</td></tr>
+    <tr><td>Cost lunar, la noi</td><td>600 €</td><td>400 € management, plus buget de la 500 €</td></tr>
+    <tr><td>Potrivit pentru</td><td>creștere pe termen lung</td><td>volum acum, testarea unei oferte</td></tr>
+  </tbody>
+</table>
+<p>La o firmă care are timp și buget, se fac amândouă: reclamele aduc clienți în lunile în care
+SEO încă lucrează, iar după un an partea organică preia o parte din volum și costul mediu pe
+cerere scade.</p>
+
+<h2 id="2026">Ce s-a schimbat în 2026: căutarea cu AI</h2>
+<p>Tot mai mulți oameni pun întrebarea în ChatGPT sau citesc răspunsul generat de Google înainte
+să deschidă vreun site. Optimizarea pentru asta nu e o disciplină separată: aceleași pagini care
+răspund direct la întrebări, cu cifre și cu date structurate, sunt și cele citate de modele.</p>
+<p>Practic, înseamnă pagini cu titluri formulate ca întrebări, răspunsul în primul paragraf,
+întrebări frecvente marcate cu date structurate, și un profil de Google Business actualizat.
+Toate intră în aceeași muncă lunară.</p>
+
+<h2 id="verifici">Cum verifici că se lucrează cu adevărat</h2>
+<ol>
+  <li><b>Cere accesul la Google Search Console</b> — al tău, nu al agenției. Acolo vezi impresii, clickuri și poziții reale.</li>
+  <li><b>Cere lista paginilor modificate</b> luna trecută și a celor create.</li>
+  <li><b>Cere linkurile obținute</b>, cu adrese. Dacă sunt directoare fără legătură cu domeniul tău, e semn rău.</li>
+  <li><b>Uită-te la cereri, nu la poziții.</b> Întrebarea corectă e câte cereri au venit din căutare organică luna trecută.</li>
+</ol>
+
+<h2 id="mai-departe">Mai departe</h2>
+<p>Dacă nu apari deloc în Google, începe cu
+<a href="/blog/de-ce-nu-te-gaseste-clientul-pe-google/">de ce nu te găsește clientul pe Google</a>
+și cu <a href="/blog/site-indexat-google-search-console/">verificarea indexării</a>. Dacă
+vrei să vezi ce facem concret, ai <a href="/optimizare-seo/">pagina de optimizare SEO</a>, iar
+tarifele sunt pe <a href="/preturi/">pagina de prețuri</a>.</p>
+
+<h2 id="faq">Întrebări frecvente</h2>
+
+<h3>Cât costă serviciile SEO pe lună în România?</h3>
+<p>600 € pe lună pentru o strategie completă, cu minimum șase luni de colaborare, ceea ce
+înseamnă 13 ore de lucru lunar. Pentru intervenții punctuale, tariful este 60 € pe oră. Un magazin
+online pornește de la 1.500 € pentru partea tehnică.</p>
+
+<h3>De ce se cere minimum șase luni la SEO?</h3>
+<p>Pentru că Google are nevoie de timp să recrawleze și să confirme schimbările. Primele mișcări
+apar în lunile doi și trei, creșterea vizibilă a traficului între lunile patru și șase, iar
+cuvintele importante comercial se câștigă între șase și douăsprezece luni.</p>
+
+<h3>Poate cineva să garanteze locul 1 în Google?</h3>
+<p>Nu. Nimeni nu controlează rezultatele Google, iar o garanție de poziție e fie pe cuvinte pe
+care nu le caută nimeni, fie o promisiune care nu se poate ține.</p>
+
+<h3>SEO sau Google Ads?</h3>
+<p>Ads dacă ai nevoie de clienți în această lună. SEO dacă vrei ca peste un an costul pe cerere să
+fie mai mic. La o firmă cu buget se fac amândouă: reclamele acoperă perioada în care SEO încă
+lucrează.</p>
+
+<h3>Cât durează până văd primele rezultate din SEO?</h3>
+<p>Primele mișcări pe cuvinte cu concurență mică și pe căutări locale apar în lunile doi și trei.
+Traficul organic crește vizibil între lunile patru și șase.</p>
+
+<h3>Ce se întâmplă dacă opresc SEO după șase luni?</h3>
+<p>Pozițiile câștigate nu dispar imediat, dar scad lent, pe măsură ce concurenții publică. Spre
+deosebire de reclame, care se opresc în aceeași zi, SEO are inerție în ambele sensuri.</p>
+
+<h3>Am nevoie de SEO dacă am deja un site nou și optimizat?</h3>
+<p>Un site optimizat din construcție are baza tehnică făcută: pagini indexabile, viteză, date
+structurate, sitemap. Ce lipsește este partea continuă — conținut nou și autoritate — care se
+construiește lună de lună.</p>
+
+<h3>Cât costă un audit SEO?</h3>
+<p>Se tarifează la 60 € pe oră. Un audit tehnic complet pentru un site de firmă mică înseamnă de
+regulă câteva ore; pentru un magazin online, considerabil mai mult, din cauza categoriilor,
+filtrelor și paginării.</p>
+3:["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Cât costă serviciile SEO pe lună în România în 2026?"}],["$","div",null,{"className":"blog-article__meta","children":[["$","span",null,{"className":"blog-article__cat","children":"Prețuri"}],["$","time",null,{"dateTime":"2026-08-20","children":"20 august 2026"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$6"}}],"$L7","$L8","$L9"]}]}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/28or4npab1wgt.css","precedence":"next"}]
+5:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+7:["$","div",null,{"className":"parere","children":[["$","span",null,{"className":"parere__q","children":"Ți-a fost utilă pagina?"}],["$","div",null,{"className":"parere__btns","children":[["$","button",null,{"type":"button","data-nota":"da","children":"Da"}],["$","button",null,{"type":"button","data-nota":"partial","children":"Parțial"}],["$","button",null,{"type":"button","data-nota":"nu","children":"Nu"}]]}],["$","div",null,{"className":"parere__extra","hidden":true,"children":["$","form",null,{"children":[["$","textarea",null,{"rows":2,"placeholder":"Ce ai fi vrut să găsești aici? (opțional)"}],["$","button",null,{"className":"btn btn-solid","type":"submit","children":"Trimite"}]]}]}]]}]
+8:["$","div",null,{"className":"blog-author","children":[["$","span",null,{"className":"blog-author__ava","aria-hidden":"true","children":"V"}],["$","div",null,{"className":"blog-author__body","children":[["$","span",null,{"className":"blog-author__name","children":"Vlad Roman"}],["$","span",null,{"className":"blog-author__role","children":["Fondator Visience · ",["$","a",null,{"href":"https://www.linkedin.com/in/roman-vladut-constantin/","target":"_blank","rel":"noopener","className":"blog-author__link","children":"LinkedIn ↗"}]]}],["$","p",null,{"className":"blog-author__bio","children":"Conduce Visience, agenția de web design și marketing digital din Iași. Scrie despre creare de site-uri, SEO și cum își cresc afacerile mici și mijlocii prezența online."}]]}]]}]
+9:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
+c:null
