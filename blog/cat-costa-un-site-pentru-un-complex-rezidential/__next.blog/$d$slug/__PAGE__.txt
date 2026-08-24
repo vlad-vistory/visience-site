@@ -1,0 +1,150 @@
+1:"$Sreact.fragment"
+a:I[97367,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["/_next/static/chunks/28or4npab1wgt.css","style"]
+2:T12c3,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/cat-costa-un-site-pentru-un-complex-rezidential/#article","headline":"Cât costă un site pentru un complex rezidențial?","description":"Cât costă site-ul unui ansamblu rezidențial: 3.500–12.000 € după numărul de unități, de ce costă mai mult decât un site de firmă și ce trebuie să conțină ca să producă cereri.","datePublished":"2026-08-20","dateModified":"2026-08-20","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/cat-costa-un-site-pentru-un-complex-rezidential/","articleSection":"Prețuri"},{"@type":"FAQPage","@id":"https://visience.ro/blog/cat-costa-un-site-pentru-un-complex-rezidential/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site pentru un complex rezidențial în România?","acceptedAnswer":{"@type":"Answer","text":"Între 3.500 și 12.000 €, o singură dată. 3.500 € pentru ansambluri sub 30 de unități, 6.500 € pentru 30–80 de unități și 12.000 € pentru peste 80 sau pentru dezvoltatori cu mai multe proiecte. La fiecare se adaugă un onorariu lunar pentru campanii și bugetul de reclamă, separat."}},{"@type":"Question","name":"De ce costă un site de ansamblu mai mult decât un site obișnuit de firmă?","acceptedAnswer":{"@type":"Answer","text":"Pentru că are pagini separate pe fiecare tipologie de apartament, grilă de disponibilitate actualizată, secțiune de stadiu al lucrărilor și un CRM în care intră cererile. Sunt cinci-zece pagini distincte în plus și funcții care nu există la un site obișnuit."}},{"@type":"Question","name":"Bugetul de reclamă e inclus în prețul site-ului de ansamblu?","acceptedAnswer":{"@type":"Answer","text":"Nu. Onorariul lunar acoperă munca de campanie: construcție, texte, creative, optimizare și raport. Bugetul cu care se cumpără afișările se plătește direct către Google și Meta. Pentru un ansamblu mediu se recomandă de la 1.500–2.500 € pe lună."}},{"@type":"Question","name":"Am nevoie de site separat pentru ansamblu sau ajunge cel al firmei?","acceptedAnswer":{"@type":"Answer","text":"Pentru un singur proiect mic, o secțiune bine făcută pe site-ul firmei poate fi de ajuns. De la un ansamblu în sus, un site propriu se justifică: are brandul lui, paginile lui de apartamente și propria măsurare, iar la finalizare rămâne ca portofoliu."}},{"@type":"Question","name":"Ce fac dacă am deja un site pentru ansamblu?","acceptedAnswer":{"@type":"Answer","text":"Se poate porni de la el: se adaugă paginile de apartamente și grila de disponibilitate, se repară viteza pe telefon și se configurează măsurarea conversiilor. Nu merită reparat un site pe care nu îl poți modifica singur sau care se încarcă în peste cinci secunde pe telefon."}},{"@type":"Question","name":"Când ar trebui să fie gata site-ul unui ansamblu rezidențial?","acceptedAnswer":{"@type":"Answer","text":"Odată cu autorizația de construire, înainte de deschiderea vânzărilor, ca în prima zi de vânzare să existe deja o listă de așteptare formată din campaniile de pre-lansare."}},{"@type":"Question","name":"Ce e grila de apartamente și de ce contează?","acceptedAnswer":{"@type":"Answer","text":"E o reprezentare a ansamblului în care fiecare apartament e marcat ca liber, rezervat sau vândut, actualizată în timp real. Cumpărătorul vede pe loc ce mai e disponibil, iar echipa de vânzări nu mai răspunde de zece ori la aceeași întrebare."}},{"@type":"Question","name":"Includeți randări 3D și tur virtual pentru ansambluri?","acceptedAnswer":{"@type":"Answer","text":"Randările nu se produc in-house. Se preiau cele făcute de arhitect sau se coordonează un partener specializat, apoi se integrează în site și în campanii. Coordonarea producției vizuale și turul virtual 360 intră în pachetul de 12.000 €."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Cât costă un site pentru un complex rezidențial?","item":"https://visience.ro/blog/cat-costa-un-site-pentru-un-complex-rezidential/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"VFoc1KdTJu3LE5t2a_7kv"}
+6:T24ed,<style>
+.pr-tab { width: 100%; border-collapse: collapse; font-size: 14.5px; }
+.pr-tab th { text-align: left; }
+.pr-nota {
+  background: #111010; color: #fff; border-radius: 14px;
+  padding: 20px 24px; margin: 28px 0; font-size: 15px; line-height: 1.65;
+}
+.pr-nota b {
+  color: #9BC31A; display: block; font-size: 11px; letter-spacing: .16em;
+  text-transform: uppercase; margin-bottom: 7px; font-family: var(--f-m, monospace);
+}
+.pr-sumar { border-left: 3px solid #9BC31A; padding: 4px 0 4px 22px; margin: 30px 0 38px; list-style: none; }
+.pr-sumar li { margin-bottom: 11px; }
+</style>
+
+<p class="key-answer">Un site pentru un complex rezidențial costă, în România în 2026,
+<strong>între 3.500 și 12.000 €</strong>, o singură dată, în funcție de numărul de unități și de
+cât din brand se construiește odată cu el. Sub 30 de unități: 3.500 €. Între 30 și 80: 6.500 €.
+Peste 80 de unități sau mai multe proiecte: 12.000 €. La fiecare se adaugă un onorariu lunar
+pentru campanii și bugetul de reclamă, plătit separat către Google și Meta.</p>
+
+<ul class="pr-sumar">
+  <li><b>3.500 €</b> — ansambluri sub 30 de unități: branding complet, site de 10–15 pagini, pagină pe fiecare tip de apartament, CRM și grila de disponibilitate. Plus 400 € pe lună pentru campanii.</li>
+  <li><b>6.500 €</b> — cartiere de 30–80 de unități: branding premium, site premium cu copywriting, planuri și prețuri pe tipologie, remarketing. Plus 1.500 € pe lună.</li>
+  <li><b>12.000 €</b> — peste 80 de unități: coordonare foto-video și randări, tur virtual 360, configurator de apartamente, site în două limbi. Plus 4.500 € pe lună.</li>
+  <li><b>1.500–2.500 € pe lună</b> — bugetul de reclamă recomandat pentru un ansamblu mediu, plătit direct platformelor.</li>
+</ul>
+
+<p>Prețurile sunt publicate pe pagina de
+<a href="/marketing-dezvoltatori-imobiliari/">marketing pentru dezvoltatori</a>. Mai jos e de ce
+un site de ansamblu costă mai mult decât unul de firmă și ce anume trebuie să conțină ca să
+producă cereri.</p>
+
+<h2 id="de-ce">De ce costă mai mult decât un site obișnuit de firmă</h2>
+<p>Un site de firmă are cinci-șase pagini și o listă de servicii. Un site de ansamblu are, pe
+lângă asta, câteva lucruri care nu există nicăieri altundeva:</p>
+<ul>
+  <li><b>O pagină pentru fiecare tipologie de apartament</b>, cu plan, suprafață, dotări, preț sau interval de preț și formular propriu. Sunt cinci-zece pagini distincte, nu una repetată.</li>
+  <li><b>Grila de disponibilitate</b>, actualizată: ce e liber, ce e rezervat, ce s-a vândut. E secțiunea cu cel mai mult timp petrecut pe ea, pe orice site de ansamblu.</li>
+  <li><b>Stadiul lucrărilor</b>, cu fotografii lunare și dată vizibilă. Liniștește cumpărătorul care a dat deja avans și convinge pe cel care ezită.</li>
+  <li><b>Un CRM</b> în care intră toate cererile, cu sursa fiecăreia și status pe fiecare cumpărător.</li>
+  <li><b>Brandul proiectului</b> — nume, logo, paletă — care de multe ori nu există la începutul discuției.</li>
+</ul>
+<p>Am desfăcut structura completă, bucată cu bucată, în
+<a href="/anatomia-paginii-care-vinde/">anatomia unei pagini de ansamblu</a>: 19 piese, fiecare cu
+ce trebuie să conțină și ce o strică.</p>
+
+<div class="pr-nota">
+  <b>De reținut</b>
+  Cea mai scumpă variantă nu e pachetul mare. E site-ul de 1.200 € făcut ca pentru o firmă
+  obișnuită, pe care apoi se toarnă 2.000 € pe lună de reclamă. Traficul vine, oamenii nu găsesc
+  prețuri, disponibilitate sau planuri, și pleacă. Bugetul de reclamă pe trei luni depășește
+  diferența dintre pachete.
+</div>
+
+<h2 id="ce-intra">Ce intră în fiecare pachet</h2>
+<table class="pr-tab">
+  <thead><tr><th></th><th>Start<br>3.500 €</th><th>Standard<br>6.500 €</th><th>Ecosistem<br>12.000 €</th></tr></thead>
+  <tbody>
+    <tr><td>Potrivit pentru</td><td>sub 30 de unități</td><td>30–80 de unități</td><td>peste 80, sau mai multe proiecte</td></tr>
+    <tr><td>Branding</td><td>complet: 3 variante de logo, paletă, brand book</td><td>premium: brand book complet, animație de logo</td><td>tot din Standard</td></tr>
+    <tr><td>Website</td><td>10–15 pagini, optimizat pentru căutări</td><td>premium: 3 variante de design, animații, copywriting</td><td>plus a doua limbă</td></tr>
+    <tr><td>Apartamente</td><td>pagină pe fiecare tip</td><td>pagini cu planuri și prețuri pe tipologie</td><td>configurator cu filtrare</td></tr>
+    <tr><td>CRM și grilă</td><td>incluse</td><td>incluse</td><td>incluse</td></tr>
+    <tr><td>Producție vizuală</td><td>—</td><td>—</td><td>coordonare foto, video, randări, tur 360</td></tr>
+    <tr><td>Onorariu lunar</td><td>400 €</td><td>1.500 €</td><td>4.500 €</td></tr>
+  </tbody>
+</table>
+<p>Onorariul lunar acoperă munca de campanie: construcția campaniilor, textele, creativele,
+optimizarea și raportul. <b>Bugetul de reclamă nu e inclus</b> — se plătește direct către Google
+și Meta, din cardul tău, și rămâne integral la ele.</p>
+
+<h2 id="ai-deja">Dacă ai deja un site</h2>
+<p>Nu trebuie reconstruit tot. Se poate porni de la ce ai: se adaugă paginile de apartamente, se
+pune grila de disponibilitate, se repară viteza pe telefon și se configurează măsurarea
+conversiilor. Apoi pornesc campaniile. E varianta cea mai ieftină și, la un site decent, cea mai
+rapidă.</p>
+<p>Nu merită reparat un site care nu poate fi modificat de tine, care nu are unde să primească
+pagini noi, sau care se încarcă în peste cinci secunde pe telefon. Acolo reconstrucția e mai
+ieftină decât cârpelile.</p>
+
+<h2 id="cifre">Ce a produs asta, în proiecte reale</h2>
+<table class="pr-tab">
+  <thead><tr><th>Proiect</th><th>Perioadă</th><th>Rezultat</th></tr></thead>
+  <tbody>
+    <tr><td><a href="/proiecte/evergreen-towers/">Evergreen Towers</a>, Iași</td><td>3 ani</td><td>peste 6.600 de lead-uri, peste 400 de apartamente vândute</td></tr>
+    <tr><td><a href="/proiecte/picolina/">Picolina Bucium</a>, Iași</td><td>5 luni</td><td>peste 1.000 de lead-uri</td></tr>
+    <tr><td><a href="/proiecte/armur-design/">Armur Design</a>, Galata</td><td>5 luni</td><td>peste 600 de lead-uri, 10 case de 350.000 € vândute</td></tr>
+  </tbody>
+</table>
+
+<h2 id="cand">Când începi construcția site-ului</h2>
+<p>Odată cu autorizația, înainte de deschiderea vânzărilor. Ordinea care funcționează: nume și
+brand de proiect, apoi site cu pagini de apartamente, apoi campanii de strângere de contacte
+pentru lista de pre-lansare, apoi deschiderea propriu-zisă. Detalii în
+<a href="/blog/ghid-marketing-imobiliar-pentru-dezvoltatori/">ghidul de marketing imobiliar
+2026</a>.</p>
+
+<h2 id="faq">Întrebări frecvente</h2>
+
+<h3>Cât costă un site pentru un complex rezidențial în România?</h3>
+<p>Între 3.500 și 12.000 €, o singură dată. 3.500 € pentru ansambluri sub 30 de unități, 6.500 €
+pentru 30–80 de unități și 12.000 € pentru peste 80 sau pentru dezvoltatori cu mai multe proiecte.
+La fiecare se adaugă un onorariu lunar pentru campanii și bugetul de reclamă, separat.</p>
+
+<h3>De ce costă mai mult decât un site obișnuit de firmă?</h3>
+<p>Pentru că are pagini separate pe fiecare tipologie de apartament, grilă de disponibilitate
+actualizată, secțiune de stadiu al lucrărilor și un CRM în care intră cererile. Sunt cinci-zece
+pagini distincte în plus și funcții care nu există la un site obișnuit.</p>
+
+<h3>Bugetul de reclamă e inclus în preț?</h3>
+<p>Nu. Onorariul lunar acoperă munca de campanie: construcție, texte, creative, optimizare și
+raport. Bugetul cu care se cumpără afișările se plătește direct către Google și Meta. Pentru un
+ansamblu mediu recomandăm de la 1.500–2.500 € pe lună.</p>
+
+<h3>Am nevoie de site separat pentru ansamblu sau ajunge cel al firmei?</h3>
+<p>Pentru un singur proiect mic, o secțiune bine făcută pe site-ul firmei poate fi de ajuns. De la
+un ansamblu în sus, un site propriu se justifică: are brandul lui, paginile lui de apartamente și
+propria măsurare, iar la finalizare rămâne ca portofoliu pentru proiectul următor.</p>
+
+<h3>Ce fac dacă am deja un site pentru ansamblu?</h3>
+<p>Se poate porni de la el: se adaugă paginile de apartamente și grila de disponibilitate, se
+repară viteza pe telefon și se configurează măsurarea conversiilor. Nu merită reparat un site pe
+care nu îl poți modifica singur sau care se încarcă în peste cinci secunde pe telefon.</p>
+
+<h3>Când ar trebui să fie gata site-ul ansamblului?</h3>
+<p>Odată cu autorizația de construire, înainte de deschiderea vânzărilor, ca în prima zi de vânzare
+să existe deja o listă de așteptare formată din campaniile de pre-lansare.</p>
+
+<h3>Ce e grila de apartamente și de ce contează?</h3>
+<p>E o reprezentare a ansamblului în care fiecare apartament e marcat ca liber, rezervat sau
+vândut, actualizată în timp real. Cumpărătorul vede pe loc ce mai e disponibil, iar echipa de
+vânzări nu mai răspunde de zece ori la aceeași întrebare.</p>
+
+<h3>Includeți randări 3D și tur virtual?</h3>
+<p>Nu producem randări in-house. Le preluăm pe cele făcute de arhitect sau coordonăm un partener
+specializat, iar apoi le integrăm în site și în campanii. Coordonarea producției vizuale și turul
+virtual 360 intră în pachetul de 12.000 €.</p>
+3:["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Cât costă un site pentru un complex rezidențial?"}],["$","div",null,{"className":"blog-article__meta","children":[["$","span",null,{"className":"blog-article__cat","children":"Prețuri"}],["$","time",null,{"dateTime":"2026-08-20","children":"20 august 2026"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$6"}}],"$L7","$L8","$L9"]}]}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/28or4npab1wgt.css","precedence":"next"}]
+5:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+7:["$","div",null,{"className":"parere","children":[["$","span",null,{"className":"parere__q","children":"Ți-a fost utilă pagina?"}],["$","div",null,{"className":"parere__btns","children":[["$","button",null,{"type":"button","data-nota":"da","children":"Da"}],["$","button",null,{"type":"button","data-nota":"partial","children":"Parțial"}],["$","button",null,{"type":"button","data-nota":"nu","children":"Nu"}]]}],["$","div",null,{"className":"parere__extra","hidden":true,"children":["$","form",null,{"children":[["$","textarea",null,{"rows":2,"placeholder":"Ce ai fi vrut să găsești aici? (opțional)"}],["$","button",null,{"className":"btn btn-solid","type":"submit","children":"Trimite"}]]}]}]]}]
+8:["$","div",null,{"className":"blog-author","children":[["$","span",null,{"className":"blog-author__ava","aria-hidden":"true","children":"V"}],["$","div",null,{"className":"blog-author__body","children":[["$","span",null,{"className":"blog-author__name","children":"Vlad Roman"}],["$","span",null,{"className":"blog-author__role","children":["Fondator Visience · ",["$","a",null,{"href":"https://www.linkedin.com/in/roman-vladut-constantin/","target":"_blank","rel":"noopener","className":"blog-author__link","children":"LinkedIn ↗"}]]}],["$","p",null,{"className":"blog-author__bio","children":"Conduce Visience, agenția de web design și marketing digital din Iași. Scrie despre creare de site-uri, SEO și cum își cresc afacerile mici și mijlocii prezența online."}]]}]]}]
+9:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
+c:null
