@@ -1,0 +1,149 @@
+1:"$Sreact.fragment"
+a:I[97367,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["/_next/static/chunks/28or4npab1wgt.css","style"]
+2:T102a,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/de-ce-agentiile-nu-isi-publica-preturile/#article","headline":"De ce agențiile din România nu își publică prețurile?","description":"Trei motive întemeiate și două care nu sunt, plus ce pierde de fapt o agenție când publică. Și cum obții un preț repede de la una care nu publică.","datePublished":"2026-08-20","dateModified":"2026-08-20","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/de-ce-agentiile-nu-isi-publica-preturile/","articleSection":"Prețuri"},{"@type":"FAQPage","@id":"https://visience.ro/blog/de-ce-agentiile-nu-isi-publica-preturile/#faq","mainEntity":[{"@type":"Question","name":"De ce agențiile din România nu își publică prețurile?","acceptedAnswer":{"@type":"Answer","text":"Din trei motive întemeiate — proiectele diferă mult ca volum de muncă, o cifră publică se compară cu oferte care conțin altceva, iar concurența subcotează — și din două mai puțin onorabile: prețul se poate ajusta după cine întreabă, sau agenția nu are un proces destul de așezat ca să estimeze."}},{"@type":"Question","name":"E un semn rău dacă o agenție nu are prețuri pe site?","acceptedAnswer":{"@type":"Answer","text":"Nu în sine. Multe agenții bune lucrează pe ofertă personalizată. Semn rău e când, după ce ai explicat clar ce vrei, tot nu primești nici măcar un interval, sau când suma apare abia la a treia întâlnire."}},{"@type":"Question","name":"Cum obțin repede un preț de la o agenție care nu publică?","acceptedAnswer":{"@type":"Answer","text":"Spune-ți bugetul, întreabă de la cât pornesc proiectele lor, cere numărul de ore incluse și întreabă explicit ce nu intră în preț. Dacă după astea tot nu primești un interval, ai deja răspunsul."}},{"@type":"Question","name":"Ce pierde o agenție dacă își publică prețurile?","acceptedAnswer":{"@type":"Answer","text":"Clienții care ar fi plătit mai mult, pentru că nimeni nu plătește peste cifra afișată. Și e comparată pe sumă cu oferte care conțin jumătate din ce conține ea."}},{"@type":"Question","name":"De ce Visience își publică prețurile?","acceptedAnswer":{"@type":"Answer","text":"Pentru că discuția începe de la ce trebuie făcut, nu de la cât costă, și pentru că se pierde mai puțin timp de ambele părți. Toate tarifele sunt publice, cu orele de lucru incluse pentru fiecare pachet."}},{"@type":"Question","name":"Prețurile publicate sunt fixe sau se negociază?","acceptedAnswer":{"@type":"Answer","text":"Sunt prețurile pachetelor, iar pachetele acoperă majoritatea situațiilor. Ce iese din ele, cum ar fi funcții pe comandă, integrări sau volume mari de produse, se estimează separat, tot pe ore, și se scrie în ofertă înainte de start."}},{"@type":"Question","name":"De ce văd prețuri atât de diferite pentru același site?","acceptedAnswer":{"@type":"Answer","text":"Pentru că nu e același site. Diferă numărul de pagini cu structură proprie, cine scrie textele, dacă se configurează măsurarea conversiilor și dacă poți modifica singur conținutul după livrare. Compară pe ore și pe ce intră, nu pe suma finală."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"De ce agențiile din România nu își publică prețurile?","item":"https://visience.ro/blog/de-ce-agentiile-nu-isi-publica-preturile/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"5bV-R5V-8ubJVWOr_a-ns"}
+6:T2021,<style>
+.pr-tab { width: 100%; border-collapse: collapse; font-size: 14.5px; }
+.pr-tab th { text-align: left; }
+.pr-nota {
+  background: #111010; color: #fff; border-radius: 14px;
+  padding: 20px 24px; margin: 28px 0; font-size: 15px; line-height: 1.65;
+}
+.pr-nota b {
+  color: #9BC31A; display: block; font-size: 11px; letter-spacing: .16em;
+  text-transform: uppercase; margin-bottom: 7px; font-family: var(--f-m, monospace);
+}
+.pr-sumar { border-left: 3px solid #9BC31A; padding: 4px 0 4px 22px; margin: 30px 0 38px; list-style: none; }
+.pr-sumar li { margin-bottom: 11px; }
+</style>
+
+<p class="key-answer">Agențiile din România nu își publică prețurile din <strong>trei motive
+întemeiate și două care nu sunt</strong>. Întemeiate: proiectele chiar diferă enorm ca volum de
+muncă, o cifră scoasă din context se compară cu oferte care nu conțin același lucru, iar
+concurența o folosește ca să subcoteze. Neîntemeiate: prețul se face după cum arată clientul, sau
+agenția nu are un proces destul de așezat ca să poată estima.</p>
+
+<ul class="pr-sumar">
+  <li><b>Motivul real cel mai des:</b> același cuvânt, „site", înseamnă 25 de ore la o firmă și 150 la alta.</li>
+  <li><b>Motivul comercial:</b> o cifră publică se compară cu una mai mică, care conține jumătate.</li>
+  <li><b>Motivul incomod:</b> fără preț public, suma se poate ajusta după cine întreabă.</li>
+  <li><b>Ce pierde agenția publicând:</b> clienții care ar fi plătit mai mult. Nu e puțin.</li>
+  <li><b>Ce câștigă:</b> discuții doar cu cine are bugetul, și încrederea celui care compară.</li>
+</ul>
+
+<h2 id="intemeiate">Trei motive care chiar stau în picioare</h2>
+
+<h3>1. Aceleași cuvinte, muncă diferită</h3>
+<p>„Vreau un site de prezentare" poate însemna cinci pagini cu textele gata scrise, sau douăzeci
+de pagini, în două limbi, cu texte de scris și un calculator de preț. Prima variantă e o săptămână
+de lucru, a doua e o lună și jumătate. Un preț unic pentru amândouă e fie o minciună, fie o
+pierdere.</p>
+<p>Soluția onestă nu e să ascunzi prețul, ci să publici pachete cu <b>ore de lucru</b> incluse,
+ca omul să vadă unde se încadrează.</p>
+
+<h3>2. O cifră publică se compară cu una care conține altceva</h3>
+<p>Dacă tu scrii 1.200 € și altcineva scrie 500 €, omul vede diferența de sumă înainte să vadă
+diferența de conținut. Nu are cum să știe că la 500 € nu intră textele, măsurarea conversiilor sau
+panoul din care poate modifica singur. Publicarea prețului te pune, pentru câteva secunde, în
+poziția celui scump.</p>
+
+<h3>3. Concurența vede și subcotează</h3>
+<p>E adevărat și se întâmplă. Cine publică primul devine reperul după care se stabilesc ofertele
+celorlalți. E un cost real al transparenței, doar că e un cost pe care îl plătește agenția, nu
+clientul.</p>
+
+<h2 id="neintemeiate">Două motive care nu stau</h2>
+
+<h3>4. Prețul se face după client</h3>
+<p>Se numește elegant „preț în funcție de valoare". În practică, la firme mici, înseamnă des altceva:
+aceeași lucrare costă 800 € dacă omul pare strâmtorat și 2.500 € dacă pare că are bani. Nu e o
+strategie, e o negociere purtată cu informație inegală.</p>
+
+<h3>5. Nu există un proces destul de așezat ca să se poată estima</h3>
+<p>Cine a livrat cincizeci de site-uri știe câte ore ia fiecare tip. Cine nu poate spune de la cât
+pornește, de obicei nu știe nici cât durează, iar asta se vede pe parcurs, în termene mutate și
+costuri apărute pe drum.</p>
+
+<div class="pr-nota">
+  <b>De reținut</b>
+  Absența prețului nu e, în sine, un semn rău. Multe agenții bune lucrează pe ofertă
+  personalizată. Semn rău e când, după ce ai explicat clar ce vrei, tot nu primești nici măcar un
+  interval — sau când suma apare abia la a treia întâlnire.
+</div>
+
+<h2 id="noi">De ce le publicăm noi, și ce ne costă asta</h2>
+<p>Toate tarifele noastre sunt pe <a href="/preturi/">pagina de prețuri</a>: site de la 750 €,
+magazin de la 1.000 €, campanii 400 € pe lună per platformă, SEO 600 € pe lună. Cu ore de lucru
+incluse pentru fiecare pachet.</p>
+<p>Ce câștigăm: oamenii care ne sună știu deja bugetul, deci discuția începe de la ce trebuie
+făcut, nu de la cât costă. Se pierde mult mai puțin timp, de ambele părți.</p>
+<p>Ce ne costă, onest:</p>
+<ul>
+  <li><b>Pierdem clienții care ar fi plătit mai mult.</b> Cine vede 1.200 € nu va plăti 3.000 € pentru aceeași lucrare, chiar dacă ar fi făcut-o.</li>
+  <li><b>Suntem comparați pe sumă</b> cu oferte care conțin jumătate din ce conținem noi. De aceea scriem orele lângă preț.</li>
+  <li><b>Nu putem improviza.</b> Dacă un proiect iese mai greu decât părea, diferența nu se pune pe factură fără o discuție.</li>
+</ul>
+<p>E un schimb pe care îl facem conștient. Nu e o poziție morală, e o alegere de model: preferăm
+zece discuții cu oameni potriviți în locul a cincizeci cu oameni care oricum nu aveau bugetul.</p>
+
+<h2 id="cum-obtii">Cum obții un preț repede, când nu e publicat</h2>
+<p>Dacă ai în față o agenție care nu publică, poți scurta drumul cu patru propoziții:</p>
+<ol>
+  <li><b>„Bugetul meu e între X și Y."</b> Nu te pune în dezavantaj, ci filtrează instant.</li>
+  <li><b>„De la cât pornesc proiectele voastre?"</b> Orice agenție serioasă are un răspuns.</li>
+  <li><b>„Câte ore de lucru intră în oferta asta?"</b> Aduce discuția pe un numitor comun.</li>
+  <li><b>„Ce nu intră în preț?"</b> Cea mai utilă întrebare din toate patru.</li>
+</ol>
+<p>Dacă după astea tot nu ai un interval, ai deja răspunsul de care aveai nevoie.</p>
+
+<h2 id="mai-departe">Mai departe</h2>
+<p>Am scris separat despre
+<a href="/blog/pretul-corect-pentru-un-site-de-firma/">cum îți dai seama dacă un preț e corect
+pentru afacerea ta</a> și despre
+<a href="/blog/cat-costa-un-site-web/">cât costă un site de prezentare în 2026</a>, cu intervale
+pe pachete.</p>
+
+<h2 id="faq">Întrebări frecvente</h2>
+
+<h3>De ce agențiile din România nu își publică prețurile?</h3>
+<p>Din trei motive întemeiate — proiectele diferă mult ca volum de muncă, o cifră publică se
+compară cu oferte care conțin altceva, iar concurența subcotează — și din două mai puțin
+onorabile: prețul se poate ajusta după cine întreabă, sau agenția nu are un proces destul de
+așezat ca să estimeze.</p>
+
+<h3>E un semn rău dacă o agenție nu are prețuri pe site?</h3>
+<p>Nu în sine. Multe agenții bune lucrează pe ofertă personalizată. Semn rău e când, după ce ai
+explicat clar ce vrei, tot nu primești nici măcar un interval, sau când suma apare abia la a treia
+întâlnire.</p>
+
+<h3>Cum obțin repede un preț de la o agenție care nu publică?</h3>
+<p>Spune-ți bugetul, întreabă de la cât pornesc proiectele lor, cere numărul de ore incluse și
+întreabă explicit ce nu intră în preț. Dacă după astea tot nu primești un interval, ai deja
+răspunsul.</p>
+
+<h3>Ce pierde o agenție dacă își publică prețurile?</h3>
+<p>Clienții care ar fi plătit mai mult, pentru că nimeni nu plătește peste cifra afișată. Și e
+comparată pe sumă cu oferte care conțin jumătate din ce conține ea.</p>
+
+<h3>De ce Visience își publică prețurile?</h3>
+<p>Pentru că discuția începe de la ce trebuie făcut, nu de la cât costă, și pentru că se pierde
+mai puțin timp de ambele părți. Toate tarifele sunt pe pagina de prețuri, cu orele de lucru
+incluse pentru fiecare pachet.</p>
+
+<h3>Prețurile publicate sunt fixe sau se negociază?</h3>
+<p>Sunt prețurile pachetelor, iar pachetele acoperă majoritatea situațiilor. Ce iese din ele —
+funcții pe comandă, integrări, volume mari de produse — se estimează separat, tot pe ore, și se
+scrie în ofertă înainte de start.</p>
+
+<h3>De ce văd prețuri atât de diferite pentru „același" site?</h3>
+<p>Pentru că nu e același site. Diferă numărul de pagini cu structură proprie, cine scrie textele,
+dacă se configurează măsurarea conversiilor și dacă poți modifica singur conținutul după livrare.
+Compară pe ore și pe ce intră, nu pe suma finală.</p>
+3:["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"De ce agențiile din România nu își publică prețurile?"}],["$","div",null,{"className":"blog-article__meta","children":[["$","span",null,{"className":"blog-article__cat","children":"Prețuri"}],["$","time",null,{"dateTime":"2026-08-20","children":"20 august 2026"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$6"}}],"$L7","$L8","$L9"]}]}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/28or4npab1wgt.css","precedence":"next"}]
+5:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+7:["$","div",null,{"className":"parere","children":[["$","span",null,{"className":"parere__q","children":"Ți-a fost utilă pagina?"}],["$","div",null,{"className":"parere__btns","children":[["$","button",null,{"type":"button","data-nota":"da","children":"Da"}],["$","button",null,{"type":"button","data-nota":"partial","children":"Parțial"}],["$","button",null,{"type":"button","data-nota":"nu","children":"Nu"}]]}],["$","div",null,{"className":"parere__extra","hidden":true,"children":["$","form",null,{"children":[["$","textarea",null,{"rows":2,"placeholder":"Ce ai fi vrut să găsești aici? (opțional)"}],["$","button",null,{"className":"btn btn-solid","type":"submit","children":"Trimite"}]]}]}]]}]
+8:["$","div",null,{"className":"blog-author","children":[["$","span",null,{"className":"blog-author__ava","aria-hidden":"true","children":"V"}],["$","div",null,{"className":"blog-author__body","children":[["$","span",null,{"className":"blog-author__name","children":"Vlad Roman"}],["$","span",null,{"className":"blog-author__role","children":["Fondator Visience · ",["$","a",null,{"href":"https://www.linkedin.com/in/roman-vladut-constantin/","target":"_blank","rel":"noopener","className":"blog-author__link","children":"LinkedIn ↗"}]]}],["$","p",null,{"className":"blog-author__bio","children":"Conduce Visience, agenția de web design și marketing digital din Iași. Scrie despre creare de site-uri, SEO și cum își cresc afacerile mici și mijlocii prezența online."}]]}]]}]
+9:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
+c:null
