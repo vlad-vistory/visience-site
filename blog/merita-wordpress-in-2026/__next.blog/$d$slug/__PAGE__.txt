@@ -1,0 +1,162 @@
+1:"$Sreact.fragment"
+a:I[97367,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["/_next/static/chunks/28or4npab1wgt.css","style"]
+2:T1131,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/merita-wordpress-in-2026/#article","headline":"Merită să fac site pe WordPress în 2026 sau altceva?","description":"Comparație onestă între WordPress, Shopify, Webflow și site generat static, plus de ce clienții noștri sunt pe WordPress, dar site-ul nostru nu e.","datePublished":"2026-08-20","dateModified":"2026-08-20","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/merita-wordpress-in-2026/","articleSection":"Marketing & business"},{"@type":"FAQPage","@id":"https://visience.ro/blog/merita-wordpress-in-2026/#faq","mainEntity":[{"@type":"Question","name":"Merită să fac site pe WordPress în 2026?","acceptedAnswer":{"@type":"Answer","text":"Pentru majoritatea firmelor din România, da. Are integrările cu curierii, procesatorii de plăți și programele de facturare de aici, găsești oricând pe cineva care să lucreze pe el, site-ul rămâne al tău și poți modifica singur conținutul."}},{"@type":"Question","name":"WordPress sau Shopify pentru un magazin online?","acceptedAnswer":{"@type":"Answer","text":"WordPress cu WooCommerce pentru majoritatea magazinelor din România, din cauza integrărilor locale. Shopify are sens dacă vrei zero grijă tehnică și accepți abonamentul lunar."}},{"@type":"Question","name":"E WordPress lent?","acceptedAnswer":{"@type":"Answer","text":"Poate fi, dacă se instalează zeci de plugin-uri și imagini neoptimizate. Un site WordPress construit curat, cu temă ușoară, cache și maximum 10–15 plugin-uri, se încarcă rapid pe telefon. Viteza ține de construcție, nu de platformă."}},{"@type":"Question","name":"E WordPress nesigur?","acceptedAnswer":{"@type":"Answer","text":"Riscul e real, dar exagerat. Se rezolvă cu actualizări la zi, plugin-uri puține și din surse serioase, firewall și backup automat. Majoritatea site-urilor compromise erau nemaiactualizate de ani de zile."}},{"@type":"Question","name":"De ce site-ul Visience nu e pe WordPress, dacă recomandați WordPress?","acceptedAnswer":{"@type":"Answer","text":"Pentru că are alte cerințe: se schimbă zilnic, e întreținut de oameni care scriu cod în fiecare zi și avem nevoie de control fin asupra vitezei și a datelor structurate. Un site de firmă care se modifică de câteva ori pe lună nu ar câștiga nimic din asta, dar ar pierde posibilitatea de a fi modificat de client, singur."}},{"@type":"Question","name":"Ce e un site generat static și când merită?","acceptedAnswer":{"@type":"Answer","text":"E un site ale cărui pagini sunt pregătite dinainte, nu construite la fiecare vizită. Se încarcă foarte repede și e greu de atacat, dar modificarea conținutului cere fie cod, fie un CMS adăugat separat. Merită pentru site-uri care se schimbă rar sau pentru echipe tehnice."}},{"@type":"Question","name":"Pot muta un site de pe WordPress pe altceva mai târziu?","acceptedAnswer":{"@type":"Answer","text":"Da, conținutul se poate exporta. Partea care costă e refacerea structurii și păstrarea adreselor vechi prin redirecționări, ca să nu pierzi poziționarea din Google construită până atunci."}},{"@type":"Question","name":"Contează platforma pentru poziționarea în Google?","acceptedAnswer":{"@type":"Answer","text":"Aproape deloc. Contează viteza, structura, conținutul și datele structurate, toate putând fi făcute bine sau prost pe orice platformă. Un site WordPress optimizat corect nu e cu nimic dezavantajat."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Merită să fac site pe WordPress în 2026 sau altceva?","item":"https://visience.ro/blog/merita-wordpress-in-2026/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"u9tl-bh4AbALJpBevg_si"}
+6:T2654,<style>
+.pr-tab { width: 100%; border-collapse: collapse; font-size: 14.5px; }
+.pr-tab th { text-align: left; }
+.pr-nota {
+  background: #111010; color: #fff; border-radius: 14px;
+  padding: 20px 24px; margin: 28px 0; font-size: 15px; line-height: 1.65;
+}
+.pr-nota b {
+  color: #9BC31A; display: block; font-size: 11px; letter-spacing: .16em;
+  text-transform: uppercase; margin-bottom: 7px; font-family: var(--f-m, monospace);
+}
+.pr-sumar { border-left: 3px solid #9BC31A; padding: 4px 0 4px 22px; margin: 30px 0 38px; list-style: none; }
+.pr-sumar li { margin-bottom: 11px; }
+</style>
+
+<p class="key-answer">Da, pentru majoritatea firmelor din România WordPress rămâne alegerea corectă
+și în 2026 — nu pentru că ar fi cea mai bună tehnologie, ci pentru că are ce lipsește
+alternativelor aici: <strong>integrări cu curierii și programele de facturare românești, oameni
+care știu să lucreze pe el, și libertatea de a pleca oricând cu site-ul tău</strong>. Nu e alegerea
+potrivită pentru un site foarte simplu care nu se schimbă niciodată, și nici pentru cine vrea zero
+grijă tehnică.</p>
+
+<ul class="pr-sumar">
+  <li><b>Site de firmă, cu blog și pagini care se schimbă</b> → WordPress.</li>
+  <li><b>Magazin online în România</b> → WordPress cu WooCommerce, pentru integrări.</li>
+  <li><b>Zero grijă tehnică, accepți abonament lunar</b> → Shopify sau Webflow.</li>
+  <li><b>Site care nu se schimbă aproape niciodată, viteză maximă</b> → site generat static.</li>
+  <li><b>O singură pagină de campanie</b> → orice, chiar și un constructor simplu.</li>
+</ul>
+
+<h2 id="de-ce">De ce WordPress rămâne implicit în România</h2>
+<ul>
+  <li><b>Integrările există și sunt întreținute.</b> Curieri (Sameday, FAN, Cargus), procesatori de plăți (Netopia, EuPlătesc, Stripe), programe de facturare. Pe alte platforme, unele merg doar prin intermediari.</li>
+  <li><b>Găsești pe cineva care știe.</b> Dacă mâine vrei să schimbi colaboratorul, ai zeci de opțiuni. La platformele de nișă, poți rămâne legat de o singură firmă.</li>
+  <li><b>Site-ul rămâne al tău</b>, pe serverul tău. Nu plătești abonament ca să existe.</li>
+  <li><b>Poți modifica singur textele și pozele</b>, fără să suni pe cineva pentru fiecare virgulă.</li>
+</ul>
+
+<h2 id="comparatie">Comparația, pe scurt</h2>
+<table class="pr-tab">
+  <thead><tr><th></th><th>WordPress</th><th>Shopify</th><th>Webflow</th><th>Site static generat</th></tr></thead>
+  <tbody>
+    <tr><td>Cost lunar al platformei</td><td>zero, doar găzduirea</td><td>abonament</td><td>abonament</td><td>zero sau foarte mic</td></tr>
+    <tr><td>Cine deține site-ul</td><td>tu</td><td>rulează la ei</td><td>rulează la ei</td><td>tu</td></tr>
+    <tr><td>Modifici singur conținutul</td><td>da</td><td>da</td><td>da</td><td>doar cu un CMS adăugat</td></tr>
+    <tr><td>Integrări românești</td><td>foarte multe</td><td>mai puține</td><td>puține</td><td>se scriu la comandă</td></tr>
+    <tr><td>Viteză, fără optimizare</td><td>medie</td><td>bună</td><td>bună</td><td>foarte bună</td></tr>
+    <tr><td>Întreținere</td><td>actualizări periodice</td><td>zero</td><td>zero</td><td>aproape zero</td></tr>
+    <tr><td>Potrivit pentru</td><td>majoritatea firmelor</td><td>magazine, fără grijă tehnică</td><td>site-uri de prezentare, design pretențios</td><td>site-uri care se schimbă rar</td></tr>
+  </tbody>
+</table>
+
+<div class="pr-nota">
+  <b>De reținut</b>
+  Platforma nu e motivul pentru care un site aduce sau nu aduce clienți. Am văzut site-uri
+  WordPress care produc cereri zilnic și site-uri pe aceeași platformă care nu produc nimic.
+  Diferența e în ce scrie pe ele, dacă au prețuri, dacă se încarcă repede pe telefon și dacă
+  cineva măsoară ce se întâmplă.
+</div>
+
+<h2 id="noi">De ce clienții noștri sunt pe WordPress, dar site-ul nostru nu e</h2>
+<p>E o întrebare pe care ne-o pun destui, așa că răspundem direct.
+<b>Site-urile pe care le livrăm sunt pe WordPress.</b> Motivul e cel de mai sus: clientul trebuie
+să poată modifica singur, să găsească oricând pe altcineva care să lucreze pe el, și să nu depindă
+de noi.</p>
+<p><b>visience.ro e construit ca site generat static</b>, pe Next.js. E o alegere care are sens
+pentru noi și în mare parte nu are sens pentru un client: se schimbă zilnic, e întreținut de
+oameni care scriu cod în fiecare zi, și avem nevoie de control fin asupra vitezei și a datelor
+structurate. Un site de firmă care se modifică de câteva ori pe lună n-ar câștiga nimic din asta
+și ar pierde exact ce contează: posibilitatea de a-l modifica singur.</p>
+<p>Ăsta e testul pe care merită să-l aplici oricărei recomandări de platformă: <b>întreabă pentru
+cine e bună alegerea, nu dacă e modernă.</b></p>
+
+<h2 id="cand-nu">Când nu WordPress</h2>
+<ul>
+  <li><b>Ai o singură pagină de campanie</b>, care nu se schimbă. Orice soluție merge, iar un site static se încarcă mai repede.</li>
+  <li><b>Nu vrei să te atingi niciodată de partea tehnică</b> și accepți un abonament lunar. Shopify pentru magazin, Webflow pentru prezentare.</li>
+  <li><b>Ai deja o echipă tehnică</b> și un produs digital. Atunci discuția e cu totul alta.</li>
+  <li><b>Vinzi în mai multe țări, cu logistică complexă.</b> Merită analizat separat, nu ales din obișnuință.</li>
+</ul>
+
+<h2 id="riscuri">Riscurile reale ale WordPress, și cum se rezolvă</h2>
+<table class="pr-tab">
+  <thead><tr><th>Riscul</th><th>Cât de real e</th><th>Cum se rezolvă</th></tr></thead>
+  <tbody>
+    <tr><td>Securitate</td><td>real, dar exagerat</td><td>actualizări la zi, plugin-uri puține și din surse serioase, firewall, backup automat</td></tr>
+    <tr><td>Viteză</td><td>real, dacă se instalează totul la grămadă</td><td>temă curată, imagini optimizate, cache, maximum 10–15 plugin-uri</td></tr>
+    <tr><td>Actualizări care strică site-ul</td><td>rar, dar se întâmplă</td><td>backup înainte, testare pe o copie</td></tr>
+    <tr><td>Constructoare de pagini care încetinesc tot</td><td>foarte real</td><td>un singur constructor, folosit cu măsură</td></tr>
+  </tbody>
+</table>
+<p>Toate se rezolvă cu disciplină, nu cu schimbarea platformei. Un site WordPress bine construit e
+rapid; unul cu 40 de plugin-uri instalate „ca să vedem" nu poate fi salvat de nicio tehnologie.</p>
+
+<h2 id="conteaza">Ce contează mai mult decât platforma</h2>
+<ol>
+  <li><b>Ce scrie în primul ecran</b> — se înțelege în trei secunde ce faci și pentru cine?</li>
+  <li><b>Dacă există prețuri</b> sau măcar intervale.</li>
+  <li><b>Câte pagini distincte</b> ai, pe servicii și pe zone.</li>
+  <li><b>Viteza pe telefon</b>, pe date mobile, nu pe wi-fi de birou.</li>
+  <li><b>Dacă se măsoară</b> cererile, apelurile și clickurile pe WhatsApp.</li>
+</ol>
+<p>Le-am desfăcut pe toate în <a href="/anatomia-paginii-de-servicii/">anatomia unui site de
+servicii</a>, 19 piese cu ce trebuie să conțină fiecare.</p>
+
+<h2 id="mai-departe">Mai departe</h2>
+<p>Prețurile pe pachete sunt în
+<a href="/blog/cat-costa-un-site-web/">cât costă un site de prezentare în 2026</a>, iar dacă ai
+deja un site și nu știi dacă merită reparat sau refăcut, începe cu
+<a href="/blog/site-ul-nu-aduce-clienti-ce-verific/">diagnosticul</a>.</p>
+
+<h2 id="faq">Întrebări frecvente</h2>
+
+<h3>Merită să fac site pe WordPress în 2026?</h3>
+<p>Pentru majoritatea firmelor din România, da. Are integrările cu curierii, procesatorii de plăți
+și programele de facturare de aici, găsești oricând pe cineva care să lucreze pe el, site-ul rămâne
+al tău și poți modifica singur conținutul.</p>
+
+<h3>WordPress sau Shopify pentru un magazin online?</h3>
+<p>WordPress cu WooCommerce pentru majoritatea magazinelor din România, din cauza integrărilor
+locale. Shopify are sens dacă vrei zero grijă tehnică și accepți abonamentul lunar.</p>
+
+<h3>E WordPress lent?</h3>
+<p>Poate fi, dacă se instalează zeci de plugin-uri și imagini neoptimizate. Un site WordPress
+construit curat, cu temă ușoară, cache și maximum 10–15 plugin-uri, se încarcă rapid pe telefon.
+Viteza ține de construcție, nu de platformă.</p>
+
+<h3>E WordPress nesigur?</h3>
+<p>Riscul e real, dar exagerat. Se rezolvă cu actualizări la zi, plugin-uri puține și din surse
+serioase, firewall și backup automat. Majoritatea site-urilor compromise erau nemaiactualizate de
+ani de zile.</p>
+
+<h3>De ce site-ul Visience nu e pe WordPress, dacă recomandați WordPress?</h3>
+<p>Pentru că are alte cerințe: se schimbă zilnic, e întreținut de oameni care scriu cod în fiecare
+zi și avem nevoie de control fin asupra vitezei și a datelor structurate. Un site de firmă care se
+modifică de câteva ori pe lună nu ar câștiga nimic din asta, dar ar pierde posibilitatea de a fi
+modificat de client, singur.</p>
+
+<h3>Ce e un site generat static și când merită?</h3>
+<p>E un site ale cărui pagini sunt pregătite dinainte, nu construite la fiecare vizită. Se încarcă
+foarte repede și e greu de atacat, dar modificarea conținutului cere fie cod, fie un CMS adăugat
+separat. Merită pentru site-uri care se schimbă rar sau pentru echipe tehnice.</p>
+
+<h3>Pot muta un site de pe WordPress pe altceva mai târziu?</h3>
+<p>Da, conținutul se poate exporta. Partea care costă e refacerea structurii și păstrarea adreselor
+vechi prin redirecționări, ca să nu pierzi poziționarea din Google construită până atunci.</p>
+
+<h3>Contează platforma pentru poziționarea în Google?</h3>
+<p>Aproape deloc. Contează viteza, structura, conținutul și datele structurate — toate se pot face
+bine sau prost pe orice platformă. Un site WordPress optimizat corect nu e cu nimic dezavantajat.</p>
+3:["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Merită să fac site pe WordPress în 2026 sau altceva?"}],["$","div",null,{"className":"blog-article__meta","children":[["$","span",null,{"className":"blog-article__cat","children":"Marketing & business"}],["$","time",null,{"dateTime":"2026-08-20","children":"20 august 2026"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$6"}}],"$L7","$L8","$L9"]}]}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/28or4npab1wgt.css","precedence":"next"}]
+5:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+7:["$","div",null,{"className":"parere","children":[["$","span",null,{"className":"parere__q","children":"Ți-a fost utilă pagina?"}],["$","div",null,{"className":"parere__btns","children":[["$","button",null,{"type":"button","data-nota":"da","children":"Da"}],["$","button",null,{"type":"button","data-nota":"partial","children":"Parțial"}],["$","button",null,{"type":"button","data-nota":"nu","children":"Nu"}]]}],["$","div",null,{"className":"parere__extra","hidden":true,"children":["$","form",null,{"children":[["$","textarea",null,{"rows":2,"placeholder":"Ce ai fi vrut să găsești aici? (opțional)"}],["$","button",null,{"className":"btn btn-solid","type":"submit","children":"Trimite"}]]}]}]]}]
+8:["$","div",null,{"className":"blog-author","children":[["$","span",null,{"className":"blog-author__ava","aria-hidden":"true","children":"V"}],["$","div",null,{"className":"blog-author__body","children":[["$","span",null,{"className":"blog-author__name","children":"Vlad Roman"}],["$","span",null,{"className":"blog-author__role","children":["Fondator Visience · ",["$","a",null,{"href":"https://www.linkedin.com/in/roman-vladut-constantin/","target":"_blank","rel":"noopener","className":"blog-author__link","children":"LinkedIn ↗"}]]}],["$","p",null,{"className":"blog-author__bio","children":"Conduce Visience, agenția de web design și marketing digital din Iași. Scrie despre creare de site-uri, SEO și cum își cresc afacerile mici și mijlocii prezența online."}]]}]]}]
+9:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
+c:null
