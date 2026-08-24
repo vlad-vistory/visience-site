@@ -1,0 +1,168 @@
+1:"$Sreact.fragment"
+a:I[97367,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["/_next/static/chunks/28or4npab1wgt.css","style"]
+2:T12d0,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/trafic-google-scazut-2026/#article","headline":"Ce fac dacă traficul din Google mi-a scăzut în 2026?","description":"Diagnostic în Search Console pe patru tipare, cifrele verificate ale scăderii din 2026 și ce funcționează când ai pierdut clickuri, nu poziții.","datePublished":"2026-08-20","dateModified":"2026-08-20","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/trafic-google-scazut-2026/","articleSection":"SEO"},{"@type":"FAQPage","@id":"https://visience.ro/blog/trafic-google-scazut-2026/#faq","mainEntity":[{"@type":"Question","name":"Ce fac dacă traficul din Google mi-a scăzut în 2026?","acceptedAnswer":{"@type":"Answer","text":"Începe cu diagnosticul din Search Console. Dacă impresiile au rămas la fel și doar clickurile au scăzut, nu ai pierdut poziții, ci clickuri, din cauza răspunsurilor generate. Dacă au scăzut și impresiile și poziția medie, ai pierdut teren. Dacă totul s-a prăbușit în câteva zile, e problemă tehnică."}},{"@type":"Question","name":"Cât au scăzut clickurile din cauza răspunsurilor generate de Google?","acceptedAnswer":{"@type":"Answer","text":"Un experiment controlat publicat în 2026 a măsurat o scădere de aproximativ 38–40% a clickurilor organice pe căutările la care apare un răspuns generat. Rata căutărilor fără niciun click a urcat spre două treimi din total, iar acolo unde apare răspuns generat trece de 80%."}},{"@type":"Question","name":"Ce tip de conținut a fost cel mai afectat de răspunsurile generate?","acceptedAnswer":{"@type":"Answer","text":"Conținutul informativ general, care explică noțiuni și răspunde la întrebări simple. Paginile cu intenție comercială clară, cum sunt cele de servicii, prețuri și zone, au rezistat mult mai bine, pentru că acolo omul vrea să ajungă la cineva, nu doar să afle ceva."}},{"@type":"Question","name":"Cum îmi dau seama dacă scăderea de trafic e problemă tehnică?","acceptedAnswer":{"@type":"Answer","text":"Dacă scăderea e bruscă și totală, în câteva zile. Caută site:domeniultau.ro în Google, verifică raportul de indexare din Search Console, fișierul robots.txt și etichetele noindex. După o relansare de site, blocarea rămasă din mediul de test e cea mai frecventă cauză."}},{"@type":"Question","name":"Ce fac dacă am pierdut clickuri, dar nu poziții?","acceptedAnswer":{"@type":"Answer","text":"Scrie pentru a fi citat: titluri formulate ca întrebări, răspunsul în primul paragraf, cifre cu sursă și date structurate. Mută greutatea pe pagini comerciale și întărește canalele care nu depind de Google: profilul de Google Business, recenziile și lista proprie de contacte."}},{"@type":"Question","name":"Mai merită să scriu articole pe blog în 2026?","acceptedAnswer":{"@type":"Answer","text":"Da, dar altfel. Articolele generale care explică noțiuni sunt rezolvate de răspunsul generat. Merită scrise materialele care conțin date proprii, cifre verificabile și răspunsuri directe la întrebări concrete, exact acelea fiind și cele citate de modele."}},{"@type":"Question","name":"În cât timp se recuperează traficul din Google?","acceptedAnswer":{"@type":"Answer","text":"Problemele tehnice se recuperează în una-două săptămâni de la reparare. Pierderea de poziții, în două-trei luni de muncă pe conținut. Clickurile pierdute din cauza răspunsurilor generate nu se recuperează integral, ci se compensează prin alte tipuri de căutări și alte canale."}},{"@type":"Question","name":"Ar trebui să opresc investiția în SEO dacă a scăzut traficul?","acceptedAnswer":{"@type":"Answer","text":"Nu, dar merită reorientată. În loc de volum de articole informative, pagini de servicii și de zone, conținut cu date proprii, date structurate și un profil de Google Business bine întreținut."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Ce fac dacă traficul din Google mi-a scăzut în 2026?","item":"https://visience.ro/blog/trafic-google-scazut-2026/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HmswSPtsvgX1J0anqLf3t"}
+6:T29ff,<style>
+.pr-tab { width: 100%; border-collapse: collapse; font-size: 14.5px; }
+.pr-tab th { text-align: left; }
+.pr-nota {
+  background: #111010; color: #fff; border-radius: 14px;
+  padding: 20px 24px; margin: 28px 0; font-size: 15px; line-height: 1.65;
+}
+.pr-nota b {
+  color: #9BC31A; display: block; font-size: 11px; letter-spacing: .16em;
+  text-transform: uppercase; margin-bottom: 7px; font-family: var(--f-m, monospace);
+}
+.pr-sumar { border-left: 3px solid #9BC31A; padding: 4px 0 4px 22px; margin: 30px 0 38px; list-style: none; }
+.pr-sumar li { margin-bottom: 11px; }
+</style>
+
+<p class="key-answer">Înainte să repari ceva, află dacă e vina ta. În 2026, o parte din scăderea
+traficului organic <strong>nu ține de site-ul tău</strong>: răspunsurile generate de Google
+rezolvă tot mai multe căutări fără niciun click. Diagnosticul se face în Search Console, într-un
+minut: <strong>dacă impresiile au rămas la fel și clickurile au scăzut, n-ai pierdut poziții — ai
+pierdut clickuri.</strong> E o problemă cu totul diferită și se rezolvă altfel.</p>
+
+<ul class="pr-sumar">
+  <li><b>Impresii stabile, clickuri în scădere</b> → efectul răspunsurilor generate. Nu ai greșit nimic.</li>
+  <li><b>Impresii și poziții în scădere</b> → ai pierdut teren: actualizare de algoritm sau concurență.</li>
+  <li><b>Prăbușire bruscă, totală</b> → problemă tehnică. Verifică indexarea imediat.</li>
+  <li><b>Scădere pe o singură pagină</b> → problema e la pagina aia, nu la site.</li>
+</ul>
+
+<h2 id="context">Ce s-a schimbat în 2026</h2>
+<p>Cifrele din studiile publicate anul acesta explică o bună parte din scăderi:</p>
+<ul>
+  <li>Un experiment controlat publicat în 2026 a măsurat o <b>scădere de circa 38–40% a clickurilor organice</b> pe căutările la care apare un răspuns generat, fără ca satisfacția utilizatorului să scadă.</li>
+  <li><b>Rata căutărilor fără niciun click</b> a urcat spre două treimi din total, iar acolo unde apare un răspuns generat trece de 80%.</li>
+  <li>În studiul respectiv, răspunsurile generate apăreau la aproximativ <b>42% dintre căutări</b>.</li>
+  <li>Site-urile cu mult conținut informativ au fost cele mai lovite; unele publicații mari au raportat scăderi de 50–80% din traficul organic.</li>
+</ul>
+<p>Ce nu s-a schimbat: căutările cu intenție comercială clară — „instalator Iași", „preț montaj
+centrală", „apartamente noi Galata" — continuă să producă clickuri. Răspunsul generat rezolvă
+întrebările generale, nu decizia de cumpărare.</p>
+
+<div class="pr-nota">
+  <b>De reținut</b>
+  Dacă ai un blog cu articole informative, o parte din trafic e pierdută definitiv, și nu din vina
+  ta. Dacă ai pagini de servicii, de prețuri și de zone, alea rezistă. Concluzia nu e să scrii mai
+  mult conținut general, ci mai mult conținut pe care cineva îl caută <em>ca să cumpere</em>.
+</div>
+
+<h2 id="diagnostic">Diagnosticul, în Search Console</h2>
+<p>Deschide Google Search Console → Performanță. Compară ultimele 3 luni cu aceeași perioadă din
+anul trecut, și uită-te la patru cifre deodată: clickuri, impresii, rată de click, poziție
+medie.</p>
+<table class="pr-tab">
+  <thead><tr><th>Ce vezi</th><th>Ce înseamnă</th><th>Ce faci</th></tr></thead>
+  <tbody>
+    <tr><td>Impresii stabile, clickuri în scădere, poziție stabilă</td><td>răspunsurile generate îți iau clickurile</td><td>vezi secțiunea următoare</td></tr>
+    <tr><td>Impresii în scădere, poziție în scădere</td><td>ai pierdut poziții</td><td>verifică ce s-a schimbat la concurenți și pe ce cuvinte ai coborât</td></tr>
+    <tr><td>Totul cade brusc, în câteva zile</td><td>problemă tehnică</td><td>verifică indexarea, <code>robots.txt</code>, etichetele noindex, certificatul, timpii de răspuns</td></tr>
+    <tr><td>Scade doar o pagină sau o secțiune</td><td>problemă locală</td><td>compară pagina cu ce e acum pe primele poziții</td></tr>
+    <tr><td>Scade pe mobil, nu pe desktop</td><td>viteză sau afișare pe telefon</td><td>testează pe date mobile, nu pe wi-fi</td></tr>
+  </tbody>
+</table>
+
+<h2 id="tehnic">Dacă e problemă tehnică</h2>
+<p>Verifică în ordinea asta, e cea în care se rezolvă cel mai repede:</p>
+<ol>
+  <li>Caută <code>site:domeniultau.ro</code> în Google. Dacă apar mult mai puține pagini decât înainte, ai o problemă de indexare.</li>
+  <li>În Search Console → Indexare → Pagini: vezi ce motive de excludere apar și câte pagini.</li>
+  <li>Verifică <code>robots.txt</code> și etichetele <code>noindex</code>. După o relansare de site, e cea mai frecventă cauză: rămâne blocat din mediul de test.</li>
+  <li>Verifică certificatul SSL și dacă site-ul răspunde constant.</li>
+  <li>Dacă ai mutat adrese, verifică redirecționările. O pagină mutată fără redirect își pierde tot ce a construit.</li>
+</ol>
+
+<h2 id="pozitii">Dacă ai pierdut poziții</h2>
+<ul>
+  <li><b>Uită-te ce e acum pe primele locuri.</b> De multe ori răspunsul e simplu: cineva a scris ceva mai complet.</li>
+  <li><b>Actualizează paginile care au coborât.</b> Conținutul vechi de trei ani, cu date depășite, coboară singur.</li>
+  <li><b>Verifică dacă ai canibalizare:</b> două pagini de-ale tale care țintesc aceeași căutare se bat între ele și pierd amândouă.</li>
+  <li><b>Nu reacționa la o singură săptămână.</b> Fluctuațiile sunt normale; compară pe intervale de o lună.</li>
+</ul>
+
+<h2 id="clickuri">Dacă ai pierdut clickuri, nu poziții</h2>
+<p>Aici e cazul cel mai frecvent în 2026 și cel mai prost înțeles. Ce funcționează:</p>
+<ol>
+  <li><b>Scrie pentru a fi citat, nu doar pentru a fi găsit.</b> Titluri formulate ca întrebări, răspunsul în primul paragraf, cifre cu sursă. Când modelul te citează, primești o mențiune și, de multe ori, un click de calitate mai bună.</li>
+  <li><b>Mută greutatea pe căutări comerciale.</b> Pagini de servicii, de prețuri, de zone. Acolo omul vrea să ajungă la cineva, nu doar să afle ceva.</li>
+  <li><b>Date structurate</b> pentru articole, întrebări frecvente și servicii. Ajută atât la afișarea în rezultate, cât și la extragerea corectă de către modele.</li>
+  <li><b>Întărește ce nu depinde de Google:</b> profilul de Google Business, recenziile, lista de e-mail, clienții existenți.</li>
+  <li><b>Titluri și descrieri mai bune.</b> Când rămân mai puține clickuri, contează mai mult cine le ia.</li>
+</ol>
+<p>Ce nu mai merită: încă zece articole generale pe subiecte pe care le rezolvă răspunsul generat.
+Acolo pierzi timpul de două ori.</p>
+
+<h2 id="ordine">Ordinea în care acționezi</h2>
+<table class="pr-tab">
+  <thead><tr><th>Când</th><th>Ce faci</th></tr></thead>
+  <tbody>
+    <tr><td>În prima oră</td><td>diagnosticul din Search Console și verificarea indexării</td></tr>
+    <tr><td>În prima săptămână</td><td>repari problemele tehnice, dacă există</td></tr>
+    <tr><td>În prima lună</td><td>actualizezi paginile comerciale care au coborât</td></tr>
+    <tr><td>În 2–3 luni</td><td>rescrii conținutul ca să fie citabil: întrebări, răspunsuri scurte, cifre</td></tr>
+    <tr><td>Continuu</td><td>Google Business, recenzii și canale proprii, ca să nu depinzi de un singur robinet</td></tr>
+  </tbody>
+</table>
+
+<h2 id="mai-departe">Mai departe</h2>
+<p>Pentru verificarea indexării, ai
+<a href="/blog/site-indexat-google-search-console/">pașii din Search Console</a>. Dacă traficul e
+mic de la bun început, nu în scădere, începe cu
+<a href="/blog/site-ul-nu-aduce-clienti-ce-verific/">diagnosticul complet</a>. Iar despre partea
+de vizibilitate locală, în
+<a href="/blog/optimizare-google-business-harti/">optimizarea profilului de Google Business</a>.</p>
+
+<h2 id="faq">Întrebări frecvente</h2>
+
+<h3>Ce fac dacă traficul din Google mi-a scăzut în 2026?</h3>
+<p>Începe cu diagnosticul din Search Console. Dacă impresiile au rămas la fel și doar clickurile au
+scăzut, nu ai pierdut poziții, ci clickuri — efectul răspunsurilor generate. Dacă au scăzut și
+impresiile, și poziția medie, ai pierdut teren. Dacă totul s-a prăbușit în câteva zile, e problemă
+tehnică.</p>
+
+<h3>Cât au scăzut clickurile din cauza răspunsurilor generate de Google?</h3>
+<p>Un experiment controlat publicat în 2026 a măsurat o scădere de aproximativ 38–40% a clickurilor
+organice pe căutările la care apare un răspuns generat. Rata căutărilor fără niciun click a urcat
+spre două treimi din total, iar acolo unde apare răspuns generat trece de 80%.</p>
+
+<h3>Ce tip de conținut a fost cel mai afectat?</h3>
+<p>Conținutul informativ general — articole care explică noțiuni și răspund la întrebări simple.
+Paginile cu intenție comercială clară, cum sunt cele de servicii, prețuri și zone, au rezistat
+mult mai bine, pentru că acolo omul vrea să ajungă la cineva, nu doar să afle ceva.</p>
+
+<h3>Cum îmi dau seama dacă e problemă tehnică?</h3>
+<p>Dacă scăderea e bruscă și totală, în câteva zile. Caută <code>site:domeniultau.ro</code> în
+Google, verifică raportul de indexare din Search Console, fișierul robots.txt și etichetele
+noindex. După o relansare de site, blocarea rămasă din mediul de test e cea mai frecventă
+cauză.</p>
+
+<h3>Ce fac dacă am pierdut clickuri, dar nu poziții?</h3>
+<p>Scrie pentru a fi citat: titluri formulate ca întrebări, răspunsul în primul paragraf, cifre cu
+sursă și date structurate. Mută greutatea pe pagini comerciale și întărește canalele care nu depind
+de Google: profilul de Google Business, recenziile și lista proprie de contacte.</p>
+
+<h3>Mai merită să scriu articole pe blog în 2026?</h3>
+<p>Da, dar altfel. Articolele generale, care explică noțiuni, sunt rezolvate de răspunsul generat.
+Merită scrise materialele care conțin date proprii, cifre verificabile și răspunsuri directe la
+întrebări concrete — exact acelea sunt și cele citate de modele.</p>
+
+<h3>În cât timp se recuperează traficul?</h3>
+<p>Problemele tehnice se recuperează în una-două săptămâni de la reparare. Pierderea de poziții se
+recuperează în două-trei luni de muncă pe conținut. Clickurile pierdute din cauza răspunsurilor
+generate nu se recuperează integral — se compensează, mutând greutatea pe alte tipuri de căutări și
+pe alte canale.</p>
+
+<h3>Ar trebui să opresc investiția în SEO?</h3>
+<p>Nu, dar merită reorientată. În loc de volum de articole informative, pagini de servicii și de
+zone, conținut cu date proprii, date structurate și un profil de Google Business bine întreținut.
+Restul bugetului e mai bine pus în canale pe care le controlezi.</p>
+3:["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Ce fac dacă traficul din Google mi-a scăzut în 2026?"}],["$","div",null,{"className":"blog-article__meta","children":[["$","span",null,{"className":"blog-article__cat","children":"SEO"}],["$","time",null,{"dateTime":"2026-08-20","children":"20 august 2026"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$6"}}],"$L7","$L8","$L9"]}]}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/28or4npab1wgt.css","precedence":"next"}]
+5:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+7:["$","div",null,{"className":"parere","children":[["$","span",null,{"className":"parere__q","children":"Ți-a fost utilă pagina?"}],["$","div",null,{"className":"parere__btns","children":[["$","button",null,{"type":"button","data-nota":"da","children":"Da"}],["$","button",null,{"type":"button","data-nota":"partial","children":"Parțial"}],["$","button",null,{"type":"button","data-nota":"nu","children":"Nu"}]]}],["$","div",null,{"className":"parere__extra","hidden":true,"children":["$","form",null,{"children":[["$","textarea",null,{"rows":2,"placeholder":"Ce ai fi vrut să găsești aici? (opțional)"}],["$","button",null,{"className":"btn btn-solid","type":"submit","children":"Trimite"}]]}]}]]}]
+8:["$","div",null,{"className":"blog-author","children":[["$","span",null,{"className":"blog-author__ava","aria-hidden":"true","children":"V"}],["$","div",null,{"className":"blog-author__body","children":[["$","span",null,{"className":"blog-author__name","children":"Vlad Roman"}],["$","span",null,{"className":"blog-author__role","children":["Fondator Visience · ",["$","a",null,{"href":"https://www.linkedin.com/in/roman-vladut-constantin/","target":"_blank","rel":"noopener","className":"blog-author__link","children":"LinkedIn ↗"}]]}],["$","p",null,{"className":"blog-author__bio","children":"Conduce Visience, agenția de web design și marketing digital din Iași. Scrie despre creare de site-uri, SEO și cum își cresc afacerile mici și mijlocii prezența online."}]]}]]}]
+9:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
+c:null
