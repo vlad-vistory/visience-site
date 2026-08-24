@@ -1,0 +1,152 @@
+1:"$Sreact.fragment"
+a:I[97367,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["/_next/static/chunks/28or4npab1wgt.css","style"]
+2:T1165,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/cat-costa-managementul-reclamelor-google-meta/#article","headline":"Cât costă managementul reclamelor Google și Meta pe lună?","description":"Cât costă managementul campaniilor Google Ads și Meta Ads în România: 400 € pe lună per platformă, cele patru moduri de tarifare din piață și capcanele lor, plus cât cheltui în total pe lună.","datePublished":"2026-08-20","dateModified":"2026-08-20","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/cat-costa-managementul-reclamelor-google-meta/","articleSection":"Prețuri"},{"@type":"FAQPage","@id":"https://visience.ro/blog/cat-costa-managementul-reclamelor-google-meta/#faq","mainEntity":[{"@type":"Question","name":"Cât costă managementul reclamelor Google și Meta pe lună în România?","acceptedAnswer":{"@type":"Answer","text":"400 € pe lună per platformă, cu minimum trei luni de colaborare, plus 400 € o singură dată pentru configurarea contului și a măsurătorii. Bugetul de reclamă se plătește separat, direct către Google și Meta."}},{"@type":"Question","name":"Bugetul de reclamă intră în onorariul agenției?","acceptedAnswer":{"@type":"Answer","text":"Nu. Bugetul se plătește direct către Google și Meta, de pe cardul tău sau prin factura lor. Orice ofertă care amestecă onorariul cu bugetul de reclamă e o ofertă din care nu poți înțelege ce cumperi."}},{"@type":"Question","name":"De ce se cere minimum trei luni la campanii?","acceptedAnswer":{"@type":"Answer","text":"Pentru că primele două-trei săptămâni se duc pe calibrare, iar algoritmii au nevoie de un volum minim de conversii ca să învețe cine cumpără. O campanie oprită după patru săptămâni se oprește exact când începea să dea rezultate."}},{"@type":"Question","name":"E mai bine un onorariu fix sau un procent din bugetul de reclamă?","acceptedAnswer":{"@type":"Answer","text":"Fix, în majoritatea cazurilor. La procent din buget, agenția câștigă mai mult dacă tu cheltui mai mult, ceea ce creează un conflict de interese exact acolo unde ai nevoie de un sfat onest."}},{"@type":"Question","name":"Pot administra singur campaniile Google și Meta?","acceptedAnswer":{"@type":"Answer","text":"Da, la bugete mici merită încercat. Partea grea nu e crearea campaniei, ci măsurarea corectă și disciplina săptămânală: cuvinte negative, oprirea anunțurilor slabe, mutarea bugetului spre ce funcționează."}},{"@type":"Question","name":"Cine trebuie să dețină contul de Google Ads și pixelul de Meta?","acceptedAnswer":{"@type":"Answer","text":"Clientul. Contul publicitar, pixelul și evenimentele de conversie se creează pe conturile firmei, cu agenția adăugată ca partener. Așa poți schimba oricând colaboratorul fără să pierzi istoricul."}},{"@type":"Question","name":"Cât durează până văd primele rezultate din reclame?","acceptedAnswer":{"@type":"Answer","text":"Primele lead-uri apar de regulă în zilele imediat următoare pornirii, dacă pagina de destinație e gata. Stabilizarea costului pe lead se așază după patru-șase săptămâni."}},{"@type":"Question","name":"Cât cheltui în total pe lună cu reclamele?","acceptedAnswer":{"@type":"Answer","text":"Pentru o firmă mică pe o singură platformă, de la 900 € pe lună: 400 € management plus minimum 500 € buget. Pentru o firmă de servicii pe Google și Meta, de la 1.600 € pe lună. În prima lună se adaugă 400 € configurarea."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Cât costă managementul reclamelor Google și Meta pe lună?","item":"https://visience.ro/blog/cat-costa-managementul-reclamelor-google-meta/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"yVYxJfjjE8QP3Bs0EPYhR"}
+6:T2324,<style>
+.pr-tab { width: 100%; border-collapse: collapse; font-size: 14.5px; }
+.pr-tab th { text-align: left; }
+.pr-nota {
+  background: #111010; color: #fff; border-radius: 14px;
+  padding: 20px 24px; margin: 28px 0; font-size: 15px; line-height: 1.65;
+}
+.pr-nota b {
+  color: #9BC31A; display: block; font-size: 11px; letter-spacing: .16em;
+  text-transform: uppercase; margin-bottom: 7px; font-family: var(--f-m, monospace);
+}
+.pr-sumar { border-left: 3px solid #9BC31A; padding: 4px 0 4px 22px; margin: 30px 0 38px; list-style: none; }
+.pr-sumar li { margin-bottom: 11px; }
+</style>
+
+<p class="key-answer">Managementul campaniilor Google Ads sau Meta Ads costă
+<strong>400 € pe lună, per platformă</strong>, cu o colaborare de minimum trei luni. La asta se
+adaugă o singură dată configurarea contului și a măsurătorii, 400 €. <strong>Bugetul de reclamă
+nu intră în această sumă</strong> — el se plătește direct către Google și Meta și pornește,
+realist, de la 500 € pe lună.</p>
+
+<ul class="pr-sumar">
+  <li><b>400 € pe lună</b>, per platformă — optimizare săptămânală, creative și texte, raport lunar.</li>
+  <li><b>400 €</b>, o singură dată — cont publicitar, pixel, evenimente de conversie, integrare GA4.</li>
+  <li><b>600 €</b> — remarketing și automatizări, dacă vrei să recuperezi vizitatorii care n-au cumpărat.</li>
+  <li><b>500 €</b> — configurare Google Shopping, pentru magazine online.</li>
+  <li><b>De la 500 € pe lună</b> — bugetul de reclamă, plătit direct platformelor.</li>
+</ul>
+
+<p>Toate sunt publicate pe <a href="/preturi/">pagina de prețuri</a>. Mai jos e cum se tarifează
+în piață, ce ar trebui să primești pentru banii ăștia și cum îți dai seama dacă plătești prea
+mult.</p>
+
+<h2 id="modele">Cele patru moduri în care se tarifează, și capcanele fiecăruia</h2>
+<table class="pr-tab">
+  <thead><tr><th>Model</th><th>Cum funcționează</th><th>Capcana</th></tr></thead>
+  <tbody>
+    <tr><td>Sumă fixă lunară</td><td>plătești același onorariu, indiferent de buget</td><td>la bugete foarte mari, agenția câștigă proporțional mai puțin și poate scădea atenția</td></tr>
+    <tr><td>Procent din buget</td><td>un procent din cât cheltui pe reclame</td><td>agenția e plătită mai mult dacă tu cheltui mai mult, chiar și când n-ar trebui</td></tr>
+    <tr><td>Mixt: fix plus procent</td><td>o bază, plus un procent peste un prag</td><td>greu de comparat între oferte, ușor de umflat</td></tr>
+    <tr><td>Pe lead</td><td>plătești o sumă pentru fiecare cerere primită</td><td>sună corect, dar împinge spre lead-uri multe și slabe, nu puține și bune</td></tr>
+  </tbody>
+</table>
+<p>Noi lucrăm pe sumă fixă, 400 € pe lună per platformă, tocmai ca să nu existe niciun motiv să
+îți recomandăm un buget mai mare decât îți trebuie. Dacă o campanie merge bine cu 600 € pe lună,
+n-are rost s-o duci la 2.000 doar ca să crească onorariul cuiva.</p>
+
+<div class="pr-nota">
+  <b>De reținut</b>
+  Întrebarea corectă nu e „cât costă managementul", ci „cât mă costă un client". O agenție de
+  300 € pe lună care aduce lead-uri la 60 € bucata e mai scumpă decât una de 500 € care le aduce
+  la 25 €. Compară pe cost pe lead după trei luni, nu pe onorariu în prima zi.
+</div>
+
+<h2 id="ce-intra">Ce trebuie să primești pentru un onorariu lunar</h2>
+<ul>
+  <li><b>Optimizare săptămânală</b>, nu lunară. O campanie neatinsă două săptămâni pierde bani în tăcere.</li>
+  <li><b>Creative și texte noi</b>, la intervale regulate. Anunțurile obosesc, mai ales pe Meta.</li>
+  <li><b>Cuvinte cheie negative</b>, la Google. Fără ele plătești clickuri pentru „gratis", „angajare", „second hand".</li>
+  <li><b>Raport lunar cu cifrele care contează:</b> cost pe lead, număr de lead-uri, ce campanie le-a adus. Nu impresii și clickuri.</li>
+  <li><b>Acces complet la conturi.</b> Contul de Google Ads și cel de Meta trebuie să fie ale tale, nu ale agenției.</li>
+</ul>
+
+<h2 id="buget">Cât cheltui, în total, pe lună</h2>
+<p>Trei situații reale, cu prețurile publice:</p>
+<table class="pr-tab">
+  <thead><tr><th>Situație</th><th>Management</th><th>Buget de reclamă</th><th>Total lunar</th></tr></thead>
+  <tbody>
+    <tr><td>Firmă mică, o singură platformă</td><td>400 €</td><td>de la 500 €</td><td>de la 900 €</td></tr>
+    <tr><td>Firmă de servicii, Google și Meta</td><td>800 €</td><td>de la 800 €</td><td>de la 1.600 €</td></tr>
+    <tr><td>Magazin online, cu Shopping</td><td>800 €</td><td>de la 1.000 €</td><td>de la 1.800 €</td></tr>
+  </tbody>
+</table>
+<p>În prima lună se adaugă configurarea, 400 €, o singură dată. Iar dacă nu ai pagină pe care să
+trimiți omul, se adaugă și
+<a href="/blog/cat-costa-o-pagina-de-landing/">o pagină de landing, de la 500 €</a>.</p>
+
+<h2 id="cand-nu">Când nu are sens să plătești pe cineva</h2>
+<p>Trei situații în care banii de management sunt mai bine cheltuiți altfel:</p>
+<ul>
+  <li><b>Bugetul tău total e sub 500 € pe lună.</b> Onorariul ar fi mai mare decât reclama. Mai bine înveți singur, sau strângi până ai buget.</li>
+  <li><b>Nu ai unde trimite omul.</b> Dacă site-ul nu are pagină pe serviciul respectiv, cu preț și formular, campania va converti prost oricât de bine e făcută.</li>
+  <li><b>Nu poți răspunde la lead-uri.</b> Dacă nu ai cine să sune în aceeași zi, campania îți produce doar reproșuri.</li>
+</ul>
+
+<h2 id="verifici">Cum verifici dacă plătești prea mult</h2>
+<ol>
+  <li><b>Cere costul pe lead</b> pe ultimele trei luni. Dacă nu îl poate calcula, nu se măsoară nimic.</li>
+  <li><b>Verifică cine deține conturile.</b> Intri singur în Google Ads și Meta Business? Dacă nu, ești legat.</li>
+  <li><b>Cere lista cuvintelor negative</b> adăugate luna trecută, la Google. E cel mai rapid test dacă cineva chiar lucrează în cont.</li>
+  <li><b>Uită-te la data ultimei modificări</b> din cont. Google Ads o arată în istoricul de schimbări.</li>
+  <li><b>Compară onorariul cu bugetul.</b> Dacă onorariul e mai mare decât bugetul de reclamă, ceva e pe dos.</li>
+</ol>
+
+<h2 id="mai-departe">Mai departe</h2>
+<p>Dacă vrei să înțelegi de ce variază atât de mult costul reclamei în sine, am scris despre
+<a href="/blog/drumul-clientului-de-la-reclama-la-cerere/">cât costă reclama pe Facebook și de ce depinde</a>.
+Dacă vrei să vezi ce facem concret într-o lună de campanie, ai
+<a href="/google-meta-ads/">pagina de Google și Meta Ads</a>, iar toate tarifele sunt pe
+<a href="/preturi/">pagina de prețuri</a>.</p>
+
+<h2 id="faq">Întrebări frecvente</h2>
+
+<h3>Cât costă managementul reclamelor Google și Meta pe lună în România?</h3>
+<p>La noi, 400 € pe lună per platformă, cu minimum trei luni de colaborare, plus 400 € o singură
+dată pentru configurarea contului și a măsurătorii. Bugetul de reclamă se plătește separat, direct
+către Google și Meta.</p>
+
+<h3>Bugetul de reclamă intră în onorariul agenției?</h3>
+<p>Nu. Bugetul se plătește direct către Google și Meta, de pe cardul tău sau prin factura lor. Orice
+ofertă care amestecă onorariul cu bugetul de reclamă e o ofertă din care nu poți înțelege ce
+cumperi.</p>
+
+<h3>De ce minimum trei luni?</h3>
+<p>Pentru că primele două-trei săptămâni se duc pe calibrare, iar algoritmii au nevoie de un
+volum minim de conversii ca să învețe cine cumpără. O campanie oprită după patru săptămâni se
+oprește exact când începea să dea rezultate.</p>
+
+<h3>E mai bine un onorariu fix sau un procent din buget?</h3>
+<p>Fix, în majoritatea cazurilor. La procent din buget, agenția câștigă mai mult dacă tu cheltui
+mai mult, ceea ce creează un conflict de interese exact în locul în care ai nevoie de un sfat
+onest.</p>
+
+<h3>Pot administra singur campaniile?</h3>
+<p>Da, la bugete mici merită încercat. Partea grea nu e crearea campaniei, ci măsurarea corectă
+și disciplina săptămânală: cuvinte negative, oprirea anunțurilor slabe, mutarea bugetului spre ce
+funcționează.</p>
+
+<h3>Cine deține contul de Google Ads și pixelul de Meta?</h3>
+<p>Tu. Contul publicitar, pixelul și evenimentele de conversie trebuie create pe conturile tale,
+cu agenția adăugată ca partener. Așa poți schimba oricând colaboratorul fără să pierzi istoricul.</p>
+
+<h3>Cât durează până văd primele rezultate?</h3>
+<p>Primele lead-uri apar de regulă în zilele imediat următoare pornirii, dacă pagina de destinație
+e gata. Ce durează este stabilizarea costului pe lead, care se așază după patru-șase săptămâni.</p>
+
+<h3>Ce se întâmplă dacă opresc campania?</h3>
+<p>Traficul plătit se oprește imediat. De aceea recomandăm ca, în paralel, să se lucreze și pe
+partea organică — pagini pe servicii și pe zone, profil de Google Business, recenzii — care rămân
+și după ce se închide robinetul.</p>
+3:["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Cât costă managementul reclamelor Google și Meta pe lună?"}],["$","div",null,{"className":"blog-article__meta","children":[["$","span",null,{"className":"blog-article__cat","children":"Prețuri"}],["$","time",null,{"dateTime":"2026-08-20","children":"20 august 2026"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$6"}}],"$L7","$L8","$L9"]}]}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/28or4npab1wgt.css","precedence":"next"}]
+5:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+7:["$","div",null,{"className":"parere","children":[["$","span",null,{"className":"parere__q","children":"Ți-a fost utilă pagina?"}],["$","div",null,{"className":"parere__btns","children":[["$","button",null,{"type":"button","data-nota":"da","children":"Da"}],["$","button",null,{"type":"button","data-nota":"partial","children":"Parțial"}],["$","button",null,{"type":"button","data-nota":"nu","children":"Nu"}]]}],["$","div",null,{"className":"parere__extra","hidden":true,"children":["$","form",null,{"children":[["$","textarea",null,{"rows":2,"placeholder":"Ce ai fi vrut să găsești aici? (opțional)"}],["$","button",null,{"className":"btn btn-solid","type":"submit","children":"Trimite"}]]}]}]]}]
+8:["$","div",null,{"className":"blog-author","children":[["$","span",null,{"className":"blog-author__ava","aria-hidden":"true","children":"V"}],["$","div",null,{"className":"blog-author__body","children":[["$","span",null,{"className":"blog-author__name","children":"Vlad Roman"}],["$","span",null,{"className":"blog-author__role","children":["Fondator Visience · ",["$","a",null,{"href":"https://www.linkedin.com/in/roman-vladut-constantin/","target":"_blank","rel":"noopener","className":"blog-author__link","children":"LinkedIn ↗"}]]}],["$","p",null,{"className":"blog-author__bio","children":"Conduce Visience, agenția de web design și marketing digital din Iași. Scrie despre creare de site-uri, SEO și cum își cresc afacerile mici și mijlocii prezența online."}]]}]]}]
+9:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
+c:null
