@@ -1,0 +1,186 @@
+1:"$Sreact.fragment"
+a:I[97367,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["/_next/static/chunks/28or4npab1wgt.css","style"]
+2:T1232,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/clienti-firma-constructii-fara-reclame/#article","headline":"Cum aduc clienți pentru o firmă de construcții fără reclame?","description":"Trei canale care produc fără buget de reclamă: Google Business cu recenzii, pagini pe servicii și localități, și rețeaua profesională. Cu un calendar realist al rezultatelor.","datePublished":"2026-08-20","dateModified":"2026-08-20","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/clienti-firma-constructii-fara-reclame/","articleSection":"Marketing & business"},{"@type":"FAQPage","@id":"https://visience.ro/blog/clienti-firma-constructii-fara-reclame/#faq","mainEntity":[{"@type":"Question","name":"Cum aduc clienți pentru o firmă de construcții fără să dau bani pe reclame?","acceptedAnswer":{"@type":"Answer","text":"Prin trei canale: profilul de Google Business cu recenzii cerute sistematic, pagini pe servicii și pe localități care prind căutările reale, și rețeaua profesională — arhitecți, diriginți de șantier, furnizori și agenți imobiliari. Primul dă rezultate în câteva săptămâni, al doilea în câteva luni."}},{"@type":"Question","name":"Cât durează până vin clienți fără reclame?","acceptedAnswer":{"@type":"Answer","text":"Primele apeluri de pe Google apar în 3–6 săptămâni, dacă profilul e complet și strângi recenzii. Traficul din căutări organice începe să conteze după 3–6 luni. Recomandările profesionale se construiesc continuu."}},{"@type":"Question","name":"Cum cer recenzii de la clienții din construcții?","acceptedAnswer":{"@type":"Answer","text":"La predarea lucrării, când satisfacția e maximă, cu linkul direct trimis pe WhatsApp, și cerând ceva concret: ce au apreciat la execuție și la termene. Recenziile specifice conving mai mult decât un simplu recomand."}},{"@type":"Question","name":"Ce canal aduce cele mai multe contracte mari în construcții?","acceptedAnswer":{"@type":"Answer","text":"Rețeaua profesională: arhitecți, birouri de proiectare, diriginți de șantier, dezvoltatori și furnizori de materiale. Ei sunt întrebați constant cu cine să lucrez, iar o recomandare de acolo vine deja cu încredere."}},{"@type":"Question","name":"Merită să postez în grupurile de Facebook pentru o firmă de construcții?","acceptedAnswer":{"@type":"Answer","text":"Rar. Acolo ajungi mai ales la alți meseriași, nu la beneficiari, iar postările repetate scad credibilitatea. Aceeași jumătate de oră investită în fotografii de șantier și în recenzii produce mai mult."}},{"@type":"Question","name":"Am nevoie de site dacă am deja profil de Google Business?","acceptedAnswer":{"@type":"Answer","text":"Profilul aduce apelul, site-ul îl convinge pe cel care compară. Într-o firmă de construcții, site-ul are rolul de a arăta lucrări reale, cu fotografii, termene și date de firmă, ca cine te recomandă să aibă unde trimite omul."}},{"@type":"Question","name":"Ce fotografii merită făcute pe șantier?","acceptedAnswer":{"@type":"Answer","text":"Perechi înainte–după din același unghi, la lumină bună, cu un rând de explicație: ce s-a făcut, unde și în cât timp. Trei fotografii pe săptămână, constant, valorează mai mult decât o ședință foto profesională făcută o singură dată."}},{"@type":"Question","name":"Când ar trebui totuși să pornesc reclame pentru firma de construcții?","acceptedAnswer":{"@type":"Answer","text":"Când ai nevoie de lucrări în luna curentă, când intri într-un oraș nou sau când ai capacitate de execuție neocupată. Ideal după ce profilul de Google, recenziile și paginile de servicii sunt făcute."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Cum aduc clienți pentru o firmă de construcții fără reclame?","item":"https://visience.ro/blog/clienti-firma-constructii-fara-reclame/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"EqyYiXrpkUwPYP-w4eeH-"}
+6:T2bc6,<style>
+.pr-tab { width: 100%; border-collapse: collapse; font-size: 14.5px; }
+.pr-tab th { text-align: left; }
+.pr-nota {
+  background: #111010; color: #fff; border-radius: 14px;
+  padding: 20px 24px; margin: 28px 0; font-size: 15px; line-height: 1.65;
+}
+.pr-nota b {
+  color: #9BC31A; display: block; font-size: 11px; letter-spacing: .16em;
+  text-transform: uppercase; margin-bottom: 7px; font-family: var(--f-m, monospace);
+}
+.pr-sumar { border-left: 3px solid #9BC31A; padding: 4px 0 4px 22px; margin: 30px 0 38px; list-style: none; }
+.pr-sumar li { margin-bottom: 11px; }
+</style>
+
+<p class="key-answer">Se poate, dar nu instant. Trei canale produc constant fără buget de reclamă:
+<strong>profilul de Google Business cu recenzii, paginile de servicii și zone care prind căutări,
+și rețeaua profesională</strong> — arhitecți, diriginți de șantier, furnizori, agenți imobiliari.
+Primul aduce apeluri în câteva săptămâni, al doilea în câteva luni, al treilea e cel mai mare și
+cel mai ignorat.</p>
+
+<ul class="pr-sumar">
+  <li><b>Google Business + recenzii</b> — efect în 3–6 săptămâni. Gratuit.</li>
+  <li><b>Pagini pe servicii și pe localități</b> — efect în 3–6 luni. Costă timp sau bani o dată.</li>
+  <li><b>Rețeaua profesională</b> — cel mai mare canal la construcții, și cel mai prost întreținut.</li>
+  <li><b>Șantierul ca material</b> — fotografii lunare, înainte–după. Costă zero, convinge mai mult decât orice text.</li>
+  <li><b>Clienții vechi</b> — recomandările cerute sistematic, nu așteptate.</li>
+</ul>
+
+<h2 id="google-business">1. Google Business: cel mai ieftin canal din construcții</h2>
+<p>La o firmă de construcții locală, profilul de Google aduce des mai multe telefoane decât
+site-ul. E gratuit și cei mai mulți îl completează pe jumătate.</p>
+<ol>
+  <li><b>Categoria principală corectă:</b> „antreprenor general", „firmă de construcții", „constructor de case". Categoria greșită te scoate din rezultatele potrivite.</li>
+  <li><b>Zona deservită</b>, nu doar adresa sediului. Dacă lucrezi pe 40 de km, spune-o.</li>
+  <li><b>Fotografii reale, lunar.</b> Profilurile cu poze noi apar mai des decât cele înghețate.</li>
+  <li><b>Serviciile listate individual</b>, cu descriere: structuri, acoperișuri, amenajări, hale.</li>
+  <li><b>Postări</b> la două-trei săptămâni, cu lucrări terminate.</li>
+  <li><b>Răspuns la toate recenziile</b>, inclusiv la cele negative. Răspunsul e citit de următorul client, nu de autorul recenziei.</li>
+</ol>
+
+<h2 id="recenzii">2. Recenziile: un sistem, nu noroc</h2>
+<p>Firmele bune din construcții au clienți mulțumiți și zero recenzii, pentru că nimeni nu le
+cere. Se rezolvă cu o rutină, nu cu o campanie:</p>
+<ul>
+  <li><b>Cere la predare</b>, când satisfacția e la maximum, nu peste trei luni.</li>
+  <li><b>Trimite linkul direct</b> către formularul de recenzie, pe WhatsApp. Fiecare pas în plus taie jumătate din oameni.</li>
+  <li><b>Cere ceva concret:</b> „scrieți vă rog ce ați apreciat la execuție și la termene". Recenziile specifice conving mai mult decât „recomand".</li>
+  <li><b>Zece recenzii reale</b> schimbă complet felul în care arată firma în căutări.</li>
+</ul>
+
+<div class="pr-nota">
+  <b>De reținut</b>
+  Ordinea contează mai mult decât efortul. Zece recenzii noi și un profil complet aduc, la o firmă
+  locală de construcții, mai multe apeluri în prima lună decât un site nou. Site-ul devine
+  important abia când omul te compară cu alți doi.
+</div>
+
+<h2 id="pagini">3. Pagini care prind căutările reale</h2>
+<p>Nimeni nu caută „construcții". Se caută „construcție casă la roșu preț Iași", „firmă hale
+metalice Botoșani", „refacere acoperiș bloc". Fiecare dintre astea are nevoie de pagina ei.</p>
+<table class="pr-tab">
+  <thead><tr><th>Tipul de pagină</th><th>Ce conține</th><th>Ce prinde</th></tr></thead>
+  <tbody>
+    <tr><td>Pagină pe serviciu</td><td>ce include, etape, termene, preț de la</td><td>căutări pe lucrare</td></tr>
+    <tr><td>Pagină pe localitate</td><td>lucrări făcute acolo, distanță, contact</td><td>căutări cu numele orașului</td></tr>
+    <tr><td>Pagină de lucrare</td><td>înainte–după, durată, ce s-a făcut</td><td>caută cine compară execuții</td></tr>
+    <tr><td>Pagină de prețuri</td><td>„de la" pe fiecare tip de lucrare</td><td>căutări cu „cât costă"</td></tr>
+  </tbody>
+</table>
+<p>Efectul apare în trei-șase luni, dar rămâne. Detalii despre cum se face, în
+<a href="/blog/cat-costa-seo-pe-luna/">articolul despre SEO</a> și în
+<a href="/blog/de-ce-nu-te-gaseste-clientul-pe-google/">de ce nu te găsește clientul pe
+Google</a>.</p>
+
+<h2 id="retea">4. Rețeaua profesională: cel mai mare canal, cel mai prost întreținut</h2>
+<p>În construcții, cele mai multe contracte mari vin prin oameni, nu prin Google. Diferența dintre
+firmele care au de lucru tot anul și cele care caută lucrări e, aproape mereu, aici:</p>
+<ul>
+  <li><b>Arhitecți și birouri de proiectare.</b> Ei recomandă executantul. Un arhitect care lucrează cu tine îți poate aduce trei lucrări pe an.</li>
+  <li><b>Diriginți de șantier și verificatori.</b> Văd zeci de execuții și știu cine lucrează curat.</li>
+  <li><b>Dezvoltatori imobiliari.</b> Un singur ansamblu înseamnă lucru pe doi ani.</li>
+  <li><b>Furnizori de materiale.</b> Depozitele știu cine cumpără constant și cine plătește la timp; sunt întrebați des „cu cine să lucrez".</li>
+  <li><b>Agenți imobiliari.</b> Primesc întrebări despre renovări la fiecare vânzare de apartament vechi.</li>
+</ul>
+<p>Ce le trebuie ca să te recomande: un loc unde să trimită omul. O pagină cu lucrări reale, cu
+fotografii, cu date de firmă. Recomandarea verbală se pierde; recomandarea cu link rămâne.</p>
+
+<h2 id="santier">5. Șantierul, transformat în material</h2>
+<p>Ai zilnic acces la ceva ce nimeni altcineva nu are: lucrarea în desfășurare. Costă zero și
+convinge mai mult decât orice text.</p>
+<ul>
+  <li><b>Trei fotografii pe săptămână</b>, făcute cu telefonul, la lumină bună.</li>
+  <li><b>Perechi înainte–după</b>, din același unghi. E cel mai puternic format din construcții.</li>
+  <li><b>Un rând de explicație:</b> ce s-a făcut, unde, în cât timp.</li>
+  <li>Aceleași fotografii merg pe Google Business, pe site, în pagina de lucrări și pe Facebook.</li>
+</ul>
+<p>Regula care contează: <b>consecvența bate calitatea.</b> O poză pe săptămână, timp de un an,
+face mai mult decât o ședință foto profesională făcută o dată.</p>
+
+<h2 id="calendar">Ce durează cât</h2>
+<table class="pr-tab">
+  <thead><tr><th>Perioada</th><th>Ce faci</th><th>Ce se întâmplă</th></tr></thead>
+  <tbody>
+    <tr><td>Săptămânile 1–2</td><td>completezi profilul Google, ceri primele recenzii</td><td>începi să apari în hartă pe căutările locale</td></tr>
+    <tr><td>Lunile 1–2</td><td>10+ recenzii, fotografii de la două-trei lucrări</td><td>apeluri directe de pe Google</td></tr>
+    <tr><td>Lunile 2–4</td><td>pagini pe servicii și pe localități</td><td>primele intrări din căutări organice</td></tr>
+    <tr><td>Lunile 3–6</td><td>întreții relațiile profesionale, trimiți lucrările făcute</td><td>recomandări cu link, nu doar verbale</td></tr>
+    <tr><td>După 6 luni</td><td>totul rulează în ritm</td><td>cereri constante, fără cost pe click</td></tr>
+  </tbody>
+</table>
+
+<h2 id="nu-merge">Ce nu funcționează</h2>
+<ul>
+  <li><b>Postat în zeci de grupuri de Facebook.</b> Ajungi la alți meseriași, nu la clienți, și pari disperat.</li>
+  <li><b>Directoare plătite de firme.</b> Rar aduc ceva, iar linkurile de acolo nu ajută la căutări.</li>
+  <li><b>Un site frumos, fără lucrări.</b> În construcții, portofoliul e argumentul; designul doar îl așază.</li>
+  <li><b>Recenzii scrise de tine.</b> Se văd, și pot duce la sancțiuni pe profil.</li>
+</ul>
+
+<h2 id="cand-reclame">Când chiar ai nevoie de reclame</h2>
+<p>Canalele gratuite au un plafon. Reclamele devin justificate când:</p>
+<ul>
+  <li>ai nevoie de lucrări <b>luna asta</b>, nu peste trei</li>
+  <li>intri într-un oraș nou, unde nu te știe nimeni</li>
+  <li>ai o capacitate de execuție care stă neocupată</li>
+  <li>ai deja profilul, recenziile și paginile făcute — atunci fiecare leu de reclamă produce dublu</li>
+</ul>
+<p>Bugetele realiste sunt în
+<a href="/blog/buget-minim-reclame-firma-mica/">bugetul minim pentru reclame la o firmă
+mică</a>.</p>
+
+<h2 id="faq">Întrebări frecvente</h2>
+
+<h3>Cum aduc clienți pentru o firmă de construcții fără să dau bani pe reclame?</h3>
+<p>Prin trei canale: profilul de Google Business cu recenzii cerute sistematic, pagini pe servicii
+și pe localități care prind căutările reale, și rețeaua profesională — arhitecți, diriginți de
+șantier, furnizori și agenți imobiliari. Primul dă rezultate în câteva săptămâni, al doilea în
+câteva luni.</p>
+
+<h3>Cât durează până vin clienți fără reclame?</h3>
+<p>Primele apeluri de pe Google apar în 3–6 săptămâni, dacă profilul e complet și strângi recenzii.
+Traficul din căutări organice începe să conteze după 3–6 luni. Recomandările profesionale se
+construiesc continuu.</p>
+
+<h3>Cum cer recenzii de la clienții din construcții?</h3>
+<p>La predarea lucrării, când satisfacția e maximă, cu linkul direct trimis pe WhatsApp, și cerând
+ceva concret: ce au apreciat la execuție și la termene. Recenziile specifice conving mai mult decât
+un simplu „recomand".</p>
+
+<h3>Ce canal aduce cele mai multe contracte mari în construcții?</h3>
+<p>Rețeaua profesională: arhitecți, birouri de proiectare, diriginți de șantier, dezvoltatori și
+furnizori de materiale. Ei sunt întrebați constant „cu cine să lucrez", iar o recomandare de acolo
+vine deja cu încredere.</p>
+
+<h3>Merită să postez în grupurile de Facebook?</h3>
+<p>Rar. Acolo ajungi mai ales la alți meseriași, nu la beneficiari, iar postările repetate scad
+credibilitatea. Aceeași jumătate de oră investită în fotografii de șantier și în recenzii produce
+mai mult.</p>
+
+<h3>Am nevoie de site dacă am deja profil de Google?</h3>
+<p>Profilul aduce apelul; site-ul îl convinge pe cel care compară. Într-o firmă de construcții,
+site-ul are un rol clar: să arate lucrări reale, cu fotografii, termene și date de firmă, ca cine
+te recomandă să aibă unde trimite omul.</p>
+
+<h3>Ce fotografii merită făcute pe șantier?</h3>
+<p>Perechi înainte–după din același unghi, la lumină bună, cu un rând de explicație: ce s-a făcut,
+unde și în cât timp. Trei fotografii pe săptămână, constant, valorează mai mult decât o ședință
+foto profesională făcută o singură dată.</p>
+
+<h3>Când ar trebui totuși să pornesc reclame?</h3>
+<p>Când ai nevoie de lucrări în luna curentă, când intri într-un oraș nou sau când ai capacitate de
+execuție neocupată. Ideal, după ce profilul de Google, recenziile și paginile de servicii sunt
+făcute — atunci fiecare leu de reclamă produce mai mult.</p>
+3:["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Cum aduc clienți pentru o firmă de construcții fără reclame?"}],["$","div",null,{"className":"blog-article__meta","children":[["$","span",null,{"className":"blog-article__cat","children":"Marketing & business"}],["$","time",null,{"dateTime":"2026-08-20","children":"20 august 2026"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$6"}}],"$L7","$L8","$L9"]}]}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/28or4npab1wgt.css","precedence":"next"}]
+5:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+7:["$","div",null,{"className":"parere","children":[["$","span",null,{"className":"parere__q","children":"Ți-a fost utilă pagina?"}],["$","div",null,{"className":"parere__btns","children":[["$","button",null,{"type":"button","data-nota":"da","children":"Da"}],["$","button",null,{"type":"button","data-nota":"partial","children":"Parțial"}],["$","button",null,{"type":"button","data-nota":"nu","children":"Nu"}]]}],["$","div",null,{"className":"parere__extra","hidden":true,"children":["$","form",null,{"children":[["$","textarea",null,{"rows":2,"placeholder":"Ce ai fi vrut să găsești aici? (opțional)"}],["$","button",null,{"className":"btn btn-solid","type":"submit","children":"Trimite"}]]}]}]]}]
+8:["$","div",null,{"className":"blog-author","children":[["$","span",null,{"className":"blog-author__ava","aria-hidden":"true","children":"V"}],["$","div",null,{"className":"blog-author__body","children":[["$","span",null,{"className":"blog-author__name","children":"Vlad Roman"}],["$","span",null,{"className":"blog-author__role","children":["Fondator Visience · ",["$","a",null,{"href":"https://www.linkedin.com/in/roman-vladut-constantin/","target":"_blank","rel":"noopener","className":"blog-author__link","children":"LinkedIn ↗"}]]}],["$","p",null,{"className":"blog-author__bio","children":"Conduce Visience, agenția de web design și marketing digital din Iași. Scrie despre creare de site-uri, SEO și cum își cresc afacerile mici și mijlocii prezența online."}]]}]]}]
+9:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
+c:null
