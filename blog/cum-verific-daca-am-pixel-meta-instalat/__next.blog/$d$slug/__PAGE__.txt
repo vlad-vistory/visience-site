@@ -1,0 +1,168 @@
+1:"$Sreact.fragment"
+a:I[97367,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["/_next/static/chunks/28or4npab1wgt.css","style"]
+2:T11b4,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/cum-verific-daca-am-pixel-meta-instalat/#article","headline":"Cum îmi dau seama dacă site-ul meu are pixel Meta instalat?","description":"Trei metode de verificare, de la testul de 30 de secunde în codul sursă până la Events Manager. Plus de ce pare că nu e instalat deși e, și de ce pixelul singur nu e destul.","datePublished":"2026-08-20","dateModified":"2026-08-20","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/cum-verific-daca-am-pixel-meta-instalat/","articleSection":"Marketing & business"},{"@type":"FAQPage","@id":"https://visience.ro/blog/cum-verific-daca-am-pixel-meta-instalat/#faq","mainEntity":[{"@type":"Question","name":"Cum îmi dau seama dacă site-ul meu are pixel Meta instalat?","acceptedAnswer":{"@type":"Answer","text":"Deschide site-ul, apasă Ctrl+U pentru codul sursă, apoi Ctrl+F și caută fbq(. Dacă apare, pixelul e în pagină, iar în linia fbq(init, ...) vezi și ID-ul lui. Pentru verificarea completă, intră în Events Manager și vezi dacă au intrat evenimente în ultimele 24 de ore."}},{"@type":"Question","name":"Ce e Meta Pixel Helper și cum îl folosesc?","acceptedAnswer":{"@type":"Answer","text":"E extensia oficială Meta pentru Chrome. După instalare deschizi site-ul și apeși pe iconița ei: îți arată ce pixeli sunt pe pagină, ce evenimente s-au declanșat și eventualele erori. Testează în incognito, fără blocante de reclame."}},{"@type":"Question","name":"De ce Pixel Helper nu detectează pixelul, deși e instalat?","acceptedAnswer":{"@type":"Answer","text":"Cel mai des din cauza unui ad blocker sau a unei extensii de confidențialitate. A doua cauză e bannerul de cookies: pixelul pornește abia după ce vizitatorul acceptă, ceea ce e comportamentul corect în Uniunea Europeană."}},{"@type":"Question","name":"Ce evenimente ar trebui să trimită pixelul Meta?","acceptedAnswer":{"@type":"Answer","text":"Pentru un site de servicii: PageView pe toate paginile, Lead la trimiterea formularului, plus evenimente la apăsarea numărului de telefon și la clickul pe WhatsApp. Pentru un magazin online se adaugă ViewContent, AddToCart, InitiateCheckout și Purchase, cu valoarea comenzii."}},{"@type":"Question","name":"Am pixel instalat, dar campaniile nu produc. De ce?","acceptedAnswer":{"@type":"Answer","text":"Cel mai probabil pixelul trimite doar PageView. Fără un eveniment de conversie precum Lead sau Purchase, algoritmul Meta optimizează după clickuri și afișări, adică după trafic, nu după clienți."}},{"@type":"Question","name":"Ce e Conversions API și de ce nu văd nimic în browser?","acceptedAnswer":{"@type":"Answer","text":"E măsurarea de pe server, nu din browser. Trimite evenimentele direct de la site către Meta, fără să depindă de extensii sau de restricțiile din browser. Dacă folosești doar Conversions API, verificările din browser nu arată nimic, dar Events Manager arată datele."}},{"@type":"Question","name":"Pot avea doi pixeli Meta pe același site?","acceptedAnswer":{"@type":"Answer","text":"Se poate întâmpla, de obicei când l-au instalat două persoane diferite. Rezultatul e că evenimentele se dublează și cifrele nu mai sunt de încredere. Scoate-l pe cel nefolosit."}},{"@type":"Question","name":"Cine ar trebui să dețină pixelul Meta?","acceptedAnswer":{"@type":"Answer","text":"Firma. Se creează pe Business Manager-ul firmei, cu agenția adăugată ca partener. Așa poți schimba colaboratorul fără să pierzi istoricul de date și audiențele construite."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Cum îmi dau seama dacă site-ul meu are pixel Meta instalat?","item":"https://visience.ro/blog/cum-verific-daca-am-pixel-meta-instalat/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"KqgRbu37J9tJ-3OaBC2Hp"}
+6:T25f6,<style>
+.pr-tab { width: 100%; border-collapse: collapse; font-size: 14.5px; }
+.pr-tab th { text-align: left; }
+.pr-nota {
+  background: #111010; color: #fff; border-radius: 14px;
+  padding: 20px 24px; margin: 28px 0; font-size: 15px; line-height: 1.65;
+}
+.pr-nota b {
+  color: #9BC31A; display: block; font-size: 11px; letter-spacing: .16em;
+  text-transform: uppercase; margin-bottom: 7px; font-family: var(--f-m, monospace);
+}
+.pr-sumar { border-left: 3px solid #9BC31A; padding: 4px 0 4px 22px; margin: 30px 0 38px; list-style: none; }
+.pr-sumar li { margin-bottom: 11px; }
+code { background: rgba(17,16,16,.06); padding: 1px 5px; border-radius: 4px; font-size: .92em; }
+</style>
+
+<p class="key-answer">Cel mai rapid test durează treizeci de secunde: deschide site-ul,
+apasă <strong>Ctrl+U</strong> ca să vezi codul sursă, apoi <strong>Ctrl+F</strong> și caută
+<code>fbq(</code>. Dacă apare, pixelul e în pagină. Dacă vrei să fii sigur că și
+<em>funcționează</em>, verificarea corectă se face în Events Manager, unde vezi dacă evenimentele
+chiar ajung la Meta.</p>
+
+<ul class="pr-sumar">
+  <li><b>30 de secunde:</b> caută <code>fbq(</code> sau <code>connect.facebook.net</code> în codul sursă.</li>
+  <li><b>2 minute:</b> extensia Meta Pixel Helper, în Chrome.</li>
+  <li><b>Verificarea reală:</b> Events Manager → sursa de date → vezi dacă au intrat evenimente în ultimele 24 de ore.</li>
+  <li><b>Atenție:</b> dacă ai banner de cookies, pixelul poate să nu pornească până nu accepți.</li>
+  <li><b>Pixel instalat ≠ măsurare corectă.</b> Cel mai des lipsesc evenimentele, nu pixelul.</li>
+</ul>
+
+<h2 id="metoda-1">Metoda 1: în codul sursă, 30 de secunde</h2>
+<ol>
+  <li>Deschide site-ul pe calculator, în Chrome sau Edge.</li>
+  <li>Apasă <b>Ctrl+U</b> — se deschide codul sursă al paginii.</li>
+  <li>Apasă <b>Ctrl+F</b> și caută <code>fbq(</code>.</li>
+</ol>
+<p>Dacă apare, ai pixel. Vei vedea și numărul lui, într-o linie de forma
+<code>fbq('init', '1234567890123456')</code> — ăla e ID-ul pixelului, notează-l.</p>
+<p>Dacă nu apare <code>fbq(</code>, mai caută o dată <code>connect.facebook.net</code>. Uneori
+pixelul e încărcat prin Google Tag Manager și nu apare direct în sursă — în cazul ăsta caută
+<code>googletagmanager.com/gtm.js</code>, iar verificarea o faci cu metoda 2 sau 3.</p>
+
+<h2 id="metoda-2">Metoda 2: Meta Pixel Helper</h2>
+<p>E extensia oficială Meta pentru Chrome. Instalezi, deschizi site-ul, apeși pe iconița ei și
+vezi:</p>
+<ul>
+  <li>ce pixeli sunt pe pagină, cu ID-ul fiecăruia</li>
+  <li>ce evenimente s-au declanșat: <code>PageView</code>, <code>Lead</code>, <code>Purchase</code></li>
+  <li>eventualele erori de configurare</li>
+</ul>
+<p><b>Important:</b> testează într-o fereastră incognito, fără blocante de reclame. Un ad blocker
+oprește pixelul și îți va arăta că nu există, chiar dacă e instalat corect.</p>
+
+<h2 id="metoda-3">Metoda 3: Events Manager — singura care contează</h2>
+<p>Primele două metode îți spun dacă pixelul e <em>în pagină</em>. Asta îți spune dacă
+<em>funcționează</em>.</p>
+<ol>
+  <li>Intră în <b>Meta Business Suite</b> → <b>Events Manager</b>.</li>
+  <li>Alege sursa de date (pixelul sau setul de date al site-ului tău).</li>
+  <li>Uită-te la ultimele 24–48 de ore: au intrat evenimente? Câte?</li>
+  <li>Deschide <b>Test Events</b>, lipește adresa site-ului, navighează prin el și urmărește dacă evenimentele apar în timp real.</li>
+</ol>
+<p>Dacă vezi <code>PageView</code> dar nimic altceva, ai exact problema pe care o găsim cel mai
+des: pixelul e instalat, dar nu măsoară nimic util.</p>
+
+<div class="pr-nota">
+  <b>De reținut</b>
+  Un pixel care trimite doar <code>PageView</code> e ca un contor de trecători la ușa magazinului:
+  știi câți au intrat, nu știi câți au cumpărat. Algoritmul Meta optimizează după evenimentul pe
+  care i-l dai. Fără <code>Lead</code> sau <code>Purchase</code>, optimizează după afișări și
+  clickuri, adică după trafic, nu după clienți.
+</div>
+
+<h2 id="pare-ca-nu">De ce pare că nu e instalat, deși e</h2>
+<table class="pr-tab">
+  <thead><tr><th>Ce vezi</th><th>Cauza probabilă</th><th>Ce faci</th></tr></thead>
+  <tbody>
+    <tr><td>Pixel Helper nu detectează nimic</td><td>ad blocker sau extensie de confidențialitate</td><td>testează în incognito, cu extensiile oprite</td></tr>
+    <tr><td>Pixelul apare abia după ce accepți cookie-urile</td><td>banner de consimțământ, comportament corect</td><td>e în regulă; acceptă și retestează</td></tr>
+    <tr><td>Nu apare <code>fbq(</code> în sursă, dar Events Manager primește date</td><td>pixelul vine prin Google Tag Manager</td><td>e în regulă</td></tr>
+    <tr><td>Nu apare nimic în browser, dar Meta raportează conversii</td><td>Conversions API, măsurare de pe server</td><td>e în regulă, și e chiar de preferat</td></tr>
+    <tr><td>Apar doi pixeli diferiți</td><td>instalat de două ori, de două persoane</td><td>scoate-l pe cel nefolosit, dublează evenimentele</td></tr>
+  </tbody>
+</table>
+
+<h2 id="evenimente">Pixelul singur nu e destul: evenimentele</h2>
+<p>Un site de servicii ar trebui să trimită, minimum:</p>
+<ul>
+  <li><code>PageView</code> — pe toate paginile, automat.</li>
+  <li><code>Lead</code> — la trimiterea formularului de contact.</li>
+  <li>Un eveniment la <b>apăsarea numărului de telefon</b> și unul la <b>clickul pe WhatsApp</b>. La servicii, acolo se duce jumătate din cereri.</li>
+</ul>
+<p>Un magazin online mai are nevoie de <code>ViewContent</code>, <code>AddToCart</code>,
+<code>InitiateCheckout</code> și <code>Purchase</code>, cu valoarea comenzii transmisă corect.</p>
+<p>Cea mai frecventă greșeală de configurare pe care o găsim: conversia e legată de „vizita pe
+pagina de mulțumire", dar acea pagină se încarcă și când formularul dă eroare. Contul raportează
+conversii care nu există, iar algoritmul învață din date false.</p>
+
+<h2 id="nu-am">Ce faci dacă nu ai pixel</h2>
+<ol>
+  <li><b>Creează-l pe contul firmei</b>, nu pe al agenției. Business Manager → Events Manager → sursă de date nouă.</li>
+  <li><b>Instalează-l</b> prin Google Tag Manager, dacă ai, sau direct în tema site-ului. Pe WordPress există și pluginuri oficiale.</li>
+  <li><b>Configurează evenimentele</b> pentru formular, telefon și WhatsApp.</li>
+  <li><b>Leagă-l de consimțământ</b>, ca să pornească doar după ce omul acceptă. E cerință legală în UE.</li>
+  <li><b>Testează</b> cu Test Events înainte să pornești orice campanie.</li>
+</ol>
+<p>La noi, configurarea completă — cont publicitar, pixel, evenimente de conversie, integrare
+GA4 — costă <b>400 €</b>, o singură dată. E pe <a href="/preturi/">pagina de prețuri</a>.</p>
+
+<h2 id="mai-departe">Mai departe</h2>
+<p>Dacă tot verifici măsurarea, verifică și
+<a href="/blog/cat-costa-managementul-reclamelor-google-meta/">ce ar trebui să primești pentru un
+onorariu lunar de campanii</a>, sau
+<a href="/blog/site-ul-nu-aduce-clienti-ce-verific/">de ce site-ul nu aduce clienți</a>, unde
+măsurarea e primul pas al diagnosticului.</p>
+
+<h2 id="faq">Întrebări frecvente</h2>
+
+<h3>Cum îmi dau seama dacă site-ul meu are pixel Meta instalat?</h3>
+<p>Deschide site-ul, apasă Ctrl+U pentru codul sursă, apoi Ctrl+F și caută <code>fbq(</code>. Dacă
+apare, pixelul e în pagină, iar în linia <code>fbq('init', ...)</code> vezi și ID-ul lui. Pentru
+verificarea completă, intră în Events Manager și vezi dacă au intrat evenimente în ultimele 24 de
+ore.</p>
+
+<h3>Ce e Meta Pixel Helper și cum îl folosesc?</h3>
+<p>E extensia oficială Meta pentru Chrome. După instalare, deschizi site-ul și apeși pe iconița
+ei: îți arată ce pixeli sunt pe pagină, ce evenimente s-au declanșat și eventualele erori.
+Testează în incognito, fără blocante de reclame.</p>
+
+<h3>De ce Pixel Helper nu detectează pixelul, deși e instalat?</h3>
+<p>Cel mai des din cauza unui ad blocker sau a unei extensii de confidențialitate. A doua cauză e
+bannerul de cookies: pixelul pornește abia după ce vizitatorul acceptă, ceea ce e comportamentul
+corect în Uniunea Europeană.</p>
+
+<h3>Ce evenimente ar trebui să trimită pixelul?</h3>
+<p>Pentru un site de servicii: PageView pe toate paginile, Lead la trimiterea formularului, plus
+evenimente la apăsarea numărului de telefon și la clickul pe WhatsApp. Pentru un magazin online se
+adaugă ViewContent, AddToCart, InitiateCheckout și Purchase, cu valoarea comenzii.</p>
+
+<h3>Am pixel instalat, dar campaniile nu produc. De ce?</h3>
+<p>Cel mai probabil pixelul trimite doar PageView. Fără un eveniment de conversie precum Lead sau
+Purchase, algoritmul Meta optimizează după clickuri și afișări, adică după trafic, nu după
+clienți.</p>
+
+<h3>Ce e Conversions API și de ce nu văd nimic în browser?</h3>
+<p>E măsurarea de pe server, nu din browser. Trimite evenimentele direct de la site-ul tău către
+Meta, fără să depindă de extensii sau de restricțiile din browser. Dacă folosești doar Conversions
+API, verificările din browser nu vor arăta nimic, dar Events Manager va arăta datele.</p>
+
+<h3>Pot avea doi pixeli pe același site?</h3>
+<p>Se poate întâmpla, de obicei când l-au instalat două persoane diferite. Rezultatul e că
+evenimentele se dublează și cifrele nu mai sunt de încredere. Scoate-l pe cel nefolosit.</p>
+
+<h3>Cine ar trebui să dețină pixelul?</h3>
+<p>Firma. Se creează pe Business Manager-ul firmei, cu agenția adăugată ca partener. Așa poți
+schimba colaboratorul fără să pierzi istoricul de date și audiențele construite.</p>
+3:["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Cum îmi dau seama dacă site-ul meu are pixel Meta instalat?"}],["$","div",null,{"className":"blog-article__meta","children":[["$","span",null,{"className":"blog-article__cat","children":"Marketing & business"}],["$","time",null,{"dateTime":"2026-08-20","children":"20 august 2026"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$6"}}],"$L7","$L8","$L9"]}]}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/28or4npab1wgt.css","precedence":"next"}]
+5:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+7:["$","div",null,{"className":"parere","children":[["$","span",null,{"className":"parere__q","children":"Ți-a fost utilă pagina?"}],["$","div",null,{"className":"parere__btns","children":[["$","button",null,{"type":"button","data-nota":"da","children":"Da"}],["$","button",null,{"type":"button","data-nota":"partial","children":"Parțial"}],["$","button",null,{"type":"button","data-nota":"nu","children":"Nu"}]]}],["$","div",null,{"className":"parere__extra","hidden":true,"children":["$","form",null,{"children":[["$","textarea",null,{"rows":2,"placeholder":"Ce ai fi vrut să găsești aici? (opțional)"}],["$","button",null,{"className":"btn btn-solid","type":"submit","children":"Trimite"}]]}]}]]}]
+8:["$","div",null,{"className":"blog-author","children":[["$","span",null,{"className":"blog-author__ava","aria-hidden":"true","children":"V"}],["$","div",null,{"className":"blog-author__body","children":[["$","span",null,{"className":"blog-author__name","children":"Vlad Roman"}],["$","span",null,{"className":"blog-author__role","children":["Fondator Visience · ",["$","a",null,{"href":"https://www.linkedin.com/in/roman-vladut-constantin/","target":"_blank","rel":"noopener","className":"blog-author__link","children":"LinkedIn ↗"}]]}],["$","p",null,{"className":"blog-author__bio","children":"Conduce Visience, agenția de web design și marketing digital din Iași. Scrie despre creare de site-uri, SEO și cum își cresc afacerile mici și mijlocii prezența online."}]]}]]}]
+9:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
+c:null
