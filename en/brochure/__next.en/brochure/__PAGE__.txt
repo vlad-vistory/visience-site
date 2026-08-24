@@ -1,0 +1,107 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+:HL["/_next/static/chunks/3dpbwq9v8sqbu.css","style"]
+2:T15a7,<main class="pb-page">
+
+  <div class="pb-bar">
+    <div class="pb-bar__in">
+      <div class="pb-bar__t">
+        Company brochure
+        <span>Services, packages and prices · Visience</span>
+      </div>
+      <div class="pb-bar__r">
+        <div class="pb-count" id="pbCount">page <strong>1</strong> / 15</div>
+        <a class="pb-dl" href="/media/brochure-en/Visience-Brochure.pdf" download>
+          <svg width="15" height="15" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+            <path d="M8 1.5v9m0 0L4.5 7M8 10.5 11.5 7M2 13.5h12" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          Download PDF
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="pb-doc">
+    <div class="pb-doc__in" id="pbDoc">
+      <img class="pb-sheet" src="/media/brochure-en/p01.avif" width="1400" height="1982" alt="Visience company brochure — marketing services for businesses that mean it" fetchpriority="high">
+      <img class="pb-sheet" src="/media/brochure-en/p02.avif" width="1400" height="1982" alt="Page 2: who we are — an agency that sells, not one that makes pretty websites" loading="lazy">
+      <img class="pb-sheet" src="/media/brochure-en/p03.avif" width="1400" height="1982" alt="Page 3: what we do — everything a company needs to sell what it does" loading="lazy">
+      <img class="pb-sheet" src="/media/brochure-en/p04.avif" width="1400" height="1982" alt="Page 4: what else you get — CRM included" loading="lazy">
+      <img class="pb-sheet" src="/media/brochure-en/p05.avif" width="1400" height="1982" alt="Page 5: real experience — every field sells differently, clients from the portfolio" loading="lazy">
+      <img class="pb-sheet" src="/media/brochure-en/p06.avif" width="1400" height="1982" alt="Page 6: website portfolio — business websites and online stores" loading="lazy">
+      <img class="pb-sheet" src="/media/brochure-en/p07.avif" width="1400" height="1982" alt="Page 7: branding portfolio — logo, visual identity, packaging" loading="lazy">
+      <img class="pb-sheet" src="/media/brochure-en/p08.avif" width="1400" height="1982" alt="Page 8: social media portfolio — posts and campaign creative" loading="lazy">
+      <img class="pb-sheet" src="/media/brochure-en/p09.avif" width="1400" height="1982" alt="Page 9: apps and print portfolio — mobile app design and printed material" loading="lazy">
+      <img class="pb-sheet" src="/media/brochure-en/p10.avif" width="1400" height="1982" alt="Page 10: how we work — from the first conversation to the first enquiries" loading="lazy">
+      <img class="pb-sheet" src="/media/brochure-en/p11.avif" width="1400" height="1982" alt="Page 11: already have a website? we work with what you have" loading="lazy">
+      <img class="pb-sheet" src="/media/brochure-en/p12.avif" width="1400" height="1982" alt="Page 12: complete packages — Start, Standard and Premium" loading="lazy">
+      <img class="pb-sheet" src="/media/brochure-en/p13.avif" width="1400" height="1982" alt="Page 13: prices — what it costs to build: websites, stores, branding" loading="lazy">
+      <img class="pb-sheet" src="/media/brochure-en/p14.avif" width="1400" height="1982" alt="Page 14: prices — what it costs to bring customers: campaigns, SEO, social media" loading="lazy">
+      <img class="pb-sheet" src="/media/brochure-en/p15.avif" width="1400" height="1982" alt="Page 15: contact — tell us what you sell and we will tell you how it sells better" loading="lazy">
+    </div>
+  </div>
+
+  <section class="pb-end">
+    <div class="wrap">
+      <h2>Tell us what you sell</h2>
+      <p>
+        We come back with what would suit your business and what it would cost,
+        before anything is signed.
+      </p>
+      <div class="pb-end__acts">
+        <a href="/en/contact/" class="btn btn-solid">Book a call <span aria-hidden="true">→</span></a>
+        <a class="btn btn-ghost" href="/media/brochure-en/Visience-Brochure.pdf" download>Download the brochure (PDF)</a>
+      </div>
+      <div class="pb-end__meta">
+        <span><a href="mailto:contact@visience.ro">contact@visience.ro</a></span>
+        <span><a href="tel:+40771486499">+40 771 486 499</a></span>
+        <span><a href="/en/pricing/">All prices</a></span>
+        <span><a href="/en/portfolio/">Portfolio</a></span>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<script>
+(function () {
+  var doc = document.getElementById('pbDoc');
+  var out = document.getElementById('pbCount');
+  if (!doc || !out) return;
+  var file = [].slice.call(doc.querySelectorAll('.pb-sheet'));
+  var total = file.length;
+  var curent = 0;
+  var ultima = 0;
+
+  // fila cea mai apropiată de mijlocul ecranului
+  function recalc() {
+    ultima = Date.now();
+    var mijloc = window.innerHeight / 2;
+    var best = 0, bestD = Infinity;
+    for (var i = 0; i < total; i++) {
+      var r = file[i].getBoundingClientRect();
+      var d = Math.abs((r.top + r.bottom) / 2 - mijloc);
+      if (d < bestD) { bestD = d; best = i; }
+    }
+    if (best !== curent) {
+      curent = best;
+      out.innerHTML = 'page <strong>' + (best + 1) + '</strong> / ' + total;
+    }
+  }
+  var pendinte = null;
+  function cere() {
+    var acum = Date.now();
+    if (acum - ultima > 90) { recalc(); return; }
+    if (pendinte) return;
+    pendinte = setTimeout(function () { pendinte = null; recalc(); }, 90);
+  }
+  window.addEventListener('scroll', cere, { passive: true });
+  window.addEventListener('resize', cere, { passive: true });
+  recalc();
+})();
+</script>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],["$L3"],"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ycGl9jnQBTSVa_S0yZp7A"}
+3:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3dpbwq9v8sqbu.css","precedence":"next"}]
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

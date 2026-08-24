@@ -1,0 +1,1045 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+2:Tb9b,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/en/social-media/#service","name":"Social media management","serviceType":"Social media marketing","inLanguage":"en","provider":{"@type":"Organization","name":"Visience","url":"https://visience.ro/en/"},"areaServed":["US","RO","IT","FR","DE"],"offers":[{"@type":"Offer","priceCurrency":"USD","price":"350","itemOffered":{"@type":"Service","name":"Posts Basic, 8 posts a month"}},{"@type":"Offer","priceCurrency":"USD","price":"520","itemOffered":{"@type":"Service","name":"Posts Standard, 15 posts a month"}},{"@type":"Offer","priceCurrency":"USD","price":"810","itemOffered":{"@type":"Service","name":"Full SMM, 30 posts and full account management"}},{"@type":"Offer","priceCurrency":"USD","price":"600","itemOffered":{"@type":"Service","name":"SMM Strategy, one-off"}},{"@type":"Offer","priceCurrency":"USD","price":"350","itemOffered":{"@type":"Service","name":"Influencer research, one-off"}}]},{"@type":"FAQPage","@id":"https://visience.ro/en/social-media/#faq","mainEntity":[{"@type":"Question","name":"Which networks do you work on?","acceptedAnswer":{"@type":"Answer","text":"Facebook, Instagram, TikTok and LinkedIn. We recommend the right ones for the audience and the kind of business, and settle the mix at the strategy stage."}},{"@type":"Question","name":"What does a post include?","acceptedAnswer":{"@type":"Answer","text":"Copy written for the brand, the graphic design or working up existing material, the relevant hashtags and scheduling at the right hour. Full-management packages add strategic comments and interaction with followers."}},{"@type":"Question","name":"How long until results show?","acceptedAnswer":{"@type":"Answer","text":"The first signs, higher interaction and follower growth, usually appear within 1 to 2 months. Solid results in community and awareness settle over 3 to 6 months of steady presence."}},{"@type":"Question","name":"Is there a minimum contract?","acceptedAnswer":{"@type":"Answer","text":"The monthly packages work best with a commitment of a few months, because results come from consistency. The actual terms are agreed at the start, with no surprise clauses."}},{"@type":"Question","name":"Do you produce the photo and video content too?","acceptedAnswer":{"@type":"Answer","text":"We do the graphic design and work up material you provide. For a dedicated photo shoot or video production we coordinate with our partners and quote it separately."}},{"@type":"Question","name":"How do you report results?","acceptedAnswer":{"@type":"Answer","text":"A clear monthly report with follower growth, engagement, post reach and which content performed best. Full SMM adds a 1:1 consulting call."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visience.ro/en/"},{"@type":"ListItem","position":2,"name":"Social media","item":"https://visience.ro/en/social-media/"}]}]}3:T84f1,<style>
+.sm-hero {
+  position: relative;
+  padding: calc(var(--nav-h) + 90px) 0 90px;
+  background: var(--cream);
+  overflow: hidden;
+}
+.sm-hero__inner {
+  display: grid;
+  grid-template-columns: 1.15fr 1fr;
+  gap: 70px;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+}
+.sm-hero__breadcrumbs {
+  font-family: var(--f-m);
+  font-size: 11px;
+  color: var(--mid);
+  letter-spacing: .06em;
+  margin-bottom: 24px;
+}
+.sm-hero__breadcrumbs a       { color: var(--mid); transition: color .2s; }
+.sm-hero__breadcrumbs a:hover { color: var(--acc-deep); }
+.sm-hero__breadcrumbs .sep    { margin: 0 10px; opacity: .4; }
+
+.sm-hero__h1 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(38px, 5.2vw, 70px);
+  line-height: .98;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 26px;
+}
+.sm-hero__h1 .acc {
+  background: var(--acc);
+  color: var(--acc-ink);
+  padding: 0 12px 4px;
+  border-radius: 10px;
+  display: inline-block;
+  line-height: 1.05;
+}
+.sm-hero__lead {
+  font-size: 17px;
+  line-height: 1.78;
+  color: var(--mid);
+  margin-bottom: 32px;
+  font-weight: 300;
+  max-width: 540px;
+}
+
+.sm-hero__pts {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-bottom: 36px;
+  max-width: 540px;
+}
+.sm-pt {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 14px;
+  color: var(--ink);
+  font-weight: 500;
+}
+.sm-pt-dot {
+  width: 18px; height: 18px;
+  background: var(--acc);
+  color: var(--acc-ink);
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 10px; font-weight: 700;
+  flex-shrink: 0; margin-top: 2px;
+}
+
+.sm-hero__cta {
+  display: flex; gap: 10px; flex-wrap: wrap;
+}
+
+.sm-hero__visual {
+  position: relative;
+  height: 480px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sm-phone {
+  position: relative;
+  width: 100%;
+  max-width: 320px;
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 28px;
+  padding: 18px 16px 20px;
+  box-shadow: 0 30px 80px rgba(17,16,16,.10);
+  z-index: 2;
+}
+.sm-phone__top {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 14px;
+}
+.sm-phone__avatar {
+  width: 34px; height: 34px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--acc) 0%, var(--acc2) 100%);
+  flex-shrink: 0;
+}
+.sm-phone__handle {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.sm-phone__name {
+  font-size: 12px; font-weight: 700; color: var(--ink);
+}
+.sm-phone__tag {
+  font-family: var(--f-m);
+  font-size: 10px; color: var(--light);
+}
+.sm-phone__post {
+  height: 150px;
+  border-radius: 14px;
+  background-image: radial-gradient(circle, rgba(155,195,26,.18) 1px, transparent 1px);
+  background-size: 16px 16px;
+  background-color: var(--cream2);
+  border: 1px solid var(--border);
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 14px;
+}
+.sm-phone__post::after {
+  content: '';
+  position: absolute;
+  top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+  width: 52px; height: 52px;
+  background: var(--acc);
+  opacity: .35;
+  border-radius: 14px;
+}
+.sm-phone__actions {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  margin-bottom: 14px;
+  color: var(--mid);
+  font-size: 15px;
+}
+.sm-phone__actions .sm-heart { color: var(--acc-deep); }
+.sm-phone__stats {
+  display: flex;
+  gap: 10px;
+}
+.sm-phone__stat {
+  flex: 1;
+  background: var(--cream);
+  border-radius: 10px;
+  padding: 10px 12px;
+}
+.sm-phone__stat-num {
+  font-family: var(--f-d);
+  font-size: 16px; font-weight: 800;
+  color: var(--acc-deep);
+  letter-spacing: -.02em;
+  line-height: 1;
+  margin-bottom: 4px;
+}
+.sm-phone__stat-lbl {
+  font-family: var(--f-m);
+  font-size: 8px;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--mid);
+}
+
+
+.sm-intro {
+  background: var(--white);
+  padding: 90px 0;
+  position: relative;
+}
+.sm-intro__inner {
+  max-width: 880px;
+  margin: 0 auto;
+}
+.sm-intro h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(28px, 3.5vw, 44px);
+  line-height: 1.1;
+  letter-spacing: -.025em;
+  color: var(--ink);
+  margin: 56px 0 18px;
+}
+.sm-intro h2:first-child { margin-top: 0; }
+.sm-intro p {
+  font-size: 16px;
+  line-height: 1.84;
+  color: var(--mid);
+  font-weight: 300;
+  margin-bottom: 16px;
+}
+.sm-intro p strong { color: var(--ink); font-weight: 600; }
+.sm-intro p a       { color: var(--acc-deep); border-bottom: 1px solid var(--acc); transition: opacity .2s; }
+.sm-intro p a:hover { opacity: .65; }
+
+
+.sm-incl {
+  padding: 100px 0;
+  background: var(--cream);
+}
+.sm-incl__head {
+  max-width: 760px;
+  margin: 0 auto 56px;
+  text-align: center;
+}
+.sm-incl__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(30px, 4vw, 52px);
+  line-height: 1.04;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 16px;
+}
+.sm-incl__h2 .acc { color: var(--acc-deep); }
+.sm-incl__sub {
+  font-size: 16px; line-height: 1.8;
+  color: var(--mid); font-weight: 300;
+}
+.sm-incl__grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+.sm-card {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 32px 26px 30px;
+  transition: .3s;
+}
+.sm-card:hover {
+  border-color: rgba(155,195,26,.3);
+  transform: translateY(-4px);
+  box-shadow: 0 18px 36px rgba(17,16,16,.06);
+}
+.sm-card__ico {
+  width: 48px; height: 48px;
+  border-radius: 12px;
+  background: var(--acc-bg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 22px;
+  color: var(--acc-deep);
+  font-size: 20px;
+  transition: .3s;
+}
+.sm-card:hover .sm-card__ico {
+  background: var(--acc);
+  color: var(--acc-ink);
+}
+.sm-card h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.015em;
+  margin: 0 0 12px;
+  line-height: 1.2;
+  color: var(--ink);
+}
+.sm-card p {
+  font-size: 13px;
+  color: var(--mid);
+  line-height: 1.7;
+  font-weight: 300;
+  margin: 0;
+}
+
+
+.sm-prices {
+  padding: 100px 0;
+  background: var(--white);
+}
+.sm-prices__head {
+  text-align: center;
+  max-width: 720px;
+  margin: 0 auto 56px;
+}
+.sm-prices__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(34px, 4.5vw, 60px);
+  line-height: 1.0;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 18px;
+}
+.sm-prices__h2 .acc { color: var(--acc-deep); }
+.sm-prices__sub {
+  font-size: 16px; line-height: 1.8;
+  color: var(--mid); font-weight: 300;
+}
+
+.sm-pkg-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  align-items: stretch;
+}
+.sm-pkg {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 36px 32px 32px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  transition: .3s;
+}
+.sm-pkg:hover {
+  border-color: rgba(155,195,26,.3);
+  transform: translateY(-6px);
+  box-shadow: 0 20px 48px rgba(155,195,26,.08);
+}
+.sm-pkg.featured {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--white);
+}
+.sm-pkg.featured:hover { box-shadow: 0 24px 56px rgba(17,16,16,.2); }
+.sm-pkg__badge {
+  position: absolute;
+  top: -12px; left: 50%;
+  transform: translateX(-50%);
+  background: var(--acc);
+  color: var(--acc-ink);
+  font-family: var(--f-m);
+  font-size: 9px;
+  font-weight: 500;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  padding: 5px 14px;
+  border-radius: 100px;
+}
+.sm-pkg__name {
+  font-family: var(--f-m);
+  font-size: 11px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--mid);
+  margin-bottom: 8px;
+}
+.sm-pkg.featured .sm-pkg__name { color: rgba(255,255,255,.5); }
+.sm-pkg__price {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(34px, 3.8vw, 48px);
+  letter-spacing: -.04em;
+  line-height: 1;
+  color: var(--acc-deep);
+  margin-bottom: 4px;
+}
+.sm-pkg__price .per {
+  font-family: var(--f-m);
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0;
+  color: var(--mid);
+}
+.sm-pkg.featured .sm-pkg__price .per { color: rgba(255,255,255,.5); }
+.sm-pkg__price-note {
+  font-size: 12px;
+  color: var(--light);
+  margin-bottom: 22px;
+}
+.sm-pkg.featured .sm-pkg__price-note { color: rgba(255,255,255,.4); }
+.sm-pkg__desc {
+  font-size: 14px;
+  line-height: 1.7;
+  color: var(--mid);
+  margin-bottom: 26px;
+  font-weight: 300;
+  padding-bottom: 22px;
+  border-bottom: 1px solid var(--border);
+}
+.sm-pkg.featured .sm-pkg__desc {
+  color: rgba(255,255,255,.55);
+  border-bottom-color: rgba(255,255,255,.1);
+}
+.sm-pkg__feats {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 28px;
+  flex: 1;
+}
+.sm-pkg__feat {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 13px;
+  line-height: 1.55;
+  color: var(--ink);
+}
+.sm-pkg.featured .sm-pkg__feat { color: rgba(255,255,255,.85); }
+.sm-pkg__feat-tick {
+  color: var(--acc-deep);
+  flex-shrink: 0;
+  margin-top: 2px;
+  font-weight: 700;
+}
+
+.sm-extra {
+  max-width: 760px;
+  margin: 36px auto 0;
+  display: flex;
+  align-items: center;
+  gap: 22px;
+  background: var(--cream);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 26px 30px;
+}
+.sm-extra__ico {
+  width: 50px; height: 50px;
+  flex-shrink: 0;
+  border-radius: 14px;
+  background: var(--acc-bg);
+  color: var(--acc-deep);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+}
+.sm-extra__body { flex: 1; }
+.sm-extra__title {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: -.01em;
+  color: var(--ink);
+  margin-bottom: 4px;
+}
+.sm-extra__txt {
+  font-size: 13px;
+  line-height: 1.65;
+  color: var(--mid);
+  font-weight: 300;
+}
+.sm-extra__price {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: 24px;
+  letter-spacing: -.03em;
+  color: var(--acc-deep);
+  flex-shrink: 0;
+}
+
+
+.sm-process {
+  padding: 100px 0;
+  background: var(--cream2);
+}
+.sm-process__head {
+  max-width: 700px;
+  margin: 0 auto 56px;
+  text-align: center;
+}
+.sm-process__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(30px, 4vw, 50px);
+  line-height: 1.04;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 16px;
+}
+.sm-process__h2 .acc { color: var(--acc-deep); }
+.sm-process__sub {
+  font-size: 16px; line-height: 1.8;
+  color: var(--mid); font-weight: 300;
+}
+.sm-process__list {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+.sm-step {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 30px 28px;
+  transition: .3s;
+}
+.sm-step:hover {
+  border-color: rgba(155,195,26,.3);
+  transform: translateY(-4px);
+  box-shadow: 0 14px 28px rgba(17,16,16,.06);
+}
+.sm-step__n {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: 36px;
+  color: var(--acc-deep);
+  letter-spacing: -.03em;
+  line-height: 1;
+  margin-bottom: 14px;
+}
+.sm-step h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.015em;
+  margin: 0 0 10px;
+  color: var(--ink);
+  line-height: 1.2;
+}
+.sm-step p {
+  font-size: 13px;
+  color: var(--mid);
+  line-height: 1.7;
+  font-weight: 300;
+  margin: 0;
+}
+
+
+.sm-faq {
+  padding: 100px 0;
+  background: var(--white);
+}
+.sm-faq__head {
+  text-align: center;
+  max-width: 640px;
+  margin: 0 auto 50px;
+}
+.sm-faq__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(28px, 3.6vw, 44px);
+  line-height: 1.06;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 16px;
+}
+.sm-faq__h2 .acc { color: var(--acc-deep); }
+.sm-faq__list {
+  max-width: 860px;
+  margin: 0 auto;
+  border-top: 1px solid var(--border);
+}
+.sm-faq-item {
+  border-bottom: 1px solid var(--border);
+  padding: 24px 0;
+}
+.sm-faq-item summary {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.01em;
+  color: var(--ink);
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding-right: 8px;
+  transition: color .22s;
+}
+.sm-faq-item summary::-webkit-details-marker { display: none; }
+.sm-faq-item summary::after {
+  content: '+';
+  font-family: var(--f-d);
+  font-size: 26px;
+  font-weight: 300;
+  color: var(--acc-deep);
+  transition: transform .3s;
+  flex-shrink: 0;
+  line-height: 1;
+}
+.sm-faq-item[open] summary::after { transform: rotate(45deg); }
+.sm-faq-item:hover summary { color: var(--acc-deep); }
+.sm-faq-item p {
+  margin-top: 14px;
+  font-size: 14px;
+  color: var(--mid);
+  line-height: 1.75;
+  font-weight: 300;
+  max-width: 740px;
+}
+
+
+.sm-cta {
+  padding: 110px 0;
+  background: var(--ink);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.sm-cta::before {
+  content: '';
+  position: absolute;
+  top: -100px; right: -100px;
+  width: 420px; height: 420px;
+  background: radial-gradient(circle, rgba(155,195,26,.22) 0%, transparent 70%);
+  pointer-events: none;
+}
+.sm-cta > .wrap { position: relative; z-index: 1; }
+.sm-cta__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(34px, 5vw, 64px);
+  line-height: 1.0;
+  letter-spacing: -.03em;
+  color: var(--white);
+  margin-bottom: 20px;
+}
+.sm-cta__h2 .acc {
+  background: linear-gradient(135deg, var(--acc) 0%, var(--acc2) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.sm-cta__p {
+  font-size: 16px;
+  color: rgba(255,255,255,.5);
+  font-weight: 300;
+  max-width: 540px;
+  margin: 0 auto 32px;
+  line-height: 1.78;
+}
+.sm-cta__btns {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 1024px) {
+  .sm-hero { padding: calc(var(--nav-h) + 60px) 0 70px; }
+  .sm-hero__inner { grid-template-columns: 1fr; gap: 50px; }
+  .sm-hero__visual { height: 420px; order: -1; }
+  .sm-intro { padding: 70px 0; }
+  .sm-incl { padding: 80px 0; }
+  .sm-incl__grid { grid-template-columns: repeat(2, 1fr); }
+  .sm-prices { padding: 80px 0; }
+  .sm-pkg-grid { grid-template-columns: 1fr; gap: 20px; max-width: 480px; margin: 0 auto; }
+  .sm-pkg.featured { transform: none; }
+  .sm-extra { flex-direction: column; text-align: center; gap: 16px; }
+  .sm-process { padding: 70px 0; }
+  .sm-process__list { grid-template-columns: repeat(2, 1fr); }
+  .sm-faq { padding: 70px 0; }
+  .sm-cta { padding: 80px 0; }
+}
+
+@media (max-width: 640px) {
+  .sm-hero__pts { grid-template-columns: 1fr; }
+  .sm-hero__cta { flex-direction: column; }
+  .sm-hero__cta .btn { justify-content: center; }
+  .sm-incl__grid { grid-template-columns: 1fr; }
+  .sm-pkg { padding: 28px 24px 26px; }
+  .sm-process__list { grid-template-columns: 1fr; }
+  .sm-faq-item summary { font-size: 15px; }
+}
+</style>
+
+
+<main id="main">
+
+<section class="sm-hero" aria-labelledby="sm-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="20%" x2="100%" y2="60%"/>
+      <line x1="0" y1="50%" x2="100%" y2="90%"/>
+      <line x1="0" y1="80%" x2="100%" y2="30%"/>
+      <line x1="25%" y1="0" x2="75%" y2="100%"/>
+      <line x1="60%" y1="0" x2="10%" y2="100%"/>
+    </svg>
+  </div>
+
+  <div class="wrap">
+    <div class="sm-hero__inner">
+
+      <div class="rv">
+        <nav class="sm-hero__breadcrumbs" aria-label="Breadcrumbs">
+          <a href="/en/">Home</a>
+          <span class="sep">/</span>
+          <a href="/en/#services">Services</a>
+          <span class="sep">/</span>
+          <span>Social media management</span>
+        </nav>
+
+
+        <h1 class="sm-hero__h1" id="sm-h1">
+          Social accounts<br>
+          <span class="acc">that pull their weight.</span>
+        </h1>
+
+        <p class="sm-hero__lead">
+          We run your presence on Facebook, Instagram, TikTok and LinkedIn end to end: strategy, content, posting and replying to the community. One consistent brand voice that builds trust and brings customers, not just likes.
+        </p>
+
+        <div class="sm-hero__pts">
+          <div class="sm-pt"><span class="sm-pt-dot">✓</span><span>12-month content calendar</span></div>
+          <div class="sm-pt"><span class="sm-pt-dot">✓</span><span>Professional copy &amp; design</span></div>
+          <div class="sm-pt"><span class="sm-pt-dot">✓</span><span>Community management</span></div>
+          <div class="sm-pt"><span class="sm-pt-dot">✓</span><span>Monthly results report</span></div>
+        </div>
+
+        <div class="sm-hero__cta">
+          <a href="/en/contact/" class="btn btn-solid">Ask for a quote</a>
+          <a href="tel:+40771486499" class="btn btn-ghost">+40 771 486 499</a>
+        </div>
+      </div>
+
+      <div class="sm-hero__visual rv rv-d2">
+        <div class="sm-phone" aria-hidden="true">
+          <div class="sm-phone__top">
+            <span class="sm-phone__avatar"></span>
+            <span class="sm-phone__handle">
+              <span class="sm-phone__name">your.brand</span>
+              <span class="sm-phone__tag">Scheduled post</span>
+            </span>
+          </div>
+          <div class="sm-phone__post"></div>
+          <div class="sm-phone__actions">
+            <i class="fas fa-heart sm-heart"></i>
+            <i class="far fa-comment"></i>
+            <i class="far fa-paper-plane"></i>
+            <i class="far fa-bookmark" style="margin-left:auto"></i>
+          </div>
+          <div class="sm-phone__stats">
+            <div class="sm-phone__stat">
+              <div class="sm-phone__stat-num">+38%</div>
+              <div class="sm-phone__stat-lbl">Engagement</div>
+            </div>
+            <div class="sm-phone__stat">
+              <div class="sm-phone__stat-num">30</div>
+              <div class="sm-phone__stat-lbl">Posts / month</div>
+            </div>
+            <div class="sm-phone__stat">
+              <div class="sm-phone__stat-num">4</div>
+              <div class="sm-phone__stat-lbl">Networks</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="sm-intro" aria-labelledby="sm-intro-h2">
+  <div class="wrap">
+    <div class="sm-intro__inner rv">
+
+      <h2 id="sm-intro-h2">We run social for brands that want it to count</h2>
+      <p>
+        We are a <strong>marketing agency</strong> that takes on <strong>social media management</strong> in full — from the strategy down to the daily post and the reply in the inbox. We do not just hang pictures on a wall: we build a coherent presence, with a clear brand voice, that turns followers into a community and, over time, into customers.
+      </p>
+      <p>
+        We work on <strong>Facebook, Instagram, TikTok and LinkedIn</strong> for companies in the United States and across Europe. Every engagement starts with an <strong>audience analysis</strong>, we look at the competition and we set a <strong>12-month content calendar</strong> — so every post has a job, rather than filling a gap. <a href="/en/contact/">Ask for a quote →</a>
+      </p>
+
+      <h2>How much does social media management cost?</h2>
+      <p>
+        The price depends on how many networks, how often you post and how deep you want us in it. Our full package, <strong>Full SMM</strong>, is <strong>$810 a month</strong> and covers 30 posts plus running the accounts completely. For a middle pace, <strong>Posts Standard</strong> is <strong>$520 a month</strong>, and for a clean start, <strong>Posts Basic</strong> starts at <strong>$350 a month</strong>.
+      </p>
+      <p>
+        We recommend that any engagement starts with the <strong>SMM Strategy</strong> package ($600, one-off): audience analysis, competitor research, brand voice and tone, and a 12-month content calendar. On that footing, every month's posts have a point and a direction. <a href="#sm-prices">See the packages in detail below →</a>
+      </p>
+
+      <h2>Why pick Visience for social?</h2>
+      <p>
+        <strong>Consistency, quality and a real strategy behind it.</strong> The biggest mistake on social is posting at random, whenever it crosses your mind. We hold a steady rhythm and one message across every network, backed by professional design and copy written for your brand, not generic templates.
+      </p>
+      <p>
+        On top of that, we are a full agency: alongside social we can also take on <strong>Google Ads, Meta Ads</strong> or <strong>SEO</strong>, so all your marketing channels pull the same way. <a href="#sm-faq">See the frequently asked questions →</a>
+      </p>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="sm-incl" aria-labelledby="sm-incl-h2">
+  <div class="wrap">
+
+    <div class="sm-incl__head rv">
+      <h2 class="sm-incl__h2" id="sm-incl-h2">Everything that keeps your channels <span class="acc">active and coherent</span></h2>
+      <p class="sm-incl__sub">
+        We take every stage, from the planning to the back-and-forth with followers, so you can get on with running the business.
+      </p>
+    </div>
+
+    <div class="sm-incl__grid rv rv-d2">
+      <div class="sm-card">
+        <div class="sm-card__ico"><i class="fa-solid fa-calendar-check"></i></div>
+        <h3>Strategy &amp; content calendar</h3>
+        <p>We set the audience, the brand voice and a 12-month content calendar, with clear themes and goals for each month.</p>
+      </div>
+      <div class="sm-card">
+        <div class="sm-card__ico"><i class="fa-solid fa-pen-ruler"></i></div>
+        <h3>Copy &amp; post design</h3>
+        <p>Copy written for your brand and professional graphics for every post and story: one visual line, a message that lands.</p>
+      </div>
+      <div class="sm-card">
+        <div class="sm-card__ico"><i class="fa-solid fa-clock-rotate-left"></i></div>
+        <h3>Scheduling &amp; posting</h3>
+        <p>We schedule and publish at the right hours, across every network you have chosen, so you never have to ask "what do we post today".</p>
+      </div>
+      <div class="sm-card">
+        <div class="sm-card__ico"><i class="fa-solid fa-comments"></i></div>
+        <h3>Community &amp; replies</h3>
+        <p>We answer comments and messages, moderate the conversation and build real relationships with your followers.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="sm-prices" id="sm-prices" aria-labelledby="sm-prices-h2">
+  <div class="wrap">
+
+    <div class="sm-prices__head rv">
+      <h2 class="sm-prices__h2" id="sm-prices-h2">
+        Social media management prices —<br><span class="acc">clear packages</span>
+      </h2>
+      <p class="sm-prices__sub">
+        Pick the pace that suits your brand. Prices are monthly, with no hidden costs — you get a quote for your case within 24 hours.
+      </p>
+    </div>
+
+    <div class="sm-pkg-grid">
+
+      <div class="sm-pkg featured rv">
+        <span class="sm-pkg__badge">Recommended</span>
+        <div class="sm-pkg__name">Full SMM</div>
+        <div class="sm-pkg__price">$810<span class="per"> / month</span></div>
+        <div class="sm-pkg__price-note">The accounts run for you</div>
+        <p class="sm-pkg__desc">
+          We take your presence on social completely: strategy, content, posting and the community. The best option for brands that want steady results.
+        </p>
+        <div class="sm-pkg__feats">
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>30 posts a month</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Accounts managed end to end</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Brand voice and tone defined</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Strategic comments &amp; organic engagement</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Replies to messages &amp; comments</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Monthly 1:1 consulting call</span></div>
+        </div>
+        <a href="/en/contact/" class="btn btn-solid" style="justify-content:center">Ask for a quote</a>
+      </div>
+
+      <div class="sm-pkg rv rv-d1">
+        <div class="sm-pkg__name">Posts Standard</div>
+        <div class="sm-pkg__price">$520<span class="per"> / month</span></div>
+        <div class="sm-pkg__price-note">Middle pace, solid presence</div>
+        <p class="sm-pkg__desc">
+          A steady flow of content on social, with the community watched and monthly reporting. For brands that want to be active without handing over everything.
+        </p>
+        <div class="sm-pkg__feats">
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>15 posts a month</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>4+ stories a month</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Relevant hashtag research</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Comments monitored</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Monthly results report</span></div>
+        </div>
+        <a href="/en/contact/" class="btn btn-ghost" style="justify-content:center">Ask for a quote</a>
+      </div>
+
+      <div class="sm-pkg rv rv-d2">
+        <div class="sm-pkg__name">Posts Basic</div>
+        <div class="sm-pkg__price">$350<span class="per"> / month</span></div>
+        <div class="sm-pkg__price-note">A clean start on social</div>
+        <p class="sm-pkg__desc">
+          The right package to begin with: an organic presence, tidy design and copy written for you, so your brand looks professional from day one.
+        </p>
+        <div class="sm-pkg__feats">
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>8 organic posts a month</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Professional design on every post</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Copy written for your brand</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Posting on the network you choose</span></div>
+        </div>
+        <a href="/en/contact/" class="btn btn-ghost" style="justify-content:center">Ask for a quote</a>
+      </div>
+
+    </div>
+
+    <div class="sm-extra rv rv-d2" style="margin-bottom:24px">
+      <div class="sm-extra__ico"><i class="fa-solid fa-compass-drafting"></i></div>
+      <div class="sm-extra__body">
+        <div class="sm-extra__title">SMM Strategy — the footing for everything else</div>
+        <div class="sm-extra__txt">Audience analysis, competitor research, brand voice and tone, a 12-month content calendar and 2 working sessions. One-off cost.</div>
+      </div>
+      <div class="sm-extra__price">$600</div>
+    </div>
+
+    <div class="sm-extra rv rv-d2">
+      <div class="sm-extra__ico"><i class="fa-solid fa-star"></i></div>
+      <div class="sm-extra__body">
+        <div class="sm-extra__title">Influencer research (optional)</div>
+        <div class="sm-extra__txt">A list of influencers who fit your brand, with collaboration rates, account statistics and engagement levels, so you put money into partnerships that actually work.</div>
+      </div>
+      <div class="sm-extra__price">$350</div>
+    </div>
+
+  </div>
+</section>
+
+
+<section class="sm-process" aria-labelledby="sm-process-h2">
+  <div class="wrap">
+
+    <div class="sm-process__head rv">
+      <h2 class="sm-process__h2" id="sm-process-h2">From strategy to <span class="acc">the daily post</span></h2>
+      <p class="sm-process__sub">
+        A clear process, one that puts the strategy before the content, the way it should be.
+      </p>
+    </div>
+
+    <div class="sm-process__list rv rv-d2">
+      <article class="sm-step">
+        <div class="sm-step__n">01</div>
+        <h3>Analysis &amp; strategy</h3>
+        <p>We study your audience, your competitors and your goals. We set the voice, the brand tone and the 12-month content calendar.</p>
+      </article>
+      <article class="sm-step">
+        <div class="sm-step__n">02</div>
+        <h3>Content production</h3>
+        <p>We write the copy and design each post and story, in line with your visual identity and the month's message.</p>
+      </article>
+      <article class="sm-step">
+        <div class="sm-step__n">03</div>
+        <h3>Posting &amp; community</h3>
+        <p>We schedule at the right hours, publish across every network and answer comments and messages through the month.</p>
+      </article>
+      <article class="sm-step">
+        <div class="sm-step__n">04</div>
+        <h3>Report &amp; adjust</h3>
+        <p>Each month we look at what worked, report the results and adjust the strategy for the month ahead.</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+
+<section class="sm-faq" id="sm-faq" aria-labelledby="sm-faq-h2">
+  <div class="wrap">
+
+    <div class="sm-faq__head rv">
+      <h2 class="sm-faq__h2" id="sm-faq-h2">What you should know about <span class="acc">social media management</span></h2>
+    </div>
+
+    <div class="sm-faq__list rv rv-d2">
+
+      <details class="sm-faq-item">
+        <summary>Which networks do you work on?</summary>
+        <p>We run Facebook, Instagram, TikTok and LinkedIn accounts. We recommend the right ones for your audience and the kind of business you are in. There is no point being everywhere — only where your customers are. We settle the mix together at the strategy stage.</p>
+      </details>
+
+      <details class="sm-faq-item">
+        <summary>What does a post include?</summary>
+        <p>Every post includes copy written for your brand and the graphic design (or working up material you already have), plus the relevant hashtags and scheduling at the right hour. On the full-management packages we add strategic comments and interaction with your followers.</p>
+      </details>
+
+      <details class="sm-faq-item">
+        <summary>How long until results show?</summary>
+        <p>Social is a channel that builds over time. The first signs — interaction going up, follower count growing — usually appear within 1–2 months, and solid results in community and awareness settle in over 3–6 months of steady presence. That is why consistency matters more than any single post.</p>
+      </details>
+
+      <details class="sm-faq-item">
+        <summary>Is there a minimum contract?</summary>
+        <p>The monthly packages work best with a commitment of a few months, because results come from consistency, not from one month. We go through the actual terms at the start and shape them around your goals, with no surprise clauses.</p>
+      </details>
+
+      <details class="sm-faq-item">
+        <summary>Do you produce the photo and video content too?</summary>
+        <p>We do the graphic design and work up the material you give us. For a dedicated photo shoot or video production, we coordinate with our partners and quote it separately. Plenty of brands start with existing material and photos from a phone, which we turn into professional posts.</p>
+      </details>
+
+      <details class="sm-faq-item">
+        <summary>How do you report results?</summary>
+        <p>You get a clear monthly report with the numbers that matter: follower growth, engagement, post reach and which kind of content performed best. On Full SMM we add a 1:1 consulting call to go through the results and the next steps.</p>
+      </details>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="sm-cta" aria-labelledby="sm-cta-h2">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="sm-cta__h2" id="sm-cta-h2">
+        Ready to bring<br>
+        <span class="acc">your channels to life?</span>
+      </h2>
+      <p class="sm-cta__p">
+        Tell us about your brand and you get a quote within 24 hours. Free consultation, nothing to sign.
+      </p>
+      <div class="sm-cta__btns">
+        <a href="/en/contact/" class="btn btn-solid">Ask for a quote</a>
+        <a href="tel:+40771486499" class="btn btn-dark">Call now: +40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Related services and published prices">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> No hidden prices</span>
+      <h2>See exactly what you pay.</h2>
+      <p>We do not work with hidden rates or surprises on the invoice. All our packages and prices are public. You choose knowing where you stand, with nobody pushing you.</p>
+      <a href="/en/pricing/" class="rel-trans__link">See all prices <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Carry on with</div>
+      <div class="rel-links__grid">
+        <a href="/en/google-meta-ads/" class="rel-link"><span class="rel-link__name">Google &amp; Meta Ads <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Campaigns aimed at leads and sales.</span></a>
+        <a href="/en/branding/" class="rel-link"><span class="rel-link__name">Branding &amp; identity <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Logo, brand book and full visual identity.</span></a>
+        <a href="/en/seo/" class="rel-link"><span class="rel-link__name">SEO &amp; content <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Reach page one of Google, organically.</span></a>
+        <a href="/en/portfolio/" class="rel-link"><span class="rel-link__name">Portfolio <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Real projects delivered by our team.</span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ycGl9jnQBTSVa_S0yZp7A"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

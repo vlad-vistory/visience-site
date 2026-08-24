@@ -1,0 +1,1501 @@
+1:"$Sreact.fragment"
+d:I[68027,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"default",1]
+:HL["/_next/static/chunks/16fat-5-gaue_.css","style"]
+:HL["/_next/static/media/0da9c7f357bd9d4d-s.p.1975l3y3401x_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2094fb60fd9c8287-s.p.3qxy1tqak831c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/47fe1b7cd6e6ed85-s.p.3bh2vc0w-r-ll.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5f9d24ebef5d5292-s.p.19xuq3td7fwu_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6c55a692938ebbbc-s.p.1emuuracu50qd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/798ea22d9983e047-s.p.3go-kn2r40gie.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/829ba4228c966254-s.p.2mm3nq9i83l-m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8cf1ea7b03cdeb83-s.p.3dbq0oou7i_24.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8e6fa89aa22d24ec-s.p.2o7m9ogm38dql.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a218039a3287bcfd-s.p.43zbiuwnnoiok.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c875c6f5d3e977ac-s.p.1h18_wedhzk4h.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e2334d715941921e-s.p.3o_v2fun1jzxk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css","style"]
+2:["$","link",null,{"rel":"stylesheet","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}]
+3:T5c7,(function(){
+  window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}window.gtag=gtag;
+  var K='visience-consent',c=null;try{c=localStorage.getItem(K);}catch(e){}
+  gtag('consent','default',{ad_storage:'denied',analytics_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',wait_for_update:500});
+  gtag('set','ads_data_redaction',true);gtag('set','url_passthrough',true);
+  function loadClarity(){if(window.clarity)return;(function(c,l,a,r,i){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};var t=l.createElement(r);t.async=1;t.src='https://www.clarity.ms/tag/'+i;var y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,'clarity','script','sxwbb1ueew');}
+  function apply(a,m){gtag('consent','update',{analytics_storage:a?'granted':'denied',ad_storage:m?'granted':'denied',ad_user_data:m?'granted':'denied',ad_personalization:m?'granted':'denied'});if(a)loadClarity();}
+  window.visienceConsent=function(a,m){try{localStorage.setItem(K,JSON.stringify({a:!!a,m:!!m}));}catch(e){}apply(!!a,!!m);};
+  var p=null;if(c==='granted')p={a:1,m:1};else if(c==='denied')p={a:0,m:0};else if(c){try{p=JSON.parse(c);}catch(e){}}
+  if(p)apply(!!p.a,!!p.m);
+  gtag('js',new Date());gtag('config','GT-MJWWD7S8');
+  var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
+})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","en","social-media",""],"q":"","i":false,"f":[[["",{"children":["en",{"children":["social-media",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1q24nptxkwl6t.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7"]}]]}]]}],{"children":["$L8",{"children":["$L9",{"children":["$La",{},null,false,null]},null,false,"$@b"]},null,false,"$@b"]},null,false,null],"$Lc",false]],"m":"$undefined","G":["$d",["$Le"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"ycGl9jnQBTSVa_S0yZp7A"}
+f:I[36621,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
+15:I[27961,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
+16:I[11015,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
+17:I[39756,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
+18:I[37457,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
+1d:I[97367,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"ViewportBoundary"]
+1f:I[97367,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"MetadataBoundary"]
+20:"$Sreact.suspense"
+10:Tfd5,<header class="nav" id="nav" role="banner">
+  <div class="wrap nav__in">
+    <a href="/" class="nav__logo" aria-label="Visience — Acasă">
+      <img class="nav__logo-img nav__logo-img--light" src="/media/sigla-mark-visience-new-colors.avif"
+           alt="Visience" width="160" height="30" fetchpriority="high">
+      <img class="nav__logo-img nav__logo-img--dark" src="/media/sigla-visience-dark.avif"
+           alt="" aria-hidden="true" width="160" height="30">
+    </a>
+
+    <nav class="nav__links" aria-label="Navigare principală">
+      <div class="nav__has-drop">
+        <a href="/#servicii">Servicii<svg class="nav__drop-ico" viewBox="0 0 10 6" aria-hidden="true"><path d="M1 1l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+        <div class="nav__drop">
+          <a href="/creare-site-prezentare/">Creare site de prezentare</a>
+          <a href="/creare-magazin-online/">Creare magazin online</a>
+          <a href="/branding-identitate-vizuala/">Branding &amp; identitate</a>
+          <a href="/social-media-management/">Social media</a>
+          <a href="/google-meta-ads/">Google &amp; Meta Ads</a>
+          <a href="/optimizare-seo/">SEO &amp; content</a>
+          <a href="/dezvoltare-software/">Dezvoltare software</a>
+          <a href="/marketing-dezvoltatori-imobiliari/">Marketing pentru dezvoltatori</a>
+        </div>
+      </div>
+      <a href="/portofoliu/">Proiecte</a>
+      <a href="/preturi/">Prețuri</a>
+      <a href="/blog/">Blog</a>
+      <a href="/#rezultate">Rezultate</a>
+      <a href="/#despre">Despre</a>
+      <a href="/contact/">Contact</a>
+      <a href="/en/" class="nav__lang" hreflang="en" lang="en" aria-label="View the site in English">EN</a>
+    </nav>
+
+    <a href="/#contact" class="nav__cta">Solicită ofertă</a>
+
+    <button class="nav__burger" id="navBurger"
+            aria-label="Deschide meniul" aria-expanded="false" aria-controls="navMob">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<nav class="nav__mob" id="navMob" aria-label="Meniu mobil">
+  <div class="nm-in">
+    <div class="nm-grup">
+      <button type="button" class="nm-l nm-tog" id="nmServicii" aria-expanded="false" aria-controls="nmSub">
+        Servicii
+        <svg class="nm-tog__i" width="18" height="18" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+          <path d="M5 8l5 5 5-5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
+      <div class="nm-sublista" id="nmSub" hidden>
+        <a href="/creare-site-prezentare/" class="nm-sub">Creare site de prezentare</a>
+        <a href="/creare-magazin-online/" class="nm-sub">Creare magazin online</a>
+        <a href="/branding-identitate-vizuala/" class="nm-sub">Branding &amp; identitate</a>
+        <a href="/social-media-management/" class="nm-sub">Social media</a>
+        <a href="/google-meta-ads/" class="nm-sub">Google &amp; Meta Ads</a>
+        <a href="/optimizare-seo/" class="nm-sub">SEO &amp; content</a>
+        <a href="/dezvoltare-software/" class="nm-sub">Dezvoltare software</a>
+        <a href="/marketing-dezvoltatori-imobiliari/" class="nm-sub">Marketing pentru dezvoltatori</a>
+        <a href="/analiza-de-zona/" class="nm-sub">Analiză de zonă</a>
+      </div>
+    </div>
+
+    <a href="/portofoliu/" class="nm-l">Proiecte</a>
+    <a href="/preturi/"   class="nm-l">Prețuri</a>
+    <a href="/blog/"      class="nm-l">Blog</a>
+    <a href="/#rezultate" class="nm-l">Rezultate</a>
+    <a href="/#despre"    class="nm-l">Despre</a>
+    <a href="/contact/"   class="nm-l">Contact</a>
+    <a href="/en/" class="nm-l" hreflang="en" lang="en">English</a>
+
+    <div class="nm-jos">
+      <a href="/contact/" class="btn btn-solid nm-cta">Solicită ofertă</a>
+      <div class="nm-contact">
+        <a href="tel:+40771486499">+40 771 486 499</a>
+        <a href="mailto:contact@visience.ro">contact@visience.ro</a>
+      </div>
+    </div>
+  </div>
+</nav>
+11:T1f85,<footer class="footer" role="contentinfo">
+  <div class="wrap">
+
+    <div class="footer__grid">
+
+      <div>
+        <div class="footer__logo">
+          <img src="/media/sigla-mark-visience-new-colors.avif"
+               alt="Visience" width="148" height="28" loading="lazy">
+        </div>
+
+        <p class="footer__brand">
+          Agenție de marketing digital cu 12 ani de experiență. Transformăm imaginea companiilor prin branding, website, social media și marketing precis configurat.
+        </p>
+
+        <p class="footer__trust">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M20 6 9 17l-5-5"/>
+          </svg>
+          Prețuri publice, fără costuri ascunse — <a href="/preturi/">vezi prețurile</a>.
+        </p>
+
+        <div class="footer__contact">
+          <a href="tel:+40771486499">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.67A2 2 0 012 .92h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L6.91 8.09a16 16 0 006 6l1.27-.83a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/>
+            </svg>
+            +40 771 486 499
+          </a>
+          <a href="mailto:contact@visience.ro">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+              <polyline points="22,6 12,13 2,6"/>
+            </svg>
+            contact@visience.ro
+          </a>
+        </div>
+
+        <div class="footer__social">
+          <a href="https://www.facebook.com/visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience pe Facebook">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M24 12c0-6.63-5.37-12-12-12S0 5.37 0 12c0 5.99 4.39 10.95 10.13 11.85v-8.38H7.08V12h3.05V9.36c0-3.01 1.79-4.67 4.53-4.67 1.31 0 2.69.23 2.69.23v2.96h-1.52c-1.49 0-1.96.93-1.96 1.88V12h3.33l-.53 3.47h-2.8v8.38C19.61 22.95 24 17.99 24 12z"/>
+            </svg>
+          </a>
+          <a href="https://www.instagram.com/visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience pe Instagram">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M12 2.16c3.2 0 3.58.01 4.85.07 1.17.05 1.8.25 2.23.41.56.22.96.48 1.38.9.42.42.68.82.9 1.38.16.42.36 1.06.41 2.23.06 1.27.07 1.65.07 4.85s-.01 3.58-.07 4.85c-.05 1.17-.25 1.8-.41 2.23-.22.56-.48.96-.9 1.38-.42.42-.82.68-1.38.9-.42.16-1.06.36-2.23.41-1.27.06-1.65.07-4.85.07s-3.58-.01-4.85-.07c-1.17-.05-1.8-.25-2.23-.41-.56-.22-.96-.48-1.38-.9-.42-.42-.68-.82-.9-1.38-.16-.42-.36-1.06-.41-2.23C2.17 15.58 2.16 15.2 2.16 12s.01-3.58.07-4.85c.05-1.17.25-1.8.41-2.23.22-.56.48-.96.9-1.38.42-.42.82-.68 1.38-.9.42-.16 1.06-.36 2.23-.41C8.42 2.17 8.8 2.16 12 2.16M12 0C8.74 0 8.33.01 7.05.07 5.78.13 4.9.33 4.14.63c-.79.3-1.46.72-2.12 1.38C1.35 2.68.94 3.35.63 4.14.33 4.9.13 5.78.07 7.05.01 8.33 0 8.74 0 12s.01 3.67.07 4.95c.06 1.27.26 2.15.56 2.91.3.79.72 1.46 1.38 2.12.66.66 1.33 1.08 2.12 1.38.76.3 1.64.5 2.91.56C8.33 23.99 8.74 24 12 24s3.67-.01 4.95-.07c1.27-.06 2.15-.26 2.91-.56.79-.3 1.46-.72 2.12-1.38.66-.66 1.08-1.33 1.38-2.12.3-.76.5-1.64.56-2.91.06-1.28.07-1.69.07-4.95s-.01-3.67-.07-4.95c-.06-1.27-.26-2.15-.56-2.91-.3-.79-.72-1.46-1.38-2.12C21.32 1.35 20.65.94 19.86.63 19.1.33 18.22.13 16.95.07 15.67.01 15.26 0 12 0z"/>
+              <path d="M12 5.84A6.16 6.16 0 1 0 18.16 12 6.16 6.16 0 0 0 12 5.84zM12 16a4 4 0 1 1 4-4 4 4 0 0 1-4 4z"/>
+              <circle cx="18.41" cy="5.59" r="1.44"/>
+            </svg>
+          </a>
+          <a href="https://www.tiktok.com/@visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience pe TikTok">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M16.6 5.82A4.28 4.28 0 0 1 15.54 3h-3.09v12.4a2.59 2.59 0 0 1-2.59 2.5 2.59 2.59 0 0 1 0-5.18c.27 0 .52.04.76.12v-3.2a5.79 5.79 0 0 0-.76-.05 5.69 5.69 0 1 0 5.69 5.69V9.01a7.35 7.35 0 0 0 4.29 1.37V7.3a4.29 4.29 0 0 1-3.24-1.48z"/>
+            </svg>
+          </a>
+        </div>
+
+        <div class="footer__anpc">
+          <a class="anpc-b" href="https://anpc.ro/" target="_blank" rel="noopener noreferrer"
+             aria-label="ANPC — Autoritatea Națională pentru Protecția Consumatorilor">
+            <img src="https://anpc.ro/wp-content/themes/anpc/img/anpc_logo.png"
+                 alt="ANPC" width="50" height="18" loading="lazy"
+                 onerror="this.style.display='none'">
+            ANPC
+          </a>
+          <a class="anpc-b" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage"
+             target="_blank" rel="noopener noreferrer"
+             aria-label="SOL — Soluționare Online a Litigiilor">
+            SOL
+          </a>
+        </div>
+      </div>
+
+      <nav aria-label="Servicii">
+        <div class="footer__col-title">Servicii</div>
+        <ul class="footer__links">
+          <li><a href="/creare-site-prezentare/">Creare site de prezentare</a></li>
+          <li><a href="/creare-site-prezentare-iasi/">Creare site de prezentare Iași</a></li>
+          <li><a href="/creare-site-prezentare-bacau/">Creare site de prezentare Bacău</a></li>
+          <li><a href="/creare-site-prezentare-bucuresti/">Creare site de prezentare București</a></li>
+          <li><a href="/creare-magazin-online/">Creare magazin online</a></li>
+          <li><a href="/branding-identitate-vizuala/">Branding &amp; identitate</a></li>
+          <li><a href="/social-media-management/">Social Media</a></li>
+          <li><a href="/google-meta-ads/">Google &amp; Meta Ads</a></li>
+          <li><a href="/optimizare-seo/">SEO &amp; Content</a></li>
+          <li><a href="/dezvoltare-software/">Dezvoltare software</a></li>
+          <li><a href="/marketing-dezvoltatori-imobiliari/">Marketing pentru dezvoltatori</a></li>
+          <li><a href="/marketing-imobiliar-iasi/">Marketing imobiliar Iași</a></li>
+            <li><a href="/analiza-de-zona/">Analiză de zonă</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Companie">
+        <div class="footer__col-title">Companie</div>
+        <ul class="footer__links">
+          <li><a href="/portofoliu/">Portofoliu</a></li>
+          <li><a href="/parteneri/">Parteneri</a></li>
+          <li><a href="/blog/">Blog</a></li>
+          <li><a href="/preturi/">Prețuri</a></li>
+          <li><a href="/#rezultate">Studii de caz</a></li>
+          <li><a href="/#despre">Despre noi</a></li>
+          <li><a href="/contact/">Contact</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Legal">
+        <div class="footer__col-title">Legal &amp; GDPR</div>
+        <ul class="footer__links">
+          <li><a href="/termeni-si-conditii/">Termeni și Condiții</a></li>
+          <li><a href="/politica-de-confidentialitate/">Politică Confidențialitate</a></li>
+          <li><a href="/politica-cookies/">Politică Cookies</a></li>
+        </ul>
+      </nav>
+
+    </div>
+
+    <div class="footer__bottom">
+      <div class="footer__bottom-in">
+        <p class="footer__copy">
+          © 2026 Visience Creative Experience SRL · Toate drepturile rezervate
+        </p>
+        <div class="footer__legal">
+          <a href="/termeni-si-conditii/">Termeni</a>
+          <a href="/politica-de-confidentialitate/">Confidențialitate</a>
+          <a href="/politica-cookies/">Cookies</a>
+          <a href="/gdpr/">GDPR</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</footer>
+12:Te9a,<header class="nav" id="nav" role="banner">
+  <div class="wrap nav__in">
+    <a href="/en/" class="nav__logo" aria-label="Visience — Home">
+      <img class="nav__logo-img nav__logo-img--light" src="/media/sigla-mark-visience-new-colors.avif"
+           alt="Visience" width="160" height="30" fetchpriority="high">
+      <img class="nav__logo-img nav__logo-img--dark" src="/media/sigla-visience-dark.avif"
+           alt="" aria-hidden="true" width="160" height="30">
+    </a>
+
+    <nav class="nav__links" aria-label="Main navigation">
+      <div class="nav__has-drop">
+        <a href="/en/#services">Services<svg class="nav__drop-ico" viewBox="0 0 10 6" aria-hidden="true"><path d="M1 1l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+        <div class="nav__drop">
+          <a href="/en/web-design/">Website design</a>
+          <a href="/en/online-store/">Online stores</a>
+          <a href="/en/branding/">Branding &amp; identity</a>
+          <a href="/en/social-media/">Social media</a>
+          <a href="/en/google-meta-ads/">Google &amp; Meta Ads</a>
+          <a href="/en/seo/">SEO &amp; content</a>
+          <a href="/en/software-development/">Software development</a>
+          <a href="/en/real-estate-marketing/">Real estate marketing</a>
+        </div>
+      </div>
+      <a href="/en/portfolio/">Work</a>
+      <a href="/en/pricing/">Pricing</a>
+      <a href="/en/#results">Results</a>
+      <a href="/en/#about">About</a>
+      <a href="/en/contact/">Contact</a>
+      <a href="/" class="nav__lang" hreflang="ro" lang="ro" aria-label="Vezi site-ul în română">RO</a>
+    </nav>
+
+    <a href="/en/contact/" class="nav__cta">Get a quote</a>
+
+    <button class="nav__burger" id="navBurger"
+            aria-label="Open menu" aria-expanded="false" aria-controls="navMob">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<nav class="nav__mob" id="navMob" aria-label="Mobile menu">
+  <div class="nm-in">
+    <div class="nm-grup">
+      <button type="button" class="nm-l nm-tog" id="nmServicii" aria-expanded="false" aria-controls="nmSub">
+        Services
+        <svg class="nm-tog__i" width="18" height="18" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+          <path d="M5 8l5 5 5-5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
+      <div class="nm-sublista" id="nmSub" hidden>
+        <a href="/en/web-design/" class="nm-sub">Website design</a>
+        <a href="/en/online-store/" class="nm-sub">Online stores</a>
+        <a href="/en/branding/" class="nm-sub">Branding &amp; identity</a>
+        <a href="/en/social-media/" class="nm-sub">Social media</a>
+        <a href="/en/google-meta-ads/" class="nm-sub">Google &amp; Meta Ads</a>
+        <a href="/en/seo/" class="nm-sub">SEO &amp; content</a>
+        <a href="/en/software-development/" class="nm-sub">Software development</a>
+        <a href="/en/real-estate-marketing/" class="nm-sub">Real estate marketing</a>
+      </div>
+    </div>
+
+    <a href="/en/portfolio/" class="nm-l">Work</a>
+    <a href="/en/pricing/"   class="nm-l">Pricing</a>
+    <a href="/en/#results"   class="nm-l">Results</a>
+    <a href="/en/#about"     class="nm-l">About</a>
+    <a href="/en/contact/"   class="nm-l">Contact</a>
+    <a href="/" class="nm-l" hreflang="ro" lang="ro">Română</a>
+
+    <div class="nm-jos">
+      <a href="/en/contact/" class="btn btn-solid nm-cta">Get a quote</a>
+      <div class="nm-contact">
+        <a href="tel:+40771486499">+40 771 486 499</a>
+        <a href="mailto:contact@visience.ro">contact@visience.ro</a>
+      </div>
+    </div>
+  </div>
+</nav>
+13:T19e3,<footer class="footer" role="contentinfo">
+  <div class="wrap">
+
+    <div class="footer__grid">
+
+      <div>
+        <div class="footer__logo">
+          <img src="/media/sigla-mark-visience-new-colors.avif"
+               alt="Visience" width="148" height="28" loading="lazy">
+        </div>
+
+        <p class="footer__brand">
+          A digital marketing studio with 12 years behind it. We build the brand, the website and the campaigns that bring enquiries — and we measure every one of them.
+        </p>
+
+        <p class="footer__trust">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M20 6 9 17l-5-5"/>
+          </svg>
+          Prices published, nothing hidden — <a href="/en/pricing/">see the price list</a>.
+        </p>
+
+        <div class="footer__contact">
+          <a href="tel:+40771486499">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.67A2 2 0 012 .92h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L6.91 8.09a16 16 0 006 6l1.27-.83a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/>
+            </svg>
+            +40 771 486 499
+          </a>
+          <a href="mailto:contact@visience.ro">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+              <polyline points="22,6 12,13 2,6"/>
+            </svg>
+            contact@visience.ro
+          </a>
+        </div>
+
+        <div class="footer__social">
+          <a href="https://www.facebook.com/visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience on Facebook">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M24 12c0-6.63-5.37-12-12-12S0 5.37 0 12c0 5.99 4.39 10.95 10.13 11.85v-8.38H7.08V12h3.05V9.36c0-3.01 1.79-4.67 4.53-4.67 1.31 0 2.69.23 2.69.23v2.96h-1.52c-1.49 0-1.96.93-1.96 1.88V12h3.33l-.53 3.47h-2.8v8.38C19.61 22.95 24 17.99 24 12z"/>
+            </svg>
+          </a>
+          <a href="https://www.instagram.com/visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience on Instagram">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M12 2.16c3.2 0 3.58.01 4.85.07 1.17.05 1.8.25 2.23.41.56.22.96.48 1.38.9.42.42.68.82.9 1.38.16.42.36 1.06.41 2.23.06 1.27.07 1.65.07 4.85s-.01 3.58-.07 4.85c-.05 1.17-.25 1.8-.41 2.23-.22.56-.48.96-.9 1.38-.42.42-.82.68-1.38.9-.42.16-1.06.36-2.23.41-1.27.06-1.65.07-4.85.07s-3.58-.01-4.85-.07c-1.17-.05-1.8-.25-2.23-.41-.56-.22-.96-.48-1.38-.9-.42-.42-.68-.82-.9-1.38-.16-.42-.36-1.06-.41-2.23C2.17 15.58 2.16 15.2 2.16 12s.01-3.58.07-4.85c.05-1.17.25-1.8.41-2.23.22-.56.48-.96.9-1.38.42-.42.82-.68 1.38-.9.42-.16 1.06-.36 2.23-.41C8.42 2.17 8.8 2.16 12 2.16M12 0C8.74 0 8.33.01 7.05.07 5.78.13 4.9.33 4.14.63c-.79.3-1.46.72-2.12 1.38C1.35 2.68.94 3.35.63 4.14.33 4.9.13 5.78.07 7.05.01 8.33 0 8.74 0 12s.01 3.67.07 4.95c.06 1.27.26 2.15.56 2.91.3.79.72 1.46 1.38 2.12.66.66 1.33 1.08 2.12 1.38.76.3 1.64.5 2.91.56C8.33 23.99 8.74 24 12 24s3.67-.01 4.95-.07c1.27-.06 2.15-.26 2.91-.56.79-.3 1.46-.72 2.12-1.38.66-.66 1.08-1.33 1.38-2.12.3-.76.5-1.64.56-2.91.06-1.28.07-1.69.07-4.95s-.01-3.67-.07-4.95c-.06-1.27-.26-2.15-.56-2.91-.3-.79-.72-1.46-1.38-2.12C21.32 1.35 20.65.94 19.86.63 19.1.33 18.22.13 16.95.07 15.67.01 15.26 0 12 0z"/>
+              <path d="M12 5.84A6.16 6.16 0 1 0 18.16 12 6.16 6.16 0 0 0 12 5.84zM12 16a4 4 0 1 1 4-4 4 4 0 0 1-4 4z"/>
+              <circle cx="18.41" cy="5.59" r="1.44"/>
+            </svg>
+          </a>
+          <a href="https://www.tiktok.com/@visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience on TikTok">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M16.6 5.82A4.28 4.28 0 0 1 15.54 3h-3.09v12.4a2.59 2.59 0 0 1-2.59 2.5 2.59 2.59 0 0 1 0-5.18c.27 0 .52.04.76.12v-3.2a5.79 5.79 0 0 0-.76-.05 5.69 5.69 0 1 0 5.69 5.69V9.01a7.35 7.35 0 0 0 4.29 1.37V7.3a4.29 4.29 0 0 1-3.24-1.48z"/>
+            </svg>
+          </a>
+        </div>
+      </div>
+
+      <nav aria-label="Services">
+        <div class="footer__col-title">Services</div>
+        <ul class="footer__links">
+          <li><a href="/en/web-design/">Website design</a></li>
+          <li><a href="/en/online-store/">Online stores</a></li>
+          <li><a href="/en/branding/">Branding &amp; identity</a></li>
+          <li><a href="/en/social-media/">Social media</a></li>
+          <li><a href="/en/google-meta-ads/">Google &amp; Meta Ads</a></li>
+          <li><a href="/en/seo/">SEO &amp; content</a></li>
+          <li><a href="/en/software-development/">Software development</a></li>
+          <li><a href="/en/real-estate-marketing/">Real estate marketing</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Company">
+        <div class="footer__col-title">Company</div>
+        <ul class="footer__links">
+          <li><a href="/en/portfolio/">Work</a></li>
+          <li><a href="/en/pricing/">Pricing</a></li>
+          <li><a href="/en/#results">Case studies</a></li>
+          <li><a href="/en/#about">About us</a></li>
+          <li><a href="/en/contact/">Contact</a></li>
+          <li><a href="/" hreflang="ro" lang="ro">Site în română</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Legal">
+        <div class="footer__col-title">Legal &amp; GDPR</div>
+        <ul class="footer__links">
+          <li><a href="/en/terms/">Terms &amp; conditions</a></li>
+          <li><a href="/en/privacy/">Privacy policy</a></li>
+          <li><a href="/en/cookies/">Cookie policy</a></li>
+        </ul>
+      </nav>
+
+    </div>
+
+    <div class="footer__bottom">
+      <div class="footer__bottom-in">
+        <p class="footer__copy">
+          © 2026 Visience Creative Experience SRL · All rights reserved
+        </p>
+        <div class="footer__legal">
+          <a href="/en/terms/">Terms</a>
+          <a href="/en/privacy/">Privacy</a>
+          <a href="/en/cookies/">Cookies</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</footer>
+5:["$","$Lf",null,{"headerRo":"$10","footerRo":"$11","headerEn":"$12","footerEn":"$13","children":"$L14"}]
+6:["$","$L15",null,{}]
+7:["$","$L16",null,{}]
+8:["$","$1","c",{"children":[null,["$","$L17",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":[null,["$","$L17",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+19:Tb9b,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/en/social-media/#service","name":"Social media management","serviceType":"Social media marketing","inLanguage":"en","provider":{"@type":"Organization","name":"Visience","url":"https://visience.ro/en/"},"areaServed":["US","RO","IT","FR","DE"],"offers":[{"@type":"Offer","priceCurrency":"USD","price":"350","itemOffered":{"@type":"Service","name":"Posts Basic, 8 posts a month"}},{"@type":"Offer","priceCurrency":"USD","price":"520","itemOffered":{"@type":"Service","name":"Posts Standard, 15 posts a month"}},{"@type":"Offer","priceCurrency":"USD","price":"810","itemOffered":{"@type":"Service","name":"Full SMM, 30 posts and full account management"}},{"@type":"Offer","priceCurrency":"USD","price":"600","itemOffered":{"@type":"Service","name":"SMM Strategy, one-off"}},{"@type":"Offer","priceCurrency":"USD","price":"350","itemOffered":{"@type":"Service","name":"Influencer research, one-off"}}]},{"@type":"FAQPage","@id":"https://visience.ro/en/social-media/#faq","mainEntity":[{"@type":"Question","name":"Which networks do you work on?","acceptedAnswer":{"@type":"Answer","text":"Facebook, Instagram, TikTok and LinkedIn. We recommend the right ones for the audience and the kind of business, and settle the mix at the strategy stage."}},{"@type":"Question","name":"What does a post include?","acceptedAnswer":{"@type":"Answer","text":"Copy written for the brand, the graphic design or working up existing material, the relevant hashtags and scheduling at the right hour. Full-management packages add strategic comments and interaction with followers."}},{"@type":"Question","name":"How long until results show?","acceptedAnswer":{"@type":"Answer","text":"The first signs, higher interaction and follower growth, usually appear within 1 to 2 months. Solid results in community and awareness settle over 3 to 6 months of steady presence."}},{"@type":"Question","name":"Is there a minimum contract?","acceptedAnswer":{"@type":"Answer","text":"The monthly packages work best with a commitment of a few months, because results come from consistency. The actual terms are agreed at the start, with no surprise clauses."}},{"@type":"Question","name":"Do you produce the photo and video content too?","acceptedAnswer":{"@type":"Answer","text":"We do the graphic design and work up material you provide. For a dedicated photo shoot or video production we coordinate with our partners and quote it separately."}},{"@type":"Question","name":"How do you report results?","acceptedAnswer":{"@type":"Answer","text":"A clear monthly report with follower growth, engagement, post reach and which content performed best. Full SMM adds a 1:1 consulting call."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visience.ro/en/"},{"@type":"ListItem","position":2,"name":"Social media","item":"https://visience.ro/en/social-media/"}]}]}1a:T84f1,<style>
+.sm-hero {
+  position: relative;
+  padding: calc(var(--nav-h) + 90px) 0 90px;
+  background: var(--cream);
+  overflow: hidden;
+}
+.sm-hero__inner {
+  display: grid;
+  grid-template-columns: 1.15fr 1fr;
+  gap: 70px;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+}
+.sm-hero__breadcrumbs {
+  font-family: var(--f-m);
+  font-size: 11px;
+  color: var(--mid);
+  letter-spacing: .06em;
+  margin-bottom: 24px;
+}
+.sm-hero__breadcrumbs a       { color: var(--mid); transition: color .2s; }
+.sm-hero__breadcrumbs a:hover { color: var(--acc-deep); }
+.sm-hero__breadcrumbs .sep    { margin: 0 10px; opacity: .4; }
+
+.sm-hero__h1 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(38px, 5.2vw, 70px);
+  line-height: .98;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 26px;
+}
+.sm-hero__h1 .acc {
+  background: var(--acc);
+  color: var(--acc-ink);
+  padding: 0 12px 4px;
+  border-radius: 10px;
+  display: inline-block;
+  line-height: 1.05;
+}
+.sm-hero__lead {
+  font-size: 17px;
+  line-height: 1.78;
+  color: var(--mid);
+  margin-bottom: 32px;
+  font-weight: 300;
+  max-width: 540px;
+}
+
+.sm-hero__pts {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-bottom: 36px;
+  max-width: 540px;
+}
+.sm-pt {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 14px;
+  color: var(--ink);
+  font-weight: 500;
+}
+.sm-pt-dot {
+  width: 18px; height: 18px;
+  background: var(--acc);
+  color: var(--acc-ink);
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 10px; font-weight: 700;
+  flex-shrink: 0; margin-top: 2px;
+}
+
+.sm-hero__cta {
+  display: flex; gap: 10px; flex-wrap: wrap;
+}
+
+.sm-hero__visual {
+  position: relative;
+  height: 480px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sm-phone {
+  position: relative;
+  width: 100%;
+  max-width: 320px;
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 28px;
+  padding: 18px 16px 20px;
+  box-shadow: 0 30px 80px rgba(17,16,16,.10);
+  z-index: 2;
+}
+.sm-phone__top {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 14px;
+}
+.sm-phone__avatar {
+  width: 34px; height: 34px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--acc) 0%, var(--acc2) 100%);
+  flex-shrink: 0;
+}
+.sm-phone__handle {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.sm-phone__name {
+  font-size: 12px; font-weight: 700; color: var(--ink);
+}
+.sm-phone__tag {
+  font-family: var(--f-m);
+  font-size: 10px; color: var(--light);
+}
+.sm-phone__post {
+  height: 150px;
+  border-radius: 14px;
+  background-image: radial-gradient(circle, rgba(155,195,26,.18) 1px, transparent 1px);
+  background-size: 16px 16px;
+  background-color: var(--cream2);
+  border: 1px solid var(--border);
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 14px;
+}
+.sm-phone__post::after {
+  content: '';
+  position: absolute;
+  top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+  width: 52px; height: 52px;
+  background: var(--acc);
+  opacity: .35;
+  border-radius: 14px;
+}
+.sm-phone__actions {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  margin-bottom: 14px;
+  color: var(--mid);
+  font-size: 15px;
+}
+.sm-phone__actions .sm-heart { color: var(--acc-deep); }
+.sm-phone__stats {
+  display: flex;
+  gap: 10px;
+}
+.sm-phone__stat {
+  flex: 1;
+  background: var(--cream);
+  border-radius: 10px;
+  padding: 10px 12px;
+}
+.sm-phone__stat-num {
+  font-family: var(--f-d);
+  font-size: 16px; font-weight: 800;
+  color: var(--acc-deep);
+  letter-spacing: -.02em;
+  line-height: 1;
+  margin-bottom: 4px;
+}
+.sm-phone__stat-lbl {
+  font-family: var(--f-m);
+  font-size: 8px;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--mid);
+}
+
+
+.sm-intro {
+  background: var(--white);
+  padding: 90px 0;
+  position: relative;
+}
+.sm-intro__inner {
+  max-width: 880px;
+  margin: 0 auto;
+}
+.sm-intro h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(28px, 3.5vw, 44px);
+  line-height: 1.1;
+  letter-spacing: -.025em;
+  color: var(--ink);
+  margin: 56px 0 18px;
+}
+.sm-intro h2:first-child { margin-top: 0; }
+.sm-intro p {
+  font-size: 16px;
+  line-height: 1.84;
+  color: var(--mid);
+  font-weight: 300;
+  margin-bottom: 16px;
+}
+.sm-intro p strong { color: var(--ink); font-weight: 600; }
+.sm-intro p a       { color: var(--acc-deep); border-bottom: 1px solid var(--acc); transition: opacity .2s; }
+.sm-intro p a:hover { opacity: .65; }
+
+
+.sm-incl {
+  padding: 100px 0;
+  background: var(--cream);
+}
+.sm-incl__head {
+  max-width: 760px;
+  margin: 0 auto 56px;
+  text-align: center;
+}
+.sm-incl__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(30px, 4vw, 52px);
+  line-height: 1.04;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 16px;
+}
+.sm-incl__h2 .acc { color: var(--acc-deep); }
+.sm-incl__sub {
+  font-size: 16px; line-height: 1.8;
+  color: var(--mid); font-weight: 300;
+}
+.sm-incl__grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+.sm-card {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 32px 26px 30px;
+  transition: .3s;
+}
+.sm-card:hover {
+  border-color: rgba(155,195,26,.3);
+  transform: translateY(-4px);
+  box-shadow: 0 18px 36px rgba(17,16,16,.06);
+}
+.sm-card__ico {
+  width: 48px; height: 48px;
+  border-radius: 12px;
+  background: var(--acc-bg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 22px;
+  color: var(--acc-deep);
+  font-size: 20px;
+  transition: .3s;
+}
+.sm-card:hover .sm-card__ico {
+  background: var(--acc);
+  color: var(--acc-ink);
+}
+.sm-card h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.015em;
+  margin: 0 0 12px;
+  line-height: 1.2;
+  color: var(--ink);
+}
+.sm-card p {
+  font-size: 13px;
+  color: var(--mid);
+  line-height: 1.7;
+  font-weight: 300;
+  margin: 0;
+}
+
+
+.sm-prices {
+  padding: 100px 0;
+  background: var(--white);
+}
+.sm-prices__head {
+  text-align: center;
+  max-width: 720px;
+  margin: 0 auto 56px;
+}
+.sm-prices__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(34px, 4.5vw, 60px);
+  line-height: 1.0;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 18px;
+}
+.sm-prices__h2 .acc { color: var(--acc-deep); }
+.sm-prices__sub {
+  font-size: 16px; line-height: 1.8;
+  color: var(--mid); font-weight: 300;
+}
+
+.sm-pkg-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  align-items: stretch;
+}
+.sm-pkg {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 36px 32px 32px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  transition: .3s;
+}
+.sm-pkg:hover {
+  border-color: rgba(155,195,26,.3);
+  transform: translateY(-6px);
+  box-shadow: 0 20px 48px rgba(155,195,26,.08);
+}
+.sm-pkg.featured {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--white);
+}
+.sm-pkg.featured:hover { box-shadow: 0 24px 56px rgba(17,16,16,.2); }
+.sm-pkg__badge {
+  position: absolute;
+  top: -12px; left: 50%;
+  transform: translateX(-50%);
+  background: var(--acc);
+  color: var(--acc-ink);
+  font-family: var(--f-m);
+  font-size: 9px;
+  font-weight: 500;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  padding: 5px 14px;
+  border-radius: 100px;
+}
+.sm-pkg__name {
+  font-family: var(--f-m);
+  font-size: 11px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--mid);
+  margin-bottom: 8px;
+}
+.sm-pkg.featured .sm-pkg__name { color: rgba(255,255,255,.5); }
+.sm-pkg__price {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(34px, 3.8vw, 48px);
+  letter-spacing: -.04em;
+  line-height: 1;
+  color: var(--acc-deep);
+  margin-bottom: 4px;
+}
+.sm-pkg__price .per {
+  font-family: var(--f-m);
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0;
+  color: var(--mid);
+}
+.sm-pkg.featured .sm-pkg__price .per { color: rgba(255,255,255,.5); }
+.sm-pkg__price-note {
+  font-size: 12px;
+  color: var(--light);
+  margin-bottom: 22px;
+}
+.sm-pkg.featured .sm-pkg__price-note { color: rgba(255,255,255,.4); }
+.sm-pkg__desc {
+  font-size: 14px;
+  line-height: 1.7;
+  color: var(--mid);
+  margin-bottom: 26px;
+  font-weight: 300;
+  padding-bottom: 22px;
+  border-bottom: 1px solid var(--border);
+}
+.sm-pkg.featured .sm-pkg__desc {
+  color: rgba(255,255,255,.55);
+  border-bottom-color: rgba(255,255,255,.1);
+}
+.sm-pkg__feats {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 28px;
+  flex: 1;
+}
+.sm-pkg__feat {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 13px;
+  line-height: 1.55;
+  color: var(--ink);
+}
+.sm-pkg.featured .sm-pkg__feat { color: rgba(255,255,255,.85); }
+.sm-pkg__feat-tick {
+  color: var(--acc-deep);
+  flex-shrink: 0;
+  margin-top: 2px;
+  font-weight: 700;
+}
+
+.sm-extra {
+  max-width: 760px;
+  margin: 36px auto 0;
+  display: flex;
+  align-items: center;
+  gap: 22px;
+  background: var(--cream);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 26px 30px;
+}
+.sm-extra__ico {
+  width: 50px; height: 50px;
+  flex-shrink: 0;
+  border-radius: 14px;
+  background: var(--acc-bg);
+  color: var(--acc-deep);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+}
+.sm-extra__body { flex: 1; }
+.sm-extra__title {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: -.01em;
+  color: var(--ink);
+  margin-bottom: 4px;
+}
+.sm-extra__txt {
+  font-size: 13px;
+  line-height: 1.65;
+  color: var(--mid);
+  font-weight: 300;
+}
+.sm-extra__price {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: 24px;
+  letter-spacing: -.03em;
+  color: var(--acc-deep);
+  flex-shrink: 0;
+}
+
+
+.sm-process {
+  padding: 100px 0;
+  background: var(--cream2);
+}
+.sm-process__head {
+  max-width: 700px;
+  margin: 0 auto 56px;
+  text-align: center;
+}
+.sm-process__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(30px, 4vw, 50px);
+  line-height: 1.04;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 16px;
+}
+.sm-process__h2 .acc { color: var(--acc-deep); }
+.sm-process__sub {
+  font-size: 16px; line-height: 1.8;
+  color: var(--mid); font-weight: 300;
+}
+.sm-process__list {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+.sm-step {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 30px 28px;
+  transition: .3s;
+}
+.sm-step:hover {
+  border-color: rgba(155,195,26,.3);
+  transform: translateY(-4px);
+  box-shadow: 0 14px 28px rgba(17,16,16,.06);
+}
+.sm-step__n {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: 36px;
+  color: var(--acc-deep);
+  letter-spacing: -.03em;
+  line-height: 1;
+  margin-bottom: 14px;
+}
+.sm-step h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.015em;
+  margin: 0 0 10px;
+  color: var(--ink);
+  line-height: 1.2;
+}
+.sm-step p {
+  font-size: 13px;
+  color: var(--mid);
+  line-height: 1.7;
+  font-weight: 300;
+  margin: 0;
+}
+
+
+.sm-faq {
+  padding: 100px 0;
+  background: var(--white);
+}
+.sm-faq__head {
+  text-align: center;
+  max-width: 640px;
+  margin: 0 auto 50px;
+}
+.sm-faq__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(28px, 3.6vw, 44px);
+  line-height: 1.06;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 16px;
+}
+.sm-faq__h2 .acc { color: var(--acc-deep); }
+.sm-faq__list {
+  max-width: 860px;
+  margin: 0 auto;
+  border-top: 1px solid var(--border);
+}
+.sm-faq-item {
+  border-bottom: 1px solid var(--border);
+  padding: 24px 0;
+}
+.sm-faq-item summary {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.01em;
+  color: var(--ink);
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding-right: 8px;
+  transition: color .22s;
+}
+.sm-faq-item summary::-webkit-details-marker { display: none; }
+.sm-faq-item summary::after {
+  content: '+';
+  font-family: var(--f-d);
+  font-size: 26px;
+  font-weight: 300;
+  color: var(--acc-deep);
+  transition: transform .3s;
+  flex-shrink: 0;
+  line-height: 1;
+}
+.sm-faq-item[open] summary::after { transform: rotate(45deg); }
+.sm-faq-item:hover summary { color: var(--acc-deep); }
+.sm-faq-item p {
+  margin-top: 14px;
+  font-size: 14px;
+  color: var(--mid);
+  line-height: 1.75;
+  font-weight: 300;
+  max-width: 740px;
+}
+
+
+.sm-cta {
+  padding: 110px 0;
+  background: var(--ink);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.sm-cta::before {
+  content: '';
+  position: absolute;
+  top: -100px; right: -100px;
+  width: 420px; height: 420px;
+  background: radial-gradient(circle, rgba(155,195,26,.22) 0%, transparent 70%);
+  pointer-events: none;
+}
+.sm-cta > .wrap { position: relative; z-index: 1; }
+.sm-cta__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(34px, 5vw, 64px);
+  line-height: 1.0;
+  letter-spacing: -.03em;
+  color: var(--white);
+  margin-bottom: 20px;
+}
+.sm-cta__h2 .acc {
+  background: linear-gradient(135deg, var(--acc) 0%, var(--acc2) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.sm-cta__p {
+  font-size: 16px;
+  color: rgba(255,255,255,.5);
+  font-weight: 300;
+  max-width: 540px;
+  margin: 0 auto 32px;
+  line-height: 1.78;
+}
+.sm-cta__btns {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 1024px) {
+  .sm-hero { padding: calc(var(--nav-h) + 60px) 0 70px; }
+  .sm-hero__inner { grid-template-columns: 1fr; gap: 50px; }
+  .sm-hero__visual { height: 420px; order: -1; }
+  .sm-intro { padding: 70px 0; }
+  .sm-incl { padding: 80px 0; }
+  .sm-incl__grid { grid-template-columns: repeat(2, 1fr); }
+  .sm-prices { padding: 80px 0; }
+  .sm-pkg-grid { grid-template-columns: 1fr; gap: 20px; max-width: 480px; margin: 0 auto; }
+  .sm-pkg.featured { transform: none; }
+  .sm-extra { flex-direction: column; text-align: center; gap: 16px; }
+  .sm-process { padding: 70px 0; }
+  .sm-process__list { grid-template-columns: repeat(2, 1fr); }
+  .sm-faq { padding: 70px 0; }
+  .sm-cta { padding: 80px 0; }
+}
+
+@media (max-width: 640px) {
+  .sm-hero__pts { grid-template-columns: 1fr; }
+  .sm-hero__cta { flex-direction: column; }
+  .sm-hero__cta .btn { justify-content: center; }
+  .sm-incl__grid { grid-template-columns: 1fr; }
+  .sm-pkg { padding: 28px 24px 26px; }
+  .sm-process__list { grid-template-columns: 1fr; }
+  .sm-faq-item summary { font-size: 15px; }
+}
+</style>
+
+
+<main id="main">
+
+<section class="sm-hero" aria-labelledby="sm-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="20%" x2="100%" y2="60%"/>
+      <line x1="0" y1="50%" x2="100%" y2="90%"/>
+      <line x1="0" y1="80%" x2="100%" y2="30%"/>
+      <line x1="25%" y1="0" x2="75%" y2="100%"/>
+      <line x1="60%" y1="0" x2="10%" y2="100%"/>
+    </svg>
+  </div>
+
+  <div class="wrap">
+    <div class="sm-hero__inner">
+
+      <div class="rv">
+        <nav class="sm-hero__breadcrumbs" aria-label="Breadcrumbs">
+          <a href="/en/">Home</a>
+          <span class="sep">/</span>
+          <a href="/en/#services">Services</a>
+          <span class="sep">/</span>
+          <span>Social media management</span>
+        </nav>
+
+
+        <h1 class="sm-hero__h1" id="sm-h1">
+          Social accounts<br>
+          <span class="acc">that pull their weight.</span>
+        </h1>
+
+        <p class="sm-hero__lead">
+          We run your presence on Facebook, Instagram, TikTok and LinkedIn end to end: strategy, content, posting and replying to the community. One consistent brand voice that builds trust and brings customers, not just likes.
+        </p>
+
+        <div class="sm-hero__pts">
+          <div class="sm-pt"><span class="sm-pt-dot">✓</span><span>12-month content calendar</span></div>
+          <div class="sm-pt"><span class="sm-pt-dot">✓</span><span>Professional copy &amp; design</span></div>
+          <div class="sm-pt"><span class="sm-pt-dot">✓</span><span>Community management</span></div>
+          <div class="sm-pt"><span class="sm-pt-dot">✓</span><span>Monthly results report</span></div>
+        </div>
+
+        <div class="sm-hero__cta">
+          <a href="/en/contact/" class="btn btn-solid">Ask for a quote</a>
+          <a href="tel:+40771486499" class="btn btn-ghost">+40 771 486 499</a>
+        </div>
+      </div>
+
+      <div class="sm-hero__visual rv rv-d2">
+        <div class="sm-phone" aria-hidden="true">
+          <div class="sm-phone__top">
+            <span class="sm-phone__avatar"></span>
+            <span class="sm-phone__handle">
+              <span class="sm-phone__name">your.brand</span>
+              <span class="sm-phone__tag">Scheduled post</span>
+            </span>
+          </div>
+          <div class="sm-phone__post"></div>
+          <div class="sm-phone__actions">
+            <i class="fas fa-heart sm-heart"></i>
+            <i class="far fa-comment"></i>
+            <i class="far fa-paper-plane"></i>
+            <i class="far fa-bookmark" style="margin-left:auto"></i>
+          </div>
+          <div class="sm-phone__stats">
+            <div class="sm-phone__stat">
+              <div class="sm-phone__stat-num">+38%</div>
+              <div class="sm-phone__stat-lbl">Engagement</div>
+            </div>
+            <div class="sm-phone__stat">
+              <div class="sm-phone__stat-num">30</div>
+              <div class="sm-phone__stat-lbl">Posts / month</div>
+            </div>
+            <div class="sm-phone__stat">
+              <div class="sm-phone__stat-num">4</div>
+              <div class="sm-phone__stat-lbl">Networks</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="sm-intro" aria-labelledby="sm-intro-h2">
+  <div class="wrap">
+    <div class="sm-intro__inner rv">
+
+      <h2 id="sm-intro-h2">We run social for brands that want it to count</h2>
+      <p>
+        We are a <strong>marketing agency</strong> that takes on <strong>social media management</strong> in full — from the strategy down to the daily post and the reply in the inbox. We do not just hang pictures on a wall: we build a coherent presence, with a clear brand voice, that turns followers into a community and, over time, into customers.
+      </p>
+      <p>
+        We work on <strong>Facebook, Instagram, TikTok and LinkedIn</strong> for companies in the United States and across Europe. Every engagement starts with an <strong>audience analysis</strong>, we look at the competition and we set a <strong>12-month content calendar</strong> — so every post has a job, rather than filling a gap. <a href="/en/contact/">Ask for a quote →</a>
+      </p>
+
+      <h2>How much does social media management cost?</h2>
+      <p>
+        The price depends on how many networks, how often you post and how deep you want us in it. Our full package, <strong>Full SMM</strong>, is <strong>$810 a month</strong> and covers 30 posts plus running the accounts completely. For a middle pace, <strong>Posts Standard</strong> is <strong>$520 a month</strong>, and for a clean start, <strong>Posts Basic</strong> starts at <strong>$350 a month</strong>.
+      </p>
+      <p>
+        We recommend that any engagement starts with the <strong>SMM Strategy</strong> package ($600, one-off): audience analysis, competitor research, brand voice and tone, and a 12-month content calendar. On that footing, every month's posts have a point and a direction. <a href="#sm-prices">See the packages in detail below →</a>
+      </p>
+
+      <h2>Why pick Visience for social?</h2>
+      <p>
+        <strong>Consistency, quality and a real strategy behind it.</strong> The biggest mistake on social is posting at random, whenever it crosses your mind. We hold a steady rhythm and one message across every network, backed by professional design and copy written for your brand, not generic templates.
+      </p>
+      <p>
+        On top of that, we are a full agency: alongside social we can also take on <strong>Google Ads, Meta Ads</strong> or <strong>SEO</strong>, so all your marketing channels pull the same way. <a href="#sm-faq">See the frequently asked questions →</a>
+      </p>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="sm-incl" aria-labelledby="sm-incl-h2">
+  <div class="wrap">
+
+    <div class="sm-incl__head rv">
+      <h2 class="sm-incl__h2" id="sm-incl-h2">Everything that keeps your channels <span class="acc">active and coherent</span></h2>
+      <p class="sm-incl__sub">
+        We take every stage, from the planning to the back-and-forth with followers, so you can get on with running the business.
+      </p>
+    </div>
+
+    <div class="sm-incl__grid rv rv-d2">
+      <div class="sm-card">
+        <div class="sm-card__ico"><i class="fa-solid fa-calendar-check"></i></div>
+        <h3>Strategy &amp; content calendar</h3>
+        <p>We set the audience, the brand voice and a 12-month content calendar, with clear themes and goals for each month.</p>
+      </div>
+      <div class="sm-card">
+        <div class="sm-card__ico"><i class="fa-solid fa-pen-ruler"></i></div>
+        <h3>Copy &amp; post design</h3>
+        <p>Copy written for your brand and professional graphics for every post and story: one visual line, a message that lands.</p>
+      </div>
+      <div class="sm-card">
+        <div class="sm-card__ico"><i class="fa-solid fa-clock-rotate-left"></i></div>
+        <h3>Scheduling &amp; posting</h3>
+        <p>We schedule and publish at the right hours, across every network you have chosen, so you never have to ask "what do we post today".</p>
+      </div>
+      <div class="sm-card">
+        <div class="sm-card__ico"><i class="fa-solid fa-comments"></i></div>
+        <h3>Community &amp; replies</h3>
+        <p>We answer comments and messages, moderate the conversation and build real relationships with your followers.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="sm-prices" id="sm-prices" aria-labelledby="sm-prices-h2">
+  <div class="wrap">
+
+    <div class="sm-prices__head rv">
+      <h2 class="sm-prices__h2" id="sm-prices-h2">
+        Social media management prices —<br><span class="acc">clear packages</span>
+      </h2>
+      <p class="sm-prices__sub">
+        Pick the pace that suits your brand. Prices are monthly, with no hidden costs — you get a quote for your case within 24 hours.
+      </p>
+    </div>
+
+    <div class="sm-pkg-grid">
+
+      <div class="sm-pkg featured rv">
+        <span class="sm-pkg__badge">Recommended</span>
+        <div class="sm-pkg__name">Full SMM</div>
+        <div class="sm-pkg__price">$810<span class="per"> / month</span></div>
+        <div class="sm-pkg__price-note">The accounts run for you</div>
+        <p class="sm-pkg__desc">
+          We take your presence on social completely: strategy, content, posting and the community. The best option for brands that want steady results.
+        </p>
+        <div class="sm-pkg__feats">
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>30 posts a month</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Accounts managed end to end</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Brand voice and tone defined</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Strategic comments &amp; organic engagement</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Replies to messages &amp; comments</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Monthly 1:1 consulting call</span></div>
+        </div>
+        <a href="/en/contact/" class="btn btn-solid" style="justify-content:center">Ask for a quote</a>
+      </div>
+
+      <div class="sm-pkg rv rv-d1">
+        <div class="sm-pkg__name">Posts Standard</div>
+        <div class="sm-pkg__price">$520<span class="per"> / month</span></div>
+        <div class="sm-pkg__price-note">Middle pace, solid presence</div>
+        <p class="sm-pkg__desc">
+          A steady flow of content on social, with the community watched and monthly reporting. For brands that want to be active without handing over everything.
+        </p>
+        <div class="sm-pkg__feats">
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>15 posts a month</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>4+ stories a month</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Relevant hashtag research</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Comments monitored</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Monthly results report</span></div>
+        </div>
+        <a href="/en/contact/" class="btn btn-ghost" style="justify-content:center">Ask for a quote</a>
+      </div>
+
+      <div class="sm-pkg rv rv-d2">
+        <div class="sm-pkg__name">Posts Basic</div>
+        <div class="sm-pkg__price">$350<span class="per"> / month</span></div>
+        <div class="sm-pkg__price-note">A clean start on social</div>
+        <p class="sm-pkg__desc">
+          The right package to begin with: an organic presence, tidy design and copy written for you, so your brand looks professional from day one.
+        </p>
+        <div class="sm-pkg__feats">
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>8 organic posts a month</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Professional design on every post</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Copy written for your brand</span></div>
+          <div class="sm-pkg__feat"><span class="sm-pkg__feat-tick">✓</span><span>Posting on the network you choose</span></div>
+        </div>
+        <a href="/en/contact/" class="btn btn-ghost" style="justify-content:center">Ask for a quote</a>
+      </div>
+
+    </div>
+
+    <div class="sm-extra rv rv-d2" style="margin-bottom:24px">
+      <div class="sm-extra__ico"><i class="fa-solid fa-compass-drafting"></i></div>
+      <div class="sm-extra__body">
+        <div class="sm-extra__title">SMM Strategy — the footing for everything else</div>
+        <div class="sm-extra__txt">Audience analysis, competitor research, brand voice and tone, a 12-month content calendar and 2 working sessions. One-off cost.</div>
+      </div>
+      <div class="sm-extra__price">$600</div>
+    </div>
+
+    <div class="sm-extra rv rv-d2">
+      <div class="sm-extra__ico"><i class="fa-solid fa-star"></i></div>
+      <div class="sm-extra__body">
+        <div class="sm-extra__title">Influencer research (optional)</div>
+        <div class="sm-extra__txt">A list of influencers who fit your brand, with collaboration rates, account statistics and engagement levels, so you put money into partnerships that actually work.</div>
+      </div>
+      <div class="sm-extra__price">$350</div>
+    </div>
+
+  </div>
+</section>
+
+
+<section class="sm-process" aria-labelledby="sm-process-h2">
+  <div class="wrap">
+
+    <div class="sm-process__head rv">
+      <h2 class="sm-process__h2" id="sm-process-h2">From strategy to <span class="acc">the daily post</span></h2>
+      <p class="sm-process__sub">
+        A clear process, one that puts the strategy before the content, the way it should be.
+      </p>
+    </div>
+
+    <div class="sm-process__list rv rv-d2">
+      <article class="sm-step">
+        <div class="sm-step__n">01</div>
+        <h3>Analysis &amp; strategy</h3>
+        <p>We study your audience, your competitors and your goals. We set the voice, the brand tone and the 12-month content calendar.</p>
+      </article>
+      <article class="sm-step">
+        <div class="sm-step__n">02</div>
+        <h3>Content production</h3>
+        <p>We write the copy and design each post and story, in line with your visual identity and the month's message.</p>
+      </article>
+      <article class="sm-step">
+        <div class="sm-step__n">03</div>
+        <h3>Posting &amp; community</h3>
+        <p>We schedule at the right hours, publish across every network and answer comments and messages through the month.</p>
+      </article>
+      <article class="sm-step">
+        <div class="sm-step__n">04</div>
+        <h3>Report &amp; adjust</h3>
+        <p>Each month we look at what worked, report the results and adjust the strategy for the month ahead.</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+
+<section class="sm-faq" id="sm-faq" aria-labelledby="sm-faq-h2">
+  <div class="wrap">
+
+    <div class="sm-faq__head rv">
+      <h2 class="sm-faq__h2" id="sm-faq-h2">What you should know about <span class="acc">social media management</span></h2>
+    </div>
+
+    <div class="sm-faq__list rv rv-d2">
+
+      <details class="sm-faq-item">
+        <summary>Which networks do you work on?</summary>
+        <p>We run Facebook, Instagram, TikTok and LinkedIn accounts. We recommend the right ones for your audience and the kind of business you are in. There is no point being everywhere — only where your customers are. We settle the mix together at the strategy stage.</p>
+      </details>
+
+      <details class="sm-faq-item">
+        <summary>What does a post include?</summary>
+        <p>Every post includes copy written for your brand and the graphic design (or working up material you already have), plus the relevant hashtags and scheduling at the right hour. On the full-management packages we add strategic comments and interaction with your followers.</p>
+      </details>
+
+      <details class="sm-faq-item">
+        <summary>How long until results show?</summary>
+        <p>Social is a channel that builds over time. The first signs — interaction going up, follower count growing — usually appear within 1–2 months, and solid results in community and awareness settle in over 3–6 months of steady presence. That is why consistency matters more than any single post.</p>
+      </details>
+
+      <details class="sm-faq-item">
+        <summary>Is there a minimum contract?</summary>
+        <p>The monthly packages work best with a commitment of a few months, because results come from consistency, not from one month. We go through the actual terms at the start and shape them around your goals, with no surprise clauses.</p>
+      </details>
+
+      <details class="sm-faq-item">
+        <summary>Do you produce the photo and video content too?</summary>
+        <p>We do the graphic design and work up the material you give us. For a dedicated photo shoot or video production, we coordinate with our partners and quote it separately. Plenty of brands start with existing material and photos from a phone, which we turn into professional posts.</p>
+      </details>
+
+      <details class="sm-faq-item">
+        <summary>How do you report results?</summary>
+        <p>You get a clear monthly report with the numbers that matter: follower growth, engagement, post reach and which kind of content performed best. On Full SMM we add a 1:1 consulting call to go through the results and the next steps.</p>
+      </details>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="sm-cta" aria-labelledby="sm-cta-h2">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="sm-cta__h2" id="sm-cta-h2">
+        Ready to bring<br>
+        <span class="acc">your channels to life?</span>
+      </h2>
+      <p class="sm-cta__p">
+        Tell us about your brand and you get a quote within 24 hours. Free consultation, nothing to sign.
+      </p>
+      <div class="sm-cta__btns">
+        <a href="/en/contact/" class="btn btn-solid">Ask for a quote</a>
+        <a href="tel:+40771486499" class="btn btn-dark">Call now: +40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Related services and published prices">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> No hidden prices</span>
+      <h2>See exactly what you pay.</h2>
+      <p>We do not work with hidden rates or surprises on the invoice. All our packages and prices are public. You choose knowing where you stand, with nobody pushing you.</p>
+      <a href="/en/pricing/" class="rel-trans__link">See all prices <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Carry on with</div>
+      <div class="rel-links__grid">
+        <a href="/en/google-meta-ads/" class="rel-link"><span class="rel-link__name">Google &amp; Meta Ads <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Campaigns aimed at leads and sales.</span></a>
+        <a href="/en/branding/" class="rel-link"><span class="rel-link__name">Branding &amp; identity <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Logo, brand book and full visual identity.</span></a>
+        <a href="/en/seo/" class="rel-link"><span class="rel-link__name">SEO &amp; content <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Reach page one of Google, organically.</span></a>
+        <a href="/en/portfolio/" class="rel-link"><span class="rel-link__name">Portfolio <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Real projects delivered by our team.</span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+a:["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$19"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$1a"}}]],null,"$L1b"]}]
+1c:[]
+b:"$W1c"
+c:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":"$L1e"}],["$","div",null,{"hidden":true,"children":["$","$L1f",null,{"children":["$","$20",null,{"name":"Next.Metadata","children":"$L21"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+e:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+22:I[97367,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+14:["$","$L17",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
+1b:["$","$L22",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@23"}]}]
+1e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#FFFFFF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#111114","media":"(prefers-color-scheme: dark)"}]]
+24:I[27201,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"IconMark"]
+21:[["$","title","0",{"children":"Social Media Management — from $350 a Month | Visience"}],["$","meta","1",{"name":"description","content":"Facebook, Instagram, TikTok and LinkedIn run end to end: strategy, content, posting and community. 8 posts from $350 a month, full management $810 a month."}],["$","link","2",{"rel":"canonical","href":"https://visience.ro/en/social-media/"}],["$","link","3",{"rel":"alternate","hrefLang":"ro-RO","href":"https://visience.ro/social-media-management/"}],["$","link","4",{"rel":"alternate","hrefLang":"en","href":"https://visience.ro/en/social-media/"}],["$","link","5",{"rel":"alternate","hrefLang":"x-default","href":"https://visience.ro/en/social-media/"}],["$","meta","6",{"property":"og:title","content":"Social accounts that pull their weight — Visience"}],["$","meta","7",{"property":"og:description","content":"Strategy, content, posting and community across Facebook, Instagram, TikTok and LinkedIn. From $350 a month."}],["$","meta","8",{"property":"og:url","content":"https://visience.ro/en/social-media/"}],["$","meta","9",{"property":"og:locale","content":"en_US"}],["$","meta","10",{"property":"og:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"Agenție de Marketing & Creare Site-uri în Iași | Visience"}],["$","meta","14",{"name":"twitter:description","content":"Branding, website-uri, magazine online, Google & Meta Ads, SEO. Prețuri publice, fără costuri ascunse."}],["$","meta","15",{"name":"twitter:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","link","16",{"rel":"icon","href":"/favicon.ico?favicon.04nd99rd6ooix.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/icon.png?icon.3v2r-pcu8x6vx.png","sizes":"192x192","type":"image/png"}],["$","link","18",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2y52blaubq-q-.png","sizes":"180x180","type":"image/png"}],["$","$L24","19",{}]]
+23:null

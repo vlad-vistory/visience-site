@@ -1,0 +1,62 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+:HL["/_next/static/chunks/28or4npab1wgt.css","style"]
+2:T2bb1,<h2>1. Introduction</h2>
+<p>On 25 May 2018 European Regulation 2016/679 on the protection of natural persons with regard to the processing of personal data (below, the GDPR) came into force. www.visience.ro is committed to protecting individual privacy and personal data.</p>
+<p>We have committed to complying with the GDPR through dialogue and cooperation with our partners. We have therefore drawn up this Privacy Policy to tell you how we collect, use, store and disclose the information you may provide while interacting with us.</p>
+<p>This Privacy Policy sits alongside the www.visience.ro Terms and Conditions. Before going through this policy, please make sure you have read the <a href="/en/terms/">Terms and Conditions</a>. Every provision in the Terms and Conditions continues to apply to the protection of personal data as well.</p>
+<p>This privacy policy applies to the website www.visience.ro.</p>
+
+<h2>2. Principles</h2>
+<p>www.visience.ro is committed to the principles set out in the GDPR, and accordingly personal data is:</p>
+<p>Processed lawfully, fairly and transparently in relation to the data subject;<br/>Collected for specified, explicit and legitimate purposes and not further processed in a way incompatible with those purposes;<br/>Adequate, relevant and limited to what is necessary in relation to the purposes for which it is processed;<br/>Accurate and, where necessary, kept up to date;<br/>Kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the data is processed;<br/>Processed in a way that ensures appropriate security of the personal data.</p>
+
+<h2>3. Categories of data processed</h2>
+<p>www.visience.ro collects the personal data of users, members, website visitors and clients or prospective clients. Where the law requires it, www.visience.ro gives individuals appropriate notice of the data that will be collected and how it will be used.</p>
+<p>We collect only the personal data that individuals provide voluntarily, so that we can supply information, deliver services, carry out contractual relationships and promote our services. In addition, we have to process certain personal data in order to provide our services or to comply with various legal obligations.</p>
+<p>Data processed: identification data (first name, last name), telephone number, email address, address.</p>
+
+<h2>4. Processing activities</h2>
+<p>Registering in the www.visience.ro system: to create a www.visience.ro account, and thereby become a www.visience.ro user, data subjects must provide certain personal data such as name, telephone number and email address;<br/>Requesting a quote: in order to obtain a quote or information about the services provided by www.visience.ro, clients, prospective clients or their representatives must provide data such as first name, last name and contact details;<br/>Visitors to www.visience.ro: the website uses small text files called cookies, to make the experience work better for users. Some cookies are necessary for the site to run. Visiting our site may involve processing personal data such as: IP address, time and date of access, and similar.<br/>In addition, on the basis of express consent, www.visience.ro may also process cookies such as:</p>
+<p>Preference cookies: allow the website to remember information that changes how the site behaves, such as the selected language;<br/>Statistics cookies: help www.visience.ro understand how visitors use the site, by collecting data anonymously;<br/>Marketing cookies: are used to track visitors across websites. The intention is to display ads that are relevant and interesting to each user, and therefore more valuable to publishers and third-party advertisers.</p>
+<p>Record of enquiries: requests sent through the forms on the site are kept in an internal record, hosted on the www.visience.ro server, so that we can answer the request and follow the conversation through to its conclusion. Alongside the contact details you leave us, we also keep information about the visit that led you to write: the page you arrived on, the page and the area of the page you started from towards the form, the source of the visit (search engine, social network, campaign) and the device type. This information is used strictly internally, to understand which content is useful to visitors, and is not passed to any other person or company.</p>
+<p>Form progress and page feedback: to see where visitors run into difficulty, we record, with no personal data at all, the steps taken in a form (it was seen, filling in started, it was submitted) and the answers to the question "Was this page useful?". These records use a temporary, anonymous identifier valid only for the duration of the visit, and do not allow anyone to be identified.</p>
+
+<h2>5. Legal basis</h2>
+<p>Data protection law allows data to be collected and processed as long as there is a legal basis for doing so. As noted above, www.visience.ro processes personal data only in the following situations:</p>
+<p>Entering into or performing a contract: processing personal data is necessary in order to enter into a contract, or to meet the obligations arising from a contract;<br/>Legitimate interest: www.visience.ro may process personal data where processing is necessary to pursue a legitimate interest of www.visience.ro, such as carrying on and developing its business, as long as this does not override your interests;<br/>Consent: in some cases www.visience.ro will ask for your express and specific consent to process some personal data. In those situations www.visience.ro will process the personal data only after the data subject's express and prior consent;<br/>Data subjects may withdraw their consent at any time by contacting www.visience.ro at the following email address: contact@visience.ro.</p>
+
+<h2>6. Third parties</h2>
+<p>Third parties who provide personal data to www.visience.ro are responsible for making sure that the data subjects have been informed of the provisions of this privacy policy and that the data subject has given consent for the data to be shared.</p>
+<p>www.visience.ro may share personal data with third parties in order to comply with legal obligations (for example, obligations under tax and employment law) or to meet contractual obligations (for example, where subcontractors are involved in delivering the services).</p>
+<p>www.visience.ro may also share personal data with the competent authorities or with entities involved in such proceedings, in order to recover any damage caused by users.</p>
+<p>In dealing with third parties, www.visience.ro is responsible for making sure that third parties processing personal data on behalf of www.visience.ro provide sufficient guarantees to implement appropriate technical and organisational measures, so that the processing meets the requirements of the Regulation and protects the rights of the data subject.</p>
+
+<h2>7. How long data is kept</h2>
+<p>www.visience.ro stores data only for as long as the basis that justified the processing continues to exist.</p>
+<p>Data provided by users when opening an account is kept for as long as the account is active, and for a further period of 1 year afterwards. Where, on deactivating the account, the user has not paid all amounts due, the data may be kept for longer. After that period the data is anonymised and kept for statistical purposes.</p>
+
+<h2>8. Data storage</h2>
+<p>Personal data processed through www.visience.ro is stored securely.</p>
+
+<h2>9. Rights of data subjects</h2>
+<p>Subject to certain legal conditions, as a data subject you have the following rights in relation to the processing of personal data:</p>
+<p>The right to request a copy of the personal data we hold about you;<br/>The right to have any incorrect or incomplete personal data corrected;<br/>The right to object to, or restrict, our use of your personal data;<br/>The right to withdraw your consent for data processed on the basis of consent;<br/>The right to erasure of your personal data, where you have withdrawn your consent, where processing is no longer necessary, or where the processing is contrary to law;<br/>The right to data portability, allowing you to receive a copy of the processed data we received from you, or to have it transmitted to another entity you name;<br/>The right to withdraw your consent for processing carried out on the basis of consent. Withdrawing your consent does not affect the lawfulness of processing based on consent before its withdrawal. Where you withdraw your consent, www.visience.ro will no longer process your personal data and will take appropriate steps to erase it. www.visience.ro may nevertheless process your personal data if there is another legal basis for that processing.<br/>If you wish to exercise the rights above, please contact us using the following details: contact@visience.ro.</p>
+
+<h2>10. Technical and organisational measures</h2>
+<p>www.visience.ro has committed to implementing technical and organisational measures to ensure that the processing of personal data meets the conditions set out in data protection law.</p>
+<p>To that end, www.visience.ro has put in place the following measures:</p>
+<p>Limiting access to personal data strictly to the people involved in fulfilling our contractual obligations;<br/>Taking every possible step to prevent unauthorised persons from accessing the data processing systems;<br/>Ensuring that the people who process personal data only have access to the data they need, and that this data cannot be copied, changed or deleted without authorisation;<br/>Keeping a record of the people who have access to personal data and of how personal data is stored;<br/>Ensuring that personal data is processed in accordance with the applicable legal provisions;<br/>Ensuring that data is stored under conditions that guarantee security and confidentiality.</p>
+
+<h2>11. Requests and complaints</h2>
+<p>If you have any question, concern, request or complaint about how www.visience.ro processes personal data, you can contact us at: contact@visience.ro.</p>
+<p>In order to comply with our legal obligations on data security and confidentiality, when you exercise one of your rights as a data subject we may ask you to prove your identity, by sending us a copy of an identity document or any other information needed to verify that the request comes from the relevant data subject.</p>
+<p>We will consider any request or complaint we receive and will reply within the time limits set by law. If you are not satisfied with our answer, or you consider that the processing breaches the applicable law, you can lodge a complaint with the data protection supervisory authority in Romania:</p>
+<p>The National Supervisory Authority for Personal Data Processing, Bd. Gheorghe Magheru nr. 28-30, Bucharest, Romania, tel.: +40 31 80 59 211 / +40 31 80 59 212.</p>
+<p>We reserve the right to amend the www.visience.ro Privacy Policy where this becomes necessary. Should we make such changes, we will notify all users of the new form of the Privacy Policy.</p>
+<p>The current form of the Privacy Policy was adopted on: 1 November 2021.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/en/","children":"Home"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Privacy Policy"}]]}],["$","header",null,{"className":"blog-article__head","children":["$","h1",null,{"children":"Privacy Policy"}]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$2"}}]]}]}],["$L3"],"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ycGl9jnQBTSVa_S0yZp7A"}
+3:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/28or4npab1wgt.css","precedence":"next"}]
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

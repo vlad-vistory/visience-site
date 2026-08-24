@@ -14,9 +14,14 @@ $curata = function ($cheie, $max = 400) {
   return mb_substr($v, 0, $max);
 };
 
+// paginile /en/ trimit 'pagina' cu prefixul en-, ca sa stim in ce limba raspundem
+$en        = strncmp($curata('pagina', 40), 'en-', 3) === 0;
+$multumire = $en ? '/en/thank-you/' : '/multumire/';
+$contact   = $en ? '/en/contact/'   : '/contact/';
+
 // honeypot: campul e ascuns, oamenii nu il completeaza
 if ($curata('adresa-web') !== '') {
-  header('Location: /multumire/', true, 303);
+  header('Location: ' . $multumire, true, 303);
   exit;
 }
 
@@ -32,7 +37,7 @@ if ($email !== '' && !filter_var($email, FILTER_VALIDATE_EMAIL)) {
 
 // ne trebuie macar un mod de contact
 if ($email === '' && $telefon === '') {
-  $inapoi = $pagina === 'home' ? '/?eroare=contact#contact' : '/contact/?eroare=contact';
+  $inapoi = $pagina === 'home' ? '/?eroare=contact#contact' : $contact . '?eroare=contact';
   header('Location: ' . $inapoi, true, 303);
   exit;
 }
@@ -101,5 +106,5 @@ try {
   @error_log('CRM: ' . $e->getMessage());
 }
 
-header('Location: /multumire/', true, 303);
+header('Location: ' . $multumire, true, 303);
 exit;

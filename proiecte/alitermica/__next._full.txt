@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-f:I[68027,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"default",1]
-:HL["/_next/static/chunks/0wzhkftc38ec0.css","style"]
+d:I[68027,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"default",1]
+:HL["/_next/static/chunks/16fat-5-gaue_.css","style"]
 :HL["/_next/static/media/0da9c7f357bd9d4d-s.p.1975l3y3401x_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/2094fb60fd9c8287-s.p.3qxy1tqak831c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/47fe1b7cd6e6ed85-s.p.3bh2vc0w-r-ll.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -28,16 +28,17 @@ f:I[68027,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","proiecte","alitermica",""],"q":"","i":false,"f":[[["",{"children":["proiecte",{"children":[["slug","alitermica","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1j18jy-fz2p7y.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/158myu8e_yme3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7","$L8","$L9"]}]]}]]}],{"children":["$La",{"children":["$Lb",{"children":["$Lc",{},null,false,null]},null,false,"$@d"]},null,false,"$@d"]},null,false,null],"$Le",false]],"m":"$undefined","G":["$f",["$L10"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"NB7g79pyt6ofif6wNv2Bi"}
-12:I[39756,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
-13:I[37457,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
-15:I[27961,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
-16:I[11015,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"default"]
-18:I[97367,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
-19:"$Sreact.suspense"
-1c:I[97367,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"ViewportBoundary"]
-1e:I[97367,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"MetadataBoundary"]
-11:Tf25,<header class="nav" id="nav" role="banner">
+})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","proiecte","alitermica",""],"q":"","i":false,"f":[[["",{"children":["proiecte",{"children":[["slug","alitermica","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1q24nptxkwl6t.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7"]}]]}]]}],{"children":["$L8",{"children":["$L9",{"children":["$La",{},null,false,null]},null,false,"$@b"]},null,false,"$@b"]},null,false,null],"$Lc",false]],"m":"$undefined","G":["$d",["$Le"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"ycGl9jnQBTSVa_S0yZp7A"}
+f:I[36621,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
+15:I[27961,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
+16:I[11015,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
+17:I[39756,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
+18:I[37457,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
+1a:I[97367,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+1b:"$Sreact.suspense"
+1e:I[97367,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"ViewportBoundary"]
+20:I[97367,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"MetadataBoundary"]
+10:Tfd5,<header class="nav" id="nav" role="banner">
   <div class="wrap nav__in">
     <a href="/" class="nav__logo" aria-label="Visience — Acasă">
       <img class="nav__logo-img nav__logo-img--light" src="/media/sigla-mark-visience-new-colors.avif"
@@ -66,6 +67,7 @@ f:I[68027,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8
       <a href="/#rezultate">Rezultate</a>
       <a href="/#despre">Despre</a>
       <a href="/contact/">Contact</a>
+      <a href="/en/" class="nav__lang" hreflang="en" lang="en" aria-label="View the site in English">EN</a>
     </nav>
 
     <a href="/#contact" class="nav__cta">Solicită ofertă</a>
@@ -105,6 +107,7 @@ f:I[68027,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8
     <a href="/#rezultate" class="nm-l">Rezultate</a>
     <a href="/#despre"    class="nm-l">Despre</a>
     <a href="/contact/"   class="nm-l">Contact</a>
+    <a href="/en/" class="nm-l" hreflang="en" lang="en">English</a>
 
     <div class="nm-jos">
       <a href="/contact/" class="btn btn-solid nm-cta">Solicită ofertă</a>
@@ -115,9 +118,7 @@ f:I[68027,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8
     </div>
   </div>
 </nav>
-5:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$11"}}]
-6:["$","$L12",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L13",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
-14:T1f85,<footer class="footer" role="contentinfo">
+11:T1f85,<footer class="footer" role="contentinfo">
   <div class="wrap">
 
     <div class="footer__grid">
@@ -253,26 +254,218 @@ f:I[68027,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8
 
   </div>
 </footer>
-7:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$14"}}]
-8:["$","$L15",null,{}]
-9:["$","$L16",null,{}]
-a:["$","$1","c",{"children":[null,["$","$L12",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L13",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
-b:["$","$1","c",{"children":[null,["$","$L12",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L13",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
-c:["$","$1","c",{"children":["$L17",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2t1wsrfyxedy_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]]}]
-1b:[]
-d:"$W1b"
-e:["$","$1","h",{"children":[null,["$","$L1c",null,{"children":"$L1d"}],["$","div",null,{"hidden":true,"children":["$","$L1e",null,{"children":["$","$19",null,{"name":"Next.Metadata","children":"$L1f"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
-10:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0wzhkftc38ec0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
-17:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CreativeWork\",\"@id\":\"https://visience.ro/proiecte/alitermica/#proiect\",\"name\":\"Alitermica — site pentru o firmă de instalații din Torino\",\"description\":\"Site pentru Alitermica, firmă de instalații termice și de climatizare din Torino: soluții pe categorii, prezentarea firmei și galerie de lucrări.\",\"inLanguage\":\"ro-RO\",\"url\":\"https://visience.ro/proiecte/alitermica/\",\"creator\":{\"@id\":\"https://visience.ro/#organization\"},\"keywords\":\"Website\",\"image\":\"https://visience.ro/media/alitermica-1024x542.avif\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Acasă\",\"item\":\"https://visience.ro/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Portofoliu\",\"item\":\"https://visience.ro/portofoliu/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Alitermica — site pentru o firmă de instalații din Torino\",\"item\":\"https://visience.ro/proiecte/alitermica/\"}]}]}"}}],["$","main",null,{"className":"pr","children":[["$","section",null,{"className":"pr-hero","children":[null,["$","div",null,{"className":"pr-hero__ov"}],["$","div",null,{"className":"wrap pr-hero__in","children":[["$","nav",null,{"className":"pr-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/portofoliu/","children":"Portofoliu"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Alitermica — site pentru o firmă de instalații din Torino"}]]}],["$","div",null,{"className":"pr-hero__kick","children":"Instalații termice · Torino, Italia"}],["$","h1",null,{"children":"Alitermica — site pentru o firmă de instalații din Torino"}],["$","div",null,{"className":"pr-tags","children":[[["$","span","Website",{"className":"pr-tag","children":"Website"}]],[]]}]]}]]}],["$","section",null,{"className":"pr-meta","children":["$","div",null,{"className":"wrap pr-meta__grid","children":[["$","div",null,{"className":"pr-meta__cell","children":[["$","span",null,{"className":"pr-meta__lbl","children":"Client"}],["$","span",null,{"className":"pr-meta__val","children":"Alitermica — site pentru o firmă de instalații din Torino"}]]}],["$","div",null,{"className":"pr-meta__cell","children":[["$","span",null,{"className":"pr-meta__lbl","children":"Ce am făcut"}],["$","span",null,{"className":"pr-meta__val","children":"Website"}]]}],["$","div",null,{"className":"pr-meta__cell","children":[["$","span",null,{"className":"pr-meta__lbl","children":"Domeniu"}],["$","span",null,{"className":"pr-meta__val","children":"Instalații termice · Torino, Italia"}]]}],["$","div",null,{"className":"pr-meta__cell","children":[["$","span",null,{"className":"pr-meta__lbl","children":"Site"}],["$","span",null,{"className":"pr-meta__val","children":["$","a",null,{"href":"https://www.alitermica.it/","target":"_blank","rel":"noopener","children":["www.alitermica.it"," ↗"]}]}]]}]]}]}],["$","section",null,{"className":"pr-intro","children":["$","div",null,{"className":"wrap pr-intro__grid","children":[["$","h2",null,{"children":"Despre proiect"}],["$","p",null,{"children":"Alitermica e o firmă din Torino care se ocupă de instalații de încălzire și climatizare: proiectare, modernizare, întreținere și contracte de gestiune. Lucrează pe piața italiană cu administratori de condominii, cu familii și cu firme. Au venit la noi pentru site."}]]}]}],["$","section",null,{"className":"pr-secs","children":["$","div",null,{"className":"wrap","children":[["$","div","Site-ul",{"className":"pr-sec","children":["$","div",null,{"className":"pr-sec__grid","children":[["$","div",null,{"children":[["$","div",null,{"className":"pr-sec__n","children":"01"}],["$","h3",null,{"children":"Site-ul"}]]}],["$","p",null,{"children":"Am construit site-ul în jurul întrebării cu care ajunge oricine acolo: ce face firma, concret. Secțiunea de soluții adună toate direcțiile — proiectare, reabilitare de instalații termice, contorizare individuală a căldurii, climatizare, gaz metan, autoclave, tratarea apei, energii regenerabile — și fiecare are pagina ei, cu explicația tehnică scrisă pe înțelesul beneficiarului."}]]}]}],"$L20","$L21","$L22"]}]}],"$L23","$L24","$L25","$L26","$L27"]}]]
-20:["$","div","Filtrarea pe categorii",{"className":"pr-sec","children":["$","div",null,{"className":"pr-sec__grid","children":[["$","div",null,{"children":[["$","div",null,{"className":"pr-sec__n","children":"02"}],["$","h3",null,{"children":"Filtrarea pe categorii"}]]}],["$","p",null,{"children":"Lista de servicii e lungă, așa că am pus peste ea un filtru pe categorii: apă, condiționare, energie, instalații, încălzire. Un administrator de condominiu și un proprietar de casă nu caută același lucru, iar filtrul îi duce direct în zona lor fără să parcurgă tot."}]]}]}]
-21:["$","div","Firma și lucrările",{"className":"pr-sec","children":["$","div",null,{"className":"pr-sec__grid","children":[["$","div",null,{"children":[["$","div",null,{"className":"pr-sec__n","children":"03"}],["$","h3",null,{"children":"Firma și lucrările"}]]}],["$","p",null,{"children":"Pagina de prezentare spune de unde vine firma și cum a crescut, din primii ani optzeci până azi. Galeria arată lucrări făcute, iar certificările de calitate și siguranță au loc separat, pentru că în acest domeniu ele intră în discuție înainte de preț."}]]}]}]
-22:["$","div","Contactul",{"className":"pr-sec","children":["$","div",null,{"className":"pr-sec__grid","children":[["$","div",null,{"children":[["$","div",null,{"className":"pr-sec__n","children":"04"}],["$","h3",null,{"children":"Contactul"}]]}],["$","p",null,{"children":"Datele de contact — telefon, e-mail, adresa din Torino — sunt prezente pe toate paginile, împreună cu un formular pentru cereri de informații. Site-ul folosește doar cookie-uri tehnice, iar politica e explicată în subsolul fiecărei pagini."}]]}]}]
-23:["$","section",null,{"className":"pr-media","children":["$","div",null,{"className":"wrap","children":["$","div",null,{"className":"pr-media__grid","children":[["$","img","/media/alitermica-1024x542.avif",{"src":"/media/alitermica-1024x542.avif","alt":"Alitermica — site pentru o firmă de instalații din Torino — material realizat de Visience","loading":"lazy"}]]}]}]}]
-24:["$","section",null,{"className":"pr-tel","children":[["$","div",null,{"className":"wrap pr-tel__h","children":[["$","h2",null,{"className":"pr-tel__t","children":"Cum arată pe telefon"}],["$","p",null,{"className":"pr-tel__p","children":"Peste 9 din 10 oameni deschid site-ul de pe telefon, așa că acolo se decide totul. Capturile sunt luate de pe site-ul care rulează acum."}]]}],["$","div",null,{"className":"wrap pr-tel__nav","children":[["$","button",null,{"type":"button","className":"pr-tel__b","data-reel":"-1","aria-label":"Înapoi","children":["$","svg",null,{"width":"15","height":"15","viewBox":"0 0 15 15","fill":"none","aria-hidden":"true","children":["$","path",null,{"d":"M9.5 3L5 7.5l4.5 4.5","stroke":"currentColor","strokeWidth":"1.6","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],["$","button",null,{"type":"button","className":"pr-tel__b","data-reel":"1","aria-label":"Înainte","children":["$","svg",null,{"width":"15","height":"15","viewBox":"0 0 15 15","fill":"none","aria-hidden":"true","children":["$","path",null,{"d":"M5.5 3L10 7.5 5.5 12","stroke":"currentColor","strokeWidth":"1.6","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],false]}],["$","div",null,{"className":"wrap","children":["$","div",null,{"className":"pr-tel__reel","id":"telReel","children":[["$","figure","/media/mobil/alitermica-1.avif",{"className":"pr-tel__f","children":[["$","a",null,{"href":"https://www.alitermica.it/","target":"_blank","rel":"noopener","aria-label":"Deschide www.alitermica.it","children":["$","img",null,{"src":"/media/mobil/alitermica-1.avif","alt":"Alitermica — site pentru o firmă de instalații din Torino pe telefon, ecranul 1","width":480,"height":1039,"loading":"lazy"}]}],["$","figcaption",null,{"className":"pr-tel__c","children":"Prima pagină"}]]}],["$","figure","/media/mobil/alitermica-2.avif",{"className":"pr-tel__f","children":[["$","a",null,{"href":"https://www.alitermica.it/","target":"_blank","rel":"noopener","aria-label":"Deschide www.alitermica.it","children":["$","img",null,{"src":"/media/mobil/alitermica-2.avif","alt":"Alitermica — site pentru o firmă de instalații din Torino pe telefon, ecranul 2","width":480,"height":1039,"loading":"lazy"}]}],["$","figcaption",null,{"className":"pr-tel__c","children":"Pagina 2"}]]}]]}]}]]}]
-25:["$","section",null,{"className":"pr-out","children":["$","div",null,{"className":"wrap pr-out__grid","children":[["$","p",null,{"children":"E online pe alitermica.it, organizat în jurul serviciilor și al contactului direct. Cine intră vede în câteva secunde dacă firma face ce îi trebuie."}],["$","div",null,{"className":"pr-out__site","children":[[["$","span",null,{"className":"pr-out__lbl","children":"Vezi live"}],["$","a",null,{"className":"pr-out__url","href":"https://www.alitermica.it/","target":"_blank","rel":"noopener","children":["www.alitermica.it"," ↗"]}]],""]}]]}]}]
-26:["$","section",null,{"className":"pr-cta","children":["$","div",null,{"className":"wrap","children":[["$","h2",null,{"children":"Vrei ceva asemănător?"}],["$","p",null,{"children":"Spune-ne ce ai nevoie și îți trimitem o ofertă cu ce intră în lucrare și cât costă, înainte să începem."}],["$","div",null,{"className":"pr-cta__acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/portofoliu/","className":"btn btn-ghost","children":"Toate proiectele"}]]}]]}]}]
-27:["$","nav",null,{"className":"pr-nav","aria-label":"Alte proiecte","children":["$","div",null,{"className":"wrap pr-nav__in","children":[["$","a",null,{"href":"/proiecte/toata-nunta/","children":[["$","span",null,{"className":"pr-nav__lbl","children":"← Proiectul anterior"}],["$","span",null,{"className":"pr-nav__t","children":"Toată Nunta — website pentru un proiect din zona nunților"}]]}],["$","a",null,{"href":"/proiecte/btg-romania/","className":"pr-nav__next","children":[["$","span",null,{"className":"pr-nav__lbl","children":"Proiectul următor →"}],["$","span",null,{"className":"pr-nav__t","children":"BTG România — site pentru un birou de proiectare instalații"}]]}]]}]}]
-1d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#FFFFFF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#111114","media":"(prefers-color-scheme: dark)"}]]
-28:I[27201,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"IconMark"]
-1a:null
-1f:[["$","title","0",{"children":"Alitermica — site pentru o firmă de instalații din Torino | Visience"}],["$","meta","1",{"name":"description","content":"Site pentru Alitermica, firmă de instalații termice și de climatizare din Torino: soluții pe categorii, prezentarea firmei și galerie de lucrări."}],["$","link","2",{"rel":"canonical","href":"https://visience.ro/proiecte/alitermica/"}],["$","meta","3",{"property":"og:title","content":"Alitermica — site pentru o firmă de instalații din Torino — proiect Visience"}],["$","meta","4",{"property":"og:description","content":"Site pentru Alitermica, firmă de instalații termice și de climatizare din Torino: soluții pe categorii, prezentarea firmei și galerie de lucrări."}],["$","meta","5",{"property":"og:url","content":"https://visience.ro/proiecte/alitermica/"}],["$","meta","6",{"property":"og:locale","content":"ro_RO"}],["$","meta","7",{"property":"og:image","content":"https://visience.ro/media/alitermica-1024x542.avif"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Alitermica — site pentru o firmă de instalații din Torino — proiect Visience"}],["$","meta","11",{"name":"twitter:description","content":"Site pentru Alitermica, firmă de instalații termice și de climatizare din Torino: soluții pe categorii, prezentarea firmei și galerie de lucrări."}],["$","meta","12",{"name":"twitter:image","content":"https://visience.ro/media/alitermica-1024x542.avif"}],["$","link","13",{"rel":"icon","href":"/favicon.ico?favicon.04nd99rd6ooix.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","14",{"rel":"icon","href":"/icon.png?icon.3v2r-pcu8x6vx.png","sizes":"192x192","type":"image/png"}],["$","link","15",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2y52blaubq-q-.png","sizes":"180x180","type":"image/png"}],["$","$L28","16",{}]]
+12:Te9a,<header class="nav" id="nav" role="banner">
+  <div class="wrap nav__in">
+    <a href="/en/" class="nav__logo" aria-label="Visience — Home">
+      <img class="nav__logo-img nav__logo-img--light" src="/media/sigla-mark-visience-new-colors.avif"
+           alt="Visience" width="160" height="30" fetchpriority="high">
+      <img class="nav__logo-img nav__logo-img--dark" src="/media/sigla-visience-dark.avif"
+           alt="" aria-hidden="true" width="160" height="30">
+    </a>
+
+    <nav class="nav__links" aria-label="Main navigation">
+      <div class="nav__has-drop">
+        <a href="/en/#services">Services<svg class="nav__drop-ico" viewBox="0 0 10 6" aria-hidden="true"><path d="M1 1l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+        <div class="nav__drop">
+          <a href="/en/web-design/">Website design</a>
+          <a href="/en/online-store/">Online stores</a>
+          <a href="/en/branding/">Branding &amp; identity</a>
+          <a href="/en/social-media/">Social media</a>
+          <a href="/en/google-meta-ads/">Google &amp; Meta Ads</a>
+          <a href="/en/seo/">SEO &amp; content</a>
+          <a href="/en/software-development/">Software development</a>
+          <a href="/en/real-estate-marketing/">Real estate marketing</a>
+        </div>
+      </div>
+      <a href="/en/portfolio/">Work</a>
+      <a href="/en/pricing/">Pricing</a>
+      <a href="/en/#results">Results</a>
+      <a href="/en/#about">About</a>
+      <a href="/en/contact/">Contact</a>
+      <a href="/" class="nav__lang" hreflang="ro" lang="ro" aria-label="Vezi site-ul în română">RO</a>
+    </nav>
+
+    <a href="/en/contact/" class="nav__cta">Get a quote</a>
+
+    <button class="nav__burger" id="navBurger"
+            aria-label="Open menu" aria-expanded="false" aria-controls="navMob">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<nav class="nav__mob" id="navMob" aria-label="Mobile menu">
+  <div class="nm-in">
+    <div class="nm-grup">
+      <button type="button" class="nm-l nm-tog" id="nmServicii" aria-expanded="false" aria-controls="nmSub">
+        Services
+        <svg class="nm-tog__i" width="18" height="18" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+          <path d="M5 8l5 5 5-5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
+      <div class="nm-sublista" id="nmSub" hidden>
+        <a href="/en/web-design/" class="nm-sub">Website design</a>
+        <a href="/en/online-store/" class="nm-sub">Online stores</a>
+        <a href="/en/branding/" class="nm-sub">Branding &amp; identity</a>
+        <a href="/en/social-media/" class="nm-sub">Social media</a>
+        <a href="/en/google-meta-ads/" class="nm-sub">Google &amp; Meta Ads</a>
+        <a href="/en/seo/" class="nm-sub">SEO &amp; content</a>
+        <a href="/en/software-development/" class="nm-sub">Software development</a>
+        <a href="/en/real-estate-marketing/" class="nm-sub">Real estate marketing</a>
+      </div>
+    </div>
+
+    <a href="/en/portfolio/" class="nm-l">Work</a>
+    <a href="/en/pricing/"   class="nm-l">Pricing</a>
+    <a href="/en/#results"   class="nm-l">Results</a>
+    <a href="/en/#about"     class="nm-l">About</a>
+    <a href="/en/contact/"   class="nm-l">Contact</a>
+    <a href="/" class="nm-l" hreflang="ro" lang="ro">Română</a>
+
+    <div class="nm-jos">
+      <a href="/en/contact/" class="btn btn-solid nm-cta">Get a quote</a>
+      <div class="nm-contact">
+        <a href="tel:+40771486499">+40 771 486 499</a>
+        <a href="mailto:contact@visience.ro">contact@visience.ro</a>
+      </div>
+    </div>
+  </div>
+</nav>
+13:T19e3,<footer class="footer" role="contentinfo">
+  <div class="wrap">
+
+    <div class="footer__grid">
+
+      <div>
+        <div class="footer__logo">
+          <img src="/media/sigla-mark-visience-new-colors.avif"
+               alt="Visience" width="148" height="28" loading="lazy">
+        </div>
+
+        <p class="footer__brand">
+          A digital marketing studio with 12 years behind it. We build the brand, the website and the campaigns that bring enquiries — and we measure every one of them.
+        </p>
+
+        <p class="footer__trust">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M20 6 9 17l-5-5"/>
+          </svg>
+          Prices published, nothing hidden — <a href="/en/pricing/">see the price list</a>.
+        </p>
+
+        <div class="footer__contact">
+          <a href="tel:+40771486499">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.67A2 2 0 012 .92h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L6.91 8.09a16 16 0 006 6l1.27-.83a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/>
+            </svg>
+            +40 771 486 499
+          </a>
+          <a href="mailto:contact@visience.ro">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+              <polyline points="22,6 12,13 2,6"/>
+            </svg>
+            contact@visience.ro
+          </a>
+        </div>
+
+        <div class="footer__social">
+          <a href="https://www.facebook.com/visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience on Facebook">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M24 12c0-6.63-5.37-12-12-12S0 5.37 0 12c0 5.99 4.39 10.95 10.13 11.85v-8.38H7.08V12h3.05V9.36c0-3.01 1.79-4.67 4.53-4.67 1.31 0 2.69.23 2.69.23v2.96h-1.52c-1.49 0-1.96.93-1.96 1.88V12h3.33l-.53 3.47h-2.8v8.38C19.61 22.95 24 17.99 24 12z"/>
+            </svg>
+          </a>
+          <a href="https://www.instagram.com/visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience on Instagram">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M12 2.16c3.2 0 3.58.01 4.85.07 1.17.05 1.8.25 2.23.41.56.22.96.48 1.38.9.42.42.68.82.9 1.38.16.42.36 1.06.41 2.23.06 1.27.07 1.65.07 4.85s-.01 3.58-.07 4.85c-.05 1.17-.25 1.8-.41 2.23-.22.56-.48.96-.9 1.38-.42.42-.82.68-1.38.9-.42.16-1.06.36-2.23.41-1.27.06-1.65.07-4.85.07s-3.58-.01-4.85-.07c-1.17-.05-1.8-.25-2.23-.41-.56-.22-.96-.48-1.38-.9-.42-.42-.68-.82-.9-1.38-.16-.42-.36-1.06-.41-2.23C2.17 15.58 2.16 15.2 2.16 12s.01-3.58.07-4.85c.05-1.17.25-1.8.41-2.23.22-.56.48-.96.9-1.38.42-.42.82-.68 1.38-.9.42-.16 1.06-.36 2.23-.41C8.42 2.17 8.8 2.16 12 2.16M12 0C8.74 0 8.33.01 7.05.07 5.78.13 4.9.33 4.14.63c-.79.3-1.46.72-2.12 1.38C1.35 2.68.94 3.35.63 4.14.33 4.9.13 5.78.07 7.05.01 8.33 0 8.74 0 12s.01 3.67.07 4.95c.06 1.27.26 2.15.56 2.91.3.79.72 1.46 1.38 2.12.66.66 1.33 1.08 2.12 1.38.76.3 1.64.5 2.91.56C8.33 23.99 8.74 24 12 24s3.67-.01 4.95-.07c1.27-.06 2.15-.26 2.91-.56.79-.3 1.46-.72 2.12-1.38.66-.66 1.08-1.33 1.38-2.12.3-.76.5-1.64.56-2.91.06-1.28.07-1.69.07-4.95s-.01-3.67-.07-4.95c-.06-1.27-.26-2.15-.56-2.91-.3-.79-.72-1.46-1.38-2.12C21.32 1.35 20.65.94 19.86.63 19.1.33 18.22.13 16.95.07 15.67.01 15.26 0 12 0z"/>
+              <path d="M12 5.84A6.16 6.16 0 1 0 18.16 12 6.16 6.16 0 0 0 12 5.84zM12 16a4 4 0 1 1 4-4 4 4 0 0 1-4 4z"/>
+              <circle cx="18.41" cy="5.59" r="1.44"/>
+            </svg>
+          </a>
+          <a href="https://www.tiktok.com/@visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience on TikTok">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M16.6 5.82A4.28 4.28 0 0 1 15.54 3h-3.09v12.4a2.59 2.59 0 0 1-2.59 2.5 2.59 2.59 0 0 1 0-5.18c.27 0 .52.04.76.12v-3.2a5.79 5.79 0 0 0-.76-.05 5.69 5.69 0 1 0 5.69 5.69V9.01a7.35 7.35 0 0 0 4.29 1.37V7.3a4.29 4.29 0 0 1-3.24-1.48z"/>
+            </svg>
+          </a>
+        </div>
+      </div>
+
+      <nav aria-label="Services">
+        <div class="footer__col-title">Services</div>
+        <ul class="footer__links">
+          <li><a href="/en/web-design/">Website design</a></li>
+          <li><a href="/en/online-store/">Online stores</a></li>
+          <li><a href="/en/branding/">Branding &amp; identity</a></li>
+          <li><a href="/en/social-media/">Social media</a></li>
+          <li><a href="/en/google-meta-ads/">Google &amp; Meta Ads</a></li>
+          <li><a href="/en/seo/">SEO &amp; content</a></li>
+          <li><a href="/en/software-development/">Software development</a></li>
+          <li><a href="/en/real-estate-marketing/">Real estate marketing</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Company">
+        <div class="footer__col-title">Company</div>
+        <ul class="footer__links">
+          <li><a href="/en/portfolio/">Work</a></li>
+          <li><a href="/en/pricing/">Pricing</a></li>
+          <li><a href="/en/#results">Case studies</a></li>
+          <li><a href="/en/#about">About us</a></li>
+          <li><a href="/en/contact/">Contact</a></li>
+          <li><a href="/" hreflang="ro" lang="ro">Site în română</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Legal">
+        <div class="footer__col-title">Legal &amp; GDPR</div>
+        <ul class="footer__links">
+          <li><a href="/en/terms/">Terms &amp; conditions</a></li>
+          <li><a href="/en/privacy/">Privacy policy</a></li>
+          <li><a href="/en/cookies/">Cookie policy</a></li>
+        </ul>
+      </nav>
+
+    </div>
+
+    <div class="footer__bottom">
+      <div class="footer__bottom-in">
+        <p class="footer__copy">
+          © 2026 Visience Creative Experience SRL · All rights reserved
+        </p>
+        <div class="footer__legal">
+          <a href="/en/terms/">Terms</a>
+          <a href="/en/privacy/">Privacy</a>
+          <a href="/en/cookies/">Cookies</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</footer>
+5:["$","$Lf",null,{"headerRo":"$10","footerRo":"$11","headerEn":"$12","footerEn":"$13","children":"$L14"}]
+6:["$","$L15",null,{}]
+7:["$","$L16",null,{}]
+8:["$","$1","c",{"children":[null,["$","$L17",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":[null,["$","$L17",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+a:["$","$1","c",{"children":["$L19",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2t1wsrfyxedy_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]]}]
+1d:[]
+b:"$W1d"
+c:["$","$1","h",{"children":[null,["$","$L1e",null,{"children":"$L1f"}],["$","div",null,{"hidden":true,"children":["$","$L20",null,{"children":["$","$1b",null,{"name":"Next.Metadata","children":"$L21"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+e:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+14:["$","$L17",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
+19:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CreativeWork\",\"@id\":\"https://visience.ro/proiecte/alitermica/#proiect\",\"name\":\"Alitermica — site pentru o firmă de instalații din Torino\",\"description\":\"Site pentru Alitermica, firmă de instalații termice și de climatizare din Torino: soluții pe categorii, prezentarea firmei și galerie de lucrări.\",\"inLanguage\":\"ro-RO\",\"url\":\"https://visience.ro/proiecte/alitermica/\",\"creator\":{\"@id\":\"https://visience.ro/#organization\"},\"keywords\":\"Website\",\"image\":\"https://visience.ro/media/alitermica-1024x542.avif\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Acasă\",\"item\":\"https://visience.ro/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Portofoliu\",\"item\":\"https://visience.ro/portofoliu/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Alitermica — site pentru o firmă de instalații din Torino\",\"item\":\"https://visience.ro/proiecte/alitermica/\"}]}]}"}}],["$","main",null,{"className":"pr","children":[["$","section",null,{"className":"pr-hero","children":[null,["$","div",null,{"className":"pr-hero__ov"}],["$","div",null,{"className":"wrap pr-hero__in","children":[["$","nav",null,{"className":"pr-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/portofoliu/","children":"Portofoliu"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Alitermica — site pentru o firmă de instalații din Torino"}]]}],["$","div",null,{"className":"pr-hero__kick","children":"Instalații termice · Torino, Italia"}],["$","h1",null,{"children":"Alitermica — site pentru o firmă de instalații din Torino"}],["$","div",null,{"className":"pr-tags","children":[[["$","span","Website",{"className":"pr-tag","children":"Website"}]],[]]}]]}]]}],["$","section",null,{"className":"pr-meta","children":["$","div",null,{"className":"wrap pr-meta__grid","children":[["$","div",null,{"className":"pr-meta__cell","children":[["$","span",null,{"className":"pr-meta__lbl","children":"Client"}],["$","span",null,{"className":"pr-meta__val","children":"Alitermica — site pentru o firmă de instalații din Torino"}]]}],["$","div",null,{"className":"pr-meta__cell","children":[["$","span",null,{"className":"pr-meta__lbl","children":"Ce am făcut"}],["$","span",null,{"className":"pr-meta__val","children":"Website"}]]}],["$","div",null,{"className":"pr-meta__cell","children":[["$","span",null,{"className":"pr-meta__lbl","children":"Domeniu"}],["$","span",null,{"className":"pr-meta__val","children":"Instalații termice · Torino, Italia"}]]}],["$","div",null,{"className":"pr-meta__cell","children":[["$","span",null,{"className":"pr-meta__lbl","children":"Site"}],["$","span",null,{"className":"pr-meta__val","children":["$","a",null,{"href":"https://www.alitermica.it/","target":"_blank","rel":"noopener","children":["www.alitermica.it"," ↗"]}]}]]}]]}]}],["$","section",null,{"className":"pr-intro","children":["$","div",null,{"className":"wrap pr-intro__grid","children":[["$","h2",null,{"children":"Despre proiect"}],["$","p",null,{"children":"Alitermica e o firmă din Torino care se ocupă de instalații de încălzire și climatizare: proiectare, modernizare, întreținere și contracte de gestiune. Lucrează pe piața italiană cu administratori de condominii, cu familii și cu firme. Au venit la noi pentru site."}]]}]}],["$","section",null,{"className":"pr-secs","children":["$","div",null,{"className":"wrap","children":[["$","div","Site-ul",{"className":"pr-sec","children":["$","div",null,{"className":"pr-sec__grid","children":[["$","div",null,{"children":[["$","div",null,{"className":"pr-sec__n","children":"01"}],["$","h3",null,{"children":"Site-ul"}]]}],["$","p",null,{"children":"Am construit site-ul în jurul întrebării cu care ajunge oricine acolo: ce face firma, concret. Secțiunea de soluții adună toate direcțiile — proiectare, reabilitare de instalații termice, contorizare individuală a căldurii, climatizare, gaz metan, autoclave, tratarea apei, energii regenerabile — și fiecare are pagina ei, cu explicația tehnică scrisă pe înțelesul beneficiarului."}]]}]}],"$L22","$L23","$L24"]}]}],"$L25","$L26","$L27","$L28","$L29"]}]]
+22:["$","div","Filtrarea pe categorii",{"className":"pr-sec","children":["$","div",null,{"className":"pr-sec__grid","children":[["$","div",null,{"children":[["$","div",null,{"className":"pr-sec__n","children":"02"}],["$","h3",null,{"children":"Filtrarea pe categorii"}]]}],["$","p",null,{"children":"Lista de servicii e lungă, așa că am pus peste ea un filtru pe categorii: apă, condiționare, energie, instalații, încălzire. Un administrator de condominiu și un proprietar de casă nu caută același lucru, iar filtrul îi duce direct în zona lor fără să parcurgă tot."}]]}]}]
+23:["$","div","Firma și lucrările",{"className":"pr-sec","children":["$","div",null,{"className":"pr-sec__grid","children":[["$","div",null,{"children":[["$","div",null,{"className":"pr-sec__n","children":"03"}],["$","h3",null,{"children":"Firma și lucrările"}]]}],["$","p",null,{"children":"Pagina de prezentare spune de unde vine firma și cum a crescut, din primii ani optzeci până azi. Galeria arată lucrări făcute, iar certificările de calitate și siguranță au loc separat, pentru că în acest domeniu ele intră în discuție înainte de preț."}]]}]}]
+24:["$","div","Contactul",{"className":"pr-sec","children":["$","div",null,{"className":"pr-sec__grid","children":[["$","div",null,{"children":[["$","div",null,{"className":"pr-sec__n","children":"04"}],["$","h3",null,{"children":"Contactul"}]]}],["$","p",null,{"children":"Datele de contact — telefon, e-mail, adresa din Torino — sunt prezente pe toate paginile, împreună cu un formular pentru cereri de informații. Site-ul folosește doar cookie-uri tehnice, iar politica e explicată în subsolul fiecărei pagini."}]]}]}]
+25:["$","section",null,{"className":"pr-media","children":["$","div",null,{"className":"wrap","children":["$","div",null,{"className":"pr-media__grid","children":[["$","img","/media/alitermica-1024x542.avif",{"src":"/media/alitermica-1024x542.avif","alt":"Alitermica — site pentru o firmă de instalații din Torino — material realizat de Visience","loading":"lazy"}]]}]}]}]
+26:["$","section",null,{"className":"pr-tel","children":[["$","div",null,{"className":"wrap pr-tel__h","children":[["$","h2",null,{"className":"pr-tel__t","children":"Cum arată pe telefon"}],["$","p",null,{"className":"pr-tel__p","children":"Peste 9 din 10 oameni deschid site-ul de pe telefon, așa că acolo se decide totul. Capturile sunt luate de pe site-ul care rulează acum."}]]}],["$","div",null,{"className":"wrap pr-tel__nav","children":[["$","button",null,{"type":"button","className":"pr-tel__b","data-reel":"-1","aria-label":"Înapoi","children":["$","svg",null,{"width":"15","height":"15","viewBox":"0 0 15 15","fill":"none","aria-hidden":"true","children":["$","path",null,{"d":"M9.5 3L5 7.5l4.5 4.5","stroke":"currentColor","strokeWidth":"1.6","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],["$","button",null,{"type":"button","className":"pr-tel__b","data-reel":"1","aria-label":"Înainte","children":["$","svg",null,{"width":"15","height":"15","viewBox":"0 0 15 15","fill":"none","aria-hidden":"true","children":["$","path",null,{"d":"M5.5 3L10 7.5 5.5 12","stroke":"currentColor","strokeWidth":"1.6","strokeLinecap":"round","strokeLinejoin":"round"}]}]}],false]}],["$","div",null,{"className":"wrap","children":["$","div",null,{"className":"pr-tel__reel","id":"telReel","children":[["$","figure","/media/mobil/alitermica-1.avif",{"className":"pr-tel__f","children":[["$","a",null,{"href":"https://www.alitermica.it/","target":"_blank","rel":"noopener","aria-label":"Deschide www.alitermica.it","children":["$","img",null,{"src":"/media/mobil/alitermica-1.avif","alt":"Alitermica — site pentru o firmă de instalații din Torino pe telefon, ecranul 1","width":480,"height":1039,"loading":"lazy"}]}],["$","figcaption",null,{"className":"pr-tel__c","children":"Prima pagină"}]]}],["$","figure","/media/mobil/alitermica-2.avif",{"className":"pr-tel__f","children":[["$","a",null,{"href":"https://www.alitermica.it/","target":"_blank","rel":"noopener","aria-label":"Deschide www.alitermica.it","children":["$","img",null,{"src":"/media/mobil/alitermica-2.avif","alt":"Alitermica — site pentru o firmă de instalații din Torino pe telefon, ecranul 2","width":480,"height":1039,"loading":"lazy"}]}],["$","figcaption",null,{"className":"pr-tel__c","children":"Pagina 2"}]]}]]}]}]]}]
+27:["$","section",null,{"className":"pr-out","children":["$","div",null,{"className":"wrap pr-out__grid","children":[["$","p",null,{"children":"E online pe alitermica.it, organizat în jurul serviciilor și al contactului direct. Cine intră vede în câteva secunde dacă firma face ce îi trebuie."}],["$","div",null,{"className":"pr-out__site","children":[[["$","span",null,{"className":"pr-out__lbl","children":"Vezi live"}],["$","a",null,{"className":"pr-out__url","href":"https://www.alitermica.it/","target":"_blank","rel":"noopener","children":["www.alitermica.it"," ↗"]}]],""]}]]}]}]
+28:["$","section",null,{"className":"pr-cta","children":["$","div",null,{"className":"wrap","children":[["$","h2",null,{"children":"Vrei ceva asemănător?"}],["$","p",null,{"children":"Spune-ne ce ai nevoie și îți trimitem o ofertă cu ce intră în lucrare și cât costă, înainte să începem."}],["$","div",null,{"className":"pr-cta__acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/portofoliu/","className":"btn btn-ghost","children":"Toate proiectele"}]]}]]}]}]
+29:["$","nav",null,{"className":"pr-nav","aria-label":"Alte proiecte","children":["$","div",null,{"className":"wrap pr-nav__in","children":[["$","a",null,{"href":"/proiecte/toata-nunta/","children":[["$","span",null,{"className":"pr-nav__lbl","children":"← Proiectul anterior"}],["$","span",null,{"className":"pr-nav__t","children":"Toată Nunta — website pentru un proiect din zona nunților"}]]}],["$","a",null,{"href":"/proiecte/btg-romania/","className":"pr-nav__next","children":[["$","span",null,{"className":"pr-nav__lbl","children":"Proiectul următor →"}],["$","span",null,{"className":"pr-nav__t","children":"BTG România — site pentru un birou de proiectare instalații"}]]}]]}]}]
+1f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#FFFFFF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#111114","media":"(prefers-color-scheme: dark)"}]]
+2a:I[27201,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"IconMark"]
+1c:null
+21:[["$","title","0",{"children":"Alitermica — site pentru o firmă de instalații din Torino | Visience"}],["$","meta","1",{"name":"description","content":"Site pentru Alitermica, firmă de instalații termice și de climatizare din Torino: soluții pe categorii, prezentarea firmei și galerie de lucrări."}],["$","link","2",{"rel":"canonical","href":"https://visience.ro/proiecte/alitermica/"}],["$","meta","3",{"property":"og:title","content":"Alitermica — site pentru o firmă de instalații din Torino — proiect Visience"}],["$","meta","4",{"property":"og:description","content":"Site pentru Alitermica, firmă de instalații termice și de climatizare din Torino: soluții pe categorii, prezentarea firmei și galerie de lucrări."}],["$","meta","5",{"property":"og:url","content":"https://visience.ro/proiecte/alitermica/"}],["$","meta","6",{"property":"og:locale","content":"ro_RO"}],["$","meta","7",{"property":"og:image","content":"https://visience.ro/media/alitermica-1024x542.avif"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Alitermica — site pentru o firmă de instalații din Torino — proiect Visience"}],["$","meta","11",{"name":"twitter:description","content":"Site pentru Alitermica, firmă de instalații termice și de climatizare din Torino: soluții pe categorii, prezentarea firmei și galerie de lucrări."}],["$","meta","12",{"name":"twitter:image","content":"https://visience.ro/media/alitermica-1024x542.avif"}],["$","link","13",{"rel":"icon","href":"/favicon.ico?favicon.04nd99rd6ooix.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","14",{"rel":"icon","href":"/icon.png?icon.3v2r-pcu8x6vx.png","sizes":"192x192","type":"image/png"}],["$","link","15",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2y52blaubq-q-.png","sizes":"180x180","type":"image/png"}],["$","$L2a","16",{}]]

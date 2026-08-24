@@ -1,0 +1,1032 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+2:Tb77,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/en/seo/#service","name":"Search engine optimisation","serviceType":"SEO","inLanguage":"en","provider":{"@type":"Organization","name":"Visience","url":"https://visience.ro/en/"},"areaServed":["US","RO","IT","FR","DE"],"offers":[{"@type":"Offer","priceCurrency":"USD","price":"700","itemOffered":{"@type":"Service","name":"Full SEO strategy, monthly, 6 months minimum"}},{"@type":"Offer","priceCurrency":"USD","price":"70","itemOffered":{"@type":"Service","name":"Technical SEO, hourly"}},{"@type":"Offer","priceCurrency":"USD","price":"1740","itemOffered":{"@type":"Service","name":"E-commerce SEO project"}},{"@type":"Offer","priceCurrency":"USD","price":"350","itemOffered":{"@type":"Service","name":"Email automation sequence"}}]},{"@type":"FAQPage","@id":"https://visience.ro/en/seo/#faq","mainEntity":[{"@type":"Question","name":"How long until SEO results show?","acceptedAnswer":{"@type":"Answer","text":"The first improvements in position appear in 2 to 3 months, and consistent organic traffic usually shows after 4 to 6 months of steady work. That is why the strategy runs over at least 6 months."}},{"@type":"Question","name":"Do you guarantee position 1 in Google?","acceptedAnswer":{"@type":"Answer","text":"No. Positions are decided by Google's algorithm against hundreds of factors and the competition in the niche, so no serious specialist can guarantee them. We guarantee the work: technical audit, on-page optimisation, quality content, clean link building and a monthly report."}},{"@type":"Question","name":"What is in the monthly SEO strategy?","acceptedAnswer":{"@type":"Answer","text":"The $700 a month package covers keyword research, ongoing on-page optimisation, strategic link building, monthly SEO content and a monthly performance report, over a 6-month minimum."}},{"@type":"Question","name":"Do you do local SEO?","acceptedAnswer":{"@type":"Answer","text":"Yes. We optimise the Google Business profile, keep contact details consistent across directories, work local keywords and structure the site for service plus city searches."}},{"@type":"Question","name":"Do you do an SEO audit before starting?","acceptedAnswer":{"@type":"Answer","text":"Yes. Every engagement starts with an analysis of the site. The technical audit is part of the service, and one-off work is available at $70 an hour with no monthly commitment."}},{"@type":"Question","name":"Do you do SEO for online stores?","acceptedAnswer":{"@type":"Answer","text":"Yes, as a dedicated project from $1,740: product and category optimisation, Product schema, faceted search handled properly, canonicals and pagination, plus speed work."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visience.ro/en/"},{"@type":"ListItem","position":2,"name":"SEO","item":"https://visience.ro/en/seo/"}]}]}3:T870f,<style>
+.seo-hero {
+  position: relative;
+  padding: calc(var(--nav-h) + 90px) 0 90px;
+  background: var(--cream);
+  overflow: hidden;
+}
+.seo-hero__inner {
+  display: grid;
+  grid-template-columns: 1.2fr 1fr;
+  gap: 70px;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+}
+.seo-hero__breadcrumbs {
+  font-family: var(--f-m);
+  font-size: 11px;
+  color: var(--mid);
+  letter-spacing: .06em;
+  margin-bottom: 24px;
+}
+.seo-hero__breadcrumbs a       { color: var(--mid); transition: color .2s; }
+.seo-hero__breadcrumbs a:hover { color: var(--acc-deep); }
+.seo-hero__breadcrumbs .sep    { margin: 0 10px; opacity: .4; }
+
+.seo-hero__h1 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(38px, 5.2vw, 70px);
+  line-height: .98;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 26px;
+}
+.seo-hero__h1 .acc {
+  background: var(--acc);
+  color: var(--acc-ink);
+  padding: 0 12px 4px;
+  border-radius: 10px;
+  display: inline-block;
+  line-height: 1.05;
+}
+.seo-hero__lead {
+  font-size: 17px;
+  line-height: 1.78;
+  color: var(--mid);
+  margin-bottom: 32px;
+  font-weight: 300;
+  max-width: 540px;
+}
+.seo-hero__pts {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-bottom: 36px;
+  max-width: 540px;
+}
+.seo-pt {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 14px;
+  color: var(--ink);
+  font-weight: 500;
+}
+.seo-pt-dot {
+  width: 18px; height: 18px;
+  background: var(--acc);
+  color: var(--acc-ink);
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 10px; font-weight: 700;
+  flex-shrink: 0; margin-top: 2px;
+}
+.seo-hero__cta {
+  display: flex; gap: 10px; flex-wrap: wrap;
+}
+
+.seo-hero__visual {
+  position: relative;
+  height: 480px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.seo-hero__mockup {
+  position: relative;
+  width: 100%;
+  max-width: 460px;
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  padding: 24px 22px;
+  box-shadow: 0 30px 80px rgba(17,16,16,.08);
+  z-index: 2;
+}
+.seo-mockup__bar {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 18px;
+}
+.seo-mockup__search {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--cream);
+  padding: 8px 12px;
+  border-radius: 100px;
+  font-family: var(--f-m);
+  font-size: 11px;
+  color: var(--mid);
+}
+.seo-mockup__search i { color: var(--acc-deep); font-size: 11px; }
+.seo-mockup__results {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.seo-mockup__row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 14px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--cream);
+}
+.seo-mockup__row.top {
+  background: var(--acc-bg);
+  border-color: rgba(155,195,26,.35);
+}
+.seo-mockup__rank {
+  width: 26px; height: 26px;
+  border-radius: 8px;
+  background: var(--cream2);
+  color: var(--mid);
+  display: flex; align-items: center; justify-content: center;
+  font-family: var(--f-d); font-weight: 800; font-size: 13px;
+  flex-shrink: 0;
+}
+.seo-mockup__row.top .seo-mockup__rank {
+  background: var(--acc); color: var(--acc-ink);
+}
+.seo-mockup__lines { flex: 1; }
+.seo-mockup__l1 {
+  height: 7px; border-radius: 3px;
+  background: var(--ink); opacity: .8;
+  margin-bottom: 6px; width: 70%;
+}
+.seo-mockup__row.top .seo-mockup__l1 { background: var(--acc); opacity: 1; }
+.seo-mockup__l2 {
+  height: 4px; border-radius: 2px;
+  background: var(--cream3); width: 90%;
+}
+.seo-mockup__trend {
+  margin-top: 16px;
+  padding: 14px;
+  background: var(--ink);
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.seo-mockup__trend-lbl {
+  font-family: var(--f-m); font-size: 10px;
+  letter-spacing: .08em; text-transform: uppercase;
+  color: rgba(255,255,255,.55);
+}
+.seo-mockup__trend-val {
+  font-family: var(--f-d); font-size: 16px; font-weight: 800;
+  color: var(--acc2);
+  display: flex; align-items: center; gap: 6px;
+}
+.seo-mockup__trend-val i { font-size: 13px; }
+
+
+.seo-intro {
+  background: var(--white);
+  padding: 90px 0;
+  position: relative;
+}
+.seo-intro__inner {
+  max-width: 880px;
+  margin: 0 auto;
+}
+.seo-intro h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(28px, 3.5vw, 44px);
+  line-height: 1.1;
+  letter-spacing: -.025em;
+  color: var(--ink);
+  margin: 56px 0 18px;
+}
+.seo-intro h2:first-child { margin-top: 0; }
+.seo-intro p {
+  font-size: 16px;
+  line-height: 1.84;
+  color: var(--mid);
+  font-weight: 300;
+  margin-bottom: 16px;
+}
+.seo-intro p strong { color: var(--ink); font-weight: 600; }
+.seo-intro p a       { color: var(--acc-deep); border-bottom: 1px solid var(--acc); transition: opacity .2s; }
+.seo-intro p a:hover { opacity: .65; }
+
+
+.seo-incl {
+  padding: 100px 0;
+  background: var(--cream);
+}
+.seo-incl__head {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto 56px;
+}
+.seo-incl__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(34px, 4.5vw, 56px);
+  line-height: 1.0;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 18px;
+}
+.seo-incl__h2 .acc { color: var(--acc-deep); }
+.seo-incl__sub {
+  font-size: 16px; line-height: 1.8;
+  color: var(--mid); font-weight: 300;
+}
+.seo-incl__grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+.seo-card {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 34px 28px 30px;
+  transition: .3s;
+}
+.seo-card:hover {
+  border-color: rgba(155,195,26,.3);
+  transform: translateY(-6px);
+  box-shadow: 0 20px 44px rgba(155,195,26,.08);
+}
+.seo-card__ico {
+  width: 52px; height: 52px;
+  border-radius: 14px;
+  background: var(--acc-bg);
+  color: var(--acc-deep);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  margin-bottom: 22px;
+  transition: .3s;
+}
+.seo-card:hover .seo-card__ico {
+  background: var(--acc);
+  color: var(--acc-ink);
+}
+.seo-card h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: -.015em;
+  margin: 0 0 12px;
+  color: var(--ink);
+  line-height: 1.2;
+}
+.seo-card p {
+  font-size: 13px;
+  color: var(--mid);
+  line-height: 1.72;
+  font-weight: 300;
+  margin: 0;
+}
+
+
+.seo-prices {
+  padding: 100px 0;
+  background: var(--white);
+}
+.seo-prices__head {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto 56px;
+}
+.seo-prices__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(34px, 4.5vw, 60px);
+  line-height: 1.0;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 18px;
+}
+.seo-prices__h2 .acc { color: var(--acc-deep); }
+.seo-prices__sub {
+  font-size: 16px; line-height: 1.8;
+  color: var(--mid); font-weight: 300;
+}
+
+.seo-pkg-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  align-items: stretch;
+}
+.seo-pkg {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 36px 32px 32px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  transition: .3s;
+}
+.seo-pkg:hover {
+  border-color: rgba(155,195,26,.3);
+  transform: translateY(-6px);
+  box-shadow: 0 20px 48px rgba(155,195,26,.08);
+}
+.seo-pkg.featured {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--white);
+}
+.seo-pkg.featured:hover { box-shadow: 0 24px 56px rgba(17,16,16,.2); }
+.seo-pkg__badge {
+  position: absolute;
+  top: -12px; left: 50%;
+  transform: translateX(-50%);
+  background: var(--acc);
+  color: var(--acc-ink);
+  font-family: var(--f-m);
+  font-size: 9px;
+  font-weight: 500;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  padding: 5px 14px;
+  border-radius: 100px;
+}
+.seo-pkg__name {
+  font-family: var(--f-m);
+  font-size: 11px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--mid);
+  margin-bottom: 8px;
+}
+.seo-pkg.featured .seo-pkg__name { color: rgba(255,255,255,.5); }
+.seo-pkg__price {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(32px, 3.6vw, 46px);
+  letter-spacing: -.04em;
+  line-height: 1;
+  color: var(--acc-deep);
+  margin-bottom: 4px;
+}
+.seo-pkg__price-note {
+  font-size: 12px;
+  color: var(--light);
+  margin-bottom: 22px;
+}
+.seo-pkg.featured .seo-pkg__price-note { color: rgba(255,255,255,.4); }
+.seo-pkg__desc {
+  font-size: 14px;
+  line-height: 1.7;
+  color: var(--mid);
+  margin-bottom: 26px;
+  font-weight: 300;
+  padding-bottom: 22px;
+  border-bottom: 1px solid var(--border);
+}
+.seo-pkg.featured .seo-pkg__desc {
+  color: rgba(255,255,255,.55);
+  border-bottom-color: rgba(255,255,255,.1);
+}
+.seo-pkg__feats {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 28px;
+  flex: 1;
+}
+.seo-pkg__feat {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 13px;
+  line-height: 1.55;
+  color: var(--ink);
+}
+.seo-pkg.featured .seo-pkg__feat { color: rgba(255,255,255,.85); }
+.seo-pkg__feat-tick {
+  color: var(--acc-deep);
+  flex-shrink: 0;
+  margin-top: 2px;
+  font-weight: 700;
+}
+
+.seo-extra {
+  max-width: 880px;
+  margin: 40px auto 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+.seo-extra__box {
+  background: var(--cream);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 26px 28px;
+}
+.seo-extra__box h4 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: -.01em;
+  margin: 0 0 8px;
+  color: var(--ink);
+  display: flex; align-items: center; gap: 10px;
+}
+.seo-extra__box h4 i { color: var(--acc-deep); font-size: 15px; }
+.seo-extra__box p {
+  font-size: 13px;
+  line-height: 1.7;
+  color: var(--mid);
+  font-weight: 300;
+  margin: 0;
+}
+.seo-extra__box p strong { color: var(--ink); font-weight: 600; }
+
+
+.seo-process {
+  padding: 100px 0;
+  background: var(--cream2);
+}
+.seo-process__head {
+  margin-bottom: 56px;
+  max-width: 640px;
+}
+.seo-process__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(30px, 4vw, 50px);
+  line-height: 1.02;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 16px;
+}
+.seo-process__sub {
+  font-size: 16px; line-height: 1.8;
+  color: var(--mid); font-weight: 300;
+}
+.seo-process__list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+.seo-step {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 30px 28px;
+  transition: .3s;
+}
+.seo-step:hover {
+  border-color: rgba(155,195,26,.3);
+  transform: translateY(-4px);
+  box-shadow: 0 14px 28px rgba(17,16,16,.06);
+}
+.seo-step__n {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: 36px;
+  color: var(--acc-deep);
+  letter-spacing: -.03em;
+  line-height: 1;
+  margin-bottom: 16px;
+}
+.seo-step h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.015em;
+  margin: 0 0 10px;
+  color: var(--ink);
+  line-height: 1.2;
+}
+.seo-step p {
+  font-size: 13px;
+  color: var(--mid);
+  line-height: 1.7;
+  font-weight: 300;
+  margin: 0;
+}
+
+
+.seo-faq {
+  padding: 100px 0;
+  background: var(--white);
+}
+.seo-faq__head {
+  text-align: center;
+  max-width: 640px;
+  margin: 0 auto 50px;
+}
+.seo-faq__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(28px, 3.6vw, 44px);
+  line-height: 1.04;
+  letter-spacing: -.03em;
+  color: var(--ink);
+}
+.seo-faq__h2 .acc { color: var(--acc-deep); }
+.seo-faq__list {
+  max-width: 860px;
+  margin: 0 auto;
+  border-top: 1px solid var(--border);
+}
+.seo-faq-item {
+  border-bottom: 1px solid var(--border);
+  padding: 24px 0;
+}
+.seo-faq-item summary {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.01em;
+  color: var(--ink);
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding-right: 8px;
+  transition: color .22s;
+}
+.seo-faq-item summary::-webkit-details-marker { display: none; }
+.seo-faq-item summary::after {
+  content: '+';
+  font-family: var(--f-d);
+  font-size: 26px;
+  font-weight: 300;
+  color: var(--acc-deep);
+  transition: transform .3s;
+  flex-shrink: 0;
+  line-height: 1;
+}
+.seo-faq-item[open] summary::after { transform: rotate(45deg); }
+.seo-faq-item:hover summary { color: var(--acc-deep); }
+.seo-faq-item p {
+  margin-top: 14px;
+  font-size: 14px;
+  color: var(--mid);
+  line-height: 1.78;
+  font-weight: 300;
+  max-width: 740px;
+}
+.seo-faq-item p strong { color: var(--ink); font-weight: 600; }
+
+
+.seo-cta {
+  padding: 110px 0;
+  background: var(--ink);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.seo-cta::before {
+  content: '';
+  position: absolute;
+  top: -100px; right: -100px;
+  width: 420px; height: 420px;
+  background: radial-gradient(circle, rgba(155,195,26,.22) 0%, transparent 70%);
+  pointer-events: none;
+}
+.seo-cta > .wrap { position: relative; z-index: 1; }
+.seo-cta__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(34px, 5vw, 64px);
+  line-height: 1.0;
+  letter-spacing: -.03em;
+  color: var(--white);
+  margin-bottom: 20px;
+}
+.seo-cta__h2 .acc {
+  background: linear-gradient(135deg, var(--acc) 0%, var(--acc2) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.seo-cta__p {
+  font-size: 16px;
+  color: rgba(255,255,255,.5);
+  font-weight: 300;
+  max-width: 540px;
+  margin: 0 auto 32px;
+  line-height: 1.78;
+}
+.seo-cta__btns {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 1024px) {
+  .seo-hero { padding: calc(var(--nav-h) + 60px) 0 70px; }
+  .seo-hero__inner { grid-template-columns: 1fr; gap: 50px; }
+  .seo-hero__visual { height: auto; order: -1; }
+  .seo-intro { padding: 70px 0; }
+  .seo-incl { padding: 80px 0; }
+  .seo-incl__grid { grid-template-columns: repeat(2, 1fr); }
+  .seo-prices { padding: 80px 0; }
+  .seo-pkg-grid { grid-template-columns: 1fr; gap: 20px; }
+  .seo-pkg.featured { transform: none; }
+  .seo-process { padding: 70px 0; }
+  .seo-process__list { grid-template-columns: 1fr; max-width: 480px; }
+  .seo-faq { padding: 70px 0; }
+  .seo-cta { padding: 80px 0; }
+}
+
+@media (max-width: 640px) {
+  .seo-hero__pts { grid-template-columns: 1fr; }
+  .seo-hero__cta { flex-direction: column; }
+  .seo-hero__cta .btn { justify-content: center; }
+  .seo-incl__grid { grid-template-columns: 1fr; gap: 12px; }
+  .seo-extra { grid-template-columns: 1fr; }
+  .seo-pkg { padding: 28px 24px 26px; }
+  .seo-cta__btns { flex-direction: column; }
+  .seo-cta__btns .btn { width: 100%; justify-content: center; }
+}
+</style>
+
+
+<main id="main">
+
+<section class="seo-hero" aria-labelledby="seo-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="20%" x2="100%" y2="60%"/>
+      <line x1="0" y1="50%" x2="100%" y2="90%"/>
+      <line x1="0" y1="80%" x2="100%" y2="30%"/>
+      <line x1="25%" y1="0" x2="75%" y2="100%"/>
+      <line x1="60%" y1="0" x2="10%" y2="100%"/>
+    </svg>
+  </div>
+
+  <div class="wrap">
+    <div class="seo-hero__inner">
+
+      <div class="rv">
+        <nav class="seo-hero__breadcrumbs" aria-label="Breadcrumbs">
+          <a href="/en/">Home</a>
+          <span class="sep">/</span>
+          <a href="/en/#services">Services</a>
+          <span class="sep">/</span>
+          <span>SEO</span>
+        </nav>
+
+
+        <h1 class="seo-hero__h1" id="seo-h1">
+          Visibility in Google<br>
+          <span class="acc">that holds.</span>
+        </h1>
+
+        <p class="seo-hero__lead">
+          Visience does SEO for clients in the United States and across Europe: technical optimisation, content that answers real questions, link building and monthly reporting. The retainer starts at $700 a month over a 6-month minimum, and one-off technical SEO work is $70 an hour.
+        </p>
+
+        <div class="seo-hero__pts">
+          <div class="seo-pt"><span class="seo-pt-dot">✓</span><span>Technical &amp; on-page SEO</span></div>
+          <div class="seo-pt"><span class="seo-pt-dot">✓</span><span>Strategy over 6 months minimum</span></div>
+          <div class="seo-pt"><span class="seo-pt-dot">✓</span><span>Content &amp; link building</span></div>
+          <div class="seo-pt"><span class="seo-pt-dot">✓</span><span>Monthly report you can read</span></div>
+        </div>
+
+        <div class="seo-hero__cta">
+          <a href="/en/contact/" class="btn btn-solid">Ask for a quote</a>
+          <a href="tel:+40771486499" class="btn btn-ghost">+40 771 486 499</a>
+        </div>
+      </div>
+
+      <div class="seo-hero__visual rv rv-d2">
+        <div class="seo-hero__mockup" aria-hidden="true">
+          <div class="seo-mockup__bar">
+            <div class="seo-mockup__search">
+              <i class="fas fa-magnifying-glass"></i>
+              <span>your service near me</span>
+            </div>
+          </div>
+          <div class="seo-mockup__results">
+            <div class="seo-mockup__row top">
+              <span class="seo-mockup__rank">1</span>
+              <div class="seo-mockup__lines">
+                <div class="seo-mockup__l1"></div>
+                <div class="seo-mockup__l2"></div>
+              </div>
+            </div>
+            <div class="seo-mockup__row">
+              <span class="seo-mockup__rank">2</span>
+              <div class="seo-mockup__lines">
+                <div class="seo-mockup__l1"></div>
+                <div class="seo-mockup__l2"></div>
+              </div>
+            </div>
+            <div class="seo-mockup__row">
+              <span class="seo-mockup__rank">3</span>
+              <div class="seo-mockup__lines">
+                <div class="seo-mockup__l1"></div>
+                <div class="seo-mockup__l2"></div>
+              </div>
+            </div>
+          </div>
+          <div class="seo-mockup__trend">
+            <span class="seo-mockup__trend-lbl">Organic traffic</span>
+            <span class="seo-mockup__trend-val"><i class="fas fa-arrow-trend-up"></i></span>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="seo-intro" aria-labelledby="seo-intro-h2">
+  <div class="wrap">
+    <div class="seo-intro__inner rv">
+
+      <h2 id="seo-intro-h2">SEO and content marketing for organic growth</h2>
+      <p>
+        We are a <strong>marketing agency</strong> that builds long-term organic visibility in Google. We do <strong>technical on-page SEO</strong>, ongoing <strong>on-page and off-page</strong> strategy, <strong>quality link building</strong>, plus <strong>newsletter and email marketing</strong> — all lined up against your business goals, not against vanity metrics.
+      </p>
+      <p>
+        Every site we build is <strong>SEO-ready from the build</strong>: proper semantic structure, loading speed, structured data and clean URLs. For serious positions, though, we recommend an <strong>ongoing SEO strategy over at least 6 months</strong> — SEO is not a project with an end date, it is a process that compounds. <a href="/en/contact/">Ask for an analysis of your site →</a>
+      </p>
+
+      <h2>Why ongoing SEO rather than a one-time fix?</h2>
+      <p>
+        Google reassesses your site every day, and your competitors are not standing still. A one-time optimisation gives you a lift for a while, but good positions are won and kept through <strong>content published consistently</strong>, <strong>authority built through link building</strong> and <strong>continuous technical work</strong>. That is why our main package is a monthly engagement over at least 6 months — the window in which SEO starts producing visible, stable results.
+      </p>
+      <p>
+        Beyond the rankings, good content keeps working for you after the visitor lands: useful articles, guides and well-structured pages that answer what your customers are actually asking. <a href="#seo-faq">See the frequently asked questions →</a>
+      </p>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="seo-incl" aria-labelledby="seo-incl-h2">
+  <div class="wrap">
+
+    <div class="seo-incl__head rv">
+      <h2 class="seo-incl__h2" id="seo-incl-h2">Everything behind <span class="acc">where you rank</span></h2>
+      <p class="seo-incl__sub">
+        From the technical footing through to content and authority. We cover the whole cycle by which a site gets found and gets picked in Google.
+      </p>
+    </div>
+
+    <div class="seo-incl__grid rv rv-d2">
+
+      <div class="seo-card">
+        <div class="seo-card__ico"><i class="fas fa-gauge-high"></i></div>
+        <h3>Audit &amp; technical SEO</h3>
+        <p>A full audit, sitemap and robots, schema markup, speed work and broken links fixed, for a clean footing Google can index properly.</p>
+      </div>
+
+      <div class="seo-card">
+        <div class="seo-card__ico"><i class="fas fa-key"></i></div>
+        <h3>Keywords &amp; on-page</h3>
+        <p>Keyword research built on real search intent, and on-page work: titles, meta, content structure and internal links that bring the right traffic.</p>
+      </div>
+
+      <div class="seo-card">
+        <div class="seo-card__ico"><i class="fas fa-link"></i></div>
+        <h3>Content &amp; link building</h3>
+        <p>SEO content written for people and for Google, plus strategic link building from relevant sources that builds authority without risking a penalty.</p>
+      </div>
+
+      <div class="seo-card">
+        <div class="seo-card__ico"><i class="fas fa-chart-line"></i></div>
+        <h3>Reporting &amp; monitoring</h3>
+        <p>A clear monthly report with positions, organic traffic and conversions. You see exactly what was done and what comes next, with no jargon and no promises we cannot keep.</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="seo-prices" id="prices" aria-labelledby="seo-prices-h2">
+  <div class="wrap">
+
+    <div class="seo-prices__head rv">
+      <h2 class="seo-prices__h2" id="seo-prices-h2">
+        SEO prices —<br><span class="acc">published, with no surprises</span>
+      </h2>
+      <p class="seo-prices__sub">
+        Pick the level that suits your business. All prices are a guide. You get a quote for your case after we look at your site.
+      </p>
+    </div>
+
+    <div class="seo-pkg-grid">
+
+      <div class="seo-pkg featured rv">
+        <span class="seo-pkg__badge">Recommended</span>
+        <div class="seo-pkg__name">Full SEO strategy</div>
+        <div class="seo-pkg__price">$700<span style="font-size:.42em;font-weight:600;letter-spacing:0"> / month</span></div>
+        <div class="seo-pkg__price-note">6 months minimum · serious positions</div>
+        <p class="seo-pkg__desc">
+          The full monthly engagement for sustained organic growth. The best option for businesses that want stable positions in Google.
+        </p>
+        <div class="seo-pkg__feats">
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Keyword research</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Ongoing on-page optimisation</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Strategic link building</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Monthly SEO content</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Monthly performance report</span></div>
+        </div>
+        <a href="/en/contact/" class="btn btn-solid" style="justify-content:center">Ask for a quote</a>
+      </div>
+
+      <div class="seo-pkg rv rv-d1">
+        <div class="seo-pkg__name">E-commerce SEO</div>
+        <div class="seo-pkg__price">from $1,740</div>
+        <div class="seo-pkg__price-note">E-commerce project</div>
+        <p class="seo-pkg__desc">
+          SEO built for online stores: products, categories and the right architecture for indexing a large catalogue.
+        </p>
+        <div class="seo-pkg__feats">
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Product + category SEO</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Product schema (structured data)</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Faceted search handled properly</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Canonicals + pagination</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Speed optimisation</span></div>
+        </div>
+        <a href="/en/contact/" class="btn btn-ghost" style="justify-content:center">Ask for a quote</a>
+      </div>
+
+      <div class="seo-pkg rv rv-d2">
+        <div class="seo-pkg__name">Technical SEO</div>
+        <div class="seo-pkg__price">$70<span style="font-size:.42em;font-weight:600;letter-spacing:0"> / hour</span></div>
+        <div class="seo-pkg__price-note">One-off work</div>
+        <p class="seo-pkg__desc">
+          For sites that need targeted technical fixes, without a monthly engagement. You pay only for the hours actually worked.
+        </p>
+        <div class="seo-pkg__feats">
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Technical audit</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Sitemap + robots</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Schema markup</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Speed optimisation</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Broken links fixed</span></div>
+        </div>
+        <a href="/en/contact/" class="btn btn-ghost" style="justify-content:center">Ask for a quote</a>
+      </div>
+
+    </div>
+
+    <div class="seo-extra rv rv-d2">
+      <div class="seo-extra__box">
+        <h4><i class="fas fa-arrow-up-right-from-square"></i> External link building</h4>
+        <p>Articles with backlinks from relevant sources and a <strong>DA/DR report</strong> for every placement, so domain authority grows in a controlled way. Added on top of the monthly strategy as an option.</p>
+      </div>
+      <div class="seo-extra__box">
+        <h4><i class="fas fa-envelope-open-text"></i> Email marketing &amp; automation</h4>
+        <p>Email automations <strong>from $350 a sequence</strong> (welcome, abandoned cart, win-back) and <strong>email campaign management at $350 a month</strong>. We keep the audience close and bring visitors back to the site.</p>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
+<section class="seo-process" aria-labelledby="seo-process-h2">
+  <div class="wrap">
+
+    <div class="seo-process__head rv">
+      <h2 class="seo-process__h2" id="seo-process-h2">From audit to stable positions</h2>
+      <p class="seo-process__sub">
+        A clear process, step by step, through which your site becomes more visible month after month.
+      </p>
+    </div>
+
+    <div class="seo-process__list rv rv-d2">
+
+      <article class="seo-step">
+        <div class="seo-step__n">01</div>
+        <h3>Audit &amp; analysis</h3>
+        <p>We start from a full technical audit and keyword research based on what your customers are actually searching for.</p>
+      </article>
+
+      <article class="seo-step">
+        <div class="seo-step__n">02</div>
+        <h3>On-page work</h3>
+        <p>We fix the technical footing, structure the content and work the titles, meta and internal links so indexing goes right.</p>
+      </article>
+
+      <article class="seo-step">
+        <div class="seo-step__n">03</div>
+        <h3>Content &amp; authority</h3>
+        <p>We publish relevant SEO content and build authority through strategic link building from quality sources.</p>
+      </article>
+
+      <article class="seo-step">
+        <div class="seo-step__n">04</div>
+        <h3>Monitoring</h3>
+        <p>We track positions, organic traffic and on-site behaviour, so we know exactly what is working and what needs adjusting.</p>
+      </article>
+
+      <article class="seo-step">
+        <div class="seo-step__n">05</div>
+        <h3>Ongoing optimisation</h3>
+        <p>We adjust the strategy each month against the data and against what the competition is doing. SEO does not stop, it compounds.</p>
+      </article>
+
+      <article class="seo-step">
+        <div class="seo-step__n">06</div>
+        <h3>Report &amp; direction</h3>
+        <p>You get a clear monthly report with results and recommendations, plus the priorities for the month ahead.</p>
+      </article>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="seo-faq" id="seo-faq" aria-labelledby="seo-faq-h2">
+  <div class="wrap">
+
+    <div class="seo-faq__head rv">
+      <h2 class="seo-faq__h2" id="seo-faq-h2">What you should know about <span class="acc">SEO</span></h2>
+    </div>
+
+    <div class="seo-faq__list rv rv-d2">
+
+      <details class="seo-faq-item">
+        <summary>How long until SEO results show?</summary>
+        <p>SEO is a long-term investment, not an instant result. As a rule, the first improvements in position appear in 2–3 months, and consistent results in organic traffic usually show after 4–6 months of steady work. That is why we recommend a strategy over at least 6 months — it is the window in which the technical work, the content and the authority built start compounding into stable results.</p>
+      </details>
+
+      <details class="seo-faq-item">
+        <summary>Do you guarantee position 1 in Google?</summary>
+        <p>No, and you should be wary of anyone who promises that. Positions in Google are decided by Google's algorithm, against hundreds of factors and against the competition in your niche, so no serious specialist can guarantee them. What we do guarantee is the work done properly: technical audit, on-page optimisation, quality content, clean link building and a monthly report showing exactly what we did and how the positions are moving. We only use techniques that follow Google's own guidelines, with no shortcuts that risk a penalty.</p>
+      </details>
+
+      <details class="seo-faq-item">
+        <summary>What is in the monthly SEO strategy?</summary>
+        <p>The $700 a month package (6 months minimum) covers keyword research, ongoing on-page optimisation, strategic link building, monthly SEO content and a monthly performance report. In practice, we handle everything to do with growing your site organically, month by month, and adjust the direction against the results.</p>
+      </details>
+
+      <details class="seo-faq-item">
+        <summary>Do you do local SEO (Google Business)?</summary>
+        <p>Yes. For businesses with a physical presence, or ones serving a particular area, local SEO matters. We optimise the Google Business profile, keep the contact details consistent (NAP), work local keywords and structure the site for "service + city" searches, so you show up in the results and on the map in your area.</p>
+      </details>
+
+      <details class="seo-faq-item">
+        <summary>Do you do an SEO audit before starting?</summary>
+        <p>Yes. Every engagement starts with an analysis of your site, so we understand where you stand and what has the biggest impact. The technical audit is part of the service, and for one-off work you can also take the Technical SEO package at $70 an hour, with no monthly commitment.</p>
+      </details>
+
+      <details class="seo-faq-item">
+        <summary>Do you do SEO for online stores?</summary>
+        <p>Yes. SEO for online stores has its own quirks and we treat it as a dedicated project, from $1,740: product and category optimisation, Product schema, faceted search handled properly, canonicals and pagination, plus speed work. Every site we build is already SEO-ready from the build, and for serious positions we add the ongoing strategy.</p>
+      </details>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="seo-cta" aria-labelledby="seo-cta-h2">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="seo-cta__h2" id="seo-cta-h2">
+        Let us grow<br>
+        <span class="acc">your visibility in Google</span>
+      </h2>
+      <p class="seo-cta__p">
+        Tell us about your site and what you want from it. We come back with an analysis and a quote, nothing to sign.
+      </p>
+      <div class="seo-cta__btns">
+        <a href="/en/contact/" class="btn btn-solid">Ask for a quote</a>
+        <a href="tel:+40771486499" class="btn btn-dark">Call now: +40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Related services and published prices">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> No hidden prices</span>
+      <h2>See exactly what you pay.</h2>
+      <p>We do not work with hidden rates or surprises on the invoice. All our packages and prices are public. You choose knowing where you stand, with nobody pushing you.</p>
+      <a href="/en/pricing/" class="rel-trans__link">See all prices <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Carry on with</div>
+      <div class="rel-links__grid">
+        <a href="/en/google-meta-ads/" class="rel-link"><span class="rel-link__name">Google &amp; Meta Ads <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Campaigns aimed at leads and sales.</span></a>
+        <a href="/en/web-design/" class="rel-link"><span class="rel-link__name">Web design <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Fast company websites, designed on your brand.</span></a>
+        <a href="/en/online-store/" class="rel-link"><span class="rel-link__name">Online stores <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">WooCommerce and Shopify built to sell.</span></a>
+        <a href="/en/portfolio/" class="rel-link"><span class="rel-link__name">Portfolio <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Real projects delivered by our team.</span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ycGl9jnQBTSVa_S0yZp7A"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

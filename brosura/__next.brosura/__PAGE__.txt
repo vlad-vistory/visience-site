@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
-5:I[97367,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+5:I[97367,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 6:"$Sreact.suspense"
 :HL["/_next/static/chunks/3dpbwq9v8sqbu.css","style"]
-2:T1627,<main class="pb-page">
+2:T15f7,<main class="pb-page">
 
   <div class="pb-bar">
     <div class="pb-bar__in">
@@ -12,7 +12,7 @@
       </div>
       <div class="pb-bar__r">
         <div class="pb-count" id="pbCount">pagina <strong>1</strong> / 15</div>
-        <a class="pb-dl" href="/media/brosura/Visience-Brosura-Prezentare.pdf" download>
+        <a class="pb-dl" href="/media/brosura/v2/Visience-Brosura-Prezentare.pdf" download>
           <svg width="15" height="15" viewBox="0 0 16 16" fill="none" aria-hidden="true">
             <path d="M8 1.5v9m0 0L4.5 7M8 10.5 11.5 7M2 13.5h12" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
           </svg>
@@ -24,21 +24,21 @@
 
   <div class="pb-doc">
     <div class="pb-doc__in" id="pbDoc">
-      <img class="pb-sheet" src="/media/brosura/p01.avif" width="1400" height="1982" alt="Broșura de prezentare Visience — servicii de marketing pentru afaceri ambițioase" fetchpriority="high">
-      <img class="pb-sheet" src="/media/brosura/p02.avif" width="1400" height="1982" alt="Pagina 2: cine suntem — o agenție care vinde, nu doar face site-uri frumoase" loading="lazy">
-      <img class="pb-sheet" src="/media/brosura/p03.avif" width="1400" height="1982" alt="Pagina 3: ce facem — tot ce îi trebuie unei firme ca să-și vândă serviciile" loading="lazy">
-      <img class="pb-sheet" src="/media/brosura/p04.avif" width="1400" height="1982" alt="Pagina 4: ce oferim în plus — CRM inclus" loading="lazy">
-      <img class="pb-sheet" src="/media/brosura/p05.avif" width="1400" height="1982" alt="Pagina 5: experiență reală — fiecare domeniu vinde altfel, clienți din portofoliu" loading="lazy">
-      <img class="pb-sheet" src="/media/brosura/p06.avif" width="1400" height="1982" alt="Pagina 6: portofoliu website — site-uri de prezentare și magazine online" loading="lazy">
-      <img class="pb-sheet" src="/media/brosura/p07.avif" width="1400" height="1982" alt="Pagina 7: portofoliu branding — logo, identitate vizuală, ambalaje" loading="lazy">
-      <img class="pb-sheet" src="/media/brosura/p08.avif" width="1400" height="1982" alt="Pagina 8: portofoliu social media — postări și creative de campanie" loading="lazy">
-      <img class="pb-sheet" src="/media/brosura/p09.avif" width="1400" height="1982" alt="Pagina 9: portofoliu aplicații și print — design de aplicații mobile și materiale tipărite" loading="lazy">
-      <img class="pb-sheet" src="/media/brosura/p10.avif" width="1400" height="1982" alt="Pagina 10: cum lucrăm — de la prima discuție la primele cereri" loading="lazy">
-      <img class="pb-sheet" src="/media/brosura/p11.avif" width="1400" height="1982" alt="Pagina 11: ai deja un website? ne pliem pe ce ai" loading="lazy">
-      <img class="pb-sheet" src="/media/brosura/p12.avif" width="1400" height="1982" alt="Pagina 12: pachete complete — Start, Standard și Premium" loading="lazy">
-      <img class="pb-sheet" src="/media/brosura/p13.avif" width="1400" height="1982" alt="Pagina 13: prețuri — cât costă să construim, site-uri, magazine, branding" loading="lazy">
-      <img class="pb-sheet" src="/media/brosura/p14.avif" width="1400" height="1982" alt="Pagina 14: prețuri — cât costă să aducem clienți, campanii, SEO, social media" loading="lazy">
-      <img class="pb-sheet" src="/media/brosura/p15.avif" width="1400" height="1982" alt="Pagina 15: contact — spune-ne ce vinzi și îți spunem cum se vinde mai bine" loading="lazy">
+      <img class="pb-sheet" src="/media/brosura/v2/p01.avif" width="1400" height="1982" alt="Broșura de prezentare Visience — servicii de marketing pentru afaceri ambițioase" fetchpriority="high">
+      <img class="pb-sheet" src="/media/brosura/v2/p02.avif" width="1400" height="1982" alt="Pagina 2: cine suntem — o agenție care vinde, nu doar face site-uri frumoase" loading="lazy">
+      <img class="pb-sheet" src="/media/brosura/v2/p03.avif" width="1400" height="1982" alt="Pagina 3: ce facem — tot ce îi trebuie unei firme ca să-și vândă serviciile" loading="lazy">
+      <img class="pb-sheet" src="/media/brosura/v2/p04.avif" width="1400" height="1982" alt="Pagina 4: ce oferim în plus — CRM inclus" loading="lazy">
+      <img class="pb-sheet" src="/media/brosura/v2/p05.avif" width="1400" height="1982" alt="Pagina 5: experiență reală — fiecare domeniu vinde altfel, clienți din portofoliu" loading="lazy">
+      <img class="pb-sheet" src="/media/brosura/v2/p06.avif" width="1400" height="1982" alt="Pagina 6: portofoliu website — site-uri de prezentare și magazine online" loading="lazy">
+      <img class="pb-sheet" src="/media/brosura/v2/p07.avif" width="1400" height="1982" alt="Pagina 7: portofoliu branding — logo, identitate vizuală, ambalaje" loading="lazy">
+      <img class="pb-sheet" src="/media/brosura/v2/p08.avif" width="1400" height="1982" alt="Pagina 8: portofoliu social media — postări și creative de campanie" loading="lazy">
+      <img class="pb-sheet" src="/media/brosura/v2/p09.avif" width="1400" height="1982" alt="Pagina 9: portofoliu aplicații și print — design de aplicații mobile și materiale tipărite" loading="lazy">
+      <img class="pb-sheet" src="/media/brosura/v2/p10.avif" width="1400" height="1982" alt="Pagina 10: cum lucrăm — de la prima discuție la primele cereri" loading="lazy">
+      <img class="pb-sheet" src="/media/brosura/v2/p11.avif" width="1400" height="1982" alt="Pagina 11: ai deja un website? ne pliem pe ce ai" loading="lazy">
+      <img class="pb-sheet" src="/media/brosura/v2/p12.avif" width="1400" height="1982" alt="Pagina 12: pachete complete — Start, Standard și Premium" loading="lazy">
+      <img class="pb-sheet" src="/media/brosura/v2/p13.avif" width="1400" height="1982" alt="Pagina 13: prețuri — cât costă să construim, site-uri, magazine, branding" loading="lazy">
+      <img class="pb-sheet" src="/media/brosura/v2/p14.avif" width="1400" height="1982" alt="Pagina 14: prețuri — cât costă să aducem clienți, campanii, SEO, social media" loading="lazy">
+      <img class="pb-sheet" src="/media/brosura/v2/p15.avif" width="1400" height="1982" alt="Pagina 15: contact — spune-ne ce vinzi și îți spunem cum se vinde mai bine" loading="lazy">
     </div>
   </div>
 
@@ -51,7 +51,7 @@
       </p>
       <div class="pb-end__acts">
         <a href="/contact/" class="btn btn-solid">Programează un apel <span aria-hidden="true">→</span></a>
-        <a class="btn btn-ghost" href="/media/brosura/Visience-Brosura-Prezentare.pdf" download>Descarcă broșura (PDF)</a>
+        <a class="btn btn-ghost" href="/media/brosura/v2/Visience-Brosura-Prezentare.pdf" download>Descarcă broșura (PDF)</a>
       </div>
       <div class="pb-end__meta">
         <span><a href="mailto:contact@visience.ro">contact@visience.ro</a></span>
@@ -101,7 +101,7 @@
   recalc();
 })();
 </script>
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],["$L3"],"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"NB7g79pyt6ofif6wNv2Bi"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],["$L3"],"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ycGl9jnQBTSVa_S0yZp7A"}
 3:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3dpbwq9v8sqbu.css","precedence":"next"}]
 4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
 7:null

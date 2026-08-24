@@ -1,0 +1,1524 @@
+1:"$Sreact.fragment"
+6:I[97367,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+2:T114a,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/en/real-estate-marketing/#service","name":"Real estate marketing for property developers","serviceType":"Real estate marketing","inLanguage":"en","provider":{"@type":"Organization","name":"Visience","url":"https://visience.ro/en/"},"areaServed":["US","RO","IT","FR","DE"],"audience":{"@type":"BusinessAudience","audienceType":"Property developers"},"offers":[{"@type":"Offer","priceCurrency":"USD","price":"4060","itemOffered":{"@type":"Service","name":"Start package, under 30 units"}},{"@type":"Offer","priceCurrency":"USD","price":"7540","itemOffered":{"@type":"Service","name":"Standard package, 30 to 80 units"}},{"@type":"Offer","priceCurrency":"USD","price":"13920","itemOffered":{"@type":"Service","name":"Full ecosystem, over 80 units"}},{"@type":"Offer","priceCurrency":"USD","price":"1000","itemOffered":{"@type":"Service","name":"Managed campaigns, monthly"}},{"@type":"Offer","priceCurrency":"USD","price":"930","itemOffered":{"@type":"Service","name":"Area analysis"}}]},{"@type":"FAQPage","@id":"https://visience.ro/en/real-estate-marketing/#faq","mainEntity":[{"@type":"Question","name":"How soon can I launch the website for my development?","acceptedAnswer":{"@type":"Answer","text":"It depends on how many apartment types go on the site and how quickly the plans and renders arrive. The date is fixed in the quote and kept."}},{"@type":"Question","name":"How much do I spend a month on Google and Meta Ads?","acceptedAnswer":{"@type":"Answer","text":"The ad budget is not part of the packages; it is paid straight to Google and Meta. For a mid-size scheme we recommend at least $1,160 a month on Google plus $930 a month on Meta, starting at a 60/40 split and moving budget to the channel with the lower cost per lead."}},{"@type":"Question","name":"Do you have experience with mortgage-financed sales?","acceptedAnswer":{"@type":"Answer","text":"Yes. Our sites include pages on payment options, a mortgage calculator and banking partners, built together with mortgage brokers."}},{"@type":"Question","name":"Can you work alongside my PR agency or my estate agent?","acceptedAnswer":{"@type":"Answer","text":"Yes. We coordinate with the estate agent on lead handover, with PR on message consistency, and with photographers and 3D studios on the visual assets."}},{"@type":"Question","name":"What happens after the last unit sells?","acceptedAnswer":{"@type":"Answer","text":"The site stays live for the brand's credibility and the ad budget drops to a minimum. When the next phase launches, the brand and the CRM are already in place."}},{"@type":"Question","name":"Do you work with developers outside Romania?","acceptedAnswer":{"@type":"Answer","text":"Yes. We have clients in Romania, Italy, France and Germany and work with developers in the United States. The whole engagement can run remotely."}},{"@type":"Question","name":"What does marketing for a residential development cost?","acceptedAnswer":{"@type":"Answer","text":"Packages start at $4,060 one-off for small developments. The most chosen is Standard, from $7,540 setup plus $1,740 a month with campaigns and reporting included. The area analysis costs $930 and is deducted from the launch package."}},{"@type":"Question","name":"Do you produce photorealistic 3D renders?","acceptedAnswer":{"@type":"Answer","text":"Not in house. We take the renders made by the architect, or coordinate a specialist partner, then work them into the website, campaigns and sales material."}},{"@type":"Question","name":"How do we sell apartments before construction is finished?","acceptedAnswer":{"@type":"Answer","text":"Off-plan selling needs trust: clear plans and build progress updated monthly, a waiting list with a launch offer, awareness campaigns in the area, and automated email keeping leads warm until the reservation contract."}},{"@type":"Question","name":"Do you work with estate agencies and listing portals?","acceptedAnswer":{"@type":"Answer","text":"Yes. We coordinate portal listings with separate tracking per channel and hand leads to the developer's agents or partner agency through the CRM."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visience.ro/en/"},{"@type":"ListItem","position":2,"name":"Real estate marketing","item":"https://visience.ro/en/real-estate-marketing/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ycGl9jnQBTSVa_S0yZp7A"}
+5:T11503,<style>
+.dev-page { background: var(--cream); }
+
+.dev-section__head {
+  margin-bottom: clamp(40px, 6vw, 70px);
+  max-width: 760px;
+}
+.dev-section__head h2 { margin-bottom: 16px; }
+.dev-section__head h2 .hi {
+  color: var(--mid);
+  font-style: italic;
+  font-weight: 300;
+}
+
+.dev-hero {
+  padding: clamp(80px, 12vw, 150px) 0 clamp(70px, 10vw, 120px);
+  background: var(--ink);
+  color: var(--white);
+  position: relative;
+  overflow: hidden;
+}
+.dev-hero::before {
+  content: '';
+  position: absolute;
+  top: -100px; right: -200px;
+  width: 600px; height: 600px;
+  background: radial-gradient(circle, rgba(155,195,26,.15) 0%, transparent 60%);
+  pointer-events: none;
+}
+.dev-hero::after {
+  content: '';
+  position: absolute;
+  bottom: -200px; left: -200px;
+  width: 500px; height: 500px;
+  background: radial-gradient(circle, rgba(155,195,26,.08) 0%, transparent 60%);
+  pointer-events: none;
+}
+.dev-hero > .wrap { position: relative; z-index: 1; max-width: 880px; }
+
+.dev-hero__h { color: var(--white); margin-bottom: 28px; }
+.dev-hero__h .hi {
+  font-weight: 300;
+  font-style: italic;
+  color: rgba(255,255,255,.5);
+}
+.dev-hero__sub {
+  max-width: 620px;
+  color: rgba(255,255,255,.65);
+  margin-bottom: 36px;
+}
+
+.dev-hero__acts {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 64px;
+}
+.dev-hero .btn-ghost {
+  border-color: rgba(255,255,255,.25);
+  color: var(--white);
+}
+.dev-hero .btn-ghost:hover {
+  background: rgba(255,255,255,.08);
+  border-color: var(--acc-deep);
+  color: var(--acc2);
+}
+
+.dev-hero__stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 40px;
+  padding-top: 40px;
+  border-top: 1px solid rgba(255,255,255,.1);
+}
+.dev-hero__stat { display: flex; flex-direction: column; }
+.dev-hero__stat .num {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(28px, 3.8vw, 44px);
+  color: var(--acc2);
+  letter-spacing: -.03em;
+  line-height: 1;
+  margin-bottom: 8px;
+}
+.dev-hero__stat .lbl {
+  font-family: var(--f-m);
+  font-size: 10px;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: rgba(255,255,255,.5);
+}
+
+.dev-pain {
+  padding: clamp(70px, 10vw, 130px) 0;
+  background: var(--white);
+}
+.dev-pain__grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+.dev-pain-card {
+  background: var(--cream);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 32px 26px 30px;
+  transition: .3s;
+}
+.dev-pain-card:hover {
+  border-color: rgba(155,195,26,.3);
+  transform: translateY(-4px);
+  box-shadow: 0 18px 36px rgba(17,16,16,.06);
+}
+.dev-pain-card__ico {
+  width: 48px; height: 48px;
+  border-radius: 12px;
+  background: var(--acc-bg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 22px;
+  color: var(--acc-deep);
+  font-size: 20px;
+  transition: .3s;
+}
+.dev-pain-card:hover .dev-pain-card__ico {
+  background: var(--acc);
+  color: var(--acc-ink);
+}
+.dev-pain-card h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.015em;
+  margin: 0 0 12px;
+  line-height: 1.2;
+}
+.dev-pain-card p {
+  font-size: 13px;
+  color: var(--mid);
+  line-height: 1.7;
+  font-weight: 300;
+  margin: 0;
+}
+
+.dev-portfolio {
+  padding: clamp(70px, 10vw, 130px) 0;
+  background: var(--cream);
+}
+.dev-portfolio__grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+}
+
+.dev-services {
+  padding: clamp(70px, 10vw, 130px) 0;
+  background: var(--white);
+}
+.dev-services__grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1px;
+  background: var(--border);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  overflow: hidden;
+}
+.dev-svc {
+  background: var(--white);
+  padding: 36px 30px 34px;
+  position: relative;
+  transition: background .3s;
+}
+.dev-svc:hover { background: var(--cream); }
+.dev-svc__num {
+  position: absolute;
+  top: 24px; right: 24px;
+  font-family: var(--f-m);
+  font-size: 10px;
+  letter-spacing: .12em;
+  color: var(--light);
+  font-weight: 500;
+}
+.dev-svc__ico {
+  font-size: 28px;
+  color: var(--acc-deep);
+  margin-bottom: 22px;
+  display: block;
+}
+.dev-svc h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: -.015em;
+  margin: 0 0 12px;
+  color: var(--ink);
+  line-height: 1.2;
+}
+.dev-svc p {
+  font-size: 13px;
+  color: var(--mid);
+  line-height: 1.7;
+  font-weight: 300;
+  margin: 0;
+}
+
+.dev-process {
+  padding: clamp(70px, 10vw, 130px) 0;
+  background: var(--cream2);
+}
+.dev-process__list--faze { align-items: start; }
+.dev-process__list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+.dev-step {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 30px 28px;
+  transition: .3s;
+}
+.dev-step:hover {
+  border-color: rgba(155,195,26,.3);
+  transform: translateY(-4px);
+  box-shadow: 0 14px 28px rgba(17,16,16,.06);
+}
+.dev-step__n {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: 36px;
+  color: var(--acc-deep);
+  letter-spacing: -.03em;
+  line-height: 1;
+  margin-bottom: 6px;
+}
+.dev-step__time {
+  font-family: var(--f-m);
+  font-size: 10px;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--light);
+  margin-bottom: 16px;
+}
+.dev-step h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.015em;
+  margin: 0 0 10px;
+  color: var(--ink);
+  line-height: 1.2;
+}
+.dev-step p {
+  font-size: 13px;
+  color: var(--mid);
+  line-height: 1.7;
+  font-weight: 300;
+  margin: 0;
+}
+.dev-step__liv {
+  list-style: none;
+  margin: 16px 0 0;
+  padding: 16px 0 0;
+  border-top: 1px solid var(--border);
+  display: grid;
+  gap: 9px;
+}
+.dev-step__liv li {
+  position: relative;
+  padding-left: 18px;
+  font-size: 12.5px;
+  line-height: 1.6;
+  color: var(--mid);
+  font-weight: 300;
+}
+.dev-step__liv li::before {
+  content: "";
+  position: absolute;
+  left: 0; top: 8px;
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  background: var(--acc);
+}
+
+.dev-results {
+  padding: clamp(70px, 10vw, 130px) 0;
+  background: var(--ink);
+  color: var(--white);
+}
+.dev-results .dev-section__head h2 { color: var(--white); }
+.dev-results .dev-section__head h2 .hi { color: rgba(255,255,255,.45); }
+.dev-results .eyebrow { color: var(--acc2); }
+.dev-results__grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  border: 1px solid rgba(255,255,255,.1);
+  border-radius: var(--rlg);
+  overflow: hidden;
+}
+.dev-result {
+  padding: 44px 30px;
+  border-right: 1px solid rgba(255,255,255,.1);
+}
+.dev-result:last-child { border-right: none; }
+.dev-result__num {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(36px, 4.5vw, 56px);
+  color: var(--acc2);
+  letter-spacing: -.03em;
+  line-height: 1;
+  margin-bottom: 12px;
+}
+.dev-result__num--txt {
+  font-size: clamp(20px, 2.2vw, 27px);
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -.01em;
+}
+.dev-results__note {
+  margin: 26px auto 0;
+  max-width: 760px;
+  text-align: center;
+  font-size: 14.5px;
+  line-height: 1.6;
+  color: rgba(255,255,255,.55);
+}
+.dev-result__lbl {
+  font-family: var(--f-m);
+  font-size: 11px;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: rgba(255,255,255,.55);
+  line-height: 1.6;
+}
+
+.dev-pricing {
+  padding: clamp(70px, 10vw, 130px) 0;
+  background: var(--cream);
+}
+.dev-pkg-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+.dev-pkg {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 32px 28px 30px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  transition: .3s;
+}
+.dev-pkg:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 40px rgba(17,16,16,.07);
+  border-color: rgba(155,195,26,.25);
+}
+.dev-pkg--featured {
+  border-color: var(--acc-deep);
+  background: linear-gradient(170deg, var(--white) 0%, var(--acc-bg) 100%);
+}
+.dev-pkg__tag {
+  display: inline-flex;
+  align-self: flex-start;
+  padding: 5px 12px;
+  background: var(--cream);
+  border: 1px solid var(--border);
+  border-radius: 100px;
+  font-family: var(--f-m);
+  font-size: 10px;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--mid);
+  margin-bottom: 18px;
+  font-weight: 500;
+}
+.dev-pkg--featured .dev-pkg__tag {
+  background: var(--acc);
+  color: var(--acc-ink);
+  border-color: var(--acc-deep);
+}
+.dev-pkg__h {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: 24px;
+  letter-spacing: -.02em;
+  margin: 0 0 16px;
+  color: var(--ink);
+}
+.dev-pkg__price {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 16px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--border);
+}
+.dev-pkg__from {
+  font-family: var(--f-m);
+  font-size: 10px;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--light);
+  margin-bottom: 4px;
+}
+.dev-pkg__amt {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: 38px;
+  letter-spacing: -.03em;
+  color: var(--acc-deep);
+  line-height: 1;
+  margin-bottom: 4px;
+}
+.dev-pkg__unit {
+  font-family: var(--f-m);
+  font-size: 11px;
+  color: var(--mid);
+  letter-spacing: .04em;
+}
+.dev-pkg__desc {
+  font-size: 13px;
+  color: var(--mid);
+  line-height: 1.7;
+  font-weight: 300;
+  margin: 0 0 20px;
+}
+.dev-pkg__list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 28px;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+}
+.dev-pkg__list li {
+  font-size: 13px;
+  color: var(--ink);
+  line-height: 1.5;
+  position: relative;
+  padding-left: 22px;
+}
+.dev-pkg__list li::before {
+  content: '';
+  position: absolute;
+  left: 0; top: 5px;
+  width: 14px; height: 14px;
+  background: var(--acc-bg) url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 14 14'><path d='M3 7l2.5 2.5L11 4' stroke='%23E8980A' stroke-width='2' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>") center/9px no-repeat;
+  border-radius: 50%;
+}
+.dev-pkg__cta {
+  margin-top: auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 13px 22px;
+  background: var(--ink);
+  color: var(--white);
+  border-radius: 100px;
+  font-family: var(--f-m);
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  transition: .24s;
+}
+.dev-pkg__cta:hover {
+  background: var(--acc);
+  color: var(--acc-ink);
+  transform: translateY(-2px);
+}
+.dev-pkg--featured .dev-pkg__cta {
+  background: var(--acc);
+  color: var(--acc-ink);
+}
+.dev-pkg--featured .dev-pkg__cta:hover {
+  background: var(--acc-dark);
+}
+
+.dev-guides {
+  padding: clamp(60px, 8vw, 100px) 0;
+  background: var(--cream);
+}
+.dev-section__sub {
+  margin: 12px 0 0;
+  color: var(--mid);
+  font-size: 16px;
+}
+.dev-guides__grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+  margin-top: 40px;
+}
+.dev-guide {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 26px 26px 22px;
+  background: var(--white);
+  border: 1px solid var(--cream3);
+  border-radius: 16px;
+  transition: border-color .25s, transform .25s, box-shadow .25s;
+}
+.dev-guide:hover {
+  border-color: var(--acc);
+  transform: translateY(-3px);
+  box-shadow: 0 14px 34px rgba(17, 17, 20, .07);
+}
+.dev-guide__t {
+  font-family: var(--f-d);
+  font-weight: 650;
+  font-size: 18px;
+  line-height: 1.35;
+  color: var(--ink);
+}
+.dev-guide__d {
+  font-size: 14.5px;
+  line-height: 1.55;
+  color: var(--mid);
+  flex: 1;
+}
+.dev-guide__arr {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--acc-deep);
+}
+@media (max-width: 860px) {
+  .dev-guides__grid { grid-template-columns: 1fr; }
+}
+
+.dev-faq {
+  padding: clamp(70px, 10vw, 130px) 0;
+  background: var(--white);
+}
+.dev-faq__list {
+  max-width: 860px;
+  margin: 0 auto;
+  border-top: 1px solid var(--border);
+}
+.dev-faq-item {
+  border-bottom: 1px solid var(--border);
+  padding: 24px 0;
+}
+.dev-faq-item summary {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.01em;
+  color: var(--ink);
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding-right: 8px;
+  transition: color .22s;
+}
+.dev-faq-item summary::-webkit-details-marker { display: none; }
+.dev-faq-item summary::after {
+  content: '+';
+  font-family: var(--f-d);
+  font-size: 26px;
+  font-weight: 300;
+  color: var(--acc-deep);
+  transition: transform .3s;
+  flex-shrink: 0;
+  line-height: 1;
+}
+.dev-faq-item[open] summary::after { transform: rotate(45deg); }
+.dev-faq-item:hover summary { color: var(--acc-deep); }
+.dev-faq-item p {
+  margin-top: 14px;
+  font-size: 14px;
+  color: var(--mid);
+  line-height: 1.75;
+  font-weight: 300;
+  max-width: 720px;
+}
+
+.dev-cta {
+  padding: clamp(80px, 12vw, 150px) 0;
+  background: var(--ink);
+  color: var(--white);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.dev-cta::before {
+  content: '';
+  position: absolute;
+  top: -100px; right: -100px;
+  width: 400px; height: 400px;
+  background: radial-gradient(circle, rgba(155,195,26,.25) 0%, transparent 70%);
+  pointer-events: none;
+}
+.dev-cta > .wrap {
+  position: relative;
+  z-index: 1;
+  max-width: 720px;
+}
+.dev-cta .eyebrow {
+  color: var(--acc2);
+  justify-content: center;
+}
+.dev-cta__h {
+  color: var(--white);
+  margin-bottom: 20px;
+}
+.dev-cta__h .hi {
+  font-weight: 300;
+  font-style: italic;
+  color: var(--acc2);
+}
+.dev-cta__p {
+  color: rgba(255,255,255,.6);
+  font-size: clamp(15px, 1.3vw, 18px);
+  max-width: 540px;
+  margin: 0 auto 40px;
+  line-height: 1.7;
+  font-weight: 300;
+}
+.dev-cta__acts {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.dev-folio {
+  display: flex;
+  flex-direction: column;
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  overflow: hidden;
+  transition: .3s;
+}
+.dev-folio:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 18px 36px rgba(17,16,16,.07);
+  border-color: rgba(155,195,26,.3);
+}
+.dev-folio__img { aspect-ratio: 16/10; overflow: hidden; background: var(--cream2); }
+.dev-folio__img img { width: 100%; height: 100%; object-fit: cover; object-position: top; display: block; }
+.dev-folio__body { padding: 24px 24px 26px; display: flex; flex-direction: column; gap: 10px; flex: 1; }
+.dev-folio__body h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: -.015em;
+  color: var(--ink);
+  margin: 0;
+}
+.dev-folio__body p { font-size: 13px; color: var(--mid); line-height: 1.7; font-weight: 300; margin: 0; }
+.dev-folio__stat {
+  margin-top: auto;
+  padding-top: 12px;
+  font-family: var(--f-m);
+  font-size: 11px;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  color: var(--acc-deep);
+}
+.dev-folio--cta {
+  background: var(--ink);
+  border-color: var(--ink);
+  justify-content: center;
+  padding: 40px 30px;
+}
+.dev-folio--cta h3 { color: #fff; font-family: var(--f-d); font-weight: 700; font-size: 22px; letter-spacing: -.015em; margin: 0 0 10px; }
+.dev-folio--cta p { color: rgba(255,255,255,.65); font-size: 13.5px; line-height: 1.7; font-weight: 300; margin: 0 0 24px; }
+.dev-folio--cta .btn { align-self: flex-start; }
+
+.dev-channels {
+  padding: clamp(70px, 10vw, 130px) 0;
+  background: var(--white);
+}
+.dev-channels .dev-pain__grid { grid-template-columns: repeat(3, 1fr); }
+
+@media (max-width: 1024px) {
+  .dev-hero__stats { grid-template-columns: repeat(2, 1fr); gap: 32px; }
+  .dev-channels .dev-pain__grid { grid-template-columns: repeat(2, 1fr); }
+  .dev-pain__grid { grid-template-columns: repeat(2, 1fr); }
+  .dev-portfolio__grid { grid-template-columns: repeat(2, 1fr); }
+  .dev-services__grid { grid-template-columns: repeat(2, 1fr); }
+  .dev-process__list { grid-template-columns: repeat(2, 1fr); }
+  .dev-results__grid { grid-template-columns: repeat(2, 1fr); }
+  .dev-results__grid .dev-result:nth-child(2) { border-right: none; }
+  .dev-results__grid .dev-result:nth-child(3),
+  .dev-results__grid .dev-result:nth-child(4) { border-top: 1px solid rgba(255,255,255,.1); }
+  .dev-pkg-grid { grid-template-columns: 1fr; max-width: 480px; margin: 0 auto; }
+}
+
+@media (max-width: 640px) {
+  .dev-hero__stats { grid-template-columns: 1fr 1fr; gap: 22px; }
+  .dev-pain__grid,
+  .dev-portfolio__grid,
+  .dev-services__grid,
+  .dev-process__list { grid-template-columns: 1fr; gap: 12px; }
+  .dev-channels .dev-pain__grid { grid-template-columns: 1fr; }
+  .dev-results__grid { grid-template-columns: 1fr; }
+  .dev-results__grid .dev-result {
+    border-right: none;
+    border-top: 1px solid rgba(255,255,255,.1);
+  }
+  .dev-results__grid .dev-result:first-child { border-top: none; }
+  .dev-cta__acts { flex-direction: column; }
+  .dev-cta__acts .btn { width: 100%; justify-content: center; }
+}
+/* ── structura preluata din brosura de propunere ── */
+.br-sec { padding: clamp(60px, 8vw, 100px) 0; }
+.br-sec--cream { background: var(--cream); }
+.br-sec--ink { background: var(--ink); color: #fff; }
+.br-h { max-width: 780px; margin-bottom: 40px; }
+.br-h h2 {
+  font-family: var(--f-d); font-weight: 700;
+  font-size: clamp(26px, 3.6vw, 40px); line-height: 1.14;
+  letter-spacing: -.022em; color: var(--ink); margin: 0 0 14px;
+}
+.br-sec--ink .br-h h2 { color: #fff; }
+.br-h p { font-size: 16.5px; line-height: 1.7; color: var(--ink2); margin: 0; }
+.br-sec--ink .br-h p { color: rgba(255,255,255,.72); }
+
+/* lantul de 5 etape */
+.br-lant { display: grid; grid-template-columns: repeat(5, 1fr); gap: 2px; background: var(--border); border-radius: 14px; overflow: hidden; margin-bottom: 36px; }
+.br-lant__c { background: var(--white); padding: 22px 18px; }
+.br-lant__n { font-family: var(--f-d); font-weight: 700; font-size: 16px; color: var(--ink); margin: 0 0 6px; }
+.br-lant__c:last-child .br-lant__n { color: var(--acc-deep); }
+.br-lant__p { font-size: 13px; line-height: 1.5; color: var(--mid); margin: 0; }
+
+/* lista numerotata de servicii */
+.br-list { display: grid; grid-template-columns: 1fr 1fr; gap: 2px; background: var(--border); border-radius: 14px; overflow: hidden; }
+.br-list__i { background: var(--white); padding: 26px 24px; display: grid; grid-template-columns: 34px 1fr; gap: 16px; align-items: start; }
+.br-list__n { font-family: var(--f-m); font-size: 12px; font-weight: 600; color: var(--acc-deep); padding-top: 3px; }
+.br-list__i h3 { font-family: var(--f-d); font-weight: 700; font-size: 17px; line-height: 1.25; color: var(--ink); margin: 0 0 7px; }
+.br-list__i p { font-size: 14.5px; line-height: 1.65; color: var(--ink2); margin: 0; }
+
+/* proiecte clicabile */
+.br-proj { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+.br-proj__c { display: block; text-decoration: none; background: var(--white); border-radius: 14px; overflow: hidden; transition: transform .3s, box-shadow .3s; }
+.br-sec--cream .br-proj__c { background: var(--white); }
+.br-proj__c:hover { transform: translateY(-4px); box-shadow: 0 18px 40px rgba(17,16,16,.12); }
+.br-proj__img { display: block; aspect-ratio: 4 / 5; overflow: hidden; background: var(--cream2); }
+.br-proj__img img { width: 100%; height: 100%; object-fit: cover; display: block; }
+/* toate sunt <span> in interiorul unui <a>: fara display:block raman inline,
+   iar textul curge pana in marginea cardului */
+.br-proj__b { display: block; padding: 18px 20px 20px; }
+.br-proj__n { display: block; font-family: var(--f-d); font-weight: 700; font-size: 16px; line-height: 1.3; color: var(--ink); margin: 0 0 7px; }
+.br-proj__p { display: block; font-size: 13.5px; line-height: 1.6; color: var(--ink2); margin: 0 0 12px; }
+.br-proj__m { display: block; font-family: var(--f-m); font-size: 11.5px; font-weight: 500; color: var(--acc-deep); }
+.br-proj__c:hover .br-proj__m { text-decoration: underline; }
+
+/* rezultate */
+.br-rez { display: grid; grid-template-columns: 1.1fr 1fr 1fr; gap: 18px; }
+.br-rez__c { background: rgba(255,255,255,.06); border-radius: 16px; padding: 28px 26px; display: flex; flex-direction: column; }
+.br-rez__n { font-family: var(--f-d); font-weight: 700; font-size: 18px; color: #fff; margin: 0 0 3px; }
+.br-rez__u { font-family: var(--f-m); font-size: 11.5px; color: rgba(255,255,255,.5); margin: 0 0 22px; word-break: break-all; }
+.br-rez__cif { display: flex; gap: 28px; flex-wrap: wrap; margin-top: auto; }
+.br-rez__v { font-family: var(--f-d); font-weight: 700; font-size: clamp(28px, 3.2vw, 38px); line-height: 1; letter-spacing: -.03em; color: var(--acc); display: block; }
+.br-rez__e { display: block; margin-top: 6px; font-size: 12.5px; line-height: 1.45; color: rgba(255,255,255,.66); max-width: 14ch; }
+
+/* pagina de vanzare, pasi */
+.br-pasi { display: grid; gap: 2px; background: var(--border); border-radius: 14px; overflow: hidden; }
+.br-pasi__i { background: var(--white); padding: 20px 24px; display: grid; grid-template-columns: 200px 1fr; gap: 22px; align-items: baseline; }
+.br-pasi__t { font-family: var(--f-d); font-weight: 700; font-size: 15.5px; color: var(--ink); }
+.br-pasi__p { font-size: 14.5px; line-height: 1.65; color: var(--ink2); margin: 0; }
+
+/* pachete */
+.br-pk { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; align-items: stretch; }
+.br-pk__c { background: var(--white); border-radius: 16px; padding: 30px 26px; display: flex; flex-direction: column; }
+.br-pk__c--rec { background: var(--ink); color: #fff; }
+.br-pk__tag { font-family: var(--f-m); font-size: 10.5px; letter-spacing: .12em; text-transform: uppercase; color: var(--acc-deep); margin-bottom: 12px; }
+.br-pk__c--rec .br-pk__tag { color: var(--acc); }
+.br-pk__n { font-family: var(--f-d); font-weight: 700; font-size: 21px; margin: 0 0 8px; }
+.br-pk__d { font-size: 14px; line-height: 1.6; color: var(--ink2); margin: 0 0 20px; }
+.br-pk__c--rec .br-pk__d { color: rgba(255,255,255,.72); }
+.br-pk__pret { font-family: var(--f-d); font-weight: 700; font-size: 34px; line-height: 1; letter-spacing: -.03em; margin-bottom: 4px; }
+.br-pk__sub { font-size: 13px; color: var(--mid); margin-bottom: 20px; }
+.br-pk__c--rec .br-pk__sub { color: rgba(255,255,255,.6); }
+.br-pk__l { list-style: none; margin: 0 0 20px; padding: 0; }
+.br-pk__l li { position: relative; padding-left: 20px; margin-bottom: 9px; font-size: 13.5px; line-height: 1.55; color: var(--ink2); }
+.br-pk__c--rec .br-pk__l li { color: rgba(255,255,255,.8); }
+.br-pk__l li::before { content: "✓"; position: absolute; left: 0; color: var(--acc-deep); font-weight: 700; font-size: 12px; }
+.br-pk__c--rec .br-pk__l li::before { color: var(--acc); }
+.br-pk__c .btn { margin-top: auto; width: 100%; justify-content: center; }
+
+/* tarife pe bucata */
+.br-tar { display: grid; grid-template-columns: 1fr 1fr; gap: 2px; background: var(--border); border-radius: 14px; overflow: hidden; }
+.br-tar__i { background: var(--white); padding: 18px 22px; display: flex; justify-content: space-between; gap: 18px; align-items: baseline; }
+.br-tar__n { font-size: 14.5px; color: var(--ink); font-weight: 500; }
+.br-tar__n small { display: block; font-size: 12.5px; color: var(--mid); font-weight: 400; margin-top: 3px; }
+.br-tar__p { font-family: var(--f-d); font-weight: 700; font-size: 15px; color: var(--acc-deep); white-space: nowrap; }
+.br-nota { margin-top: 22px; font-size: 13px; line-height: 1.65; color: var(--mid); max-width: 82ch; }
+
+@media (max-width: 1000px) {
+  .br-lant { grid-template-columns: 1fr 1fr; }
+  .br-list, .br-tar { grid-template-columns: 1fr; }
+  .br-proj { grid-template-columns: 1fr 1fr; }
+  .br-rez, .br-pk { grid-template-columns: 1fr; }
+  .br-pasi__i { grid-template-columns: 1fr; gap: 6px; }
+}
+@media (max-width: 600px) { .br-lant { grid-template-columns: 1fr; } .br-proj { grid-template-columns: 1fr 1fr; gap: 12px; } }
+/* subtitlul din hero: nu mai e in H1, ca titlul sa ramana scurt si clar */
+.dev-hero__sub {
+  font-family: var(--f-d); font-weight: 300;
+  font-size: clamp(19px, 2.1vw, 30px); line-height: 1.25;
+  letter-spacing: -.015em; color: rgba(255,255,255,.74);
+  margin: 10px 0 26px; max-width: 24ch;
+}
+/* titlul nu mai creste la nesfarsit pe ecrane mari si nu se mai rupe in doua */
+.dev-hero__in { max-width: 1180px; }
+.dev-hero h1.dd-xl {
+  font-size: clamp(38px, 5.4vw, 74px);
+  line-height: 1.04;
+  letter-spacing: -.03em;
+  max-width: 18ch;
+}
+.dev-hero .body-lg { max-width: 60ch; }
+@media (min-width: 1600px) {
+  .dev-hero { padding: 130px 0 110px; }
+  .br-sec { padding: 100px 0; }
+}
+/* ── fundal video in hero: proiectele clientilor, cate unul pe rand ── */
+.dev-hero {
+  display: flex; align-items: center;
+  min-height: min(86vh, 800px);
+}
+.dev-hero__vid { position: absolute; inset: 0; z-index: 0; overflow: hidden; }
+.dev-hero__v {
+  position: absolute; inset: 0; width: 100%; height: 100%;
+  object-fit: cover; opacity: 0; transition: opacity .8s ease;
+  /* usor estompat, ca textul de pe site-urile clientilor sa nu concureze cu al nostru */
+  filter: blur(1.6px) saturate(.88);
+  transform: scale(1.05);
+}
+.dev-hero__v.e { opacity: 1; }
+.dev-hero__v--p { display: none; }
+@media (max-width: 760px) {
+  .dev-hero__v--l { display: none; }
+  .dev-hero__v--p { display: block; }
+}
+.dev-hero__ov {
+  position: absolute; inset: 0; z-index: 1; pointer-events: none;
+  background:
+    linear-gradient(96deg, rgba(17,16,16,.96) 0%, rgba(17,16,16,.9) 33%,
+                           rgba(17,16,16,.6) 62%, rgba(17,16,16,.3) 100%),
+    linear-gradient(to top, rgba(17,16,16,.85) 0%, rgba(17,16,16,.45) 22%, transparent 46%),
+    linear-gradient(to bottom, rgba(17,16,16,.78) 0%, rgba(17,16,16,.3) 14%, transparent 26%);
+}
+.dev-hero::before, .dev-hero::after { z-index: 2; }
+.dev-hero > .wrap { z-index: 3; }
+
+@media (max-width: 760px) {
+  .dev-hero { min-height: 0; }
+  /* pe telefon textul sta chiar peste imagine, deci fundalul trebuie mai retras */
+  .dev-hero__v { filter: blur(4px) saturate(.75); }
+  .dev-hero__ov {
+    background:
+      linear-gradient(to bottom, rgba(17,16,16,.84) 0%, rgba(17,16,16,.88) 55%, rgba(17,16,16,.93) 100%);
+  }
+}
+@media (prefers-reduced-motion: reduce) { .dev-hero__v { transition: none; } }
+
+/* ── banda cu siglele clientilor din imobiliare si constructii ── */
+.dev-band { background: var(--ink); padding: 26px 0 30px; overflow: hidden; }
+.dev-band__t {
+  font-family: var(--f-m); font-size: 10.5px; letter-spacing: .18em; text-transform: uppercase;
+  color: rgba(255,255,255,.4); text-align: center; margin-bottom: 20px;
+}
+.dev-band__m {
+  position: relative;
+  overflow-x: auto; overflow-y: hidden;
+  scrollbar-width: none; -ms-overflow-style: none;
+  cursor: grab; -webkit-overflow-scrolling: touch;
+  -webkit-mask-image: linear-gradient(to right, transparent, #000 8%, #000 92%, transparent);
+          mask-image: linear-gradient(to right, transparent, #000 8%, #000 92%, transparent);
+}
+.dev-band__m::-webkit-scrollbar { display: none; }
+.dev-band__m.trage { cursor: grabbing; }
+.dev-band__tr {
+  display: flex; width: max-content; align-items: center;
+  animation: devBanda 46s linear infinite;
+  will-change: transform;
+}
+.dev-band__m:hover .dev-band__tr,
+.dev-band__m.trage .dev-band__tr { animation-play-state: paused; }
+@keyframes devBanda { from { transform: translate3d(0,0,0); } to { transform: translate3d(-50%,0,0); } }
+.dev-band__tr img {
+  display: block; height: 34px; width: auto; margin: 0 clamp(24px, 3.4vw, 46px);
+  opacity: .72; transition: opacity .3s;
+  flex: 0 0 auto; user-select: none; -webkit-user-drag: none; pointer-events: none;
+}
+.dev-band__m:hover .dev-band__tr img { opacity: .95; }
+@media (max-width: 700px) {
+  .dev-band__tr img { height: 27px; margin: 0 20px; }
+}
+
+/* capturi ale paginii de vanzare */
+/* anatomia paginii: fiecare bucata explicata, cu bucata de pagina langa ea */
+.br-anat { display: flex; flex-direction: column; gap: 6px; margin-bottom: 34px; }
+.br-anat__r {
+  display: grid; grid-template-columns: 1fr 300px; gap: clamp(28px, 5vw, 70px);
+  align-items: center; padding: 34px 0; border-top: 1px solid rgba(17,16,16,.1);
+}
+.br-anat__r:first-child { border-top: 0; padding-top: 6px; }
+.br-anat__r--inv { grid-template-columns: 300px 1fr; }
+.br-anat__r--inv .br-anat__f { order: -1; }
+.br-anat__n {
+  display: block; font-family: var(--f-m); font-size: 11px; letter-spacing: .16em;
+  color: var(--acc-deep); margin-bottom: 11px;
+}
+.br-anat__t h3 { font-family: var(--f-d); font-weight: 700; font-size: clamp(21px, 2.3vw, 28px); letter-spacing: -.02em; color: var(--ink); margin: 0 0 10px; }
+.br-anat__t p { font-size: 15px; line-height: 1.68; color: var(--ink2); margin: 0; max-width: 46ch; }
+.br-anat__f { margin: 0; }
+.br-anat__f img {
+  display: block; width: 100%; height: auto; border-radius: 12px;
+  box-shadow: 0 16px 44px rgba(17,16,16,.16);
+}
+.br-anat__f figcaption { margin-top: 10px; font-family: var(--f-m); font-size: 11px; color: var(--mid); }
+.br-anat__rest { display: flex; flex-wrap: wrap; gap: 10px 34px; padding-top: 26px; border-top: 1px solid rgba(17,16,16,.1); }
+.br-anat__rest div { max-width: 34ch; }
+.br-anat__rest b { display: block; font-family: var(--f-d); font-weight: 700; font-size: 15px; color: var(--ink); margin-bottom: 5px; }
+.br-anat__rest p { font-size: 14px; line-height: 1.6; color: var(--ink2); margin: 0; }
+@media (max-width: 860px) {
+  .br-anat__r, .br-anat__r--inv { grid-template-columns: 1fr; gap: 22px; padding: 26px 0; }
+  .br-anat__r--inv .br-anat__f { order: 0; }
+  .br-anat__f { max-width: 280px; }
+}
+/* placa mica pe cardul de rezultate */
+/* pe cardurile de rezultate punem sigla clientului, curata, fara imagine sub ea */
+.br-rez__lg { display: block; margin-bottom: 22px; }
+.br-rez__lg img { display: block; width: auto; height: 34px; max-width: 180px; }
+</style>
+<main class="dev-page">
+
+  <section class="dev-hero" id="devHero" aria-labelledby="dev-hero-h">
+    <div class="dev-hero__vid" aria-hidden="true">
+      <video class="dev-hero__v dev-hero__v--l" autoplay muted loop playsinline preload="none"
+             poster="/media/hero/dezvoltatori-land-v3-poster.jpg"
+             data-src="/media/hero/dezvoltatori-land-v3.mp4"></video>
+      <video class="dev-hero__v dev-hero__v--p" autoplay muted loop playsinline preload="none"
+             poster="/media/hero/dezvoltatori-port-v3-poster.jpg"
+             data-src="/media/hero/dezvoltatori-port-v3.mp4"></video>
+    </div>
+    <div class="dev-hero__ov" aria-hidden="true"></div>
+
+
+    <div class="wrap dev-hero__in">
+      <h1 class="dd dd-xl" id="dev-hero-h">Real estate marketing for developers</h1>
+      <p class="dev-hero__sub">from the first post to the last apartment sold</p>
+      <p class="body-lg">
+        We work with property developers selling new-build apartments: the development's brand,
+        a website with a page per apartment, Google and Meta campaigns, and one single place
+        where every lead lands. You build it, we put the project in front of the people
+        who actually buy.
+      </p>
+      <div class="dev-hero__acts">
+        <a href="/en/contact/" class="btn btn-solid">Ask for a proposal for your development <span aria-hidden="true">→</span></a>
+        <a href="/en/contact/" class="btn btn-ghost">Start with the area analysis</a>
+      </div>
+      <div class="dev-hero__stats">
+        <div class="dev-hero__stat"><span class="num">8,200+</span><span class="lbl">real estate leads</span></div>
+        <div class="dev-hero__stat"><span class="num">12 years</span><span class="lbl">in the work</span></div>
+        <div class="dev-hero__stat"><span class="num">9</span><span class="lbl">property projects</span></div>
+        <div class="dev-hero__stat"><span class="num">120+</span><span class="lbl">projects delivered</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="dev-band" aria-label="Residential developments and construction firms we work with">
+    <p class="dev-band__t">Residential developments, developers and construction firms</p>
+    <div class="dev-band__m" id="devBanda">
+      <div class="dev-band__tr">
+        <img src="/media/logo/banda/evergreen-towers-v1.webp" alt="Evergreen Towers" width="291" height="104">
+        <img src="/media/logo/banda/cameo-residence-v1.webp" alt="Cameo Residence" width="138" height="104">
+        <img src="/media/logo/banda/vlaicu87-v1.webp" alt="Vlaicu87" width="336" height="104">
+        <img src="/media/logo/banda/lapis-residence-v1.webp" alt="Lapis Residence" width="341" height="104">
+        <img src="/media/logo/banda/grand-beetle-v1.webp" alt="Grand Beetle" width="189" height="104">
+        <img src="/media/logo/banda/alfa-park-v1.webp" alt="Alfa Park Residence" width="163" height="104">
+        <img src="/media/logo/banda/picolina-v1.webp" alt="Picolina Bucium Residence" width="346" height="104">
+        <img src="/media/logo/banda/armur-design-v1.webp" alt="Armur Design" width="289" height="104">
+        <img src="/media/logo/banda/2m-tech-v1.webp" alt="2M Tech" width="429" height="104">
+        <img src="/media/logo/banda/4biz-properties-v1.webp" alt="4Biz Properties" width="188" height="104">
+        <img src="/media/logo/banda/im-design-studio-v1.webp" alt="IM Design Studio" width="358" height="104">
+        <img src="/media/logo/banda/amodelic-v1.webp" alt="Amodelic" width="180" height="104">
+        <img src="/media/logo/banda/evergreen-towers-v1.webp" aria-hidden="true" alt="" width="291" height="104">
+        <img src="/media/logo/banda/cameo-residence-v1.webp" aria-hidden="true" alt="" width="138" height="104">
+        <img src="/media/logo/banda/vlaicu87-v1.webp" aria-hidden="true" alt="" width="336" height="104">
+        <img src="/media/logo/banda/lapis-residence-v1.webp" aria-hidden="true" alt="" width="341" height="104">
+        <img src="/media/logo/banda/grand-beetle-v1.webp" aria-hidden="true" alt="" width="189" height="104">
+        <img src="/media/logo/banda/alfa-park-v1.webp" aria-hidden="true" alt="" width="163" height="104">
+        <img src="/media/logo/banda/picolina-v1.webp" aria-hidden="true" alt="" width="346" height="104">
+        <img src="/media/logo/banda/armur-design-v1.webp" aria-hidden="true" alt="" width="289" height="104">
+        <img src="/media/logo/banda/2m-tech-v1.webp" aria-hidden="true" alt="" width="429" height="104">
+        <img src="/media/logo/banda/4biz-properties-v1.webp" aria-hidden="true" alt="" width="188" height="104">
+        <img src="/media/logo/banda/im-design-studio-v1.webp" aria-hidden="true" alt="" width="358" height="104">
+        <img src="/media/logo/banda/amodelic-v1.webp" aria-hidden="true" alt="" width="180" height="104">
+      </div>
+    </div>
+  </section>
+
+
+  <section class="br-sec br-sec--cream">
+    <div class="wrap">
+      <div class="br-h rv">
+        <h2>Why developers work with us</h2>
+        <p>We are a real estate marketing agency working with developers across Romania and abroad. We take the promotion of a residential development from the first sign on the fence to the last apartment sold, with the same team from one end to the other.</p>
+      </div>
+      <div class="br-list rv rv-d2">
+        <div class="br-list__i"><span class="br-list__n">01</span><div><h3>One partner</h3><p>Brand, website, campaigns, content and leads under one roof. One person to call, not five firms pointing at each other.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">02</span><div><h3>Reporting you can read</h3><p>You see what is working and where each buyer came from. Decisions on data, not on guesses.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">03</span><div><h3>No hidden prices</h3><p>Every package and rate is published, on this page. No surprises on the invoice.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">04</span><div><h3>A personal answer</h3><p>We stay involved in the project directly. You do not get handed to a junior after signing.</p></div></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="br-sec" id="services">
+    <div class="wrap">
+      <div class="br-h rv">
+        <h2>Everything a development needs to sell, in one place</h2>
+        <p>Promoting a residential development is not just running ads. You should not have to work with one firm for design, another for the site, another for campaigns and a fourth for social media. We take the whole chain, and at the end you also get a CRM holding every lead, which your sales team can work from.</p>
+      </div>
+      <div class="br-lant rv">
+        <div class="br-lant__c"><p class="br-lant__n">Presence</p><p class="br-lant__p">Brand, website and social media</p></div>
+        <div class="br-lant__c"><p class="br-lant__n">Visibility</p><p class="br-lant__p">Google and Meta campaigns, SEO</p></div>
+        <div class="br-lant__c"><p class="br-lant__n">Capture</p><p class="br-lant__p">Offer pages and forms</p></div>
+        <div class="br-lant__c"><p class="br-lant__n">Leads</p><p class="br-lant__p">All in one CRM</p></div>
+        <div class="br-lant__c"><p class="br-lant__n">Sale</p><p class="br-lant__p">Reports and automation</p></div>
+      </div>
+      <div class="br-list rv rv-d2">
+        <div class="br-list__i"><span class="br-list__n">01</span><div><h3>Branding for a residential development</h3><p>A property brand starts with a well-chosen company name, then a development name to match. People remember you, so on the next project you start with recognition rather than from zero. Logo, palette, brand book, all of it consistent.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">02</span><div><h3>Website and apartment pages</h3><p>A site that is fast on a phone, with a dedicated page for each apartment type: floor plans, renders, specification, price and its own form.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">03</span><div><h3>Google and Meta campaigns</h3><p>Lead generation through Search, Display, YouTube, Facebook and Instagram, targeted by area and by real buying intent.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">04</span><div><h3>SEO and Google Maps</h3><p>The site catches the organic searches for your area, and the Google Business profile brings calls straight off the map.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">05</span><div><h3>Visual production</h3><p>We coordinate 3D renders, site photography, drone video and a 360 virtual tour. Content that sells the way of living, not just the building.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">06</span><div><h3>CRM and the availability grid</h3><p>Every lead in one place, with a status on each buyer and an account for each agent. Plus the availability grid on the site, where the buyer sees in real time what is free, what is reserved and what has sold.</p></div></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="br-sec br-sec--cream" id="crm">
+    <div class="wrap">
+      <div class="br-h rv">
+        <h2>A CRM for developers, with every lead in one place</h2>
+        <p>Leads on a development rarely get lost because there are few of them. They get lost because they are scattered: some in email, some on WhatsApp, some by phone, some on Facebook. We pull them all into one system, with an instant notification to sales.</p>
+      </div>
+      <div class="br-list rv rv-d2">
+        <div class="br-list__i"><span class="br-list__n">01</span><div><h3>The availability grid, live on the site</h3><p>Each apartment is marked available, reserved or sold, and the grid updates in real time. The buyer sees straight away what is left, and you stop answering the same question ten times.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">02</span><div><h3>See where each buyer came from</h3><p>You see which advertising channel brings actual sales, not just completed forms. Every lead arrives with the landing page, the button pressed and the source of the visit.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">03</span><div><h3>It plugs into your sales team</h3><p>A separate account for each agent, a status on each buyer and a monthly report. It can also connect to your partner agency, with lead handover and separate measurement per channel.</p></div></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="br-sec" id="work">
+    <div class="wrap">
+      <div class="br-h rv">
+        <h2>Real experience in property</h2>
+        <p>We are not learning the trade on your project. We have already taken residential developments and house schemes from launch to sold, with the brand, the website, the campaigns and the content that bring buyers in. Tap any of them to see what we did there.</p>
+      </div>
+      <div class="br-proj rv rv-d2">
+        <a class="br-proj__c" href="/proiecte/cameo-residence/">
+          <span class="br-proj__img"><img src="/media/tiles/v2/cameo-residence.avif" alt="Cameo Residence — a Visience project" width="720" height="900" loading="lazy"></span>
+          <span class="br-proj__b">
+            <span class="br-proj__n">Cameo Residence</span>
+            <span class="br-proj__p">Logo, website with a page per apartment, social media and Meta campaigns.</span>
+            <span class="br-proj__m">See the project →</span>
+          </span>
+        </a>
+        <a class="br-proj__c" href="/proiecte/vlaicu87/">
+          <span class="br-proj__img"><img src="/media/tiles/v2/vlaicu87.avif" alt="Vlaicu87 — a Visience project" width="720" height="900" loading="lazy"></span>
+          <span class="br-proj__b">
+            <span class="br-proj__n">Vlaicu87</span>
+            <span class="br-proj__p">A house scheme with its own park. Development branding and website.</span>
+            <span class="br-proj__m">See the project →</span>
+          </span>
+        </a>
+        <a class="br-proj__c" href="/proiecte/evergreen-towers/">
+          <span class="br-proj__img"><img src="/media/tiles/v2/evergreen-towers.avif" alt="Evergreen Towers — a Visience project" width="720" height="900" loading="lazy"></span>
+          <span class="br-proj__b">
+            <span class="br-proj__n">Evergreen Towers</span>
+            <span class="br-proj__p">Website, online presence and lead generation campaigns.</span>
+            <span class="br-proj__m">See the project →</span>
+          </span>
+        </a>
+        <a class="br-proj__c" href="/proiecte/lapis-residence/">
+          <span class="br-proj__img"><img src="/media/tiles/v2/lapis-residence.avif" alt="Lapis Residence — a Visience project" width="720" height="900" loading="lazy"></span>
+          <span class="br-proj__b">
+            <span class="br-proj__n">Lapis Residence</span>
+            <span class="br-proj__p">Meta campaigns for selling the apartments in Galata.</span>
+            <span class="br-proj__m">See the project →</span>
+          </span>
+        </a>
+        <a class="br-proj__c" href="/proiecte/grand-beetle/">
+          <span class="br-proj__img"><img src="/media/tiles/v3/grand-beetle.avif" alt="Grand Beetle — a Visience project" width="720" height="900" loading="lazy"></span>
+          <span class="br-proj__b">
+            <span class="br-proj__n">Grand Beetle</span>
+            <span class="br-proj__p">Identity and website for a new development in Iași.</span>
+            <span class="br-proj__m">See the project →</span>
+          </span>
+        </a>
+        <a class="br-proj__c" href="/proiecte/alfa-park-residence/">
+          <span class="br-proj__img"><img src="/media/tiles/v2/alfa-park-residence.avif" alt="Alfa Park Residence — a Visience project" width="720" height="900" loading="lazy"></span>
+          <span class="br-proj__b">
+            <span class="br-proj__n">Alfa Park Residence</span>
+            <span class="br-proj__p">Website for selling the units, in Botoșani.</span>
+            <span class="br-proj__m">See the project →</span>
+          </span>
+        </a>
+        <a class="br-proj__c" href="/proiecte/picolina/">
+          <span class="br-proj__img"><img src="/media/tiles/v3/picolina-b.avif" alt="Picolina Bucium — a Visience project" width="720" height="900" loading="lazy"></span>
+          <span class="br-proj__b">
+            <span class="br-proj__n">Picolina Bucium</span>
+            <span class="br-proj__p">Houses and apartment blocks: brand, site, campaigns and sales material.</span>
+            <span class="br-proj__m">See the project →</span>
+          </span>
+        </a>
+        <a class="br-proj__c" href="/proiecte/armur-design/">
+          <span class="br-proj__img"><img src="/media/tiles/v3/armur-design.avif" alt="Armur Design — a Visience project" width="720" height="900" loading="lazy"></span>
+          <span class="br-proj__b">
+            <span class="br-proj__n">Armur Design</span>
+            <span class="br-proj__p">Fit-out and construction, with the Galata residential development.</span>
+            <span class="br-proj__m">See the project →</span>
+          </span>
+        </a>
+        <a class="br-proj__c" href="/proiecte/4biz-properties/">
+          <span class="br-proj__img"><img src="/media/tiles/v2/4biz-properties.avif" alt="4Biz Properties — a Visience project" width="720" height="900" loading="lazy"></span>
+          <span class="br-proj__b">
+            <span class="br-proj__n">4Biz Properties</span>
+            <span class="br-proj__p">Commercial property consultancy: site, identity and campaigns.</span>
+            <span class="br-proj__m">See the project →</span>
+          </span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="br-sec br-sec--ink" id="results">
+    <div class="wrap">
+      <div class="br-h rv">
+        <h2>Results, not promises</h2>
+        <p>These numbers come from developers we work with, out of campaigns run end to end: the offer page, the Google and Meta campaigns, the leads collected into one sheet and handed to the sales team.</p>
+      </div>
+      <div class="br-rez rv rv-d2">
+        <div class="br-rez__c">
+          <span class="br-rez__lg"><img src="/media/logo/evergreen-towers-v1.webp" alt="Evergreen Towers" width="370" height="132" loading="lazy"></span>
+          <p class="br-rez__n">Evergreen Towers</p><p class="br-rez__u">evergreentowers.ro/oferta</p>
+          <div class="br-rez__cif">
+            <div><b class="br-rez__v">6,600+</b><span class="br-rez__e">leads in 3 years</span></div>
+            <div><b class="br-rez__v">400+</b><span class="br-rez__e">apartments sold in 3 years</span></div>
+          </div>
+        </div>
+        <div class="br-rez__c">
+          <span class="br-rez__lg"><img src="/media/logo/picolina-v1.webp" alt="Picolina Bucium" width="439" height="132" loading="lazy"></span>
+          <p class="br-rez__n">Picolina Bucium</p><p class="br-rez__u">picolina.ro/oferta-blocuri</p>
+          <div class="br-rez__cif"><div><b class="br-rez__v">1,000+</b><span class="br-rez__e">leads in 5 months</span></div></div>
+        </div>
+        <div class="br-rez__c">
+          <span class="br-rez__lg"><img src="/media/logo/armur-design-v1.webp" alt="Armur Design" width="367" height="132" loading="lazy"></span>
+          <p class="br-rez__n">Armur Design</p><p class="br-rez__u">armurdesign.ro/ansamblul-rezidential-galata</p>
+          <div class="br-rez__cif">
+            <div><b class="br-rez__v">600+</b><span class="br-rez__e">leads in 5 months</span></div>
+            <div><b class="br-rez__v">10</b><span class="br-rez__e">houses at €350,000 sold</span></div>
+          </div>
+        </div>
+      </div>
+      <p class="br-nota" style="color:rgba(255,255,255,.5)">Evergreen Towers and Picolina ran in collaboration with Vistory.</p>
+    </div>
+  </section>
+
+  <section class="br-sec">
+    <div class="wrap">
+      <div class="br-h rv">
+        <h2>What the page that brings the leads looks like</h2>
+        <p>The campaign takes people to one place, and that is where everything is decided. The structure below is the one that brought the 600 leads for Armur Design: exactly as many sections as it takes to answer every question, in the order the questions come up.</p>
+      </div>
+      <div class="br-anat rv">
+        <div class="br-anat__r">
+          <div class="br-anat__t">
+            <span class="br-anat__n">01</span>
+            <h3>The opening</h3>
+            <p>The name of the development, the city, how many homes and how much land. In three seconds someone knows whether this is for them, without scrolling.</p>
+          </div>
+          <figure class="br-anat__f">
+            <img src="/media/pagina/armur-prezentare.avif" alt="The top of the page on the Armur Design page" width="480" height="700" loading="lazy">
+            <figcaption>The top of the page</figcaption>
+          </figure>
+        </div>
+        <div class="br-anat__r br-anat__r--inv">
+          <div class="br-anat__t">
+            <span class="br-anat__n">02</span>
+            <h3>What they get</h3>
+            <p>Design, comfort, materials, energy efficiency. Four short arguments with icons, not three paragraphs nobody reads.</p>
+          </div>
+          <figure class="br-anat__f">
+            <img src="/media/pagina/armur-avantaje.avif" alt="The arguments, in short, on the Armur Design page" width="480" height="700" loading="lazy">
+            <figcaption>The arguments, in short</figcaption>
+          </figure>
+        </div>
+        <div class="br-anat__r">
+          <div class="br-anat__t">
+            <span class="br-anat__n">03</span>
+            <h3>Concept and photography</h3>
+            <p>What kind of home this is and who it is for, with the gallery of renders underneath. This is where it stops looking like a portal listing.</p>
+          </div>
+          <figure class="br-anat__f">
+            <img src="/media/pagina/armur-concept.avif" alt="Concept and gallery on the Armur Design page" width="480" height="700" loading="lazy">
+            <figcaption>Concept and gallery</figcaption>
+          </figure>
+        </div>
+        <div class="br-anat__r br-anat__r--inv">
+          <div class="br-anat__t">
+            <span class="br-anat__n">04</span>
+            <h3>The enquiry button</h3>
+            <p>The same request appears several times down the page, so nobody has to hunt for where to leave their details once they have decided.</p>
+          </div>
+          <figure class="br-anat__f">
+            <img src="/media/pagina/armur-oferta.avif" alt="The button that brings the lead on the Armur Design page" width="480" height="700" loading="lazy">
+            <figcaption>The button that brings the lead</figcaption>
+          </figure>
+        </div>
+        <div class="br-anat__r">
+          <div class="br-anat__t">
+            <span class="br-anat__n">05</span>
+            <h3>Details and floor plans</h3>
+            <p>Room-by-room areas, layout, floor plan. Exactly what gets asked on the first phone call, written down once for everyone.</p>
+          </div>
+          <figure class="br-anat__f">
+            <img src="/media/pagina/armur-detalii.avif" alt="Areas, room by room, on the Armur Design page" width="480" height="700" loading="lazy">
+            <figcaption>Areas, room by room</figcaption>
+          </figure>
+        </div>
+        <div class="br-anat__r br-anat__r--inv">
+          <div class="br-anat__t">
+            <span class="br-anat__n">06</span>
+            <h3>Materials and specification</h3>
+            <p>Structure, façade, utilities, garden. This section convinces the serious buyers and stops the ones who were never going to buy.</p>
+          </div>
+          <figure class="br-anat__f">
+            <img src="/media/pagina/armur-dotari.avif" alt="What goes into the house, on the Armur Design page" width="480" height="700" loading="lazy">
+            <figcaption>What goes into the house</figcaption>
+          </figure>
+        </div>
+        <div class="br-anat__rest">
+          <div><b>Location on the map</b><p>Real distances to schools, shops and the centre, not just an address written out.</p></div>
+          <div><b>Contact form</b><p>On the same page, short, with the details going straight into the CRM.</p></div>
+          <div><b>Want the full list?</b><p><a href="/en/contact/">Ask us for the layout broken into 19 pieces</a>, with what each one has to contain and what ruins it.</p></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="br-sec br-sec--cream" id="process">
+    <div class="wrap">
+      <div class="br-h rv">
+        <h2>How we work, from brief to the first leads</h2>
+        <p>Every stage has its deliverables and you always know where we are and what comes next. We set the pace against your build programme.</p>
+      </div>
+      <div class="br-list rv rv-d2">
+        <div class="br-list__i"><span class="br-list__n">01</span><div><h3>Analysis and brief</h3><p>We get to know the development, the audience and the strong points. We look at the local competition and at what already works in the market.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">02</span><div><h3>Strategy and concept</h3><p>We settle the message, the positioning and the site structure. We decide which campaigns start first and with what offer.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">03</span><div><h3>Branding, if it is needed</h3><p>Logo, palette, brand book. An identity applied consistently on the site, in print, on social and on the site hoardings.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">04</span><div><h3>Website and apartment pages</h3><p>Design, build, copy, measurement. Launch with every page complete and ready for search.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">05</span><div><h3>Campaign setup</h3><p>We configure Google Ads, Meta Ads and conversion tracking. We start with test budgets, to see which message and which area work.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">06</span><div><h3>Monthly optimisation</h3><p>A monthly report and continuous optimisation. We adjust the ads weekly and the pages monthly.</p></div></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="br-sec">
+    <div class="wrap">
+      <div class="br-h rv">
+        <h2>Already have a site? We work with what you have</h2>
+        <p>You do not have to throw away what you have built. We start from the existing site: we fix it, restructure it and connect it to the campaigns, so it starts bringing in people who are genuinely looking for new-build apartments and are close to deciding.</p>
+      </div>
+      <div class="br-list rv rv-d2">
+        <div class="br-list__i"><span class="br-list__n">01</span><div><h3>Speed and how it feels on a phone</h3><p>Most buyers search from a phone. A slow or confusing site loses leads you have already paid for with ad money.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">02</span><div><h3>Apartment pages and forms</h3><p>We add a dedicated page for each type, with plans, price and a short form people actually fill in.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">03</span><div><h3>Conversion tracking done right</h3><p>We set up conversion events on forms, phone calls and WhatsApp. Without measurement, campaigns run blind.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">04</span><div><h3>Message and positioning</h3><p>We rewrite the copy so it speaks the buyer's language: the area, the way of living, the payment options.</p></div></div>
+      </div>
+      <p class="br-nota">We start with a free check of the site: we look at speed, structure, message and measurement, then tell you honestly what is worth fixing, what is worth rebuilding and what brings leads fastest. Nothing to sign. <a href="/en/contact/">Ask for the check</a>.</p>
+    </div>
+  </section>
+
+  <section class="br-sec br-sec--cream" id="prices">
+    <div class="wrap">
+      <div class="br-h rv">
+        <h2>Published prices, no surprises</h2>
+        <p>Marketing packages for a residential development started from scratch: brand, website and campaigns. Prices are a guide, settled after a brief. These figures are our fee for the work; the budget that buys the advertising space is paid separately, straight to Google and Meta.</p>
+      </div>
+      <div class="br-pk rv rv-d2">
+        <div class="br-pk__c">
+          <p class="br-pk__tag">Start</p>
+          <p class="br-pk__n">Under 30 units</p>
+          <p class="br-pk__d">Everything you need to start selling, without a large monthly retainer.</p>
+          <p class="br-pk__pret">$4,060</p>
+          <p class="br-pk__sub">one-off, plus $460 a month for campaigns</p>
+          <ul class="br-pk__l">
+            <li>Full branding: 3 logo directions, palette, brand book</li>
+            <li>A 10–15 page website, ready for search</li>
+            <li>A dedicated page for each apartment type</li>
+            <li>CRM included and the availability grid on the site</li>
+            <li>Campaign setup and conversion tracking</li>
+            <li>Analytics, Search Console and Google Business profile</li>
+          </ul>
+          <a href="/en/contact/" class="btn btn-ghost">Ask for a quote</a>
+        </div>
+        <div class="br-pk__c br-pk__c--rec">
+          <p class="br-pk__tag">Recommended</p>
+          <p class="br-pk__n">Standard</p>
+          <p class="br-pk__d">For mid-size schemes, 30–80 units, with clear sales targets.</p>
+          <p class="br-pk__pret">$7,540</p>
+          <p class="br-pk__sub">one-off, plus $1,740 a month for campaigns</p>
+          <ul class="br-pk__l">
+            <li>Premium branding: full brand book and animated logo</li>
+            <li>Premium website: 3 design directions, animation, copywriting</li>
+            <li>Pages with plans and prices for each apartment type</li>
+            <li>CRM and the availability grid</li>
+            <li>Strategy and campaign plan across the whole sales period</li>
+            <li>Remarketing and automation</li>
+          </ul>
+          <a href="/en/contact/" class="btn btn-solid">Ask for a quote</a>
+        </div>
+        <div class="br-pk__c">
+          <p class="br-pk__tag">Full ecosystem</p>
+          <p class="br-pk__n">Over 80 units</p>
+          <p class="br-pk__d">For large developments or developers running several projects.</p>
+          <p class="br-pk__pret">$13,920</p>
+          <p class="br-pk__sub">one-off, plus $5,220 a month for campaigns</p>
+          <ul class="br-pk__l">
+            <li>Everything in Standard, plus:</li>
+            <li>Photo, video and 3D render production coordinated</li>
+            <li>360 virtual tour of the apartments</li>
+            <li>An apartment configurator, with filtering</li>
+            <li>Website in two languages</li>
+            <li>A complete pack of print material</li>
+          </ul>
+          <a href="/en/contact/" class="btn btn-ghost">Ask for a quote</a>
+        </div>
+      </div>
+      <p class="br-nota">The advertising budget is not included. The monthly fee covers our work: building the campaigns, the copy, the creative, the optimisation and the report. The money that buys the impressions is paid straight to Google and Meta, from your own card, and stays entirely with them. For a mid-size development we recommend from $1,740–$2,900 a month.</p>
+    </div>
+  </section>
+
+  <section class="br-sec">
+    <div class="wrap">
+      <div class="br-h rv">
+        <h2>Already have a site? Pay only for the campaigns</h2>
+        <p>We rebuild nothing. We start the campaigns on your site and keep it in shape while the ads run, so the advertising money is not lost on a page that does not answer the buyer's questions.</p>
+      </div>
+      <div class="br-pk rv rv-d2" style="grid-template-columns:1fr">
+        <div class="br-pk__c br-pk__c--rec" style="max-width:520px">
+          <p class="br-pk__tag">Recommended</p>
+          <p class="br-pk__n">Campaigns managed</p>
+          <p class="br-pk__d">Everything the ads need to work, taken together. Separately it would be $1,100 a month.</p>
+          <p class="br-pk__pret">$1,000<span style="font-size:15px;font-weight:400">/month</span></p>
+          <p class="br-pk__sub">plus $460 once, at setup</p>
+          <ul class="br-pk__l">
+            <li>Campaign management, Google and Meta</li>
+            <li>Fixes and improvements on the site, 4 hours included</li>
+            <li>Weekly campaign optimisation</li>
+            <li>Conversion tracking and a monthly report</li>
+          </ul>
+          <a href="/en/contact/" class="btn btn-solid">Start the campaigns</a>
+        </div>
+      </div>
+
+      <h3 class="br-h" style="margin:44px 0 18px;font-family:var(--f-d);font-size:20px;font-weight:700">Or take only what you need</h3>
+      <div class="br-tar rv">
+        <div class="br-tar__i"><span class="br-tar__n">Campaign management, one platform<small>Google only or Meta only.</small></span><span class="br-tar__p">$460/month</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Campaign management, both platforms<small>Google and Meta, without site upkeep.</small></span><span class="br-tar__p">$810/month</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Campaign setup and conversion tracking<small>Once, before the first campaign.</small></span><span class="br-tar__p">$460</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Strategy and campaign plan<small>For one development. Each additional one: $300.</small></span><span class="br-tar__p">$600</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Remarketing and automation<small>Following up visitors who did not leave their details, plus automated email.</small></span><span class="br-tar__p">$700</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">SEO and Google Maps<small>Organic visibility for the development's area.</small></span><span class="br-tar__p">$700/month</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Social media<small>8 posts a month. With 15 posts: $520.</small></span><span class="br-tar__p">$350/month</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Fixes and improvements on the site<small>Speed, forms, new pages.</small></span><span class="br-tar__p">$70/hour</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">A new offer page<small>One page dedicated to the campaign, with its own form.</small></span><span class="br-tar__p">$600</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Area analysis<small>Before any package. Deducted from the launch package.</small></span><span class="br-tar__p">$930</span></div>
+      </div>
+      <p class="br-nota">These figures are our fee and do not include the advertising budget. The budget goes straight into your own Google Ads and Meta accounts and stays entirely with them. The price rises with the number of platforms, developments and phases promoted at the same time.</p>
+    </div>
+  </section>
+
+<section class="dev-faq">
+    <div class="wrap">
+      <div class="dev-section__head rv">
+        <h2 class="dd dd-lg">What developers ask us most often</h2>
+      </div>
+
+      <div class="dev-faq__list rv rv-d2">
+
+        <details class="dev-faq-item">
+          <summary>How soon can I launch the website for my development?</summary>
+          <p>It depends on how many apartment types go on the site and how quickly we receive the plans and renders. We fix the date in the quote and we keep to it.</p>
+        </details>
+
+        <details class="dev-faq-item">
+          <summary>How much do I spend a month on Google and Meta Ads?</summary>
+          <p>The ad budget is NOT part of our packages — you pay it straight to Google and Meta. For a mid-size scheme we recommend at least $1,160 a month on Google plus $930 a month on Meta. As a starting split we put 60% on Google (searches with intent) and 40% on Meta, then move budget each month towards whichever channel has the lower cost per lead.</p>
+        </details>
+
+        <details class="dev-faq-item">
+          <summary>Do you have experience with mortgage-financed sales?</summary>
+          <p>Yes. All our sites include pages on the payment options, a mortgage calculator and banking partners. We work with mortgage brokers to build an interactive calculator into the site.</p>
+        </details>
+
+        <details class="dev-faq-item">
+          <summary>Can you work alongside my PR agency or my estate agent?</summary>
+          <p>Yes, we often work in extended teams. We coordinate with the estate agent on lead handover, with PR on message consistency, and with photographers and 3D studios on the visual assets.</p>
+        </details>
+
+        <details class="dev-faq-item">
+          <summary>What happens after the last unit sells? Do I still need the site?</summary>
+          <p>We keep the site live for the brand's credibility — buyers want to check it. We cut the ad budget to a minimum. If you launch the next phase or project, the start is easy: the brand and the CRM are already there.</p>
+        </details>
+
+        <details class="dev-faq-item">
+          <summary>Do you work with developers outside Romania?</summary>
+          <p>Yes. We have clients in Romania, Italy, France and Germany, and we work with developers in the United States. The whole engagement can run remotely — meetings on Zoom or Meet work just as well.</p>
+        </details>
+
+        <details class="dev-faq-item">
+          <summary>What does marketing for a residential development cost?</summary>
+          <p>Packages start at $4,060 one-off for small developments (starter branding plus website). The one most people take is Standard: from $7,540 setup plus $1,740 a month, with campaigns and reporting included. The package prices are published, on this page. The ad budget is paid separately, straight to Google and Meta, and the area analysis at stage 01 costs $930, deducted from the launch package if we go ahead.</p>
+        </details>
+
+        <details class="dev-faq-item">
+          <summary>Do you produce photorealistic 3D renders?</summary>
+          <p>We do not produce 3D renders in house. We take the ones made by your architect, or coordinate a specialist partner, then work them into the website, the campaigns and the sales material. You keep one point of contact, and we stay on what we do best: the strategy and the leads.</p>
+        </details>
+
+        <details class="dev-faq-item">
+          <summary>How do we sell apartments before construction is finished?</summary>
+          <p>Off-plan selling needs trust: a website with clear plans and the build progress updated monthly, a waiting list with a launch offer, awareness campaigns in the area, and automated email that keeps leads warm until the reservation contract. That is the model we run on every residential project.</p>
+        </details>
+
+        <details class="dev-faq-item">
+          <summary>Do you work with estate agencies and listing portals?</summary>
+          <p>Yes. We coordinate listings on portals such as Imobiliare.ro and Storia, with separate tracking per channel, and hand the leads to your agents or your partner agency through the CRM. You see exactly where each buyer came from and which channel deserves the budget.</p>
+        </details>
+
+      </div>
+    </div>
+  </section>
+
+
+  <section class="dev-cta" id="contact">
+    <div class="wrap">
+      <div class="rv">
+        <h2 class="dd dd-lg dev-cta__h">
+          The next scheme<br>
+          <span class="hi">could be yours.</span>
+        </h2>
+        <p class="dev-cta__p">
+          Tell us about the project. Within 24 hours we come back with a marketing
+          proposal for your development and set up a 30-minute call.
+          We work the same way with a developer on their first block as with one
+          on their fourth scheme.
+        </p>
+        <div class="dev-cta__acts">
+          <a href="mailto:contact@visience.ro" class="btn btn-solid">
+            Ask for a proposal <span style="margin-left:4px">→</span>
+          </a>
+          <a href="https://wa.me/40771486499" class="btn btn-dark">WhatsApp →</a>
+          <!-- Google Calendar Appointment Scheduling begin -->
+          <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+          <script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+          <script>
+          (function() {
+            var target = document.currentScript;
+            window.addEventListener('load', function() {
+              calendar.schedulingButton.load({
+                url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ0wXBGc681ISVmT6Qa807ODgCcpYCcigeyyMxXcnUVZbUupykCBGYV0J2VxzM1IjMA8LkwuHiyR?gv=true',
+                color: '#9BC31A',
+                label: "Book a call",
+                target,
+              });
+            });
+          })();
+          </script>
+          <!-- end Google Calendar Appointment Scheduling -->
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+<section class="rel-strip" aria-label="Related services and published prices">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> No hidden prices</span>
+      <h2>See exactly what you pay.</h2>
+      <p>We do not work with hidden rates or surprises on the invoice. All our packages and prices are public. You choose knowing where you stand, with nobody pushing you.</p>
+      <a href="/en/pricing/" class="rel-trans__link">See all prices <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Carry on with</div>
+      <div class="rel-links__grid">
+        <a href="/en/web-design/" class="rel-link"><span class="rel-link__name">Web design <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Fast company websites, designed on your brand.</span></a>
+        <a href="/en/google-meta-ads/" class="rel-link"><span class="rel-link__name">Google &amp; Meta Ads <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Campaigns aimed at leads and sales.</span></a>
+        <a href="/en/branding/" class="rel-link"><span class="rel-link__name">Branding &amp; identity <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Logo, brand book and full visual identity.</span></a>
+        <a href="/en/portfolio/" class="rel-link"><span class="rel-link__name">Portfolio <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Real projects delivered by our team.</span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+3:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$5"}}]
+4:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

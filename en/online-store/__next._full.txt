@@ -1,0 +1,1439 @@
+1:"$Sreact.fragment"
+d:I[68027,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"default",1]
+:HL["/_next/static/chunks/16fat-5-gaue_.css","style"]
+:HL["/_next/static/media/0da9c7f357bd9d4d-s.p.1975l3y3401x_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2094fb60fd9c8287-s.p.3qxy1tqak831c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/47fe1b7cd6e6ed85-s.p.3bh2vc0w-r-ll.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5f9d24ebef5d5292-s.p.19xuq3td7fwu_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6c55a692938ebbbc-s.p.1emuuracu50qd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/798ea22d9983e047-s.p.3go-kn2r40gie.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/829ba4228c966254-s.p.2mm3nq9i83l-m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8cf1ea7b03cdeb83-s.p.3dbq0oou7i_24.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8e6fa89aa22d24ec-s.p.2o7m9ogm38dql.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a218039a3287bcfd-s.p.43zbiuwnnoiok.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c875c6f5d3e977ac-s.p.1h18_wedhzk4h.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e2334d715941921e-s.p.3o_v2fun1jzxk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css","style"]
+2:["$","link",null,{"rel":"stylesheet","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}]
+3:T5c7,(function(){
+  window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}window.gtag=gtag;
+  var K='visience-consent',c=null;try{c=localStorage.getItem(K);}catch(e){}
+  gtag('consent','default',{ad_storage:'denied',analytics_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',wait_for_update:500});
+  gtag('set','ads_data_redaction',true);gtag('set','url_passthrough',true);
+  function loadClarity(){if(window.clarity)return;(function(c,l,a,r,i){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};var t=l.createElement(r);t.async=1;t.src='https://www.clarity.ms/tag/'+i;var y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,'clarity','script','sxwbb1ueew');}
+  function apply(a,m){gtag('consent','update',{analytics_storage:a?'granted':'denied',ad_storage:m?'granted':'denied',ad_user_data:m?'granted':'denied',ad_personalization:m?'granted':'denied'});if(a)loadClarity();}
+  window.visienceConsent=function(a,m){try{localStorage.setItem(K,JSON.stringify({a:!!a,m:!!m}));}catch(e){}apply(!!a,!!m);};
+  var p=null;if(c==='granted')p={a:1,m:1};else if(c==='denied')p={a:0,m:0};else if(c){try{p=JSON.parse(c);}catch(e){}}
+  if(p)apply(!!p.a,!!p.m);
+  gtag('js',new Date());gtag('config','GT-MJWWD7S8');
+  var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
+})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","en","online-store",""],"q":"","i":false,"f":[[["",{"children":["en",{"children":["online-store",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1q24nptxkwl6t.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7"]}]]}]]}],{"children":["$L8",{"children":["$L9",{"children":["$La",{},null,false,null]},null,false,"$@b"]},null,false,"$@b"]},null,false,null],"$Lc",false]],"m":"$undefined","G":["$d",["$Le"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"ycGl9jnQBTSVa_S0yZp7A"}
+f:I[36621,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
+15:I[27961,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
+16:I[11015,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
+17:I[39756,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
+18:I[37457,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
+1d:I[97367,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"ViewportBoundary"]
+1f:I[97367,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"MetadataBoundary"]
+20:"$Sreact.suspense"
+10:Tfd5,<header class="nav" id="nav" role="banner">
+  <div class="wrap nav__in">
+    <a href="/" class="nav__logo" aria-label="Visience — Acasă">
+      <img class="nav__logo-img nav__logo-img--light" src="/media/sigla-mark-visience-new-colors.avif"
+           alt="Visience" width="160" height="30" fetchpriority="high">
+      <img class="nav__logo-img nav__logo-img--dark" src="/media/sigla-visience-dark.avif"
+           alt="" aria-hidden="true" width="160" height="30">
+    </a>
+
+    <nav class="nav__links" aria-label="Navigare principală">
+      <div class="nav__has-drop">
+        <a href="/#servicii">Servicii<svg class="nav__drop-ico" viewBox="0 0 10 6" aria-hidden="true"><path d="M1 1l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+        <div class="nav__drop">
+          <a href="/creare-site-prezentare/">Creare site de prezentare</a>
+          <a href="/creare-magazin-online/">Creare magazin online</a>
+          <a href="/branding-identitate-vizuala/">Branding &amp; identitate</a>
+          <a href="/social-media-management/">Social media</a>
+          <a href="/google-meta-ads/">Google &amp; Meta Ads</a>
+          <a href="/optimizare-seo/">SEO &amp; content</a>
+          <a href="/dezvoltare-software/">Dezvoltare software</a>
+          <a href="/marketing-dezvoltatori-imobiliari/">Marketing pentru dezvoltatori</a>
+        </div>
+      </div>
+      <a href="/portofoliu/">Proiecte</a>
+      <a href="/preturi/">Prețuri</a>
+      <a href="/blog/">Blog</a>
+      <a href="/#rezultate">Rezultate</a>
+      <a href="/#despre">Despre</a>
+      <a href="/contact/">Contact</a>
+      <a href="/en/" class="nav__lang" hreflang="en" lang="en" aria-label="View the site in English">EN</a>
+    </nav>
+
+    <a href="/#contact" class="nav__cta">Solicită ofertă</a>
+
+    <button class="nav__burger" id="navBurger"
+            aria-label="Deschide meniul" aria-expanded="false" aria-controls="navMob">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<nav class="nav__mob" id="navMob" aria-label="Meniu mobil">
+  <div class="nm-in">
+    <div class="nm-grup">
+      <button type="button" class="nm-l nm-tog" id="nmServicii" aria-expanded="false" aria-controls="nmSub">
+        Servicii
+        <svg class="nm-tog__i" width="18" height="18" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+          <path d="M5 8l5 5 5-5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
+      <div class="nm-sublista" id="nmSub" hidden>
+        <a href="/creare-site-prezentare/" class="nm-sub">Creare site de prezentare</a>
+        <a href="/creare-magazin-online/" class="nm-sub">Creare magazin online</a>
+        <a href="/branding-identitate-vizuala/" class="nm-sub">Branding &amp; identitate</a>
+        <a href="/social-media-management/" class="nm-sub">Social media</a>
+        <a href="/google-meta-ads/" class="nm-sub">Google &amp; Meta Ads</a>
+        <a href="/optimizare-seo/" class="nm-sub">SEO &amp; content</a>
+        <a href="/dezvoltare-software/" class="nm-sub">Dezvoltare software</a>
+        <a href="/marketing-dezvoltatori-imobiliari/" class="nm-sub">Marketing pentru dezvoltatori</a>
+        <a href="/analiza-de-zona/" class="nm-sub">Analiză de zonă</a>
+      </div>
+    </div>
+
+    <a href="/portofoliu/" class="nm-l">Proiecte</a>
+    <a href="/preturi/"   class="nm-l">Prețuri</a>
+    <a href="/blog/"      class="nm-l">Blog</a>
+    <a href="/#rezultate" class="nm-l">Rezultate</a>
+    <a href="/#despre"    class="nm-l">Despre</a>
+    <a href="/contact/"   class="nm-l">Contact</a>
+    <a href="/en/" class="nm-l" hreflang="en" lang="en">English</a>
+
+    <div class="nm-jos">
+      <a href="/contact/" class="btn btn-solid nm-cta">Solicită ofertă</a>
+      <div class="nm-contact">
+        <a href="tel:+40771486499">+40 771 486 499</a>
+        <a href="mailto:contact@visience.ro">contact@visience.ro</a>
+      </div>
+    </div>
+  </div>
+</nav>
+11:T1f85,<footer class="footer" role="contentinfo">
+  <div class="wrap">
+
+    <div class="footer__grid">
+
+      <div>
+        <div class="footer__logo">
+          <img src="/media/sigla-mark-visience-new-colors.avif"
+               alt="Visience" width="148" height="28" loading="lazy">
+        </div>
+
+        <p class="footer__brand">
+          Agenție de marketing digital cu 12 ani de experiență. Transformăm imaginea companiilor prin branding, website, social media și marketing precis configurat.
+        </p>
+
+        <p class="footer__trust">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M20 6 9 17l-5-5"/>
+          </svg>
+          Prețuri publice, fără costuri ascunse — <a href="/preturi/">vezi prețurile</a>.
+        </p>
+
+        <div class="footer__contact">
+          <a href="tel:+40771486499">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.67A2 2 0 012 .92h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L6.91 8.09a16 16 0 006 6l1.27-.83a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/>
+            </svg>
+            +40 771 486 499
+          </a>
+          <a href="mailto:contact@visience.ro">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+              <polyline points="22,6 12,13 2,6"/>
+            </svg>
+            contact@visience.ro
+          </a>
+        </div>
+
+        <div class="footer__social">
+          <a href="https://www.facebook.com/visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience pe Facebook">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M24 12c0-6.63-5.37-12-12-12S0 5.37 0 12c0 5.99 4.39 10.95 10.13 11.85v-8.38H7.08V12h3.05V9.36c0-3.01 1.79-4.67 4.53-4.67 1.31 0 2.69.23 2.69.23v2.96h-1.52c-1.49 0-1.96.93-1.96 1.88V12h3.33l-.53 3.47h-2.8v8.38C19.61 22.95 24 17.99 24 12z"/>
+            </svg>
+          </a>
+          <a href="https://www.instagram.com/visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience pe Instagram">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M12 2.16c3.2 0 3.58.01 4.85.07 1.17.05 1.8.25 2.23.41.56.22.96.48 1.38.9.42.42.68.82.9 1.38.16.42.36 1.06.41 2.23.06 1.27.07 1.65.07 4.85s-.01 3.58-.07 4.85c-.05 1.17-.25 1.8-.41 2.23-.22.56-.48.96-.9 1.38-.42.42-.82.68-1.38.9-.42.16-1.06.36-2.23.41-1.27.06-1.65.07-4.85.07s-3.58-.01-4.85-.07c-1.17-.05-1.8-.25-2.23-.41-.56-.22-.96-.48-1.38-.9-.42-.42-.68-.82-.9-1.38-.16-.42-.36-1.06-.41-2.23C2.17 15.58 2.16 15.2 2.16 12s.01-3.58.07-4.85c.05-1.17.25-1.8.41-2.23.22-.56.48-.96.9-1.38.42-.42.82-.68 1.38-.9.42-.16 1.06-.36 2.23-.41C8.42 2.17 8.8 2.16 12 2.16M12 0C8.74 0 8.33.01 7.05.07 5.78.13 4.9.33 4.14.63c-.79.3-1.46.72-2.12 1.38C1.35 2.68.94 3.35.63 4.14.33 4.9.13 5.78.07 7.05.01 8.33 0 8.74 0 12s.01 3.67.07 4.95c.06 1.27.26 2.15.56 2.91.3.79.72 1.46 1.38 2.12.66.66 1.33 1.08 2.12 1.38.76.3 1.64.5 2.91.56C8.33 23.99 8.74 24 12 24s3.67-.01 4.95-.07c1.27-.06 2.15-.26 2.91-.56.79-.3 1.46-.72 2.12-1.38.66-.66 1.08-1.33 1.38-2.12.3-.76.5-1.64.56-2.91.06-1.28.07-1.69.07-4.95s-.01-3.67-.07-4.95c-.06-1.27-.26-2.15-.56-2.91-.3-.79-.72-1.46-1.38-2.12C21.32 1.35 20.65.94 19.86.63 19.1.33 18.22.13 16.95.07 15.67.01 15.26 0 12 0z"/>
+              <path d="M12 5.84A6.16 6.16 0 1 0 18.16 12 6.16 6.16 0 0 0 12 5.84zM12 16a4 4 0 1 1 4-4 4 4 0 0 1-4 4z"/>
+              <circle cx="18.41" cy="5.59" r="1.44"/>
+            </svg>
+          </a>
+          <a href="https://www.tiktok.com/@visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience pe TikTok">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M16.6 5.82A4.28 4.28 0 0 1 15.54 3h-3.09v12.4a2.59 2.59 0 0 1-2.59 2.5 2.59 2.59 0 0 1 0-5.18c.27 0 .52.04.76.12v-3.2a5.79 5.79 0 0 0-.76-.05 5.69 5.69 0 1 0 5.69 5.69V9.01a7.35 7.35 0 0 0 4.29 1.37V7.3a4.29 4.29 0 0 1-3.24-1.48z"/>
+            </svg>
+          </a>
+        </div>
+
+        <div class="footer__anpc">
+          <a class="anpc-b" href="https://anpc.ro/" target="_blank" rel="noopener noreferrer"
+             aria-label="ANPC — Autoritatea Națională pentru Protecția Consumatorilor">
+            <img src="https://anpc.ro/wp-content/themes/anpc/img/anpc_logo.png"
+                 alt="ANPC" width="50" height="18" loading="lazy"
+                 onerror="this.style.display='none'">
+            ANPC
+          </a>
+          <a class="anpc-b" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage"
+             target="_blank" rel="noopener noreferrer"
+             aria-label="SOL — Soluționare Online a Litigiilor">
+            SOL
+          </a>
+        </div>
+      </div>
+
+      <nav aria-label="Servicii">
+        <div class="footer__col-title">Servicii</div>
+        <ul class="footer__links">
+          <li><a href="/creare-site-prezentare/">Creare site de prezentare</a></li>
+          <li><a href="/creare-site-prezentare-iasi/">Creare site de prezentare Iași</a></li>
+          <li><a href="/creare-site-prezentare-bacau/">Creare site de prezentare Bacău</a></li>
+          <li><a href="/creare-site-prezentare-bucuresti/">Creare site de prezentare București</a></li>
+          <li><a href="/creare-magazin-online/">Creare magazin online</a></li>
+          <li><a href="/branding-identitate-vizuala/">Branding &amp; identitate</a></li>
+          <li><a href="/social-media-management/">Social Media</a></li>
+          <li><a href="/google-meta-ads/">Google &amp; Meta Ads</a></li>
+          <li><a href="/optimizare-seo/">SEO &amp; Content</a></li>
+          <li><a href="/dezvoltare-software/">Dezvoltare software</a></li>
+          <li><a href="/marketing-dezvoltatori-imobiliari/">Marketing pentru dezvoltatori</a></li>
+          <li><a href="/marketing-imobiliar-iasi/">Marketing imobiliar Iași</a></li>
+            <li><a href="/analiza-de-zona/">Analiză de zonă</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Companie">
+        <div class="footer__col-title">Companie</div>
+        <ul class="footer__links">
+          <li><a href="/portofoliu/">Portofoliu</a></li>
+          <li><a href="/parteneri/">Parteneri</a></li>
+          <li><a href="/blog/">Blog</a></li>
+          <li><a href="/preturi/">Prețuri</a></li>
+          <li><a href="/#rezultate">Studii de caz</a></li>
+          <li><a href="/#despre">Despre noi</a></li>
+          <li><a href="/contact/">Contact</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Legal">
+        <div class="footer__col-title">Legal &amp; GDPR</div>
+        <ul class="footer__links">
+          <li><a href="/termeni-si-conditii/">Termeni și Condiții</a></li>
+          <li><a href="/politica-de-confidentialitate/">Politică Confidențialitate</a></li>
+          <li><a href="/politica-cookies/">Politică Cookies</a></li>
+        </ul>
+      </nav>
+
+    </div>
+
+    <div class="footer__bottom">
+      <div class="footer__bottom-in">
+        <p class="footer__copy">
+          © 2026 Visience Creative Experience SRL · Toate drepturile rezervate
+        </p>
+        <div class="footer__legal">
+          <a href="/termeni-si-conditii/">Termeni</a>
+          <a href="/politica-de-confidentialitate/">Confidențialitate</a>
+          <a href="/politica-cookies/">Cookies</a>
+          <a href="/gdpr/">GDPR</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</footer>
+12:Te9a,<header class="nav" id="nav" role="banner">
+  <div class="wrap nav__in">
+    <a href="/en/" class="nav__logo" aria-label="Visience — Home">
+      <img class="nav__logo-img nav__logo-img--light" src="/media/sigla-mark-visience-new-colors.avif"
+           alt="Visience" width="160" height="30" fetchpriority="high">
+      <img class="nav__logo-img nav__logo-img--dark" src="/media/sigla-visience-dark.avif"
+           alt="" aria-hidden="true" width="160" height="30">
+    </a>
+
+    <nav class="nav__links" aria-label="Main navigation">
+      <div class="nav__has-drop">
+        <a href="/en/#services">Services<svg class="nav__drop-ico" viewBox="0 0 10 6" aria-hidden="true"><path d="M1 1l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+        <div class="nav__drop">
+          <a href="/en/web-design/">Website design</a>
+          <a href="/en/online-store/">Online stores</a>
+          <a href="/en/branding/">Branding &amp; identity</a>
+          <a href="/en/social-media/">Social media</a>
+          <a href="/en/google-meta-ads/">Google &amp; Meta Ads</a>
+          <a href="/en/seo/">SEO &amp; content</a>
+          <a href="/en/software-development/">Software development</a>
+          <a href="/en/real-estate-marketing/">Real estate marketing</a>
+        </div>
+      </div>
+      <a href="/en/portfolio/">Work</a>
+      <a href="/en/pricing/">Pricing</a>
+      <a href="/en/#results">Results</a>
+      <a href="/en/#about">About</a>
+      <a href="/en/contact/">Contact</a>
+      <a href="/" class="nav__lang" hreflang="ro" lang="ro" aria-label="Vezi site-ul în română">RO</a>
+    </nav>
+
+    <a href="/en/contact/" class="nav__cta">Get a quote</a>
+
+    <button class="nav__burger" id="navBurger"
+            aria-label="Open menu" aria-expanded="false" aria-controls="navMob">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<nav class="nav__mob" id="navMob" aria-label="Mobile menu">
+  <div class="nm-in">
+    <div class="nm-grup">
+      <button type="button" class="nm-l nm-tog" id="nmServicii" aria-expanded="false" aria-controls="nmSub">
+        Services
+        <svg class="nm-tog__i" width="18" height="18" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+          <path d="M5 8l5 5 5-5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
+      <div class="nm-sublista" id="nmSub" hidden>
+        <a href="/en/web-design/" class="nm-sub">Website design</a>
+        <a href="/en/online-store/" class="nm-sub">Online stores</a>
+        <a href="/en/branding/" class="nm-sub">Branding &amp; identity</a>
+        <a href="/en/social-media/" class="nm-sub">Social media</a>
+        <a href="/en/google-meta-ads/" class="nm-sub">Google &amp; Meta Ads</a>
+        <a href="/en/seo/" class="nm-sub">SEO &amp; content</a>
+        <a href="/en/software-development/" class="nm-sub">Software development</a>
+        <a href="/en/real-estate-marketing/" class="nm-sub">Real estate marketing</a>
+      </div>
+    </div>
+
+    <a href="/en/portfolio/" class="nm-l">Work</a>
+    <a href="/en/pricing/"   class="nm-l">Pricing</a>
+    <a href="/en/#results"   class="nm-l">Results</a>
+    <a href="/en/#about"     class="nm-l">About</a>
+    <a href="/en/contact/"   class="nm-l">Contact</a>
+    <a href="/" class="nm-l" hreflang="ro" lang="ro">Română</a>
+
+    <div class="nm-jos">
+      <a href="/en/contact/" class="btn btn-solid nm-cta">Get a quote</a>
+      <div class="nm-contact">
+        <a href="tel:+40771486499">+40 771 486 499</a>
+        <a href="mailto:contact@visience.ro">contact@visience.ro</a>
+      </div>
+    </div>
+  </div>
+</nav>
+13:T19e3,<footer class="footer" role="contentinfo">
+  <div class="wrap">
+
+    <div class="footer__grid">
+
+      <div>
+        <div class="footer__logo">
+          <img src="/media/sigla-mark-visience-new-colors.avif"
+               alt="Visience" width="148" height="28" loading="lazy">
+        </div>
+
+        <p class="footer__brand">
+          A digital marketing studio with 12 years behind it. We build the brand, the website and the campaigns that bring enquiries — and we measure every one of them.
+        </p>
+
+        <p class="footer__trust">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M20 6 9 17l-5-5"/>
+          </svg>
+          Prices published, nothing hidden — <a href="/en/pricing/">see the price list</a>.
+        </p>
+
+        <div class="footer__contact">
+          <a href="tel:+40771486499">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.67A2 2 0 012 .92h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L6.91 8.09a16 16 0 006 6l1.27-.83a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/>
+            </svg>
+            +40 771 486 499
+          </a>
+          <a href="mailto:contact@visience.ro">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+              <polyline points="22,6 12,13 2,6"/>
+            </svg>
+            contact@visience.ro
+          </a>
+        </div>
+
+        <div class="footer__social">
+          <a href="https://www.facebook.com/visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience on Facebook">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M24 12c0-6.63-5.37-12-12-12S0 5.37 0 12c0 5.99 4.39 10.95 10.13 11.85v-8.38H7.08V12h3.05V9.36c0-3.01 1.79-4.67 4.53-4.67 1.31 0 2.69.23 2.69.23v2.96h-1.52c-1.49 0-1.96.93-1.96 1.88V12h3.33l-.53 3.47h-2.8v8.38C19.61 22.95 24 17.99 24 12z"/>
+            </svg>
+          </a>
+          <a href="https://www.instagram.com/visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience on Instagram">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M12 2.16c3.2 0 3.58.01 4.85.07 1.17.05 1.8.25 2.23.41.56.22.96.48 1.38.9.42.42.68.82.9 1.38.16.42.36 1.06.41 2.23.06 1.27.07 1.65.07 4.85s-.01 3.58-.07 4.85c-.05 1.17-.25 1.8-.41 2.23-.22.56-.48.96-.9 1.38-.42.42-.82.68-1.38.9-.42.16-1.06.36-2.23.41-1.27.06-1.65.07-4.85.07s-3.58-.01-4.85-.07c-1.17-.05-1.8-.25-2.23-.41-.56-.22-.96-.48-1.38-.9-.42-.42-.68-.82-.9-1.38-.16-.42-.36-1.06-.41-2.23C2.17 15.58 2.16 15.2 2.16 12s.01-3.58.07-4.85c.05-1.17.25-1.8.41-2.23.22-.56.48-.96.9-1.38.42-.42.82-.68 1.38-.9.42-.16 1.06-.36 2.23-.41C8.42 2.17 8.8 2.16 12 2.16M12 0C8.74 0 8.33.01 7.05.07 5.78.13 4.9.33 4.14.63c-.79.3-1.46.72-2.12 1.38C1.35 2.68.94 3.35.63 4.14.33 4.9.13 5.78.07 7.05.01 8.33 0 8.74 0 12s.01 3.67.07 4.95c.06 1.27.26 2.15.56 2.91.3.79.72 1.46 1.38 2.12.66.66 1.33 1.08 2.12 1.38.76.3 1.64.5 2.91.56C8.33 23.99 8.74 24 12 24s3.67-.01 4.95-.07c1.27-.06 2.15-.26 2.91-.56.79-.3 1.46-.72 2.12-1.38.66-.66 1.08-1.33 1.38-2.12.3-.76.5-1.64.56-2.91.06-1.28.07-1.69.07-4.95s-.01-3.67-.07-4.95c-.06-1.27-.26-2.15-.56-2.91-.3-.79-.72-1.46-1.38-2.12C21.32 1.35 20.65.94 19.86.63 19.1.33 18.22.13 16.95.07 15.67.01 15.26 0 12 0z"/>
+              <path d="M12 5.84A6.16 6.16 0 1 0 18.16 12 6.16 6.16 0 0 0 12 5.84zM12 16a4 4 0 1 1 4-4 4 4 0 0 1-4 4z"/>
+              <circle cx="18.41" cy="5.59" r="1.44"/>
+            </svg>
+          </a>
+          <a href="https://www.tiktok.com/@visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience on TikTok">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M16.6 5.82A4.28 4.28 0 0 1 15.54 3h-3.09v12.4a2.59 2.59 0 0 1-2.59 2.5 2.59 2.59 0 0 1 0-5.18c.27 0 .52.04.76.12v-3.2a5.79 5.79 0 0 0-.76-.05 5.69 5.69 0 1 0 5.69 5.69V9.01a7.35 7.35 0 0 0 4.29 1.37V7.3a4.29 4.29 0 0 1-3.24-1.48z"/>
+            </svg>
+          </a>
+        </div>
+      </div>
+
+      <nav aria-label="Services">
+        <div class="footer__col-title">Services</div>
+        <ul class="footer__links">
+          <li><a href="/en/web-design/">Website design</a></li>
+          <li><a href="/en/online-store/">Online stores</a></li>
+          <li><a href="/en/branding/">Branding &amp; identity</a></li>
+          <li><a href="/en/social-media/">Social media</a></li>
+          <li><a href="/en/google-meta-ads/">Google &amp; Meta Ads</a></li>
+          <li><a href="/en/seo/">SEO &amp; content</a></li>
+          <li><a href="/en/software-development/">Software development</a></li>
+          <li><a href="/en/real-estate-marketing/">Real estate marketing</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Company">
+        <div class="footer__col-title">Company</div>
+        <ul class="footer__links">
+          <li><a href="/en/portfolio/">Work</a></li>
+          <li><a href="/en/pricing/">Pricing</a></li>
+          <li><a href="/en/#results">Case studies</a></li>
+          <li><a href="/en/#about">About us</a></li>
+          <li><a href="/en/contact/">Contact</a></li>
+          <li><a href="/" hreflang="ro" lang="ro">Site în română</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Legal">
+        <div class="footer__col-title">Legal &amp; GDPR</div>
+        <ul class="footer__links">
+          <li><a href="/en/terms/">Terms &amp; conditions</a></li>
+          <li><a href="/en/privacy/">Privacy policy</a></li>
+          <li><a href="/en/cookies/">Cookie policy</a></li>
+        </ul>
+      </nav>
+
+    </div>
+
+    <div class="footer__bottom">
+      <div class="footer__bottom-in">
+        <p class="footer__copy">
+          © 2026 Visience Creative Experience SRL · All rights reserved
+        </p>
+        <div class="footer__legal">
+          <a href="/en/terms/">Terms</a>
+          <a href="/en/privacy/">Privacy</a>
+          <a href="/en/cookies/">Cookies</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</footer>
+5:["$","$Lf",null,{"headerRo":"$10","footerRo":"$11","headerEn":"$12","footerEn":"$13","children":"$L14"}]
+6:["$","$L15",null,{}]
+7:["$","$L16",null,{}]
+8:["$","$1","c",{"children":[null,["$","$L17",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":[null,["$","$L17",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+19:Tc80,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/en/online-store/#service","name":"Online store development","serviceType":"E-commerce development","inLanguage":"en","provider":{"@type":"Organization","name":"Visience","url":"https://visience.ro/en/"},"areaServed":["US","RO","IT","FR","DE"],"offers":[{"@type":"Offer","priceCurrency":"USD","price":"1160","itemOffered":{"@type":"Service","name":"Online store Basic, up to 30 products"}},{"@type":"Offer","priceCurrency":"USD","price":"2100","itemOffered":{"@type":"Service","name":"Online store Standard, up to 200 products"}},{"@type":"Offer","priceCurrency":"USD","price":"4060","itemOffered":{"@type":"Service","name":"Online store Premium, enterprise integrations"}}]},{"@type":"FAQPage","@id":"https://visience.ro/en/online-store/#faq","mainEntity":[{"@type":"Question","name":"How long does an online store take to build?","acceptedAnswer":{"@type":"Answer","text":"A Basic store with up to 30 products usually takes 2 to 3 weeks. The Standard package takes 4 to 6 weeks. Premium stores with complex integrations can run 6 to 10 weeks."}},{"@type":"Question","name":"What platform do you build the stores on?","acceptedAnswer":{"@type":"Answer","text":"Mostly WooCommerce on WordPress. On request we also build on Shopify, PrestaShop or Webflow E-commerce, and we recommend the platform after understanding the business goals."}},{"@type":"Question","name":"What happens after the store launches?","acceptedAnswer":{"@type":"Answer","text":"You get 3 months of maintenance included, 6 months on Premium: plugin updates, bug fixes, weekly backups and technical support by email. After that you can move to a monthly maintenance plan."}},{"@type":"Question","name":"Will I be able to add products myself after launch?","acceptedAnswer":{"@type":"Answer","text":"Yes. The admin panel is straightforward and we run a 1 to 2 hour training session, included in Standard and Premium, so you can add products, change prices and handle orders yourself."}},{"@type":"Question","name":"Do you include hosting and the domain?","acceptedAnswer":{"@type":"Answer","text":"Hosting and the domain are not part of the store price, but we help choose and set them up. Expect around $15 a year for the domain and $100 to $230 a year for hosting that holds up under WooCommerce."}},{"@type":"Question","name":"Can I move my existing store off another platform?","acceptedAnswer":{"@type":"Answer","text":"Yes. We migrate stores from Shopify, Magento, BigCommerce, OpenCart and PrestaShop onto WooCommerce, keeping products, categories, orders and existing customers."}},{"@type":"Question","name":"Do you also run the marketing for the store?","acceptedAnswer":{"@type":"Answer","text":"Yes. After launch we can take on Google Ads and Meta Ads management from $460 a month per platform, Google Shopping at $600, ongoing SEO at $700 a month and social media management from $350 a month."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visience.ro/en/"},{"@type":"ListItem","position":2,"name":"Online store","item":"https://visience.ro/en/online-store/"}]}]}a:["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$19"}}],"$L1a"],null,"$L1b"]}]
+1c:[]
+b:"$W1c"
+c:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":"$L1e"}],["$","div",null,{"hidden":true,"children":["$","$L1f",null,{"children":["$","$20",null,{"name":"Next.Metadata","children":"$L21"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+e:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+23:I[97367,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+14:["$","$L17",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
+22:T93e6,<style>
+.shop-hero {
+  position: relative;
+  padding: calc(var(--nav-h) + 90px) 0 90px;
+  background: var(--cream);
+  overflow: hidden;
+}
+.shop-hero__inner {
+  display: grid;
+  grid-template-columns: 1.2fr 1fr;
+  gap: 70px;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+}
+.shop-hero__breadcrumbs {
+  font-family: var(--f-m);
+  font-size: 11px;
+  color: var(--mid);
+  letter-spacing: .06em;
+  margin-bottom: 24px;
+}
+.shop-hero__breadcrumbs a       { color: var(--mid); transition: color .2s; }
+.shop-hero__breadcrumbs a:hover { color: var(--acc-deep); }
+.shop-hero__breadcrumbs .sep    { margin: 0 10px; opacity: .4; }
+
+.shop-hero__h1 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(38px, 5.2vw, 70px);
+  line-height: .98;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 26px;
+}
+.shop-hero__h1 .acc {
+  background: var(--acc);
+  color: var(--acc-ink);
+  padding: 0 12px 4px;
+  border-radius: 10px;
+  display: inline-block;
+  line-height: 1.05;
+}
+.shop-hero__lead {
+  font-size: 17px;
+  line-height: 1.78;
+  color: var(--mid);
+  margin-bottom: 32px;
+  font-weight: 300;
+  max-width: 540px;
+}
+
+.shop-hero__pts {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-bottom: 36px;
+  max-width: 540px;
+}
+.shp-pt {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 14px;
+  color: var(--ink);
+  font-weight: 500;
+}
+.shp-pt-dot {
+  width: 18px; height: 18px;
+  background: var(--acc);
+  color: var(--acc-ink);
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 10px; font-weight: 700;
+  flex-shrink: 0; margin-top: 2px;
+}
+
+.shop-hero__cta {
+  display: flex; gap: 10px; flex-wrap: wrap;
+}
+
+.shop-hero__visual {
+  position: relative;
+  height: 480px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.shop-hero__mockup {
+  position: relative;
+  width: 100%;
+  max-width: 460px;
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  padding: 24px 22px;
+  box-shadow: 0 30px 80px rgba(17,16,16,.08);
+  z-index: 2;
+}
+.shop-mockup__bar {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 18px;
+}
+.shop-mockup__dot {
+  width: 9px; height: 9px;
+  border-radius: 50%;
+  background: var(--cream2);
+}
+.shop-mockup__dot:first-child { background: #FF5F57; }
+.shop-mockup__dot:nth-child(2) { background: #FEBC2E; }
+.shop-mockup__dot:nth-child(3) { background: #28C840; }
+.shop-mockup__url {
+  margin-left: 10px;
+  flex: 1;
+  background: var(--cream);
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-family: var(--f-m);
+  font-size: 10px;
+  color: var(--light);
+}
+.shop-mockup__grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+.shop-mockup__prod {
+  background: var(--cream);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  overflow: hidden;
+}
+.shop-mockup__prod-img {
+  height: 90px;
+  background-image: radial-gradient(circle, rgba(155,195,26,.18) 1px, transparent 1px);
+  background-size: 14px 14px;
+  background-color: var(--cream2);
+  position: relative;
+}
+.shop-mockup__prod-img::after {
+  content: '';
+  position: absolute;
+  top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+  width: 36px; height: 36px;
+  background: var(--acc);
+  opacity: .35;
+  border-radius: 8px;
+}
+.shop-mockup__prod-info {
+  padding: 10px 11px;
+}
+.shop-mockup__prod-name {
+  font-size: 11px; font-weight: 600; color: var(--ink);
+  margin-bottom: 4px;
+}
+.shop-mockup__prod-price {
+  font-family: var(--f-d);
+  font-size: 13px; font-weight: 700; color: var(--acc-deep);
+}
+.shop-mockup__cart {
+  margin-top: 14px;
+  padding: 12px 14px;
+  background: var(--cream);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.shop-mockup__cart-lbl {
+  font-family: var(--f-m); font-size: 10px;
+  letter-spacing: .08em; text-transform: uppercase;
+  color: var(--mid);
+}
+.shop-mockup__cart-tot {
+  font-family: var(--f-d); font-size: 14px;
+  font-weight: 700; color: var(--ink);
+}
+.shop-mockup__cart-tot .acc-num { color: var(--acc-deep); }
+
+
+.shop-intro {
+  background: var(--white);
+  padding: 90px 0;
+  position: relative;
+}
+.shop-intro__inner {
+  max-width: 880px;
+  margin: 0 auto;
+}
+.shop-intro h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(28px, 3.5vw, 44px);
+  line-height: 1.1;
+  letter-spacing: -.025em;
+  color: var(--ink);
+  margin: 56px 0 18px;
+}
+.shop-intro h2:first-child { margin-top: 0; }
+.shop-intro h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: clamp(20px, 2.2vw, 26px);
+  line-height: 1.2;
+  letter-spacing: -.015em;
+  color: var(--ink);
+  margin: 32px 0 12px;
+}
+.shop-intro p {
+  font-size: 16px;
+  line-height: 1.84;
+  color: var(--mid);
+  font-weight: 300;
+  margin-bottom: 16px;
+}
+.shop-intro p strong { color: var(--ink); font-weight: 600; }
+.shop-intro p a       { color: var(--acc-deep); border-bottom: 1px solid var(--acc); transition: opacity .2s; }
+.shop-intro p a:hover { opacity: .65; }
+
+
+.shop-prices {
+  padding: 100px 0;
+  background: var(--cream);
+}
+.shop-prices__head {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto 56px;
+}
+.shop-prices__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(34px, 4.5vw, 60px);
+  line-height: 1.0;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 18px;
+}
+.shop-prices__h2 .acc { color: var(--acc-deep); }
+.shop-prices__sub {
+  font-size: 16px; line-height: 1.8;
+  color: var(--mid); font-weight: 300;
+}
+
+.pkg-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  align-items: stretch;
+}
+.pkg {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 36px 32px 32px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  transition: .3s;
+}
+.pkg:hover {
+  border-color: rgba(155,195,26,.3);
+  transform: translateY(-6px);
+  box-shadow: 0 20px 48px rgba(155,195,26,.08);
+}
+.pkg.featured {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--white);
+}
+.pkg.featured:hover { box-shadow: 0 24px 56px rgba(17,16,16,.2); }
+.pkg__badge {
+  position: absolute;
+  top: -12px; left: 50%;
+  transform: translateX(-50%);
+  background: var(--acc);
+  color: var(--acc-ink);
+  font-family: var(--f-m);
+  font-size: 9px;
+  font-weight: 500;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  padding: 5px 14px;
+  border-radius: 100px;
+}
+.pkg__name {
+  font-family: var(--f-m);
+  font-size: 11px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--mid);
+  margin-bottom: 8px;
+}
+.pkg.featured .pkg__name { color: rgba(255,255,255,.5); }
+.pkg__price {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(36px, 4vw, 52px);
+  letter-spacing: -.04em;
+  line-height: 1;
+  color: var(--acc-deep);
+  margin-bottom: 4px;
+}
+.pkg__price-note {
+  font-size: 12px;
+  color: var(--light);
+  margin-bottom: 22px;
+}
+.pkg.featured .pkg__price-note { color: rgba(255,255,255,.4); }
+.pkg__desc {
+  font-size: 14px;
+  line-height: 1.7;
+  color: var(--mid);
+  margin-bottom: 26px;
+  font-weight: 300;
+  padding-bottom: 22px;
+  border-bottom: 1px solid var(--border);
+}
+.pkg.featured .pkg__desc {
+  color: rgba(255,255,255,.55);
+  border-bottom-color: rgba(255,255,255,.1);
+}
+.pkg__feats {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 28px;
+  flex: 1;
+}
+.pkg__feat {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 13px;
+  line-height: 1.55;
+  color: var(--ink);
+}
+.pkg.featured .pkg__feat { color: rgba(255,255,255,.85); }
+.pkg__feat-tick {
+  color: var(--acc-deep);
+  flex-shrink: 0;
+  margin-top: 2px;
+  font-weight: 700;
+}
+
+.shop-clarify {
+  padding: 100px 0;
+  background: var(--white);
+}
+.shop-clarify__row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 80px;
+  align-items: center;
+  margin-bottom: 90px;
+}
+.shop-clarify__row:last-child { margin-bottom: 0; }
+.shop-clarify__row.alt { direction: rtl; }
+.shop-clarify__row.alt > * { direction: ltr; }
+.shop-clarify__h3 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(26px, 3vw, 40px);
+  line-height: 1.06;
+  letter-spacing: -.02em;
+  margin-bottom: 18px;
+  color: var(--ink);
+}
+.shop-clarify__p {
+  font-size: 15px;
+  line-height: 1.84;
+  color: var(--mid);
+  font-weight: 300;
+  margin-bottom: 14px;
+}
+
+.shop-clarify__vis {
+  background: var(--cream2);
+  background-image: radial-gradient(circle, rgba(17,16,16,.07) 1px, transparent 1px);
+  background-size: 22px 22px;
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  aspect-ratio: 4/3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.shop-faq {
+  padding: 100px 0;
+  background: var(--cream2);
+}
+.shop-faq__head {
+  text-align: center;
+  max-width: 640px;
+  margin: 0 auto 50px;
+}
+.shop-faq__list {
+  max-width: 820px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.faq-item {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  overflow: hidden;
+  transition: border-color .25s;
+}
+.faq-item:hover { border-color: rgba(155,195,26,.3); }
+.faq-q {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 22px 26px;
+  font-family: var(--f-d);
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: -.01em;
+  color: var(--ink);
+  text-align: left;
+  cursor: pointer;
+  background: none;
+  border: none;
+  transition: color .2s;
+}
+.faq-q:hover { color: var(--acc-deep); }
+.faq-q-arrow {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px; height: 28px;
+  background: var(--cream);
+  border-radius: 50%;
+  flex-shrink: 0;
+  transition: .25s;
+  font-size: 14px;
+}
+.faq-item.open .faq-q-arrow {
+  background: var(--acc);
+  color: var(--acc-ink);
+  transform: rotate(45deg);
+}
+.faq-a {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height .35s ease;
+}
+.faq-item.open .faq-a { max-height: 600px; }
+.faq-a-inner {
+  padding: 0 26px 24px;
+  font-size: 14px;
+  line-height: 1.78;
+  color: var(--mid);
+  font-weight: 300;
+}
+
+.shop-cta {
+  padding: 110px 0;
+  background: var(--ink);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.shop-cta__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(34px, 5vw, 64px);
+  line-height: 1.0;
+  letter-spacing: -.03em;
+  color: var(--white);
+  margin-bottom: 20px;
+}
+.shop-cta__h2 .acc {
+  background: linear-gradient(135deg, var(--acc) 0%, var(--acc2) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.shop-cta__p {
+  font-size: 16px;
+  color: rgba(255,255,255,.5);
+  font-weight: 300;
+  max-width: 540px;
+  margin: 0 auto 32px;
+  line-height: 1.78;
+}
+.shop-cta__btns {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 1024px) {
+  .shop-hero { padding: calc(var(--nav-h) + 60px) 0 70px; }
+  .shop-hero__inner { grid-template-columns: 1fr; gap: 50px; }
+  .shop-hero__visual { height: 380px; order: -1; }
+  .shop-intro { padding: 70px 0; }
+  .shop-prices { padding: 80px 0; }
+  .pkg-grid { grid-template-columns: 1fr; gap: 20px; }
+  .pkg.featured { transform: none; }
+  .shop-clarify { padding: 70px 0; }
+  .shop-clarify__row { grid-template-columns: 1fr; gap: 36px; margin-bottom: 60px; direction: ltr !important; }
+  .shop-faq { padding: 70px 0; }
+  .shop-cta { padding: 80px 0; }
+}
+
+@media (max-width: 640px) {
+  .shop-hero__pts { grid-template-columns: 1fr; }
+  .shop-hero__cta { flex-direction: column; }
+  .shop-hero__cta .btn { justify-content: center; }
+  .pkg { padding: 28px 24px 26px; }
+  .faq-q { padding: 18px 20px; font-size: 14px; }
+  .faq-a-inner { padding: 0 20px 20px; }
+}
+</style>
+
+
+<main id="main">
+
+<section class="shop-hero" aria-labelledby="shop-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="20%" x2="100%" y2="60%"/>
+      <line x1="0" y1="50%" x2="100%" y2="90%"/>
+      <line x1="0" y1="80%" x2="100%" y2="30%"/>
+      <line x1="25%" y1="0" x2="75%" y2="100%"/>
+      <line x1="60%" y1="0" x2="10%" y2="100%"/>
+    </svg>
+  </div>
+
+  <div class="wrap">
+    <div class="shop-hero__inner">
+
+      <div class="rv">
+        <nav class="shop-hero__breadcrumbs" aria-label="Breadcrumbs">
+          <a href="/en/">Home</a>
+          <span class="sep">/</span>
+          <a href="/en/#services">Services</a>
+          <span class="sep">/</span>
+          <span>Online store</span>
+        </nav>
+
+
+        <h1 class="shop-hero__h1" id="shop-h1">
+          Online stores that<br>
+          <span class="acc">actually sell.</span>
+        </h1>
+
+        <p class="shop-hero__lead">
+          We build professional online stores on WooCommerce and Shopify, tuned for conversion, speed and SEO. From the technical setup to the marketing that brings customers in. All of it under one roof.
+        </p>
+
+        <div class="shop-hero__pts">
+          <div class="shp-pt"><span class="shp-pt-dot">✓</span><span>Responsive, mobile-first design</span></div>
+          <div class="shp-pt"><span class="shp-pt-dot">✓</span><span>Payment &amp; shipping set up</span></div>
+          <div class="shp-pt"><span class="shp-pt-dot">✓</span><span>Technical SEO included</span></div>
+          <div class="shp-pt"><span class="shp-pt-dot">✓</span><span>An admin panel you can actually use</span></div>
+        </div>
+
+        <div class="shop-hero__cta">
+          <a href="/en/contact/" class="btn btn-solid">Ask for a quote</a>
+          <a href="#prices" class="btn btn-ghost">See the prices ↓</a>
+        </div>
+      </div>
+
+      <div class="shop-hero__visual rv rv-d2">
+        <div class="shop-hero__mockup" aria-hidden="true">
+          <div class="shop-mockup__bar">
+            <span class="shop-mockup__dot"></span>
+            <span class="shop-mockup__dot"></span>
+            <span class="shop-mockup__dot"></span>
+            <span class="shop-mockup__url">yourstore.com</span>
+          </div>
+          <div class="shop-mockup__grid">
+            <div class="shop-mockup__prod">
+              <div class="shop-mockup__prod-img"></div>
+              <div class="shop-mockup__prod-info">
+                <div class="shop-mockup__prod-name">Product 01</div>
+                <div class="shop-mockup__prod-price">$49</div>
+              </div>
+            </div>
+            <div class="shop-mockup__prod">
+              <div class="shop-mockup__prod-img"></div>
+              <div class="shop-mockup__prod-info">
+                <div class="shop-mockup__prod-name">Product 02</div>
+                <div class="shop-mockup__prod-price">$129</div>
+              </div>
+            </div>
+            <div class="shop-mockup__prod">
+              <div class="shop-mockup__prod-img"></div>
+              <div class="shop-mockup__prod-info">
+                <div class="shop-mockup__prod-name">Product 03</div>
+                <div class="shop-mockup__prod-price">$29</div>
+              </div>
+            </div>
+            <div class="shop-mockup__prod">
+              <div class="shop-mockup__prod-img"></div>
+              <div class="shop-mockup__prod-info">
+                <div class="shop-mockup__prod-name">Product 04</div>
+                <div class="shop-mockup__prod-price">$189</div>
+              </div>
+            </div>
+          </div>
+          <div class="shop-mockup__cart">
+            <span class="shop-mockup__cart-lbl">Cart</span>
+            <span class="shop-mockup__cart-tot">3 items · <span class="acc-num">$207</span></span>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="shop-intro" aria-labelledby="intro-h2">
+  <div class="wrap">
+    <div class="shop-intro__inner rv">
+
+      <h2 id="intro-h2">Online store development for businesses that mean it</h2>
+      <p>
+        We are a <strong>web design studio</strong> that builds <strong>flexible online stores</strong>, tuned for sales and easy to run day to day. Whether you are launching something new or moving an existing store onto a platform that holds up better, we take the whole thing: <strong>custom design</strong>, <strong>payment and shipping integrations</strong>, <strong>SEO</strong> and the <strong>marketing campaigns</strong> that bring in real customers.
+      </p>
+      <p>
+        We build <strong>WooCommerce</strong>, <strong>Shopify</strong> and <strong>PrestaShop</strong> stores for clients in the United States and across Europe, with more than 12 years in the work. We stay on solid platforms, with clean code, tuned for loading speed and security. <a href="/en/contact/">Ask for a quote →</a>
+      </p>
+
+      <h2>How much does an online store cost?</h2>
+      <p>
+        The price of an <strong>online store</strong> comes down to how complex the features are, how many products you carry, which integrations you need (payments, fulfilment, ERP) and how much of the design is custom. For a basic WooCommerce store, prices start at <strong>$1,160</strong>; a standard store with the wider feature set sits at <strong>$2,100</strong>; and a premium store with complex integrations and a fully custom design runs to <strong>$4,060</strong> or above.
+      </p>
+      <p>
+        In every case, you get <strong>3 months of maintenance included</strong> after launch, so we can be sure the store runs properly. <a href="#prices">See the packages in detail below →</a>
+      </p>
+
+      <h2>Why have Visience build your store?</h2>
+      <p>
+        <strong>Performance, security and SEO, aimed at real sales.</strong> We build online stores tuned for <strong>loading speed</strong>, <strong>search indexing</strong> and <strong>how it feels on a phone</strong>. Every project is built from scratch, shaped around your industry and your business goals — no generic templates.
+      </p>
+      <p>
+        On top of the technical side, we also do the <strong>digital marketing</strong>: Google Ads, Meta Ads, social media management and ongoing SEO, so the store is not only working but earning. <a href="#faq">See the frequently asked questions →</a>
+      </p>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="shop-prices" id="prices" aria-labelledby="prices-h2">
+  <div class="wrap">
+
+    <div class="shop-prices__head rv">
+      <h2 class="shop-prices__h2" id="prices-h2">
+        Online store pricing —<br><span class="acc">3 clear packages</span>
+      </h2>
+      <p class="shop-prices__sub">
+        Pick the package that fits your business. All prices are a guide — you get a quote for your case within 24 hours of telling us what you need.
+      </p>
+    </div>
+
+    <div class="pkg-grid">
+
+      <div class="pkg rv">
+        <div class="pkg__name">Store Basic</div>
+        <div class="pkg__price">$1,160</div>
+        <div class="pkg__price-note">Starting package</div>
+        <p class="pkg__desc">
+          A working WooCommerce store, right for small businesses that want to start selling online quickly, without a large outlay.
+        </p>
+        <div class="pkg__feats">
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Up to 30 products</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Customised template design</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Online payments (card and transfer)</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Standard shipping calculator</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Responsive design (mobile + desktop)</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Basic on-page SEO</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>3 months of maintenance included</span></div>
+        </div>
+        <a href="/en/contact/" class="btn btn-ghost" style="justify-content:center">Ask for a quote</a>
+      </div>
+
+      <div class="pkg featured rv rv-d1">
+        <span class="pkg__badge">Most chosen</span>
+        <div class="pkg__name">Store Standard</div>
+        <div class="pkg__price">$2,100</div>
+        <div class="pkg__price-note">For a growing business</div>
+        <p class="pkg__desc">
+          A complete online store, with the advanced features, several integrations and a custom design. The best balance of what you get against what you pay.
+        </p>
+        <div class="pkg__feats">
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Up to 200 products</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Fully custom design</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Stripe, PayPal, Square or Authorize.net</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Carrier rates (UPS, FedEx, USPS, ShipStation)</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Advanced coupons &amp; promotions</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Technical SEO + schema.org markup</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Newsletter (Mailchimp / Klaviyo)</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>3 months maintenance + admin training</span></div>
+        </div>
+        <a href="/en/contact/" class="btn btn-solid" style="justify-content:center">Ask for a quote</a>
+      </div>
+
+      <div class="pkg rv rv-d2">
+        <div class="pkg__name">Store Premium</div>
+        <div class="pkg__price">$4,060+</div>
+        <div class="pkg__price-note">Enterprise build</div>
+        <p class="pkg__desc">
+          An enterprise store with ERP/CRM integrations, deeper automation and priority support. For businesses moving real volume.
+        </p>
+        <div class="pkg__feats">
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Unlimited products</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Custom design + dedicated UX/UI</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>ERP and accounting sync (NetSuite, QuickBooks, Xero)</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Multi-currency &amp; multi-language</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Marketing automation &amp; abandoned cart</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Store SEO optimisation included</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Custom analytics dashboard</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>6 months maintenance &amp; priority support</span></div>
+        </div>
+        <a href="/en/contact/" class="btn btn-ghost" style="justify-content:center">Ask for a quote</a>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="shop-clarify" aria-label="Service details">
+  <div class="wrap">
+
+    <div class="shop-clarify__row rv">
+      <div>
+        <h3 class="shop-clarify__h3">WooCommerce stores that are easy to run</h3>
+        <p class="shop-clarify__p">
+          We build <strong style="color:var(--ink)">flexible online stores on WooCommerce</strong> — the most widely used e-commerce platform in the world, built into WordPress. You keep full control over products, orders and customers, without needing a developer for the everyday changes.
+        </p>
+        <p class="shop-clarify__p">
+          The admin panel lets you add products, change prices, run promotions and manage stock directly, with no technical knowledge. All of it in one place, with a layout that makes sense and a workflow that does not fight you.
+        </p>
+      </div>
+      <div class="shop-clarify__vis" aria-hidden="true">
+        <svg width="280" height="220" viewBox="0 0 280 220" fill="none">
+          <rect x="20" y="20" width="240" height="180" rx="10" stroke="var(--acc)" stroke-width="2" fill="var(--white)"/>
+          <line x1="20" y1="46" x2="260" y2="46" stroke="var(--border)" stroke-width="1.5"/>
+          <circle cx="34" cy="33" r="3.5" fill="#FF5F57"/>
+          <circle cx="48" cy="33" r="3.5" fill="#FEBC2E"/>
+          <circle cx="62" cy="33" r="3.5" fill="#28C840"/>
+          <rect x="36" y="64" width="64" height="64" rx="6" fill="var(--cream2)" stroke="var(--border)"/>
+          <rect x="108" y="64" width="64" height="64" rx="6" fill="var(--cream2)" stroke="var(--border)"/>
+          <rect x="180" y="64" width="64" height="64" rx="6" fill="var(--acc)" opacity=".25" stroke="var(--acc)"/>
+          <circle cx="220" cy="170" r="22" fill="var(--acc)"/>
+          <path d="M210 165h20l-3 12h-14z" stroke="var(--acc-ink)" stroke-width="1.5" fill="none"/>
+          <circle cx="214" cy="182" r="2" fill="var(--acc-ink)"/>
+          <circle cx="226" cy="182" r="2" fill="var(--acc-ink)"/>
+          <rect x="36" y="138" width="60" height="6" rx="3" fill="var(--cream2)"/>
+          <rect x="36" y="150" width="40" height="4" rx="2" fill="var(--cream3)"/>
+          <rect x="108" y="138" width="60" height="6" rx="3" fill="var(--cream2)"/>
+          <rect x="108" y="150" width="40" height="4" rx="2" fill="var(--cream3)"/>
+        </svg>
+      </div>
+    </div>
+
+    <div class="shop-clarify__row alt rv">
+      <div>
+        <h3 class="shop-clarify__h3">SEO for the search engines</h3>
+        <p class="shop-clarify__p">
+          A beautiful store nobody can find does not sell. That is why every store we build is <strong style="color:var(--ink)">SEO-ready from the build itself</strong>: proper semantic structure, schema.org markup for products, sensible loading speed and URLs Google can read.
+        </p>
+        <p class="shop-clarify__p">
+          We also offer <strong style="color:var(--ink)">ongoing SEO</strong> ($700 a month) to grow organic traffic, plus <strong style="color:var(--ink)">Google Shopping</strong> and <strong style="color:var(--ink)">Meta Ads</strong> campaigns when you need results sooner.
+        </p>
+      </div>
+      <div class="shop-clarify__vis" aria-hidden="true">
+        <svg width="280" height="220" viewBox="0 0 280 220" fill="none">
+          <rect x="30" y="30" width="220" height="40" rx="20" stroke="var(--acc)" stroke-width="2" fill="var(--white)"/>
+          <circle cx="55" cy="50" r="8" stroke="var(--acc)" stroke-width="2" fill="none"/>
+          <line x1="61" y1="56" x2="68" y2="63" stroke="var(--acc)" stroke-width="2" stroke-linecap="round"/>
+          <rect x="80" y="46" width="100" height="6" rx="3" fill="var(--cream2)"/>
+          <rect x="30" y="92" width="220" height="34" rx="6" fill="var(--white)" stroke="var(--border)"/>
+          <circle cx="48" cy="109" r="4" fill="var(--acc)"/>
+          <rect x="60" y="100" width="120" height="5" rx="2" fill="var(--ink)"/>
+          <rect x="60" y="112" width="170" height="3" rx="1" fill="var(--cream3)"/>
+          <rect x="60" y="118" width="140" height="3" rx="1" fill="var(--cream3)"/>
+          <rect x="30" y="134" width="220" height="34" rx="6" fill="var(--cream)" stroke="var(--border)"/>
+          <rect x="48" y="146" width="120" height="5" rx="2" fill="var(--mid)"/>
+          <rect x="48" y="156" width="160" height="3" rx="1" fill="var(--cream3)"/>
+          <path d="M180 195 L210 175 L230 185 L250 165" stroke="var(--acc)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+          <circle cx="250" cy="165" r="6" fill="var(--acc)"/>
+        </svg>
+      </div>
+    </div>
+
+    <div class="shop-clarify__row rv">
+      <div>
+        <h3 class="shop-clarify__h3">The integrations your market runs on</h3>
+        <p class="shop-clarify__p">
+          We connect your store to the <strong style="color:var(--ink)">payment providers you already use</strong>: Stripe, PayPal, Square, Authorize.net, Apple Pay and Google Pay. For delivery, we set up live rates and labels with UPS, FedEx, USPS, DHL, ShipStation or your own courier.
+        </p>
+        <p class="shop-clarify__p">
+          On top of that, we connect the store to your accounting (<strong style="color:var(--ink)">QuickBooks, Xero, NetSuite</strong>) so invoices go out automatically after every paid order.
+        </p>
+      </div>
+      <div class="shop-clarify__vis" aria-hidden="true">
+        <svg width="280" height="220" viewBox="0 0 280 220" fill="none">
+          <rect x="30" y="40" width="100" height="60" rx="8" fill="var(--ink)" stroke="var(--ink)"/>
+          <rect x="42" y="56" width="20" height="14" rx="2" fill="var(--acc)"/>
+          <rect x="42" y="78" width="60" height="3" rx="1" fill="var(--white)" opacity=".5"/>
+          <rect x="42" y="86" width="40" height="3" rx="1" fill="var(--white)" opacity=".3"/>
+          <rect x="148" y="120" width="80" height="40" rx="4" fill="var(--acc)" opacity=".3" stroke="var(--acc)" stroke-width="2"/>
+          <rect x="228" y="135" width="20" height="25" rx="2" fill="var(--acc)" opacity=".3" stroke="var(--acc)" stroke-width="2"/>
+          <circle cx="170" cy="166" r="8" fill="var(--ink)" stroke="var(--acc)" stroke-width="2"/>
+          <circle cx="234" cy="166" r="8" fill="var(--ink)" stroke="var(--acc)" stroke-width="2"/>
+          <circle cx="170" cy="166" r="3" fill="var(--acc)"/>
+          <circle cx="234" cy="166" r="3" fill="var(--acc)"/>
+          <path d="M130 70 Q175 70 175 120" stroke="var(--acc)" stroke-width="2" stroke-dasharray="4 4" fill="none"/>
+          <circle cx="60" cy="170" r="20" fill="var(--acc)"/>
+          <path d="M50 170 L57 177 L72 162" stroke="var(--acc-ink)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        </svg>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
+<section class="shop-faq" id="faq" aria-labelledby="faq-h2">
+  <div class="wrap">
+
+    <div class="shop-faq__head rv">
+      <h2 class="shop-prices__h2" id="faq-h2" style="font-size:clamp(28px,3.6vw,44px)">
+        What you should know about<br><span class="acc">your online store</span>
+      </h2>
+    </div>
+
+    <div class="shop-faq__list">
+
+      <div class="faq-item rv">
+        <button class="faq-q" type="button" aria-expanded="false">
+          How long does an online store take to build?
+          <span class="faq-q-arrow" aria-hidden="true">+</span>
+        </button>
+        <div class="faq-a">
+          <div class="faq-a-inner">
+            For a Basic store (up to 30 products), it usually takes <strong>2–3 weeks</strong>. For the Standard package, 4–6 weeks. Premium stores with complex integrations can run 6–10 weeks. The exact date is confirmed after the first call, once we know how involved your project is.
+          </div>
+        </div>
+      </div>
+
+      <div class="faq-item rv">
+        <button class="faq-q" type="button" aria-expanded="false">
+          What platform do you build the stores on?
+          <span class="faq-q-arrow" aria-hidden="true">+</span>
+        </button>
+        <div class="faq-a">
+          <div class="faq-a-inner">
+            Mostly <strong>WooCommerce</strong> (WordPress) — the most flexible and scalable e-commerce platform, with over 30% of the global market. On request we also build on <strong>Shopify</strong> (for businesses that want a hosted solution), <strong>PrestaShop</strong> or <strong>Webflow E-commerce</strong>. We recommend the platform after we understand what you are trying to do.
+          </div>
+        </div>
+      </div>
+
+      <div class="faq-item rv">
+        <button class="faq-q" type="button" aria-expanded="false">
+          What happens after the store launches?
+          <span class="faq-q-arrow" aria-hidden="true">+</span>
+        </button>
+        <div class="faq-a">
+          <div class="faq-a-inner">
+            After launch you get <strong>3 months of maintenance included</strong> (6 months on Premium): plugin updates, bug fixes, weekly backups and technical support by email. After that you can move to a monthly maintenance plan or call us as and when something comes up.
+          </div>
+        </div>
+      </div>
+
+      <div class="faq-item rv">
+        <button class="faq-q" type="button" aria-expanded="false">
+          Will I be able to add products myself after launch?
+          <span class="faq-q-arrow" aria-hidden="true">+</span>
+        </button>
+        <div class="faq-a">
+          <div class="faq-a-inner">
+            Yes, absolutely. The stores we build have an admin panel that makes sense. At the end of the project we run a <strong>1–2 hour training session</strong> (included in Standard and Premium) so you or your team can add products, change prices, handle orders and run promotions without us.
+          </div>
+        </div>
+      </div>
+
+      <div class="faq-item rv">
+        <button class="faq-q" type="button" aria-expanded="false">
+          Do you include hosting and the domain?
+          <span class="faq-q-arrow" aria-hidden="true">+</span>
+        </button>
+        <div class="faq-a">
+          <div class="faq-a-inner">
+            Hosting and the domain are not part of the store price, but we help with the recommendation and the setup. As a rule, expect: <strong>domain</strong> around $15 a year, <strong>hosting</strong> that holds up under WooCommerce around $100–$230 a year. We recommend hosting built for e-commerce, so the speed stays where it needs to be.
+          </div>
+        </div>
+      </div>
+
+      <div class="faq-item rv">
+        <button class="faq-q" type="button" aria-expanded="false">
+          Can I move my existing store off another platform?
+          <span class="faq-q-arrow" aria-hidden="true">+</span>
+        </button>
+        <div class="faq-a">
+          <div class="faq-a-inner">
+            Yes. We migrate stores from <strong>Shopify, Magento, BigCommerce, OpenCart, PrestaShop</strong> and others onto WooCommerce, keeping all the products, categories, orders and existing customers. The cost depends on the volume of data and how the current structure is put together, so we quote after a first look at your store.
+          </div>
+        </div>
+      </div>
+
+      <div class="faq-item rv">
+        <button class="faq-q" type="button" aria-expanded="false">
+          Do you also run the marketing for the store?
+          <span class="faq-q-arrow" aria-hidden="true">+</span>
+        </button>
+        <div class="faq-a">
+          <div class="faq-a-inner">
+            Yes — this is where we are different. We are a full agency, not just a web design studio. Once the store is live we can also take on <strong>Google Ads &amp; Meta Ads management</strong> (from $460 a month per platform), <strong>Google Shopping</strong> ($600), <strong>ongoing SEO</strong> ($700 a month) and <strong>social media management</strong> (from $350 a month). So the store does not just look right — it keeps bringing customers in.
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="shop-cta" aria-labelledby="cta-h2">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="shop-cta__h2" id="cta-h2">
+        Ready to launch<br>
+        <span class="acc">your online store?</span>
+      </h2>
+      <p class="shop-cta__p">
+        Tell us about your project and you get a quote within 24 hours. Free consultation, nothing to sign.
+      </p>
+      <div class="shop-cta__btns">
+        <a href="/en/contact/" class="btn btn-solid">Ask for a quote</a>
+        <a href="tel:+40771486499" class="btn btn-dark">Call now: +40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Related services and published prices">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> No hidden prices</span>
+      <h2>See exactly what you pay.</h2>
+      <p>We do not work with hidden rates or surprises on the invoice. All our packages and prices are public. You choose knowing where you stand, with nobody pushing you.</p>
+      <a href="/en/pricing/" class="rel-trans__link">See all prices <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Carry on with</div>
+      <div class="rel-links__grid">
+        <a href="/en/web-design/" class="rel-link"><span class="rel-link__name">Web design <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Fast company websites, designed on your brand.</span></a>
+        <a href="/en/google-meta-ads/" class="rel-link"><span class="rel-link__name">Google &amp; Meta Ads <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Campaigns aimed at leads and sales.</span></a>
+        <a href="/en/seo/" class="rel-link"><span class="rel-link__name">SEO &amp; content <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Reach page one of Google, organically.</span></a>
+        <a href="/en/portfolio/" class="rel-link"><span class="rel-link__name">Portfolio <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Real projects delivered by our team.</span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+1a:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$22"}}]
+1b:["$","$L23",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@24"}]}]
+1e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#FFFFFF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#111114","media":"(prefers-color-scheme: dark)"}]]
+25:I[27201,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"IconMark"]
+21:[["$","title","0",{"children":"Online Store Development — WooCommerce & Shopify from $1,160 | Visience"}],["$","meta","1",{"name":"description","content":"Online stores built on WooCommerce and Shopify, tuned for conversion, speed and SEO. Payments, shipping and accounting connected. From $1,160, with 3 months of maintenance included."}],["$","link","2",{"rel":"canonical","href":"https://visience.ro/en/online-store/"}],["$","link","3",{"rel":"alternate","hrefLang":"ro-RO","href":"https://visience.ro/creare-magazin-online/"}],["$","link","4",{"rel":"alternate","hrefLang":"en","href":"https://visience.ro/en/online-store/"}],["$","link","5",{"rel":"alternate","hrefLang":"x-default","href":"https://visience.ro/en/online-store/"}],["$","meta","6",{"property":"og:title","content":"Online stores that actually sell — Visience"}],["$","meta","7",{"property":"og:description","content":"WooCommerce and Shopify stores with payments, shipping and SEO set up properly. From $1,160."}],["$","meta","8",{"property":"og:url","content":"https://visience.ro/en/online-store/"}],["$","meta","9",{"property":"og:locale","content":"en_US"}],["$","meta","10",{"property":"og:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"Agenție de Marketing & Creare Site-uri în Iași | Visience"}],["$","meta","14",{"name":"twitter:description","content":"Branding, website-uri, magazine online, Google & Meta Ads, SEO. Prețuri publice, fără costuri ascunse."}],["$","meta","15",{"name":"twitter:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","link","16",{"rel":"icon","href":"/favicon.ico?favicon.04nd99rd6ooix.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","17",{"rel":"icon","href":"/icon.png?icon.3v2r-pcu8x6vx.png","sizes":"192x192","type":"image/png"}],["$","link","18",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2y52blaubq-q-.png","sizes":"180x180","type":"image/png"}],["$","$L25","19",{}]]
+24:null
