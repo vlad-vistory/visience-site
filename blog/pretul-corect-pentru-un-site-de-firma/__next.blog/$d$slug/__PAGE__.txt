@@ -1,0 +1,159 @@
+1:"$Sreact.fragment"
+a:I[97367,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["/_next/static/chunks/28or4npab1wgt.css","style"]
+2:T105a,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/pretul-corect-pentru-un-site-de-firma/#article","headline":"Cât ar trebui să plătesc pentru un site de firmă?","description":"Care e prețul corect pentru un site de firmă: calculul pornind de la profitul pe client, cum compari două oferte pe același numitor, semnalele de preț prea mic și prea mare.","datePublished":"2026-08-20","dateModified":"2026-08-20","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/pretul-corect-pentru-un-site-de-firma/","articleSection":"Prețuri"},{"@type":"FAQPage","@id":"https://visience.ro/blog/pretul-corect-pentru-un-site-de-firma/#faq","mainEntity":[{"@type":"Question","name":"Care e prețul corect pentru un site de firmă?","acceptedAnswer":{"@type":"Answer","text":"Cel pe care îl recuperezi din primii doi-trei clienți aduși de site, ideal în maximum șase luni. Se calculează pornind de la profitul pe un client mediu, înmulțit cu numărul realist de clienți noi pe an, nu de la o sumă din piață."}},{"@type":"Question","name":"Cum compar două oferte de site?","acceptedAnswer":{"@type":"Answer","text":"Pe ore de lucru incluse, pe numărul de pagini cu structură distinctă, pe cine scrie textele, pe ce se măsoară după livrare și pe cine deține domeniul și găzduirea. Suma finală, singură, nu spune nimic."}},{"@type":"Question","name":"E mai bine să plătesc mai mult pentru un site mai bun?","acceptedAnswer":{"@type":"Answer","text":"Depinde de profitul pe client. La un profit mare pe client merită să plătești pentru pagini care conving un om care compară trei furnizori. La un profit mic, banii sunt mai bine puși în vizibilitate locală și recenzii."}},{"@type":"Question","name":"Ce înseamnă că un site e prea ieftin?","acceptedAnswer":{"@type":"Answer","text":"Preț fix dat fără nicio întrebare despre afacere, promisiunea de livrare în câteva zile, lipsa unei descrieri scrise a ce intră și un portofoliu fără adrese pe care să le poți deschide."}},{"@type":"Question","name":"Ce nu ar trebui să plătesc niciodată la un site?","acceptedAnswer":{"@type":"Answer","text":"Un site care nu rămâne al tău, poziții garantate în Google, trafic cumpărat, și un site nou când ce ai are doar câteva probleme reparabile."}},{"@type":"Question","name":"Dacă am 1.000 € în total, pe ce îi dau?","acceptedAnswer":{"@type":"Answer","text":"În ordinea asta: profil Google Business complet, un site de 4–6 pagini cu prețuri și formular, măsurarea conversiilor, o pagină pe fiecare serviciu principal și abia la final reclame."}},{"@type":"Question","name":"În cât timp ar trebui să se plătească singur un site?","acceptedAnswer":{"@type":"Answer","text":"În maximum șase luni, pentru o firmă mică sau mijlocie. Dacă socoteala nu iese în șase luni, fie prețul e prea mare pentru afacerea ta, fie site-ul nu e problema principală."}},{"@type":"Question","name":"Merită să plătesc pentru texte scrise de agenție?","acceptedAnswer":{"@type":"Answer","text":"De regulă da, pentru că textele sunt cea mai frecventă cauză de întârziere și pentru că ele decid dacă omul cere ofertă. Dacă le scrii tu, cere o reducere clară și asumă-ți termenul."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Cât ar trebui să plătesc pentru un site de firmă?","item":"https://visience.ro/blog/pretul-corect-pentru-un-site-de-firma/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"eLqEQrLo5dEIIdaWoSMS7"}
+6:T230c,<style>
+.pr-tab { width: 100%; border-collapse: collapse; font-size: 14.5px; }
+.pr-tab th { text-align: left; }
+.pr-nota {
+  background: #111010; color: #fff; border-radius: 14px;
+  padding: 20px 24px; margin: 28px 0; font-size: 15px; line-height: 1.65;
+}
+.pr-nota b {
+  color: #9BC31A; display: block; font-size: 11px; letter-spacing: .16em;
+  text-transform: uppercase; margin-bottom: 7px; font-family: var(--f-m, monospace);
+}
+.pr-sumar { border-left: 3px solid #9BC31A; padding: 4px 0 4px 22px; margin: 30px 0 38px; list-style: none; }
+.pr-sumar li { margin-bottom: 11px; }
+</style>
+
+<p class="key-answer">Prețul corect pentru un site de firmă nu e o sumă din piață, ci
+<strong>suma pe care o recuperezi din primii doi-trei clienți aduși de el</strong>. Dacă un client
+îți aduce 1.500 € profit, un site de 1.200 € e ieftin. Dacă un client îți aduce 150 €, același
+site e scump și ai nevoie de altă socoteală. Regula practică: <strong>site-ul ar trebui să se
+plătească în maximum șase luni</strong>.</p>
+
+<ul class="pr-sumar">
+  <li><b>Pasul 1:</b> cât profit îți lasă un client mediu.</li>
+  <li><b>Pasul 2:</b> câți clienți în plus poate aduce site-ul într-un an, realist.</li>
+  <li><b>Pasul 3:</b> înmulțește. Dacă rezultatul e de trei ori prețul cerut, oferta e bună.</li>
+  <li><b>Pasul 4:</b> compară două oferte pe ore de lucru și pe ce intră, nu pe suma finală.</li>
+</ul>
+
+<p>Dacă vrei direct intervalele din piață, le-am scris separat în
+<a href="/blog/cat-costa-un-site-web/">cât costă un site de prezentare în 2026</a>. Aici e vorba
+despre cum decizi dacă prețul care ți s-a cerut ție e corect.</p>
+
+<h2 id="calcul">Calculul, cu cifre</h2>
+<p>Trei firme reale ca tipologie, cu aceeași întrebare și trei răspunsuri diferite:</p>
+<table class="pr-tab">
+  <thead><tr><th>Firma</th><th>Profit pe client</th><th>Clienți noi pe an, din site</th><th>Prețul corect</th></tr></thead>
+  <tbody>
+    <tr><td>Instalator</td><td>~400 €</td><td>15–25</td><td>750–1.200 €, se plătește în 2–3 luni</td></tr>
+    <tr><td>Firmă de mobilă la comandă</td><td>~1.200 €</td><td>8–12</td><td>1.200–2.500 €, se plătește din primul client</td></tr>
+    <tr><td>Cabinet cu servicii de 150 €</td><td>~60 €</td><td>40–60</td><td>750 € maximum, cu accent pe Google Business și recenzii</td></tr>
+  </tbody>
+</table>
+<p>Observă ce se schimbă: nu prețul site-ului, ci ce merită să conțină. La un profit mic pe client,
+banii sunt mai bine puși în vizibilitate locală decât în design. La un profit mare pe client,
+merită să plătești pentru pagini care conving un om care compară trei furnizori.</p>
+
+<div class="pr-nota">
+  <b>De reținut</b>
+  Cea mai frecventă greșeală nu e să plătești prea mult, ci să plătești prea puțin pentru ce ai
+  nevoie. Un site de 500 € care nu se poate modifica, nu apare în Google și nu numără nicio cerere
+  te costă, peste un an, exact cât unul de 1.500 € — plus anul pierdut.
+</div>
+
+<h2 id="compari">Cum compari două oferte, corect</h2>
+<p>Ofertele arată la fel și au sume diferite pentru că măsoară lucruri diferite. Pune-le pe același
+numitor cu întrebările astea:</p>
+<ol>
+  <li><b>Câte ore de lucru intră?</b> E singurul numitor comun real. Un site de firmă serios pornește de la ~25 de ore.</li>
+  <li><b>Câte pagini distincte</b>, nu câte pagini în total. Zece pagini identice cu textul schimbat sunt o pagină.</li>
+  <li><b>Cine scrie textele?</b> Dacă tu, taie din preț și adaugă la timpul tău.</li>
+  <li><b>Ce se măsoară după livrare?</b> Formular, apel, WhatsApp — configurate ca evenimente de conversie.</li>
+  <li><b>Poți modifica singur?</b> Fără panou de administrare, fiecare virgulă schimbată e o factură.</li>
+  <li><b>Pe ce conturi stau domeniul și găzduirea?</b> Trebuie să fie ale tale.</li>
+</ol>
+<p>Dacă o ofertă nu răspunde la prima și la a patra, nu e o ofertă, e un preț.</p>
+
+<h2 id="prea-mic">Semnale că prețul e prea mic</h2>
+<ul>
+  <li><b>Preț fix, dat înainte de orice întrebare</b> despre ce faci și cui vinzi.</li>
+  <li><b>„Site profesional în 3 zile."</b> În trei zile se schimbă textele într-un șablon.</li>
+  <li><b>Nu se spune pe ce se construiește</b> și cine ține domeniul.</li>
+  <li><b>Nu există nimic scris</b> despre ce intră și ce nu.</li>
+  <li><b>Portofoliul are doar capturi</b>, fără adrese pe care le poți deschide.</li>
+</ul>
+
+<h2 id="prea-mare">Semnale că plătești prea mult</h2>
+<ul>
+  <li><b>Plătești pentru pagini pe care nu le va citi nimeni</b> — „misiune", „valori", „istoricul companiei".</li>
+  <li><b>Design de la zero pe fiecare pagină</b>, când o structură repetată ar funcționa la fel.</li>
+  <li><b>Funcții pe care nu le vei folosi:</b> zonă de membri, forum, aplicație, chat cu operator.</li>
+  <li><b>Abonament lunar obligatoriu</b> care nu conține nimic în afară de găzduire.</li>
+  <li><b>Nu ți se poate explica</b> ce aduce în plus varianta mai scumpă, în cuvinte legate de clienți.</li>
+</ul>
+
+<h2 id="ce-nu">Ce nu merită plătit niciodată</h2>
+<ul>
+  <li><b>Un site care nu rămâne al tău.</b> Dacă domeniul, găzduirea sau codul stau pe conturile agenției, plătești o chirie, nu un site.</li>
+  <li><b>Poziții garantate în Google.</b> Nu se pot garanta.</li>
+  <li><b>Trafic cumpărat.</b> Vizite fără oameni în spate.</li>
+  <li><b>Un site nou, când ce ai are doar trei probleme.</b> Cere întâi o listă de reparații, cu preț.</li>
+</ul>
+
+<h2 id="buget">Dacă bugetul e mic, în ce ordine cheltui</h2>
+<p>Ordinea contează mai mult decât suma. Cu 1.000 € în total, așa i-ai împărți:</p>
+<table class="pr-tab">
+  <thead><tr><th>Prioritate</th><th>Ce</th><th>De ce</th></tr></thead>
+  <tbody>
+    <tr><td>1</td><td>Profil Google Business complet, cu poze și recenzii</td><td>gratuit, și aduce telefoane direct de pe hartă</td></tr>
+    <tr><td>2</td><td>Un site de 4–6 pagini, cu prețuri și formular</td><td>ai unde trimite omul care te caută</td></tr>
+    <tr><td>3</td><td>Măsurarea conversiilor</td><td>fără ea nu vei ști niciodată ce funcționează</td></tr>
+    <tr><td>4</td><td>O pagină pe fiecare serviciu principal</td><td>prinde căutările pe care pagina principală nu le prinde</td></tr>
+    <tr><td>5</td><td>Reclame</td><td>abia după ce ai unde trimite omul</td></tr>
+  </tbody>
+</table>
+
+<h2 id="mai-departe">Mai departe</h2>
+<p>Prețurile noastre, pe pachete, sunt pe <a href="/preturi/">pagina de prețuri</a>. Dacă vrei să
+verifici singur un site — al tău sau unul propus de altcineva — ai
+<a href="/anatomia-paginii-de-servicii/">anatomia unui site de servicii</a>, cu 19 piese explicate
+una câte una.</p>
+
+<h2 id="faq">Întrebări frecvente</h2>
+
+<h3>Care e prețul corect pentru un site de firmă?</h3>
+<p>Cel pe care îl recuperezi din primii doi-trei clienți aduși de site, ideal în maximum șase
+luni. Se calculează pornind de la profitul pe un client mediu, înmulțit cu numărul realist de
+clienți noi pe an, nu pornind de la o sumă din piață.</p>
+
+<h3>Cum compar două oferte de site?</h3>
+<p>Pe ore de lucru incluse, pe numărul de pagini cu structură distinctă, pe cine scrie textele, pe
+ce se măsoară după livrare și pe cine deține domeniul și găzduirea. Suma finală, singură, nu spune
+nimic.</p>
+
+<h3>E mai bine să plătesc mai mult pentru un site mai bun?</h3>
+<p>Depinde de profitul pe client. La un profit mare pe client, merită să plătești pentru pagini
+care conving un om care compară trei furnizori. La un profit mic, banii sunt mai bine puși în
+vizibilitate locală și recenzii.</p>
+
+<h3>Ce înseamnă că un site e prea ieftin?</h3>
+<p>Preț fix dat fără nicio întrebare despre afacere, promisiunea de livrare în câteva zile, lipsa
+unei descrieri scrise a ce intră, și un portofoliu fără adrese pe care să le poți deschide.</p>
+
+<h3>Ce nu ar trebui să plătesc niciodată la un site?</h3>
+<p>Un site care nu rămâne al tău, poziții garantate în Google, trafic cumpărat, și un site nou
+când ce ai are doar câteva probleme reparabile.</p>
+
+<h3>Dacă am 1.000 € în total, pe ce îi dau?</h3>
+<p>În ordinea asta: profil Google Business complet, un site de 4–6 pagini cu prețuri și formular,
+măsurarea conversiilor, o pagină pe fiecare serviciu principal și abia la final reclame.</p>
+
+<h3>Cât ar trebui să se plătească singur un site?</h3>
+<p>În maximum șase luni, pentru o firmă mică sau mijlocie. Dacă socoteala nu iese în șase luni,
+fie prețul e prea mare pentru afacerea ta, fie site-ul nu e problema principală.</p>
+
+<h3>Merită să plătesc pentru texte scrise de agenție?</h3>
+<p>De regulă da, pentru că textele sunt cea mai frecventă cauză de întârziere și pentru că ele
+decid dacă omul cere ofertă. Dacă le scrii tu, cere o reducere clară și asumă-ți termenul.</p>
+3:["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Cât ar trebui să plătesc pentru un site de firmă?"}],["$","div",null,{"className":"blog-article__meta","children":[["$","span",null,{"className":"blog-article__cat","children":"Prețuri"}],["$","time",null,{"dateTime":"2026-08-20","children":"20 august 2026"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$6"}}],"$L7","$L8","$L9"]}]}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/28or4npab1wgt.css","precedence":"next"}]
+5:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+7:["$","div",null,{"className":"parere","children":[["$","span",null,{"className":"parere__q","children":"Ți-a fost utilă pagina?"}],["$","div",null,{"className":"parere__btns","children":[["$","button",null,{"type":"button","data-nota":"da","children":"Da"}],["$","button",null,{"type":"button","data-nota":"partial","children":"Parțial"}],["$","button",null,{"type":"button","data-nota":"nu","children":"Nu"}]]}],["$","div",null,{"className":"parere__extra","hidden":true,"children":["$","form",null,{"children":[["$","textarea",null,{"rows":2,"placeholder":"Ce ai fi vrut să găsești aici? (opțional)"}],["$","button",null,{"className":"btn btn-solid","type":"submit","children":"Trimite"}]]}]}]]}]
+8:["$","div",null,{"className":"blog-author","children":[["$","span",null,{"className":"blog-author__ava","aria-hidden":"true","children":"V"}],["$","div",null,{"className":"blog-author__body","children":[["$","span",null,{"className":"blog-author__name","children":"Vlad Roman"}],["$","span",null,{"className":"blog-author__role","children":["Fondator Visience · ",["$","a",null,{"href":"https://www.linkedin.com/in/roman-vladut-constantin/","target":"_blank","rel":"noopener","className":"blog-author__link","children":"LinkedIn ↗"}]]}],["$","p",null,{"className":"blog-author__bio","children":"Conduce Visience, agenția de web design și marketing digital din Iași. Scrie despre creare de site-uri, SEO și cum își cresc afacerile mici și mijlocii prezența online."}]]}]]}]
+9:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
+c:null
