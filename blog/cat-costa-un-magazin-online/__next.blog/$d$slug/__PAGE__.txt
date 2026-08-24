@@ -1,0 +1,175 @@
+1:"$Sreact.fragment"
+a:I[97367,["/_next/static/chunks/1j18jy-fz2p7y.js","/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["/_next/static/chunks/28or4npab1wgt.css","style"]
+2:T11c5,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/cat-costa-un-magazin-online/#article","headline":"Cât costă un magazin online în România în 2026?","description":"Cât costă un magazin online în 2026: 1.000–3.500 € construcția, cu prețuri publice pe pachete, plus costurile lunare pe care ofertele le omit — comision de procesare, curier, găzduire, buget de reclamă.","datePublished":"2026-08-20","dateModified":"2026-08-20","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/cat-costa-un-magazin-online/","articleSection":"Prețuri"},{"@type":"FAQPage","@id":"https://visience.ro/blog/cat-costa-un-magazin-online/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un magazin online în România în 2026?","acceptedAnswer":{"@type":"Answer","text":"Între 1.000 și 3.500 € pentru construcție. Un magazin funcțional pe WooCommerce, cu plăți online și curier, pornește de la 1.000 €. Varianta aleasă cel mai des, cu template de produs personalizat și email pentru coșul abandonat, costă 1.800 €."}},{"@type":"Question","name":"Ce costuri lunare are un magazin online?","acceptedAnswer":{"@type":"Answer","text":"Găzduirea, 85 € pe an, comisionul procesatorului de plăți, de regulă între 1% plus 0,5 lei și 2,9% plus 1 leu pe tranzacție, tarifele curierului și, opțional, mentenanța. Dacă vinzi cu reclame, se adaugă bugetul de campanii plătit direct către Google și Meta."}},{"@type":"Question","name":"Cât costă încărcarea produselor într-un magazin online?","acceptedAnswer":{"@type":"Answer","text":"Se negociază separat, pe volum. Cu un fișier curat cu titluri, descrieri, prețuri și fotografii, produsele se importă și costă puțin. Dacă descrierile trebuie scrise, e muncă de conținut și se tarifează ca atare."}},{"@type":"Question","name":"WooCommerce sau Shopify pentru un magazin din România?","acceptedAnswer":{"@type":"Answer","text":"WooCommerce pentru majoritatea magazinelor din România, pentru că integrările cu curierii, procesatorii de plăți și programele de facturare există și sunt întreținute, iar magazinul rămâne al tău, pe serverul tău. Shopify are sens dacă vrei zero grijă tehnică și accepți abonamentul lunar."}},{"@type":"Question","name":"În cât timp se face un magazin online?","acceptedAnswer":{"@type":"Answer","text":"Un magazin Basic în trei-patru săptămâni, unul Standard în șase-opt. Cel mai des termenul se lungește din cauza produselor: fotografii lipsă, descrieri nescrise, prețuri neconfirmate."}},{"@type":"Question","name":"Am nevoie de firmă ca să vând online?","acceptedAnswer":{"@type":"Answer","text":"Da. Îți trebuie o formă juridică, cont bancar pe firmă, contract cu un procesator de plăți și contract cu un curier. Magazinul trebuie să aibă termeni și condiții, politică de retur, GDPR și linkurile ANPC și SOL."}},{"@type":"Question","name":"Cât buget de reclamă îmi trebuie pentru un magazin online la început?","acceptedAnswer":{"@type":"Answer","text":"Minimum 500 € pe lună pentru un magazin la început, plătiți direct către Google și Meta. Sub pragul ăsta algoritmii nu adună destule date ca să învețe cine cumpără, iar rezultatele rămân aleatorii."}},{"@type":"Question","name":"Pot muta magazinul pe altă platformă fără să pierd clienții?","acceptedAnswer":{"@type":"Answer","text":"Da, dacă se face cu redirecționări de la vechile adrese către cele noi și se păstrează structura de categorii. Fără ele pierzi poziționarea din Google construită până atunci, iar recuperarea durează luni."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Cât costă un magazin online în România în 2026?","item":"https://visience.ro/blog/cat-costa-un-magazin-online/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"53qeNmJyUg5Z_YCsCrRlY"}
+6:T2a5a,<style>
+.pr-tab { width: 100%; border-collapse: collapse; font-size: 14.5px; }
+.pr-tab th { text-align: left; }
+.pr-nota {
+  background: #111010; color: #fff; border-radius: 14px;
+  padding: 20px 24px; margin: 28px 0; font-size: 15px; line-height: 1.65;
+}
+.pr-nota b {
+  color: #9BC31A; display: block; font-size: 11px; letter-spacing: .16em;
+  text-transform: uppercase; margin-bottom: 7px; font-family: var(--f-m, monospace);
+}
+.pr-sumar { border-left: 3px solid #9BC31A; padding: 4px 0 4px 22px; margin: 30px 0 38px; list-style: none; }
+.pr-sumar li { margin-bottom: 11px; }
+</style>
+
+<p class="key-answer">Un magazin online în România costă, în 2026,
+<strong>între 1.000 și 3.500 €</strong> pentru construcție, o singură dată. Un magazin
+funcțional pe WooCommerce, cu plăți online și curier, pornește de la 1.000 €; varianta aleasă
+cel mai des costă 1.800 €. Peste asta vin costuri lunare pe care ofertele le omit aproape mereu:
+găzduire, comision de procesare a plăților și, dacă vinzi cu reclame, bugetul de campanii.</p>
+
+<ul class="pr-sumar">
+  <li><b>1.000 €</b> — magazin funcțional: produse, coș, plată cu cardul, transfer, ramburs, curier.</li>
+  <li><b>1.800 €</b> — varianta aleasă cel mai des: template de produs personalizat, sugestii de produse, email pentru coșul abandonat, două limbi.</li>
+  <li><b>3.500 €</b> — design unic, mega meniu, chat live, configurator de produse complexe.</li>
+  <li><b>15 € + 85 €/an</b> — domeniul și găzduirea, separat.</li>
+  <li><b>1–2,9% pe tranzacție</b> — comisionul procesatorului de plăți, lunar, către el, nu către agenție.</li>
+</ul>
+
+<p>Prețurile de construcție sunt ale noastre și sunt publicate integral pe
+<a href="/preturi/">pagina de prețuri</a>. Mai jos e ce le urcă, ce le coboară și, mai important,
+cât te costă magazinul în fiecare lună după ce e gata.</p>
+
+<h2 id="pachete">Cât costă construcția, pe pachete</h2>
+<table class="pr-tab">
+  <thead><tr><th>Pachet</th><th>Preț</th><th>Ore</th><th>Ce intră</th></tr></thead>
+  <tbody>
+    <tr><td>Magazin Basic</td><td>1.000 €</td><td>35</td><td>până la 6 pagini dinamice, plată cu cardul, transfer și ramburs, configurare transport, GDPR</td></tr>
+    <tr><td>Magazin Standard</td><td>1.800 €</td><td>75</td><td>tot din Basic, plus strategie UX, template de produs personalizat, sugestii de produse, puncte cadou, email pentru coș abandonat, două limbi, 3 luni mentenanță</td></tr>
+    <tr><td>Magazin Premium</td><td>3.500 €</td><td>150</td><td>tot din Standard, plus design unic, mega meniu cu imagini, chat live, configurator de produse complexe, schema markup complet</td></tr>
+  </tbody>
+</table>
+<p>Le construim pe <b>WooCommerce</b>, platforma cea mai folosită în România, cu integrări de
+plată (Stripe, Netopia, EuPlătesc) și curieri (Sameday, FAN Courier, Cargus). Lucrăm și pe
+Shopify sau PrestaShop, dacă ai deja unul.</p>
+<p><b>Adăugarea produselor se negociază separat.</b> E singura poziție care poate depăși prețul
+magazinului: 40 de produse se încarcă într-o zi, 4.000 nu. Dacă ai un fișier curat cu titluri,
+descrieri, prețuri și poze, se importă. Dacă nu, cineva trebuie să le scrie.</p>
+
+<h2 id="ce-urca">Ce urcă prețul unui magazin</h2>
+<ul>
+  <li><b>Numărul de variante pe produs.</b> Mărimi, culori, materiale — fiecare combinație e stoc separat și complică tot, de la template la curier.</li>
+  <li><b>Legătura cu un program de gestiune sau ERP.</b> Sincronizarea stocurilor în timp real e o lucrare de programare, nu o bifă.</li>
+  <li><b>Configuratoare</b> — mobilă la comandă, tâmplărie, pachete personalizate. Aici prețul urcă cel mai mult și cel mai repede.</li>
+  <li><b>Mai multe limbi și mai multe monede.</b> Fiecare limbă e conținut nou pentru toate produsele.</li>
+  <li><b>Import de produse fără fișier curat.</b> Vezi mai sus.</li>
+</ul>
+
+<h2 id="ce-coboara">Ce coboară prețul</h2>
+<ul>
+  <li><b>Ai fotografiile făcute</b> și descrierile scrise, într-un tabel.</li>
+  <li><b>Pornești cu mai puține produse.</b> Un magazin cu 40 de produse care vinde bate unul cu 400 care se pregătește de un an.</li>
+  <li><b>Un singur curier și un singur procesator</b> la lansare. Se adaugă altele când ai volum.</li>
+  <li><b>Accepți un template de produs bine făcut</b>, în loc de design unic pe fiecare categorie.</li>
+</ul>
+
+<h2 id="lunar">Cât te costă în fiecare lună</h2>
+<p>Aici se pierd cei mai mulți oameni. Prețul magazinului e o plată. Costul lui e lunar:</p>
+<table class="pr-tab">
+  <thead><tr><th>Cost</th><th>Cât</th><th>Către cine</th></tr></thead>
+  <tbody>
+    <tr><td>Găzduire</td><td>85 € pe an</td><td>furnizorul de găzduire</td></tr>
+    <tr><td>Domeniu</td><td>15 €</td><td>registrar, anual</td></tr>
+    <tr><td>Comision de procesare plăți</td><td>de regulă între 1% + 0,5 lei și 2,9% + 1 leu pe tranzacție</td><td>procesatorul (Netopia, EuPlătesc, Stripe)</td></tr>
+    <tr><td>Curier</td><td>tarif negociat, pe volum</td><td>curierul, contract propriu</td></tr>
+    <tr><td>Mentenanță și actualizări</td><td>opțional</td><td>agenție sau intern</td></tr>
+    <tr><td>Buget de reclamă</td><td>de la 500 € pe lună, recomandat</td><td>direct către Google și Meta</td></tr>
+    <tr><td>Management campanii</td><td>400 € pe lună, per platformă</td><td>agenție</td></tr>
+  </tbody>
+</table>
+<p>Comisioanele de procesare se negociază la volum: peste un anumit rulaj lunar, procesatorii
+scad procentul. Banii intră de regulă în cont la două zile lucrătoare de la plată, nu instant —
+lucru care contează dacă lucrezi cu marfă pe stoc și plătești furnizorii la termen scurt.</p>
+
+<div class="pr-nota">
+  <b>De reținut</b>
+  Un magazin de 1.000 € cu 500 € pe lună buget de reclamă vinde. Un magazin de 3.500 € fără
+  niciun buget de promovare stă. Dacă banii sunt limitați, taie din construcție, nu din
+  promovare — magazinul se poate îmbunătăți pe parcurs, luna pierdută nu se recuperează.
+</div>
+
+<h2 id="platforme">WooCommerce, Shopify sau PrestaShop?</h2>
+<table class="pr-tab">
+  <thead><tr><th></th><th>WooCommerce</th><th>Shopify</th><th>PrestaShop</th></tr></thead>
+  <tbody>
+    <tr><td>Cost lunar al platformei</td><td>zero, plătești doar găzduirea</td><td>abonament lunar</td><td>zero, plătești găzduirea</td></tr>
+    <tr><td>Cine deține magazinul</td><td>tu, pe serverul tău</td><td>rulează pe platforma lor</td><td>tu, pe serverul tău</td></tr>
+    <tr><td>Integrări românești</td><td>foarte multe, toate curierii și procesatorii</td><td>mai puține, unele prin intermediari</td><td>bune, comunitate mai mică</td></tr>
+    <tr><td>Potrivit pentru</td><td>majoritatea magazinelor din România</td><td>cine vrea să nu se ocupe deloc de partea tehnică</td><td>cataloage mari, cu multe variante</td></tr>
+  </tbody>
+</table>
+<p>Recomandarea noastră implicită e WooCommerce, pentru că integrările cu ce folosești oricum în
+România — curieri, procesatori, programe de facturare — există și sunt întreținute. Shopify are
+sens dacă vrei zero grijă tehnică și accepți abonamentul lunar.</p>
+
+<h2 id="corect">Cum verifici dacă o ofertă e corectă</h2>
+<ol>
+  <li><b>Câte ore intră și ce se întâmplă când se termină?</b> Un magazin nu e o pagină; 35 de ore e minimul pentru unul funcțional.</li>
+  <li><b>Cine încarcă produsele și în ce condiții?</b> Cere prețul pe produs sau pe lot, scris.</li>
+  <li><b>Pe ce conturi stau domeniul, găzduirea și procesatorul?</b> Trebuie să fie ale tale.</li>
+  <li><b>Ce se măsoară?</b> Fără evenimente de conversie pe „adaugă în coș" și „comandă finalizată", campaniile merg în orb.</li>
+  <li><b>Ce include mentenanța</b> și ce se întâmplă dacă magazinul cade sâmbăta.</li>
+</ol>
+
+<h2 id="noi">Ce livrăm noi</h2>
+<p>Toate magazinele ies cu panou de administrare din care poți adăuga singur produse, cu plăți și
+curieri configurați, GDPR și protecția consumatorului, design pe telefon și SEO de bază. Vezi
+<a href="/creare-magazin-online/">ce intră într-un magazin online</a>,
+<a href="/preturi/">toate prețurile</a> sau
+<a href="/blog/cat-costa-un-site-web/">cât costă un site de prezentare</a>, dacă nu vinzi încă
+online.</p>
+
+<h2 id="faq">Întrebări frecvente</h2>
+
+<h3>Cât costă un magazin online în România în 2026?</h3>
+<p>Între 1.000 și 3.500 € pentru construcție. Un magazin funcțional pe WooCommerce, cu plăți
+online și curier, pornește de la 1.000 €. Varianta aleasă cel mai des, cu template de produs
+personalizat și email pentru coșul abandonat, costă 1.800 €.</p>
+
+<h3>Ce costuri lunare are un magazin online?</h3>
+<p>Găzduirea (85 € pe an), comisionul procesatorului de plăți (de regulă între 1% + 0,5 lei și
+2,9% + 1 leu pe tranzacție), tarifele curierului și, opțional, mentenanța. Dacă vinzi cu reclame,
+se adaugă bugetul de campanii plătit direct către Google și Meta.</p>
+
+<h3>Cât costă încărcarea produselor?</h3>
+<p>Se negociază separat, pe volum. Dacă ai un fișier curat cu titluri, descrieri, prețuri și
+fotografii, produsele se importă și costă puțin. Dacă descrierile trebuie scrise, e muncă de
+conținut și se tarifează ca atare.</p>
+
+<h3>WooCommerce sau Shopify?</h3>
+<p>WooCommerce pentru majoritatea magazinelor din România, pentru că integrările cu curierii,
+procesatorii de plăți și programele de facturare există și sunt întreținute, iar magazinul rămâne
+al tău, pe serverul tău. Shopify are sens dacă vrei zero grijă tehnică și accepți abonamentul
+lunar.</p>
+
+<h3>În cât timp se face un magazin online?</h3>
+<p>Un magazin Basic în trei-patru săptămâni, unul Standard în șase-opt. Cel mai des, termenul se
+lungește din cauza produselor: fotografii lipsă, descrieri nescrise, prețuri neconfirmate.</p>
+
+<h3>Am nevoie de firmă ca să vând online?</h3>
+<p>Da. Îți trebuie o formă juridică, cont bancar pe firmă, contract cu un procesator de plăți și
+contract cu un curier. Magazinul trebuie să aibă termeni și condiții, politică de retur, GDPR și
+linkurile ANPC și SOL.</p>
+
+<h3>Cât buget de reclamă îmi trebuie la început?</h3>
+<p>Recomandăm minimum 500 € pe lună pentru un magazin la început, plătiți direct către Google și
+Meta. Sub pragul ăsta, algoritmii nu adună destule date ca să învețe cine cumpără, iar rezultatele
+rămân aleatorii.</p>
+
+<h3>Pot trece de la magazinul actual la altul fără să pierd clienții?</h3>
+<p>Da, dacă se face cu redirecționări de la vechile adrese către cele noi și se păstrează
+structura de categorii. Fără ele, pierzi poziționarea din Google construită până atunci, iar
+recuperarea durează luni.</p>
+3:["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Cât costă un magazin online în România în 2026?"}],["$","div",null,{"className":"blog-article__meta","children":[["$","span",null,{"className":"blog-article__cat","children":"Prețuri"}],["$","time",null,{"dateTime":"2026-08-20","children":"20 august 2026"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$6"}}],"$L7","$L8","$L9"]}]}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/28or4npab1wgt.css","precedence":"next"}]
+5:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+7:["$","div",null,{"className":"parere","children":[["$","span",null,{"className":"parere__q","children":"Ți-a fost utilă pagina?"}],["$","div",null,{"className":"parere__btns","children":[["$","button",null,{"type":"button","data-nota":"da","children":"Da"}],["$","button",null,{"type":"button","data-nota":"partial","children":"Parțial"}],["$","button",null,{"type":"button","data-nota":"nu","children":"Nu"}]]}],["$","div",null,{"className":"parere__extra","hidden":true,"children":["$","form",null,{"children":[["$","textarea",null,{"rows":2,"placeholder":"Ce ai fi vrut să găsești aici? (opțional)"}],["$","button",null,{"className":"btn btn-solid","type":"submit","children":"Trimite"}]]}]}]]}]
+8:["$","div",null,{"className":"blog-author","children":[["$","span",null,{"className":"blog-author__ava","aria-hidden":"true","children":"V"}],["$","div",null,{"className":"blog-author__body","children":[["$","span",null,{"className":"blog-author__name","children":"Vlad Roman"}],["$","span",null,{"className":"blog-author__role","children":["Fondator Visience · ",["$","a",null,{"href":"https://www.linkedin.com/in/roman-vladut-constantin/","target":"_blank","rel":"noopener","className":"blog-author__link","children":"LinkedIn ↗"}]]}],["$","p",null,{"className":"blog-author__bio","children":"Conduce Visience, agenția de web design și marketing digital din Iași. Scrie despre creare de site-uri, SEO și cum își cresc afacerile mici și mijlocii prezența online."}]]}]]}]
+9:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
+c:null
