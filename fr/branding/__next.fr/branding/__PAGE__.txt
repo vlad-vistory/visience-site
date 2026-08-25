@@ -1,0 +1,958 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/3d-sy7z0ug41-.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+2:Tad1,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/fr/branding/#service","name":"Branding et identité visuelle","serviceType":"Identité de marque","inLanguage":"fr","provider":{"@type":"Organization","name":"Visience","url":"https://visience.ro/fr/"},"areaServed":["FR","BE","CH","LU","RO"],"offers":[{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Logo Basic"}},{"@type":"Offer","priceCurrency":"EUR","price":"1200","itemOffered":{"@type":"Service","name":"Branding Standard, identité visuelle complète"}},{"@type":"Offer","priceCurrency":"EUR","price":"2500","itemOffered":{"@type":"Service","name":"Branding Premium, brand book et logo animé"}}]},{"@type":"FAQPage","@id":"https://visience.ro/fr/branding/#faq","mainEntity":[{"@type":"Question","name":"Combien coûte un logo professionnel ?","acceptedAnswer":{"@type":"Answer","text":"Un logo professionnel démarre à 500 € avec le pack Logo Basic : un logo original, une révision, les versions monochrome et négative, avec et sans baseline, dans tous les formats. Les packs d'identité complète vont de 1.200 € à 2.500 €."}},{"@type":"Question","name":"Qu'est-ce qu'un brand book et que contient-il ?","acceptedAnswer":{"@type":"Answer","text":"Le brand book fixe les règles d'utilisation de votre identité : versions correctes du logo, palette avec les codes exacts, typographie, espacements et exemples d'usage. Il est inclus dans le pack Premium."}},{"@type":"Question","name":"Dans quels formats vais-je recevoir le logo ?","acceptedAnswer":{"@type":"Answer","text":"Vectoriel pour l'impression et le redimensionnement sans perte, PNG à fond transparent, JPG et PDF, en versions couleur, monochrome et négative."}},{"@type":"Question","name":"Combien de révisions sont incluses ?","acceptedAnswer":{"@type":"Answer","text":"Logo Basic comprend 1 révision, Branding Standard 3 révisions et Branding Premium 6 révisions."}},{"@type":"Question","name":"Combien de temps prend un projet de branding ?","acceptedAnswer":{"@type":"Answer","text":"Cela dépend du pack et de la rapidité des retours sur les propositions. Le délai est fixé dans le devis, après le brief."}},{"@type":"Question","name":"Faites-vous du rebranding pour une entreprise existante ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Nous analysons l'identité actuelle, gardons ce qui fonctionne et reconstruisons le reste, pour que le changement soit une évolution et non une rupture."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://visience.ro/fr/"},{"@type":"ListItem","position":2,"name":"Branding & identité","item":"https://visience.ro/fr/branding/"}]}]}3:T8183,<style>
+.br-hero {
+  position: relative;
+  padding: calc(var(--nav-h) + 90px) 0 90px;
+  background: var(--cream);
+  overflow: hidden;
+}
+.br-hero__inner {
+  display: grid;
+  grid-template-columns: 1.15fr 1fr;
+  gap: 70px;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+}
+.br-hero__breadcrumbs {
+  font-family: var(--f-m);
+  font-size: 11px;
+  color: var(--mid);
+  letter-spacing: .06em;
+  margin-bottom: 24px;
+}
+.br-hero__breadcrumbs a       { color: var(--mid); transition: color .2s; }
+.br-hero__breadcrumbs a:hover { color: var(--acc-deep); }
+.br-hero__breadcrumbs .sep    { margin: 0 10px; opacity: .4; }
+
+.br-hero__h1 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(38px, 5.2vw, 70px);
+  line-height: .98;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 26px;
+}
+.br-hero__h1 .acc {
+  background: var(--acc);
+  color: var(--acc-ink);
+  padding: 0 12px 4px;
+  border-radius: 10px;
+  display: inline-block;
+  line-height: 1.05;
+}
+.br-hero__lead {
+  font-size: 17px;
+  line-height: 1.78;
+  color: var(--mid);
+  margin-bottom: 32px;
+  font-weight: 300;
+  max-width: 540px;
+}
+.br-hero__pts {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-bottom: 36px;
+  max-width: 540px;
+}
+.br-pt {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 14px;
+  color: var(--ink);
+  font-weight: 500;
+}
+.br-pt-dot {
+  width: 18px; height: 18px;
+  background: var(--acc);
+  color: var(--acc-ink);
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 10px; font-weight: 700;
+  flex-shrink: 0; margin-top: 2px;
+}
+.br-hero__cta {
+  display: flex; gap: 10px; flex-wrap: wrap;
+}
+
+.br-hero__visual {
+  position: relative;
+  height: 480px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.br-hero__card {
+  position: relative;
+  width: 100%;
+  max-width: 440px;
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  padding: 30px 28px;
+  box-shadow: 0 30px 80px rgba(17,16,16,.08);
+  z-index: 2;
+}
+.br-card__lbl {
+  font-family: var(--f-m);
+  font-size: 10px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--light);
+  margin-bottom: 18px;
+}
+.br-card__mark {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding-bottom: 22px;
+  margin-bottom: 22px;
+  border-bottom: 1px solid var(--border);
+}
+.br-card__glyph {
+  width: 66px; height: 66px;
+  border-radius: 16px;
+  background: var(--ink);
+  color: var(--acc2);
+  display: flex; align-items: center; justify-content: center;
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: 32px;
+  letter-spacing: -.04em;
+  flex-shrink: 0;
+}
+.br-card__name {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: 22px;
+  letter-spacing: -.02em;
+  color: var(--ink);
+  line-height: 1;
+  margin-bottom: 6px;
+}
+.br-card__tag {
+  font-family: var(--f-m);
+  font-size: 11px;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--mid);
+}
+.br-card__swatches {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+.br-sw {
+  flex: 1;
+  height: 40px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+}
+.br-sw--1 { background: var(--ink); }
+.br-sw--2 { background: var(--acc); }
+.br-sw--3 { background: var(--acc-bg); }
+.br-sw--4 { background: var(--cream2); }
+.br-card__fonts {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.br-card__font-d {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: 26px;
+  letter-spacing: -.02em;
+  color: var(--ink);
+  line-height: 1;
+}
+.br-card__font-b {
+  font-family: var(--f-b);
+  font-size: 12px;
+  color: var(--mid);
+  letter-spacing: .02em;
+}
+
+.br-intro {
+  background: var(--white);
+  padding: 90px 0;
+  position: relative;
+}
+.br-intro__inner {
+  max-width: 880px;
+  margin: 0 auto;
+}
+.br-intro h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(28px, 3.5vw, 44px);
+  line-height: 1.1;
+  letter-spacing: -.025em;
+  color: var(--ink);
+  margin: 56px 0 18px;
+}
+.br-intro h2:first-child { margin-top: 0; }
+.br-intro p {
+  font-size: 16px;
+  line-height: 1.84;
+  color: var(--mid);
+  font-weight: 300;
+  margin-bottom: 16px;
+}
+.br-intro p strong { color: var(--ink); font-weight: 600; }
+.br-intro p a       { color: var(--acc-deep); border-bottom: 1px solid var(--acc); transition: opacity .2s; }
+.br-intro p a:hover { opacity: .65; }
+
+.br-incl {
+  padding: 100px 0;
+  background: var(--cream);
+}
+.br-incl__head {
+  text-align: center;
+  max-width: 680px;
+  margin: 0 auto 56px;
+}
+.br-incl__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(30px, 4vw, 52px);
+  line-height: 1.02;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 16px;
+}
+.br-incl__h2 .acc { color: var(--acc-deep); }
+.br-incl__sub {
+  font-size: 16px; line-height: 1.8;
+  color: var(--mid); font-weight: 300;
+}
+.br-incl__grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+.br-incl-card {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 32px 26px 30px;
+  transition: .3s;
+}
+.br-incl-card:hover {
+  border-color: rgba(155,195,26,.3);
+  transform: translateY(-4px);
+  box-shadow: 0 18px 36px rgba(17,16,16,.06);
+}
+.br-incl-card__ico {
+  width: 48px; height: 48px;
+  border-radius: 12px;
+  background: var(--acc-bg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 22px;
+  color: var(--acc-deep);
+  font-size: 20px;
+  transition: .3s;
+}
+.br-incl-card:hover .br-incl-card__ico {
+  background: var(--acc);
+  color: var(--acc-ink);
+}
+.br-incl-card h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.015em;
+  margin: 0 0 12px;
+  line-height: 1.2;
+  color: var(--ink);
+}
+.br-incl-card p {
+  font-size: 13px;
+  color: var(--mid);
+  line-height: 1.7;
+  font-weight: 300;
+  margin: 0;
+}
+
+.br-prices {
+  padding: 100px 0;
+  background: var(--white);
+}
+.br-prices__head {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto 56px;
+}
+.br-prices__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(34px, 4.5vw, 60px);
+  line-height: 1.0;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 18px;
+}
+.br-prices__h2 .acc { color: var(--acc-deep); }
+.br-prices__sub {
+  font-size: 16px; line-height: 1.8;
+  color: var(--mid); font-weight: 300;
+}
+
+.br-pkg-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  align-items: stretch;
+}
+.br-pkg {
+  background: var(--cream);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 34px 26px 30px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  transition: .3s;
+}
+.br-pkg:hover {
+  border-color: rgba(155,195,26,.3);
+  transform: translateY(-6px);
+  box-shadow: 0 20px 48px rgba(155,195,26,.08);
+}
+.br-pkg.featured {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--white);
+}
+.br-pkg.featured:hover { box-shadow: 0 24px 56px rgba(17,16,16,.2); }
+.br-pkg__badge {
+  position: absolute;
+  top: -12px; left: 50%;
+  transform: translateX(-50%);
+  background: var(--acc);
+  color: var(--acc-ink);
+  font-family: var(--f-m);
+  font-size: 9px;
+  font-weight: 500;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  padding: 5px 14px;
+  border-radius: 100px;
+  white-space: nowrap;
+}
+.br-pkg__name {
+  font-family: var(--f-m);
+  font-size: 11px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--mid);
+  margin-bottom: 8px;
+}
+.br-pkg.featured .br-pkg__name { color: rgba(255,255,255,.5); }
+.br-pkg__price {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(32px, 3.4vw, 46px);
+  letter-spacing: -.04em;
+  line-height: 1;
+  color: var(--acc-deep);
+  margin-bottom: 4px;
+}
+.br-pkg__price-note {
+  font-size: 12px;
+  color: var(--light);
+  margin-bottom: 22px;
+}
+.br-pkg.featured .br-pkg__price-note { color: rgba(255,255,255,.4); }
+.br-pkg__desc {
+  font-size: 13px;
+  line-height: 1.7;
+  color: var(--mid);
+  margin-bottom: 24px;
+  font-weight: 300;
+  padding-bottom: 22px;
+  border-bottom: 1px solid var(--border);
+}
+.br-pkg.featured .br-pkg__desc {
+  color: rgba(255,255,255,.55);
+  border-bottom-color: rgba(255,255,255,.1);
+}
+.br-pkg__feats {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 26px;
+  flex: 1;
+}
+.br-pkg__feat {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 13px;
+  line-height: 1.55;
+  color: var(--ink);
+}
+.br-pkg.featured .br-pkg__feat { color: rgba(255,255,255,.85); }
+.br-pkg__feat-tick {
+  color: var(--acc-deep);
+  flex-shrink: 0;
+  margin-top: 2px;
+  font-weight: 700;
+}
+.br-pkg.featured .br-pkg__feat-tick { color: var(--acc2); }
+
+.br-process {
+  padding: 100px 0;
+  background: var(--cream2);
+}
+.br-process__head {
+  text-align: center;
+  max-width: 640px;
+  margin: 0 auto 56px;
+}
+.br-process__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(30px, 4vw, 52px);
+  line-height: 1.02;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 16px;
+}
+.br-process__h2 .acc { color: var(--acc-deep); }
+.br-process__list {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+.br-step {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 30px 26px;
+  transition: .3s;
+}
+.br-step:hover {
+  border-color: rgba(155,195,26,.3);
+  transform: translateY(-4px);
+  box-shadow: 0 14px 28px rgba(17,16,16,.06);
+}
+.br-step__n {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: 36px;
+  color: var(--acc-deep);
+  letter-spacing: -.03em;
+  line-height: 1;
+  margin-bottom: 16px;
+}
+.br-step h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.015em;
+  margin: 0 0 10px;
+  color: var(--ink);
+  line-height: 1.2;
+}
+.br-step p {
+  font-size: 13px;
+  color: var(--mid);
+  line-height: 1.7;
+  font-weight: 300;
+  margin: 0;
+}
+
+.br-faq {
+  padding: 100px 0;
+  background: var(--white);
+}
+.br-faq__head {
+  text-align: center;
+  max-width: 640px;
+  margin: 0 auto 50px;
+}
+.br-faq__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(28px, 3.6vw, 44px);
+  line-height: 1.04;
+  letter-spacing: -.03em;
+  color: var(--ink);
+}
+.br-faq__h2 .acc { color: var(--acc-deep); }
+.br-faq__list {
+  max-width: 860px;
+  margin: 0 auto;
+  border-top: 1px solid var(--border);
+}
+.br-faq-item {
+  border-bottom: 1px solid var(--border);
+  padding: 24px 0;
+}
+.br-faq-item summary {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.01em;
+  color: var(--ink);
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding-right: 8px;
+  transition: color .22s;
+}
+.br-faq-item summary::-webkit-details-marker { display: none; }
+.br-faq-item summary::after {
+  content: '+';
+  font-family: var(--f-d);
+  font-size: 26px;
+  font-weight: 300;
+  color: var(--acc-deep);
+  transition: transform .3s;
+  flex-shrink: 0;
+  line-height: 1;
+}
+.br-faq-item[open] summary::after { transform: rotate(45deg); }
+.br-faq-item:hover summary { color: var(--acc-deep); }
+.br-faq-item p {
+  margin-top: 14px;
+  font-size: 14px;
+  color: var(--mid);
+  line-height: 1.75;
+  font-weight: 300;
+  max-width: 740px;
+}
+
+.br-cta {
+  padding: 110px 0;
+  background: var(--ink);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.br-cta::before {
+  content: '';
+  position: absolute;
+  top: -100px; right: -100px;
+  width: 420px; height: 420px;
+  background: radial-gradient(circle, rgba(155,195,26,.22) 0%, transparent 70%);
+  pointer-events: none;
+}
+.br-cta > .wrap { position: relative; z-index: 1; }
+.br-cta__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(34px, 5vw, 64px);
+  line-height: 1.0;
+  letter-spacing: -.03em;
+  color: var(--white);
+  margin-bottom: 20px;
+}
+.br-cta__h2 .acc {
+  background: linear-gradient(135deg, var(--acc) 0%, var(--acc2) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.br-cta__p {
+  font-size: 16px;
+  color: rgba(255,255,255,.5);
+  font-weight: 300;
+  max-width: 540px;
+  margin: 0 auto 32px;
+  line-height: 1.78;
+}
+.br-cta__btns {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 1024px) {
+  .br-hero { padding: calc(var(--nav-h) + 60px) 0 70px; }
+  .br-hero__inner { grid-template-columns: 1fr; gap: 50px; }
+  .br-hero__visual { height: auto; order: -1; }
+  .br-intro { padding: 70px 0; }
+  .br-incl { padding: 80px 0; }
+  .br-incl__grid { grid-template-columns: repeat(2, 1fr); }
+  .br-prices { padding: 80px 0; }
+  .br-pkg-grid { grid-template-columns: repeat(2, 1fr); }
+  .br-pkg.featured { transform: none; }
+  .br-process { padding: 80px 0; }
+  .br-process__list { grid-template-columns: repeat(2, 1fr); }
+  .br-faq { padding: 70px 0; }
+  .br-cta { padding: 80px 0; }
+}
+
+@media (max-width: 640px) {
+  .br-hero__pts { grid-template-columns: 1fr; }
+  .br-hero__cta { flex-direction: column; }
+  .br-hero__cta .btn { justify-content: center; }
+  .br-incl__grid { grid-template-columns: 1fr; }
+  .br-pkg-grid { grid-template-columns: 1fr; }
+  .br-pkg { padding: 28px 24px 26px; }
+  .br-process__list { grid-template-columns: 1fr; }
+  .br-cta__btns { flex-direction: column; }
+  .br-cta__btns .btn { width: 100%; justify-content: center; }
+}
+</style>
+
+
+<main id="main">
+
+<section class="br-hero" aria-labelledby="br-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="20%" x2="100%" y2="60%"/>
+      <line x1="0" y1="50%" x2="100%" y2="90%"/>
+      <line x1="0" y1="80%" x2="100%" y2="30%"/>
+      <line x1="25%" y1="0" x2="75%" y2="100%"/>
+      <line x1="60%" y1="0" x2="10%" y2="100%"/>
+    </svg>
+  </div>
+
+  <div class="wrap">
+    <div class="br-hero__inner">
+
+      <div class="rv">
+        <nav class="br-hero__breadcrumbs" aria-label="Fil d'Ariane">
+          <a href="/fr/">Accueil</a>
+          <span class="sep">/</span>
+          <a href="/fr/#services">Services</a>
+          <span class="sep">/</span>
+          <span>Branding &amp; identité visuelle</span>
+        </nav>
+
+
+        <h1 class="br-hero__h1" id="br-h1">
+          Des marques qui<br>
+          <span class="acc">inspirent confiance.</span>
+        </h1>
+
+        <p class="br-hero__lead">
+          Nous créons des identités visuelles complètes — logo, palette de couleurs, typographie et charte graphique — qui donnent à votre entreprise une image solide et facile à identifier. Une marque construite avec méthode, pas un logo expédié en une nuit.
+        </p>
+
+        <div class="br-hero__pts">
+          <div class="br-pt"><span class="br-pt-dot">✓</span><span>Logo &amp; système visuel complet</span></div>
+          <div class="br-pt"><span class="br-pt-dot">✓</span><span>Charte graphique avec des règles claires</span></div>
+          <div class="br-pt"><span class="br-pt-dot">✓</span><span>Tous les formats de fichiers</span></div>
+          <div class="br-pt"><span class="br-pt-dot">✓</span><span>Supports en ligne &amp; imprimés</span></div>
+        </div>
+
+        <div class="br-hero__cta">
+          <a href="/fr/contact/" class="btn btn-solid">Demander un devis</a>
+          <a href="tel:+40771486499" class="btn btn-ghost">Appelez : 0771 486 499</a>
+        </div>
+      </div>
+
+      <div class="br-hero__visual rv rv-d2">
+        <div class="br-hero__card" aria-hidden="true">
+          <div class="br-card__lbl">Identité visuelle</div>
+          <div class="br-card__mark">
+            <div class="br-card__glyph">V</div>
+            <div>
+              <div class="br-card__name">Votre marque</div>
+              <div class="br-card__tag">Logo · Palette · Typographie</div>
+            </div>
+          </div>
+          <div class="br-card__swatches">
+            <span class="br-sw br-sw--1"></span>
+            <span class="br-sw br-sw--2"></span>
+            <span class="br-sw br-sw--3"></span>
+            <span class="br-sw br-sw--4"></span>
+          </div>
+          <div class="br-card__fonts">
+            <span class="br-card__font-d">Aa Bb Cc</span>
+            <span class="br-card__font-b">Typographie principale &amp; secondaire</span>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="br-intro" aria-labelledby="br-intro-h2">
+  <div class="wrap">
+    <div class="br-intro__inner rv">
+
+      <h2 id="br-intro-h2">Un branding professionnel pour les entreprises qui veulent être prises au sérieux</h2>
+      <p>
+        Nous sommes une <strong>agence de branding basée à Iași</strong> qui construit des identités visuelles mémorables, du <strong>logo</strong> et de la <strong>palette de couleurs</strong> jusqu'à la <strong>charte graphique complète</strong>. Nous travaillons avec des entreprises qui démarrent, mais aussi avec des sociétés déjà installées qui sentent que leur image ne reflète plus la valeur réelle de leurs services. Chaque marque part de qui vous êtes, de ceux à qui vous vous adressez et de la façon dont vous voulez être perçu — jamais d'un modèle tout fait.
+      </p>
+      <p>
+        Que vous lanciez une nouvelle entreprise ou que vous fassiez un <strong>rebranding</strong>, vous recevez une identité cohérente qui fonctionne aussi bien en ligne qu'hors ligne : sur le site, sur les réseaux sociaux, sur la carte de visite ou sur l'enseigne lumineuse. <a href="/fr/contact/">Demandez un devis personnalisé →</a>
+      </p>
+
+      <h2>Combien coûte une identité visuelle complète ?</h2>
+      <p>
+        Le prix dépend de l'étendue de l'identité dont vous avez besoin. Un <strong>logo professionnel</strong> avec révisions et tous les formats démarre à <strong>500€</strong>. Une <strong>identité visuelle complète</strong> — logo en plusieurs variantes, supports imprimés et charte graphique — coûte <strong>1.200€</strong> (le pack Standard, le plus choisi). Pour un <strong>branding premium</strong>, avec animation du logo, supports étendus et charte graphique détaillée, le prix est de <strong>2.500€</strong>.
+      </p>
+      <p>
+        Quel que soit le pack, vous recevez les fichiers finaux dans tous les formats dont vous avez besoin — vectoriel, PNG, JPG et PDF — prêts à l'emploi aussi bien en ligne qu'à l'impression. <a href="#br-preturi">Voir les packs en détail plus bas →</a>
+      </p>
+
+      <h2>Pourquoi choisir un branding signé Visience ?</h2>
+      <p>
+        <strong>Parce que nous ne livrons pas un simple logo, mais un système.</strong> Un logo isolé ne fait pas tenir une marque debout. C'est pourquoi chaque projet comprend des règles d'utilisation, des variantes pour chaque contexte (couleur, monochrome, négatif, avec et sans signature) et tous les fichiers nécessaires. Ainsi, la personne qui vous fera plus tard une affiche, un site ou une publicité gardera la marque cohérente.
+      </p>
+      <p>
+        En plus, nous sommes une agence complète : une fois l'identité posée, nous pouvons aussi prendre en charge le site, les réseaux sociaux et les campagnes de promotion, pour que tout tienne d'un seul bloc. <a href="#br-faq">Voir les questions fréquentes →</a>
+      </p>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="br-incl" aria-labelledby="br-incl-h2">
+  <div class="wrap">
+
+    <div class="br-incl__head rv">
+      <h2 class="br-incl__h2" id="br-incl-h2">Tout ce qui garde votre marque <span class="acc">cohérente</span></h2>
+      <p class="br-incl__sub">
+        De la signature visuelle jusqu'aux supports du quotidien : une identité pensée pour fonctionner partout, sans compromis.
+      </p>
+    </div>
+
+    <div class="br-incl__grid rv rv-d2">
+
+      <div class="br-incl-card">
+        <div class="br-incl-card__ico"><i class="fa-solid fa-pen-nib"></i></div>
+        <h3>Logo &amp; système visuel</h3>
+        <p>Logo en versions couleur, monochrome et négatif, avec et sans signature. Plus les éléments visuels qui vous construisent un style reconnaissable.</p>
+      </div>
+
+      <div class="br-incl-card">
+        <div class="br-incl-card__ico"><i class="fa-solid fa-book-open"></i></div>
+        <h3>Charte graphique</h3>
+        <p>Les règles de la marque dans un seul document : palette de couleurs, typographie, espacements et exemples d'utilisation correcte sur tous les supports.</p>
+      </div>
+
+      <div class="br-incl-card">
+        <div class="br-incl-card__ico"><i class="fa-solid fa-id-card"></i></div>
+        <h3>Supports imprimés</h3>
+        <p>Carte de visite, papier à en-tête, pochette de présentation et flyer, préparés correctement pour l'impression, prêts à partir chez l'imprimeur.</p>
+      </div>
+
+      <div class="br-incl-card">
+        <div class="br-incl-card__ico"><i class="fa-regular fa-image"></i></div>
+        <h3>Supports en ligne</h3>
+        <p>Avatar et bannière pour les réseaux sociaux, plus des gabarits de publications, pour que votre présence numérique soit aussi soignée que vos imprimés.</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="br-prices" id="br-preturi" aria-labelledby="br-prices-h2">
+  <div class="wrap">
+
+    <div class="br-prices__head rv">
+      <h2 class="br-prices__h2" id="br-prices-h2">
+        Tarifs branding —<br><span class="acc">du logo à l'identité complète</span>
+      </h2>
+      <p class="br-prices__sub">
+        Trois packs clairs, du logo professionnel jusqu'à l'identité visuelle complète avec charte graphique. Vous recevez un devis personnalisé sous 24 heures.
+      </p>
+    </div>
+
+    <div class="br-pkg-grid">
+
+      <div class="br-pkg featured rv">
+        <span class="br-pkg__badge">Recommandé</span>
+        <div class="br-pkg__name">Branding Standard</div>
+        <div class="br-pkg__price">1.200€</div>
+        <div class="br-pkg__price-note">Identité visuelle complète</div>
+        <p class="br-pkg__desc">
+          La formule la plus choisie : une identité visuelle complète, avec le logo en plusieurs variantes et les supports de base. L'équilibre idéal entre le prix et ce que vous recevez.
+        </p>
+        <div class="br-pkg__feats">
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>3 variantes de logo au choix</span></div>
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>3 révisions incluses</span></div>
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Identité visuelle complète</span></div>
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Carte de visite + pochette de présentation</span></div>
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Papier à en-tête</span></div>
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Tous les formats de fichiers</span></div>
+        </div>
+        <a href="/fr/contact/" class="btn btn-solid" style="justify-content:center">Demander le devis</a>
+      </div>
+
+      <div class="br-pkg rv rv-d1">
+        <div class="br-pkg__name">Branding Premium</div>
+        <div class="br-pkg__price">2.500€</div>
+        <div class="br-pkg__price-note">Identité étendue</div>
+        <p class="br-pkg__desc">
+          Tout ce que contient le pack Standard, plus l'animation du logo et des supports supplémentaires. Pour les entreprises qui veulent une présence visuelle marquante, en mouvement.
+        </p>
+        <div class="br-pkg__feats">
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Tout ce que comprend le pack Standard</span></div>
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Animation du logo (vidéo / GIF)</span></div>
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Flyer + bannière pour les réseaux sociaux</span></div>
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Charte graphique complète</span></div>
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>6 révisions incluses</span></div>
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Tous les formats de fichiers</span></div>
+        </div>
+        <a href="/fr/contact/" class="btn btn-ghost" style="justify-content:center">Demander le devis</a>
+      </div>
+
+      <div class="br-pkg rv rv-d2">
+        <div class="br-pkg__name">Logo Basic</div>
+        <div class="br-pkg__price">500€</div>
+        <div class="br-pkg__price-note">Juste le logo, bien fait</div>
+        <p class="br-pkg__desc">
+          Pour ceux qui ont besoin uniquement d'un logo professionnel, avec révisions et toutes les variantes de base. Sans supports supplémentaires.
+        </p>
+        <div class="br-pkg__feats">
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Logo unique, conçu pour vous</span></div>
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>1 révision incluse</span></div>
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Variante monochrome &amp; négatif</span></div>
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Variante avec &amp; sans signature</span></div>
+          <div class="br-pkg__feat"><span class="br-pkg__feat-tick">✓</span><span>Tous les formats de fichiers</span></div>
+        </div>
+        <a href="/fr/contact/" class="btn btn-ghost" style="justify-content:center">Demander le devis</a>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="br-process" aria-labelledby="br-process-h2">
+  <div class="wrap">
+
+    <div class="br-process__head rv">
+      <h2 class="br-process__h2" id="br-process-h2">Du brief à <span class="acc">la marque livrée</span></h2>
+    </div>
+
+    <div class="br-process__list rv rv-d2">
+
+      <article class="br-step">
+        <div class="br-step__n">01</div>
+        <h3>Brief &amp; découverte</h3>
+        <p>Nous parlons de votre entreprise, de votre public et de vos concurrents. Nous comprenons ce que vous voulez transmettre avant de tracer la première ligne.</p>
+      </article>
+
+      <article class="br-step">
+        <div class="br-step__n">02</div>
+        <h3>Concept &amp; directions</h3>
+        <p>Nous proposons les directions de logo et de style visuel. Vous choisissez avec nous la variante qui représente le mieux votre marque.</p>
+      </article>
+
+      <article class="br-step">
+        <div class="br-step__n">03</div>
+        <h3>Affinage &amp; révisions</h3>
+        <p>Nous finalisons le logo, la palette et la typographie. Nous appliquons les révisions incluses jusqu'à ce que tout soit exactement comme il faut.</p>
+      </article>
+
+      <article class="br-step">
+        <div class="br-step__n">04</div>
+        <h3>Livraison &amp; charte graphique</h3>
+        <p>Vous recevez tous les fichiers finaux et la charte graphique avec les règles d'utilisation, pour que la marque reste cohérente partout où elle est utilisée.</p>
+      </article>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="br-faq" id="br-faq" aria-labelledby="br-faq-h2">
+  <div class="wrap">
+
+    <div class="br-faq__head rv">
+      <h2 class="br-faq__h2" id="br-faq-h2">Ce qu'il faut savoir sur le <span class="acc">branding</span></h2>
+    </div>
+
+    <div class="br-faq__list rv rv-d2">
+
+      <details class="br-faq-item">
+        <summary>Combien coûte un logo professionnel ?</summary>
+        <p>Un logo professionnel démarre à 500€ (le pack Logo Basic), qui comprend un logo unique, une révision, la variante monochrome et négative, plus la variante avec et sans signature, dans tous les formats. Si vous voulez une identité visuelle complète, les packs de branding coûtent entre 1.200€ et 2.500€, selon l'étendue des supports inclus.</p>
+      </details>
+
+      <details class="br-faq-item">
+        <summary>Qu'est-ce qu'une charte graphique et que contient-elle ?</summary>
+        <p>La charte graphique est le document qui fixe les règles d'utilisation de votre identité visuelle. Elle contient les versions correctes du logo, la palette de couleurs (avec les codes exacts), la typographie, les espacements et des exemples d'utilisation correcte et incorrecte. Ainsi, la personne qui vous fera plus tard un site, une affiche ou une publication gardera la marque cohérente. Elle est incluse dans le pack Premium.</p>
+      </details>
+
+      <details class="br-faq-item">
+        <summary>Dans quels formats est-ce que je reçois le logo ?</summary>
+        <p>Vous recevez le logo dans tous les formats dont vous avez besoin : vectoriel (pour l'impression et le redimensionnement sans perte de qualité), PNG à fond transparent, JPG et PDF. Nous livrons aussi les versions couleur, monochrome et négatif, pour que vous ayez toujours le bon fichier pour chaque support — de la carte de visite à l'enseigne lumineuse.</p>
+      </details>
+
+      <details class="br-faq-item">
+        <summary>Combien de révisions sont incluses ?</summary>
+        <p>Le nombre de révisions dépend du pack : Logo Basic comprend 1 révision, Branding Standard 3 révisions et Branding Premium 6 révisions. Une révision, c'est un ensemble d'ajustements sur la proposition retenue, pour l'amener exactement au point où le résultat vous convient.</p>
+      </details>
+
+      <details class="br-faq-item">
+        <summary>Combien de temps prend un projet de branding ?</summary>
+        <p>Cela dépend du pack et de la rapidité avec laquelle nous recevons vos retours sur les propositions. Le délai est fixé dans le devis, après le brief.</p>
+      </details>
+
+      <details class="br-faq-item">
+        <summary>Faites-vous aussi du rebranding pour une entreprise existante ?</summary>
+        <p>Oui. Nous travaillons souvent avec des entreprises déjà installées qui sentent que leur image ne reflète plus la valeur réelle de leurs services. Nous analysons l'identité actuelle, nous gardons ce qui fonctionne et nous reconstruisons le reste, pour que le changement soit une évolution et non une rupture qui déroute les clients fidèles. Nous pouvons ensuite mettre à jour le site et les supports, pour que la transition soit complète.</p>
+      </details>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="br-cta" aria-labelledby="br-cta-h2">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="br-cta__h2" id="br-cta-h2">
+        Construisons ensemble<br>
+        <span class="acc">une marque à votre mesure.</span>
+      </h2>
+      <p class="br-cta__p">
+        Parlez-nous de votre entreprise et vous recevez un devis personnalisé sous 24 heures maximum. Consultation gratuite, sans engagement.
+      </p>
+      <div class="br-cta__btns">
+        <a href="/fr/contact/" class="btn btn-solid">Demander un devis</a>
+        <a href="tel:+40771486499" class="btn btn-dark">Appelez maintenant : 0771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Services associés et tarifs transparents">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Sans prix cachés</span>
+      <h2>Voyez exactement ce que vous payez.</h2>
+      <p>Nous ne travaillons ni avec des tarifs cachés ni avec des surprises sur la facture. Tous nos packs et tous nos prix sont publics. Vous choisissez en connaissance de cause, sans pression.</p>
+      <a href="/fr/tarifs/" class="rel-trans__link">Voir tous les tarifs <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Continuer avec</div>
+      <div class="rel-links__grid">
+        <a href="/fr/creation-site-internet/" class="rel-link"><span class="rel-link__name">Création de site vitrine <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Des sites d'entreprise rapides, au design de votre marque.</span></a>
+        <a href="/fr/reseaux-sociaux/" class="rel-link"><span class="rel-link__name">Réseaux sociaux <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Stratégie, contenu et gestion des réseaux.</span></a>
+        <a href="/fr/boutique-en-ligne/" class="rel-link"><span class="rel-link__name">Création de boutique en ligne <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">WooCommerce et Shopify optimisés pour la vente.</span></a>
+        <a href="/fr/portfolio/" class="rel-link"><span class="rel-link__name">Portfolio <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Des projets réels livrés par notre équipe.</span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"uVXcgOiOU2O5Cy2OXf2zC"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

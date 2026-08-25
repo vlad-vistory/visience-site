@@ -1,0 +1,1689 @@
+1:"$Sreact.fragment"
+d:I[68027,["/_next/static/chunks/3d-sy7z0ug41-.js","/_next/static/chunks/24ag4weogx3og.js"],"default",1]
+:HL["/_next/static/chunks/16fat-5-gaue_.css","style"]
+:HL["/_next/static/media/0da9c7f357bd9d4d-s.p.1975l3y3401x_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2094fb60fd9c8287-s.p.3qxy1tqak831c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/47fe1b7cd6e6ed85-s.p.3bh2vc0w-r-ll.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5f9d24ebef5d5292-s.p.19xuq3td7fwu_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6c55a692938ebbbc-s.p.1emuuracu50qd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/798ea22d9983e047-s.p.3go-kn2r40gie.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/829ba4228c966254-s.p.2mm3nq9i83l-m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8cf1ea7b03cdeb83-s.p.3dbq0oou7i_24.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8e6fa89aa22d24ec-s.p.2o7m9ogm38dql.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a218039a3287bcfd-s.p.43zbiuwnnoiok.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c875c6f5d3e977ac-s.p.1h18_wedhzk4h.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e2334d715941921e-s.p.3o_v2fun1jzxk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css","style"]
+2:["$","link",null,{"rel":"stylesheet","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}]
+3:T5c7,(function(){
+  window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}window.gtag=gtag;
+  var K='visience-consent',c=null;try{c=localStorage.getItem(K);}catch(e){}
+  gtag('consent','default',{ad_storage:'denied',analytics_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',wait_for_update:500});
+  gtag('set','ads_data_redaction',true);gtag('set','url_passthrough',true);
+  function loadClarity(){if(window.clarity)return;(function(c,l,a,r,i){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};var t=l.createElement(r);t.async=1;t.src='https://www.clarity.ms/tag/'+i;var y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,'clarity','script','sxwbb1ueew');}
+  function apply(a,m){gtag('consent','update',{analytics_storage:a?'granted':'denied',ad_storage:m?'granted':'denied',ad_user_data:m?'granted':'denied',ad_personalization:m?'granted':'denied'});if(a)loadClarity();}
+  window.visienceConsent=function(a,m){try{localStorage.setItem(K,JSON.stringify({a:!!a,m:!!m}));}catch(e){}apply(!!a,!!m);};
+  var p=null;if(c==='granted')p={a:1,m:1};else if(c==='denied')p={a:0,m:0};else if(c){try{p=JSON.parse(c);}catch(e){}}
+  if(p)apply(!!p.a,!!p.m);
+  gtag('js',new Date());gtag('config','GT-MJWWD7S8');
+  var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
+})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","fr","referencement",""],"q":"","i":false,"f":[[["",{"children":["fr",{"children":["referencement",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/3d-sy7z0ug41-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7"]}]]}]]}],{"children":["$L8",{"children":["$L9",{"children":["$La",{},null,false,null]},null,false,"$@b"]},null,false,"$@b"]},null,false,null],"$Lc",false]],"m":"$undefined","G":["$d",["$Le"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"uVXcgOiOU2O5Cy2OXf2zC"}
+f:I[36621,["/_next/static/chunks/3d-sy7z0ug41-.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
+17:I[27961,["/_next/static/chunks/3d-sy7z0ug41-.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
+18:I[11015,["/_next/static/chunks/3d-sy7z0ug41-.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
+19:I[39756,["/_next/static/chunks/3d-sy7z0ug41-.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
+1a:I[37457,["/_next/static/chunks/3d-sy7z0ug41-.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
+1f:I[97367,["/_next/static/chunks/3d-sy7z0ug41-.js","/_next/static/chunks/24ag4weogx3og.js"],"ViewportBoundary"]
+21:I[97367,["/_next/static/chunks/3d-sy7z0ug41-.js","/_next/static/chunks/24ag4weogx3og.js"],"MetadataBoundary"]
+22:"$Sreact.suspense"
+10:T1090,<header class="nav" id="nav" role="banner">
+  <div class="wrap nav__in">
+    <a href="/" class="nav__logo" aria-label="Visience — Acasă">
+      <img class="nav__logo-img nav__logo-img--light" src="/media/sigla-mark-visience-new-colors.avif"
+           alt="Visience" width="160" height="30" fetchpriority="high">
+      <img class="nav__logo-img nav__logo-img--dark" src="/media/sigla-visience-dark.avif"
+           alt="" aria-hidden="true" width="160" height="30">
+    </a>
+
+    <nav class="nav__links" aria-label="Navigare principală">
+      <div class="nav__has-drop">
+        <a href="/#servicii">Servicii<svg class="nav__drop-ico" viewBox="0 0 10 6" aria-hidden="true"><path d="M1 1l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+        <div class="nav__drop">
+          <a href="/creare-site-prezentare/">Creare site de prezentare</a>
+          <a href="/creare-magazin-online/">Creare magazin online</a>
+          <a href="/branding-identitate-vizuala/">Branding &amp; identitate</a>
+          <a href="/social-media-management/">Social media</a>
+          <a href="/google-meta-ads/">Google &amp; Meta Ads</a>
+          <a href="/optimizare-seo/">SEO &amp; content</a>
+          <a href="/dezvoltare-software/">Dezvoltare software</a>
+          <a href="/marketing-dezvoltatori-imobiliari/">Marketing pentru dezvoltatori</a>
+        </div>
+      </div>
+      <a href="/portofoliu/">Proiecte</a>
+      <a href="/preturi/">Prețuri</a>
+      <a href="/blog/">Blog</a>
+      <a href="/#rezultate">Rezultate</a>
+      <a href="/#despre">Despre</a>
+      <a href="/contact/">Contact</a>
+      <a href="/en/" class="nav__lang" hreflang="en" lang="en" aria-label="View the site in English">EN</a>
+      <a href="/fr/" class="nav__lang" hreflang="fr" lang="fr" aria-label="Voir le site en français">FR</a>
+    </nav>
+
+    <a href="/#contact" class="nav__cta">Solicită ofertă</a>
+
+    <button class="nav__burger" id="navBurger"
+            aria-label="Deschide meniul" aria-expanded="false" aria-controls="navMob">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<nav class="nav__mob" id="navMob" aria-label="Meniu mobil">
+  <div class="nm-in">
+    <div class="nm-grup">
+      <button type="button" class="nm-l nm-tog" id="nmServicii" aria-expanded="false" aria-controls="nmSub">
+        Servicii
+        <svg class="nm-tog__i" width="18" height="18" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+          <path d="M5 8l5 5 5-5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
+      <div class="nm-sublista" id="nmSub" hidden>
+        <a href="/creare-site-prezentare/" class="nm-sub">Creare site de prezentare</a>
+        <a href="/creare-magazin-online/" class="nm-sub">Creare magazin online</a>
+        <a href="/branding-identitate-vizuala/" class="nm-sub">Branding &amp; identitate</a>
+        <a href="/social-media-management/" class="nm-sub">Social media</a>
+        <a href="/google-meta-ads/" class="nm-sub">Google &amp; Meta Ads</a>
+        <a href="/optimizare-seo/" class="nm-sub">SEO &amp; content</a>
+        <a href="/dezvoltare-software/" class="nm-sub">Dezvoltare software</a>
+        <a href="/marketing-dezvoltatori-imobiliari/" class="nm-sub">Marketing pentru dezvoltatori</a>
+        <a href="/analiza-de-zona/" class="nm-sub">Analiză de zonă</a>
+      </div>
+    </div>
+
+    <a href="/portofoliu/" class="nm-l">Proiecte</a>
+    <a href="/preturi/"   class="nm-l">Prețuri</a>
+    <a href="/blog/"      class="nm-l">Blog</a>
+    <a href="/#rezultate" class="nm-l">Rezultate</a>
+    <a href="/#despre"    class="nm-l">Despre</a>
+    <a href="/contact/"   class="nm-l">Contact</a>
+    <a href="/en/" class="nm-l" hreflang="en" lang="en">English</a>
+    <a href="/fr/" class="nm-l" hreflang="fr" lang="fr">Site en français</a>
+
+    <div class="nm-jos">
+      <a href="/contact/" class="btn btn-solid nm-cta">Solicită ofertă</a>
+      <div class="nm-contact">
+        <a href="tel:+40771486499">+40 771 486 499</a>
+        <a href="mailto:contact@visience.ro">contact@visience.ro</a>
+      </div>
+    </div>
+  </div>
+</nav>
+11:T2023,<footer class="footer" role="contentinfo">
+  <div class="wrap">
+
+    <div class="footer__grid">
+
+      <div>
+        <div class="footer__logo">
+          <img src="/media/sigla-mark-visience-new-colors.avif"
+               alt="Visience" width="148" height="28" loading="lazy">
+        </div>
+
+        <p class="footer__brand">
+          Agenție de marketing digital cu 12 ani de experiență. Transformăm imaginea companiilor prin branding, website, social media și marketing precis configurat.
+        </p>
+
+        <p class="footer__trust">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M20 6 9 17l-5-5"/>
+          </svg>
+          Prețuri publice, fără costuri ascunse — <a href="/preturi/">vezi prețurile</a>.
+        </p>
+
+        <div class="footer__contact">
+          <a href="tel:+40771486499">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.67A2 2 0 012 .92h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L6.91 8.09a16 16 0 006 6l1.27-.83a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/>
+            </svg>
+            +40 771 486 499
+          </a>
+          <a href="mailto:contact@visience.ro">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+              <polyline points="22,6 12,13 2,6"/>
+            </svg>
+            contact@visience.ro
+          </a>
+        </div>
+
+        <div class="footer__social">
+          <a href="https://www.facebook.com/visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience pe Facebook">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M24 12c0-6.63-5.37-12-12-12S0 5.37 0 12c0 5.99 4.39 10.95 10.13 11.85v-8.38H7.08V12h3.05V9.36c0-3.01 1.79-4.67 4.53-4.67 1.31 0 2.69.23 2.69.23v2.96h-1.52c-1.49 0-1.96.93-1.96 1.88V12h3.33l-.53 3.47h-2.8v8.38C19.61 22.95 24 17.99 24 12z"/>
+            </svg>
+          </a>
+          <a href="https://www.instagram.com/visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience pe Instagram">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M12 2.16c3.2 0 3.58.01 4.85.07 1.17.05 1.8.25 2.23.41.56.22.96.48 1.38.9.42.42.68.82.9 1.38.16.42.36 1.06.41 2.23.06 1.27.07 1.65.07 4.85s-.01 3.58-.07 4.85c-.05 1.17-.25 1.8-.41 2.23-.22.56-.48.96-.9 1.38-.42.42-.82.68-1.38.9-.42.16-1.06.36-2.23.41-1.27.06-1.65.07-4.85.07s-3.58-.01-4.85-.07c-1.17-.05-1.8-.25-2.23-.41-.56-.22-.96-.48-1.38-.9-.42-.42-.68-.82-.9-1.38-.16-.42-.36-1.06-.41-2.23C2.17 15.58 2.16 15.2 2.16 12s.01-3.58.07-4.85c.05-1.17.25-1.8.41-2.23.22-.56.48-.96.9-1.38.42-.42.82-.68 1.38-.9.42-.16 1.06-.36 2.23-.41C8.42 2.17 8.8 2.16 12 2.16M12 0C8.74 0 8.33.01 7.05.07 5.78.13 4.9.33 4.14.63c-.79.3-1.46.72-2.12 1.38C1.35 2.68.94 3.35.63 4.14.33 4.9.13 5.78.07 7.05.01 8.33 0 8.74 0 12s.01 3.67.07 4.95c.06 1.27.26 2.15.56 2.91.3.79.72 1.46 1.38 2.12.66.66 1.33 1.08 2.12 1.38.76.3 1.64.5 2.91.56C8.33 23.99 8.74 24 12 24s3.67-.01 4.95-.07c1.27-.06 2.15-.26 2.91-.56.79-.3 1.46-.72 2.12-1.38.66-.66 1.08-1.33 1.38-2.12.3-.76.5-1.64.56-2.91.06-1.28.07-1.69.07-4.95s-.01-3.67-.07-4.95c-.06-1.27-.26-2.15-.56-2.91-.3-.79-.72-1.46-1.38-2.12C21.32 1.35 20.65.94 19.86.63 19.1.33 18.22.13 16.95.07 15.67.01 15.26 0 12 0z"/>
+              <path d="M12 5.84A6.16 6.16 0 1 0 18.16 12 6.16 6.16 0 0 0 12 5.84zM12 16a4 4 0 1 1 4-4 4 4 0 0 1-4 4z"/>
+              <circle cx="18.41" cy="5.59" r="1.44"/>
+            </svg>
+          </a>
+          <a href="https://www.tiktok.com/@visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience pe TikTok">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M16.6 5.82A4.28 4.28 0 0 1 15.54 3h-3.09v12.4a2.59 2.59 0 0 1-2.59 2.5 2.59 2.59 0 0 1 0-5.18c.27 0 .52.04.76.12v-3.2a5.79 5.79 0 0 0-.76-.05 5.69 5.69 0 1 0 5.69 5.69V9.01a7.35 7.35 0 0 0 4.29 1.37V7.3a4.29 4.29 0 0 1-3.24-1.48z"/>
+            </svg>
+          </a>
+        </div>
+
+        <div class="footer__anpc">
+          <a class="anpc-b" href="https://anpc.ro/" target="_blank" rel="noopener noreferrer"
+             aria-label="ANPC — Autoritatea Națională pentru Protecția Consumatorilor">
+            <img src="https://anpc.ro/wp-content/themes/anpc/img/anpc_logo.png"
+                 alt="ANPC" width="50" height="18" loading="lazy"
+                 onerror="this.style.display='none'">
+            ANPC
+          </a>
+          <a class="anpc-b" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage"
+             target="_blank" rel="noopener noreferrer"
+             aria-label="SOL — Soluționare Online a Litigiilor">
+            SOL
+          </a>
+        </div>
+      </div>
+
+      <nav aria-label="Servicii">
+        <div class="footer__col-title">Servicii</div>
+        <ul class="footer__links">
+          <li><a href="/creare-site-prezentare/">Creare site de prezentare</a></li>
+          <li><a href="/creare-site-prezentare-iasi/">Creare site de prezentare Iași</a></li>
+          <li><a href="/creare-site-prezentare-bacau/">Creare site de prezentare Bacău</a></li>
+          <li><a href="/creare-site-prezentare-bucuresti/">Creare site de prezentare București</a></li>
+          <li><a href="/creare-magazin-online/">Creare magazin online</a></li>
+          <li><a href="/branding-identitate-vizuala/">Branding &amp; identitate</a></li>
+          <li><a href="/social-media-management/">Social Media</a></li>
+          <li><a href="/google-meta-ads/">Google &amp; Meta Ads</a></li>
+          <li><a href="/optimizare-seo/">SEO &amp; Content</a></li>
+          <li><a href="/dezvoltare-software/">Dezvoltare software</a></li>
+          <li><a href="/marketing-dezvoltatori-imobiliari/">Marketing pentru dezvoltatori</a></li>
+          <li><a href="/marketing-imobiliar-iasi/">Marketing imobiliar Iași</a></li>
+            <li><a href="/analiza-de-zona/">Analiză de zonă</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Companie">
+        <div class="footer__col-title">Companie</div>
+        <ul class="footer__links">
+          <li><a href="/portofoliu/">Portofoliu</a></li>
+          <li><a href="/parteneri/">Parteneri</a></li>
+          <li><a href="/blog/">Blog</a></li>
+          <li><a href="/preturi/">Prețuri</a></li>
+          <li><a href="/#rezultate">Studii de caz</a></li>
+          <li><a href="/#despre">Despre noi</a></li>
+          <li><a href="/contact/">Contact</a></li>
+          <li><a href="/en/" hreflang="en" lang="en">Site in English</a></li>
+          <li><a href="/fr/" hreflang="fr" lang="fr">Site en français</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Legal">
+        <div class="footer__col-title">Legal &amp; GDPR</div>
+        <ul class="footer__links">
+          <li><a href="/termeni-si-conditii/">Termeni și Condiții</a></li>
+          <li><a href="/politica-de-confidentialitate/">Politică Confidențialitate</a></li>
+          <li><a href="/politica-cookies/">Politică Cookies</a></li>
+        </ul>
+      </nav>
+
+    </div>
+
+    <div class="footer__bottom">
+      <div class="footer__bottom-in">
+        <p class="footer__copy">
+          © 2026 Visience Creative Experience SRL · Toate drepturile rezervate
+        </p>
+        <div class="footer__legal">
+          <a href="/termeni-si-conditii/">Termeni</a>
+          <a href="/politica-de-confidentialitate/">Confidențialitate</a>
+          <a href="/politica-cookies/">Cookies</a>
+          <a href="/gdpr/">GDPR</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</footer>
+12:Tf55,<header class="nav" id="nav" role="banner">
+  <div class="wrap nav__in">
+    <a href="/en/" class="nav__logo" aria-label="Visience — Home">
+      <img class="nav__logo-img nav__logo-img--light" src="/media/sigla-mark-visience-new-colors.avif"
+           alt="Visience" width="160" height="30" fetchpriority="high">
+      <img class="nav__logo-img nav__logo-img--dark" src="/media/sigla-visience-dark.avif"
+           alt="" aria-hidden="true" width="160" height="30">
+    </a>
+
+    <nav class="nav__links" aria-label="Main navigation">
+      <div class="nav__has-drop">
+        <a href="/en/#services">Services<svg class="nav__drop-ico" viewBox="0 0 10 6" aria-hidden="true"><path d="M1 1l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+        <div class="nav__drop">
+          <a href="/en/web-design/">Website design</a>
+          <a href="/en/online-store/">Online stores</a>
+          <a href="/en/branding/">Branding &amp; identity</a>
+          <a href="/en/social-media/">Social media</a>
+          <a href="/en/google-meta-ads/">Google &amp; Meta Ads</a>
+          <a href="/en/seo/">SEO &amp; content</a>
+          <a href="/en/software-development/">Software development</a>
+          <a href="/en/real-estate-marketing/">Real estate marketing</a>
+        </div>
+      </div>
+      <a href="/en/portfolio/">Work</a>
+      <a href="/en/pricing/">Pricing</a>
+      <a href="/en/#results">Results</a>
+      <a href="/en/#about">About</a>
+      <a href="/en/contact/">Contact</a>
+      <a href="/" class="nav__lang" hreflang="ro" lang="ro" aria-label="Vezi site-ul în română">RO</a>
+      <a href="/fr/" class="nav__lang" hreflang="fr" lang="fr" aria-label="Voir le site en français">FR</a>
+    </nav>
+
+    <a href="/en/contact/" class="nav__cta">Get a quote</a>
+
+    <button class="nav__burger" id="navBurger"
+            aria-label="Open menu" aria-expanded="false" aria-controls="navMob">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<nav class="nav__mob" id="navMob" aria-label="Mobile menu">
+  <div class="nm-in">
+    <div class="nm-grup">
+      <button type="button" class="nm-l nm-tog" id="nmServicii" aria-expanded="false" aria-controls="nmSub">
+        Services
+        <svg class="nm-tog__i" width="18" height="18" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+          <path d="M5 8l5 5 5-5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
+      <div class="nm-sublista" id="nmSub" hidden>
+        <a href="/en/web-design/" class="nm-sub">Website design</a>
+        <a href="/en/online-store/" class="nm-sub">Online stores</a>
+        <a href="/en/branding/" class="nm-sub">Branding &amp; identity</a>
+        <a href="/en/social-media/" class="nm-sub">Social media</a>
+        <a href="/en/google-meta-ads/" class="nm-sub">Google &amp; Meta Ads</a>
+        <a href="/en/seo/" class="nm-sub">SEO &amp; content</a>
+        <a href="/en/software-development/" class="nm-sub">Software development</a>
+        <a href="/en/real-estate-marketing/" class="nm-sub">Real estate marketing</a>
+      </div>
+    </div>
+
+    <a href="/en/portfolio/" class="nm-l">Work</a>
+    <a href="/en/pricing/"   class="nm-l">Pricing</a>
+    <a href="/en/#results"   class="nm-l">Results</a>
+    <a href="/en/#about"     class="nm-l">About</a>
+    <a href="/en/contact/"   class="nm-l">Contact</a>
+    <a href="/" class="nm-l" hreflang="ro" lang="ro">Română</a>
+    <a href="/fr/" class="nm-l" hreflang="fr" lang="fr">Site en français</a>
+
+    <div class="nm-jos">
+      <a href="/en/contact/" class="btn btn-solid nm-cta">Get a quote</a>
+      <div class="nm-contact">
+        <a href="tel:+40771486499">+40 771 486 499</a>
+        <a href="mailto:contact@visience.ro">contact@visience.ro</a>
+      </div>
+    </div>
+  </div>
+</nav>
+13:T1a33,<footer class="footer" role="contentinfo">
+  <div class="wrap">
+
+    <div class="footer__grid">
+
+      <div>
+        <div class="footer__logo">
+          <img src="/media/sigla-mark-visience-new-colors.avif"
+               alt="Visience" width="148" height="28" loading="lazy">
+        </div>
+
+        <p class="footer__brand">
+          A digital marketing studio with 12 years behind it. We build the brand, the website and the campaigns that bring enquiries — and we measure every one of them.
+        </p>
+
+        <p class="footer__trust">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M20 6 9 17l-5-5"/>
+          </svg>
+          Prices published, nothing hidden — <a href="/en/pricing/">see the price list</a>.
+        </p>
+
+        <div class="footer__contact">
+          <a href="tel:+40771486499">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.67A2 2 0 012 .92h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L6.91 8.09a16 16 0 006 6l1.27-.83a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/>
+            </svg>
+            +40 771 486 499
+          </a>
+          <a href="mailto:contact@visience.ro">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+              <polyline points="22,6 12,13 2,6"/>
+            </svg>
+            contact@visience.ro
+          </a>
+        </div>
+
+        <div class="footer__social">
+          <a href="https://www.facebook.com/visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience on Facebook">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M24 12c0-6.63-5.37-12-12-12S0 5.37 0 12c0 5.99 4.39 10.95 10.13 11.85v-8.38H7.08V12h3.05V9.36c0-3.01 1.79-4.67 4.53-4.67 1.31 0 2.69.23 2.69.23v2.96h-1.52c-1.49 0-1.96.93-1.96 1.88V12h3.33l-.53 3.47h-2.8v8.38C19.61 22.95 24 17.99 24 12z"/>
+            </svg>
+          </a>
+          <a href="https://www.instagram.com/visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience on Instagram">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M12 2.16c3.2 0 3.58.01 4.85.07 1.17.05 1.8.25 2.23.41.56.22.96.48 1.38.9.42.42.68.82.9 1.38.16.42.36 1.06.41 2.23.06 1.27.07 1.65.07 4.85s-.01 3.58-.07 4.85c-.05 1.17-.25 1.8-.41 2.23-.22.56-.48.96-.9 1.38-.42.42-.82.68-1.38.9-.42.16-1.06.36-2.23.41-1.27.06-1.65.07-4.85.07s-3.58-.01-4.85-.07c-1.17-.05-1.8-.25-2.23-.41-.56-.22-.96-.48-1.38-.9-.42-.42-.68-.82-.9-1.38-.16-.42-.36-1.06-.41-2.23C2.17 15.58 2.16 15.2 2.16 12s.01-3.58.07-4.85c.05-1.17.25-1.8.41-2.23.22-.56.48-.96.9-1.38.42-.42.82-.68 1.38-.9.42-.16 1.06-.36 2.23-.41C8.42 2.17 8.8 2.16 12 2.16M12 0C8.74 0 8.33.01 7.05.07 5.78.13 4.9.33 4.14.63c-.79.3-1.46.72-2.12 1.38C1.35 2.68.94 3.35.63 4.14.33 4.9.13 5.78.07 7.05.01 8.33 0 8.74 0 12s.01 3.67.07 4.95c.06 1.27.26 2.15.56 2.91.3.79.72 1.46 1.38 2.12.66.66 1.33 1.08 2.12 1.38.76.3 1.64.5 2.91.56C8.33 23.99 8.74 24 12 24s3.67-.01 4.95-.07c1.27-.06 2.15-.26 2.91-.56.79-.3 1.46-.72 2.12-1.38.66-.66 1.08-1.33 1.38-2.12.3-.76.5-1.64.56-2.91.06-1.28.07-1.69.07-4.95s-.01-3.67-.07-4.95c-.06-1.27-.26-2.15-.56-2.91-.3-.79-.72-1.46-1.38-2.12C21.32 1.35 20.65.94 19.86.63 19.1.33 18.22.13 16.95.07 15.67.01 15.26 0 12 0z"/>
+              <path d="M12 5.84A6.16 6.16 0 1 0 18.16 12 6.16 6.16 0 0 0 12 5.84zM12 16a4 4 0 1 1 4-4 4 4 0 0 1-4 4z"/>
+              <circle cx="18.41" cy="5.59" r="1.44"/>
+            </svg>
+          </a>
+          <a href="https://www.tiktok.com/@visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience on TikTok">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M16.6 5.82A4.28 4.28 0 0 1 15.54 3h-3.09v12.4a2.59 2.59 0 0 1-2.59 2.5 2.59 2.59 0 0 1 0-5.18c.27 0 .52.04.76.12v-3.2a5.79 5.79 0 0 0-.76-.05 5.69 5.69 0 1 0 5.69 5.69V9.01a7.35 7.35 0 0 0 4.29 1.37V7.3a4.29 4.29 0 0 1-3.24-1.48z"/>
+            </svg>
+          </a>
+        </div>
+      </div>
+
+      <nav aria-label="Services">
+        <div class="footer__col-title">Services</div>
+        <ul class="footer__links">
+          <li><a href="/en/web-design/">Website design</a></li>
+          <li><a href="/en/online-store/">Online stores</a></li>
+          <li><a href="/en/branding/">Branding &amp; identity</a></li>
+          <li><a href="/en/social-media/">Social media</a></li>
+          <li><a href="/en/google-meta-ads/">Google &amp; Meta Ads</a></li>
+          <li><a href="/en/seo/">SEO &amp; content</a></li>
+          <li><a href="/en/software-development/">Software development</a></li>
+          <li><a href="/en/real-estate-marketing/">Real estate marketing</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Company">
+        <div class="footer__col-title">Company</div>
+        <ul class="footer__links">
+          <li><a href="/en/portfolio/">Work</a></li>
+          <li><a href="/en/pricing/">Pricing</a></li>
+          <li><a href="/en/#results">Case studies</a></li>
+          <li><a href="/en/#about">About us</a></li>
+          <li><a href="/en/contact/">Contact</a></li>
+          <li><a href="/" hreflang="ro" lang="ro">Site în română</a></li>
+          <li><a href="/fr/" hreflang="fr" lang="fr">Site en français</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Legal">
+        <div class="footer__col-title">Legal &amp; GDPR</div>
+        <ul class="footer__links">
+          <li><a href="/en/terms/">Terms &amp; conditions</a></li>
+          <li><a href="/en/privacy/">Privacy policy</a></li>
+          <li><a href="/en/cookies/">Cookie policy</a></li>
+        </ul>
+      </nav>
+
+    </div>
+
+    <div class="footer__bottom">
+      <div class="footer__bottom-in">
+        <p class="footer__copy">
+          © 2026 Visience Creative Experience SRL · All rights reserved
+        </p>
+        <div class="footer__legal">
+          <a href="/en/terms/">Terms</a>
+          <a href="/en/privacy/">Privacy</a>
+          <a href="/en/cookies/">Cookies</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</footer>
+14:Tffe,<header class="nav" id="nav" role="banner">
+  <div class="wrap nav__in">
+    <a href="/fr/" class="nav__logo" aria-label="Visience — Accueil">
+      <img class="nav__logo-img nav__logo-img--light" src="/media/sigla-mark-visience-new-colors.avif"
+           alt="Visience" width="160" height="30" fetchpriority="high">
+      <img class="nav__logo-img nav__logo-img--dark" src="/media/sigla-visience-dark.avif"
+           alt="" aria-hidden="true" width="160" height="30">
+    </a>
+
+    <nav class="nav__links" aria-label="Navigation principale">
+      <div class="nav__has-drop">
+        <a href="/fr/#services">Services<svg class="nav__drop-ico" viewBox="0 0 10 6" aria-hidden="true"><path d="M1 1l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+        <div class="nav__drop">
+          <a href="/fr/creation-site-internet/">Création de site internet</a>
+          <a href="/fr/boutique-en-ligne/">Boutique en ligne</a>
+          <a href="/fr/branding/">Branding &amp; identité</a>
+          <a href="/fr/reseaux-sociaux/">Réseaux sociaux</a>
+          <a href="/fr/google-meta-ads/">Google &amp; Meta Ads</a>
+          <a href="/fr/referencement/">SEO &amp; contenu</a>
+          <a href="/fr/developpement-logiciel/">Développement logiciel</a>
+          <a href="/fr/marketing-immobilier/">Marketing immobilier</a>
+        </div>
+      </div>
+      <a href="/fr/portfolio/">Réalisations</a>
+      <a href="/fr/tarifs/">Tarifs</a>
+      <a href="/fr/#results">Résultats</a>
+      <a href="/fr/#about">À propos</a>
+      <a href="/fr/contact/">Contact</a>
+      <a href="/" class="nav__lang" hreflang="ro" lang="ro" aria-label="Vezi site-ul în română">RO</a>
+      <a href="/en/" class="nav__lang" hreflang="en" lang="en" aria-label="View the site in English">EN</a>
+    </nav>
+
+    <a href="/fr/contact/" class="nav__cta">Demander un devis</a>
+
+    <button class="nav__burger" id="navBurger"
+            aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="navMob">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<nav class="nav__mob" id="navMob" aria-label="Menu mobile">
+  <div class="nm-in">
+    <div class="nm-grup">
+      <button type="button" class="nm-l nm-tog" id="nmServicii" aria-expanded="false" aria-controls="nmSub">
+        Services
+        <svg class="nm-tog__i" width="18" height="18" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+          <path d="M5 8l5 5 5-5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
+      <div class="nm-sublista" id="nmSub" hidden>
+        <a href="/fr/creation-site-internet/" class="nm-sub">Création de site internet</a>
+        <a href="/fr/boutique-en-ligne/" class="nm-sub">Boutique en ligne</a>
+        <a href="/fr/branding/" class="nm-sub">Branding &amp; identité</a>
+        <a href="/fr/reseaux-sociaux/" class="nm-sub">Réseaux sociaux</a>
+        <a href="/fr/google-meta-ads/" class="nm-sub">Google &amp; Meta Ads</a>
+        <a href="/fr/referencement/" class="nm-sub">SEO &amp; contenu</a>
+        <a href="/fr/developpement-logiciel/" class="nm-sub">Développement logiciel</a>
+        <a href="/fr/marketing-immobilier/" class="nm-sub">Marketing immobilier</a>
+      </div>
+    </div>
+
+    <a href="/fr/portfolio/" class="nm-l">Réalisations</a>
+    <a href="/fr/tarifs/"    class="nm-l">Tarifs</a>
+    <a href="/fr/#results"   class="nm-l">Résultats</a>
+    <a href="/fr/#about"     class="nm-l">À propos</a>
+    <a href="/fr/contact/"   class="nm-l">Contact</a>
+    <a href="/" class="nm-l" hreflang="ro" lang="ro">Site în română</a>
+    <a href="/en/" class="nm-l" hreflang="en" lang="en">Site in English</a>
+
+    <div class="nm-jos">
+      <a href="/fr/contact/" class="btn btn-solid nm-cta">Demander un devis</a>
+      <div class="nm-contact">
+        <a href="tel:+40771486499">+40 771 486 499</a>
+        <a href="mailto:contact@visience.ro">contact@visience.ro</a>
+      </div>
+    </div>
+  </div>
+</nav>
+15:T1afa,<footer class="footer" role="contentinfo">
+  <div class="wrap">
+
+    <div class="footer__grid">
+
+      <div>
+        <div class="footer__logo">
+          <img src="/media/sigla-mark-visience-new-colors.avif"
+               alt="Visience" width="148" height="28" loading="lazy">
+        </div>
+
+        <p class="footer__brand">
+          Un studio de marketing digital avec 12 ans derrière lui. Nous construisons la marque, le site et les campagnes qui amènent des demandes — et nous mesurons chacune d'elles.
+        </p>
+
+        <p class="footer__trust">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M20 6 9 17l-5-5"/>
+          </svg>
+          Tarifs publiés, rien de caché — <a href="/fr/tarifs/">voir la grille tarifaire</a>.
+        </p>
+
+        <div class="footer__contact">
+          <a href="tel:+40771486499">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.67A2 2 0 012 .92h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L6.91 8.09a16 16 0 006 6l1.27-.83a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/>
+            </svg>
+            +40 771 486 499
+          </a>
+          <a href="mailto:contact@visience.ro">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+              <polyline points="22,6 12,13 2,6"/>
+            </svg>
+            contact@visience.ro
+          </a>
+        </div>
+
+        <div class="footer__social">
+          <a href="https://www.facebook.com/visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience sur Facebook">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M24 12c0-6.63-5.37-12-12-12S0 5.37 0 12c0 5.99 4.39 10.95 10.13 11.85v-8.38H7.08V12h3.05V9.36c0-3.01 1.79-4.67 4.53-4.67 1.31 0 2.69.23 2.69.23v2.96h-1.52c-1.49 0-1.96.93-1.96 1.88V12h3.33l-.53 3.47h-2.8v8.38C19.61 22.95 24 17.99 24 12z"/>
+            </svg>
+          </a>
+          <a href="https://www.instagram.com/visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience sur Instagram">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M12 2.16c3.2 0 3.58.01 4.85.07 1.17.05 1.8.25 2.23.41.56.22.96.48 1.38.9.42.42.68.82.9 1.38.16.42.36 1.06.41 2.23.06 1.27.07 1.65.07 4.85s-.01 3.58-.07 4.85c-.05 1.17-.25 1.8-.41 2.23-.22.56-.48.96-.9 1.38-.42.42-.82.68-1.38.9-.42.16-1.06.36-2.23.41-1.27.06-1.65.07-4.85.07s-3.58-.01-4.85-.07c-1.17-.05-1.8-.25-2.23-.41-.56-.22-.96-.48-1.38-.9-.42-.42-.68-.82-.9-1.38-.16-.42-.36-1.06-.41-2.23C2.17 15.58 2.16 15.2 2.16 12s.01-3.58.07-4.85c.05-1.17.25-1.8.41-2.23.22-.56.48-.96.9-1.38.42-.42.82-.68 1.38-.9.42-.16 1.06-.36 2.23-.41C8.42 2.17 8.8 2.16 12 2.16M12 0C8.74 0 8.33.01 7.05.07 5.78.13 4.9.33 4.14.63c-.79.3-1.46.72-2.12 1.38C1.35 2.68.94 3.35.63 4.14.33 4.9.13 5.78.07 7.05.01 8.33 0 8.74 0 12s.01 3.67.07 4.95c.06 1.27.26 2.15.56 2.91.3.79.72 1.46 1.38 2.12.66.66 1.33 1.08 2.12 1.38.76.3 1.64.5 2.91.56C8.33 23.99 8.74 24 12 24s3.67-.01 4.95-.07c1.27-.06 2.15-.26 2.91-.56.79-.3 1.46-.72 2.12-1.38.66-.66 1.08-1.33 1.38-2.12.3-.76.5-1.64.56-2.91.06-1.28.07-1.69.07-4.95s-.01-3.67-.07-4.95c-.06-1.27-.26-2.15-.56-2.91-.3-.79-.72-1.46-1.38-2.12C21.32 1.35 20.65.94 19.86.63 19.1.33 18.22.13 16.95.07 15.67.01 15.26 0 12 0z"/>
+              <path d="M12 5.84A6.16 6.16 0 1 0 18.16 12 6.16 6.16 0 0 0 12 5.84zM12 16a4 4 0 1 1 4-4 4 4 0 0 1-4 4z"/>
+              <circle cx="18.41" cy="5.59" r="1.44"/>
+            </svg>
+          </a>
+          <a href="https://www.tiktok.com/@visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience sur TikTok">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M16.6 5.82A4.28 4.28 0 0 1 15.54 3h-3.09v12.4a2.59 2.59 0 0 1-2.59 2.5 2.59 2.59 0 0 1 0-5.18c.27 0 .52.04.76.12v-3.2a5.79 5.79 0 0 0-.76-.05 5.69 5.69 0 1 0 5.69 5.69V9.01a7.35 7.35 0 0 0 4.29 1.37V7.3a4.29 4.29 0 0 1-3.24-1.48z"/>
+            </svg>
+          </a>
+        </div>
+      </div>
+
+      <nav aria-label="Services">
+        <div class="footer__col-title">Services</div>
+        <ul class="footer__links">
+          <li><a href="/fr/creation-site-internet/">Création de site internet</a></li>
+          <li><a href="/fr/boutique-en-ligne/">Boutique en ligne</a></li>
+          <li><a href="/fr/branding/">Branding &amp; identité</a></li>
+          <li><a href="/fr/reseaux-sociaux/">Réseaux sociaux</a></li>
+          <li><a href="/fr/google-meta-ads/">Google &amp; Meta Ads</a></li>
+          <li><a href="/fr/referencement/">SEO &amp; contenu</a></li>
+          <li><a href="/fr/developpement-logiciel/">Développement logiciel</a></li>
+          <li><a href="/fr/marketing-immobilier/">Marketing immobilier</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Entreprise">
+        <div class="footer__col-title">Entreprise</div>
+        <ul class="footer__links">
+          <li><a href="/fr/portfolio/">Réalisations</a></li>
+          <li><a href="/fr/tarifs/">Tarifs</a></li>
+          <li><a href="/fr/#results">Études de cas</a></li>
+          <li><a href="/fr/#about">À propos</a></li>
+          <li><a href="/fr/contact/">Contact</a></li>
+          <li><a href="/" hreflang="ro" lang="ro">Site în română</a></li>
+          <li><a href="/en/" hreflang="en" lang="en">Site in English</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Mentions légales">
+        <div class="footer__col-title">Mentions légales &amp; RGPD</div>
+        <ul class="footer__links">
+          <li><a href="/fr/conditions-generales/">Conditions générales</a></li>
+          <li><a href="/fr/confidentialite/">Politique de confidentialité</a></li>
+          <li><a href="/fr/cookies/">Politique de cookies</a></li>
+        </ul>
+      </nav>
+
+    </div>
+
+    <div class="footer__bottom">
+      <div class="footer__bottom-in">
+        <p class="footer__copy">
+          © 2026 Visience Creative Experience SRL · Tous droits réservés
+        </p>
+        <div class="footer__legal">
+          <a href="/fr/conditions-generales/">Conditions</a>
+          <a href="/fr/confidentialite/">Confidentialité</a>
+          <a href="/fr/cookies/">Cookies</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</footer>
+5:["$","$Lf",null,{"headerRo":"$10","footerRo":"$11","headerEn":"$12","footerEn":"$13","headerFr":"$14","footerFr":"$15","children":"$L16"}]
+6:["$","$L17",null,{}]
+7:["$","$L18",null,{}]
+8:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L1a",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L1a",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+1b:Tbe4,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/fr/referencement/#service","name":"Référencement naturel","serviceType":"SEO","inLanguage":"fr","provider":{"@type":"Organization","name":"Visience","url":"https://visience.ro/fr/"},"areaServed":["FR","BE","CH","LU","RO"],"offers":[{"@type":"Offer","priceCurrency":"EUR","price":"600","itemOffered":{"@type":"Service","name":"Stratégie SEO complète, mensuel, six mois minimum"}},{"@type":"Offer","priceCurrency":"EUR","price":"60","itemOffered":{"@type":"Service","name":"SEO technique, horaire"}},{"@type":"Offer","priceCurrency":"EUR","price":"1500","itemOffered":{"@type":"Service","name":"SEO e-commerce"}},{"@type":"Offer","priceCurrency":"EUR","price":"300","itemOffered":{"@type":"Service","name":"Séquence d'automatisation e-mail"}}]},{"@type":"FAQPage","@id":"https://visience.ro/fr/referencement/#faq","mainEntity":[{"@type":"Question","name":"En combien de temps le SEO donne-t-il des résultats ?","acceptedAnswer":{"@type":"Answer","text":"Les premières améliorations de position apparaissent en 2 à 3 mois, et des résultats constants en trafic organique après 4 à 6 mois de travail régulier. C'est pourquoi la stratégie court sur six mois minimum."}},{"@type":"Question","name":"Garantissez-vous la première position dans Google ?","acceptedAnswer":{"@type":"Answer","text":"Non, et méfiez-vous de qui vous le promet. Les positions sont décidées par l'algorithme de Google. Ce que nous garantissons, c'est le travail fait correctement et un rapport mensuel qui montre exactement ce qui a été fait."}},{"@type":"Question","name":"Que comprend la stratégie SEO mensuelle ?","acceptedAnswer":{"@type":"Answer","text":"Le pack à 600 € par mois comprend l'analyse de mots-clés, l'optimisation on-page continue, le netlinking stratégique, du contenu SEO mensuel et un rapport de performance."}},{"@type":"Question","name":"Faites-vous du SEO local ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Nous optimisons la fiche Google Business, assurons la cohérence des coordonnées, travaillons les mots-clés locaux et structurons le site pour les recherches « service + ville »."}},{"@type":"Question","name":"Faites-vous un audit avant de démarrer ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Chaque collaboration commence par une analyse de votre site. L'audit technique fait partie du service, et pour des interventions ponctuelles le tarif est de 60 € de l'heure."}},{"@type":"Question","name":"Faites-vous du SEO pour les boutiques en ligne ?","acceptedAnswer":{"@type":"Answer","text":"Oui, en projet dédié à partir de 1.500 € : optimisation des produits et catégories, schema Product, faceted search, canonical et pagination, plus le travail de vitesse."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://visience.ro/fr/"},{"@type":"ListItem","position":2,"name":"Référencement","item":"https://visience.ro/fr/referencement/"}]}]}1c:T8e75,<style>
+.seo-hero {
+  position: relative;
+  padding: calc(var(--nav-h) + 90px) 0 90px;
+  background: var(--cream);
+  overflow: hidden;
+}
+.seo-hero__inner {
+  display: grid;
+  grid-template-columns: 1.2fr 1fr;
+  gap: 70px;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+}
+.seo-hero__breadcrumbs {
+  font-family: var(--f-m);
+  font-size: 11px;
+  color: var(--mid);
+  letter-spacing: .06em;
+  margin-bottom: 24px;
+}
+.seo-hero__breadcrumbs a       { color: var(--mid); transition: color .2s; }
+.seo-hero__breadcrumbs a:hover { color: var(--acc-deep); }
+.seo-hero__breadcrumbs .sep    { margin: 0 10px; opacity: .4; }
+
+.seo-hero__h1 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(38px, 5.2vw, 70px);
+  line-height: .98;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 26px;
+}
+.seo-hero__h1 .acc {
+  background: var(--acc);
+  color: var(--acc-ink);
+  padding: 0 12px 4px;
+  border-radius: 10px;
+  display: inline-block;
+  line-height: 1.05;
+}
+.seo-hero__lead {
+  font-size: 17px;
+  line-height: 1.78;
+  color: var(--mid);
+  margin-bottom: 32px;
+  font-weight: 300;
+  max-width: 540px;
+}
+.seo-hero__pts {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-bottom: 36px;
+  max-width: 540px;
+}
+.seo-pt {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 14px;
+  color: var(--ink);
+  font-weight: 500;
+}
+.seo-pt-dot {
+  width: 18px; height: 18px;
+  background: var(--acc);
+  color: var(--acc-ink);
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 10px; font-weight: 700;
+  flex-shrink: 0; margin-top: 2px;
+}
+.seo-hero__cta {
+  display: flex; gap: 10px; flex-wrap: wrap;
+}
+
+.seo-hero__visual {
+  position: relative;
+  height: 480px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.seo-hero__mockup {
+  position: relative;
+  width: 100%;
+  max-width: 460px;
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  padding: 24px 22px;
+  box-shadow: 0 30px 80px rgba(17,16,16,.08);
+  z-index: 2;
+}
+.seo-mockup__bar {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 18px;
+}
+.seo-mockup__search {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--cream);
+  padding: 8px 12px;
+  border-radius: 100px;
+  font-family: var(--f-m);
+  font-size: 11px;
+  color: var(--mid);
+}
+.seo-mockup__search i { color: var(--acc-deep); font-size: 11px; }
+.seo-mockup__results {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.seo-mockup__row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 14px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--cream);
+}
+.seo-mockup__row.top {
+  background: var(--acc-bg);
+  border-color: rgba(155,195,26,.35);
+}
+.seo-mockup__rank {
+  width: 26px; height: 26px;
+  border-radius: 8px;
+  background: var(--cream2);
+  color: var(--mid);
+  display: flex; align-items: center; justify-content: center;
+  font-family: var(--f-d); font-weight: 800; font-size: 13px;
+  flex-shrink: 0;
+}
+.seo-mockup__row.top .seo-mockup__rank {
+  background: var(--acc); color: var(--acc-ink);
+}
+.seo-mockup__lines { flex: 1; }
+.seo-mockup__l1 {
+  height: 7px; border-radius: 3px;
+  background: var(--ink); opacity: .8;
+  margin-bottom: 6px; width: 70%;
+}
+.seo-mockup__row.top .seo-mockup__l1 { background: var(--acc); opacity: 1; }
+.seo-mockup__l2 {
+  height: 4px; border-radius: 2px;
+  background: var(--cream3); width: 90%;
+}
+.seo-mockup__trend {
+  margin-top: 16px;
+  padding: 14px;
+  background: var(--ink);
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.seo-mockup__trend-lbl {
+  font-family: var(--f-m); font-size: 10px;
+  letter-spacing: .08em; text-transform: uppercase;
+  color: rgba(255,255,255,.55);
+}
+.seo-mockup__trend-val {
+  font-family: var(--f-d); font-size: 16px; font-weight: 800;
+  color: var(--acc2);
+  display: flex; align-items: center; gap: 6px;
+}
+.seo-mockup__trend-val i { font-size: 13px; }
+
+
+.seo-intro {
+  background: var(--white);
+  padding: 90px 0;
+  position: relative;
+}
+.seo-intro__inner {
+  max-width: 880px;
+  margin: 0 auto;
+}
+.seo-intro h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(28px, 3.5vw, 44px);
+  line-height: 1.1;
+  letter-spacing: -.025em;
+  color: var(--ink);
+  margin: 56px 0 18px;
+}
+.seo-intro h2:first-child { margin-top: 0; }
+.seo-intro p {
+  font-size: 16px;
+  line-height: 1.84;
+  color: var(--mid);
+  font-weight: 300;
+  margin-bottom: 16px;
+}
+.seo-intro p strong { color: var(--ink); font-weight: 600; }
+.seo-intro p a       { color: var(--acc-deep); border-bottom: 1px solid var(--acc); transition: opacity .2s; }
+.seo-intro p a:hover { opacity: .65; }
+
+
+.seo-incl {
+  padding: 100px 0;
+  background: var(--cream);
+}
+.seo-incl__head {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto 56px;
+}
+.seo-incl__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(34px, 4.5vw, 56px);
+  line-height: 1.0;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 18px;
+}
+.seo-incl__h2 .acc { color: var(--acc-deep); }
+.seo-incl__sub {
+  font-size: 16px; line-height: 1.8;
+  color: var(--mid); font-weight: 300;
+}
+.seo-incl__grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+.seo-card {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 34px 28px 30px;
+  transition: .3s;
+}
+.seo-card:hover {
+  border-color: rgba(155,195,26,.3);
+  transform: translateY(-6px);
+  box-shadow: 0 20px 44px rgba(155,195,26,.08);
+}
+.seo-card__ico {
+  width: 52px; height: 52px;
+  border-radius: 14px;
+  background: var(--acc-bg);
+  color: var(--acc-deep);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  margin-bottom: 22px;
+  transition: .3s;
+}
+.seo-card:hover .seo-card__ico {
+  background: var(--acc);
+  color: var(--acc-ink);
+}
+.seo-card h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: -.015em;
+  margin: 0 0 12px;
+  color: var(--ink);
+  line-height: 1.2;
+}
+.seo-card p {
+  font-size: 13px;
+  color: var(--mid);
+  line-height: 1.72;
+  font-weight: 300;
+  margin: 0;
+}
+
+
+.seo-prices {
+  padding: 100px 0;
+  background: var(--white);
+}
+.seo-prices__head {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto 56px;
+}
+.seo-prices__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(34px, 4.5vw, 60px);
+  line-height: 1.0;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 18px;
+}
+.seo-prices__h2 .acc { color: var(--acc-deep); }
+.seo-prices__sub {
+  font-size: 16px; line-height: 1.8;
+  color: var(--mid); font-weight: 300;
+}
+
+.seo-pkg-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  align-items: stretch;
+}
+.seo-pkg {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 36px 32px 32px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  transition: .3s;
+}
+.seo-pkg:hover {
+  border-color: rgba(155,195,26,.3);
+  transform: translateY(-6px);
+  box-shadow: 0 20px 48px rgba(155,195,26,.08);
+}
+.seo-pkg.featured {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--white);
+}
+.seo-pkg.featured:hover { box-shadow: 0 24px 56px rgba(17,16,16,.2); }
+.seo-pkg__badge {
+  position: absolute;
+  top: -12px; left: 50%;
+  transform: translateX(-50%);
+  background: var(--acc);
+  color: var(--acc-ink);
+  font-family: var(--f-m);
+  font-size: 9px;
+  font-weight: 500;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  padding: 5px 14px;
+  border-radius: 100px;
+}
+.seo-pkg__name {
+  font-family: var(--f-m);
+  font-size: 11px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--mid);
+  margin-bottom: 8px;
+}
+.seo-pkg.featured .seo-pkg__name { color: rgba(255,255,255,.5); }
+.seo-pkg__price {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(32px, 3.6vw, 46px);
+  letter-spacing: -.04em;
+  line-height: 1;
+  color: var(--acc-deep);
+  margin-bottom: 4px;
+}
+.seo-pkg__price-note {
+  font-size: 12px;
+  color: var(--light);
+  margin-bottom: 22px;
+}
+.seo-pkg.featured .seo-pkg__price-note { color: rgba(255,255,255,.4); }
+.seo-pkg__desc {
+  font-size: 14px;
+  line-height: 1.7;
+  color: var(--mid);
+  margin-bottom: 26px;
+  font-weight: 300;
+  padding-bottom: 22px;
+  border-bottom: 1px solid var(--border);
+}
+.seo-pkg.featured .seo-pkg__desc {
+  color: rgba(255,255,255,.55);
+  border-bottom-color: rgba(255,255,255,.1);
+}
+.seo-pkg__feats {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 28px;
+  flex: 1;
+}
+.seo-pkg__feat {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 13px;
+  line-height: 1.55;
+  color: var(--ink);
+}
+.seo-pkg.featured .seo-pkg__feat { color: rgba(255,255,255,.85); }
+.seo-pkg__feat-tick {
+  color: var(--acc-deep);
+  flex-shrink: 0;
+  margin-top: 2px;
+  font-weight: 700;
+}
+
+.seo-extra {
+  max-width: 880px;
+  margin: 40px auto 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+.seo-extra__box {
+  background: var(--cream);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 26px 28px;
+}
+.seo-extra__box h4 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: -.01em;
+  margin: 0 0 8px;
+  color: var(--ink);
+  display: flex; align-items: center; gap: 10px;
+}
+.seo-extra__box h4 i { color: var(--acc-deep); font-size: 15px; }
+.seo-extra__box p {
+  font-size: 13px;
+  line-height: 1.7;
+  color: var(--mid);
+  font-weight: 300;
+  margin: 0;
+}
+.seo-extra__box p strong { color: var(--ink); font-weight: 600; }
+
+
+.seo-process {
+  padding: 100px 0;
+  background: var(--cream2);
+}
+.seo-process__head {
+  margin-bottom: 56px;
+  max-width: 640px;
+}
+.seo-process__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(30px, 4vw, 50px);
+  line-height: 1.02;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 16px;
+}
+.seo-process__sub {
+  font-size: 16px; line-height: 1.8;
+  color: var(--mid); font-weight: 300;
+}
+.seo-process__list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+.seo-step {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 30px 28px;
+  transition: .3s;
+}
+.seo-step:hover {
+  border-color: rgba(155,195,26,.3);
+  transform: translateY(-4px);
+  box-shadow: 0 14px 28px rgba(17,16,16,.06);
+}
+.seo-step__n {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: 36px;
+  color: var(--acc-deep);
+  letter-spacing: -.03em;
+  line-height: 1;
+  margin-bottom: 16px;
+}
+.seo-step h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.015em;
+  margin: 0 0 10px;
+  color: var(--ink);
+  line-height: 1.2;
+}
+.seo-step p {
+  font-size: 13px;
+  color: var(--mid);
+  line-height: 1.7;
+  font-weight: 300;
+  margin: 0;
+}
+
+
+.seo-faq {
+  padding: 100px 0;
+  background: var(--white);
+}
+.seo-faq__head {
+  text-align: center;
+  max-width: 640px;
+  margin: 0 auto 50px;
+}
+.seo-faq__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(28px, 3.6vw, 44px);
+  line-height: 1.04;
+  letter-spacing: -.03em;
+  color: var(--ink);
+}
+.seo-faq__h2 .acc { color: var(--acc-deep); }
+.seo-faq__list {
+  max-width: 860px;
+  margin: 0 auto;
+  border-top: 1px solid var(--border);
+}
+.seo-faq-item {
+  border-bottom: 1px solid var(--border);
+  padding: 24px 0;
+}
+.seo-faq-item summary {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.01em;
+  color: var(--ink);
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding-right: 8px;
+  transition: color .22s;
+}
+.seo-faq-item summary::-webkit-details-marker { display: none; }
+.seo-faq-item summary::after {
+  content: '+';
+  font-family: var(--f-d);
+  font-size: 26px;
+  font-weight: 300;
+  color: var(--acc-deep);
+  transition: transform .3s;
+  flex-shrink: 0;
+  line-height: 1;
+}
+.seo-faq-item[open] summary::after { transform: rotate(45deg); }
+.seo-faq-item:hover summary { color: var(--acc-deep); }
+.seo-faq-item p {
+  margin-top: 14px;
+  font-size: 14px;
+  color: var(--mid);
+  line-height: 1.78;
+  font-weight: 300;
+  max-width: 740px;
+}
+.seo-faq-item p strong { color: var(--ink); font-weight: 600; }
+
+
+.seo-cta {
+  padding: 110px 0;
+  background: var(--ink);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.seo-cta::before {
+  content: '';
+  position: absolute;
+  top: -100px; right: -100px;
+  width: 420px; height: 420px;
+  background: radial-gradient(circle, rgba(155,195,26,.22) 0%, transparent 70%);
+  pointer-events: none;
+}
+.seo-cta > .wrap { position: relative; z-index: 1; }
+.seo-cta__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(34px, 5vw, 64px);
+  line-height: 1.0;
+  letter-spacing: -.03em;
+  color: var(--white);
+  margin-bottom: 20px;
+}
+.seo-cta__h2 .acc {
+  background: linear-gradient(135deg, var(--acc) 0%, var(--acc2) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.seo-cta__p {
+  font-size: 16px;
+  color: rgba(255,255,255,.5);
+  font-weight: 300;
+  max-width: 540px;
+  margin: 0 auto 32px;
+  line-height: 1.78;
+}
+.seo-cta__btns {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 1024px) {
+  .seo-hero { padding: calc(var(--nav-h) + 60px) 0 70px; }
+  .seo-hero__inner { grid-template-columns: 1fr; gap: 50px; }
+  .seo-hero__visual { height: auto; order: -1; }
+  .seo-intro { padding: 70px 0; }
+  .seo-incl { padding: 80px 0; }
+  .seo-incl__grid { grid-template-columns: repeat(2, 1fr); }
+  .seo-prices { padding: 80px 0; }
+  .seo-pkg-grid { grid-template-columns: 1fr; gap: 20px; }
+  .seo-pkg.featured { transform: none; }
+  .seo-process { padding: 70px 0; }
+  .seo-process__list { grid-template-columns: 1fr; max-width: 480px; }
+  .seo-faq { padding: 70px 0; }
+  .seo-cta { padding: 80px 0; }
+}
+
+@media (max-width: 640px) {
+  .seo-hero__pts { grid-template-columns: 1fr; }
+  .seo-hero__cta { flex-direction: column; }
+  .seo-hero__cta .btn { justify-content: center; }
+  .seo-incl__grid { grid-template-columns: 1fr; gap: 12px; }
+  .seo-extra { grid-template-columns: 1fr; }
+  .seo-pkg { padding: 28px 24px 26px; }
+  .seo-cta__btns { flex-direction: column; }
+  .seo-cta__btns .btn { width: 100%; justify-content: center; }
+}
+</style>
+
+
+<main id="main">
+
+<section class="seo-hero" aria-labelledby="seo-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="20%" x2="100%" y2="60%"/>
+      <line x1="0" y1="50%" x2="100%" y2="90%"/>
+      <line x1="0" y1="80%" x2="100%" y2="30%"/>
+      <line x1="25%" y1="0" x2="75%" y2="100%"/>
+      <line x1="60%" y1="0" x2="10%" y2="100%"/>
+    </svg>
+  </div>
+
+  <div class="wrap">
+    <div class="seo-hero__inner">
+
+      <div class="rv">
+        <nav class="seo-hero__breadcrumbs" aria-label="Fil d’Ariane">
+          <a href="/fr/">Accueil</a>
+          <span class="sep">/</span>
+          <a href="/fr/#services">Services</a>
+          <span class="sep">/</span>
+          <span>Référencement SEO</span>
+        </nav>
+
+
+        <h1 class="seo-hero__h1" id="seo-h1">
+          Une visibilité sur Google<br>
+          <span class="acc">qui dure.</span>
+        </h1>
+
+        <p class="seo-hero__lead">
+          Visience fait du référencement naturel depuis Iași, pour des clients dans tout le pays&nbsp;: optimisation technique, contenu pertinent, netlinking et rapport mensuel. L’abonnement démarre à 600€ par mois, sur 6 mois minimum, et l’intervention ponctuelle de SEO technique coûte 60€ de l’heure.
+        </p>
+
+        <div class="seo-hero__pts">
+          <div class="seo-pt"><span class="seo-pt-dot">✓</span><span>SEO technique &amp; on-page</span></div>
+          <div class="seo-pt"><span class="seo-pt-dot">✓</span><span>Stratégie sur 6 mois minimum</span></div>
+          <div class="seo-pt"><span class="seo-pt-dot">✓</span><span>Contenu &amp; netlinking</span></div>
+          <div class="seo-pt"><span class="seo-pt-dot">✓</span><span>Rapport mensuel transparent</span></div>
+        </div>
+
+        <div class="seo-hero__cta">
+          <a href="/fr/contact/" class="btn btn-solid">Demander un devis</a>
+          <a href="tel:+40771486499" class="btn btn-ghost">+40 771 486 499</a>
+        </div>
+      </div>
+
+      <div class="seo-hero__visual rv rv-d2">
+        <div class="seo-hero__mockup" aria-hidden="true">
+          <div class="seo-mockup__bar">
+            <div class="seo-mockup__search">
+              <i class="fas fa-magnifying-glass"></i>
+              <span>services entreprise Iași</span>
+            </div>
+          </div>
+          <div class="seo-mockup__results">
+            <div class="seo-mockup__row top">
+              <span class="seo-mockup__rank">1</span>
+              <div class="seo-mockup__lines">
+                <div class="seo-mockup__l1"></div>
+                <div class="seo-mockup__l2"></div>
+              </div>
+            </div>
+            <div class="seo-mockup__row">
+              <span class="seo-mockup__rank">2</span>
+              <div class="seo-mockup__lines">
+                <div class="seo-mockup__l1"></div>
+                <div class="seo-mockup__l2"></div>
+              </div>
+            </div>
+            <div class="seo-mockup__row">
+              <span class="seo-mockup__rank">3</span>
+              <div class="seo-mockup__lines">
+                <div class="seo-mockup__l1"></div>
+                <div class="seo-mockup__l2"></div>
+              </div>
+            </div>
+          </div>
+          <div class="seo-mockup__trend">
+            <span class="seo-mockup__trend-lbl">Trafic organique</span>
+            <span class="seo-mockup__trend-val"><i class="fas fa-arrow-trend-up"></i></span>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="seo-intro" aria-labelledby="seo-intro-h2">
+  <div class="wrap">
+    <div class="seo-intro__inner rv">
+
+      <h2 id="seo-intro-h2">Référencement SEO et content marketing pour une croissance organique</h2>
+      <p>
+        Nous sommes une <strong>agence de marketing basée à Iași</strong> qui construit une visibilité organique sur le long terme dans Google. Nous travaillons le <strong>SEO technique on-page</strong>, une stratégie continue <strong>on-page et off-page</strong>, un <strong>netlinking de qualité</strong>, plus <strong>newsletter et email marketing</strong> — le tout aligné sur vos objectifs commerciaux, pas sur des indicateurs de vanité.
+      </p>
+      <p>
+        Tous les sites que nous réalisons sont <strong>optimisés pour le référencement dès la construction</strong>&nbsp;: structure sémantique correcte, vitesse de chargement, données structurées et URL lisibles. Pour un positionnement avancé, nous recommandons en revanche une <strong>stratégie SEO continue sur 6 mois minimum</strong> — le SEO n’est pas un projet avec une date de fin, mais un processus qui compose ses résultats dans le temps. <a href="/fr/contact/">Demandez une analyse de votre site →</a>
+      </p>
+
+      <h2>Pourquoi un SEO continu et pas une seule optimisation&nbsp;?</h2>
+      <p>
+        Google évalue votre site chaque jour et la concurrence n’attend pas. Une optimisation unique vous apporte une amélioration sur le moment, mais les bonnes positions se gagnent et se gardent par du <strong>contenu publié régulièrement</strong>, une <strong>autorité construite par le netlinking</strong> et des <strong>ajustements techniques continus</strong>. C’est pourquoi notre offre principale est une collaboration mensuelle sur 6 mois minimum, l’intervalle où le SEO commence à produire des résultats visibles et stables.
+      </p>
+      <p>
+        Au-delà du positionnement dans les recherches, un bon contenu travaille pour vous aussi après l’arrivée du visiteur sur le site&nbsp;: articles utiles, guides et pages bien structurées qui répondent aux vraies questions de vos clients. <a href="#seo-faq">Voir les questions fréquentes →</a>
+      </p>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="seo-incl" aria-labelledby="seo-incl-h2">
+  <div class="wrap">
+
+    <div class="seo-incl__head rv">
+      <h2 class="seo-incl__h2" id="seo-incl-h2">Tout ce qui touche à <span class="acc">votre positionnement</span></h2>
+      <p class="seo-incl__sub">
+        De la fondation technique jusqu’au contenu et à l’autorité. Nous couvrons tout le cycle par lequel un site finit par être trouvé et choisi dans Google.
+      </p>
+    </div>
+
+    <div class="seo-incl__grid rv rv-d2">
+
+      <div class="seo-card">
+        <div class="seo-card__ico"><i class="fas fa-gauge-high"></i></div>
+        <h3>Audit &amp; SEO technique</h3>
+        <p>Audit complet, sitemap et robots, balisage schema, optimisation de la vitesse et correction des liens cassés, pour une base propre que Google peut indexer correctement.</p>
+      </div>
+
+      <div class="seo-card">
+        <div class="seo-card__ico"><i class="fas fa-key"></i></div>
+        <h3>Mots-clés &amp; on-page</h3>
+        <p>Analyse de mots-clés basée sur l’intention de recherche réelle et optimisation on-page&nbsp;: titres, méta, structure du contenu et maillage interne qui amènent le bon trafic.</p>
+      </div>
+
+      <div class="seo-card">
+        <div class="seo-card__ico"><i class="fas fa-link"></i></div>
+        <h3>Contenu &amp; netlinking</h3>
+        <p>Du contenu SEO écrit pour les gens et pour Google, plus un netlinking stratégique, depuis des sources pertinentes, qui construit l’autorité sans risque de pénalité.</p>
+      </div>
+
+      <div class="seo-card">
+        <div class="seo-card__ico"><i class="fas fa-chart-line"></i></div>
+        <h3>Rapports &amp; suivi</h3>
+        <p>Un rapport mensuel clair avec les positions, le trafic organique et les conversions. Vous voyez exactement ce qui a été fait et ce qui suit, sans jargon et sans promesses que nous ne pouvons pas tenir.</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="seo-prices" id="prices" aria-labelledby="seo-prices-h2">
+  <div class="wrap">
+
+    <div class="seo-prices__head rv">
+      <h2 class="seo-prices__h2" id="seo-prices-h2">
+        Tarifs référencement SEO —<br><span class="acc">transparents, sans surprises</span>
+      </h2>
+      <p class="seo-prices__sub">
+        Choisissez le niveau adapté à votre activité. Tous les tarifs sont indicatifs. Vous recevez un devis personnalisé après une analyse de votre site.
+      </p>
+    </div>
+
+    <div class="seo-pkg-grid">
+
+      <div class="seo-pkg featured rv">
+        <span class="seo-pkg__badge">Recommandé</span>
+        <div class="seo-pkg__name">Stratégie SEO complète</div>
+        <div class="seo-pkg__price">600€<span style="font-size:.42em;font-weight:600;letter-spacing:0"> / mois</span></div>
+        <div class="seo-pkg__price-note">6 mois minimum · positionnement avancé</div>
+        <p class="seo-pkg__desc">
+          La collaboration mensuelle complète pour une croissance organique soutenue. La meilleure option pour les entreprises qui veulent des positions stables dans Google.
+        </p>
+        <div class="seo-pkg__feats">
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Analyse de mots-clés</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Optimisation on-page continue</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Netlinking stratégique</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Contenu SEO mensuel</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Rapport mensuel de performance</span></div>
+        </div>
+        <a href="/fr/contact/" class="btn btn-solid" style="justify-content:center">Demander un devis</a>
+      </div>
+
+      <div class="seo-pkg rv rv-d1">
+        <div class="seo-pkg__name">SEO Boutique en ligne</div>
+        <div class="seo-pkg__price">à partir de 1.500€</div>
+        <div class="seo-pkg__price-note">Projet e-commerce</div>
+        <p class="seo-pkg__desc">
+          Un référencement dédié aux boutiques en ligne&nbsp;: produits, catégories et architecture correcte pour l’indexation d’un grand catalogue.
+        </p>
+        <div class="seo-pkg__feats">
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>SEO produits + catégories</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Schema Product (données structurées)</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Recherche à facettes optimisée</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Canonical + pagination correcte</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Optimisation de la vitesse</span></div>
+        </div>
+        <a href="/fr/contact/" class="btn btn-ghost" style="justify-content:center">Demander un devis</a>
+      </div>
+
+      <div class="seo-pkg rv rv-d2">
+        <div class="seo-pkg__name">SEO technique</div>
+        <div class="seo-pkg__price">60€<span style="font-size:.42em;font-weight:600;letter-spacing:0"> / heure</span></div>
+        <div class="seo-pkg__price-note">Interventions ponctuelles</div>
+        <p class="seo-pkg__desc">
+          Pour les sites qui ont besoin de corrections techniques ciblées, sans collaboration mensuelle. Vous ne payez que le temps réellement travaillé.
+        </p>
+        <div class="seo-pkg__feats">
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Audit technique</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Sitemap + robots</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Balisage schema</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Optimisation de la vitesse</span></div>
+          <div class="seo-pkg__feat"><span class="seo-pkg__feat-tick">✓</span><span>Correction des liens cassés</span></div>
+        </div>
+        <a href="/fr/contact/" class="btn btn-ghost" style="justify-content:center">Demander un devis</a>
+      </div>
+
+    </div>
+
+    <div class="seo-extra rv rv-d2">
+      <div class="seo-extra__box">
+        <h4><i class="fas fa-arrow-up-right-from-square"></i> Netlinking externe</h4>
+        <p>Des articles avec backlink depuis des sources pertinentes et un <strong>rapport DA/DR</strong> pour chaque placement, pour faire monter l’autorité du domaine de façon contrôlée. À ajouter en option par-dessus la stratégie mensuelle.</p>
+      </div>
+      <div class="seo-extra__box">
+        <h4><i class="fas fa-envelope-open-text"></i> Email marketing &amp; automatisations</h4>
+        <p>Automatisations email <strong>à partir de 300&nbsp;€/séquence</strong> (bienvenue, panier abandonné, réactivation) et <strong>gestion des campagnes email à 300&nbsp;€/mois</strong>. Nous gardons l’audience proche et ramenons des visiteurs sur le site.</p>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
+<section class="seo-process" aria-labelledby="seo-process-h2">
+  <div class="wrap">
+
+    <div class="seo-process__head rv">
+      <h2 class="seo-process__h2" id="seo-process-h2">De l’audit aux positions stables</h2>
+      <p class="seo-process__sub">
+        Un processus clair, étape par étape, par lequel votre site devient plus visible mois après mois.
+      </p>
+    </div>
+
+    <div class="seo-process__list rv rv-d2">
+
+      <article class="seo-step">
+        <div class="seo-step__n">01</div>
+        <h3>Audit &amp; analyse</h3>
+        <p>Nous partons d’un audit technique complet et d’une analyse de mots-clés basée sur l’intention de recherche réelle de vos clients.</p>
+      </article>
+
+      <article class="seo-step">
+        <div class="seo-step__n">02</div>
+        <h3>Optimisation on-page</h3>
+        <p>Nous corrigeons la base technique, structurons le contenu, optimisons les titres, les méta et le maillage interne pour une indexation correcte.</p>
+      </article>
+
+      <article class="seo-step">
+        <div class="seo-step__n">03</div>
+        <h3>Contenu &amp; autorité</h3>
+        <p>Nous publions du contenu SEO pertinent et construisons l’autorité par un netlinking stratégique depuis des sources de qualité.</p>
+      </article>
+
+      <article class="seo-step">
+        <div class="seo-step__n">04</div>
+        <h3>Suivi</h3>
+        <p>Nous suivons les positions, le trafic organique et le comportement sur le site, pour savoir exactement ce qui marche et ce qu’il faut ajuster.</p>
+      </article>
+
+      <article class="seo-step">
+        <div class="seo-step__n">05</div>
+        <h3>Optimisation continue</h3>
+        <p>Nous ajustons la stratégie chaque mois selon les données et les mouvements de la concurrence. Le SEO ne s’arrête pas, il se compose.</p>
+      </article>
+
+      <article class="seo-step">
+        <div class="seo-step__n">06</div>
+        <h3>Rapport &amp; direction</h3>
+        <p>Vous recevez un rapport mensuel clair avec les résultats et les recommandations, plus les priorités du mois suivant.</p>
+      </article>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="seo-faq" id="seo-faq" aria-labelledby="seo-faq-h2">
+  <div class="wrap">
+
+    <div class="seo-faq__head rv">
+      <h2 class="seo-faq__h2" id="seo-faq-h2">Ce qu’il faut savoir sur le <span class="acc">SEO</span></h2>
+    </div>
+
+    <div class="seo-faq__list rv rv-d2">
+
+      <details class="seo-faq-item">
+        <summary>Combien de temps avant les premiers résultats SEO&nbsp;?</summary>
+        <p>Le SEO est un investissement sur le long terme, pas un résultat instantané. En général, les premières améliorations de positions apparaissent en 2-3 mois, et les résultats constants en trafic organique se voient, le plus souvent, après 4-6 mois de travail régulier. C’est pour cela que nous recommandons une stratégie sur 6 mois minimum&nbsp;: c’est l’intervalle où les optimisations techniques, le contenu et l’autorité construite commencent à composer des résultats stables.</p>
+      </details>
+
+      <details class="seo-faq-item">
+        <summary>Garantissez-vous la première position dans Google&nbsp;?</summary>
+        <p>Non, et méfiez-vous de quiconque vous le promet. Les positions dans Google sont décidées par l’algorithme de Google, selon des centaines de facteurs et selon la concurrence de votre secteur&nbsp;; aucun spécialiste sérieux ne peut les garantir. Ce que nous garantissons, en revanche, c’est le travail bien fait&nbsp;: audit technique, optimisation on-page, contenu de qualité, netlinking propre et un rapport mensuel où vous voyez exactement ce que nous avons fait et comment évoluent les positions. Nous utilisons uniquement des techniques conformes aux consignes de Google, sans raccourcis qui risquent des pénalités.</p>
+      </details>
+
+      <details class="seo-faq-item">
+        <summary>Que comprend la stratégie SEO mensuelle&nbsp;?</summary>
+        <p>Le pack à 600&nbsp;€/mois (6 mois minimum) comprend l’analyse de mots-clés, l’optimisation on-page continue, le netlinking stratégique, du contenu SEO mensuel et un rapport mensuel de performance. Concrètement, nous prenons en charge tout ce qui touche à la croissance organique de votre site, mois après mois, et nous ajustons la direction selon les résultats.</p>
+      </details>
+
+      <details class="seo-faq-item">
+        <summary>Faites-vous du SEO local (Google Business)&nbsp;?</summary>
+        <p>Oui. Pour les entreprises avec une présence physique ou qui visent des clients d’une zone précise, le SEO local est essentiel. Nous optimisons la fiche Google Business, assurons la cohérence des coordonnées (NAP), travaillons des mots-clés locaux et structurons le site pour les recherches du type «&nbsp;service + ville&nbsp;», afin de ressortir dans les résultats et sur la carte de votre zone.</p>
+      </details>
+
+      <details class="seo-faq-item">
+        <summary>Proposez-vous un audit SEO avant de démarrer&nbsp;?</summary>
+        <p>Oui. Toute collaboration part d’une analyse de votre site, pour comprendre où vous en êtes et ce qui a le plus d’impact. L’audit technique fait partie du service, et pour des interventions ponctuelles vous pouvez aussi choisir le pack SEO technique à 60&nbsp;€/heure, sans collaboration mensuelle.</p>
+      </details>
+
+      <details class="seo-faq-item">
+        <summary>Travaillez-vous aussi le SEO des boutiques en ligne&nbsp;?</summary>
+        <p>Oui. Le SEO des boutiques en ligne a ses particularités et nous le traitons comme un projet dédié, à partir de 1.500€&nbsp;: optimisation des produits et des catégories, schema Product, recherche à facettes correcte, gestion du canonical et de la pagination, plus l’optimisation de la vitesse. Tous les sites que nous construisons sont déjà optimisés pour le référencement dès la construction, et pour un positionnement avancé nous ajoutons la stratégie continue.</p>
+      </details>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="seo-cta" aria-labelledby="seo-cta-h2">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="seo-cta__h2" id="seo-cta-h2">
+        Faisons grandir<br>
+        <span class="acc">votre visibilité dans Google</span>
+      </h2>
+      <p class="seo-cta__p">
+        Parlez-nous de votre site et de vos objectifs. Nous répondons avec une analyse et un devis personnalisé, sans engagement.
+      </p>
+      <div class="seo-cta__btns">
+        <a href="/fr/contact/" class="btn btn-solid">Demander un devis</a>
+        <a href="tel:+40771486499" class="btn btn-dark">Appelez maintenant&nbsp;: +40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Services connexes et tarifs transparents">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Sans tarifs cachés</span>
+      <h2>Vous voyez exactement ce que vous payez.</h2>
+      <p>Nous ne travaillons pas avec des tarifs cachés ni des surprises sur la facture. Tous nos packs et tous nos tarifs sont publics. Vous choisissez en connaissance de cause, sans pression.</p>
+      <a href="/fr/tarifs/" class="rel-trans__link">Voir tous les tarifs <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Continuez avec</div>
+      <div class="rel-links__grid">
+        <a href="/fr/google-meta-ads/" class="rel-link"><span class="rel-link__name">Google & Meta Ads <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Des campagnes centrées sur les leads et les ventes.</span></a>
+        <a href="/fr/creation-site-internet/" class="rel-link"><span class="rel-link__name">Création de site vitrine <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Des sites d’entreprise rapides, au design de votre marque.</span></a>
+        <a href="/fr/boutique-en-ligne/" class="rel-link"><span class="rel-link__name">Création de boutique en ligne <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">WooCommerce et Shopify optimisés pour la vente.</span></a>
+        <a href="/fr/contact/" class="rel-link"><span class="rel-link__name">Contact <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Parlons de votre site, de vos objectifs et du budget.</span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+a:["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$1b"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$1c"}}]],null,"$L1d"]}]
+1e:[]
+b:"$W1e"
+c:["$","$1","h",{"children":[null,["$","$L1f",null,{"children":"$L20"}],["$","div",null,{"hidden":true,"children":["$","$L21",null,{"children":["$","$22",null,{"name":"Next.Metadata","children":"$L23"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+e:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+24:I[97367,["/_next/static/chunks/3d-sy7z0ug41-.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+16:["$","$L19",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L1a",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
+1d:["$","$L24",null,{"children":["$","$22",null,{"name":"Next.MetadataOutlet","children":"$@25"}]}]
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#FFFFFF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#111114","media":"(prefers-color-scheme: dark)"}]]
+26:I[27201,["/_next/static/chunks/3d-sy7z0ug41-.js","/_next/static/chunks/24ag4weogx3og.js"],"IconMark"]
+23:[["$","title","0",{"children":"Référencement naturel — 600 € par mois ou 60 € de l'heure | Visience"}],["$","meta","1",{"name":"description","content":"SEO technique, on-page, contenu et netlinking, avec rapport mensuel. Stratégie complète 600 € par mois sur six mois minimum, intervention ponctuelle 60 € de l'heure, SEO e-commerce à partir de 1.500 €."}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://visience.ro/fr/referencement/"}],["$","link","4",{"rel":"alternate","hrefLang":"ro-RO","href":"https://visience.ro/optimizare-seo/"}],["$","link","5",{"rel":"alternate","hrefLang":"en","href":"https://visience.ro/en/seo/"}],["$","link","6",{"rel":"alternate","hrefLang":"fr","href":"https://visience.ro/fr/referencement/"}],["$","link","7",{"rel":"alternate","hrefLang":"x-default","href":"https://visience.ro/optimizare-seo/"}],["$","meta","8",{"property":"og:title","content":"Une visibilité dans Google qui tient — Visience"}],["$","meta","9",{"property":"og:description","content":"SEO technique, contenu et netlinking avec reporting mensuel. À partir de 600 € par mois."}],["$","meta","10",{"property":"og:url","content":"https://visience.ro/fr/referencement/"}],["$","meta","11",{"property":"og:locale","content":"fr_FR"}],["$","meta","12",{"property":"og:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Agenție de Marketing & Creare Site-uri în Iași | Visience"}],["$","meta","16",{"name":"twitter:description","content":"Branding, website-uri, magazine online, Google & Meta Ads, SEO. Prețuri publice, fără costuri ascunse."}],["$","meta","17",{"name":"twitter:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","link","18",{"rel":"icon","href":"/favicon.ico?favicon.04nd99rd6ooix.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","19",{"rel":"icon","href":"/icon.png?icon.3v2r-pcu8x6vx.png","sizes":"192x192","type":"image/png"}],["$","link","20",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2y52blaubq-q-.png","sizes":"180x180","type":"image/png"}],["$","$L26","21",{}]]
+25:null

@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-5:I[97367,["/_next/static/chunks/1q24nptxkwl6t.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+5:I[97367,["/_next/static/chunks/3d-sy7z0ug41-.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 6:"$Sreact.suspense"
 :HL["/_next/static/chunks/28or4npab1wgt.css","style"]
 2:T1107,<h2>1. Who we are</h2>
@@ -44,7 +44,7 @@
 <h2>12. Changes</h2>
 <p>Visience may update these terms. The current version is published on this page, with the date it was last updated.</p>
 <p>Last updated: 29 June 2026.</p>
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/en/","children":"Home"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Terms and Conditions"}]]}],["$","header",null,{"className":"blog-article__head","children":["$","h1",null,{"children":"Terms and Conditions"}]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$2"}}]]}]}],["$L3"],"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ycGl9jnQBTSVa_S0yZp7A"}
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/en/","children":"Home"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Terms and Conditions"}]]}],["$","header",null,{"className":"blog-article__head","children":["$","h1",null,{"children":"Terms and Conditions"}]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$2"}}]]}]}],["$L3"],"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"uVXcgOiOU2O5Cy2OXf2zC"}
 3:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/28or4npab1wgt.css","precedence":"next"}]
 4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
 7:null

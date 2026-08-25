@@ -1,0 +1,1083 @@
+1:"$Sreact.fragment"
+6:I[97367,["/_next/static/chunks/3d-sy7z0ug41-.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+2:Tc78,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/fr/google-meta-ads/#service","name":"Gestion de campagnes Google Ads et Meta Ads","serviceType":"Publicité en ligne","inLanguage":"fr","provider":{"@type":"Organization","name":"Visience","url":"https://visience.ro/fr/"},"areaServed":["FR","BE","CH","LU","RO"],"offers":[{"@type":"Offer","priceCurrency":"EUR","price":"400","itemOffered":{"@type":"Service","name":"Gestion de campagnes, par plateforme, mensuel"}},{"@type":"Offer","priceCurrency":"EUR","price":"400","itemOffered":{"@type":"Service","name":"Configuration de campagne et mesure, coût unique"}},{"@type":"Offer","priceCurrency":"EUR","price":"600","itemOffered":{"@type":"Service","name":"Remarketing et automatisations"}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Google Shopping"}}]},{"@type":"FAQPage","@id":"https://visience.ro/fr/google-meta-ads/#faq","mainEntity":[{"@type":"Question","name":"Quel est le budget publicitaire minimum ?","acceptedAnswer":{"@type":"Answer","text":"Le budget média est payé directement à Google et Meta, en dehors des honoraires de gestion. Nous recommandons au moins 500 € par mois et par plateforme comme point de départ, la fourchette 800 à 1.500 € par mois fonctionnant le mieux."}},{"@type":"Question","name":"Les honoraires de gestion incluent-ils le budget publicitaire ?","acceptedAnswer":{"@type":"Answer","text":"Non. Les honoraires de 400 € par mois et par plateforme et la configuration unique à 400 € couvrent la stratégie, les créations, la mise en place, l'optimisation et le reporting. Le budget publicitaire est payé directement aux plateformes."}},{"@type":"Question","name":"Sur quelles plateformes lancez-vous des campagnes ?","acceptedAnswer":{"@type":"Answer","text":"Google Ads sur Search, Display, Shopping et YouTube, ainsi que Facebook Ads et Instagram Ads. La combinaison dépend de l'endroit où se trouvent vos clients."}},{"@type":"Question","name":"En combien de temps arrivent les premiers résultats ?","acceptedAnswer":{"@type":"Answer","text":"Les premiers clics et demandes peuvent arriver en quelques jours. Les 2 à 3 premières semaines sont une phase d'apprentissage, et les résultats stables viennent après 4 à 6 semaines."}},{"@type":"Question","name":"Travaillez-vous avec des boutiques en ligne ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Nous mettons en place Google Shopping : Merchant Center, optimisation du flux produits, campagnes Smart ou Standard Shopping, combinées au remarketing et aux e-mails de panier abandonné."}},{"@type":"Question","name":"Comment rendez-vous compte des performances ?","acceptedAnswer":{"@type":"Answer","text":"Un rapport mensuel clair : impressions, clics, coût par clic, demandes ou ventes et coût par demande, avec ce qui a été optimisé et ce que nous proposons pour le mois suivant."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://visience.ro/fr/"},{"@type":"ListItem","position":2,"name":"Google & Meta Ads","item":"https://visience.ro/fr/google-meta-ads/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"uVXcgOiOU2O5Cy2OXf2zC"}
+5:T9ef6,<style>
+.ads-hero {
+  position: relative;
+  padding: calc(var(--nav-h) + 90px) 0 90px;
+  background: var(--cream);
+  overflow: hidden;
+}
+.ads-hero__inner {
+  display: grid;
+  grid-template-columns: 1.15fr 1fr;
+  gap: 70px;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+}
+.ads-hero__breadcrumbs {
+  font-family: var(--f-m);
+  font-size: 11px;
+  color: var(--mid);
+  letter-spacing: .06em;
+  margin-bottom: 24px;
+}
+.ads-hero__breadcrumbs a       { color: var(--mid); transition: color .2s; }
+.ads-hero__breadcrumbs a:hover { color: var(--acc-deep); }
+.ads-hero__breadcrumbs .sep    { margin: 0 10px; opacity: .4; }
+
+.ads-hero__h1 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(38px, 5.2vw, 70px);
+  line-height: .98;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 26px;
+}
+.ads-hero__h1 .acc {
+  background: var(--acc);
+  color: var(--acc-ink);
+  padding: 0 12px 4px;
+  border-radius: 10px;
+  display: inline-block;
+  line-height: 1.05;
+}
+.ads-hero__lead {
+  font-size: 17px;
+  line-height: 1.78;
+  color: var(--mid);
+  margin-bottom: 32px;
+  font-weight: 300;
+  max-width: 540px;
+}
+.ads-hero__pts {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-bottom: 36px;
+  max-width: 540px;
+}
+.ads-pt {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 14px;
+  color: var(--ink);
+  font-weight: 500;
+}
+.ads-pt-dot {
+  width: 18px; height: 18px;
+  background: var(--acc);
+  color: var(--acc-ink);
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 10px; font-weight: 700;
+  flex-shrink: 0; margin-top: 2px;
+}
+.ads-hero__cta {
+  display: flex; gap: 10px; flex-wrap: wrap;
+}
+
+.ads-hero__visual {
+  position: relative;
+  height: 480px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ads-hero__panel {
+  position: relative;
+  width: 100%;
+  max-width: 440px;
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  padding: 24px 22px 22px;
+  box-shadow: 0 30px 80px rgba(17,16,16,.08);
+  z-index: 2;
+}
+.ads-panel__bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 18px;
+}
+.ads-panel__title {
+  font-family: var(--f-d);
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--ink);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.ads-panel__title i { color: var(--acc-deep); font-size: 14px; }
+.ads-panel__live {
+  font-family: var(--f-m);
+  font-size: 9px;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: #1A8F30;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+.ads-panel__live::before {
+  content: '';
+  width: 7px; height: 7px;
+  border-radius: 50%;
+  background: #28C840;
+}
+.ads-panel__demo {
+  display: block;
+  font-family: var(--f-m);
+  font-size: 9px;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: rgba(255,255,255,.4);
+  margin-bottom: 10px;
+}
+.ads-panel__stats {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 10px;
+  margin-bottom: 18px;
+}
+.ads-panel__stat {
+  background: var(--cream);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 14px 12px;
+}
+.ads-panel__stat-num {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: 22px;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  line-height: 1;
+  margin-bottom: 6px;
+}
+.ads-panel__stat-num.acc { color: var(--acc-deep); }
+.ads-panel__stat-lbl {
+  font-family: var(--f-m);
+  font-size: 8px;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--light);
+}
+.ads-panel__chart {
+  background: var(--cream);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 16px 14px 12px;
+}
+.ads-panel__chart-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 12px;
+}
+.ads-panel__chart-lbl {
+  font-family: var(--f-m);
+  font-size: 9px;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--mid);
+}
+.ads-panel__chart-val {
+  font-family: var(--f-d);
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--acc-deep);
+}
+.ads-panel__bars {
+  display: flex;
+  align-items: flex-end;
+  gap: 7px;
+  height: 56px;
+}
+.ads-panel__bars span {
+  flex: 1;
+  background: var(--cream3);
+  border-radius: 3px 3px 0 0;
+}
+.ads-panel__bars span:nth-child(1) { height: 32%; }
+.ads-panel__bars span:nth-child(2) { height: 46%; }
+.ads-panel__bars span:nth-child(3) { height: 40%; }
+.ads-panel__bars span:nth-child(4) { height: 64%; }
+.ads-panel__bars span:nth-child(5) { height: 58%; }
+.ads-panel__bars span:nth-child(6) { height: 82%; background: var(--acc); }
+.ads-panel__bars span:nth-child(7) { height: 100%; background: var(--acc); }
+
+.ads-intro {
+  background: var(--white);
+  padding: 90px 0;
+  position: relative;
+}
+.ads-intro__inner {
+  max-width: 880px;
+  margin: 0 auto;
+}
+.ads-intro h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(28px, 3.5vw, 44px);
+  line-height: 1.1;
+  letter-spacing: -.025em;
+  color: var(--ink);
+  margin: 56px 0 18px;
+}
+.ads-intro h2:first-child { margin-top: 0; }
+.ads-intro p {
+  font-size: 16px;
+  line-height: 1.84;
+  color: var(--mid);
+  font-weight: 300;
+  margin-bottom: 16px;
+}
+.ads-intro p strong { color: var(--ink); font-weight: 600; }
+.ads-intro p a       { color: var(--acc-deep); border-bottom: 1px solid var(--acc); transition: opacity .2s; }
+.ads-intro p a:hover { opacity: .65; }
+
+.ads-include {
+  padding: 100px 0;
+  background: var(--cream);
+}
+.ads-include__head {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto 56px;
+}
+.ads-include__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(32px, 4vw, 52px);
+  line-height: 1.02;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 18px;
+}
+.ads-include__h2 .acc { color: var(--acc-deep); }
+.ads-include__sub {
+  font-size: 16px; line-height: 1.8;
+  color: var(--mid); font-weight: 300;
+}
+.ads-include__grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+.ads-icard {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 34px 28px 30px;
+  transition: .3s;
+}
+.ads-icard:hover {
+  border-color: rgba(155,195,26,.3);
+  transform: translateY(-5px);
+  box-shadow: 0 18px 40px rgba(17,16,16,.06);
+}
+.ads-icard__ico {
+  width: 50px; height: 50px;
+  border-radius: 13px;
+  background: var(--acc-bg);
+  color: var(--acc-deep);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 21px;
+  margin-bottom: 22px;
+  transition: .3s;
+}
+.ads-icard:hover .ads-icard__ico {
+  background: var(--acc);
+  color: var(--acc-ink);
+}
+.ads-icard h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: -.015em;
+  margin: 0 0 12px;
+  color: var(--ink);
+  line-height: 1.22;
+}
+.ads-icard p {
+  font-size: 13px;
+  color: var(--mid);
+  line-height: 1.7;
+  font-weight: 300;
+  margin: 0;
+}
+
+.ads-prices {
+  padding: 100px 0;
+  background: var(--white);
+}
+.ads-prices__head {
+  text-align: center;
+  max-width: 720px;
+  margin: 0 auto 56px;
+}
+.ads-prices__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(34px, 4.5vw, 60px);
+  line-height: 1.0;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 18px;
+}
+.ads-prices__h2 .acc { color: var(--acc-deep); }
+.ads-prices__sub {
+  font-size: 16px; line-height: 1.8;
+  color: var(--mid); font-weight: 300;
+}
+.ads-pkg-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  align-items: stretch;
+}
+.ads-pkg {
+  background: var(--cream);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 36px 32px 32px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  transition: .3s;
+}
+.ads-pkg:hover {
+  border-color: rgba(155,195,26,.3);
+  transform: translateY(-6px);
+  box-shadow: 0 20px 48px rgba(155,195,26,.08);
+}
+.ads-pkg.featured {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--white);
+}
+.ads-pkg.featured:hover { box-shadow: 0 24px 56px rgba(17,16,16,.2); }
+.ads-pkg__badge {
+  position: absolute;
+  top: -12px; left: 50%;
+  transform: translateX(-50%);
+  background: var(--acc);
+  color: var(--acc-ink);
+  font-family: var(--f-m);
+  font-size: 9px;
+  font-weight: 500;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  padding: 5px 14px;
+  border-radius: 100px;
+  white-space: nowrap;
+}
+.ads-pkg__name {
+  font-family: var(--f-m);
+  font-size: 11px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--mid);
+  margin-bottom: 8px;
+}
+.ads-pkg.featured .ads-pkg__name { color: rgba(255,255,255,.5); }
+.ads-pkg__price {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(36px, 4vw, 52px);
+  letter-spacing: -.04em;
+  line-height: 1;
+  color: var(--acc-deep);
+  margin-bottom: 4px;
+}
+.ads-pkg__price-note {
+  font-size: 12px;
+  color: var(--light);
+  margin-bottom: 22px;
+}
+.ads-pkg.featured .ads-pkg__price-note { color: rgba(255,255,255,.4); }
+.ads-pkg__desc {
+  font-size: 14px;
+  line-height: 1.7;
+  color: var(--mid);
+  margin-bottom: 26px;
+  font-weight: 300;
+  padding-bottom: 22px;
+  border-bottom: 1px solid var(--border);
+}
+.ads-pkg.featured .ads-pkg__desc {
+  color: rgba(255,255,255,.55);
+  border-bottom-color: rgba(255,255,255,.1);
+}
+.ads-pkg__feats {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 28px;
+  flex: 1;
+}
+.ads-pkg__feat {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 13px;
+  line-height: 1.55;
+  color: var(--ink);
+}
+.ads-pkg.featured .ads-pkg__feat { color: rgba(255,255,255,.85); }
+.ads-pkg__feat-tick {
+  color: var(--acc-deep);
+  flex-shrink: 0;
+  margin-top: 2px;
+  font-weight: 700;
+}
+.ads-pkg__note {
+  text-align: center;
+  max-width: 720px;
+  margin: 40px auto 0;
+  font-size: 13px;
+  line-height: 1.7;
+  color: var(--mid);
+  font-weight: 300;
+}
+.ads-pkg__note strong { color: var(--ink); font-weight: 600; }
+
+.ads-process {
+  padding: 100px 0;
+  background: var(--cream2);
+}
+.ads-process__head {
+  text-align: center;
+  max-width: 680px;
+  margin: 0 auto 56px;
+}
+.ads-process__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(32px, 4vw, 52px);
+  line-height: 1.02;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 18px;
+}
+.ads-process__h2 .acc { color: var(--acc-deep); }
+.ads-process__list {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+.ads-step {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  padding: 30px 28px;
+  transition: .3s;
+}
+.ads-step:hover {
+  border-color: rgba(155,195,26,.3);
+  transform: translateY(-4px);
+  box-shadow: 0 14px 28px rgba(17,16,16,.06);
+}
+.ads-step__n {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: 36px;
+  color: var(--acc-deep);
+  letter-spacing: -.03em;
+  line-height: 1;
+  margin-bottom: 16px;
+}
+.ads-step h3 {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.015em;
+  margin: 0 0 10px;
+  color: var(--ink);
+  line-height: 1.2;
+}
+.ads-step p {
+  font-size: 13px;
+  color: var(--mid);
+  line-height: 1.7;
+  font-weight: 300;
+  margin: 0;
+}
+
+.ads-faq {
+  padding: 100px 0;
+  background: var(--white);
+}
+.ads-faq__head {
+  text-align: center;
+  max-width: 640px;
+  margin: 0 auto 50px;
+}
+.ads-faq__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(28px, 3.6vw, 44px);
+  line-height: 1.04;
+  letter-spacing: -.03em;
+  color: var(--ink);
+  margin-bottom: 18px;
+}
+.ads-faq__h2 .acc { color: var(--acc-deep); }
+.ads-faq__list {
+  max-width: 860px;
+  margin: 0 auto;
+  border-top: 1px solid var(--border);
+}
+.ads-faq-item {
+  border-bottom: 1px solid var(--border);
+  padding: 24px 0;
+}
+.ads-faq-item summary {
+  font-family: var(--f-d);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -.01em;
+  color: var(--ink);
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding-right: 8px;
+  transition: color .22s;
+}
+.ads-faq-item summary::-webkit-details-marker { display: none; }
+.ads-faq-item summary::after {
+  content: '+';
+  font-family: var(--f-d);
+  font-size: 26px;
+  font-weight: 300;
+  color: var(--acc-deep);
+  transition: transform .3s;
+  flex-shrink: 0;
+  line-height: 1;
+}
+.ads-faq-item[open] summary::after { transform: rotate(45deg); }
+.ads-faq-item:hover summary { color: var(--acc-deep); }
+.ads-faq-item p {
+  margin-top: 14px;
+  font-size: 14px;
+  color: var(--mid);
+  line-height: 1.78;
+  font-weight: 300;
+  max-width: 760px;
+}
+.ads-faq-item p strong { color: var(--ink); font-weight: 600; }
+
+.ads-cta {
+  padding: 110px 0;
+  background: var(--ink);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.ads-cta::before {
+  content: '';
+  position: absolute;
+  top: -120px; right: -120px;
+  width: 440px; height: 440px;
+  background: radial-gradient(circle, rgba(155,195,26,.22) 0%, transparent 70%);
+  pointer-events: none;
+}
+.ads-cta > .wrap { position: relative; z-index: 1; }
+.ads-cta__h2 {
+  font-family: var(--f-d);
+  font-weight: 800;
+  font-size: clamp(34px, 5vw, 64px);
+  line-height: 1.0;
+  letter-spacing: -.03em;
+  color: var(--white);
+  margin-bottom: 20px;
+}
+.ads-cta__h2 .acc {
+  background: linear-gradient(135deg, var(--acc) 0%, var(--acc2) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.ads-cta__p {
+  font-size: 16px;
+  color: rgba(255,255,255,.5);
+  font-weight: 300;
+  max-width: 540px;
+  margin: 0 auto 32px;
+  line-height: 1.78;
+}
+.ads-cta__btns {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 1024px) {
+  .ads-hero { padding: calc(var(--nav-h) + 60px) 0 70px; }
+  .ads-hero__inner { grid-template-columns: 1fr; gap: 50px; }
+  .ads-hero__visual { height: auto; order: -1; }
+  .ads-intro { padding: 70px 0; }
+  .ads-include { padding: 80px 0; }
+  .ads-include__grid { grid-template-columns: repeat(2, 1fr); }
+  .ads-prices { padding: 80px 0; }
+  .ads-pkg-grid { grid-template-columns: 1fr; gap: 20px; }
+  .ads-pkg.featured { transform: none; }
+  .ads-process { padding: 80px 0; }
+  .ads-process__list { grid-template-columns: repeat(2, 1fr); }
+  .ads-faq { padding: 70px 0; }
+  .ads-cta { padding: 80px 0; }
+}
+
+@media (max-width: 640px) {
+  .ads-hero__pts { grid-template-columns: 1fr; }
+  .ads-hero__cta { flex-direction: column; }
+  .ads-hero__cta .btn { justify-content: center; }
+  .ads-include__grid { grid-template-columns: 1fr; }
+  .ads-process__list { grid-template-columns: 1fr; }
+  .ads-pkg { padding: 28px 24px 26px; }
+  .ads-faq-item summary { font-size: 15px; }
+  .ads-cta__btns { flex-direction: column; }
+  .ads-cta__btns .btn { justify-content: center; }
+}
+.ads-rez { padding: clamp(64px,9vw,104px) 0; background: var(--cream); }
+.ads-rez__head { max-width: 760px; margin-bottom: 42px; }
+.ads-rez__head h2 { font-family: var(--f-d); font-weight: 700; font-size: clamp(26px,3.4vw,38px); line-height: 1.15; letter-spacing: -.02em; color: var(--ink); margin: 0 0 14px; }
+.ads-rez__head p { font-size: 16.5px; line-height: 1.7; color: var(--ink2); margin: 0; }
+.ads-rez__grid { display: grid; grid-template-columns: 1.15fr 1fr 1fr; gap: 20px; align-items: stretch; }
+.ads-rez__c { background: var(--white); border-radius: 16px; padding: 30px 28px; display: flex; flex-direction: column; }
+.ads-rez__n { font-family: var(--f-d); font-weight: 700; font-size: 19px; color: var(--ink); margin: 0 0 4px; }
+.ads-rez__loc { font-size: 13px; color: var(--mid); margin: 0 0 22px; }
+.ads-rez__cifre { display: flex; gap: 30px; flex-wrap: wrap; margin-bottom: 20px; }
+.ads-rez__v { font-family: var(--f-d); font-weight: 700; font-size: clamp(30px,3.4vw,40px); line-height: 1; letter-spacing: -.03em; color: var(--acc-deep); display: block; }
+.ads-rez__e { display: block; margin-top: 7px; font-size: 13px; line-height: 1.45; color: var(--ink2); max-width: 15ch; }
+.ads-rez__u { margin-top: auto; font-family: var(--f-m); font-size: 12px; color: var(--mid); word-break: break-all; }
+.ads-rez__nota { margin-top: 26px; font-size: 13.5px; line-height: 1.65; color: var(--mid); max-width: 74ch; }
+@media (max-width: 1000px) { .ads-rez__grid { grid-template-columns: 1fr; } .ads-rez__e { max-width: none; } }
+</style>
+
+
+<main id="main">
+
+<section class="ads-hero" aria-labelledby="ads-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="20%" x2="100%" y2="60%"/>
+      <line x1="0" y1="50%" x2="100%" y2="90%"/>
+      <line x1="0" y1="80%" x2="100%" y2="30%"/>
+      <line x1="25%" y1="0" x2="75%" y2="100%"/>
+      <line x1="60%" y1="0" x2="10%" y2="100%"/>
+    </svg>
+  </div>
+
+  <div class="wrap">
+    <div class="ads-hero__inner">
+
+      <div class="rv">
+        <nav class="ads-hero__breadcrumbs" aria-label="Fil d'Ariane">
+          <a href="/fr/">Accueil</a>
+          <span class="sep">/</span>
+          <a href="/fr/#services">Services</a>
+          <span class="sep">/</span>
+          <span>Google &amp; Meta Ads</span>
+        </nav>
+
+
+        <h1 class="ads-hero__h1" id="ads-h1">
+          Des campagnes qui amènent<br>
+          <span class="acc">des clients, pas seulement des clics.</span>
+        </h1>
+
+        <p class="ads-hero__lead">
+          Nous configurons et optimisons vos campagnes Google Ads, Facebook et Instagram Ads sur votre audience exacte : génération de leads, remarketing et Google Shopping. Nous travaillons sur les demandes et le coût par demande, pas sur des chiffres de vanité.
+        </p>
+
+        <div class="ads-hero__pts">
+          <div class="ads-pt"><span class="ads-pt-dot">✓</span><span>Ciblage précis de l'audience</span></div>
+          <div class="ads-pt"><span class="ads-pt-dot">✓</span><span>Suivi des conversions fiable</span></div>
+          <div class="ads-pt"><span class="ads-pt-dot">✓</span><span>Remarketing &amp; automatisations</span></div>
+          <div class="ads-pt"><span class="ads-pt-dot">✓</span><span>Rapport mensuel transparent</span></div>
+        </div>
+
+        <div class="ads-hero__cta">
+          <a href="/fr/contact/" class="btn btn-solid">Demander un devis</a>
+          <a href="tel:+40771486499" class="btn btn-ghost">Appelez : +40 771 486 499</a>
+        </div>
+      </div>
+
+      <div class="ads-hero__visual rv rv-d2">
+        <div class="ads-hero__panel" aria-hidden="true">
+          <div class="ads-panel__bar">
+            <span class="ads-panel__title"><i class="fa-solid fa-chart-line"></i> Performance des campagnes</span>
+            <span class="ads-panel__live">Actif</span>
+          </div>
+          <span class="ads-panel__demo">exemple d'interface</span>
+          <div class="ads-panel__stats">
+            <div class="ads-panel__stat">
+              <div class="ads-panel__stat-num">14.2k</div>
+              <div class="ads-panel__stat-lbl">Impressions</div>
+            </div>
+            <div class="ads-panel__stat">
+              <div class="ads-panel__stat-num">486</div>
+              <div class="ads-panel__stat-lbl">Clics</div>
+            </div>
+            <div class="ads-panel__stat">
+              <div class="ads-panel__stat-num acc">62</div>
+              <div class="ads-panel__stat-lbl">Leads</div>
+            </div>
+          </div>
+          <div class="ads-panel__chart">
+            <div class="ads-panel__chart-top">
+              <span class="ads-panel__chart-lbl">Conversions / semaine</span>
+              <span class="ads-panel__chart-val"></span>
+            </div>
+            <div class="ads-panel__bars">
+              <span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="ads-intro" aria-labelledby="ads-intro-h2">
+  <div class="wrap">
+    <div class="ads-intro__inner rv">
+
+      <h2 id="ads-intro-h2">Agence Google Ads &amp; Meta Ads pour des résultats mesurables</h2>
+      <p>
+        <strong>Visience</strong> est une <strong>agence de publicité en ligne basée à Iași</strong> qui construit des campagnes PPC sur <strong>Google Ads</strong>, <strong>Facebook</strong> et <strong>Instagram Ads</strong>, tournées vers une seule chose : <strong>des clients réels et des ventes</strong>. Nous ne dépensons pas un budget « pour faire acte de présence » — chaque campagne a des objectifs clairs, un suivi des conversions et une stratégie d'enchères pensée pour le profit, pas pour des clics vides.
+      </p>
+      <p>
+        Nous couvrons tout le spectre : la <strong>génération de leads</strong> pour les services et le B2B, le <strong>remarketing et les automatisations</strong> qui récupèrent les visiteurs qui n'ont pas acheté, et <strong>Google Shopping</strong> pour les boutiques en ligne qui veulent afficher leurs produits directement dans les résultats Google. Nous travaillons avec des clients d'Iași et de tout le pays. <a href="/fr/contact/">Demandez un devis personnalisé →</a>
+      </p>
+
+      <h2>Le budget publicitaire est séparé du coût de gestion</h2>
+      <p>
+        Soyons clairs dès le départ : <strong>notre tarif de gestion couvre la stratégie, la création des annonces, la mise en place, l'optimisation et le reporting</strong>. L'argent que vous dépensez réellement en publicité est payé <strong>directement à Google et à Meta</strong> et reste séparé du coût de la collaboration avec nous. Vous gardez ainsi le contrôle total du budget média et une facture transparente, sans commissions cachées.
+      </p>
+      <p>
+        Nous recommandons le budget média en fonction de vos objectifs et de votre marché, et vous décidez du montant investi chaque mois sur les plateformes. <a href="#ads-faq">Voir les questions fréquentes →</a>
+      </p>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="ads-include" aria-labelledby="ads-include-h2">
+  <div class="wrap">
+
+    <div class="ads-include__head rv">
+      <h2 class="ads-include__h2" id="ads-include-h2">Tout ce qu'implique une campagne <span class="acc">qui performe</span></h2>
+      <p class="ads-include__sub">
+        De la première analyse d'audience jusqu'au rapport mensuel, nous prenons vos campagnes entièrement en charge. Vous recevez des résultats, pas des complications.
+      </p>
+    </div>
+
+    <div class="ads-include__grid rv rv-d1">
+      <div class="ads-icard">
+        <div class="ads-icard__ico"><i class="fa-solid fa-bullseye"></i></div>
+        <h3>Stratégie &amp; audiences</h3>
+        <p>Nous analysons le marché, fixons les objectifs et construisons les audiences exactes sur lesquelles il vaut la peine d'investir : par centres d'intérêt, comportement, localisation et intention d'achat.</p>
+      </div>
+      <div class="ads-icard">
+        <div class="ads-icard__ico"><i class="fa-solid fa-pen-nib"></i></div>
+        <h3>Création des annonces</h3>
+        <p>Nous réalisons le contenu visuel et le texte publicitaire pour Google, Facebook et Instagram. Des annonces qui arrêtent le scroll et disent clairement ce que vous proposez.</p>
+      </div>
+      <div class="ads-icard">
+        <div class="ads-icard__ico"><i class="fa-solid fa-gauge-high"></i></div>
+        <h3>Mise en place &amp; tracking</h3>
+        <p>Nous configurons correctement les campagnes, les conversions et les pixels (Google Tag, Meta Pixel) pour mesurer exactement ce qui apporte des ventes, pas seulement du trafic.</p>
+      </div>
+      <div class="ads-icard">
+        <div class="ads-icard__ico"><i class="fa-solid fa-chart-pie"></i></div>
+        <h3>Optimisation &amp; reporting</h3>
+        <p>Nous ajustons en continu les enchères, les audiences et les annonces, puis nous vous envoyons un rapport mensuel clair avec le coût par lead, les conversions et la source de chaque demande.</p>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
+<section class="ads-rez" aria-labelledby="ads-rez-h">
+  <div class="wrap">
+    <div class="ads-rez__head rv">
+      <h2 id="ads-rez-h">Résultats sur des ensembles résidentiels</h2>
+      <p>
+        Les chiffres viennent de campagnes que nous avons menées de bout en bout : la page d'offre, les campagnes
+        Google et Meta, et les leads regroupés dans un seul tableau puis transmis à l'équipe commerciale.
+      </p>
+    </div>
+
+    <div class="ads-rez__grid rv rv-d2">
+
+      <div class="ads-rez__c">
+        <p class="ads-rez__n">Evergreen Towers</p>
+        <p class="ads-rez__loc">Ensemble résidentiel · Iași</p>
+        <div class="ads-rez__cifre">
+          <div><b class="ads-rez__v">6.600+</b><span class="ads-rez__e">leads en 3 ans</span></div>
+          <div><b class="ads-rez__v">400+</b><span class="ads-rez__e">appartements vendus en 3 ans</span></div>
+        </div>
+        <p class="ads-rez__u">evergreentowers.ro/oferta</p>
+      </div>
+
+      <div class="ads-rez__c">
+        <p class="ads-rez__n">Picolina Bucium</p>
+        <p class="ads-rez__loc">Ensemble résidentiel · Iași</p>
+        <div class="ads-rez__cifre">
+          <div><b class="ads-rez__v">1.000+</b><span class="ads-rez__e">leads en 5 mois</span></div>
+        </div>
+        <p class="ads-rez__u">picolina.ro/oferta-blocuri</p>
+      </div>
+
+      <div class="ads-rez__c">
+        <p class="ads-rez__n">Armur Design</p>
+        <p class="ads-rez__loc">Ensemble résidentiel Galata · Iași</p>
+        <div class="ads-rez__cifre">
+          <div><b class="ads-rez__v">600+</b><span class="ads-rez__e">leads en 5 mois</span></div>
+          <div><b class="ads-rez__v">10</b><span class="ads-rez__e">maisons à 350.000 € vendues en 5 mois</span></div>
+        </div>
+        <p class="ads-rez__u">armurdesign.ro/ansamblul-rezidential-galata</p>
+      </div>
+
+    </div>
+
+    <p class="ads-rez__nota rv">
+      Evergreen Towers et Picolina ont été menés en collaboration avec Vistory. Les résultats des projets
+      sur lesquels nous travaillons actuellement sont montrés sur demande, dans les comptes du client, avec son accord.
+    </p>
+  </div>
+</section>
+
+
+<section class="ads-prices" id="prices" aria-labelledby="ads-prices-h2">
+  <div class="wrap">
+
+    <div class="ads-prices__head rv">
+      <h2 class="ads-prices__h2" id="ads-prices-h2">
+        Tarifs de gestion des campagnes —<br><span class="acc">clairs, sans surprises</span>
+      </h2>
+      <p class="ads-prices__sub">
+        Les tarifs ci-dessous concernent la gestion des campagnes. Le budget versé aux plateformes (Google / Meta) est séparé. Vous recevez un devis personnalisé sous 24 heures.
+      </p>
+    </div>
+
+    <div class="ads-pkg-grid">
+
+      <div class="ads-pkg featured rv">
+        <span class="ads-pkg__badge">Recommandé</span>
+        <div class="ads-pkg__name">Remarketing &amp; automatisations</div>
+        <div class="ads-pkg__price">600€</div>
+        <div class="ads-pkg__price-note">Gestion de campagne</div>
+        <p class="ads-pkg__desc">
+          Récupérez les visiteurs qui n'ont pas acheté et augmentez le taux de conversion avec des annonces personnalisées et des e-mails automatiques. Le meilleur rapport résultat/investissement.
+        </p>
+        <div class="ads-pkg__feats">
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Annonces personnalisées Google + Facebook</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>E-mails de relance automatiques</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>E-mail de panier abandonné</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Ciblage sur l'historique de navigation</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Optimisation continue</span></div>
+        </div>
+        <a href="/fr/contact/" class="btn btn-solid" style="justify-content:center">Demander le devis</a>
+      </div>
+
+      <div class="ads-pkg rv rv-d1">
+        <div class="ads-pkg__name">Google Shopping</div>
+        <div class="ads-pkg__price">500€</div>
+        <div class="ads-pkg__price-note">Gestion de campagne</div>
+        <p class="ads-pkg__desc">
+          Pour les boutiques en ligne : nous affichons vos produits directement dans Google, devant des clients à forte intention d'achat.
+        </p>
+        <div class="ads-pkg__feats">
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Mise en place de Google Merchant Center</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Optimisation du flux produits</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Smart ou Standard Shopping</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Stratégie d'enchères optimisée</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Suivi &amp; optimisation mensuelle</span></div>
+        </div>
+        <a href="/fr/contact/" class="btn btn-ghost" style="justify-content:center">Demander le devis</a>
+      </div>
+
+      <div class="ads-pkg rv rv-d2">
+        <div class="ads-pkg__name">Gestion des campagnes Google &amp; Meta</div>
+        <div class="ads-pkg__price">400€</div>
+        <div class="ads-pkg__price-note">Par mois, par plateforme · 3 mois minimum</div>
+        <p class="ads-pkg__desc">
+          Nous prenons entièrement en charge vos campagnes sur Google Ads ou Meta : stratégie, création, optimisation et reporting. Le budget média se paie séparément, directement aux plateformes.
+        </p>
+        <div class="ads-pkg__feats">
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Stratégie et structure de campagne</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Créations incluses (visuel + texte)</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Optimisation hebdomadaire des enchères et des audiences</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Rapport mensuel avec le coût par lead et la source des demandes</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Collaboration sur 3 mois minimum</span></div>
+        </div>
+        <a href="/fr/contact/" class="btn btn-ghost" style="justify-content:center">Demander le devis</a>
+      </div>
+
+      <div class="ads-pkg rv rv-d2" style="grid-column:1/-1">
+        <div class="ads-pkg__name">Mise en place campagne &amp; tracking</div>
+        <div class="ads-pkg__price">400€</div>
+        <div class="ads-pkg__price-note">Coût unique, au début de la collaboration</div>
+        <p class="ads-pkg__desc" style="border-bottom:none;padding-bottom:0;margin-bottom:18px">
+          La fondation technique de toute campagne : nous configurons les comptes, installons les pixels et définissons les conversions, pour que chaque euro investi soit mesuré correctement.
+        </p>
+        <div class="ads-pkg__feats" style="flex-direction:row;flex-wrap:wrap;gap:10px 28px;margin-bottom:0">
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Configuration du compte Google Ads / Meta</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Installation de Google Tag &amp; Meta Pixel</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Configuration des conversions</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Intégration GA4</span></div>
+        </div>
+      </div>
+
+    </div>
+
+    <p class="ads-pkg__note rv">
+      <strong>Important :</strong> les tarifs ci-dessus couvrent la stratégie, la création, la mise en place, l'optimisation et le reporting des campagnes. <strong>Le budget publicitaire</strong> (les sommes réellement dépensées en annonces) est versé directement à Google et à Meta et n'est pas inclus dans le coût de gestion.
+    </p>
+
+  </div>
+</section>
+
+
+<section class="ads-process" aria-labelledby="ads-process-h2">
+  <div class="wrap">
+
+    <div class="ads-process__head rv">
+      <h2 class="ads-process__h2" id="ads-process-h2">Du brief aux <span class="acc">premières conversions</span></h2>
+    </div>
+
+    <div class="ads-process__list rv rv-d1">
+      <article class="ads-step">
+        <div class="ads-step__n">01</div>
+        <h3>Analyse &amp; stratégie</h3>
+        <p>Nous comprenons l'activité, l'offre et le client idéal. Nous fixons les objectifs, les plateformes adaptées et les audiences sur lesquelles il vaut la peine d'investir.</p>
+      </article>
+      <article class="ads-step">
+        <div class="ads-step__n">02</div>
+        <h3>Création &amp; mise en place</h3>
+        <p>Nous réalisons les annonces (visuel + texte), configurons les campagnes, les conversions et le tracking comme il faut sur Google et Meta.</p>
+      </article>
+      <article class="ads-step">
+        <div class="ads-step__n">03</div>
+        <h3>Lancement &amp; tests</h3>
+        <p>Nous lançons les campagnes et testons plusieurs variantes d'annonces et d'audiences pour trouver ce qui donne les meilleurs résultats.</p>
+      </article>
+      <article class="ads-step">
+        <div class="ads-step__n">04</div>
+        <h3>Optimisation &amp; rapport</h3>
+        <p>Nous optimisons en continu et vous envoyons chaque mois un rapport clair : coût par lead, conversions, ventes et prochaines étapes.</p>
+      </article>
+    </div>
+
+  </div>
+</section>
+
+
+<section class="ads-faq" id="ads-faq" aria-labelledby="ads-faq-h2">
+  <div class="wrap">
+
+    <div class="ads-faq__head rv">
+      <h2 class="ads-faq__h2" id="ads-faq-h2">Ce qu'il faut savoir sur les <span class="acc">campagnes payantes</span></h2>
+    </div>
+
+    <div class="ads-faq__list rv rv-d1">
+
+      <details class="ads-faq-item">
+        <summary>Quel est le budget publicitaire minimum ?</summary>
+        <p>Le budget média est versé directement à Google et à Meta et reste séparé du coût de gestion. Nous recommandons <strong>au moins 500 €/mois</strong> par plateforme comme point de départ, et pour des résultats constants la fourchette <strong>800-1.500 €/mois</strong> fonctionne le mieux. Plus le budget est élevé et régulier, plus le coût par lead baisse, parce que les algorithmes disposent de plus de données pour optimiser. Nous vous recommandons le budget exact une fois que nous comprenons votre activité.</p>
+      </details>
+
+      <details class="ads-faq-item">
+        <summary>Le coût de gestion inclut-il le budget publicitaire ?</summary>
+        <p><strong>Non.</strong> Le tarif de gestion (<strong>400 €/mois par plateforme</strong>) et le coût unique de mise en place (<strong>400€</strong>) couvrent la stratégie, la création des annonces, l'implémentation, l'optimisation et le reporting. <strong>Le budget publicitaire</strong> — l'argent réellement dépensé en annonces — est versé directement à Google et à Meta, depuis votre compte, et reste totalement séparé du coût de la collaboration avec nous. Vous gardez ainsi le contrôle total du budget média et une transparence complète.</p>
+      </details>
+
+      <details class="ads-faq-item">
+        <summary>Sur quelles plateformes lancez-vous des campagnes ?</summary>
+        <p>Nous lançons des campagnes sur <strong>Google Ads</strong> (Search, Display, Shopping, YouTube), sur <strong>Facebook Ads</strong> et sur <strong>Instagram Ads</strong>. Nous choisissons la combinaison adaptée selon l'endroit où se trouvent vos clients : Google pour ceux qui cherchent activement un service ou un produit, Meta pour les attirer et faire du remarketing. Pour les boutiques en ligne, nous recommandons Google Shopping, qui touche les clients à forte intention d'achat.</p>
+      </details>
+
+      <details class="ads-faq-item">
+        <summary>Combien de temps avant les premiers résultats ?</summary>
+        <p>Les campagnes peuvent générer les premiers clics et les premiers leads en <strong>quelques jours</strong> après le lancement. Cela dit, les 2-3 premières semaines sont une phase d'apprentissage : nous testons des annonces, des audiences et des enchères pour trouver ce qui fonctionne. Des résultats stables et un coût par lead optimisé apparaissent en général après <strong>4-6 semaines</strong> de diffusion et d'optimisation continue.</p>
+      </details>
+
+      <details class="ads-faq-item">
+        <summary>Travaillez-vous avec des boutiques en ligne (Shopping) ?</summary>
+        <p>Oui. Pour les boutiques en ligne, nous configurons <strong>Google Shopping</strong> : mise en place de Google Merchant Center, optimisation du flux produits, campagnes Smart ou Standard Shopping et une stratégie d'enchères pensée pour le profit. Nous combinons Shopping avec le remarketing et les e-mails de panier abandonné pour récupérer les ventes perdues. Si vous n'avez pas encore de boutique, nous pouvons aussi vous aider avec <a href="/fr/boutique-en-ligne/">la création d'une boutique en ligne</a>.</p>
+      </details>
+
+      <details class="ads-faq-item">
+        <summary>Comment rendez-vous compte des performances ?</summary>
+        <p>Vous recevez un <strong>rapport mensuel clair</strong>, sans jargon : impressions, clics, coût par clic, leads ou ventes et coût par lead. Nous ne nous cachons pas derrière des « chiffres de vanité » — nous regardons ce qui compte vraiment pour votre activité. Nous vous expliquons ce que nous avons optimisé, ce qui a fonctionné et ce que nous proposons pour le mois suivant.</p>
+      </details>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="ads-cta" aria-labelledby="ads-cta-h2">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="ads-cta__h2" id="ads-cta-h2">
+        Prêt à attirer<br>
+        <span class="acc">des clients avec les Ads ?</span>
+      </h2>
+      <p class="ads-cta__p">
+        Parlez-nous de votre activité et vous recevez un devis personnalisé sous 24 heures maximum. Conseil gratuit, sans engagement.
+      </p>
+      <div class="ads-cta__btns">
+        <a href="/fr/contact/" class="btn btn-solid">Demander un devis</a>
+        <a href="tel:+40771486499" class="btn btn-dark">Appelez maintenant : +40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Services connexes et tarifs transparents">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Sans tarifs cachés</span>
+      <h2>Vous voyez exactement ce que vous payez.</h2>
+      <p>Nous ne travaillons pas avec des tarifs cachés ni des surprises sur la facture. Tous nos forfaits et tous nos tarifs sont publics. Vous choisissez en connaissance de cause, sans pression.</p>
+      <a href="/fr/tarifs/" class="rel-trans__link">Voir tous les tarifs <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Continuer avec</div>
+      <div class="rel-links__grid">
+        <a href="/fr/referencement/" class="rel-link"><span class="rel-link__name">SEO & contenu <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Vous arrivez en première page de Google, en organique.</span></a>
+        <a href="/fr/reseaux-sociaux/" class="rel-link"><span class="rel-link__name">Réseaux sociaux <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Stratégie, contenu et gestion des réseaux.</span></a>
+        <a href="/fr/boutique-en-ligne/" class="rel-link"><span class="rel-link__name">Création de boutique en ligne <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">WooCommerce et Shopify optimisés pour la vente.</span></a>
+        <a href="/fr/portfolio/" class="rel-link"><span class="rel-link__name">Portfolio <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Des projets réels livrés par notre équipe.</span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+3:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$5"}}]
+4:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

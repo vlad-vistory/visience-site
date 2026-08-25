@@ -1,0 +1,50 @@
+1:"$Sreact.fragment"
+5:I[97367,["/_next/static/chunks/3d-sy7z0ug41-.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+:HL["/_next/static/chunks/28or4npab1wgt.css","style"]
+2:T1386,<h2>1. Qui sommes-nous</h2>
+<p>Le site www.visience.ro est exploité par <strong>Visience Creative Experience SRL</strong>, dont le siège se trouve Bulevardul Nicolae Iorga 18, Iași 700224, Roumanie, numéro d'identification fiscale RO44755311, ci-après « Visience ». Vous pouvez nous écrire à <a href="mailto:contact@visience.ro">contact@visience.ro</a> ou nous appeler au +40 771 486 499.</p>
+
+<h2>2. Acceptation des conditions</h2>
+<p>En accédant à ce site et en l'utilisant, comme en demandant un devis ou en faisant appel à nos services, vous acceptez les présentes Conditions générales. Si vous ne les acceptez pas, merci de ne pas utiliser le site.</p>
+<p>Ce document se complète avec la <a href="/fr/confidentialite/">Politique de confidentialité</a> et la <a href="/fr/cookies/">Politique de cookies</a>.</p>
+
+<h2>3. Nos services</h2>
+<p>Visience propose des services de marketing digital et de développement web, notamment : création de sites vitrines, boutiques en ligne, branding et identité visuelle, gestion des réseaux sociaux, campagnes Google et Meta Ads, référencement naturel, content marketing et développement logiciel.</p>
+<p>Le détail de chaque service, ainsi que le contenu des offres, sont présentés sur les pages dédiées du site et dans le devis transmis à chaque client.</p>
+
+<h2>4. Devis et tarifs</h2>
+<p>Les prix publiés sur le site, y compris sur la page <a href="/fr/tarifs/">Tarifs</a>, sont exprimés en euros et représentent des niveaux de départ pour chaque type de projet. Le prix final est fixé dans le devis personnalisé, selon la complexité et les exigences du projet, et il est confirmé par écrit avant le début du travail.</p>
+<p>Nous ne facturons aucun coût caché : tout ce que vous payez est indiqué dans le devis avant toute signature et avant tout versement.</p>
+
+<h2>5. Paiement</h2>
+<p>Les modalités et les délais de paiement sont fixés par le devis accepté ou par le contrat. En règle générale, les projets se règlent par un acompte au démarrage des travaux et le solde à la livraison, sauf accord écrit contraire.</p>
+
+<h2>6. Livraison et réception des projets</h2>
+<p>Les délais de livraison sont estimés dans le devis et dépendent de la complexité du projet ainsi que de la rapidité avec laquelle le client fournit les éléments et les retours nécessaires. Le projet est considéré comme réceptionné après confirmation du client ou, faute de réponse, dans un délai de 10 jours ouvrés à compter de la livraison.</p>
+
+<h2>7. Propriété intellectuelle</h2>
+<p>Le contenu de ce site (textes, graphismes, logos, images, code) appartient à Visience ou à ses partenaires et il est protégé par la législation sur le droit d'auteur. Toute reproduction sans accord écrit est interdite.</p>
+<p>Les droits sur les livrables réalisés pour le client (site, identité visuelle, supports graphiques) sont transférés au client après le paiement intégral du projet, sauf accord contractuel contraire. Visience se réserve le droit de présenter les projets achevés dans son propre portfolio.</p>
+
+<h2>8. Obligations du client</h2>
+<p>Le client s'engage à fournir des informations exactes et complètes, les éléments nécessaires au projet (textes, images, accès aux comptes le cas échéant) et à détenir les droits d'utilisation sur les éléments transmis. Visience n'est pas responsable du contenu fourni par le client.</p>
+
+<h2>9. Limitation de responsabilité</h2>
+<p>Visience met tout en œuvre pour des services de qualité, mais ne peut pas garantir des résultats commerciaux précis (positions dans les moteurs de recherche, volume de ventes ou de contacts), ceux-ci dépendant de facteurs externes. La responsabilité de Visience est limitée au montant des services commandés.</p>
+<p>Le site peut contenir des liens vers des sites tiers. Visience n'est pas responsable de leur contenu ni de leurs pratiques.</p>
+
+<h2>10. Protection des données</h2>
+<p>Le traitement des données à caractère personnel est décrit dans la <a href="/fr/confidentialite/">Politique de confidentialité</a> et sur la page <a href="/fr/contact/">RGPD</a>.</p>
+
+<h2>11. Loi applicable et règlement des litiges</h2>
+<p>Les présentes Conditions générales sont régies par la loi roumaine. Tout désaccord se règle à l'amiable et, si cela n'est pas possible, devant les tribunaux compétents de Iași.</p>
+<p>Les consommateurs peuvent s'adresser à l'Autorité nationale pour la protection des consommateurs (<a href="https://anpc.ro/" target="_blank" rel="noopener noreferrer">anpc.ro</a>) ou à la plateforme européenne de règlement en ligne des litiges (<a href="https://ec.europa.eu/consumers/odr/" target="_blank" rel="noopener noreferrer">SOL</a>).</p>
+
+<h2>12. Modifications</h2>
+<p>Visience peut mettre à jour ces conditions. La version en vigueur est publiée sur cette page, avec la date de la dernière mise à jour.</p>
+<p>Dernière mise à jour : 29 juin 2026.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Fil d'Ariane","children":[["$","a",null,{"href":"/fr/","children":"Accueil"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Conditions générales"}]]}],["$","header",null,{"className":"blog-article__head","children":["$","h1",null,{"children":"Conditions générales"}]}],["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$2"}}]]}]}],["$L3"],"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"uVXcgOiOU2O5Cy2OXf2zC"}
+3:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/28or4npab1wgt.css","precedence":"next"}]
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

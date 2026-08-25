@@ -1,0 +1,1863 @@
+1:"$Sreact.fragment"
+d:I[68027,["/_next/static/chunks/3d-sy7z0ug41-.js","/_next/static/chunks/24ag4weogx3og.js"],"default",1]
+:HL["/_next/static/chunks/16fat-5-gaue_.css","style"]
+:HL["/_next/static/media/0da9c7f357bd9d4d-s.p.1975l3y3401x_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2094fb60fd9c8287-s.p.3qxy1tqak831c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/47fe1b7cd6e6ed85-s.p.3bh2vc0w-r-ll.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5f9d24ebef5d5292-s.p.19xuq3td7fwu_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6c55a692938ebbbc-s.p.1emuuracu50qd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/798ea22d9983e047-s.p.3go-kn2r40gie.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/829ba4228c966254-s.p.2mm3nq9i83l-m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8cf1ea7b03cdeb83-s.p.3dbq0oou7i_24.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8e6fa89aa22d24ec-s.p.2o7m9ogm38dql.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a218039a3287bcfd-s.p.43zbiuwnnoiok.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c875c6f5d3e977ac-s.p.1h18_wedhzk4h.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e2334d715941921e-s.p.3o_v2fun1jzxk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css","style"]
+2:["$","link",null,{"rel":"stylesheet","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}]
+3:T5c7,(function(){
+  window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}window.gtag=gtag;
+  var K='visience-consent',c=null;try{c=localStorage.getItem(K);}catch(e){}
+  gtag('consent','default',{ad_storage:'denied',analytics_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',wait_for_update:500});
+  gtag('set','ads_data_redaction',true);gtag('set','url_passthrough',true);
+  function loadClarity(){if(window.clarity)return;(function(c,l,a,r,i){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};var t=l.createElement(r);t.async=1;t.src='https://www.clarity.ms/tag/'+i;var y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,'clarity','script','sxwbb1ueew');}
+  function apply(a,m){gtag('consent','update',{analytics_storage:a?'granted':'denied',ad_storage:m?'granted':'denied',ad_user_data:m?'granted':'denied',ad_personalization:m?'granted':'denied'});if(a)loadClarity();}
+  window.visienceConsent=function(a,m){try{localStorage.setItem(K,JSON.stringify({a:!!a,m:!!m}));}catch(e){}apply(!!a,!!m);};
+  var p=null;if(c==='granted')p={a:1,m:1};else if(c==='denied')p={a:0,m:0};else if(c){try{p=JSON.parse(c);}catch(e){}}
+  if(p)apply(!!p.a,!!p.m);
+  gtag('js',new Date());gtag('config','GT-MJWWD7S8');
+  var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
+})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","fr","tarifs",""],"q":"","i":false,"f":[[["",{"children":["fr",{"children":["tarifs",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/3d-sy7z0ug41-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7"]}]]}]]}],{"children":["$L8",{"children":["$L9",{"children":["$La",{},null,false,null]},null,false,"$@b"]},null,false,"$@b"]},null,false,null],"$Lc",false]],"m":"$undefined","G":["$d",["$Le"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"uVXcgOiOU2O5Cy2OXf2zC"}
+f:I[36621,["/_next/static/chunks/3d-sy7z0ug41-.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
+17:I[27961,["/_next/static/chunks/3d-sy7z0ug41-.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
+18:I[11015,["/_next/static/chunks/3d-sy7z0ug41-.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
+19:I[39756,["/_next/static/chunks/3d-sy7z0ug41-.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
+1a:I[37457,["/_next/static/chunks/3d-sy7z0ug41-.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
+1f:I[97367,["/_next/static/chunks/3d-sy7z0ug41-.js","/_next/static/chunks/24ag4weogx3og.js"],"ViewportBoundary"]
+21:I[97367,["/_next/static/chunks/3d-sy7z0ug41-.js","/_next/static/chunks/24ag4weogx3og.js"],"MetadataBoundary"]
+22:"$Sreact.suspense"
+10:T1090,<header class="nav" id="nav" role="banner">
+  <div class="wrap nav__in">
+    <a href="/" class="nav__logo" aria-label="Visience — Acasă">
+      <img class="nav__logo-img nav__logo-img--light" src="/media/sigla-mark-visience-new-colors.avif"
+           alt="Visience" width="160" height="30" fetchpriority="high">
+      <img class="nav__logo-img nav__logo-img--dark" src="/media/sigla-visience-dark.avif"
+           alt="" aria-hidden="true" width="160" height="30">
+    </a>
+
+    <nav class="nav__links" aria-label="Navigare principală">
+      <div class="nav__has-drop">
+        <a href="/#servicii">Servicii<svg class="nav__drop-ico" viewBox="0 0 10 6" aria-hidden="true"><path d="M1 1l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+        <div class="nav__drop">
+          <a href="/creare-site-prezentare/">Creare site de prezentare</a>
+          <a href="/creare-magazin-online/">Creare magazin online</a>
+          <a href="/branding-identitate-vizuala/">Branding &amp; identitate</a>
+          <a href="/social-media-management/">Social media</a>
+          <a href="/google-meta-ads/">Google &amp; Meta Ads</a>
+          <a href="/optimizare-seo/">SEO &amp; content</a>
+          <a href="/dezvoltare-software/">Dezvoltare software</a>
+          <a href="/marketing-dezvoltatori-imobiliari/">Marketing pentru dezvoltatori</a>
+        </div>
+      </div>
+      <a href="/portofoliu/">Proiecte</a>
+      <a href="/preturi/">Prețuri</a>
+      <a href="/blog/">Blog</a>
+      <a href="/#rezultate">Rezultate</a>
+      <a href="/#despre">Despre</a>
+      <a href="/contact/">Contact</a>
+      <a href="/en/" class="nav__lang" hreflang="en" lang="en" aria-label="View the site in English">EN</a>
+      <a href="/fr/" class="nav__lang" hreflang="fr" lang="fr" aria-label="Voir le site en français">FR</a>
+    </nav>
+
+    <a href="/#contact" class="nav__cta">Solicită ofertă</a>
+
+    <button class="nav__burger" id="navBurger"
+            aria-label="Deschide meniul" aria-expanded="false" aria-controls="navMob">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<nav class="nav__mob" id="navMob" aria-label="Meniu mobil">
+  <div class="nm-in">
+    <div class="nm-grup">
+      <button type="button" class="nm-l nm-tog" id="nmServicii" aria-expanded="false" aria-controls="nmSub">
+        Servicii
+        <svg class="nm-tog__i" width="18" height="18" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+          <path d="M5 8l5 5 5-5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
+      <div class="nm-sublista" id="nmSub" hidden>
+        <a href="/creare-site-prezentare/" class="nm-sub">Creare site de prezentare</a>
+        <a href="/creare-magazin-online/" class="nm-sub">Creare magazin online</a>
+        <a href="/branding-identitate-vizuala/" class="nm-sub">Branding &amp; identitate</a>
+        <a href="/social-media-management/" class="nm-sub">Social media</a>
+        <a href="/google-meta-ads/" class="nm-sub">Google &amp; Meta Ads</a>
+        <a href="/optimizare-seo/" class="nm-sub">SEO &amp; content</a>
+        <a href="/dezvoltare-software/" class="nm-sub">Dezvoltare software</a>
+        <a href="/marketing-dezvoltatori-imobiliari/" class="nm-sub">Marketing pentru dezvoltatori</a>
+        <a href="/analiza-de-zona/" class="nm-sub">Analiză de zonă</a>
+      </div>
+    </div>
+
+    <a href="/portofoliu/" class="nm-l">Proiecte</a>
+    <a href="/preturi/"   class="nm-l">Prețuri</a>
+    <a href="/blog/"      class="nm-l">Blog</a>
+    <a href="/#rezultate" class="nm-l">Rezultate</a>
+    <a href="/#despre"    class="nm-l">Despre</a>
+    <a href="/contact/"   class="nm-l">Contact</a>
+    <a href="/en/" class="nm-l" hreflang="en" lang="en">English</a>
+    <a href="/fr/" class="nm-l" hreflang="fr" lang="fr">Site en français</a>
+
+    <div class="nm-jos">
+      <a href="/contact/" class="btn btn-solid nm-cta">Solicită ofertă</a>
+      <div class="nm-contact">
+        <a href="tel:+40771486499">+40 771 486 499</a>
+        <a href="mailto:contact@visience.ro">contact@visience.ro</a>
+      </div>
+    </div>
+  </div>
+</nav>
+11:T2023,<footer class="footer" role="contentinfo">
+  <div class="wrap">
+
+    <div class="footer__grid">
+
+      <div>
+        <div class="footer__logo">
+          <img src="/media/sigla-mark-visience-new-colors.avif"
+               alt="Visience" width="148" height="28" loading="lazy">
+        </div>
+
+        <p class="footer__brand">
+          Agenție de marketing digital cu 12 ani de experiență. Transformăm imaginea companiilor prin branding, website, social media și marketing precis configurat.
+        </p>
+
+        <p class="footer__trust">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M20 6 9 17l-5-5"/>
+          </svg>
+          Prețuri publice, fără costuri ascunse — <a href="/preturi/">vezi prețurile</a>.
+        </p>
+
+        <div class="footer__contact">
+          <a href="tel:+40771486499">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.67A2 2 0 012 .92h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L6.91 8.09a16 16 0 006 6l1.27-.83a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/>
+            </svg>
+            +40 771 486 499
+          </a>
+          <a href="mailto:contact@visience.ro">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+              <polyline points="22,6 12,13 2,6"/>
+            </svg>
+            contact@visience.ro
+          </a>
+        </div>
+
+        <div class="footer__social">
+          <a href="https://www.facebook.com/visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience pe Facebook">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M24 12c0-6.63-5.37-12-12-12S0 5.37 0 12c0 5.99 4.39 10.95 10.13 11.85v-8.38H7.08V12h3.05V9.36c0-3.01 1.79-4.67 4.53-4.67 1.31 0 2.69.23 2.69.23v2.96h-1.52c-1.49 0-1.96.93-1.96 1.88V12h3.33l-.53 3.47h-2.8v8.38C19.61 22.95 24 17.99 24 12z"/>
+            </svg>
+          </a>
+          <a href="https://www.instagram.com/visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience pe Instagram">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M12 2.16c3.2 0 3.58.01 4.85.07 1.17.05 1.8.25 2.23.41.56.22.96.48 1.38.9.42.42.68.82.9 1.38.16.42.36 1.06.41 2.23.06 1.27.07 1.65.07 4.85s-.01 3.58-.07 4.85c-.05 1.17-.25 1.8-.41 2.23-.22.56-.48.96-.9 1.38-.42.42-.82.68-1.38.9-.42.16-1.06.36-2.23.41-1.27.06-1.65.07-4.85.07s-3.58-.01-4.85-.07c-1.17-.05-1.8-.25-2.23-.41-.56-.22-.96-.48-1.38-.9-.42-.42-.68-.82-.9-1.38-.16-.42-.36-1.06-.41-2.23C2.17 15.58 2.16 15.2 2.16 12s.01-3.58.07-4.85c.05-1.17.25-1.8.41-2.23.22-.56.48-.96.9-1.38.42-.42.82-.68 1.38-.9.42-.16 1.06-.36 2.23-.41C8.42 2.17 8.8 2.16 12 2.16M12 0C8.74 0 8.33.01 7.05.07 5.78.13 4.9.33 4.14.63c-.79.3-1.46.72-2.12 1.38C1.35 2.68.94 3.35.63 4.14.33 4.9.13 5.78.07 7.05.01 8.33 0 8.74 0 12s.01 3.67.07 4.95c.06 1.27.26 2.15.56 2.91.3.79.72 1.46 1.38 2.12.66.66 1.33 1.08 2.12 1.38.76.3 1.64.5 2.91.56C8.33 23.99 8.74 24 12 24s3.67-.01 4.95-.07c1.27-.06 2.15-.26 2.91-.56.79-.3 1.46-.72 2.12-1.38.66-.66 1.08-1.33 1.38-2.12.3-.76.5-1.64.56-2.91.06-1.28.07-1.69.07-4.95s-.01-3.67-.07-4.95c-.06-1.27-.26-2.15-.56-2.91-.3-.79-.72-1.46-1.38-2.12C21.32 1.35 20.65.94 19.86.63 19.1.33 18.22.13 16.95.07 15.67.01 15.26 0 12 0z"/>
+              <path d="M12 5.84A6.16 6.16 0 1 0 18.16 12 6.16 6.16 0 0 0 12 5.84zM12 16a4 4 0 1 1 4-4 4 4 0 0 1-4 4z"/>
+              <circle cx="18.41" cy="5.59" r="1.44"/>
+            </svg>
+          </a>
+          <a href="https://www.tiktok.com/@visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience pe TikTok">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M16.6 5.82A4.28 4.28 0 0 1 15.54 3h-3.09v12.4a2.59 2.59 0 0 1-2.59 2.5 2.59 2.59 0 0 1 0-5.18c.27 0 .52.04.76.12v-3.2a5.79 5.79 0 0 0-.76-.05 5.69 5.69 0 1 0 5.69 5.69V9.01a7.35 7.35 0 0 0 4.29 1.37V7.3a4.29 4.29 0 0 1-3.24-1.48z"/>
+            </svg>
+          </a>
+        </div>
+
+        <div class="footer__anpc">
+          <a class="anpc-b" href="https://anpc.ro/" target="_blank" rel="noopener noreferrer"
+             aria-label="ANPC — Autoritatea Națională pentru Protecția Consumatorilor">
+            <img src="https://anpc.ro/wp-content/themes/anpc/img/anpc_logo.png"
+                 alt="ANPC" width="50" height="18" loading="lazy"
+                 onerror="this.style.display='none'">
+            ANPC
+          </a>
+          <a class="anpc-b" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage"
+             target="_blank" rel="noopener noreferrer"
+             aria-label="SOL — Soluționare Online a Litigiilor">
+            SOL
+          </a>
+        </div>
+      </div>
+
+      <nav aria-label="Servicii">
+        <div class="footer__col-title">Servicii</div>
+        <ul class="footer__links">
+          <li><a href="/creare-site-prezentare/">Creare site de prezentare</a></li>
+          <li><a href="/creare-site-prezentare-iasi/">Creare site de prezentare Iași</a></li>
+          <li><a href="/creare-site-prezentare-bacau/">Creare site de prezentare Bacău</a></li>
+          <li><a href="/creare-site-prezentare-bucuresti/">Creare site de prezentare București</a></li>
+          <li><a href="/creare-magazin-online/">Creare magazin online</a></li>
+          <li><a href="/branding-identitate-vizuala/">Branding &amp; identitate</a></li>
+          <li><a href="/social-media-management/">Social Media</a></li>
+          <li><a href="/google-meta-ads/">Google &amp; Meta Ads</a></li>
+          <li><a href="/optimizare-seo/">SEO &amp; Content</a></li>
+          <li><a href="/dezvoltare-software/">Dezvoltare software</a></li>
+          <li><a href="/marketing-dezvoltatori-imobiliari/">Marketing pentru dezvoltatori</a></li>
+          <li><a href="/marketing-imobiliar-iasi/">Marketing imobiliar Iași</a></li>
+            <li><a href="/analiza-de-zona/">Analiză de zonă</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Companie">
+        <div class="footer__col-title">Companie</div>
+        <ul class="footer__links">
+          <li><a href="/portofoliu/">Portofoliu</a></li>
+          <li><a href="/parteneri/">Parteneri</a></li>
+          <li><a href="/blog/">Blog</a></li>
+          <li><a href="/preturi/">Prețuri</a></li>
+          <li><a href="/#rezultate">Studii de caz</a></li>
+          <li><a href="/#despre">Despre noi</a></li>
+          <li><a href="/contact/">Contact</a></li>
+          <li><a href="/en/" hreflang="en" lang="en">Site in English</a></li>
+          <li><a href="/fr/" hreflang="fr" lang="fr">Site en français</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Legal">
+        <div class="footer__col-title">Legal &amp; GDPR</div>
+        <ul class="footer__links">
+          <li><a href="/termeni-si-conditii/">Termeni și Condiții</a></li>
+          <li><a href="/politica-de-confidentialitate/">Politică Confidențialitate</a></li>
+          <li><a href="/politica-cookies/">Politică Cookies</a></li>
+        </ul>
+      </nav>
+
+    </div>
+
+    <div class="footer__bottom">
+      <div class="footer__bottom-in">
+        <p class="footer__copy">
+          © 2026 Visience Creative Experience SRL · Toate drepturile rezervate
+        </p>
+        <div class="footer__legal">
+          <a href="/termeni-si-conditii/">Termeni</a>
+          <a href="/politica-de-confidentialitate/">Confidențialitate</a>
+          <a href="/politica-cookies/">Cookies</a>
+          <a href="/gdpr/">GDPR</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</footer>
+12:Tf55,<header class="nav" id="nav" role="banner">
+  <div class="wrap nav__in">
+    <a href="/en/" class="nav__logo" aria-label="Visience — Home">
+      <img class="nav__logo-img nav__logo-img--light" src="/media/sigla-mark-visience-new-colors.avif"
+           alt="Visience" width="160" height="30" fetchpriority="high">
+      <img class="nav__logo-img nav__logo-img--dark" src="/media/sigla-visience-dark.avif"
+           alt="" aria-hidden="true" width="160" height="30">
+    </a>
+
+    <nav class="nav__links" aria-label="Main navigation">
+      <div class="nav__has-drop">
+        <a href="/en/#services">Services<svg class="nav__drop-ico" viewBox="0 0 10 6" aria-hidden="true"><path d="M1 1l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+        <div class="nav__drop">
+          <a href="/en/web-design/">Website design</a>
+          <a href="/en/online-store/">Online stores</a>
+          <a href="/en/branding/">Branding &amp; identity</a>
+          <a href="/en/social-media/">Social media</a>
+          <a href="/en/google-meta-ads/">Google &amp; Meta Ads</a>
+          <a href="/en/seo/">SEO &amp; content</a>
+          <a href="/en/software-development/">Software development</a>
+          <a href="/en/real-estate-marketing/">Real estate marketing</a>
+        </div>
+      </div>
+      <a href="/en/portfolio/">Work</a>
+      <a href="/en/pricing/">Pricing</a>
+      <a href="/en/#results">Results</a>
+      <a href="/en/#about">About</a>
+      <a href="/en/contact/">Contact</a>
+      <a href="/" class="nav__lang" hreflang="ro" lang="ro" aria-label="Vezi site-ul în română">RO</a>
+      <a href="/fr/" class="nav__lang" hreflang="fr" lang="fr" aria-label="Voir le site en français">FR</a>
+    </nav>
+
+    <a href="/en/contact/" class="nav__cta">Get a quote</a>
+
+    <button class="nav__burger" id="navBurger"
+            aria-label="Open menu" aria-expanded="false" aria-controls="navMob">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<nav class="nav__mob" id="navMob" aria-label="Mobile menu">
+  <div class="nm-in">
+    <div class="nm-grup">
+      <button type="button" class="nm-l nm-tog" id="nmServicii" aria-expanded="false" aria-controls="nmSub">
+        Services
+        <svg class="nm-tog__i" width="18" height="18" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+          <path d="M5 8l5 5 5-5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
+      <div class="nm-sublista" id="nmSub" hidden>
+        <a href="/en/web-design/" class="nm-sub">Website design</a>
+        <a href="/en/online-store/" class="nm-sub">Online stores</a>
+        <a href="/en/branding/" class="nm-sub">Branding &amp; identity</a>
+        <a href="/en/social-media/" class="nm-sub">Social media</a>
+        <a href="/en/google-meta-ads/" class="nm-sub">Google &amp; Meta Ads</a>
+        <a href="/en/seo/" class="nm-sub">SEO &amp; content</a>
+        <a href="/en/software-development/" class="nm-sub">Software development</a>
+        <a href="/en/real-estate-marketing/" class="nm-sub">Real estate marketing</a>
+      </div>
+    </div>
+
+    <a href="/en/portfolio/" class="nm-l">Work</a>
+    <a href="/en/pricing/"   class="nm-l">Pricing</a>
+    <a href="/en/#results"   class="nm-l">Results</a>
+    <a href="/en/#about"     class="nm-l">About</a>
+    <a href="/en/contact/"   class="nm-l">Contact</a>
+    <a href="/" class="nm-l" hreflang="ro" lang="ro">Română</a>
+    <a href="/fr/" class="nm-l" hreflang="fr" lang="fr">Site en français</a>
+
+    <div class="nm-jos">
+      <a href="/en/contact/" class="btn btn-solid nm-cta">Get a quote</a>
+      <div class="nm-contact">
+        <a href="tel:+40771486499">+40 771 486 499</a>
+        <a href="mailto:contact@visience.ro">contact@visience.ro</a>
+      </div>
+    </div>
+  </div>
+</nav>
+13:T1a33,<footer class="footer" role="contentinfo">
+  <div class="wrap">
+
+    <div class="footer__grid">
+
+      <div>
+        <div class="footer__logo">
+          <img src="/media/sigla-mark-visience-new-colors.avif"
+               alt="Visience" width="148" height="28" loading="lazy">
+        </div>
+
+        <p class="footer__brand">
+          A digital marketing studio with 12 years behind it. We build the brand, the website and the campaigns that bring enquiries — and we measure every one of them.
+        </p>
+
+        <p class="footer__trust">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M20 6 9 17l-5-5"/>
+          </svg>
+          Prices published, nothing hidden — <a href="/en/pricing/">see the price list</a>.
+        </p>
+
+        <div class="footer__contact">
+          <a href="tel:+40771486499">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.67A2 2 0 012 .92h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L6.91 8.09a16 16 0 006 6l1.27-.83a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/>
+            </svg>
+            +40 771 486 499
+          </a>
+          <a href="mailto:contact@visience.ro">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+              <polyline points="22,6 12,13 2,6"/>
+            </svg>
+            contact@visience.ro
+          </a>
+        </div>
+
+        <div class="footer__social">
+          <a href="https://www.facebook.com/visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience on Facebook">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M24 12c0-6.63-5.37-12-12-12S0 5.37 0 12c0 5.99 4.39 10.95 10.13 11.85v-8.38H7.08V12h3.05V9.36c0-3.01 1.79-4.67 4.53-4.67 1.31 0 2.69.23 2.69.23v2.96h-1.52c-1.49 0-1.96.93-1.96 1.88V12h3.33l-.53 3.47h-2.8v8.38C19.61 22.95 24 17.99 24 12z"/>
+            </svg>
+          </a>
+          <a href="https://www.instagram.com/visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience on Instagram">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M12 2.16c3.2 0 3.58.01 4.85.07 1.17.05 1.8.25 2.23.41.56.22.96.48 1.38.9.42.42.68.82.9 1.38.16.42.36 1.06.41 2.23.06 1.27.07 1.65.07 4.85s-.01 3.58-.07 4.85c-.05 1.17-.25 1.8-.41 2.23-.22.56-.48.96-.9 1.38-.42.42-.82.68-1.38.9-.42.16-1.06.36-2.23.41-1.27.06-1.65.07-4.85.07s-3.58-.01-4.85-.07c-1.17-.05-1.8-.25-2.23-.41-.56-.22-.96-.48-1.38-.9-.42-.42-.68-.82-.9-1.38-.16-.42-.36-1.06-.41-2.23C2.17 15.58 2.16 15.2 2.16 12s.01-3.58.07-4.85c.05-1.17.25-1.8.41-2.23.22-.56.48-.96.9-1.38.42-.42.82-.68 1.38-.9.42-.16 1.06-.36 2.23-.41C8.42 2.17 8.8 2.16 12 2.16M12 0C8.74 0 8.33.01 7.05.07 5.78.13 4.9.33 4.14.63c-.79.3-1.46.72-2.12 1.38C1.35 2.68.94 3.35.63 4.14.33 4.9.13 5.78.07 7.05.01 8.33 0 8.74 0 12s.01 3.67.07 4.95c.06 1.27.26 2.15.56 2.91.3.79.72 1.46 1.38 2.12.66.66 1.33 1.08 2.12 1.38.76.3 1.64.5 2.91.56C8.33 23.99 8.74 24 12 24s3.67-.01 4.95-.07c1.27-.06 2.15-.26 2.91-.56.79-.3 1.46-.72 2.12-1.38.66-.66 1.08-1.33 1.38-2.12.3-.76.5-1.64.56-2.91.06-1.28.07-1.69.07-4.95s-.01-3.67-.07-4.95c-.06-1.27-.26-2.15-.56-2.91-.3-.79-.72-1.46-1.38-2.12C21.32 1.35 20.65.94 19.86.63 19.1.33 18.22.13 16.95.07 15.67.01 15.26 0 12 0z"/>
+              <path d="M12 5.84A6.16 6.16 0 1 0 18.16 12 6.16 6.16 0 0 0 12 5.84zM12 16a4 4 0 1 1 4-4 4 4 0 0 1-4 4z"/>
+              <circle cx="18.41" cy="5.59" r="1.44"/>
+            </svg>
+          </a>
+          <a href="https://www.tiktok.com/@visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience on TikTok">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M16.6 5.82A4.28 4.28 0 0 1 15.54 3h-3.09v12.4a2.59 2.59 0 0 1-2.59 2.5 2.59 2.59 0 0 1 0-5.18c.27 0 .52.04.76.12v-3.2a5.79 5.79 0 0 0-.76-.05 5.69 5.69 0 1 0 5.69 5.69V9.01a7.35 7.35 0 0 0 4.29 1.37V7.3a4.29 4.29 0 0 1-3.24-1.48z"/>
+            </svg>
+          </a>
+        </div>
+      </div>
+
+      <nav aria-label="Services">
+        <div class="footer__col-title">Services</div>
+        <ul class="footer__links">
+          <li><a href="/en/web-design/">Website design</a></li>
+          <li><a href="/en/online-store/">Online stores</a></li>
+          <li><a href="/en/branding/">Branding &amp; identity</a></li>
+          <li><a href="/en/social-media/">Social media</a></li>
+          <li><a href="/en/google-meta-ads/">Google &amp; Meta Ads</a></li>
+          <li><a href="/en/seo/">SEO &amp; content</a></li>
+          <li><a href="/en/software-development/">Software development</a></li>
+          <li><a href="/en/real-estate-marketing/">Real estate marketing</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Company">
+        <div class="footer__col-title">Company</div>
+        <ul class="footer__links">
+          <li><a href="/en/portfolio/">Work</a></li>
+          <li><a href="/en/pricing/">Pricing</a></li>
+          <li><a href="/en/#results">Case studies</a></li>
+          <li><a href="/en/#about">About us</a></li>
+          <li><a href="/en/contact/">Contact</a></li>
+          <li><a href="/" hreflang="ro" lang="ro">Site în română</a></li>
+          <li><a href="/fr/" hreflang="fr" lang="fr">Site en français</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Legal">
+        <div class="footer__col-title">Legal &amp; GDPR</div>
+        <ul class="footer__links">
+          <li><a href="/en/terms/">Terms &amp; conditions</a></li>
+          <li><a href="/en/privacy/">Privacy policy</a></li>
+          <li><a href="/en/cookies/">Cookie policy</a></li>
+        </ul>
+      </nav>
+
+    </div>
+
+    <div class="footer__bottom">
+      <div class="footer__bottom-in">
+        <p class="footer__copy">
+          © 2026 Visience Creative Experience SRL · All rights reserved
+        </p>
+        <div class="footer__legal">
+          <a href="/en/terms/">Terms</a>
+          <a href="/en/privacy/">Privacy</a>
+          <a href="/en/cookies/">Cookies</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</footer>
+14:Tffe,<header class="nav" id="nav" role="banner">
+  <div class="wrap nav__in">
+    <a href="/fr/" class="nav__logo" aria-label="Visience — Accueil">
+      <img class="nav__logo-img nav__logo-img--light" src="/media/sigla-mark-visience-new-colors.avif"
+           alt="Visience" width="160" height="30" fetchpriority="high">
+      <img class="nav__logo-img nav__logo-img--dark" src="/media/sigla-visience-dark.avif"
+           alt="" aria-hidden="true" width="160" height="30">
+    </a>
+
+    <nav class="nav__links" aria-label="Navigation principale">
+      <div class="nav__has-drop">
+        <a href="/fr/#services">Services<svg class="nav__drop-ico" viewBox="0 0 10 6" aria-hidden="true"><path d="M1 1l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+        <div class="nav__drop">
+          <a href="/fr/creation-site-internet/">Création de site internet</a>
+          <a href="/fr/boutique-en-ligne/">Boutique en ligne</a>
+          <a href="/fr/branding/">Branding &amp; identité</a>
+          <a href="/fr/reseaux-sociaux/">Réseaux sociaux</a>
+          <a href="/fr/google-meta-ads/">Google &amp; Meta Ads</a>
+          <a href="/fr/referencement/">SEO &amp; contenu</a>
+          <a href="/fr/developpement-logiciel/">Développement logiciel</a>
+          <a href="/fr/marketing-immobilier/">Marketing immobilier</a>
+        </div>
+      </div>
+      <a href="/fr/portfolio/">Réalisations</a>
+      <a href="/fr/tarifs/">Tarifs</a>
+      <a href="/fr/#results">Résultats</a>
+      <a href="/fr/#about">À propos</a>
+      <a href="/fr/contact/">Contact</a>
+      <a href="/" class="nav__lang" hreflang="ro" lang="ro" aria-label="Vezi site-ul în română">RO</a>
+      <a href="/en/" class="nav__lang" hreflang="en" lang="en" aria-label="View the site in English">EN</a>
+    </nav>
+
+    <a href="/fr/contact/" class="nav__cta">Demander un devis</a>
+
+    <button class="nav__burger" id="navBurger"
+            aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="navMob">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<nav class="nav__mob" id="navMob" aria-label="Menu mobile">
+  <div class="nm-in">
+    <div class="nm-grup">
+      <button type="button" class="nm-l nm-tog" id="nmServicii" aria-expanded="false" aria-controls="nmSub">
+        Services
+        <svg class="nm-tog__i" width="18" height="18" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+          <path d="M5 8l5 5 5-5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
+      <div class="nm-sublista" id="nmSub" hidden>
+        <a href="/fr/creation-site-internet/" class="nm-sub">Création de site internet</a>
+        <a href="/fr/boutique-en-ligne/" class="nm-sub">Boutique en ligne</a>
+        <a href="/fr/branding/" class="nm-sub">Branding &amp; identité</a>
+        <a href="/fr/reseaux-sociaux/" class="nm-sub">Réseaux sociaux</a>
+        <a href="/fr/google-meta-ads/" class="nm-sub">Google &amp; Meta Ads</a>
+        <a href="/fr/referencement/" class="nm-sub">SEO &amp; contenu</a>
+        <a href="/fr/developpement-logiciel/" class="nm-sub">Développement logiciel</a>
+        <a href="/fr/marketing-immobilier/" class="nm-sub">Marketing immobilier</a>
+      </div>
+    </div>
+
+    <a href="/fr/portfolio/" class="nm-l">Réalisations</a>
+    <a href="/fr/tarifs/"    class="nm-l">Tarifs</a>
+    <a href="/fr/#results"   class="nm-l">Résultats</a>
+    <a href="/fr/#about"     class="nm-l">À propos</a>
+    <a href="/fr/contact/"   class="nm-l">Contact</a>
+    <a href="/" class="nm-l" hreflang="ro" lang="ro">Site în română</a>
+    <a href="/en/" class="nm-l" hreflang="en" lang="en">Site in English</a>
+
+    <div class="nm-jos">
+      <a href="/fr/contact/" class="btn btn-solid nm-cta">Demander un devis</a>
+      <div class="nm-contact">
+        <a href="tel:+40771486499">+40 771 486 499</a>
+        <a href="mailto:contact@visience.ro">contact@visience.ro</a>
+      </div>
+    </div>
+  </div>
+</nav>
+15:T1afa,<footer class="footer" role="contentinfo">
+  <div class="wrap">
+
+    <div class="footer__grid">
+
+      <div>
+        <div class="footer__logo">
+          <img src="/media/sigla-mark-visience-new-colors.avif"
+               alt="Visience" width="148" height="28" loading="lazy">
+        </div>
+
+        <p class="footer__brand">
+          Un studio de marketing digital avec 12 ans derrière lui. Nous construisons la marque, le site et les campagnes qui amènent des demandes — et nous mesurons chacune d'elles.
+        </p>
+
+        <p class="footer__trust">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M20 6 9 17l-5-5"/>
+          </svg>
+          Tarifs publiés, rien de caché — <a href="/fr/tarifs/">voir la grille tarifaire</a>.
+        </p>
+
+        <div class="footer__contact">
+          <a href="tel:+40771486499">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.67A2 2 0 012 .92h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L6.91 8.09a16 16 0 006 6l1.27-.83a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/>
+            </svg>
+            +40 771 486 499
+          </a>
+          <a href="mailto:contact@visience.ro">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+              <polyline points="22,6 12,13 2,6"/>
+            </svg>
+            contact@visience.ro
+          </a>
+        </div>
+
+        <div class="footer__social">
+          <a href="https://www.facebook.com/visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience sur Facebook">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M24 12c0-6.63-5.37-12-12-12S0 5.37 0 12c0 5.99 4.39 10.95 10.13 11.85v-8.38H7.08V12h3.05V9.36c0-3.01 1.79-4.67 4.53-4.67 1.31 0 2.69.23 2.69.23v2.96h-1.52c-1.49 0-1.96.93-1.96 1.88V12h3.33l-.53 3.47h-2.8v8.38C19.61 22.95 24 17.99 24 12z"/>
+            </svg>
+          </a>
+          <a href="https://www.instagram.com/visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience sur Instagram">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M12 2.16c3.2 0 3.58.01 4.85.07 1.17.05 1.8.25 2.23.41.56.22.96.48 1.38.9.42.42.68.82.9 1.38.16.42.36 1.06.41 2.23.06 1.27.07 1.65.07 4.85s-.01 3.58-.07 4.85c-.05 1.17-.25 1.8-.41 2.23-.22.56-.48.96-.9 1.38-.42.42-.82.68-1.38.9-.42.16-1.06.36-2.23.41-1.27.06-1.65.07-4.85.07s-3.58-.01-4.85-.07c-1.17-.05-1.8-.25-2.23-.41-.56-.22-.96-.48-1.38-.9-.42-.42-.68-.82-.9-1.38-.16-.42-.36-1.06-.41-2.23C2.17 15.58 2.16 15.2 2.16 12s.01-3.58.07-4.85c.05-1.17.25-1.8.41-2.23.22-.56.48-.96.9-1.38.42-.42.82-.68 1.38-.9.42-.16 1.06-.36 2.23-.41C8.42 2.17 8.8 2.16 12 2.16M12 0C8.74 0 8.33.01 7.05.07 5.78.13 4.9.33 4.14.63c-.79.3-1.46.72-2.12 1.38C1.35 2.68.94 3.35.63 4.14.33 4.9.13 5.78.07 7.05.01 8.33 0 8.74 0 12s.01 3.67.07 4.95c.06 1.27.26 2.15.56 2.91.3.79.72 1.46 1.38 2.12.66.66 1.33 1.08 2.12 1.38.76.3 1.64.5 2.91.56C8.33 23.99 8.74 24 12 24s3.67-.01 4.95-.07c1.27-.06 2.15-.26 2.91-.56.79-.3 1.46-.72 2.12-1.38.66-.66 1.08-1.33 1.38-2.12.3-.76.5-1.64.56-2.91.06-1.28.07-1.69.07-4.95s-.01-3.67-.07-4.95c-.06-1.27-.26-2.15-.56-2.91-.3-.79-.72-1.46-1.38-2.12C21.32 1.35 20.65.94 19.86.63 19.1.33 18.22.13 16.95.07 15.67.01 15.26 0 12 0z"/>
+              <path d="M12 5.84A6.16 6.16 0 1 0 18.16 12 6.16 6.16 0 0 0 12 5.84zM12 16a4 4 0 1 1 4-4 4 4 0 0 1-4 4z"/>
+              <circle cx="18.41" cy="5.59" r="1.44"/>
+            </svg>
+          </a>
+          <a href="https://www.tiktok.com/@visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience sur TikTok">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M16.6 5.82A4.28 4.28 0 0 1 15.54 3h-3.09v12.4a2.59 2.59 0 0 1-2.59 2.5 2.59 2.59 0 0 1 0-5.18c.27 0 .52.04.76.12v-3.2a5.79 5.79 0 0 0-.76-.05 5.69 5.69 0 1 0 5.69 5.69V9.01a7.35 7.35 0 0 0 4.29 1.37V7.3a4.29 4.29 0 0 1-3.24-1.48z"/>
+            </svg>
+          </a>
+        </div>
+      </div>
+
+      <nav aria-label="Services">
+        <div class="footer__col-title">Services</div>
+        <ul class="footer__links">
+          <li><a href="/fr/creation-site-internet/">Création de site internet</a></li>
+          <li><a href="/fr/boutique-en-ligne/">Boutique en ligne</a></li>
+          <li><a href="/fr/branding/">Branding &amp; identité</a></li>
+          <li><a href="/fr/reseaux-sociaux/">Réseaux sociaux</a></li>
+          <li><a href="/fr/google-meta-ads/">Google &amp; Meta Ads</a></li>
+          <li><a href="/fr/referencement/">SEO &amp; contenu</a></li>
+          <li><a href="/fr/developpement-logiciel/">Développement logiciel</a></li>
+          <li><a href="/fr/marketing-immobilier/">Marketing immobilier</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Entreprise">
+        <div class="footer__col-title">Entreprise</div>
+        <ul class="footer__links">
+          <li><a href="/fr/portfolio/">Réalisations</a></li>
+          <li><a href="/fr/tarifs/">Tarifs</a></li>
+          <li><a href="/fr/#results">Études de cas</a></li>
+          <li><a href="/fr/#about">À propos</a></li>
+          <li><a href="/fr/contact/">Contact</a></li>
+          <li><a href="/" hreflang="ro" lang="ro">Site în română</a></li>
+          <li><a href="/en/" hreflang="en" lang="en">Site in English</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Mentions légales">
+        <div class="footer__col-title">Mentions légales &amp; RGPD</div>
+        <ul class="footer__links">
+          <li><a href="/fr/conditions-generales/">Conditions générales</a></li>
+          <li><a href="/fr/confidentialite/">Politique de confidentialité</a></li>
+          <li><a href="/fr/cookies/">Politique de cookies</a></li>
+        </ul>
+      </nav>
+
+    </div>
+
+    <div class="footer__bottom">
+      <div class="footer__bottom-in">
+        <p class="footer__copy">
+          © 2026 Visience Creative Experience SRL · Tous droits réservés
+        </p>
+        <div class="footer__legal">
+          <a href="/fr/conditions-generales/">Conditions</a>
+          <a href="/fr/confidentialite/">Confidentialité</a>
+          <a href="/fr/cookies/">Cookies</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</footer>
+5:["$","$Lf",null,{"headerRo":"$10","footerRo":"$11","headerEn":"$12","footerEn":"$13","headerFr":"$14","footerFr":"$15","children":"$L16"}]
+6:["$","$L17",null,{}]
+7:["$","$L18",null,{}]
+8:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L1a",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L1a",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+1b:T8ad,{"@context":"https://schema.org","@graph":[{"@type":"OfferCatalog","@id":"https://visience.ro/fr/tarifs/#catalog","name":"Services et tarifs Visience","inLanguage":"fr","itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Landing page de campagne"}},{"@type":"Offer","priceCurrency":"EUR","price":"750","itemOffered":{"@type":"Service","name":"Site vitrine Basic, jusqu'à 6 pages"}},{"@type":"Offer","priceCurrency":"EUR","price":"1200","itemOffered":{"@type":"Service","name":"Site vitrine Standard, 10 pages avec SEO on-page complet"}},{"@type":"Offer","priceCurrency":"EUR","price":"2500","itemOffered":{"@type":"Service","name":"Site vitrine Premium"}},{"@type":"Offer","priceCurrency":"EUR","price":"1000","itemOffered":{"@type":"Service","name":"Boutique en ligne Basic"}},{"@type":"Offer","priceCurrency":"EUR","price":"1800","itemOffered":{"@type":"Service","name":"Boutique en ligne Standard"}},{"@type":"Offer","priceCurrency":"EUR","price":"3500","itemOffered":{"@type":"Service","name":"Boutique en ligne Premium"}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Logo Basic"}},{"@type":"Offer","priceCurrency":"EUR","price":"1200","itemOffered":{"@type":"Service","name":"Identité visuelle complète"}},{"@type":"Offer","priceCurrency":"EUR","price":"2500","itemOffered":{"@type":"Service","name":"Brand book avec logo animé"}},{"@type":"Offer","priceCurrency":"EUR","price":"400","itemOffered":{"@type":"Service","name":"Gestion de campagnes, par plateforme, mensuel"}},{"@type":"Offer","priceCurrency":"EUR","price":"400","itemOffered":{"@type":"Service","name":"Configuration de campagne et mesure"}},{"@type":"Offer","priceCurrency":"EUR","price":"600","itemOffered":{"@type":"Service","name":"Stratégie SEO complète, mensuel"}},{"@type":"Offer","priceCurrency":"EUR","price":"450","itemOffered":{"@type":"Service","name":"Réseaux sociaux, 15 publications par mois"}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://visience.ro/fr/"},{"@type":"ListItem","position":2,"name":"Tarifs","item":"https://visience.ro/fr/tarifs/"}]}]}1c:T135b5,<!--STYLE0-->
+
+
+<main id="main">
+
+
+<section class="pr-hero" aria-labelledby="pr-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0"   y1="20%" x2="100%" y2="60%"/>
+      <line x1="0"   y1="50%" x2="100%" y2="90%"/>
+      <line x1="0"   y1="80%" x2="100%" y2="30%"/>
+      <line x1="25%" y1="0"   x2="75%"  y2="100%"/>
+      <line x1="60%" y1="0"   x2="10%"  y2="100%"/>
+      <line x1="0"   y1="40%" x2="100%" y2="10%"/>
+    </svg>
+  </div>
+
+  <div class="wrap">
+    <div class="pr-hero__inner rv">
+
+      <nav class="pr-hero__breadcrumbs" aria-label="Breadcrumbs">
+        <a href="/fr/">Accueil</a>
+        <span class="sep">/</span>
+        <span>Tarifs</span>
+      </nav>
+
+
+      <h1 class="pr-hero__h1" id="pr-h1">
+        Combien coûte la transformation de<br>
+        <span class="acc">l’image de votre entreprise ?</span>
+      </h1>
+
+      <p class="pr-hero__lead">
+        Tous nos services, avec des tarifs clairs et transparents. Du site web au branding, en passant par la publicité payante, le SEO et le logiciel sur mesure : vous voyez exactement ce que vous payez pour chaque forfait, ce qu’il contient et à qui il s’adresse.
+      </p>
+
+      <div style="display:flex;justify-content:center;margin:0 0 32px">
+        <span class="rel-trans__badge" style="margin:0">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M20 6 9 17l-5-5"/>
+          </svg>
+          Aucun tarif caché · aucune surprise sur la facture
+        </span>
+      </div>
+
+      <div class="pr-jump">
+        <a href="#site">Site vitrine</a>
+        <a href="#store">Boutique en ligne</a>
+        <a href="#other-sites">Autres sites web</a>
+        <a href="#branding">Branding &amp; logo</a>
+        <a href="#graphic">Graphic Design</a>
+        <a href="#ppc">PPC &amp; Ads</a>
+        <a href="#smm">Réseaux sociaux</a>
+        <a href="#influencer">Marketing d’influence</a>
+        <a href="#newsletter">Email marketing</a>
+        <a href="#seo">SEO</a>
+        <a href="#marketing">Marketing &amp; stratégie</a>
+        <a href="#software">Logiciel / IT</a>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="pr-sec bg-cream2" style="padding:18px 0" aria-label="Forfaits pour promoteurs immobiliers">
+  <div class="wrap" style="text-align:center">
+    <p class="pr-seo-intro" style="margin:0 auto 14px;font-size:14px">
+      <strong>Vous êtes promoteur immobilier ?</strong> Nous avons des forfaits dédiés, avec gestion mensuelle. <a href="/fr/marketing-immobilier/">Voir les forfaits →</a>
+    </p>
+    <!-- Google Calendar Appointment Scheduling begin -->
+    <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+    <script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+    <script>
+    (function() {
+      var target = document.currentScript;
+      window.addEventListener('load', function() {
+        calendar.schedulingButton.load({
+          url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ0wXBGc681ISVmT6Qa807ODgCcpYCcigeyyMxXcnUVZbUupykCBGYV0J2VxzM1IjMA8LkwuHiyR?gv=true',
+          color: '#9BC31A',
+          label: "Prendre rendez-vous",
+          target,
+        });
+      });
+    })();
+    </script>
+    <!-- end Google Calendar Appointment Scheduling -->
+  </div>
+</section>
+
+
+<section class="pr-sec bg-white" id="site" aria-labelledby="site-h2">
+  <div class="wrap">
+
+    <div class="pr-sec__head rv">
+      <h2 class="pr-sec__h2" id="site-h2">Combien coûte un <span class="acc">site vitrine ?</span></h2>
+      <p class="pr-sec__lead">
+        Nous construisons des sites premium, au design unique et aux fonctionnalités avancées. L’investissement démarre à <strong>1.200€ pour le forfait Standard</strong> et monte à <strong>2.500€+ pour le Website Premium</strong>, avec des forfaits plus accessibles présentés plus bas. S’y ajoutent des coûts uniques pour le domaine (15€) et l’hébergement (85 €/an).
+      </p>
+    </div>
+
+    <p class="pr-seo-intro rv">
+      Vous cherchez à créer un <strong>site vitrine professionnel pour votre entreprise</strong> ? Nous réalisons des sites sous <strong>WordPress</strong>, optimisés pour les moteurs de recherche, avec un design personnalisé et un panneau d’administration simple à utiliser. Que vous vouliez une landing page rapide pour tester le marché ou un site complet avec blog, pages de services dédiées et animations interactives, toutes les options sont ci-dessous. <a href="#contact">Demander un devis personnalisé →</a>
+    </p>
+
+    <div class="pr-grid rv rv-d1" style="grid-template-columns:repeat(4,1fr);gap:14px">
+
+      <div class="pr-card compact">
+        <div class="pr-card__name">Landing page de campagne</div>
+        <div class="pr-card__price">500€</div>
+        <div class="pr-card__price-note">Coût unique</div>
+        <p class="pr-card__desc">Une seule page construite pour la conversion, pensée comme destination de vos campagnes publicitaires.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>1 page, responsive</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Formulaire + suivi des conversions</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Livraison rapide</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Demander</a>
+      </div>
+
+      <div class="pr-card compact">
+        <div class="pr-card__name">Website Basic</div>
+        <div class="pr-card__price">750€</div>
+        <div class="pr-card__price-note">25 heures</div>
+        <p class="pr-card__desc">Design UX/UI intuitif avec galerie, blog, structure personnalisée et SEO de base.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Jusqu’à 6 pages</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Blog inclus</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Galerie interactive</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>RGPD + cookies</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Firewall + SMTP</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Demander</a>
+      </div>
+
+      <div class="pr-card compact featured">
+        <span class="pr-card__badge">Le plus choisi</span>
+        <div class="pr-card__name">Website Standard</div>
+        <div class="pr-card__price">1.200€</div>
+        <div class="pr-card__price-note">50 heures</div>
+        <p class="pr-card__desc">Design issu de l’analyse de la concurrence, SEO on-site complet, 10 articles IA, carte interactive.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Tout le Basic</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>10 pages SEO villes/quartiers</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>SEO on-site complet</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Schema Markup JSON-LD</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>10 articles IA inclus</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Demander</a>
+      </div>
+
+      <div class="pr-card compact">
+        <div class="pr-card__name">Website Premium</div>
+        <div class="pr-card__price">2.500€</div>
+        <div class="pr-card__price-note">100 heures</div>
+        <p class="pr-card__desc">3 variantes de design pour l’accueil, animations hover/scroll, analyse de l’audience cible, copywriting SEO.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Tout le Standard</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Stratégie basée sur l’analyse clients</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>3 variantes de design accueil</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Animations avancées</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Google Tag Manager</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Demander</a>
+      </div>
+
+    </div>
+
+    <p class="pr-seo-intro rv rv-d2" style="margin-top:36px;text-align:center;font-size:14px">
+      <strong>Website Avancé</strong> — tarif sur demande, selon la complexité du projet. Coûts supplémentaires : <strong>15€</strong> domaine, <strong>85 €/an</strong> hébergement.
+    </p>
+
+  </div>
+</section>
+
+
+<section class="pr-sec bg-cream" id="store" aria-labelledby="mag-h2">
+  <div class="wrap">
+
+    <div class="pr-sec__head rv">
+      <h2 class="pr-sec__h2" id="mag-h2">Combien coûte une <span class="acc">boutique en ligne ?</span></h2>
+      <p class="pr-sec__lead">
+        Nous réalisons des boutiques en ligne sous <strong>WooCommerce</strong>, <strong>Shopify</strong> et <strong>PrestaShop</strong>, de <strong>1.000€ pour le forfait Basic</strong> à <strong>3.500€ pour le Premium</strong>, avec les intégrations complètes de paiement et de livraison.
+      </p>
+    </div>
+
+    <p class="pr-seo-intro rv">
+      Vous voulez vendre vos produits en ligne ? Nous construisons des <strong>boutiques flexibles sous WooCommerce</strong> (WordPress) — la plateforme e-commerce la plus utilisée, reliées à des systèmes de paiement comme <strong>Stripe, PayPal, Mollie</strong> et à des transporteurs comme <strong>Colissimo, Mondial Relay, Chronopost</strong>. Toutes les boutiques comprennent un panneau d’administration simple, un design responsive et une optimisation SEO de base. <a href="#contact">Voyez comment nous pouvons construire votre boutique →</a>
+    </p>
+
+    <div class="pr-grid rv rv-d1">
+
+      <div class="pr-card">
+        <div class="pr-card__name">Boutique Basic</div>
+        <div class="pr-card__price">1.000€</div>
+        <div class="pr-card__price-note">35 heures</div>
+        <p class="pr-card__desc">Boutique WooCommerce fonctionnelle, avec paiement en ligne et paiement à la livraison. Idéale pour une activité qui démarre.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Jusqu’à 6 pages dynamiques</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Carte, virement, contre-remboursement</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Configuration de la livraison</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Galerie interactive</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>RGPD + protection du consommateur</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>SMTP + design responsive</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Demander un devis</a>
+      </div>
+
+      <div class="pr-card featured">
+        <span class="pr-card__badge">Le plus choisi</span>
+        <div class="pr-card__name">Boutique Standard</div>
+        <div class="pr-card__price">1.800€</div>
+        <div class="pr-card__price-note">75 heures</div>
+        <p class="pr-card__desc">Boutique complète avec stratégie UX, suggestions de produits, points cadeaux, e-mail de relance panier et SEO on-site.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Tout le Basic</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>2 révisions du design</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Template produit personnalisé</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Suggestions de produits + packs</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Système de points cadeaux</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>E-mail panier abandonné</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>3 mois de maintenance</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Site en 2 langues</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Demander un devis</a>
+      </div>
+
+      <div class="pr-card">
+        <div class="pr-card__name">Boutique Premium</div>
+        <div class="pr-card__price">3.500€</div>
+        <div class="pr-card__price-note">150 heures</div>
+        <p class="pr-card__desc">Solution enterprise avec méga-menu, chat en direct, configurateur de produits complexes et SEO complet.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Tout le Standard</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Design 100% unique</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Méga-menu avec images</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Chat en direct intégré</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Configurateur de produits complexes</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Schema markup complet</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Analyse des visiteurs</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Demander un devis</a>
+      </div>
+
+    </div>
+
+    <p class="pr-seo-intro rv rv-d2" style="margin-top:36px;text-align:center;font-size:14px">
+      <strong>Boutique Avancée</strong> — tarif sur demande, selon la complexité. L’ajout des produits se négocie à part. Coûts supplémentaires : <strong>15€</strong> domaine + <strong>85 €/an</strong> hébergement.
+    </p>
+
+  </div>
+</section>
+
+
+<section class="pr-sec bg-white" id="other-sites" aria-labelledby="alte-h2">
+  <div class="wrap">
+
+    <div class="pr-sec__head rv">
+      <h2 class="pr-sec__h2" id="alte-h2">Combien coûte un <span class="acc">site spécialisé ?</span></h2>
+      <p class="pr-sec__lead">
+        Des sites de petites annonces, d’immobilier, d’automobile ou de cours en ligne, avec le forfait Standard à partir de <strong>1.200€</strong> et un système de gestion qui vous appartient.
+      </p>
+    </div>
+
+    <p class="pr-seo-intro rv">
+      Vous lancez un site de <strong>petites annonces, un portail immobilier, une marketplace auto</strong> ou une <strong>plateforme de cours en ligne</strong> ? Nous construisons des plateformes complètes, avec inscription des utilisateurs, monétisation par la publicité Google AdSense et abonnements. Idéal pour une activité qui veut tirer un revenu passif de son contenu ou développer un marché local.
+    </p>
+
+    <div class="pr-grid cols-4 rv rv-d1">
+
+      <div class="pr-card compact">
+        <div class="pr-card__name">Site de petites annonces</div>
+        <div class="pr-card__price">1.200€</div>
+        <div class="pr-card__price-note">Standard · 50 heures</div>
+        <p class="pr-card__desc">Système d’annonces avec catégories, filtres et pages de profil utilisateur.</p>
+        <a href="#contact" class="pr-card__cta">Demander</a>
+      </div>
+
+      <div class="pr-card compact">
+        <div class="pr-card__name">Immobilier</div>
+        <div class="pr-card__price">1.200€</div>
+        <div class="pr-card__price-note">Standard · 50 heures</div>
+        <p class="pr-card__desc">Portail immobilier avec gestion des biens, carte interactive et filtrage avancé.</p>
+        <a href="#contact" class="pr-card__cta">Demander</a>
+      </div>
+
+      <div class="pr-card compact">
+        <div class="pr-card__name">Annonces auto</div>
+        <div class="pr-card__price">1.200€</div>
+        <div class="pr-card__price-note">Standard · 50 heures</div>
+        <p class="pr-card__desc">Marketplace auto avec profils vendeurs, galeries photo et messagerie intégrée.</p>
+        <a href="#contact" class="pr-card__cta">Demander</a>
+      </div>
+
+      <div class="pr-card compact">
+        <div class="pr-card__name">Cours en ligne</div>
+        <div class="pr-card__price">1.200€</div>
+        <div class="pr-card__price-note">Standard · 50 heures</div>
+        <p class="pr-card__desc">Plateforme eLearning avec leçons vidéo, quiz et certificat en fin de parcours.</p>
+        <a href="#contact" class="pr-card__cta">Demander</a>
+      </div>
+
+    </div>
+
+    <div class="pr-list rv rv-d2" style="margin-top:30px">
+      <h3 class="pr-list__title">Fonctionnalités supplémentaires</h3>
+      <p class="pr-list__sub">Ajoutez des fonctionnalités à l’un des sites spécialisés ci-dessus</p>
+      <div class="pr-list__items">
+        <div class="pr-list__row">
+          <div class="pr-list__row-name">Marketplace<span>Les visiteurs s’inscrivent et publient, ce qui génère du revenu</span></div>
+          <div class="pr-list__row-price">+500€</div>
+        </div>
+        <div class="pr-list__row">
+          <div class="pr-list__row-name">Revenu passif Google<span>Intégration AdSense pour monétiser via la publicité Google</span></div>
+          <div class="pr-list__row-price">+500€</div>
+        </div>
+        <div class="pr-list__row">
+          <div class="pr-list__row-name">Service par abonnement<span>Contenu et avantages exclusifs, avec gestion des abonnements</span></div>
+          <div class="pr-list__row-price">+200€</div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
+<section class="pr-sec bg-cream2" aria-labelledby="adi-h2">
+  <div class="wrap">
+
+    <div class="pr-sec__head rv">
+      <h2 class="pr-sec__h2" id="adi-h2">Services complémentaires <span class="acc">site &amp; boutique en ligne</span></h2>
+      <p class="pr-sec__lead">
+        Ajoutez des fonctionnalités premium à n’importe quel forfait : traductions, système de réservation, chat en direct, optimisation de la vitesse, maintenance et bien d’autres.
+      </p>
+    </div>
+
+    <div class="pr-mini rv rv-d1">
+      <div class="pr-mini__card"><span class="pr-mini__name">Traduction du site / des produits</span><span class="pr-mini__price">à partir de 100€</span></div>
+      <div class="pr-mini__card"><span class="pr-mini__name">Système de réservation</span><span class="pr-mini__price">200€</span></div>
+      <div class="pr-mini__card"><span class="pr-mini__name">Intégration newsletter</span><span class="pr-mini__price">100€</span></div>
+      <div class="pr-mini__card"><span class="pr-mini__name">Chat en direct</span><span class="pr-mini__price">100€</span></div>
+      <div class="pr-mini__card"><span class="pr-mini__name">Intégration réseaux sociaux</span><span class="pr-mini__price">100€</span></div>
+      <div class="pr-mini__card"><span class="pr-mini__name">Optimisation de la vitesse du site</span><span class="pr-mini__price">à partir de 100€</span></div>
+      <div class="pr-mini__card"><span class="pr-mini__name">Backup &amp; migration</span><span class="pr-mini__price">à partir de 100€</span></div>
+      <div class="pr-mini__card"><span class="pr-mini__name">Google Analytics 4 + Search Console</span><span class="pr-mini__price">150€</span></div>
+      <div class="pr-mini__card"><span class="pr-mini__name">Pages légales supplémentaires</span><span class="pr-mini__price">50 €/page</span></div>
+      <div class="pr-mini__card"><span class="pr-mini__name">Sécurisation du site (SSL, anti-spam)</span><span class="pr-mini__price">150€</span></div>
+      <div class="pr-mini__card"><span class="pr-mini__name">Tutoriel vidéo CMS personnalisé</span><span class="pr-mini__price">100€</span></div>
+      <div class="pr-mini__card"><span class="pr-mini__name">Maintenance mensuelle</span><span class="pr-mini__price">à partir de 100 €/mois</span></div>
+    </div>
+
+    <p class="pr-seo-intro rv" style="margin-top:22px;text-align:center;font-size:13px">
+      Les extensions ci-dessus sont disponibles avec l’un de nos forfaits site ou boutique en ligne.
+    </p>
+
+    <div class="pr-list rv rv-d2" style="margin-top:36px">
+      <h3 class="pr-list__title">Services Premium proposés séparément (forfaits Basic)</h3>
+      <p class="pr-list__sub">Modules premium pour faire passer un forfait Basic à des fonctionnalités supérieures</p>
+      <div class="pr-list__items">
+        <div class="pr-list__row"><div class="pr-list__row-name">Présentation du design avant la mise en œuvre</div><div class="pr-list__row-price">100€</div></div>
+        <div class="pr-list__row"><div class="pr-list__row-name">Template de nouvelles pages services / produits</div><div class="pr-list__row-price">100€</div></div>
+        <div class="pr-list__row"><div class="pr-list__row-name">Template d’articles personnalisé</div><div class="pr-list__row-price">100€</div></div>
+        <div class="pr-list__row"><div class="pr-list__row-name">Intégration d’une carte Google interactive</div><div class="pr-list__row-price">100€</div></div>
+        <div class="pr-list__row"><div class="pr-list__row-name">Analyse des visiteurs + rapport</div><div class="pr-list__row-price">100€</div></div>
+        <div class="pr-list__row"><div class="pr-list__row-name">SEO on-site de base (meta + markup)</div><div class="pr-list__row-price">100€</div></div>
+        <div class="pr-list__row"><div class="pr-list__row-name">Stratégie de structure du site / UX</div><div class="pr-list__row-price">150€</div></div>
+        <div class="pr-list__row"><div class="pr-list__row-name">Design animé et interactif (hover, scroll)</div><div class="pr-list__row-price">150€</div></div>
+        <div class="pr-list__row"><div class="pr-list__row-name">Stratégie d’avis clients et collecte automatique</div><div class="pr-list__row-price">100€</div></div>
+        <div class="pr-list__row"><div class="pr-list__row-name">Configuration des produits suggérés et des packs</div><div class="pr-list__row-price">100€</div></div>
+        <div class="pr-list__row"><div class="pr-list__row-name">Mise en avant des produits à bonne marge</div><div class="pr-list__row-price">100€</div></div>
+        <div class="pr-list__row"><div class="pr-list__row-name">Design de la page produit avec les bénéfices</div><div class="pr-list__row-price">100€</div></div>
+        <div class="pr-list__row"><div class="pr-list__row-name">Mise en place d’un système de points cadeaux</div><div class="pr-list__row-price">100€</div></div>
+        <div class="pr-list__row"><div class="pr-list__row-name">E-mail produits abandonnés au panier</div><div class="pr-list__row-price">100€</div></div>
+        <div class="pr-list__row"><div class="pr-list__row-name">Configuration transporteur + livraison avancée</div><div class="pr-list__row-price">100€</div></div>
+        <div class="pr-list__row"><div class="pr-list__row-name">Tutoriel en direct par Zoom (30 min – 1h)</div><div class="pr-list__row-price">100€</div></div>
+        <div class="pr-list__row"><div class="pr-list__row-name">Site multilingue</div><div class="pr-list__row-price">à partir de 100€</div></div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
+<section class="pr-sec bg-white" style="padding:50px 0">
+  <div class="wrap">
+    <div class="pr-banner rv">
+      <div class="pr-banner__txt">
+        <h3 class="pr-banner__h3">Vous ne savez pas quel forfait vous convient ?<br><span class="acc">Nous vous le disons.</span></h3>
+        <p class="pr-banner__p">Envoyez-nous quelques détails sur votre projet et vous recevez sous 24 heures un devis personnalisé, avec le forfait adapté à votre budget et à vos objectifs.</p>
+      </div>
+      <a href="#contact" class="btn btn-solid">Demander un devis personnalisé</a>
+    </div>
+  </div>
+</section>
+
+
+<section class="pr-sec bg-cream" id="branding" aria-labelledby="brand-h2">
+  <div class="wrap">
+
+    <div class="pr-sec__head rv">
+      <h2 class="pr-sec__h2" id="brand-h2">Combien coûte un <span class="acc">logo professionnel ?</span></h2>
+      <p class="pr-sec__lead">
+        Identité visuelle complète avec logo, BrandBook, animations et supports, jusqu’à <strong>2.500€ pour le Branding Premium</strong>. Le forfait recommandé, <strong>Branding Standard à 1.200€</strong>, couvre la majorité des entreprises, et pour un logo simple il y a la formule Logo Basic à 500€.
+      </p>
+    </div>
+
+    <p class="pr-seo-intro rv">
+      <strong>Vous avez besoin d’un logo professionnel</strong> pour votre activité ? Nous créons des logos uniques et parlants, livrés dans tous les formats utiles (vectoriel, PNG, JPG, PDF), avec des variantes pour l’impression, le digital et les supports promotionnels. Pour les entreprises qui veulent une identité visuelle complète, nous proposons un <strong>BrandBook</strong> avec les règles d’usage, la palette de couleurs, le guide typographique et des exemples d’application. <a href="#contact">Lancer le processus de branding →</a>
+    </p>
+
+    <div class="pr-grid rv rv-d1">
+
+      <div class="pr-card compact">
+        <div class="pr-card__name">Logo Basic</div>
+        <div class="pr-card__price">500€</div>
+        <div class="pr-card__price-note">25 heures</div>
+        <p class="pr-card__desc">Logo unique et personnalisé avec 1 révision, dans tous les formats nécessaires.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Logo unique personnalisé</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>1 révision</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Variante monochrome</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Variante négative/inversée</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Avec et sans tagline</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Demander</a>
+      </div>
+
+      <div class="pr-card compact featured">
+        <span class="pr-card__badge">Recommandé</span>
+        <div class="pr-card__name">Branding Standard</div>
+        <div class="pr-card__price">1.200€</div>
+        <div class="pr-card__price-note">50 heures</div>
+        <p class="pr-card__desc">3 variantes de logo + identité visuelle complète pour l’online et l’offline.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>3 variantes de logo</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>3 révisions</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Identité de marque complète</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Carte de visite + chemise</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>En-tête/pied de page documents</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Demander</a>
+      </div>
+
+      <div class="pr-card compact">
+        <div class="pr-card__name">Branding Premium</div>
+        <div class="pr-card__price">2.500€</div>
+        <div class="pr-card__price-note">100 heures</div>
+        <p class="pr-card__desc">BrandBook complet avec règles d’usage, animation du logo, flyers et supports offline.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Tout le Standard</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>6 révisions</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Animation du logo (vidéo + GIF)</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Flyer + banner social</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>BrandBook complet</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Demander</a>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="pr-sec bg-white" id="graphic" aria-labelledby="gd-h2">
+  <div class="wrap">
+
+    <div class="pr-sec__head rv">
+      <h2 class="pr-sec__h2" id="gd-h2">Combien coûte <span class="acc">un design graphique sur mesure ?</span></h2>
+      <p class="pr-sec__lead">
+        Des supports graphiques au design professionnel, prêts pour l’impression et le digital : flyers personnalisés, brochures corporate et <strong>packs complets de supports print (à partir de 500€)</strong>. Tarif horaire pour les projets sur mesure : <strong>50 €/heure</strong>.
+      </p>
+    </div>
+
+    <p class="pr-seo-intro rv">
+      Vous cherchez du <strong>design graphique professionnel pour vos supports imprimés et digitaux</strong> ? Nous réalisons cartes de visite, flyers, brochures corporate, affiches, bannières et roll-up pour vos événements et salons. Tous les supports sont préparés pour l’impression (CMYK, fond perdu, 300 dpi) et livrés aussi en PDF interactif pour la diffusion digitale.
+    </p>
+
+    <div class="pr-list rv rv-d1">
+      <h3 class="pr-list__title">Supports graphiques — tous les formats</h3>
+      <p class="pr-list__sub">Tarif horaire pour les projets sur mesure : 50 €/heure</p>
+      <div class="pr-list__items">
+        <div class="pr-list__row"><div class="pr-list__row-name">Flyer standard<span>Recto-verso ou dépliant, aux couleurs de votre marque</span></div><div class="pr-list__row-price">300€</div></div>
+        <div class="pr-list__row"><div class="pr-list__row-name">Flyer premium<span>Illustrations personnalisées, copywriting inclus</span></div><div class="pr-list__row-price">600€</div></div>
+        <div class="pr-list__row"><div class="pr-list__row-name">Brochure corporate 5 pages<span>Design élégant, +15 €/page supplémentaire</span></div><div class="pr-list__row-price">300€</div></div>
+        <div class="pr-list__row"><div class="pr-list__row-name">Pack de supports print complet<span>Ensemble coordonné pour une marque ou un événement</span></div><div class="pr-list__row-price">à partir de 500€</div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="pr-sec bg-cream" id="ppc" aria-labelledby="ppc-h2">
+  <div class="wrap">
+
+    <div class="pr-sec__head rv">
+      <h2 class="pr-sec__h2" id="ppc-h2">Combien coûte une <span class="acc">campagne Google Ads ?</span></h2>
+      <p class="pr-sec__lead">
+        Gestion des campagnes Google &amp; Meta <strong>400 €/mois par plateforme</strong> (3 mois minimum), mise en place campagne &amp; tracking <strong>400€</strong>, remarketing <strong>600€</strong>, Google Shopping <strong>500€</strong>. Le budget média se paie à part.
+      </p>
+    </div>
+
+    <p class="pr-seo-intro rv">
+      Vous voulez attirer des clients par <strong>Google Ads, Facebook Ads ou Instagram Ads</strong> ? Nous mettons en place et optimisons des campagnes PPC orientées <strong>leads qualifiés</strong> et <strong>ventes réelles</strong>, avec un focus sur le coût de chaque demande, pas sur des chiffres qui font joli sur le papier. Pour les boutiques en ligne, nous recommandons les campagnes <strong>Google Shopping</strong>, qui affichent les produits directement dans les résultats Google et attirent des acheteurs à forte intention.
+    </p>
+
+    <div class="pr-grid cols-4 rv rv-d1">
+
+      <div class="pr-card">
+        <div class="pr-card__name">Gestion des campagnes Google &amp; Meta</div>
+        <div class="pr-card__price">400 €<span style="font-size:14px;color:var(--mid)">/mois</span></div>
+        <div class="pr-card__price-note">par plateforme · 3 mois minimum</div>
+        <p class="pr-card__desc">Nous gérons et optimisons vos campagnes Google Ads ou Meta Ads, avec un focus sur les leads et les ventes réelles.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Optimisation hebdomadaire</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Créatives + textes des annonces</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Rapport mensuel de performance</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Collaboration de 3 mois minimum</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Budget média à part, recommandé min. 500 €/mois</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Demander</a>
+      </div>
+
+      <div class="pr-card">
+        <div class="pr-card__name">Mise en place campagne &amp; tracking</div>
+        <div class="pr-card__price">400€</div>
+        <div class="pr-card__price-note">Coût unique</div>
+        <p class="pr-card__desc">Nous préparons tout avant la première campagne, pour que chaque euro dépensé soit mesuré correctement.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Configuration du compte publicitaire</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Installation du pixel</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Événements de conversion</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Intégration GA4</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Demander</a>
+      </div>
+
+      <div class="pr-card featured">
+        <span class="pr-card__badge">Le plus efficace</span>
+        <div class="pr-card__name">Remarketing &amp; automatisations</div>
+        <div class="pr-card__price">600€</div>
+        <div class="pr-card__price-note">30 heures</div>
+        <p class="pr-card__desc">Récupérez les visiteurs qui sont passés sur le site sans acheter. Le taux de conversion monte.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Annonces personnalisées Google + FB</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>E-mails automatiques de relance</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>E-mails produits abandonnés</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Ciblage sur l’historique de navigation</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Optimisation continue</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Demander</a>
+      </div>
+
+      <div class="pr-card">
+        <div class="pr-card__name">Google Shopping</div>
+        <div class="pr-card__price">500€</div>
+        <div class="pr-card__price-note">mise en place complète du flux + campagne</div>
+        <p class="pr-card__desc">Vos produits affichés directement dans Google. Des acheteurs à forte intention.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Mise en place Google Merchant Center</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Optimisation du flux produits</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Smart ou Standard Shopping</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Stratégie d’enchères optimisée</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Suivi + optimisation mensuelle</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Demander</a>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="pr-sec bg-white" id="smm" aria-labelledby="smm-h2">
+  <div class="wrap">
+
+    <div class="pr-sec__head rv">
+      <h2 class="pr-sec__h2" id="smm-h2">Combien coûte <span class="acc">la gestion des réseaux sociaux ?</span></h2>
+      <p class="pr-sec__lead">
+        Stratégie réseaux sociaux <strong>500€</strong> une seule fois, forfaits de publications à partir de <strong>300 €/mois</strong> et gestion complète <strong>700 €/mois</strong>.
+      </p>
+    </div>
+
+    <p class="pr-seo-intro rv">
+      <strong>Vous avez besoin d’une présence régulière sur Facebook, Instagram, TikTok ou LinkedIn</strong>, mais pas le temps de publier tous les jours ? Nous prenons en charge la stratégie, le contenu, la publication et les échanges avec votre audience. Nous commençons par une <strong>analyse de l’audience cible</strong> et un <strong>calendrier éditorial sur 12 mois</strong>, puis nous gérons les comptes pour construire une communauté fidèle autour de votre marque. <a href="#contact">Démarrer la collaboration →</a>
+    </p>
+
+    <div class="pr-grid cols-4 rv rv-d1">
+
+      <div class="pr-card compact">
+        <div class="pr-card__name">Stratégie SMM</div>
+        <div class="pr-card__price">500€</div>
+        <div class="pr-card__price-note">Coût unique</div>
+        <p class="pr-card__desc">Analyse complète de l’audience cible, calendrier éditorial sur 12 mois, voix de marque.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Analyse de l’audience cible</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Étude de la concurrence</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Voix + ton de marque</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Calendrier sur 12 mois</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>2 séances de consultation</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Demander</a>
+      </div>
+
+      <div class="pr-card compact">
+        <div class="pr-card__name">Publications Start</div>
+        <div class="pr-card__price">300 €<span style="font-size:14px;color:var(--mid)">/mois</span></div>
+        <div class="pr-card__price-note">8 publications organiques</div>
+        <p class="pr-card__desc">Des messages et des visuels personnalisés, adaptés à votre marque.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>8 publications/mois</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Graphisme professionnel</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Textes personnalisés</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Programmation + publication</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Demander</a>
+      </div>
+
+      <div class="pr-card compact featured">
+        <span class="pr-card__badge">Recommandé</span>
+        <div class="pr-card__name">Publications Standard</div>
+        <div class="pr-card__price">450 €<span style="font-size:14px;opacity:.7">/mois</span></div>
+        <div class="pr-card__price-note">15 publications organiques</div>
+        <p class="pr-card__desc">Présence active avec stories, recherche de hashtags et rapport mensuel.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Tout le Start</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>15 publications/mois</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>4+ stories</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Recherche de hashtags</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Suivi des commentaires</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Rapport mensuel</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Demander</a>
+      </div>
+
+      <div class="pr-card compact">
+        <div class="pr-card__name">Full SMM</div>
+        <div class="pr-card__price">700 €<span style="font-size:14px;color:var(--mid)">/mois</span></div>
+        <div class="pr-card__price-note">30 publications + gestion</div>
+        <p class="pr-card__desc">Gestion complète pour les marques qui veulent une stratégie cohérente et de l’interaction.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Tout le Standard</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>30 publications multi-plateformes</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Voix de marque complète</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Commentaires stratégiques</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Engagement organique</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Consultation 1:1 mensuelle</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Demander</a>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="pr-sec bg-cream2" id="influencer" aria-labelledby="inf-h2">
+  <div class="wrap">
+
+    <div class="pr-sec__head rv">
+      <h2 class="pr-sec__h2" id="inf-h2">Combien coûte <span class="acc">une étude d’influenceurs ?</span></h2>
+      <p class="pr-sec__lead">
+        Liste complète d’influenceurs pertinents, tarifs de collaboration, statistiques d’audience et pertinence — <strong>300€</strong>.
+      </p>
+    </div>
+
+    <p class="pr-seo-intro rv">
+      Vous voulez collaborer avec des <strong>influenceurs mode, lifestyle ou de votre secteur</strong>, sans savoir qui choisir ni combien ils demandent ? Nous réalisons une étude complète : la liste des influenceurs pertinents, les tarifs des publications et des stories, les statistiques d’audience (abonnés, taux d’engagement) et leur pertinence pour votre marque. Vous voyez les vrais chiffres de chaque compte avant de payer quoi que ce soit, pour savoir si l’audience interagit vraiment ou si elle existe seulement.
+    </p>
+
+    <div class="pr-grid cols-2 rv rv-d1">
+
+      <div class="pr-card">
+        <div class="pr-card__name">Étude d’influenceurs</div>
+        <div class="pr-card__price">300€</div>
+        <div class="pr-card__price-note">Rapport complet</div>
+        <p class="pr-card__desc">Identification des influenceurs pertinents, avec un rapport détaillé sur les tarifs et les statistiques.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Liste d’influenceurs pertinents</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Tarifs de collaboration (publications, stories)</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Statistiques d’audience</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Taux d’engagement</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Recommandations de pertinence pour la marque</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Demander l’étude</a>
+      </div>
+
+      <div class="pr-card featured">
+        <div class="pr-card__name">Pourquoi le marketing d’influence ?</div>
+        <div class="pr-card__price" style="font-size:26px">Audience réelle</div>
+        <div class="pr-card__price-note">Vérifiée avant de payer</div>
+        <p class="pr-card__desc">Un compte avec une vraie communauté apporte des commentaires et des questions, pas seulement des impressions. Nous vous montrons les chiffres de chaque compte de la liste avant que vous n’investissiez.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Audience active et authentique</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>La visibilité de la marque augmente</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Vous touchez l’audience cible naturellement</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Cela crée de la confiance</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Parlons de votre projet</a>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="pr-sec bg-white" id="newsletter" aria-labelledby="news-h2">
+  <div class="wrap">
+
+    <div class="pr-sec__head rv">
+      <h2 class="pr-sec__h2" id="news-h2">Combien coûte <span class="acc">l’email marketing ?</span></h2>
+      <p class="pr-sec__lead">
+        Automatisations e-mail à partir de <strong>300 €/séquence</strong> et gestion mensuelle des campagnes e-mail pour <strong>300 €/mois</strong>.
+      </p>
+    </div>
+
+    <p class="pr-seo-intro rv">
+      Vous voulez envoyer des <strong>newsletters professionnelles</strong> à vos clients pour les tenir au courant des offres, des lancements et des nouveautés ? Nous créons et gérons vos campagnes d’email marketing avec des plateformes comme <strong>Mailchimp, Brevo ou Klaviyo</strong> : design optimisé pour desktop et mobile, segmentation de la liste d’abonnés et tests A/B. La newsletter reste l’un des canaux au meilleur ROI : elle augmente le trafic du site, les conversions et la fidélité des clients.
+    </p>
+
+    <div class="pr-grid cols-2 rv rv-d1">
+
+      <div class="pr-card compact">
+        <div class="pr-card__name">Automatisations e-mail</div>
+        <div class="pr-card__price">à partir de 300€</div>
+        <div class="pr-card__price-note">par séquence</div>
+        <p class="pr-card__desc">Onboarding clients, fidélisation, relance de panier abandonné — des automatisations complètes.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Séquence complète d’e-mails</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Déclencheurs automatiques</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Segmentation avancée</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Reporting de performance</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Demander</a>
+      </div>
+
+      <div class="pr-card compact featured">
+        <span class="pr-card__badge">Recommandé</span>
+        <div class="pr-card__name">Gestion des campagnes e-mail</div>
+        <div class="pr-card__price">300 €<span style="font-size:14px;opacity:.7">/mois</span></div>
+        <div class="pr-card__price-note">campagnes + rapport mensuel</div>
+        <p class="pr-card__desc">Nous planifions, créons et envoyons vos campagnes e-mail chaque mois.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Calendrier mensuel des campagnes</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Design + copy inclus</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Segmentation de la liste d’abonnés</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Tests A/B</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Rapport mensuel de performance</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Demander</a>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section class="pr-sec bg-cream" id="seo" aria-labelledby="seo-h2">
+  <div class="wrap">
+
+    <div class="pr-sec__head rv">
+      <h2 class="pr-sec__h2" id="seo-h2">Combien coûte <span class="acc">le référencement SEO ?</span></h2>
+      <p class="pr-sec__lead">
+        SEO technique <strong>60 €/heure</strong>, stratégie complète <strong>600 €/mois</strong> (6 mois minimum), SEO boutique en ligne à partir de <strong>1.500€</strong>, plus les services de netlinking externe.
+      </p>
+    </div>
+
+    <p class="pr-seo-intro rv">
+      Vous voulez que votre site apparaisse dans les <strong>premiers résultats Google</strong> sur les mots-clés de votre activité ? Nous proposons des prestations complètes de <strong>SEO technique on-page</strong> (indexation, sitemap, schema markup, vitesse, liens cassés) et de <strong>SEO externe (inbound)</strong> avec stratégie de netlinking, articles de qualité et collecte d’avis. Tous nos sites sont <strong>optimisés SEO dès la construction</strong>, mais pour un positionnement avancé nous recommandons une stratégie continue sur 6 mois minimum. <a href="#contact">Demander un audit SEO →</a>
+    </p>
+
+    <div class="pr-grid rv rv-d1">
+
+      <div class="pr-card">
+        <div class="pr-card__name">SEO technique</div>
+        <div class="pr-card__price">60 €<span style="font-size:14px;color:var(--mid)">/heure</span></div>
+        <div class="pr-card__price-note">Par heure travaillée</div>
+        <p class="pr-card__desc">Problèmes d’indexation et de crawl, sitemap, données structurées, liens cassés, performance.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Audit technique complet</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Sitemap + robots.txt</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Schema Markup</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Optimisation de la vitesse</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Correction des liens cassés</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Demander un audit</a>
+      </div>
+
+      <div class="pr-card featured">
+        <span class="pr-card__badge">Recommandé</span>
+        <div class="pr-card__name">Stratégie SEO complète</div>
+        <div class="pr-card__price">600 €<span style="font-size:14px;opacity:.7">/mois</span></div>
+        <div class="pr-card__price-note">13 heures · 6 mois minimum</div>
+        <p class="pr-card__desc">SEO on-page &amp; off-page avec une stratégie continue, pour une croissance organique sur le long terme.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Analyse des mots-clés</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Optimisation on-page</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Netlinking stratégique</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Contenu optimisé SEO</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Rapport mensuel de performance</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Commencer</a>
+      </div>
+
+      <div class="pr-card">
+        <div class="pr-card__name">SEO boutique en ligne</div>
+        <div class="pr-card__price">à partir de 1.500€</div>
+        <div class="pr-card__price-note">38 heures minimum</div>
+        <p class="pr-card__desc">Optimisation SEO technique propre aux boutiques avec des centaines ou des milliers de produits.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>SEO produits + catégories</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Schema Product complet</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Optimisation du faceted search</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Canonical + pagination</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Speed optimization</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Demander</a>
+      </div>
+
+    </div>
+
+    <div class="pr-list rv rv-d2" style="margin-top:36px">
+      <h3 class="pr-list__title">SEO externe (inbound) — netlinking</h3>
+      <p class="pr-list__sub">Netlinking stratégique pour augmenter l’autorité du domaine (DA/DR)</p>
+      <div class="pr-list__items">
+        <div class="pr-list__row">
+          <div class="pr-list__row-name">Stratégie de collecte d’avis
+            <span>Relance automatisée après livraison + offres en échange d’un avis</span>
+          </div>
+          <div class="pr-list__row-price">400€ <small>20 heures</small></div>
+        </div>
+        <div class="pr-list__row">
+          <div class="pr-list__row-name">Identification des sites pour le netlinking
+            <span>Rapport avec la liste des sites de qualité (DA/DR élevé) de votre secteur</span>
+          </div>
+          <div class="pr-list__row-price">200€ <small>8 heures</small></div>
+        </div>
+        <div class="pr-list__row">
+          <div class="pr-list__row-name">Rédaction d’un article backlink (800–1000 mots)
+            <span>Article de qualité avec des liens naturels, prêt à publier</span>
+          </div>
+          <div class="pr-list__row-price">400€ <small>18 heures</small></div>
+        </div>
+        <div class="pr-list__row">
+          <div class="pr-list__row-name">Rapport de performance des backlinks
+            <span>Nombre de backlinks obtenus, DA/DR des sources, impact sur le trafic et le positionnement</span>
+          </div>
+          <div class="pr-list__row-price">150€ <small>5 heures</small></div>
+        </div>
+      </div>
+    </div>
+
+    <p class="pr-seo-intro rv rv-d3" style="margin-top:30px;font-size:13px;text-align:center">
+      <strong>Le coût externe de publication</strong> — la somme versée directement aux sites qui hébergent l’article — varie entre <strong>20€ et 200 €/article</strong>, selon l’autorité du domaine :
+      DA 30–50 → 20–50€ · DA 50–70 → 50–100€ · DA 70+ → 100–200€.
+      Ce coût s’ajoute au tarif de rédaction de l’article.
+    </p>
+
+  </div>
+</section>
+
+
+<section class="pr-sec bg-white" style="padding:50px 0">
+  <div class="wrap">
+    <div class="pr-banner rv">
+      <div class="pr-banner__txt">
+        <h3 class="pr-banner__h3">Vous voulez monter dans <span class="acc">les premiers résultats Google ?</span></h3>
+        <p class="pr-banner__p">Demandez un audit SEO gratuit et nous vous montrons exactement ce qu’il faut améliorer sur votre site pour attirer plus de clients depuis la recherche organique.</p>
+      </div>
+      <a href="#contact" class="btn btn-solid">Demander un audit SEO gratuit</a>
+    </div>
+  </div>
+</section>
+
+
+<section class="pr-sec bg-cream2" id="marketing" aria-labelledby="mkt-h2">
+  <div class="wrap">
+
+    <div class="pr-sec__head rv">
+      <h2 class="pr-sec__h2" id="mkt-h2">Combien coûte une <span class="acc">stratégie marketing ?</span></h2>
+      <p class="pr-sec__lead">
+        Stratégie personnalisée sur 2 ans à partir de <strong>1.000€</strong>, optimisation de la présence en ligne <strong>300€</strong>, campagnes de jeux-concours et de fidélisation <strong>500 €/campagne</strong>.
+      </p>
+    </div>
+
+    <p class="pr-seo-intro rv">
+      Vous cherchez une <strong>agence de marketing digital qui vous construise une stratégie claire, sur le long terme</strong> ? Nous élaborons des stratégies complètes : analyse SWOT, buyer personas, objectifs SMART, plans de contenu, calendrier sur 2 ans et recommandations de budget par canal. Nous ne vendons pas des campagnes isolées — nous construisons des systèmes qui tournent. <a href="#contact">Prendre rendez-vous pour un échange →</a>
+    </p>
+
+    <div class="pr-grid rv rv-d1">
+
+      <div class="pr-card featured">
+        <span class="pr-card__badge">Recommandé</span>
+        <div class="pr-card__name">Stratégie marketing 2 ans</div>
+        <div class="pr-card__price">1.000€</div>
+        <div class="pr-card__price-note">50 heures · coût unique</div>
+        <p class="pr-card__desc">Plan marketing complet, adapté aux objectifs de votre entreprise, avec un calendrier sur 24 mois et des KPI clairs.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Analyse du marché &amp; de la concurrence</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Analyse SWOT + buyer personas</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Objectifs SMART + canaux recommandés</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Plan de contenu + calendrier 2 ans</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Répartition budgétaire recommandée</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Jeu de KPI + plan de crise</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Demander la stratégie</a>
+      </div>
+
+      <div class="pr-card">
+        <div class="pr-card__name">Optimisation de la présence en ligne</div>
+        <div class="pr-card__price">300€</div>
+        <div class="pr-card__price-note">5 heures · coût unique</div>
+        <p class="pr-card__desc">Nous configurons et optimisons la fiche Google Business, les pages de réseaux sociaux et les descriptions, pour une visibilité locale maximale.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Google Business créé &amp; validé</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Optimisation des descriptions &amp; des images</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Configuration des comptes réseaux sociaux</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Identité cohérente sur tous les canaux</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Demander</a>
+      </div>
+
+      <div class="pr-card">
+        <div class="pr-card__name">Campagnes &amp; fidélisation</div>
+        <div class="pr-card__price">500€</div>
+        <div class="pr-card__price-note">25 heures · par campagne</div>
+        <p class="pr-card__desc">Jeux-concours en ligne, promotion d’événements et programmes de fidélité — du concept au rapport final.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Jeux-concours &amp; promotions en ligne</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Promotion d’événements spéciaux</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Stratégie de fidélisation clients</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Rapport post-campagne avec les métriques</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Demander</a>
+      </div>
+
+    </div>
+
+    <div class="pr-list rv rv-d2" style="margin-top:30px">
+      <h3 class="pr-list__title">Ce que comprend chaque type de campagne</h3>
+      <p class="pr-list__sub">Toutes les campagnes incluent le concept, les visuels, le suivi et le rapport final</p>
+      <div class="pr-list__items">
+        <div class="pr-list__row">
+          <div class="pr-list__row-name">Jeux-concours &amp; promotions en ligne
+            <span>Concept, visuels, mécanique de participation, règlement, suivi des gagnants</span>
+          </div>
+          <div class="pr-list__row-price">500€ <small>par campagne</small></div>
+        </div>
+        <div class="pr-list__row">
+          <div class="pr-list__row-name">Promotion d’un événement spécial
+            <span>Concept visuel, stratégie organique + payante, événement Facebook, teaser + live + récap</span>
+          </div>
+          <div class="pr-list__row-price">500€ <small>par campagne</small></div>
+        </div>
+        <div class="pr-list__row">
+          <div class="pr-list__row-name">Stratégie de fidélisation clients
+            <span>Programme de récompenses, communication personnalisée, campagnes e-mail, opérations anniversaires et dates clés</span>
+          </div>
+          <div class="pr-list__row-price">500€ <small>coût unique</small></div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
+<section class="pr-sec bg-white" id="analiza-zona" aria-labelledby="az-h2">
+  <div class="wrap">
+
+    <div class="pr-sec__head rv">
+      <h2 class="pr-sec__h2" id="az-h2">Combien coûte <span class="acc">l’étude de zone ?</span></h2>
+      <p class="pr-sec__lead">
+        <strong>800€</strong>, une seule fois, par projet. Déduite intégralement du forfait de lancement si nous lançons le programme ensemble.
+      </p>
+    </div>
+
+    <p class="pr-seo-intro rv">
+      C’est le service pour les <strong>promoteurs immobiliers</strong>, à prendre avant tout forfait de marketing. Nous regardons les programmes concurrents dans un rayon de 2–3 km, ce que les gens cherchent en ligne dans votre secteur et ce qui manque à leur stock, puis nous vous remettons une recommandation écrite sur trois décisions : quelles typologies construire, à quel prix lister et quand démarrer la commercialisation. Le document reste le vôtre, même si nous n’allons pas plus loin ensemble. <a href="/fr/contact/">Voir ce qu’elle contient et comment nous la faisons →</a>
+    </p>
+
+    <div class="pr-grid rv rv-d1">
+      <div class="pr-card featured">
+        <span class="pr-card__badge">Avant tout forfait</span>
+        <div class="pr-card__name">Étude de zone</div>
+        <div class="pr-card__price">800€</div>
+        <div class="pr-card__price-note">une seule fois, par projet</div>
+        <p class="pr-card__desc">Les chiffres de votre secteur, avant de figer les typologies et la grille de prix.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Carte des programmes concurrents : typologies, prix affichés, stock restant</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>La demande en ligne par secteur et par typologie, avec une estimation du coût par demande</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Le profil de l’acheteur par segment, avec les messages qui lui parlent</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Un document écrit de 8–12 pages, avec les sources en clair</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Une heure d’échange sur les conclusions</span></div>
+        </div>
+        <a href="/fr/contact/" class="pr-card__cta">Voir le détail</a>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
+<section class="pr-sec bg-cream" style="padding:50px 0">
+  <div class="wrap">
+    <div class="pr-banner rv">
+      <div class="pr-banner__txt">
+        <h3 class="pr-banner__h3">Vous construisez un <span class="acc">programme résidentiel ?</span></h3>
+        <p class="pr-banner__p">L’étude de zone vous dit quelles typologies sont recherchées sur place et à quel prix vous pouvez lister, avant qu’il ne soit trop tard pour changer quoi que ce soit.</p>
+      </div>
+      <a href="/fr/contact/" class="btn btn-solid">Voir l’étude de zone</a>
+    </div>
+  </div>
+</section>
+
+
+<section class="pr-sec bg-white" id="software" aria-labelledby="sw-h2">
+  <div class="wrap">
+
+    <div class="pr-sec__head rv">
+      <h2 class="pr-sec__h2" id="sw-h2">Combien coûte <span class="acc">le développement logiciel ?</span></h2>
+      <p class="pr-sec__lead">
+        Tarif horaire de <strong>60 €/heure</strong> pour tous les services IT — du conseil et du développement sur mesure aux applications mobiles, au cloud, à l’IA, au DevOps et à l’automatisation RPA.
+      </p>
+    </div>
+
+    <p class="pr-seo-intro rv">
+      Vous avez besoin d’un <strong>logiciel sur mesure, d’une application mobile ou d’une migration vers le cloud</strong> ? Chaque projet est analysé en détail avant que nous donnions une estimation précise. Nous livrons des solutions évolutives, des systèmes ERP et CRM aux applications d’intelligence artificielle et à l’automatisation RPA des opérations répétitives. <a href="#contact">Demander l’analyse initiale gratuite →</a>
+    </p>
+
+    <div class="pr-grid cols-2 rv rv-d1">
+
+      <div class="pr-card featured" style="text-align:center">
+        <div class="pr-card__name" style="text-align:center">Tarif horaire standard</div>
+        <div class="pr-card__price" style="text-align:center;font-size:clamp(50px,6vw,72px)">60€</div>
+        <div class="pr-card__price-note" style="text-align:center">par heure travaillée</div>
+        <p class="pr-card__desc" style="text-align:center">Le prix final est fixé après l’analyse des besoins et de la complexité du projet. L’estimation détaillée est gratuite.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Analyse initiale gratuite</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Estimation détaillée avant le démarrage</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Solutions évolutives &amp; adaptées</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Documentation livrée avec le projet</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Demander une estimation</a>
+      </div>
+
+      <div class="pr-card">
+        <div class="pr-card__name">Pourquoi un logiciel sur mesure ?</div>
+        <div class="pr-card__price" style="font-size:28px;line-height:1.2">Solution<br>clé en main</div>
+        <div class="pr-card__price-note">adaptée à vos processus</div>
+        <p class="pr-card__desc">Contrairement aux plateformes génériques, un logiciel sur mesure est construit exactement sur les flux de votre activité — sans compromis, sans fonctionnalités superflues.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Intégration avec les systèmes existants</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Gain d’efficacité opérationnelle</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Réduction des coûts sur le long terme</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Propriété 100% du code source</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Parlons du projet</a>
+      </div>
+
+    </div>
+
+    <div class="pr-mini rv rv-d2" style="margin-top:24px">
+      <div class="pr-mini__card">
+        <span class="pr-mini__name">Business Analysis &amp; IT Consultancy</span>
+        <span class="pr-mini__price">60 €/heure</span>
+      </div>
+      <div class="pr-mini__card">
+        <span class="pr-mini__name">Software Development (ERP, CRM)</span>
+        <span class="pr-mini__price">60 €/heure</span>
+      </div>
+      <div class="pr-mini__card">
+        <span class="pr-mini__name">Mobile App Design &amp; Development</span>
+        <span class="pr-mini__price">60 €/heure</span>
+      </div>
+      <div class="pr-mini__card">
+        <span class="pr-mini__name">Cloud Migration &amp; Management (AWS, GCP, Azure)</span>
+        <span class="pr-mini__price">60 €/heure</span>
+      </div>
+      <div class="pr-mini__card">
+        <span class="pr-mini__name">AI &amp; Data Science Solutions</span>
+        <span class="pr-mini__price">60 €/heure</span>
+      </div>
+      <div class="pr-mini__card">
+        <span class="pr-mini__name">DevOps Solutions</span>
+        <span class="pr-mini__price">60 €/heure</span>
+      </div>
+      <div class="pr-mini__card">
+        <span class="pr-mini__name">RPA — Robotic Process Automation</span>
+        <span class="pr-mini__price">60 €/heure</span>
+      </div>
+      <div class="pr-mini__card">
+        <span class="pr-mini__name">Website Development avancé</span>
+        <span class="pr-mini__price">60 €/heure</span>
+      </div>
+      <div class="pr-mini__card">
+        <span class="pr-mini__name">Intégrations API &amp; systèmes tiers</span>
+        <span class="pr-mini__price">60 €/heure</span>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
+<section class="pr-final" id="contact" aria-labelledby="final-h2">
+
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0"   y1="20%" x2="100%" y2="60%"/>
+      <line x1="0"   y1="55%" x2="100%" y2="15%"/>
+      <line x1="20%" y1="0"   x2="80%"  y2="100%"/>
+      <line x1="70%" y1="0"   x2="30%"  y2="100%"/>
+    </svg>
+  </div>
+
+  <div class="wrap" style="position:relative;z-index:1">
+    <div class="rv" style="text-align:center">
+
+
+      <h2 class="pr-final__h2" id="final-h2">
+        Prêt à transformer<br>
+        <span class="acc">l’image de votre entreprise ?</span>
+      </h2>
+
+      <p class="pr-final__p">
+        Envoyez-nous quelques détails sur votre projet et vous recevez sous <strong style="color:rgba(255,255,255,.8)">24 heures</strong> un devis personnalisé, clair et sans surprise. Sans engagement.
+      </p>
+
+      <div class="pr-final__btns">
+        <a href="mailto:contact@visience.ro" class="btn btn-solid">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><polyline points="2,4 12,13 22,4"/></svg>
+          Envoyer un e-mail
+        </a>
+        <a href="tel:+40771486499" class="btn btn-dark">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+          +40 771 486 499
+        </a>
+        <script>
+        (function() {
+          var target = document.currentScript;
+          window.addEventListener('load', function() {
+            calendar.schedulingButton.load({
+              url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ0wXBGc681ISVmT6Qa807ODgCcpYCcigeyyMxXcnUVZbUupykCBGYV0J2VxzM1IjMA8LkwuHiyR?gv=true',
+              color: '#9BC31A',
+              label: "Prendre rendez-vous",
+              target,
+            });
+          });
+        })();
+        </script>
+      </div>
+
+      <div style="display:flex;gap:24px;justify-content:center;flex-wrap:wrap;margin-top:36px">
+        <span style="font-family:var(--f-m);font-size:10px;letter-spacing:.08em;color:rgba(255,255,255,.25);display:flex;align-items:center;gap:7px">
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="var(--acc)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+          Réponse sous 24 heures
+        </span>
+        <span style="font-family:var(--f-m);font-size:10px;letter-spacing:.08em;color:rgba(255,255,255,.25);display:flex;align-items:center;gap:7px">
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="var(--acc)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+          Devis sans engagement
+        </span>
+        <span style="font-family:var(--f-m);font-size:10px;letter-spacing:.08em;color:rgba(255,255,255,.25);display:flex;align-items:center;gap:7px">
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="var(--acc)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+          12 ans d’expérience
+        </span>
+        <span style="font-family:var(--f-m);font-size:10px;letter-spacing:.08em;color:rgba(255,255,255,.25);display:flex;align-items:center;gap:7px">
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="var(--acc)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+          Tarifs transparents
+        </span>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+
+<section class="rel-strip" aria-label="Services connexes et tarifs transparents">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Aucun tarif caché</span>
+      <h2>C’est ça, notre différence.</h2>
+      <p>Visience est une agence de marketing et de web basée à Iași qui publie ses tarifs : 500€ une landing page, à partir de 750€ un site vitrine, à partir de 1.000€ une boutique en ligne, 400€ par mois la gestion des campagnes Google et Meta, à partir de 600€ par mois le SEO. Ce sont les chiffres des devis que nous envoyons, pas un point de départ pour négocier.</p>
+      <a href="/fr/portfolio/" class="rel-trans__link">Voir le portfolio <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Le détail de chaque service</div>
+      <div class="rel-links__grid">
+        <a href="/fr/creation-site-internet/" class="rel-link"><span class="rel-link__name">Création de site vitrine <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Des sites d’entreprise rapides, au design de votre marque.</span></a>
+        <a href="/fr/boutique-en-ligne/" class="rel-link"><span class="rel-link__name">Création de boutique en ligne <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">WooCommerce et Shopify optimisés pour la vente.</span></a>
+        <a href="/fr/referencement/" class="rel-link"><span class="rel-link__name">SEO & contenu <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Vous arrivez en première page de Google, en organique.</span></a>
+        <a href="/fr/google-meta-ads/" class="rel-link"><span class="rel-link__name">Google & Meta Ads <span class="arr" aria-hidden="true">↗</span></span><span class="rel-link__desc">Des campagnes centrées sur les leads et les ventes.</span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+a:["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$1b"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$1c"}}]],null,"$L1d"]}]
+1e:[]
+b:"$W1e"
+c:["$","$1","h",{"children":[null,["$","$L1f",null,{"children":"$L20"}],["$","div",null,{"hidden":true,"children":["$","$L21",null,{"children":["$","$22",null,{"name":"Next.Metadata","children":"$L23"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+e:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+24:I[97367,["/_next/static/chunks/3d-sy7z0ug41-.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+16:["$","$L19",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L1a",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
+1d:["$","$L24",null,{"children":["$","$22",null,{"name":"Next.MetadataOutlet","children":"$@25"}]}]
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#FFFFFF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#111114","media":"(prefers-color-scheme: dark)"}]]
+26:I[27201,["/_next/static/chunks/3d-sy7z0ug41-.js","/_next/static/chunks/24ag4weogx3og.js"],"IconMark"]
+23:[["$","title","0",{"children":"Tarifs — sites internet, branding, publicité et SEO | Visience"}],["$","meta","1",{"name":"description","content":"Chaque prestation avec son tarif et les heures incluses : sites à partir de 750 €, boutiques à partir de 1.000 €, gestion de campagnes 400 € par mois, SEO 600 € par mois. Rien de caché."}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://visience.ro/fr/tarifs/"}],["$","link","4",{"rel":"alternate","hrefLang":"ro-RO","href":"https://visience.ro/preturi/"}],["$","link","5",{"rel":"alternate","hrefLang":"en","href":"https://visience.ro/en/pricing/"}],["$","link","6",{"rel":"alternate","hrefLang":"fr","href":"https://visience.ro/fr/tarifs/"}],["$","link","7",{"rel":"alternate","hrefLang":"x-default","href":"https://visience.ro/preturi/"}],["$","meta","8",{"property":"og:title","content":"Tarifs — Visience"}],["$","meta","9",{"property":"og:description","content":"Sites à partir de 750 €, boutiques à partir de 1.000 €, gestion de campagnes 400 € par mois, SEO 600 € par mois. Tarifs publiés, heures incluses."}],["$","meta","10",{"property":"og:url","content":"https://visience.ro/fr/tarifs/"}],["$","meta","11",{"property":"og:locale","content":"fr_FR"}],["$","meta","12",{"property":"og:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Agenție de Marketing & Creare Site-uri în Iași | Visience"}],["$","meta","16",{"name":"twitter:description","content":"Branding, website-uri, magazine online, Google & Meta Ads, SEO. Prețuri publice, fără costuri ascunse."}],["$","meta","17",{"name":"twitter:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","link","18",{"rel":"icon","href":"/favicon.ico?favicon.04nd99rd6ooix.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","19",{"rel":"icon","href":"/icon.png?icon.3v2r-pcu8x6vx.png","sizes":"192x192","type":"image/png"}],["$","link","20",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2y52blaubq-q-.png","sizes":"180x180","type":"image/png"}],["$","$L26","21",{}]]
+25:null

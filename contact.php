@@ -14,10 +14,12 @@ $curata = function ($cheie, $max = 400) {
   return mb_substr($v, 0, $max);
 };
 
-// paginile /en/ trimit 'pagina' cu prefixul en-, ca sa stim in ce limba raspundem
-$en        = strncmp($curata('pagina', 40), 'en-', 3) === 0;
-$multumire = $en ? '/en/thank-you/' : '/multumire/';
-$contact   = $en ? '/en/contact/'   : '/contact/';
+// paginile /en/ si /fr/ trimit 'pagina' cu prefix, ca sa stim in ce limba raspundem
+$pag0      = $curata('pagina', 40);
+$en        = strncmp($pag0, 'en-', 3) === 0;
+$fr        = strncmp($pag0, 'fr-', 3) === 0;
+$multumire = $en ? '/en/thank-you/' : ($fr ? '/fr/merci/'   : '/multumire/');
+$contact   = $en ? '/en/contact/'   : ($fr ? '/fr/contact/' : '/contact/');
 
 // honeypot: campul e ascuns, oamenii nu il completeaza
 if ($curata('adresa-web') !== '') {
