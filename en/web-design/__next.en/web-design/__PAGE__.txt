@@ -1,9 +1,12 @@
 1:"$Sreact.fragment"
-5:I[97367,["/_next/static/chunks/3d-sy7z0ug41-.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+5:I[97367,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 6:"$Sreact.suspense"
-2:Tb15,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/en/web-design/#service","name":"Web design and website development","serviceType":"Web design","inLanguage":"en","provider":{"@type":"Organization","name":"Visience","url":"https://visience.ro/en/"},"areaServed":["US","RO","IT","FR","DE"],"offers":[{"@type":"Offer","priceCurrency":"USD","price":"600","itemOffered":{"@type":"Service","name":"Campaign landing page"}},{"@type":"Offer","priceCurrency":"USD","price":"870","itemOffered":{"@type":"Service","name":"Website Basic, up to 6 pages"}},{"@type":"Offer","priceCurrency":"USD","price":"1400","itemOffered":{"@type":"Service","name":"Website Standard, 10 pages with full on-page SEO"}},{"@type":"Offer","priceCurrency":"USD","price":"2900","itemOffered":{"@type":"Service","name":"Website Premium, custom design"}}]},{"@type":"FAQPage","@id":"https://visience.ro/en/web-design/#faq","mainEntity":[{"@type":"Question","name":"How much does a business website cost?","acceptedAnswer":{"@type":"Answer","text":"A business website starts at $870 for the Basic package with up to 6 pages. Standard, with full on-page SEO, is $1,400, and a premium site with custom design starts at $2,900. A single-campaign landing page starts at $600."}},{"@type":"Question","name":"How long does a website take?","acceptedAnswer":{"@type":"Answer","text":"A landing page is ready in a few days. A business website usually takes 2 to 4 weeks, a premium project 4 to 8 weeks, depending on how quickly we receive the text and photos."}},{"@type":"Question","name":"What platform do you build on?","acceptedAnswer":{"@type":"Answer","text":"Most often WordPress with Oxygen Builder or Elementor, and Webflow. We pick the platform to suit the project, so the client can edit the content easily after handover."}},{"@type":"Question","name":"Will the site be optimised for phones and for Google?","acceptedAnswer":{"@type":"Answer","text":"Yes. Every site is responsive and has technical SEO built in: speed, proper structure and structured data, with the weight on mobile speed."}},{"@type":"Question","name":"Can I edit the content myself after handover?","acceptedAnswer":{"@type":"Answer","text":"Yes. Every site includes a CMS, so text, images and pages can be changed with no technical knowledge. A training session is included at handover."}},{"@type":"Question","name":"Do you write the copy as well?","acceptedAnswer":{"@type":"Answer","text":"Yes. Conversion-focused copywriting is included in the Standard and Premium packages and can be added as an option on a landing page."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visience.ro/en/"},{"@type":"ListItem","position":2,"name":"Web design","item":"https://visience.ro/en/web-design/"}]}]}3:Tb692,<style>
+2:Tb15,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/en/web-design/#service","name":"Web design and website development","serviceType":"Web design","inLanguage":"en","provider":{"@type":"Organization","name":"Visience","url":"https://visience.ro/en/"},"areaServed":["US","RO","IT","FR","DE"],"offers":[{"@type":"Offer","priceCurrency":"USD","price":"600","itemOffered":{"@type":"Service","name":"Campaign landing page"}},{"@type":"Offer","priceCurrency":"USD","price":"870","itemOffered":{"@type":"Service","name":"Website Basic, up to 6 pages"}},{"@type":"Offer","priceCurrency":"USD","price":"1400","itemOffered":{"@type":"Service","name":"Website Standard, 10 pages with full on-page SEO"}},{"@type":"Offer","priceCurrency":"USD","price":"2900","itemOffered":{"@type":"Service","name":"Website Premium, custom design"}}]},{"@type":"FAQPage","@id":"https://visience.ro/en/web-design/#faq","mainEntity":[{"@type":"Question","name":"How much does a business website cost?","acceptedAnswer":{"@type":"Answer","text":"A business website starts at $870 for the Basic package with up to 6 pages. Standard, with full on-page SEO, is $1,400, and a premium site with custom design starts at $2,900. A single-campaign landing page starts at $600."}},{"@type":"Question","name":"How long does a website take?","acceptedAnswer":{"@type":"Answer","text":"A landing page is ready in a few days. A business website usually takes 2 to 4 weeks, a premium project 4 to 8 weeks, depending on how quickly we receive the text and photos."}},{"@type":"Question","name":"What platform do you build on?","acceptedAnswer":{"@type":"Answer","text":"Most often WordPress with Oxygen Builder or Elementor, and Webflow. We pick the platform to suit the project, so the client can edit the content easily after handover."}},{"@type":"Question","name":"Will the site be optimised for phones and for Google?","acceptedAnswer":{"@type":"Answer","text":"Yes. Every site is responsive and has technical SEO built in: speed, proper structure and structured data, with the weight on mobile speed."}},{"@type":"Question","name":"Can I edit the content myself after handover?","acceptedAnswer":{"@type":"Answer","text":"Yes. Every site includes a CMS, so text, images and pages can be changed with no technical knowledge. A training session is included at handover."}},{"@type":"Question","name":"Do you write the copy as well?","acceptedAnswer":{"@type":"Answer","text":"Yes. Conversion-focused copywriting is included in the Standard and Premium packages and can be added as an option on a landing page."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visience.ro/en/"},{"@type":"ListItem","position":2,"name":"Web design","item":"https://visience.ro/en/web-design/"}]}]}3:T14f25,<style>
 .wsp-sec-head { margin-bottom: 52px; max-width: 640px; }
-@media (max-width: 640px) { .wsp-sec-head { margin-bottom: 36px; } }
+@media (max-width: 640px) {
+  .wsp-sec-head { margin-bottom: 36px; }
+}
+
 
 .wsp-hero {
   position: relative;
@@ -55,11 +58,12 @@
 .wsp-hero__meta i { color: var(--acc2); font-size: 13px; }
 @media (max-width: 640px) {
   .wsp-hero { min-height: 0; padding-bottom: 0; }
-  .wsp-hero__content { padding-bottom: 50px; }
-  .wsp-hero__acts { flex-direction: column; }
-  .wsp-hero__acts .btn { justify-content: center; }
-  .wsp-hero__meta { gap: 14px; }
+    .wsp-hero__content { padding-bottom: 50px; }
+    .wsp-hero__acts { flex-direction: column; }
+    .wsp-hero__acts .btn { justify-content: center; }
+    .wsp-hero__meta { gap: 14px; }
 }
+
 
 .pj-card {
   padding: 10px;
@@ -265,56 +269,14 @@
 .wsp-work__grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px; align-items: start; }
 .wsp-work__grid .pj-card { max-width: 100%; width: 100%; }
 .wsp-work__more { margin-top: 44px; text-align: center; }
-.wsp-tiles { display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px; }
-.wsp-tile { display: block; text-decoration: none; }
-.wsp-tile__img {
-  display: block; aspect-ratio: 4 / 5; border-radius: 14px; overflow: hidden;
-  background: var(--cream2);
-  transition: transform .35s cubic-bezier(.25,.46,.45,.94), box-shadow .35s cubic-bezier(.25,.46,.45,.94);
+@media (max-width: 1024px) {
+  .wsp-work { padding: 80px 0; } .wsp-work__grid { grid-template-columns: 1fr 1fr; }
 }
-.wsp-tile__img img { width: 100%; height: 100%; object-fit: cover; display: block; }
-.wsp-tile:hover .wsp-tile__img { transform: translateY(-4px); box-shadow: 0 20px 40px rgba(17,16,16,.10); }
-.wsp-tile__b { display: block; padding: 14px 2px 0; }
-.wsp-tile__n {
-  display: block; font-family: var(--f-d); font-weight: 700; font-size: 16px;
-  letter-spacing: -.015em; color: var(--ink); line-height: 1.25;
-}
-.wsp-tile__t { display: block; margin-top: 3px; font-size: 13px; color: var(--mid); font-weight: 300; }
-.wsp-tile__u {
-  display: inline-block; margin-top: 8px; padding-left: 2px;
-  font-family: var(--f-m); font-size: 11.5px; font-weight: 500; color: var(--acc-deep);
-}
-.wsp-tile:hover .wsp-tile__u { text-decoration: underline; }
-@media (max-width: 1024px) { .wsp-tiles { grid-template-columns: repeat(2, 1fr); gap: 18px; } }
-@media (max-width: 560px) { .wsp-tiles { grid-template-columns: repeat(2, 1fr); gap: 12px; } .wsp-tile__n { font-size: 14px; } .wsp-tile__t { font-size: 12px; } }
-@media (max-width: 1024px) { .wsp-work { padding: 80px 0; } .wsp-work__grid { grid-template-columns: 1fr 1fr; } }
-@media (max-width: 640px) { .wsp-work__grid { grid-template-columns: 1fr; max-width: 420px; margin: 0 auto; } }
 
-.wsp-feat { padding: 110px 0; background: var(--cream2); position: relative; overflow: hidden; }
-.wsp-feat .wrap { position: relative; z-index: 1; }
-.wsp-feat__grid {
-  display: grid; grid-template-columns: repeat(3, 1fr); gap: 3px;
-  border: 1px solid var(--border); border-radius: var(--rlg); overflow: hidden; background: var(--border);
+@media (max-width: 640px) {
+  .wsp-work__grid { grid-template-columns: 1fr; max-width: 420px; margin: 0 auto; }
 }
-.wsp-feat__cell { background: var(--white); padding: 38px 32px; transition: background .3s; }
-.wsp-feat__cell:hover { background: var(--cream); }
-.wsp-feat__cell i { font-size: 26px; color: var(--acc-deep); margin-bottom: 18px; display: block; }
-.wsp-feat__cell h3 { font-family: var(--f-d); font-weight: 700; font-size: 18px; letter-spacing: -.015em; color: var(--ink); margin-bottom: 10px; }
-.wsp-feat__cell p { font-size: 13.5px; line-height: 1.74; color: var(--mid); font-weight: 300; }
-@media (max-width: 1024px) { .wsp-feat { padding: 80px 0; } .wsp-feat__grid { grid-template-columns: 1fr 1fr; } }
-@media (max-width: 560px) { .wsp-feat__grid { grid-template-columns: 1fr; } .wsp-feat__cell { padding: 28px 24px; } }
 
-.wsp-proc { padding: 110px 0; background: var(--white); }
-.wsp-proc__list {
-  display: grid; grid-template-columns: repeat(2, 1fr); gap: 3px;
-  border: 1px solid var(--border); border-radius: var(--rlg); overflow: hidden; background: var(--border);
-}
-.wsp-proc__step { background: var(--white); padding: 40px 36px; display: flex; gap: 22px; align-items: flex-start; transition: background .3s; }
-.wsp-proc__step:hover { background: var(--cream); }
-.wsp-proc__n { font-family: var(--f-d); font-weight: 800; font-size: 38px; letter-spacing: -.04em; line-height: 1; color: var(--acc-deep); opacity: .4; flex-shrink: 0; }
-.wsp-proc__c h3 { font-family: var(--f-d); font-weight: 700; font-size: 19px; letter-spacing: -.015em; color: var(--ink); margin-bottom: 10px; }
-.wsp-proc__c p { font-size: 14px; line-height: 1.78; color: var(--mid); font-weight: 300; }
-@media (max-width: 768px) { .wsp-proc { padding: 80px 0; } .wsp-proc__list { grid-template-columns: 1fr; } .wsp-proc__step { padding: 30px 26px; } }
 
 .wsp-cmp { padding: 110px 0; background: var(--cream); }
 .wsp-cmp__scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; border-radius: var(--rlg); border: 1px solid var(--border); }
@@ -333,7 +295,10 @@
 .wsp-cmp__no { color: var(--light) !important; font-size: 11px; }
 .wsp-cmp__opt { font-family: var(--f-m); font-size: 10px; letter-spacing: .04em; text-transform: uppercase; color: var(--mid); background: var(--cream2); padding: 3px 9px; border-radius: 100px; }
 .wsp-cmp__note { margin-top: 18px; font-size: 12.5px; color: var(--light); text-align: center; font-style: italic; }
-@media (max-width: 768px) { .wsp-cmp { padding: 80px 0; } }
+@media (max-width: 768px) {
+  .wsp-cmp { padding: 80px 0; }
+}
+
 
 .wsp-faq { padding: 110px 0; background: var(--cream2); }
 .wsp-faq__list { max-width: 820px; border-top: 1px solid var(--border); }
@@ -349,7 +314,10 @@
 .wsp-faq__q:hover { color: var(--acc-deep); }
 .wsp-faq__a { padding: 0 4px 26px; font-size: 15px; line-height: 1.84; color: var(--mid); font-weight: 300; max-width: 700px; }
 .wsp-faq__a strong { color: var(--acc-deep); font-weight: 600; }
-@media (max-width: 768px) { .wsp-faq { padding: 80px 0; } }
+@media (max-width: 768px) {
+  .wsp-faq { padding: 80px 0; }
+}
+
 
 .wsp-contact { background: var(--cream); }
 .wsp-contact__direct { display: flex; flex-direction: column; gap: 10px; margin-bottom: 30px; }
@@ -367,7 +335,10 @@
 .cf-feat-dot { width: 22px; height: 22px; border-radius: 50%; background: var(--acc); display: flex; align-items: center; justify-content: center; font-size: 10px; font-weight: 700; color: var(--acc-ink); flex-shrink: 0; font-family: var(--f-m); }
 .cf-box { background: var(--white); border: 1px solid var(--border); border-radius: var(--rlg); padding: 40px 38px; position: relative; overflow: hidden; }
 .cf-box::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 3px; background: linear-gradient(90deg, var(--acc) 0%, var(--acc2) 60%, transparent 100%); }
-@media (max-width: 1024px) { .contact-sec { padding: 80px 0; } .contact-sec__in { grid-template-columns: 1fr; gap: 44px; } .cf-box { padding: 32px 26px; } }
+@media (max-width: 1024px) {
+  .contact-sec { padding: 80px 0; } .contact-sec__in { grid-template-columns: 1fr; gap: 44px; } .cf-box { padding: 32px 26px; }
+}
+
 
 /* formular pe pagină — același stil ca pe /contact */
 .cf-box form p { margin: 0; }
@@ -422,7 +393,436 @@
 a.rev-card__firma:hover { text-decoration: underline; }
 .rev-card__cand { font-family: var(--f-m); font-size: 10.5px; letter-spacing: .06em; text-transform: uppercase; color: var(--light); margin-top: 3px; }
 .revs__foot { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 28px; }
-@media (max-width: 1000px) { .wsp-revs { padding: 80px 0; } .revs__grid { grid-template-columns: 1fr; max-width: 460px; } }
+@media (max-width: 1000px) {
+  .wsp-revs { padding: 80px 0; } .revs__grid { grid-template-columns: 1fr; max-width: 460px; }
+}
+
+
+/* ╔══════════════════════════════════════════════════
+   ║  SLIDER LATERAL, ACELASI CA PE PAGINA DE START
+   ╚══════════════════════════════════════════════════ */
+.port-head {
+  display: flex; align-items: flex-end; justify-content: space-between;
+  gap: 24px; margin-bottom: 48px;
+  padding: 0 var(--gut); max-width: var(--max); margin-left: auto; margin-right: auto;
+}
+.port-nav { display: flex; gap: 10px; }
+.pnb { width: 44px; height: 44px; border-radius: 50%; border: 1.5px solid var(--border); display: flex; align-items: center; justify-content: center; color: var(--ink); transition: .22s; }
+.pnb:hover:not(:disabled) { background: var(--acc); color: var(--acc-ink); border-color: var(--acc-deep); }
+.pnb:disabled { opacity: .22; cursor: not-allowed; }
+.port-wrap { overflow: hidden; cursor: grab; user-select: none; -webkit-user-select: none; }
+.port-wrap:active { cursor: grabbing; }
+.port-track { display: flex; gap: 20px; padding: 0 var(--gut); transition: transform .55s cubic-bezier(.25,.46,.45,.94); will-change: transform; }
+.port-dots { display: flex; justify-content: center; gap: 7px; margin-top: 32px; }
+.port-dot { width: 5px; height: 5px; border-radius: 50%; background: var(--border); transition: .3s; cursor: pointer; border: none; }
+.port-dot.on { background: var(--acc); width: 18px; border-radius: 3px; }
+.port-loading { text-align: center; padding: 24px; color: var(--light); font-size: 11px; font-family: var(--f-m); display: none; }
+.port-loading.on { display: block; }
+@media(max-width:640px) {
+  .port-head { flex-direction: column; align-items: flex-start; }
+    .port-track { padding: 0 var(--gut); }
+}
+
+/* ╔══════════════════════════════════════════════════
+   ║  SLIDERE CU IMAGINI 4:5 (dezvoltatori / parteneri)
+   ╚══════════════════════════════════════════════════ */
+.sqs { padding: 96px 0 84px; overflow: hidden; background: var(--white); }
+.sqs--dev { background: var(--cream); }
+.sqs .port-head { margin-bottom: 40px; }
+.sq-card {
+  flex: 0 0 auto;
+  width: 100%;
+  max-width: 22%;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.sq-card__img {
+  display: block;
+  position: relative;
+  aspect-ratio: 4 / 5;
+  border-radius: 12px;
+  overflow: hidden;
+  background: var(--cream2);
+  transition: transform .35s cubic-bezier(.25,.46,.45,.94),
+              box-shadow .35s cubic-bezier(.25,.46,.45,.94);
+}
+.sq-card:hover .sq-card__img {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 40px rgba(17,16,16,.08);
+}
+.sq-card__img img {
+  width: 100%; height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.sq-card__name {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--ink);
+  padding-left: 2px;
+}
+.sq-card:hover .sq-card__name { color: var(--acc-deep); }
+@media (max-width: 1024px) {
+  .sqs { padding: 72px 0 64px; }
+    .sq-card { max-width: 30%; }
+}
+
+@media (max-width: 720px) {
+  .sq-card { max-width: 65vw; }
+    .sq-card__img { border-radius: 10px; }
+    .sq-card__name { font-size: 13px; }
+}
+
+.wsp-work .port-head { margin-bottom: 40px; align-items: flex-end; }
+.wsp-work .port-head > div:first-child { max-width: 820px; }
+.wsp-work__more { margin-top: 44px; text-align: center; }
+.wsp-hero { align-items: center; }
+@media (max-width: 991px) {
+  .wsp-hero__overlay {
+      background: linear-gradient(180deg, rgba(17,16,16,.30) 0%, rgba(17,16,16,.88) 26%, var(--ink) 46%);
+    }
+}
+
+@media (max-width: 720px) {
+  .wsp-work .port-head { flex-direction: column; align-items: flex-start; }
+}
+
+
+/* ╔══════════════════════════════════════════════════
+   ║  HERO PE DOUA COLOANE, CU MACHETA DE TELEFON
+   ╚══════════════════════════════════════════════════ */
+/* overflow-x: clip, nu hidden — hidden omoara position: sticky din telefon */
+.wsp-hero { overflow: visible; overflow-x: clip; }
+
+.wsp-hero__grid {
+  display: grid;
+  grid-template-columns: 1.05fr .95fr;
+  gap: 54px;
+  align-items: center;
+}
+
+.wsp-pills { display: flex; gap: 10px; flex-wrap: wrap; margin: 0 0 28px; }
+.wsp-pill {
+  display: flex; flex-direction: column; gap: 2px;
+  padding: 10px 16px;
+  border: 1px solid rgba(255,255,255,.16);
+  border-radius: 12px;
+  background: rgba(255,255,255,.04);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+}
+.wsp-pill__l {
+  font-family: var(--f-m); font-size: 9px; letter-spacing: .12em;
+  text-transform: uppercase; color: rgba(255,255,255,.5);
+}
+.wsp-pill__v {
+  font-family: var(--f-d); font-weight: 800; font-size: 19px;
+  letter-spacing: -.02em; color: var(--acc2);
+}
+.wsp-hero__nota {
+  margin: 22px 0 0; font-size: 13px; font-weight: 300; line-height: 1.7;
+  color: rgba(255,255,255,.5);
+}
+.wsp-hero__meta { margin-top: 24px; }
+/* pe doua coloane titlul are mai putin loc, deci scade */
+@media (min-width: 992px) {
+  .wsp-hero__hed { font-size: clamp(46px, 5.4vw, 78px); }
+}
+
+/* macheta de telefon, desenata din CSS */
+.wsp-tel-zona { position: relative; }
+.wsp-tel-lipit { display: flex; align-items: center; justify-content: center; }
+.wsp-tel {
+  position: relative;
+  width: 300px; margin: 0 auto; padding: 12px;
+  border-radius: 42px;
+  background: linear-gradient(150deg, #2a2a26, #0a0a09 62%);
+  box-shadow:
+    0 40px 70px rgba(0,0,0,.45),
+    0 4px 14px rgba(0,0,0,.3),
+    inset 0 0 0 1px rgba(255,255,255,.09);
+  transform: perspective(1400px) rotateY(-15deg) rotateX(5deg) rotate(2deg);
+}
+.wsp-tel::after {
+  position: absolute; top: 12px; left: 50%; z-index: 2;
+  width: 96px; height: 22px;
+  border-radius: 0 0 12px 12px;
+  background: #0a0a09;
+  transform: translateX(-50%);
+  content: "";
+}
+.wsp-tel__ecran {
+  position: relative; overflow: hidden;
+  aspect-ratio: 430 / 900;
+  border-radius: 31px;
+  background: var(--cream);
+}
+.wsp-tel__ecran img { display: block; width: 100%; height: auto; will-change: transform; }
+.wsp-tel__umbra {
+  position: absolute; right: 8%; bottom: -34px; left: 8%;
+  height: 34px; border-radius: 50%;
+  background: radial-gradient(closest-side, rgba(0,0,0,.5), transparent);
+}
+.wsp-tel__eticheta {
+  position: absolute; right: -6px; bottom: 26px; z-index: 3;
+  display: flex; align-items: center; gap: 7px;
+  padding: 7px 13px;
+  border-radius: 100px;
+  background: var(--acc); color: var(--acc-ink);
+  font-family: var(--f-m); font-size: 10px; font-weight: 500;
+  letter-spacing: .08em; text-transform: uppercase;
+  box-shadow: 0 10px 24px rgba(0,0,0,.28);
+}
+@media (max-width: 991px) {
+  .wsp-hero__grid { grid-template-columns: 1fr; gap: 40px; }
+    /* zona mai inalta decat ecranul: aici se deruleaza site-ul din telefon */
+    .wsp-tel-zona { height: 250vh; }
+    .wsp-tel-lipit { position: sticky; top: 8vh; height: 84vh; }
+    .wsp-tel { transform: perspective(1400px) rotateY(-8deg) rotate(1deg); }
+}
+
+@media (max-width: 640px) {
+  .wsp-tel { width: 258px; }
+    .wsp-tel__eticheta { right: -4px; bottom: 16px; padding: 5px 10px; font-size: 8.5px; }
+    .wsp-pill__v { font-size: 17px; }
+}
+
+
+/* ╔══════════════════════════════════════════════════
+   ║  BANDA CU UNELTE
+   ╚══════════════════════════════════════════════════ */
+.wsp-band {
+  padding: 26px 0;
+  background: var(--white);
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+}
+.wsp-band__t {
+  margin: 0 0 18px; text-align: center;
+  font-family: var(--f-m); font-size: 10px; letter-spacing: .16em;
+  text-transform: uppercase; color: var(--light);
+}
+.wsp-band__cadru { position: relative; overflow: hidden; }
+.wsp-band__cadru::before,
+.wsp-band__cadru::after {
+  position: absolute; top: 0; bottom: 0; z-index: 2;
+  width: 90px; pointer-events: none; content: "";
+}
+.wsp-band__cadru::before { left: 0; background: linear-gradient(to right, var(--white), transparent); }
+.wsp-band__cadru::after { right: 0; background: linear-gradient(to left, var(--white), transparent); }
+.wsp-band__pista { display: flex; width: max-content; animation: wspBanda 38s linear infinite; }
+.wsp-band__cadru:hover .wsp-band__pista { animation-play-state: paused; }
+@keyframes wspBanda { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+.wsp-band__set { display: flex; align-items: center; }
+.wsp-band__u {
+  display: flex; align-items: center; gap: 9px;
+  padding: 0 26px;
+  white-space: nowrap;
+  font-family: var(--f-m); font-size: 12px; letter-spacing: .02em;
+  color: var(--mid);
+}
+.wsp-band__u svg, .wsp-band__u i { font-size: 19px; flex-shrink: 0; }
+.wsp-band__u b {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 26px; height: 20px; border-radius: 5px;
+  background: var(--ink); color: var(--acc2);
+  font-family: var(--f-d); font-size: 10px; font-weight: 800; letter-spacing: -.02em;
+}
+
+/* ╔══════════════════════════════════════════════════
+   ║  TREI PACHETE DE SITE
+   ╚══════════════════════════════════════════════════ */
+.wsp-pk { padding: 100px 0; background: var(--cream); }
+.wsp-pk__grid {
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px;
+  align-items: stretch;
+}
+.wsp-pk__c {
+  position: relative; display: flex; flex-direction: column;
+  padding: 36px 30px 30px;
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--rlg);
+  transition: .3s;
+}
+.wsp-pk__c:hover {
+  transform: translateY(-6px);
+  border-color: rgba(155,195,26,.3);
+  box-shadow: 0 20px 48px rgba(155,195,26,.08);
+}
+.wsp-pk__c--rec { background: var(--ink); border-color: var(--ink); }
+.wsp-pk__c--rec:hover { box-shadow: 0 24px 56px rgba(17,16,16,.22); }
+.wsp-pk__badge {
+  position: absolute; top: -12px; left: 50%; transform: translateX(-50%);
+  padding: 5px 14px; border-radius: 100px;
+  background: var(--acc); color: var(--acc-ink);
+  font-family: var(--f-m); font-size: 9px; font-weight: 500;
+  letter-spacing: .12em; text-transform: uppercase;
+  white-space: nowrap;
+}
+.wsp-pk__n {
+  font-family: var(--f-m); font-size: 11px; letter-spacing: .14em;
+  text-transform: uppercase; color: var(--mid); margin-bottom: 8px;
+}
+.wsp-pk__c--rec .wsp-pk__n { color: rgba(255,255,255,.5); }
+.wsp-pk__p {
+  font-family: var(--f-d); font-weight: 800; font-size: clamp(34px, 4vw, 46px);
+  line-height: 1; letter-spacing: -.04em; color: var(--acc-deep); margin-bottom: 4px;
+}
+.wsp-pk__c--rec .wsp-pk__p { color: var(--acc2); }
+.wsp-pk__sub { font-size: 12px; color: var(--light); margin-bottom: 20px; }
+.wsp-pk__c--rec .wsp-pk__sub { color: rgba(255,255,255,.42); }
+.wsp-pk__d {
+  font-size: 13.5px; line-height: 1.7; font-weight: 300; color: var(--mid);
+  padding-bottom: 20px; margin-bottom: 20px; border-bottom: 1px solid var(--border);
+}
+.wsp-pk__c--rec .wsp-pk__d { color: rgba(255,255,255,.62); border-bottom-color: rgba(255,255,255,.12); }
+.wsp-pk__l { list-style: none; padding: 0; margin: 0 0 26px; display: flex; flex-direction: column; gap: 12px; flex: 1; }
+.wsp-pk__l li {
+  position: relative; padding-left: 19px;
+  font-size: 13.5px; line-height: 1.55; color: var(--ink);
+}
+.wsp-pk__c--rec .wsp-pk__l li { color: rgba(255,255,255,.9); }
+.wsp-pk__l li i {
+  display: block; margin-top: 2px;
+  font-size: 12px; font-style: normal; font-weight: 300; color: var(--light);
+}
+.wsp-pk__c--rec .wsp-pk__l li i { color: rgba(255,255,255,.42); }
+.wsp-pk__l li::before {
+  content: "✓"; position: absolute; left: 0; top: 0; line-height: 1.9;
+  font-size: 11px; font-weight: 700; color: var(--acc-deep);
+}
+.wsp-pk__c--rec .wsp-pk__l li::before { color: var(--acc2); }
+.wsp-pk__nota {
+  margin: 30px auto 0; max-width: 640px; text-align: center;
+  font-size: 13px; font-weight: 300; line-height: 1.75; color: var(--mid);
+}
+@media (max-width: 900px) {
+  .wsp-pk__grid { grid-template-columns: 1fr; gap: 26px; }
+    .wsp-pk { padding: 72px 0; }
+}
+
+
+/* ╔══════════════════════════════════════════════════
+   ║  CRM SI MASURARE
+   ╚══════════════════════════════════════════════════ */
+.wsp-crm { padding: 100px 0; background: var(--ink); color: var(--white); }
+.wsp-msr { padding: 100px 0; background: var(--cream); }
+.wsp-duo { display: grid; grid-template-columns: 1fr 1.05fr; gap: 60px; align-items: center; }
+.wsp-msr .wsp-duo { grid-template-columns: 1.05fr 1fr; }
+.wsp-eyebrow {
+  display: inline-flex; align-items: center; gap: 8px;
+  padding: 5px 13px; margin-bottom: 20px;
+  border-radius: 100px;
+  background: var(--acc); color: var(--acc-ink);
+  font-family: var(--f-m); font-size: 10px; font-weight: 500;
+  letter-spacing: .1em; text-transform: uppercase;
+}
+.wsp-crm h2 { color: var(--white); }
+.wsp-crm h2, .wsp-msr h2 { margin-bottom: 22px; font-size: clamp(30px, 3.3vw, 44px); }
+.wsp-crm .wsp-lead { color: rgba(255,255,255,.62); }
+.wsp-lead { font-size: 16px; line-height: 1.8; font-weight: 300; color: var(--mid); margin-bottom: 26px; }
+.wsp-puncte { list-style: none; padding: 0; margin: 0 0 26px; display: flex; flex-direction: column; gap: 14px; }
+.wsp-puncte li { display: flex; align-items: flex-start; gap: 12px; font-size: 14.5px; line-height: 1.65; }
+.wsp-crm .wsp-puncte li { color: rgba(255,255,255,.78); }
+.wsp-msr .wsp-puncte li { color: var(--mid); }
+.wsp-puncte li::before {
+  content: "→"; flex-shrink: 0; color: var(--acc-deep); font-weight: 700; margin-top: 1px;
+}
+.wsp-crm .wsp-puncte li::before { color: var(--acc2); }
+
+/* rama de browser pentru machete */
+.wsp-ecran {
+  border-radius: 14px; overflow: hidden;
+  border: 1px solid var(--border);
+  background: var(--white);
+  box-shadow: 0 30px 70px rgba(0,0,0,.28);
+}
+.wsp-crm .wsp-ecran { border-color: rgba(255,255,255,.12); }
+.wsp-msr .wsp-ecran { box-shadow: 0 24px 54px rgba(17,16,16,.09); }
+.wsp-ecran__bara {
+  display: flex; align-items: center; gap: 6px;
+  padding: 10px 14px;
+  background: var(--cream2);
+  border-bottom: 1px solid var(--border);
+}
+.wsp-ecran__bara i { width: 9px; height: 9px; border-radius: 50%; background: var(--cream3); }
+.wsp-ecran__bara i:first-child { background: #FF5F57; }
+.wsp-ecran__bara i:nth-child(2) { background: #FEBC2E; }
+.wsp-ecran__bara i:nth-child(3) { background: #28C840; }
+.wsp-ecran__bara span {
+  flex: 1; margin-left: 8px; padding: 4px 10px;
+  border-radius: 5px; background: var(--white);
+  font-family: var(--f-m); font-size: 10px; color: var(--light);
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+.wsp-ecran__corp { padding: 16px; background: var(--cream); }
+
+/* macheta CRM */
+.wsp-crm__col { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; }
+.wsp-crm__cap {
+  font-family: var(--f-m); font-size: 8.5px; letter-spacing: .1em;
+  text-transform: uppercase; color: var(--mid); padding: 0 0 8px 2px;
+}
+.wsp-crm__cap b {
+  display: inline-block; margin-left: 5px; padding: 1px 5px;
+  border-radius: 20px; background: var(--cream2); color: var(--mid);
+  font-family: var(--f-b); font-size: 9px; font-weight: 600; letter-spacing: 0;
+}
+.wsp-crm__f {
+  background: var(--white); border: 1px solid var(--border);
+  border-radius: 8px; padding: 9px 9px 8px; margin-bottom: 7px;
+}
+.wsp-crm__f--acc { border-color: rgba(155,195,26,.5); box-shadow: 0 3px 10px rgba(155,195,26,.12); }
+.wsp-crm__nume { font-size: 10.5px; font-weight: 700; color: var(--ink); margin-bottom: 3px; }
+.wsp-crm__meta { font-size: 8.5px; color: var(--light); line-height: 1.5; }
+.wsp-crm__sursa {
+  display: inline-block; margin-top: 5px; padding: 1px 6px;
+  border-radius: 20px; background: var(--acc-bg); color: var(--acc-ink);
+  font-family: var(--f-m); font-size: 8px; letter-spacing: .04em;
+}
+
+/* macheta de trafic */
+.wsp-msr__stat { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-bottom: 12px; }
+.wsp-msr__s { background: var(--white); border: 1px solid var(--border); border-radius: 9px; padding: 11px 12px; }
+.wsp-msr__s b {
+  display: block; font-family: var(--f-d); font-size: 19px; font-weight: 800;
+  letter-spacing: -.03em; color: var(--ink); line-height: 1; margin-bottom: 4px;
+}
+.wsp-msr__s b.acc { color: var(--acc-deep); }
+.wsp-msr__s span {
+  font-family: var(--f-m); font-size: 8px; letter-spacing: .08em;
+  text-transform: uppercase; color: var(--light);
+}
+.wsp-msr__graf {
+  background: var(--white); border: 1px solid var(--border); border-radius: 9px;
+  padding: 13px 13px 10px;
+}
+.wsp-msr__graf-t {
+  display: flex; align-items: center; justify-content: space-between; margin-bottom: 11px;
+  font-family: var(--f-m); font-size: 9px; letter-spacing: .08em;
+  text-transform: uppercase; color: var(--mid);
+}
+.wsp-msr__bare { display: flex; align-items: flex-end; gap: 6px; height: 66px; }
+.wsp-msr__bare span { flex: 1; background: var(--cream3); border-radius: 3px 3px 0 0; }
+.wsp-msr__bare span.on { background: var(--acc); }
+.wsp-msr__logo { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 22px; }
+.wsp-msr__logo span {
+  display: inline-flex; align-items: center; gap: 7px;
+  padding: 7px 13px; border-radius: 100px;
+  background: var(--white); border: 1px solid var(--border);
+  font-family: var(--f-m); font-size: 11px; color: var(--ink);
+}
+.wsp-msr__logo i { font-size: 13px; }
+@media (max-width: 900px) {
+  .wsp-duo, .wsp-msr .wsp-duo { grid-template-columns: 1fr; gap: 40px; }
+    .wsp-msr .wsp-duo > *:first-child { order: 2; }
+    .wsp-crm, .wsp-msr { padding: 72px 0; }
+    .wsp-crm__col { grid-template-columns: repeat(2, 1fr); }
+}
+
+
 </style>
 
 
@@ -438,215 +838,410 @@ a.rev-card__firma:hover { text-decoration: underline; }
   <div class="wsp-hero__overlay" aria-hidden="true"></div>
 
   <div class="wrap wsp-hero__content">
+    <div class="wsp-hero__grid">
 
-    <nav class="wsp-crumb" aria-label="Breadcrumb">
-      <a href="/en/">Home</a>
-      <span aria-hidden="true">/</span>
-      <a href="/en/#services">Services</a>
-      <span aria-hidden="true">/</span>
-      <span aria-current="page">Business website</span>
-    </nav>
+      <div class="wsp-hero__text">
+        <nav class="wsp-crumb" aria-label="Breadcrumb">
+          <a href="/en/">Home</a>
+          <span aria-hidden="true">/</span>
+          <a href="/en/#services">Services</a>
+          <span aria-hidden="true">/</span>
+          <span aria-current="page">Business website</span>
+        </nav>
 
-    <h1 class="wsp-hero__hed" id="wsp-hero-h">
-      Web design<br>
-      that <span class="acc">sells</span>
-    </h1>
+        <h1 class="wsp-hero__hed" id="wsp-hero-h">
+          Web design<br>
+          that <span class="acc">sells</span>
+        </h1>
 
-    <p class="wsp-hero__lead">
-      We build your website from scratch, shaped around your brand and what you need it to do. It comes with a <strong>CRM included</strong>, so you can see every enquiry and which button it came from, with measurement in place from day one and copy written to sell. We test it on phone, tablet and desktop before we hand it over. <strong>Published prices from $600</strong>, paid once — the site stays yours.
-    </p>
+        <p class="wsp-hero__lead">
+          We build your website from scratch, shaped around your brand and what you need it to do. It comes with a <strong>CRM included</strong>, so you can see every enquiry and which button it came from, with measurement in place from day one and copy written to sell. We test it on phone, tablet and desktop before we hand it over.
+        </p>
 
-    <div class="wsp-hero__acts">
-      <a href="#contact" class="btn btn-solid">
-        Get a free quote <span aria-hidden="true">→</span>
-      </a>
-      <a href="https://wa.me/40771486499" target="_blank" rel="noopener" class="btn btn-dark">
-        <i class="fab fa-whatsapp" aria-hidden="true"></i> Message us on WhatsApp
-      </a>
-    </div>
+        <div class="wsp-pills">
+          <span class="wsp-pill"><span class="wsp-pill__l">Basic</span><span class="wsp-pill__v">$870</span></span>
+          <span class="wsp-pill"><span class="wsp-pill__l">Standard</span><span class="wsp-pill__v">$1,400</span></span>
+          <span class="wsp-pill"><span class="wsp-pill__l">Premium</span><span class="wsp-pill__v">$2,900+</span></span>
+        </div>
 
-    <div class="wsp-hero__meta">
-      <span><i class="fas fa-circle-check" aria-hidden="true"></i> 120+ websites delivered</span>
-      <span><i class="fas fa-award" aria-hidden="true"></i> 12 years in the work</span>
-      <span><i class="fas fa-star" aria-hidden="true"></i> Google reviews 5 out of 5</span>
-      <span><i class="fas fa-clock" aria-hidden="true"></i> Reply within 24 hours</span>
+        <div class="wsp-hero__acts">
+          <a href="#contact" class="btn btn-solid">
+            Get a free quote <span aria-hidden="true">→</span>
+          </a>
+          <a href="https://wa.me/40771486499" target="_blank" rel="noopener" class="btn btn-dark">
+            <i class="fab fa-whatsapp" aria-hidden="true"></i> Message us on WhatsApp
+          </a>
+        </div>
+
+        <p class="wsp-hero__nota">
+          Paid once. The site, the content and the domain stay yours.
+        </p>
+
+        <div class="wsp-hero__meta">
+          <span><i class="fas fa-circle-check" aria-hidden="true"></i> 120+ websites delivered</span>
+          <span><i class="fas fa-award" aria-hidden="true"></i> 12 years in the work</span>
+          <span><i class="fas fa-star" aria-hidden="true"></i> Google reviews 5 out of 5</span>
+          <span><i class="fas fa-clock" aria-hidden="true"></i> Reply within 24 hours</span>
+        </div>
+      </div>
+
+      <div class="wsp-tel-zona">
+        <div class="wsp-tel-lipit">
+          <div class="wsp-tel">
+            <div class="wsp-tel__ecran">
+              <img src="/media/telefon-cameo-lung.webp" width="430" height="2700"
+                   alt="The Cameo Residence website, built by Visience, seen on a phone" fetchpriority="high">
+            </div>
+            <span class="wsp-tel__umbra" aria-hidden="true"></span>
+            <span class="wsp-tel__eticheta">A site we delivered</span>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
 </section>
 
 
-<section class="wsp-work" id="work" aria-labelledby="wsp-work-h">
-  <div class="wrap">
-    <div class="wsp-sec-head rv">
-      <h2 class="dd dd-lg" id="wsp-work-h">Websites<br>we have built</h2>
+<section class="wsp-band" aria-label="Tools we work with">
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
+    <symbol id="u-wordpress" viewBox="0 0 24 24"><path fill="#21759B" d="M21.469 6.825c.84 1.537 1.318 3.3 1.318 5.175 0 3.979-2.156 7.456-5.363 9.325l3.295-9.527c.615-1.54.82-2.771.82-3.864 0-.405-.026-.78-.07-1.11m-7.981.105c.647-.03 1.232-.105 1.232-.105.582-.075.514-.93-.067-.899 0 0-1.755.135-2.88.135-1.064 0-2.85-.15-2.85-.15-.585-.03-.661.855-.075.885 0 0 .54.061 1.125.09l1.68 4.605-2.37 7.08L5.354 6.9c.649-.03 1.234-.1 1.234-.1.585-.075.516-.93-.065-.896 0 0-1.746.138-2.874.138-.2 0-.438-.008-.69-.015C4.911 3.15 8.235 1.215 12 1.215c2.809 0 5.365 1.072 7.286 2.833-.046-.003-.091-.009-.141-.009-1.06 0-1.812.923-1.812 1.914 0 .89.513 1.643 1.06 2.531.411.72.89 1.643.89 2.977 0 .915-.354 1.994-.821 3.479l-1.075 3.585-3.9-11.61.001.014zM12 22.784c-1.059 0-2.081-.153-3.048-.437l3.237-9.406 3.315 9.087c.024.053.05.101.078.149-1.12.393-2.325.609-3.582.609M1.211 12c0-1.564.336-3.05.935-4.39L7.29 21.709C3.694 19.96 1.212 16.271 1.211 12M12 0C5.385 0 0 5.385 0 12s5.385 12 12 12 12-5.385 12-12S18.615 0 12 0"/></symbol>
+    <symbol id="u-elementor" viewBox="0 0 24 24"><path fill="#92003B" d="M12 0C5.372 0 0 5.372 0 12c0 6.626 5.372 12 12 12s12-5.372 12-12c0-6.626-5.372-12-12-12ZM9 17H7V7H9Zm8 0H11V15h6Zm0-4H11V11h6Zm0-4H11V7h6Z"/></symbol>
+    <symbol id="u-woocommerce" viewBox="0 0 24 24"><path fill="#96588A" d="M.754 9.58a.754.754 0 00-.754.758v2.525c0 .42.339.758.758.758h3.135l1.431.799-.326-.799h2.373a.757.757 0 00.758-.758v-2.525a.757.757 0 00-.758-.758H.754zm2.709.445h.03c.065.001.124.023.179.067a.26.26 0 01.103.19.29.29 0 01-.033.16c-.13.239-.236.64-.322 1.199-.083.541-.114.965-.094 1.267a.392.392 0 01-.039.219.213.213 0 01-.176.12c-.086.006-.177-.034-.263-.124-.31-.316-.555-.788-.735-1.416-.216.425-.375.744-.478.957-.196.376-.363.568-.502.578-.09.007-.166-.069-.233-.228-.17-.436-.352-1.277-.548-2.524a.297.297 0 01.054-.222c.047-.064.116-.095.21-.102.169-.013.265.065.288.238.103.695.217 1.284.336 1.766l.727-1.387c.066-.126.15-.192.25-.199.146-.01.237.083.273.28.083.441.188.817.315 1.136.086-.844.233-1.453.44-1.828a.255.255 0 01.218-.147zm1.293.36c.056 0 .116.006.18.02.232.05.411.177.53.386.107.18.161.395.161.654 0 .343-.087.654-.26.94-.2.332-.459.5-.781.5a.88.88 0 01-.18-.022.763.763 0 01-.531-.384 1.287 1.287 0 01-.158-.659c0-.342.085-.655.258-.937.202-.333.462-.498.78-.498zm2.084 0c.056 0 .116.006.18.02.236.05.411.177.53.386.107.18.16.395.16.654 0 .343-.086.654-.259.94-.2.332-.459.5-.781.5a.88.88 0 01-.18-.022.763.763 0 01-.531-.384 1.287 1.287 0 01-.16-.659c0-.342.087-.655.26-.937.202-.333.462-.498.78-.498zm4.437.047c-.305 0-.546.102-.718.304-.173.203-.256.49-.256.856 0 .395.086.697.256.906.17.21.418.316.744.316.315 0 .559-.107.728-.316.17-.21.256-.504.256-.883s-.087-.673-.26-.879c-.176-.202-.424-.304-.75-.304zm-1.466.002a1.13 1.13 0 00-.84.326c-.223.22-.332.499-.332.838 0 .362.108.658.328.88.22.223.505.336.861.336.103 0 .22-.016.346-.052v-.54c-.117.034-.216.051-.303.051a.545.545 0 01-.422-.177c-.106-.12-.16-.278-.16-.48 0-.19.053-.348.156-.468a.498.498 0 01.397-.181c.103 0 .212.015.332.049v-.537a1.394 1.394 0 00-.363-.045zm12.414 0a1.135 1.135 0 00-.84.326c-.223.22-.332.499-.332.838 0 .362.108.658.328.88.22.223.506.336.861.336.103 0 .22-.016.346-.052v-.54c-.116.034-.216.051-.303.051a.545.545 0 01-.422-.177c-.106-.12-.16-.278-.16-.48 0-.19.053-.348.156-.468a.498.498 0 01.397-.181c.103 0 .212.015.332.049v-.537a1.394 1.394 0 00-.363-.045zm-9.598.06l-.29 2.264h.579l.156-1.559.395 1.559h.412l.379-1.555.164 1.555h.603l-.304-2.264h-.791l-.12.508c-.03.13-.06.264-.087.4l-.067.352a29.97 29.97 0 00-.258-1.26h-.771zm2.768 0l-.29 2.264h.579l.156-1.559.396 1.559h.412l.375-1.555.165 1.555h.603l-.305-2.264h-.789l-.119.508c-.03.13-.06.264-.086.4l-.066.352c-.063-.352-.15-.771-.26-1.26h-.771zm3.988 0v2.264h.611v-1.031h.012l.494 1.03h.645l-.489-1.019a.61.61 0 00.37-.552.598.598 0 00-.25-.506c-.167-.123-.394-.186-.68-.186h-.713zm3.377 0v2.264H24v-.483h-.63v-.414h.54v-.468h-.54v-.416h.626v-.483H22.76zm-4.793.004v2.264h1.24v-.483h-.627v-.416h.541v-.468h-.54v-.415h.622v-.482h-1.236zm2.025.432c.146.003.25.025.313.072.063.046.091.12.091.227 0 .156-.135.236-.404.24v-.54zm-15.22.011c-.104 0-.205.069-.301.211a1.078 1.078 0 00-.2.639c0 .096.02.2.06.303.049.13.117.198.196.215.083.016.173-.02.27-.106.123-.11.205-.273.252-.492.016-.077.023-.16.023-.246 0-.097-.02-.2-.06-.303-.05-.13-.116-.198-.196-.215a.246.246 0 00-.045-.006zm2.083 0c-.103 0-.204.069-.3.211a1.078 1.078 0 00-.2.639c0 .096.02.2.06.303.049.13.117.198.196.215.083.016.173-.02.27-.106.123-.11.205-.273.252-.492.013-.077.023-.16.023-.246 0-.097-.02-.2-.06-.303-.05-.13-.116-.198-.196-.215a.246.246 0 00-.045-.006zm4.428.006c.233 0 .354.218.354.66-.004.273-.038.46-.098.553a.293.293 0 01-.262.139.266.266 0 01-.242-.139c-.056-.093-.084-.28-.084-.562 0-.436.11-.65.332-.65Z"/></symbol>
+    <symbol id="u-figma" viewBox="0 0 24 24"><path fill="#F24E1E" d="M15.852 8.981h-4.588V0h4.588c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.491-4.49 4.491zM12.735 7.51h3.117c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-3.117V7.51zm0 1.471H8.148c-2.476 0-4.49-2.014-4.49-4.49S5.672 0 8.148 0h4.588v8.981zm-4.587-7.51c-1.665 0-3.019 1.355-3.019 3.019s1.354 3.02 3.019 3.02h3.117V1.471H8.148zm4.587 15.019H8.148c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h4.588v8.98zM8.148 8.981c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h3.117V8.981H8.148zM8.172 24c-2.489 0-4.515-2.014-4.515-4.49s2.014-4.49 4.49-4.49h4.588v4.441c0 2.503-2.047 4.539-4.563 4.539zm-.024-7.51a3.023 3.023 0 0 0-3.019 3.019c0 1.665 1.365 3.019 3.044 3.019 1.705 0 3.093-1.376 3.093-3.068v-2.97H8.148zm7.704 0h-.098c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h.098c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.49-4.49 4.49zm-.097-7.509c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h.098c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-.098z"/></symbol>
+    <symbol id="u-nextdotjs" viewBox="0 0 24 24"><path fill="#000000" d="M18.665 21.978C16.758 23.255 14.465 24 12 24 5.377 24 0 18.623 0 12S5.377 0 12 0s12 5.377 12 12c0 3.583-1.574 6.801-4.067 9.001L9.219 7.2H7.2v9.596h1.615V9.251l9.85 12.727Zm-3.332-8.533 1.6 2.061V7.2h-1.6v6.245Z"/></symbol>
+    <symbol id="u-cloudflare" viewBox="0 0 24 24"><path fill="#F38020" d="M16.5088 16.8447c.1475-.5068.0908-.9707-.1553-1.3154-.2246-.3164-.6045-.499-1.0615-.5205l-8.6592-.1123a.1559.1559 0 0 1-.1333-.0713c-.0283-.042-.0351-.0986-.021-.1553.0278-.084.1123-.1484.2036-.1562l8.7359-.1123c1.0351-.0489 2.1601-.8868 2.5537-1.9136l.499-1.3013c.0215-.0561.0293-.1128.0147-.168-.5625-2.5463-2.835-4.4453-5.5499-4.4453-2.5039 0-4.6284 1.6177-5.3876 3.8614-.4927-.3658-1.1187-.5625-1.794-.499-1.2026.119-2.1665 1.083-2.2861 2.2856-.0283.31-.0069.6128.0635.894C1.5683 13.171 0 14.7754 0 16.752c0 .1748.0142.3515.0352.5273.0141.083.0844.1475.1689.1475h15.9814c.0909 0 .1758-.0645.2032-.1553l.12-.4268zm2.7568-5.5634c-.0771 0-.1611 0-.2383.0112-.0566 0-.1054.0415-.127.0976l-.3378 1.1744c-.1475.5068-.0918.9707.1543 1.3164.2256.3164.6055.498 1.0625.5195l1.8437.1133c.0557 0 .1055.0263.1329.0703.0283.043.0351.1074.0214.1562-.0283.084-.1132.1485-.204.1553l-1.921.1123c-1.041.0488-2.1582.8867-2.5527 1.914l-.1406.3585c-.0283.0713.0215.1416.0986.1416h6.5977c.0771 0 .1474-.0489.169-.126.1122-.4082.1757-.837.1757-1.2803 0-2.6025-2.125-4.727-4.7344-4.727"/></symbol>
+    <symbol id="u-googleanalytics" viewBox="0 0 24 24"><path fill="#E37400" d="M22.84 2.9982v17.9987c.0086 1.6473-1.3197 2.9897-2.967 2.9984a2.9808 2.9808 0 01-.3677-.0208c-1.528-.226-2.6477-1.5558-2.6105-3.1V3.1204c-.0369-1.5458 1.0856-2.8762 2.6157-3.1 1.6361-.1915 3.1178.9796 3.3093 2.6158.014.1201.0208.241.0202.3619zM4.1326 18.0548c-1.6417 0-2.9726 1.331-2.9726 2.9726C1.16 22.6691 2.4909 24 4.1326 24s2.9726-1.3309 2.9726-2.9726-1.331-2.9726-2.9726-2.9726zm7.8728-9.0098c-.0171 0-.0342 0-.0513.0003-1.6495.0904-2.9293 1.474-2.891 3.1256v7.9846c0 2.167.9535 3.4825 2.3505 3.763 1.6118.3266 3.1832-.7152 3.5098-2.327.04-.1974.06-.3983.0593-.5998v-8.9585c.003-1.6474-1.33-2.9852-2.9773-2.9882z"/></symbol>
+    <symbol id="u-googletagmanager" viewBox="0 0 24 24"><path fill="#246FDB" d="M12.003 0a3 3 0 0 0-2.121 5.121l6.865 6.865-4.446 4.541 1.745 1.836a3.432 3.432 0 0 1 .7.739l.012.011-.001.002a3.432 3.432 0 0 1 .609 1.953 3.432 3.432 0 0 1-.09.78l7.75-7.647c.031-.029.067-.05.098-.08.023-.023.038-.052.06-.076a2.994 2.994 0 0 0-.06-4.166l-9-9A2.99 2.99 0 0 0 12.003 0zM8.63 2.133L.88 9.809a2.998 2.998 0 0 0 0 4.238l7.7 7.75a3.432 3.432 0 0 1-.077-.729 3.432 3.432 0 0 1 3.431-3.431 3.432 3.432 0 0 1 .826.101l-5.523-5.81 4.371-4.373-2.08-2.08c-.903-.904-1.193-2.183-.898-3.342zm3.304 16.004a2.932 2.932 0 0 0-2.931 2.931A2.932 2.932 0 0 0 11.934 24a2.932 2.932 0 0 0 2.932-2.932 2.932 2.932 0 0 0-2.932-2.931z"/></symbol>
+    <symbol id="u-googlesearchconsole" viewBox="0 0 24 24"><path fill="#458CF5" d="M8.548 1.156L6.832 2.872v1.682h1.716zm0 3.398v.035H6.832v-.035H3.386L0 7.844v3.577h2.826V8.94c0-.525.429-.954.954-.954h16.476c.525 0 .954.43.954.954v2.48h2.754V7.844l-3.386-3.29H17.3v.035h-1.717v-.035zm7.035 0H17.3V2.872l-1.717-1.716zM8.679 1.188V2.84h6.773V1.188zm11.471 7.07a.834.834 0 00-.132.01l-.543.002c-5.216.014-10.432-.008-15.648.01-.435-.063-.794.436-.716.883v2.264h17.812c-.016-.888.045-1.782-.034-2.666-.104-.342-.427-.502-.739-.502zm-15.422.634a.689.698 0 01.689.698.689.698 0 01-.689.697.689.698 0 01-.688-.697.689.698 0 01.688-.698zm2.134 0a.689.698 0 01.689.698.689.698 0 01-.689.697.689.698 0 01-.688-.697.689.698 0 01.688-.698zM.036 11.645v9.156c0 1.05.858 1.908 1.907 1.908h.883V11.645zm21.174 0v11.064h.882c1.05 0 1.908-.858 1.908-1.908v-9.156zM4.057 13.133v6.85h6.137v-6.85zm13.243.021v3.777l-1.708.977-1.708-.977v-3.758a4.006 4.006 0 000 7.23v2.441h3.457v-2.442a4.006 4.006 0 00-.041-7.248zm-13.243 8.26v1.43h7.925v-1.43z"/></symbol>
+    <symbol id="u-pagespeedinsights" viewBox="0 0 24 24"><path fill="#4285F4" d="M22.363 1.636H1.635C.732 1.636 0 2.37.001 3.273L0 20.727v.003c0 .903.733 1.634 1.635 1.634h20.73c.904 0 1.635-.734 1.635-1.637V3.273c.016-.89-.76-1.64-1.637-1.637zM3.979 2.886c.492-.507 1.279.28.77.772-.491.508-1.278-.279-.77-.771zM1.8 2.89c.507-.509 1.28.265.772.771-.493.502-1.274-.28-.772-.771zm21.7 17.838c.012.611-.524 1.148-1.137 1.136H1.635A1.137 1.137 0 0 1 .5 20.727L.501 4.91H23.5v15.819zM11 16.159l5.946-4.577c.235-.2.576.129.389.372l-.002-.002-3.936 6.35a1.638 1.638 0 0 1-2.448.405c-.785-.668-.811-1.835.05-2.548zm4.763-.75c.09-.168 2.002-3.181 2.06-3.35 2.056 1.813 3.029 4.382 2.898 7.026h-3.819c.073-1.39-.29-2.678-1.139-3.676zm-8.679 3.682H3.278c-.357-7.022 7.148-11.735 13.39-7.92l-3.461 2.618c-3.3-.762-6.364 1.71-6.123 5.302z"/></symbol>
+  </svg>
+  <p class="wsp-band__t">Built and measured with</p>
+  <div class="wsp-band__cadru">
+    <div class="wsp-band__pista">
+      <div class="wsp-band__set">
+        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-wordpress"/></svg>WordPress</span>
+        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-elementor"/></svg>Elementor</span>
+        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-woocommerce"/></svg>WooCommerce</span>
+        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-figma"/></svg>Figma</span>
+        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-nextdotjs"/></svg>Next.js</span>
+        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-cloudflare"/></svg>Cloudflare</span>
+        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-googleanalytics"/></svg>Google Analytics</span>
+        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-googletagmanager"/></svg>Tag Manager</span>
+        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-googlesearchconsole"/></svg>Search Console</span>
+        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-pagespeedinsights"/></svg>PageSpeed</span>
+        <span class="wsp-band__u"><b aria-hidden="true">V28</b>Visience CRM</span>
+      </div>
+      <div class="wsp-band__set" aria-hidden="true">
+        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-wordpress"/></svg>WordPress</span>
+        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-elementor"/></svg>Elementor</span>
+        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-woocommerce"/></svg>WooCommerce</span>
+        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-figma"/></svg>Figma</span>
+        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-nextdotjs"/></svg>Next.js</span>
+        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-cloudflare"/></svg>Cloudflare</span>
+        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-googleanalytics"/></svg>Google Analytics</span>
+        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-googletagmanager"/></svg>Tag Manager</span>
+        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-googlesearchconsole"/></svg>Search Console</span>
+        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-pagespeedinsights"/></svg>PageSpeed</span>
+        <span class="wsp-band__u"><b aria-hidden="true">V28</b>Visience CRM</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="wsp-work" id="proiecte" aria-labelledby="wsp-work-h">
+  <div class="port-head">
+    <div class="rv">
+      <h2 class="dd dd-lg" id="wsp-work-h">Business websites we have built</h2>
       <p class="wsp-work__lead">
         A <strong>business website</strong> shows the company, the services and the people behind them, so visitors turn into customers. We build it from scratch, shaped around your brand and your industry: residential developments, restaurants, shops, design studios, construction firms. Tap any of them to see how it was put together.
       </p>
     </div>
+    <div class="port-nav" role="group" aria-label="Project slider navigation">
+      <button class="pnb" id="wspPrev" aria-label="Previous" disabled><svg width="15" height="15" viewBox="0 0 15 15" fill="none"><path d="M9.5 3L5 7.5l4.5 4.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+      <button class="pnb" id="wspNext" aria-label="Next"><svg width="15" height="15" viewBox="0 0 15 15" fill="none"><path d="M5.5 3L10 7.5 5.5 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+    </div>
+  </div>
 
-    <div class="wsp-tiles rv rv-d1">
-      <a class="wsp-tile" href="/proiecte/vlaicu87/">
-        <span class="wsp-tile__img">
-          <img src="/media/tiles/v2/vlaicu87.avif" alt="Vlaicu87 — business website built by Visience"
-               width="720" height="900" loading="lazy">
-        </span>
-        <span class="wsp-tile__b">
-          <span class="wsp-tile__n">Vlaicu87</span>
-          <span class="wsp-tile__t">Residential development · Iași</span>
-        </span>
-        <span class="wsp-tile__u">vlaicu87.ro</span>
+  <div class="port-wrap" id="wspWrap" tabindex="0" role="region" aria-label="Business website slider">
+    <div class="port-track" id="wspTrack">
+
+      <a class="sq-card" href="/proiecte/vlaicu87/">
+        <span class="sq-card__img"><img src="/media/tiles/v2/vlaicu87.avif" alt="Vlaicu87 — business website built by Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Vlaicu87</span>
       </a>
-      <a class="wsp-tile" href="/proiecte/casa-vatra/">
-        <span class="wsp-tile__img">
-          <img src="/media/tiles/v2/casa-vatra.fc383a.avif" alt="Casa Vatră — business website built by Visience"
-               width="720" height="900" loading="lazy">
-        </span>
-        <span class="wsp-tile__b">
-          <span class="wsp-tile__n">Casa Vatră</span>
-          <span class="wsp-tile__t">Restaurant and hotel · Rădăuți</span>
-        </span>
-        <span class="wsp-tile__u">casavatra.ro</span>
+
+      <a class="sq-card" href="/proiecte/cameo-residence/">
+        <span class="sq-card__img"><img src="/media/tiles/v2/cameo-residence.avif" alt="Cameo Residence — business website built by Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Cameo Residence</span>
       </a>
-      <a class="wsp-tile" href="/proiecte/velomed/">
-        <span class="wsp-tile__img">
-          <img src="/media/tiles/v2/velomed.avif" alt="Velomed — business website built by Visience"
-               width="720" height="900" loading="lazy">
-        </span>
-        <span class="wsp-tile__b">
-          <span class="wsp-tile__n">Velomed</span>
-          <span class="wsp-tile__t">Management and consulting · Iași</span>
-        </span>
-        <span class="wsp-tile__u">velomed.ro</span>
+
+      <a class="sq-card" href="/proiecte/casa-vatra/">
+        <span class="sq-card__img"><img src="/media/tiles/v2/casa-vatra.fc383a.avif" alt="Casa Vatră — business website built by Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Casa Vatră</span>
       </a>
-      <a class="wsp-tile" href="/proiecte/cameo-residence/">
-        <span class="wsp-tile__img">
-          <img src="/media/tiles/v2/cameo-residence.avif" alt="Cameo Residence — business website built by Visience"
-               width="720" height="900" loading="lazy">
-        </span>
-        <span class="wsp-tile__b">
-          <span class="wsp-tile__n">Cameo Residence</span>
-          <span class="wsp-tile__t">Residential development · Iași</span>
-        </span>
-        <span class="wsp-tile__u">cameoresidence.ro</span>
+
+      <a class="sq-card" href="/proiecte/velomed/">
+        <span class="sq-card__img"><img src="/media/tiles/v2/velomed.avif" alt="Velomed — business website built by Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Velomed</span>
       </a>
-      <a class="wsp-tile" href="/proiecte/amodelic/">
-        <span class="wsp-tile__img">
-          <img src="/media/tiles/v2/amodelic.avif" alt="Amodelic — business website built by Visience"
-               width="720" height="900" loading="lazy">
-        </span>
-        <span class="wsp-tile__b">
-          <span class="wsp-tile__n">Amodelic</span>
-          <span class="wsp-tile__t">Architecture and design studio · Iași</span>
-        </span>
-        <span class="wsp-tile__u">amodelic.com</span>
+
+      <a class="sq-card" href="/proiecte/amodelic/">
+        <span class="sq-card__img"><img src="/media/tiles/v2/amodelic.avif" alt="Amodelic — business website built by Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Amodelic</span>
       </a>
-      <a class="wsp-tile" href="/proiecte/2m-tech/">
-        <span class="wsp-tile__img">
-          <img src="/media/tiles/v2/2m-tech.avif" alt="2M Tech — business website built by Visience"
-               width="720" height="900" loading="lazy">
-        </span>
-        <span class="wsp-tile__b">
-          <span class="wsp-tile__n">2M Tech</span>
-          <span class="wsp-tile__t">Construction · Iași</span>
-        </span>
-        <span class="wsp-tile__u">2mtech.ro</span>
+
+      <a class="sq-card" href="/proiecte/2m-tech/">
+        <span class="sq-card__img"><img src="/media/tiles/v2/2m-tech.avif" alt="2M Tech — business website built by Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">2M Tech</span>
       </a>
+
+      <a class="sq-card" href="/proiecte/im-design-studio/">
+        <span class="sq-card__img"><img src="/media/tiles/v2/im-design-studio.avif" alt="IM Design Studio — business website built by Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">IM Design Studio</span>
+      </a>
+
+      <a class="sq-card" href="/proiecte/artesano-mob/">
+        <span class="sq-card__img"><img src="/media/tiles/v2/artesano-mob.avif" alt="Artesano Mob — business website built by Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Artesano Mob</span>
+      </a>
+
+      <a class="sq-card" href="/proiecte/alyya-beauty/">
+        <span class="sq-card__img"><img src="/media/tiles/v2/alyya-beauty.avif" alt="Alyya Beauty — business website built by Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Alyya Beauty</span>
+      </a>
+
+      <a class="sq-card" href="/proiecte/gs-gomma/">
+        <span class="sq-card__img"><img src="/media/tiles/v2/gs-gomma.avif" alt="GS Gomma — business website built by Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">GS Gomma</span>
+      </a>
+
+    </div>
+  </div>
+  <div class="port-dots" id="wspDots" aria-hidden="true"></div>
+
+  <div class="wrap wsp-work__more">
+    <a href="/en/portfolio/" class="btn btn-line">See the full portfolio <span aria-hidden="true">→</span></a>
+  </div>
+</section>
+
+
+<section class="wsp-pk" id="pachete" aria-labelledby="wsp-pk-h">
+  <div class="wrap">
+    <div class="wsp-sec-head rv">
+      <h2 class="dd dd-lg" id="wsp-pk-h">Three packages,<br>all at a final price</h2>
+      <p class="wsp-work__lead">
+        You pay once, on delivery. No hidden subscription and no licences to renew year after year. All three packages come with a <strong>CRM included</strong>, with measurement in place from day one and technical SEO at launch.
+      </p>
     </div>
 
-    <div class="wsp-work__more rv">
-      <a href="/en/portfolio/" class="btn btn-ghost">See all 120 projects <span aria-hidden="true">→</span></a>
+    <div class="wsp-pk__grid rv rv-d1">
+
+      <div class="wsp-pk__c">
+        <p class="wsp-pk__n">Basic</p>
+        <p class="wsp-pk__p">$870</p>
+        <p class="wsp-pk__sub">up to 6 pages · 2–4 weeks</p>
+        <p class="wsp-pk__d">For firms that need a serious presence and somewhere to send the people who find them on Google and on social.</p>
+        <ul class="wsp-pk__l">
+          <li>Responsive design, tested on phone, tablet and desktop</li>
+          <li>Editable CMS<i>you change the text and the photos yourself</i></li>
+          <li>Contact form wired into the CRM</li>
+          <li>Technical SEO at launch<i>titles, descriptions, sitemap, speed</i></li>
+          <li>Admin training, recorded</li>
+        </ul>
+        <a href="#contact" class="btn btn-ghost">Get a quote <span aria-hidden="true">→</span></a>
+      </div>
+
+      <div class="wsp-pk__c wsp-pk__c--rec">
+        <span class="wsp-pk__badge">Most chosen</span>
+        <p class="wsp-pk__n">Standard</p>
+        <p class="wsp-pk__p">$1,400</p>
+        <p class="wsp-pk__sub">10+ pages · 3–6 weeks</p>
+        <p class="wsp-pk__d">What most of our clients pick. A site that brings in enquiries, not just one that looks good.</p>
+        <ul class="wsp-pk__l">
+          <li>Everything in Basic</li>
+          <li>Copywriting included<i>the text written by us, to sell</i></li>
+          <li>Full on-page SEO and Schema.org structured data</li>
+          <li>A separate page for each service</li>
+          <li>Animation and interaction on scroll</li>
+          <li>Google Analytics, Clarity and Tag Manager, configured</li>
+        </ul>
+        <a href="#contact" class="btn btn-solid">Get a quote <span aria-hidden="true">→</span></a>
+      </div>
+
+      <div class="wsp-pk__c">
+        <p class="wsp-pk__n">Premium</p>
+        <p class="wsp-pk__p">$2,900+</p>
+        <p class="wsp-pk__sub">unlimited pages · 4–8 weeks</p>
+        <p class="wsp-pk__d">For brands that want a site made only for them, from the first frame to the last piece of motion.</p>
+        <ul class="wsp-pk__l">
+          <li>Everything in Standard</li>
+          <li>Custom design, drawn from scratch</li>
+          <li>Features built to order<i>calculators, configurators, account areas</i></li>
+          <li>A version in several languages</li>
+          <li>Speed and Core Web Vitals work</li>
+          <li>Priority support after launch</li>
+        </ul>
+        <a href="#contact" class="btn btn-ghost">Get a quote <span aria-hidden="true">→</span></a>
+      </div>
+
+    </div>
+
+    <p class="wsp-pk__nota">
+      These are starting prices and they do not include VAT. They are paid in two parts: half at the start, half on delivery. The domain and the hosting are paid separately, around $115 a year, and stay in your name.
+    </p>
+  </div>
+</section>
+
+
+<section class="wsp-crm" aria-labelledby="wsp-crm-h">
+  <div class="wrap">
+    <div class="wsp-duo">
+
+      <div class="rv">
+        <span class="wsp-eyebrow">Included in the price</span>
+        <h2 class="dd dd-lg" id="wsp-crm-h">A CRM where<br>every enquiry lands</h2>
+        <p class="wsp-lead">
+          The form on the site does not send an email that gets lost between newsletters. Every enquiry goes into a panel of your own, at your address, and stays there until somebody deals with it.
+        </p>
+        <ul class="wsp-puncte">
+          <li>See which page and which button each enquiry came from</li>
+          <li>Move an enquiry from one column to the next, from “new” through to “won”</li>
+          <li>Write notes and set reminders, so nobody gets forgotten</li>
+          <li>Download the lot to Excel, whenever you like, without asking us</li>
+        </ul>
+        <a href="#contact" class="btn btn-solid">Show me how it looks <span aria-hidden="true">→</span></a>
+      </div>
+
+      <div class="rv rv-d1">
+        <div class="wsp-ecran">
+          <div class="wsp-ecran__bara" aria-hidden="true">
+            <i></i><i></i><i></i>
+            <span>yourcompany.com/crm</span>
+          </div>
+          <div class="wsp-ecran__corp">
+            <div class="wsp-crm__col" role="img" aria-label="A CRM board with the enquiries that came in from the site, laid out in columns">
+              <div>
+                <p class="wsp-crm__cap">New <b>3</b></p>
+                <div class="wsp-crm__f wsp-crm__f--acc">
+                  <p class="wsp-crm__nume">Andrew M.</p>
+                  <p class="wsp-crm__meta">Business website<br>4 minutes ago</p>
+                  <span class="wsp-crm__sursa">Hero button</span>
+                </div>
+                <div class="wsp-crm__f">
+                  <p class="wsp-crm__nume">Helen P.</p>
+                  <p class="wsp-crm__meta">Online store<br>2 hours ago</p>
+                  <span class="wsp-crm__sursa">Google Ads</span>
+                </div>
+                <div class="wsp-crm__f">
+                  <p class="wsp-crm__nume">Chris D.</p>
+                  <p class="wsp-crm__meta">Rebranding<br>yesterday</p>
+                  <span class="wsp-crm__sursa">Contact form</span>
+                </div>
+              </div>
+              <div>
+                <p class="wsp-crm__cap">Contacted <b>2</b></p>
+                <div class="wsp-crm__f">
+                  <p class="wsp-crm__nume">Joanna T.</p>
+                  <p class="wsp-crm__meta">Site + SEO<br>called Monday</p>
+                  <span class="wsp-crm__sursa">Google search</span>
+                </div>
+                <div class="wsp-crm__f">
+                  <p class="wsp-crm__nume">Ben V.</p>
+                  <p class="wsp-crm__meta">Campaign landing<br>waiting on us</p>
+                  <span class="wsp-crm__sursa">Facebook</span>
+                </div>
+              </div>
+              <div>
+                <p class="wsp-crm__cap">Quoted <b>2</b></p>
+                <div class="wsp-crm__f">
+                  <p class="wsp-crm__nume">Michael R.</p>
+                  <p class="wsp-crm__meta">Standard, $1,400<br>sent Tuesday</p>
+                  <span class="wsp-crm__sursa">Referral</span>
+                </div>
+                <div class="wsp-crm__f">
+                  <p class="wsp-crm__nume">Alina S.</p>
+                  <p class="wsp-crm__meta">Premium<br>in conversation</p>
+                  <span class="wsp-crm__sursa">WhatsApp</span>
+                </div>
+              </div>
+              <div>
+                <p class="wsp-crm__cap">Won <b>2</b></p>
+                <div class="wsp-crm__f">
+                  <p class="wsp-crm__nume">Robert C.</p>
+                  <p class="wsp-crm__meta">Basic, $870<br>signed</p>
+                  <span class="wsp-crm__sursa">Hero button</span>
+                </div>
+                <div class="wsp-crm__f">
+                  <p class="wsp-crm__nume">Diana L.</p>
+                  <p class="wsp-crm__meta">Standard<br>in progress</p>
+                  <span class="wsp-crm__sursa">Google Ads</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
 </section>
 
 
-<section class="wsp-feat" aria-labelledby="wsp-feat-h">
-  <div class="line-bg" aria-hidden="true">
-    <svg width="100%" height="100%" preserveAspectRatio="none">
-      <line x1="0" y1="15%" x2="100%" y2="55%"/>
-      <line x1="0" y1="45%" x2="100%" y2="85%"/>
-      <line x1="0" y1="75%" x2="100%" y2="25%"/>
-      <line x1="30%" y1="0" x2="80%" y2="100%"/>
-      <line x1="65%" y1="0" x2="15%" y2="100%"/>
-    </svg>
-  </div>
-
+<section class="wsp-msr" aria-labelledby="wsp-msr-h">
   <div class="wrap">
-    <div class="wsp-sec-head rv">
-      <h2 class="dd dd-lg" id="wsp-feat-h">Everything you need,<br>from the start</h2>
-    </div>
+    <div class="wsp-duo">
 
-    <div class="wsp-feat__grid">
-      <div class="wsp-feat__cell rv">
-        <i class="fas fa-mobile-screen-button" aria-hidden="true"></i>
-        <h3>Responsive design</h3>
-        <p>Looks right on phone, tablet and desktop. Mobile-first, tested on real devices.</p>
-      </div>
-      <div class="wsp-feat__cell rv rv-d1">
-        <i class="fas fa-gauge-high" aria-hidden="true"></i>
-        <h3>Loading speed</h3>
-        <p>AVIF images, clean code, lazy loading. Sites that load fast, especially on mobile.</p>
-      </div>
-      <div class="wsp-feat__cell rv rv-d2">
-        <i class="fas fa-magnifying-glass-chart" aria-hidden="true"></i>
-        <h3>Technical SEO</h3>
-        <p>Proper structure, meta data, structured data and a sitemap — ready for Google from day one.</p>
-      </div>
-      <div class="wsp-feat__cell rv">
-        <i class="fas fa-pen-to-square" aria-hidden="true"></i>
-        <h3>Editable CMS</h3>
-        <p>You change text, images and pages yourself, with no technical knowledge. Training session included at handover.</p>
-      </div>
-      <div class="wsp-feat__cell rv rv-d1">
-        <i class="fas fa-shield-halved" aria-hidden="true"></i>
-        <h3>Security &amp; SSL</h3>
-        <p>HTTPS certificate, baseline protection and security good practice configured from the start.</p>
-      </div>
-      <div class="wsp-feat__cell rv rv-d2">
-        <i class="fas fa-headset" aria-hidden="true"></i>
-        <h3>Support &amp; maintenance</h3>
-        <p>Help after handover, plus optional monthly maintenance for updates and backups.</p>
-      </div>
-    </div>
-  </div>
-</section>
-
-
-<section class="wsp-proc" id="process" aria-labelledby="wsp-proc-h">
-  <div class="wrap">
-    <div class="wsp-sec-head rv">
-      <h2 class="dd dd-lg" id="wsp-proc-h">From idea to launch,<br>in 4 steps</h2>
-    </div>
-
-    <div class="wsp-proc__list">
-      <div class="wsp-proc__step rv">
-        <div class="wsp-proc__n">01</div>
-        <div class="wsp-proc__c">
-          <h3>Brief &amp; strategy</h3>
-          <p>We go through your goals, your audience and your competitors. We settle the site structure and the key messages. You get a free analysis, with nothing to sign.</p>
+      <div class="rv rv-d1">
+        <div class="wsp-ecran">
+          <div class="wsp-ecran__bara" aria-hidden="true">
+            <i></i><i></i><i></i>
+            <span>analytics.google.com · yourcompany.com</span>
+          </div>
+          <div class="wsp-ecran__corp">
+            <div role="img" aria-label="A traffic screen with visitors, enquiries and conversion rate">
+              <div class="wsp-msr__stat">
+                <div class="wsp-msr__s"><b>2,847</b><span>visitors</span></div>
+                <div class="wsp-msr__s"><b class="acc">64</b><span>enquiries</span></div>
+                <div class="wsp-msr__s"><b>2.2%</b><span>conversion</span></div>
+              </div>
+              <div class="wsp-msr__graf">
+                <p class="wsp-msr__graf-t"><span>Enquiries per day</span><span>last 14 days</span></p>
+                <div class="wsp-msr__bare">
+                  <span style="height:34%"></span><span style="height:48%"></span><span style="height:29%"></span>
+                  <span style="height:62%"></span><span style="height:55%"></span><span style="height:71%"></span>
+                  <span style="height:44%"></span><span style="height:66%"></span><span class="on" style="height:83%"></span>
+                  <span class="on" style="height:74%"></span><span class="on" style="height:92%"></span>
+                  <span class="on" style="height:68%"></span><span class="on" style="height:88%"></span>
+                  <span class="on" style="height:100%"></span>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
-      <div class="wsp-proc__step rv rv-d1">
-        <div class="wsp-proc__n">02</div>
-        <div class="wsp-proc__c">
-          <h3>Design &amp; copy</h3>
-          <p>We design in line with your brand and write copy aimed at conversion. You see it and approve it before anything gets built.</p>
+
+      <div class="rv">
+        <span class="wsp-eyebrow">In place from day one</span>
+        <h2 class="dd dd-lg" id="wsp-msr-h">You know what the site<br>brings in, you don't guess</h2>
+        <div class="wsp-msr__logo">
+          <span><svg width="14" height="14" aria-hidden="true"><use href="#u-googleanalytics"/></svg>Google Analytics</span>
+          <span><svg width="14" height="14" aria-hidden="true"><use href="#u-googletagmanager"/></svg>Tag Manager</span>
+          <span><svg width="14" height="14" aria-hidden="true"><use href="#u-googlesearchconsole"/></svg>Search Console</span>
+          <span><i class="fas fa-eye" style="color:var(--acc-deep)" aria-hidden="true"></i>Microsoft Clarity</span>
         </div>
+        <p class="wsp-lead">
+          A site you don't measure is a cost you can't say anything about. We put all of it in at launch, and not at extra cost six months later, when you start wondering where the people are coming from.
+        </p>
+        <ul class="wsp-puncte">
+          <li>See how many people come in, where from and what they tap</li>
+          <li>Screen recordings and click maps, in Clarity</li>
+          <li>Every form sent counts as a conversion</li>
+          <li>A monthly report, written in plain words, if you want one</li>
+        </ul>
       </div>
-      <div class="wsp-proc__step rv rv-d2">
-        <div class="wsp-proc__n">03</div>
-        <div class="wsp-proc__c">
-          <h3>Build &amp; optimisation</h3>
-          <p>We build the site fast, responsive and SEO-ready. We test on real devices and tune the speed for a high PageSpeed score.</p>
-        </div>
-      </div>
-      <div class="wsp-proc__step rv rv-d3">
-        <div class="wsp-proc__n">04</div>
-        <div class="wsp-proc__c">
-          <h3>Launch &amp; training</h3>
-          <p>We publish the site, set up analytics and show you how to run it yourself. We stay available for support.</p>
-        </div>
-      </div>
+
     </div>
   </div>
 </section>
@@ -878,7 +1473,6 @@ a.rev-card__firma:hover { text-decoration: underline; }
 </section>
 
 
-
 <section class="rel-strip" aria-label="Related services and published prices">
   <div class="wrap rel-strip__in">
     <div class="rel-trans">
@@ -899,6 +1493,6 @@ a.rev-card__firma:hover { text-decoration: underline; }
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"CI7_6SDvsINrvsQpgDHe-"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"PhOOVxz2Wyb3IhmWY6Yk_"}
 4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
 7:null

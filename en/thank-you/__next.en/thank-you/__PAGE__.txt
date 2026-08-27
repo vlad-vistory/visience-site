@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-4:I[97367,["/_next/static/chunks/3d-sy7z0ug41-.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
 2:T2587,<style>
 .ty-page {
@@ -354,6 +354,6 @@
   </section>
 
 </main>
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"CI7_6SDvsINrvsQpgDHe-"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"PhOOVxz2Wyb3IhmWY6Yk_"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
