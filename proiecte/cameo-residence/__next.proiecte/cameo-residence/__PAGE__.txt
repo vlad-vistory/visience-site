@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T3648,<style>
+2:T3669,<style>
 .cs { background: var(--white); }
 
 /* HERO */
@@ -35,7 +35,7 @@
 .cs-svc__n { font-family: var(--f-m); font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: var(--acc-deep); margin-bottom: 12px; }
 .cs-svc h3 { font-family: var(--f-d); font-weight: 800; font-size: clamp(26px, 3vw, 36px); letter-spacing: -.02em; line-height: 1.06; color: var(--ink); margin: 0 0 16px; }
 .cs-svc p { font-size: 15px; line-height: 1.8; color: var(--mid); font-weight: 300; margin: 0 0 16px; }
-.cs-svc__media img { width: 100%; border-radius: 16px; border: 1px solid var(--border); display: block; box-shadow: 0 20px 44px rgba(17,16,16,.08); }
+.cs-svc__media img { width: 100%; height: auto; border-radius: 16px; border: 1px solid var(--border); display: block; box-shadow: 0 20px 44px rgba(17,16,16,.08); }
 .cs-svc__btn { display: inline-flex; align-items: center; gap: 8px; font-family: var(--f-m); font-size: 11px; font-weight: 500; letter-spacing: .08em; text-transform: uppercase; padding: 12px 22px; border-radius: 100px; background: var(--acc); color: var(--acc-ink); margin-top: 6px; transition: .2s; }
 .cs-svc__btn:hover { background: var(--acc-dark); }
 @media (max-width: 820px) { .cs-svc__grid { grid-template-columns: 1fr; gap: 26px; } .cs-svc--flip .cs-svc__txt { order: 0; } }
@@ -60,7 +60,7 @@
 .cs-gal__grid img { width: 100%; aspect-ratio: 16/9; object-fit: cover; border-radius: 14px; border: 1px solid var(--border); display: block; }
 .cs-plans { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-top: 14px; }
 .cs-plan { background: var(--cream); border: 1px solid var(--border); border-radius: 14px; padding: 16px; }
-.cs-plan img { width: 100%; border-radius: 8px; display: block; margin-bottom: 12px; border: 0; }
+.cs-plan img { width: 100%; height: auto; border-radius: 8px; display: block; margin-bottom: 12px; border: 0; }
 .cs-plan span { font-family: var(--f-m); font-size: 11px; letter-spacing: .06em; text-transform: uppercase; color: var(--mid); }
 @media (max-width: 720px) { .cs-gal__grid { grid-template-columns: 1fr; } .cs-plans { grid-template-columns: 1fr; } }
 
@@ -111,7 +111,7 @@
         <h3>O identitate pe măsura ansamblului</h3>
         <p>Am construit identitatea vizuală Cameo — logo, paletă, tipografie — un semn curat și elegant, care comunică rafinament și discreție încă înainte ca cineva să vadă un apartament. Aceeași identitate apare consecvent pe site, în reclame și pe materialele de vânzare.</p>
       </div>
-      <div class="cs-svc__media"><img src="/media/cameo-social-media-post.avif" alt="Identitate vizuală și materiale de brand pentru Cameo Residence" width="1200" height="1200" loading="lazy"></div>
+      <div class="cs-svc__media"><img src="/media/cameo-brand-board.avif" alt="Identitatea vizuală Cameo Residence: logo, paletă de culori și tipografie" width="1200" height="1200" loading="lazy"></div>
     </div>
   </section>
 
@@ -188,6 +188,6 @@
   </nav>
 
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CreativeWork\",\"@id\":\"https://visience.ro/proiecte/cameo-residence/#case\",\"name\":\"Cameo Residence — studiu de caz\",\"about\":\"Marketing imobiliar pentru ansamblul rezidențial Cameo Residence, Iași\",\"creator\":{\"@type\":\"Organization\",\"name\":\"Visience Creative Experience\",\"url\":\"https://visience.ro/\"},\"keywords\":\"marketing imobiliar, branding, website, Google Ads, Meta Ads, Cameo Residence, Iași\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Acasă\",\"item\":\"https://visience.ro/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Proiecte\",\"item\":\"https://visience.ro/portofoliu/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Cameo Residence\",\"item\":\"https://visience.ro/proiecte/cameo-residence/\"}]}]}"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"1Ue49S-QWmrHjNQIGKdvO"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CreativeWork\",\"@id\":\"https://visience.ro/proiecte/cameo-residence/#case\",\"name\":\"Cameo Residence — studiu de caz\",\"about\":\"Marketing imobiliar pentru ansamblul rezidențial Cameo Residence, Iași\",\"creator\":{\"@type\":\"Organization\",\"name\":\"Visience Creative Experience\",\"url\":\"https://visience.ro/\"},\"keywords\":\"marketing imobiliar, branding, website, Google Ads, Meta Ads, Cameo Residence, Iași\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Acasă\",\"item\":\"https://visience.ro/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Proiecte\",\"item\":\"https://visience.ro/portofoliu/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Cameo Residence\",\"item\":\"https://visience.ro/proiecte/cameo-residence/\"}]}]}"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Cwhc9FyykJy9S8ZM2rY-z"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
