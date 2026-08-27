@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:Teadf,<style>
+2:Tf0b9,<style>
 /* PROJECT CARDS — pj-* (reused din home) */
 .pj-card {
   padding: 10px;
@@ -393,7 +393,7 @@
 .pf-square--logo:hover img { transform: none; }
 .pf-clients-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 18px;
 }
 .pf-client-card {
@@ -487,7 +487,7 @@
   .pf-feat-grid { grid-template-columns: repeat(2, 1fr); }
   .pf-web-grid { grid-template-columns: repeat(3, 1fr); }
   .pf-grid-1to1 { grid-template-columns: repeat(3, 1fr); }
-  .pf-clients-grid { grid-template-columns: repeat(3, 1fr); }
+  .pf-clients-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
   .pf-section__head { margin-bottom: 40px; }
 }
 @media (max-width: 640px) {
@@ -502,7 +502,7 @@
   .pf-feat-grid { grid-template-columns: 1fr; gap: 20px; }
   .pf-web-grid { grid-template-columns: repeat(2, 1fr); gap: 14px; }
   .pf-grid-1to1 { grid-template-columns: repeat(2, 1fr); gap: 12px; }
-  .pf-clients-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+  .pf-clients-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
   .pf-client-card { padding: 20px 14px 16px; }
   .pf-client-card__logo { width: 60px; height: 60px; margin-bottom: 12px; }
   .pf-cta__acts { flex-direction: column; }
@@ -1305,7 +1305,7 @@
           </div>
           <h4 class="pf-client-card__name">Rumpel-M-INFO</h4>
           <p class="pf-client-card__desc">Services allemands d’élimination professionnelle des déchets</p>
-        </a>
+        </div>
 
         <a href="https://bsp.srl/" target="_blank" rel="noopener" class="pf-client-card">
           <div class="pf-client-card__logo">
@@ -1329,7 +1329,7 @@
           </div>
           <h4 class="pf-client-card__name">Alyya Beauty</h4>
           <p class="pf-client-card__desc">Maquillage professionnel, dermopigmentation et microneedling</p>
-        </a>
+        </div>
 
         <a href="https://dqdesign.co.th/" target="_blank" rel="noopener" class="pf-client-card">
           <div class="pf-client-card__logo">
@@ -1353,7 +1353,7 @@
           </div>
           <h4 class="pf-client-card__name">Alexander Tailor</h4>
           <p class="pf-client-card__desc">Styliste privé roumain, tailleur au Royaume-Uni</p>
-        </a>
+        </div>
 
         <a href="https://luciarosca.ro/" target="_blank" rel="noopener" class="pf-client-card">
           <div class="pf-client-card__logo">
@@ -1369,7 +1369,7 @@
           </div>
           <h4 class="pf-client-card__name">BBG Maison Euxine</h4>
           <p class="pf-client-card__desc">L’un des plus grands exportateurs roumains de fruits de mer</p>
-        </a>
+        </div>
 
         <a href="https://velomed.ro/" target="_blank" rel="noopener" class="pf-client-card">
           <div class="pf-client-card__logo">
@@ -1458,6 +1458,6 @@
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://visience.ro/fr/portfolio/#webpage\",\"url\":\"https://visience.ro/fr/portfolio/\",\"name\":\"Portfolio Visience\",\"description\":\"Une sélection de projets web, branding, réseaux sociaux et marketing réalisés par Visience pour des clients en Roumanie, en Italie, en France et en Allemagne.\",\"inLanguage\":\"fr\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Accueil\",\"item\":\"https://visience.ro/fr/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Portfolio\",\"item\":\"https://visience.ro/fr/portfolio/\"}]}]}"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"VYnBYJaerULXZIA5WF5aZ"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://visience.ro/fr/portfolio/#webpage\",\"url\":\"https://visience.ro/fr/portfolio/\",\"name\":\"Portfolio Visience\",\"description\":\"Une sélection de projets web, branding, réseaux sociaux et marketing réalisés par Visience pour des clients en Roumanie, en Italie, en France et en Allemagne.\",\"inLanguage\":\"fr\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Accueil\",\"item\":\"https://visience.ro/fr/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Portfolio\",\"item\":\"https://visience.ro/fr/portfolio/\"}]}]}"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"1Ue49S-QWmrHjNQIGKdvO"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

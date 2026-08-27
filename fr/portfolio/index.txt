@@ -27,7 +27,7 @@ d:I[68027,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","fr","portfolio",""],"q":"","i":false,"f":[[["",{"children":["fr",{"children":["portfolio",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1ikceineaj5_b.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7"]}]]}]]}],{"children":["$L8",{"children":["$L9",{"children":["$La",{},null,false,null]},null,false,"$@b"]},null,false,"$@b"]},null,false,null],"$Lc",false]],"m":"$undefined","G":["$d",["$Le"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"VYnBYJaerULXZIA5WF5aZ"}
+})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","fr","portfolio",""],"q":"","i":false,"f":[[["",{"children":["fr",{"children":["portfolio",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1ikceineaj5_b.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7"]}]]}]]}],{"children":["$L8",{"children":["$L9",{"children":["$La",{},null,false,null]},null,false,"$@b"]},null,false,"$@b"]},null,false,null],"$Lc",false]],"m":"$undefined","G":["$d",["$Le"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"1Ue49S-QWmrHjNQIGKdvO"}
 f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 17:I[27961,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 18:I[11015,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
@@ -649,7 +649,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
 7:["$","$L18",null,{}]
 8:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L1a",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
 9:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L1a",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
-1b:Teadf,<style>
+1b:Tf0b9,<style>
 /* PROJECT CARDS — pj-* (reused din home) */
 .pj-card {
   padding: 10px;
@@ -1041,7 +1041,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
 .pf-square--logo:hover img { transform: none; }
 .pf-clients-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 18px;
 }
 .pf-client-card {
@@ -1135,7 +1135,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
   .pf-feat-grid { grid-template-columns: repeat(2, 1fr); }
   .pf-web-grid { grid-template-columns: repeat(3, 1fr); }
   .pf-grid-1to1 { grid-template-columns: repeat(3, 1fr); }
-  .pf-clients-grid { grid-template-columns: repeat(3, 1fr); }
+  .pf-clients-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
   .pf-section__head { margin-bottom: 40px; }
 }
 @media (max-width: 640px) {
@@ -1150,7 +1150,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
   .pf-feat-grid { grid-template-columns: 1fr; gap: 20px; }
   .pf-web-grid { grid-template-columns: repeat(2, 1fr); gap: 14px; }
   .pf-grid-1to1 { grid-template-columns: repeat(2, 1fr); gap: 12px; }
-  .pf-clients-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+  .pf-clients-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
   .pf-client-card { padding: 20px 14px 16px; }
   .pf-client-card__logo { width: 60px; height: 60px; margin-bottom: 12px; }
   .pf-cta__acts { flex-direction: column; }
@@ -1953,7 +1953,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
           </div>
           <h4 class="pf-client-card__name">Rumpel-M-INFO</h4>
           <p class="pf-client-card__desc">Services allemands d’élimination professionnelle des déchets</p>
-        </a>
+        </div>
 
         <a href="https://bsp.srl/" target="_blank" rel="noopener" class="pf-client-card">
           <div class="pf-client-card__logo">
@@ -1977,7 +1977,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
           </div>
           <h4 class="pf-client-card__name">Alyya Beauty</h4>
           <p class="pf-client-card__desc">Maquillage professionnel, dermopigmentation et microneedling</p>
-        </a>
+        </div>
 
         <a href="https://dqdesign.co.th/" target="_blank" rel="noopener" class="pf-client-card">
           <div class="pf-client-card__logo">
@@ -2001,7 +2001,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
           </div>
           <h4 class="pf-client-card__name">Alexander Tailor</h4>
           <p class="pf-client-card__desc">Styliste privé roumain, tailleur au Royaume-Uni</p>
-        </a>
+        </div>
 
         <a href="https://luciarosca.ro/" target="_blank" rel="noopener" class="pf-client-card">
           <div class="pf-client-card__logo">
@@ -2017,7 +2017,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
           </div>
           <h4 class="pf-client-card__name">BBG Maison Euxine</h4>
           <p class="pf-client-card__desc">L’un des plus grands exportateurs roumains de fruits de mer</p>
-        </a>
+        </div>
 
         <a href="https://velomed.ro/" target="_blank" rel="noopener" class="pf-client-card">
           <div class="pf-client-card__logo">

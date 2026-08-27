@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 5:I[97367,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 6:"$Sreact.suspense"
-2:T651,{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://visience.ro/en/portfolio/#webpage","url":"https://visience.ro/en/portfolio/","name":"Visience portfolio","description":"A selection of web, branding, social media and marketing projects delivered by Visience for clients in Romania, Italy, France and Germany.","inLanguage":"en"},{"@type":"ItemList","@id":"https://visience.ro/en/portfolio/#featured","name":"Featured work","itemListOrder":"https://schema.org/ItemListOrderDescending","numberOfItems":8,"itemListElement":[{"@type":"ListItem","position":1,"name":"Vlaicu87 — Neighbourhood & Park","url":"https://vlaicu87.ro/"},{"@type":"ListItem","position":2,"name":"Amodelic — Design & Consulting","url":"https://amodelic.com"},{"@type":"ListItem","position":3,"name":"Casa Vatră — Restaurant & Hotel","url":"https://casavatra.ro"},{"@type":"ListItem","position":4,"name":"Carmangeria Evei","url":"https://carmangeriaevei.ro/"},{"@type":"ListItem","position":5,"name":"Cameo — Modern Apartments","url":"https://cameoresidence.ro/"},{"@type":"ListItem","position":6,"name":"Soluții Alpensam","url":"https://solutiialpensam.ro/"},{"@type":"ListItem","position":7,"name":"2M Tech — Construction and property development","url":"https://2mtech.ro/"},{"@type":"ListItem","position":8,"name":"Ecologica2000 Italia","url":"https://ecologica2000.eu/"}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visience.ro/en/"},{"@type":"ListItem","position":2,"name":"Portfolio","item":"https://visience.ro/en/portfolio/"}]}]}3:Te749,<style>
+2:T651,{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://visience.ro/en/portfolio/#webpage","url":"https://visience.ro/en/portfolio/","name":"Visience portfolio","description":"A selection of web, branding, social media and marketing projects delivered by Visience for clients in Romania, Italy, France and Germany.","inLanguage":"en"},{"@type":"ItemList","@id":"https://visience.ro/en/portfolio/#featured","name":"Featured work","itemListOrder":"https://schema.org/ItemListOrderDescending","numberOfItems":8,"itemListElement":[{"@type":"ListItem","position":1,"name":"Vlaicu87 — Neighbourhood & Park","url":"https://vlaicu87.ro/"},{"@type":"ListItem","position":2,"name":"Amodelic — Design & Consulting","url":"https://amodelic.com"},{"@type":"ListItem","position":3,"name":"Casa Vatră — Restaurant & Hotel","url":"https://casavatra.ro"},{"@type":"ListItem","position":4,"name":"Carmangeria Evei","url":"https://carmangeriaevei.ro/"},{"@type":"ListItem","position":5,"name":"Cameo — Modern Apartments","url":"https://cameoresidence.ro/"},{"@type":"ListItem","position":6,"name":"Soluții Alpensam","url":"https://solutiialpensam.ro/"},{"@type":"ListItem","position":7,"name":"2M Tech — Construction and property development","url":"https://2mtech.ro/"},{"@type":"ListItem","position":8,"name":"Ecologica2000 Italia","url":"https://ecologica2000.eu/"}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visience.ro/en/"},{"@type":"ListItem","position":2,"name":"Portfolio","item":"https://visience.ro/en/portfolio/"}]}]}3:Ted23,<style>
 /* PROJECT CARDS — pj-* (reused din home) */
 .pj-card {
   padding: 10px;
@@ -393,7 +393,7 @@
 .pf-square--logo:hover img { transform: none; }
 .pf-clients-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 18px;
 }
 .pf-client-card {
@@ -487,7 +487,7 @@
   .pf-feat-grid { grid-template-columns: repeat(2, 1fr); }
   .pf-web-grid { grid-template-columns: repeat(3, 1fr); }
   .pf-grid-1to1 { grid-template-columns: repeat(3, 1fr); }
-  .pf-clients-grid { grid-template-columns: repeat(3, 1fr); }
+  .pf-clients-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
   .pf-section__head { margin-bottom: 40px; }
 }
 @media (max-width: 640px) {
@@ -502,7 +502,7 @@
   .pf-feat-grid { grid-template-columns: 1fr; gap: 20px; }
   .pf-web-grid { grid-template-columns: repeat(2, 1fr); gap: 14px; }
   .pf-grid-1to1 { grid-template-columns: repeat(2, 1fr); gap: 12px; }
-  .pf-clients-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+  .pf-clients-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
   .pf-client-card { padding: 20px 14px 16px; }
   .pf-client-card__logo { width: 60px; height: 60px; margin-bottom: 12px; }
   .pf-cta__acts { flex-direction: column; }
@@ -1305,7 +1305,7 @@
           </div>
           <h4 class="pf-client-card__name">Rumpel-M-INFO</h4>
           <p class="pf-client-card__desc">German professional waste disposal services</p>
-        </a>
+        </div>
 
         <a href="https://bsp.srl/" target="_blank" rel="noopener" class="pf-client-card">
           <div class="pf-client-card__logo">
@@ -1329,7 +1329,7 @@
           </div>
           <h4 class="pf-client-card__name">Alyya Beauty</h4>
           <p class="pf-client-card__desc">Professional make-up, dermopigmentation and microneedling</p>
-        </a>
+        </div>
 
         <a href="https://dqdesign.co.th/" target="_blank" rel="noopener" class="pf-client-card">
           <div class="pf-client-card__logo">
@@ -1353,7 +1353,7 @@
           </div>
           <h4 class="pf-client-card__name">Alexander Tailor</h4>
           <p class="pf-client-card__desc">Private stylist from Romania, tailor in the UK</p>
-        </a>
+        </div>
 
         <a href="https://luciarosca.ro/" target="_blank" rel="noopener" class="pf-client-card">
           <div class="pf-client-card__logo">
@@ -1369,7 +1369,7 @@
           </div>
           <h4 class="pf-client-card__name">BBG Maison Euxine</h4>
           <p class="pf-client-card__desc">One of the largest Romanian seafood exporters</p>
-        </a>
+        </div>
 
         <a href="https://velomed.ro/" target="_blank" rel="noopener" class="pf-client-card">
           <div class="pf-client-card__logo">
@@ -1458,6 +1458,6 @@
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"VYnBYJaerULXZIA5WF5aZ"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"1Ue49S-QWmrHjNQIGKdvO"}
 4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
 7:null
