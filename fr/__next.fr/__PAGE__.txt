@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
 6:I[97367,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-2:T10f0,{"@context":"https://schema.org","@graph":[{"@type":"ProfessionalService","@id":"https://visience.ro/fr/#organization","name":"Visience Creative Experience","alternateName":"Visience","url":"https://visience.ro/fr/","inLanguage":"fr","description":"Studio de marketing digital et de web design. Branding, sites internet, boutiques en ligne, Google et Meta Ads, SEO et réseaux sociaux, avec des tarifs publiés.","areaServed":[{"@type":"Country","name":"France"},{"@type":"Country","name":"Belgique"},{"@type":"Country","name":"Suisse"},{"@type":"Country","name":"Roumanie"}],"address":{"@type":"PostalAddress","addressLocality":"Iași","addressCountry":"RO"},"email":"contact@visience.ro","telephone":"+40771486499","priceRange":"€€","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"]},{"@type":"OfferCatalog","@id":"https://visience.ro/fr/#services","name":"Services Visience","provider":{"@id":"https://visience.ro/fr/#organization"},"itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Création de site internet"}},{"@type":"Offer","priceCurrency":"EUR","price":"1000","itemOffered":{"@type":"Service","name":"Boutique en ligne","url":"https://visience.ro/fr/boutique-en-ligne/"}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Branding et identité visuelle"}},{"@type":"Offer","priceCurrency":"EUR","price":"300","itemOffered":{"@type":"Service","name":"Gestion des réseaux sociaux"}},{"@type":"Offer","priceCurrency":"EUR","price":"400","itemOffered":{"@type":"Service","name":"Publicité Google et Meta Ads"}},{"@type":"Offer","priceCurrency":"EUR","price":"600","itemOffered":{"@type":"Service","name":"SEO et content marketing"}},{"@type":"Offer","priceCurrency":"EUR","price":"60","itemOffered":{"@type":"Service","name":"Développement logiciel et applications"}}]},{"@type":"FAQPage","@id":"https://visience.ro/fr/#faq","mainEntity":[{"@type":"Question","name":"Combien coûte un site internet chez Visience ?","acceptedAnswer":{"@type":"Answer","text":"Un site vitrine standard démarre à 750 €, un site avancé à 1.200 € et un site premium au design sur mesure à 2.500 €. Le prix final dépend du nombre de pages, des fonctionnalités et du niveau de personnalisation."}},{"@type":"Question","name":"Combien coûte une boutique en ligne ?","acceptedAnswer":{"@type":"Answer","text":"Une boutique sur WooCommerce ou Shopify démarre à 1.000 € pour le pack Basic, 1.800 € pour le Standard et 3.500 € pour le Premium. Tous incluent les produits, les paiements en ligne et la livraison automatisée."}},{"@type":"Question","name":"Que comprend un projet de branding ?","acceptedAnswer":{"@type":"Answer","text":"Le logo, le ton de communication et l'identité visuelle pour le web et l'imprimé. Le pack Standard, avec brand book complet, démarre à 1.200 €, le Premium à 2.500 €."}},{"@type":"Question","name":"Combien coûtent les prestations SEO ?","acceptedAnswer":{"@type":"Answer","text":"Le SEO technique ponctuel est facturé 60 € de l'heure, et la stratégie SEO mensuelle démarre à 600 € par mois, sur six mois minimum. Pour une boutique en ligne, l'optimisation complète démarre à 1.500 €."}},{"@type":"Question","name":"Où travaille Visience ?","acceptedAnswer":{"@type":"Answer","text":"Visience est basée à Iași, en Roumanie, et travaille avec des clients en France, en Belgique, en Suisse, en Italie, en Allemagne et en Roumanie. Les projets se déroulent entièrement à distance."}},{"@type":"Question","name":"Sur quelles plateformes Visience construit-elle les sites ?","acceptedAnswer":{"@type":"Answer","text":"WordPress avec Oxygen Builder ou Elementor, Shopify, WooCommerce et Webflow, ainsi que des solutions sur mesure. La plateforme est choisie selon le projet."}},{"@type":"Question","name":"Combien de temps prend la création d'un site ?","acceptedAnswer":{"@type":"Answer","text":"En général 2 à 4 semaines, et 4 à 8 semaines pour un projet premium ou une boutique complexe, selon le volume de contenu et les fonctionnalités."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://visience.ro/fr/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"oa6yd_lXk3WAwdVmYp419"}
-5:T2715f,
+2:T10f0,{"@context":"https://schema.org","@graph":[{"@type":"ProfessionalService","@id":"https://visience.ro/fr/#organization","name":"Visience Creative Experience","alternateName":"Visience","url":"https://visience.ro/fr/","inLanguage":"fr","description":"Studio de marketing digital et de web design. Branding, sites internet, boutiques en ligne, Google et Meta Ads, SEO et réseaux sociaux, avec des tarifs publiés.","areaServed":[{"@type":"Country","name":"France"},{"@type":"Country","name":"Belgique"},{"@type":"Country","name":"Suisse"},{"@type":"Country","name":"Roumanie"}],"address":{"@type":"PostalAddress","addressLocality":"Iași","addressCountry":"RO"},"email":"contact@visience.ro","telephone":"+40771486499","priceRange":"€€","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"]},{"@type":"OfferCatalog","@id":"https://visience.ro/fr/#services","name":"Services Visience","provider":{"@id":"https://visience.ro/fr/#organization"},"itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Création de site internet"}},{"@type":"Offer","priceCurrency":"EUR","price":"1000","itemOffered":{"@type":"Service","name":"Boutique en ligne","url":"https://visience.ro/fr/boutique-en-ligne/"}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Branding et identité visuelle"}},{"@type":"Offer","priceCurrency":"EUR","price":"300","itemOffered":{"@type":"Service","name":"Gestion des réseaux sociaux"}},{"@type":"Offer","priceCurrency":"EUR","price":"400","itemOffered":{"@type":"Service","name":"Publicité Google et Meta Ads"}},{"@type":"Offer","priceCurrency":"EUR","price":"600","itemOffered":{"@type":"Service","name":"SEO et content marketing"}},{"@type":"Offer","priceCurrency":"EUR","price":"60","itemOffered":{"@type":"Service","name":"Développement logiciel et applications"}}]},{"@type":"FAQPage","@id":"https://visience.ro/fr/#faq","mainEntity":[{"@type":"Question","name":"Combien coûte un site internet chez Visience ?","acceptedAnswer":{"@type":"Answer","text":"Un site vitrine standard démarre à 750 €, un site avancé à 1.200 € et un site premium au design sur mesure à 2.500 €. Le prix final dépend du nombre de pages, des fonctionnalités et du niveau de personnalisation."}},{"@type":"Question","name":"Combien coûte une boutique en ligne ?","acceptedAnswer":{"@type":"Answer","text":"Une boutique sur WooCommerce ou Shopify démarre à 1.000 € pour le pack Basic, 1.800 € pour le Standard et 3.500 € pour le Premium. Tous incluent les produits, les paiements en ligne et la livraison automatisée."}},{"@type":"Question","name":"Que comprend un projet de branding ?","acceptedAnswer":{"@type":"Answer","text":"Le logo, le ton de communication et l'identité visuelle pour le web et l'imprimé. Le pack Standard, avec brand book complet, démarre à 1.200 €, le Premium à 2.500 €."}},{"@type":"Question","name":"Combien coûtent les prestations SEO ?","acceptedAnswer":{"@type":"Answer","text":"Le SEO technique ponctuel est facturé 60 € de l'heure, et la stratégie SEO mensuelle démarre à 600 € par mois, sur six mois minimum. Pour une boutique en ligne, l'optimisation complète démarre à 1.500 €."}},{"@type":"Question","name":"Où travaille Visience ?","acceptedAnswer":{"@type":"Answer","text":"Visience est basée à Iași, en Roumanie, et travaille avec des clients en France, en Belgique, en Suisse, en Italie, en Allemagne et en Roumanie. Les projets se déroulent entièrement à distance."}},{"@type":"Question","name":"Sur quelles plateformes Visience construit-elle les sites ?","acceptedAnswer":{"@type":"Answer","text":"WordPress avec Oxygen Builder ou Elementor, Shopify, WooCommerce et Webflow, ainsi que des solutions sur mesure. La plateforme est choisie selon le projet."}},{"@type":"Question","name":"Combien de temps prend la création d'un site ?","acceptedAnswer":{"@type":"Answer","text":"En général 2 à 4 semaines, et 4 à 8 semaines pour un projet premium ou une boutique complexe, selon le volume de contenu et les fonctionnalités."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://visience.ro/fr/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ZfweNf1kbug-_wW95KFVz"}
+5:T282cf,
 
 <div class="vis-home">
 
@@ -219,42 +219,42 @@
   <div class="port-wrap" id="devWrap" tabindex="0" role="region" aria-label="Carrousel promoteurs immobiliers">
     <div class="port-track" id="devTrack">
 
-      <a class="sq-card" href="/proiecte/vlaicu87/">
+      <a class="sq-card" href="/fr/projets/vlaicu87/">
         <span class="sq-card__img"><img src="/media/tiles/v2/vlaicu87.avif" alt="Vlaicu87 — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Vlaicu87</span>
       </a>
 
-      <a class="sq-card" href="/proiecte/cameo-residence/">
+      <a class="sq-card" href="/fr/projets/cameo-residence/">
         <span class="sq-card__img"><img src="/media/tiles/v2/cameo-residence.avif" alt="Cameo Residence — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Cameo Residence</span>
       </a>
 
-      <a class="sq-card" href="/proiecte/evergreen-towers/">
+      <a class="sq-card" href="/fr/projets/evergreen-towers/">
         <span class="sq-card__img"><img src="/media/tiles/v2/evergreen-towers.avif" alt="Evergreen Towers — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Evergreen Towers</span>
       </a>
 
-      <a class="sq-card" href="/proiecte/picolina/">
+      <a class="sq-card" href="/fr/projets/picolina/">
         <span class="sq-card__img"><img src="/media/tiles/v3/picolina-b.avif" alt="Picolina Bucium — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Picolina Bucium</span>
       </a>
 
-      <a class="sq-card" href="/proiecte/armur-design/">
+      <a class="sq-card" href="/fr/projets/armur-design/">
         <span class="sq-card__img"><img src="/media/tiles/v3/armur-design.avif" alt="Armur Design — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Armur Design</span>
       </a>
 
-      <a class="sq-card" href="/proiecte/lapis-residence/">
+      <a class="sq-card" href="/fr/projets/lapis-residence/">
         <span class="sq-card__img"><img src="/media/tiles/v2/lapis-residence.avif" alt="Lapis Residence — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Lapis Residence</span>
       </a>
 
-      <a class="sq-card" href="/proiecte/alfa-park-residence/">
+      <a class="sq-card" href="/fr/projets/alfa-park-residence/">
         <span class="sq-card__img"><img src="/media/tiles/v2/alfa-park-residence.avif" alt="Alfa Park Residence — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Alfa Park Residence</span>
       </a>
 
-      <a class="sq-card" href="/proiecte/2m-tech/">
+      <a class="sq-card" href="/fr/projets/2m-tech/">
         <span class="sq-card__img"><img src="/media/tiles/v2/2m-tech.avif" alt="2M Tech — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">2M Tech</span>
       </a>
@@ -287,42 +287,42 @@
   <div class="port-wrap" id="partWrap" tabindex="0" role="region" aria-label="Carrousel partenaires">
     <div class="port-track" id="partTrack">
 
-      <a class="sq-card" href="/proiecte/casa-vatra/">
+      <a class="sq-card" href="/fr/projets/casa-vatra/">
         <span class="sq-card__img"><img src="/media/tiles/v2/casa-vatra.fc383a.avif" alt="Casa Vatră — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Casa Vatră</span>
       </a>
 
-      <a class="sq-card" href="/proiecte/carmangeria-evei/">
+      <a class="sq-card" href="/fr/projets/carmangeria-evei/">
         <span class="sq-card__img"><img src="/media/tiles/v2/carmangeria-evei.avif" alt="Carmangeria Evei — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Carmangeria Evei</span>
       </a>
 
-      <a class="sq-card" href="/proiecte/solutii-alpensam/">
+      <a class="sq-card" href="/fr/projets/solutii-alpensam/">
         <span class="sq-card__img"><img src="/media/tiles/v2/solutii-alpensam.avif" alt="Soluții Alpensam — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Soluții Alpensam</span>
       </a>
 
-      <a class="sq-card" href="/proiecte/lucia-rosca/">
+      <a class="sq-card" href="/fr/projets/lucia-rosca/">
         <span class="sq-card__img"><img src="/media/tiles/v2/lucia-rosca.avif" alt="Lucia Roșca — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Lucia Roșca</span>
       </a>
 
-      <a class="sq-card" href="/proiecte/velomed/">
+      <a class="sq-card" href="/fr/projets/velomed/">
         <span class="sq-card__img"><img src="/media/tiles/v2/velomed.avif" alt="Velomed — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Velomed</span>
       </a>
 
-      <a class="sq-card" href="/proiecte/ecologica2000-italia/">
+      <a class="sq-card" href="/fr/projets/ecologica2000-italia/">
         <span class="sq-card__img"><img src="/media/tiles/v2/ecologica2000-italia.avif" alt="Ecologica 2000 — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Ecologica 2000</span>
       </a>
 
-      <a class="sq-card" href="/proiecte/amodelic/">
+      <a class="sq-card" href="/fr/projets/amodelic/">
         <span class="sq-card__img"><img src="/media/tiles/v2/amodelic.avif" alt="Amodelic — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Amodelic</span>
       </a>
 
-      <a class="sq-card" href="/proiecte/toata-nunta/">
+      <a class="sq-card" href="/fr/projets/toata-nunta/">
         <span class="sq-card__img"><img src="/media/tiles/v2/toata-nunta.avif" alt="Toată Nunta — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Toată Nunta</span>
       </a>
@@ -1011,7 +1011,7 @@
             <a href="https://vlaicu87.ro/" target="_blank" rel="noopener" class="pj-card__url">vlaicu87.ro ↗</a>
             <span class="pj-card__collab">avec Vistory</span>
           </div>
-        <a class="pj-card__more" href="/proiecte/vlaicu87/">Voir le projet <span aria-hidden="true">→</span></a>
+        <a class="pj-card__more" href="/fr/projets/vlaicu87/">Voir le projet <span aria-hidden="true">→</span></a>
         </div>
       </article>
 
@@ -1051,7 +1051,7 @@
           <div class="pj-card__foot">
             <a href="https://amodelic.com" target="_blank" rel="noopener" class="pj-card__url">amodelic.com ↗</a>
           </div>
-        <a class="pj-card__more" href="/proiecte/amodelic/">Voir le projet <span aria-hidden="true">→</span></a>
+        <a class="pj-card__more" href="/fr/projets/amodelic/">Voir le projet <span aria-hidden="true">→</span></a>
         </div>
       </article>
 
@@ -1084,7 +1084,7 @@
           <div class="pj-card__foot">
             <a href="https://casavatra.ro" target="_blank" rel="noopener" class="pj-card__url">casavatra.ro ↗</a>
           </div>
-        <a class="pj-card__more" href="/proiecte/casa-vatra/">Voir le projet <span aria-hidden="true">→</span></a>
+        <a class="pj-card__more" href="/fr/projets/casa-vatra/">Voir le projet <span aria-hidden="true">→</span></a>
         </div>
       </article>
 
@@ -1124,7 +1124,7 @@
           <div class="pj-card__foot">
             <a href="https://carmangeriaevei.ro/" target="_blank" rel="noopener" class="pj-card__url">carmangeriaevei.ro ↗</a>
           </div>
-        <a class="pj-card__more" href="/proiecte/carmangeria-evei/">Voir le projet <span aria-hidden="true">→</span></a>
+        <a class="pj-card__more" href="/fr/projets/carmangeria-evei/">Voir le projet <span aria-hidden="true">→</span></a>
         </div>
       </article>
 
@@ -1168,7 +1168,7 @@
             <a href="https://cameoresidence.ro/" target="_blank" rel="noopener" class="pj-card__url">cameoresidence.ro ↗</a>
             <span class="pj-card__collab">avec Vistory</span>
           </div>
-        <a class="pj-card__more" href="/proiecte/cameo-residence/">Voir le projet <span aria-hidden="true">→</span></a>
+        <a class="pj-card__more" href="/fr/projets/cameo-residence/">Voir le projet <span aria-hidden="true">→</span></a>
         </div>
       </article>
 
@@ -1211,7 +1211,7 @@
           <div class="pj-card__foot">
             <a href="https://solutiialpensam.ro/" target="_blank" rel="noopener" class="pj-card__url">solutiialpensam.ro ↗</a>
           </div>
-        <a class="pj-card__more" href="/proiecte/solutii-alpensam/">Voir le projet <span aria-hidden="true">→</span></a>
+        <a class="pj-card__more" href="/fr/projets/solutii-alpensam/">Voir le projet <span aria-hidden="true">→</span></a>
         </div>
       </article>
 
@@ -1244,7 +1244,7 @@
             <a href="https://2mtech.ro/" target="_blank" rel="noopener" class="pj-card__url">2mtech.ro ↗</a>
             <span class="pj-card__collab">avec Vistory</span>
           </div>
-        <a class="pj-card__more" href="/proiecte/2m-tech/">Voir le projet <span aria-hidden="true">→</span></a>
+        <a class="pj-card__more" href="/fr/projets/2m-tech/">Voir le projet <span aria-hidden="true">→</span></a>
         </div>
       </article>
 
@@ -1275,7 +1275,7 @@
           <div class="pj-card__foot">
             <a href="https://ecologica2000.eu/" target="_blank" rel="noopener" class="pj-card__url">ecologica2000.eu ↗</a>
           </div>
-        <a class="pj-card__more" href="/proiecte/ecologica2000-italia/">Voir le projet <span aria-hidden="true">→</span></a>
+        <a class="pj-card__more" href="/fr/projets/ecologica2000-italia/">Voir le projet <span aria-hidden="true">→</span></a>
         </div>
       </article>
 

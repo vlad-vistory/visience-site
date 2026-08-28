@@ -27,7 +27,7 @@ d:I[68027,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","fr","portfolio",""],"q":"","i":false,"f":[[["",{"children":["fr",{"children":["portfolio",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1ikceineaj5_b.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7"]}]]}]]}],{"children":["$L8",{"children":["$L9",{"children":["$La",{},null,false,null]},null,false,"$@b"]},null,false,"$@b"]},null,false,null],"$Lc",false]],"m":"$undefined","G":["$d",["$Le"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"oa6yd_lXk3WAwdVmYp419"}
+})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","fr","portfolio",""],"q":"","i":false,"f":[[["",{"children":["fr",{"children":["portfolio",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1ikceineaj5_b.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7"]}]]}]]}],{"children":["$L8",{"children":["$L9",{"children":["$La",{},null,false,null]},null,false,"$@b"]},null,false,"$@b"]},null,false,null],"$Lc",false]],"m":"$undefined","G":["$d",["$Le"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"ZfweNf1kbug-_wW95KFVz"}
 f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 17:I[27961,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 18:I[11015,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
@@ -649,7 +649,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
 7:["$","$L18",null,{}]
 8:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L1a",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
 9:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L1a",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
-1b:Tf0b9,<style>
+1b:Tf0fd,<style>
 /* PROJECT CARDS — pj-* (reused din home) */
 .pj-card {
   padding: 10px;
@@ -1253,7 +1253,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
         <a href="https://vlaicu87.ro/" target="_blank" rel="noopener" class="pj-card__url">vlaicu87.ro ↗</a>
         <span class="pj-card__collab">avec Vistory</span>
       </div>
-        <a class="pj-card__more" href="/proiecte/vlaicu87/">Voir le projet <span aria-hidden="true">→</span></a>
+        <a class="pj-card__more" href="/fr/projets/vlaicu87/">Voir le projet <span aria-hidden="true">→</span></a>
     </div>
   </article>
 
@@ -1290,7 +1290,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
       <div class="pj-card__foot">
         <a href="https://amodelic.com" target="_blank" rel="noopener" class="pj-card__url">amodelic.com ↗</a>
       </div>
-        <a class="pj-card__more" href="/proiecte/amodelic/">Voir le projet <span aria-hidden="true">→</span></a>
+        <a class="pj-card__more" href="/fr/projets/amodelic/">Voir le projet <span aria-hidden="true">→</span></a>
     </div>
   </article>
 
@@ -1321,7 +1321,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
       <div class="pj-card__foot">
         <a href="https://casavatra.ro" target="_blank" rel="noopener" class="pj-card__url">casavatra.ro ↗</a>
       </div>
-        <a class="pj-card__more" href="/proiecte/casa-vatra/">Voir le projet <span aria-hidden="true">→</span></a>
+        <a class="pj-card__more" href="/fr/projets/casa-vatra/">Voir le projet <span aria-hidden="true">→</span></a>
     </div>
   </article>
 
@@ -1358,7 +1358,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
       <div class="pj-card__foot">
         <a href="https://carmangeriaevei.ro/" target="_blank" rel="noopener" class="pj-card__url">carmangeriaevei.ro ↗</a>
       </div>
-        <a class="pj-card__more" href="/proiecte/carmangeria-evei/">Voir le projet <span aria-hidden="true">→</span></a>
+        <a class="pj-card__more" href="/fr/projets/carmangeria-evei/">Voir le projet <span aria-hidden="true">→</span></a>
     </div>
   </article>
 
@@ -1397,7 +1397,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
         <a href="https://cameoresidence.ro/" target="_blank" rel="noopener" class="pj-card__url">cameoresidence.ro ↗</a>
         <span class="pj-card__collab">avec Vistory</span>
       </div>
-        <a class="pj-card__more" href="/proiecte/cameo-residence/">Voir le projet <span aria-hidden="true">→</span></a>
+        <a class="pj-card__more" href="/fr/projets/cameo-residence/">Voir le projet <span aria-hidden="true">→</span></a>
     </div>
   </article>
 
@@ -1435,7 +1435,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
       <div class="pj-card__foot">
         <a href="https://solutiialpensam.ro/" target="_blank" rel="noopener" class="pj-card__url">solutiialpensam.ro ↗</a>
       </div>
-        <a class="pj-card__more" href="/proiecte/solutii-alpensam/">Voir le projet <span aria-hidden="true">→</span></a>
+        <a class="pj-card__more" href="/fr/projets/solutii-alpensam/">Voir le projet <span aria-hidden="true">→</span></a>
     </div>
   </article>
 
@@ -1466,7 +1466,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
         <a href="https://2mtech.ro/" target="_blank" rel="noopener" class="pj-card__url">2mtech.ro ↗</a>
         <span class="pj-card__collab">avec Vistory</span>
       </div>
-        <a class="pj-card__more" href="/proiecte/2m-tech/">Voir le projet <span aria-hidden="true">→</span></a>
+        <a class="pj-card__more" href="/fr/projets/2m-tech/">Voir le projet <span aria-hidden="true">→</span></a>
     </div>
   </article>
 
@@ -1495,7 +1495,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
       <div class="pj-card__foot">
         <a href="https://ecologica2000.eu/" target="_blank" rel="noopener" class="pj-card__url">ecologica2000.eu ↗</a>
       </div>
-        <a class="pj-card__more" href="/proiecte/ecologica2000-italia/">Voir le projet <span aria-hidden="true">→</span></a>
+        <a class="pj-card__more" href="/fr/projets/ecologica2000-italia/">Voir le projet <span aria-hidden="true">→</span></a>
     </div>
   </article>
 
@@ -1514,7 +1514,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
       <div class="pf-web-grid rv rv-d2">
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/2m-tech/" aria-label="Voir le projet 2MTech">
+          <a class="pf-web-card__link" href="/fr/projets/2m-tech/" aria-label="Voir le projet 2MTech">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/2m-tech.avif" alt="2MTech — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1527,7 +1527,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/l-arte-su-misura/" aria-label="Voir le projet L'Arte Su Misura">
+          <a class="pf-web-card__link" href="/fr/projets/l-arte-su-misura/" aria-label="Voir le projet L'Arte Su Misura">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/l-arte-su-misura.avif" alt="L'Arte Su Misura — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1540,7 +1540,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/ecologica2000-italia/" aria-label="Voir le projet Ecologica 2000">
+          <a class="pf-web-card__link" href="/fr/projets/ecologica2000-italia/" aria-label="Voir le projet Ecologica 2000">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/ecologica2000-italia.avif" alt="Ecologica 2000 — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1553,7 +1553,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/alexander-private-tailor/" aria-label="Voir le projet Alexander Private Tailor">
+          <a class="pf-web-card__link" href="/fr/projets/alexander-private-tailor/" aria-label="Voir le projet Alexander Private Tailor">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/alexander-private-tailor.avif" alt="Alexander Private Tailor — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1566,7 +1566,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/lucia-rosca/" aria-label="Voir le projet Lucia Roșca">
+          <a class="pf-web-card__link" href="/fr/projets/lucia-rosca/" aria-label="Voir le projet Lucia Roșca">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/lucia-rosca.avif" alt="Lucia Roșca — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1579,7 +1579,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/wts/" aria-label="Voir le projet WTS">
+          <a class="pf-web-card__link" href="/fr/projets/wts/" aria-label="Voir le projet WTS">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/wts.avif" alt="WTS — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1592,7 +1592,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/bsp/" aria-label="Voir le projet BSP">
+          <a class="pf-web-card__link" href="/fr/projets/bsp/" aria-label="Voir le projet BSP">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/bsp.avif" alt="BSP — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1605,7 +1605,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/rumpel-m-info/" aria-label="Voir le projet Rumpel-M-INFO">
+          <a class="pf-web-card__link" href="/fr/projets/rumpel-m-info/" aria-label="Voir le projet Rumpel-M-INFO">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/rumpel-m-info.avif" alt="Rumpel-M-INFO — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1618,7 +1618,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/bryan-mesnager/" aria-label="Voir le projet Bryan Mesnager">
+          <a class="pf-web-card__link" href="/fr/projets/bryan-mesnager/" aria-label="Voir le projet Bryan Mesnager">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/bryan-mesnager.avif" alt="Bryan Mesnager — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1631,7 +1631,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/edu-net-academy/" aria-label="Voir le projet Edu-Net Academy">
+          <a class="pf-web-card__link" href="/fr/projets/edu-net-academy/" aria-label="Voir le projet Edu-Net Academy">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/edu-net-academy.avif" alt="Edu-Net Academy — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1644,7 +1644,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/toata-nunta/" aria-label="Voir le projet Toată Nunta">
+          <a class="pf-web-card__link" href="/fr/projets/toata-nunta/" aria-label="Voir le projet Toată Nunta">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/toata-nunta.avif" alt="Toată Nunta — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1657,7 +1657,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/alitermica/" aria-label="Voir le projet Alitermica">
+          <a class="pf-web-card__link" href="/fr/projets/alitermica/" aria-label="Voir le projet Alitermica">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/alitermica.avif" alt="Alitermica — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1670,7 +1670,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/btg-romania/" aria-label="Voir le projet BTG Romania">
+          <a class="pf-web-card__link" href="/fr/projets/btg-romania/" aria-label="Voir le projet BTG Romania">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/btg-romania.avif" alt="BTG Romania — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1683,7 +1683,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/font-legno/" aria-label="Voir le projet Font Legno">
+          <a class="pf-web-card__link" href="/fr/projets/font-legno/" aria-label="Voir le projet Font Legno">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/font-legno.avif" alt="Font Legno — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1696,7 +1696,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/revo-piese-moto/" aria-label="Voir le projet Revo / Piese Moto">
+          <a class="pf-web-card__link" href="/fr/projets/revo-piese-moto/" aria-label="Voir le projet Revo / Piese Moto">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/revo-piese-moto.avif" alt="Revo / Piese Moto — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1709,7 +1709,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/gs-gomma/" aria-label="Voir le projet GS Gomma">
+          <a class="pf-web-card__link" href="/fr/projets/gs-gomma/" aria-label="Voir le projet GS Gomma">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/gs-gomma.avif" alt="GS Gomma — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1722,7 +1722,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/happy-hosting/" aria-label="Voir le projet Happy Hosting">
+          <a class="pf-web-card__link" href="/fr/projets/happy-hosting/" aria-label="Voir le projet Happy Hosting">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/happy-hosting.avif" alt="Happy Hosting — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1735,7 +1735,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/castello-di-bagnolo/" aria-label="Voir le projet Castello di Bagnolo">
+          <a class="pf-web-card__link" href="/fr/projets/castello-di-bagnolo/" aria-label="Voir le projet Castello di Bagnolo">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/castello-di-bagnolo.avif" alt="Castello di Bagnolo — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1748,7 +1748,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/malpaga/" aria-label="Voir le projet Malpaga">
+          <a class="pf-web-card__link" href="/fr/projets/malpaga/" aria-label="Voir le projet Malpaga">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/malpaga.avif" alt="Malpaga — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1761,7 +1761,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/studio-vezzosi/" aria-label="Voir le projet Studio Vezzosi">
+          <a class="pf-web-card__link" href="/fr/projets/studio-vezzosi/" aria-label="Voir le projet Studio Vezzosi">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/studio-vezzosi.avif" alt="Studio Vezzosi — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1774,7 +1774,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/studio-lunghini/" aria-label="Voir le projet Studio Lunghini">
+          <a class="pf-web-card__link" href="/fr/projets/studio-lunghini/" aria-label="Voir le projet Studio Lunghini">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/studio-lunghini.avif" alt="Studio Lunghini — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1787,7 +1787,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/vincasoft/" aria-label="Voir le projet Vincasoft">
+          <a class="pf-web-card__link" href="/fr/projets/vincasoft/" aria-label="Voir le projet Vincasoft">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/vincasoft.avif" alt="Vincasoft — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1800,7 +1800,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/bransha/" aria-label="Voir le projet Bransha">
+          <a class="pf-web-card__link" href="/fr/projets/bransha/" aria-label="Voir le projet Bransha">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/bransha.avif" alt="Bransha — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1813,7 +1813,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/dq-design/" aria-label="Voir le projet DQ Design">
+          <a class="pf-web-card__link" href="/fr/projets/dq-design/" aria-label="Voir le projet DQ Design">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/dq-design.avif" alt="DQ Design — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1826,7 +1826,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/velomed/" aria-label="Voir le projet Velomed">
+          <a class="pf-web-card__link" href="/fr/projets/velomed/" aria-label="Voir le projet Velomed">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/velomed.avif" alt="Velomed — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1839,7 +1839,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/im-design-studio/" aria-label="Voir le projet IM Design Studio">
+          <a class="pf-web-card__link" href="/fr/projets/im-design-studio/" aria-label="Voir le projet IM Design Studio">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/im-design-studio.avif" alt="IM Design Studio — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>

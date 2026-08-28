@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:Tf0b9,<style>
+2:Tf0fd,<style>
 /* PROJECT CARDS — pj-* (reused din home) */
 .pj-card {
   padding: 10px;
@@ -605,7 +605,7 @@
         <a href="https://vlaicu87.ro/" target="_blank" rel="noopener" class="pj-card__url">vlaicu87.ro ↗</a>
         <span class="pj-card__collab">avec Vistory</span>
       </div>
-        <a class="pj-card__more" href="/proiecte/vlaicu87/">Voir le projet <span aria-hidden="true">→</span></a>
+        <a class="pj-card__more" href="/fr/projets/vlaicu87/">Voir le projet <span aria-hidden="true">→</span></a>
     </div>
   </article>
 
@@ -642,7 +642,7 @@
       <div class="pj-card__foot">
         <a href="https://amodelic.com" target="_blank" rel="noopener" class="pj-card__url">amodelic.com ↗</a>
       </div>
-        <a class="pj-card__more" href="/proiecte/amodelic/">Voir le projet <span aria-hidden="true">→</span></a>
+        <a class="pj-card__more" href="/fr/projets/amodelic/">Voir le projet <span aria-hidden="true">→</span></a>
     </div>
   </article>
 
@@ -673,7 +673,7 @@
       <div class="pj-card__foot">
         <a href="https://casavatra.ro" target="_blank" rel="noopener" class="pj-card__url">casavatra.ro ↗</a>
       </div>
-        <a class="pj-card__more" href="/proiecte/casa-vatra/">Voir le projet <span aria-hidden="true">→</span></a>
+        <a class="pj-card__more" href="/fr/projets/casa-vatra/">Voir le projet <span aria-hidden="true">→</span></a>
     </div>
   </article>
 
@@ -710,7 +710,7 @@
       <div class="pj-card__foot">
         <a href="https://carmangeriaevei.ro/" target="_blank" rel="noopener" class="pj-card__url">carmangeriaevei.ro ↗</a>
       </div>
-        <a class="pj-card__more" href="/proiecte/carmangeria-evei/">Voir le projet <span aria-hidden="true">→</span></a>
+        <a class="pj-card__more" href="/fr/projets/carmangeria-evei/">Voir le projet <span aria-hidden="true">→</span></a>
     </div>
   </article>
 
@@ -749,7 +749,7 @@
         <a href="https://cameoresidence.ro/" target="_blank" rel="noopener" class="pj-card__url">cameoresidence.ro ↗</a>
         <span class="pj-card__collab">avec Vistory</span>
       </div>
-        <a class="pj-card__more" href="/proiecte/cameo-residence/">Voir le projet <span aria-hidden="true">→</span></a>
+        <a class="pj-card__more" href="/fr/projets/cameo-residence/">Voir le projet <span aria-hidden="true">→</span></a>
     </div>
   </article>
 
@@ -787,7 +787,7 @@
       <div class="pj-card__foot">
         <a href="https://solutiialpensam.ro/" target="_blank" rel="noopener" class="pj-card__url">solutiialpensam.ro ↗</a>
       </div>
-        <a class="pj-card__more" href="/proiecte/solutii-alpensam/">Voir le projet <span aria-hidden="true">→</span></a>
+        <a class="pj-card__more" href="/fr/projets/solutii-alpensam/">Voir le projet <span aria-hidden="true">→</span></a>
     </div>
   </article>
 
@@ -818,7 +818,7 @@
         <a href="https://2mtech.ro/" target="_blank" rel="noopener" class="pj-card__url">2mtech.ro ↗</a>
         <span class="pj-card__collab">avec Vistory</span>
       </div>
-        <a class="pj-card__more" href="/proiecte/2m-tech/">Voir le projet <span aria-hidden="true">→</span></a>
+        <a class="pj-card__more" href="/fr/projets/2m-tech/">Voir le projet <span aria-hidden="true">→</span></a>
     </div>
   </article>
 
@@ -847,7 +847,7 @@
       <div class="pj-card__foot">
         <a href="https://ecologica2000.eu/" target="_blank" rel="noopener" class="pj-card__url">ecologica2000.eu ↗</a>
       </div>
-        <a class="pj-card__more" href="/proiecte/ecologica2000-italia/">Voir le projet <span aria-hidden="true">→</span></a>
+        <a class="pj-card__more" href="/fr/projets/ecologica2000-italia/">Voir le projet <span aria-hidden="true">→</span></a>
     </div>
   </article>
 
@@ -866,7 +866,7 @@
       <div class="pf-web-grid rv rv-d2">
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/2m-tech/" aria-label="Voir le projet 2MTech">
+          <a class="pf-web-card__link" href="/fr/projets/2m-tech/" aria-label="Voir le projet 2MTech">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/2m-tech.avif" alt="2MTech — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -879,7 +879,7 @@
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/l-arte-su-misura/" aria-label="Voir le projet L'Arte Su Misura">
+          <a class="pf-web-card__link" href="/fr/projets/l-arte-su-misura/" aria-label="Voir le projet L'Arte Su Misura">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/l-arte-su-misura.avif" alt="L'Arte Su Misura — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -892,7 +892,7 @@
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/ecologica2000-italia/" aria-label="Voir le projet Ecologica 2000">
+          <a class="pf-web-card__link" href="/fr/projets/ecologica2000-italia/" aria-label="Voir le projet Ecologica 2000">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/ecologica2000-italia.avif" alt="Ecologica 2000 — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -905,7 +905,7 @@
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/alexander-private-tailor/" aria-label="Voir le projet Alexander Private Tailor">
+          <a class="pf-web-card__link" href="/fr/projets/alexander-private-tailor/" aria-label="Voir le projet Alexander Private Tailor">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/alexander-private-tailor.avif" alt="Alexander Private Tailor — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -918,7 +918,7 @@
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/lucia-rosca/" aria-label="Voir le projet Lucia Roșca">
+          <a class="pf-web-card__link" href="/fr/projets/lucia-rosca/" aria-label="Voir le projet Lucia Roșca">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/lucia-rosca.avif" alt="Lucia Roșca — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -931,7 +931,7 @@
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/wts/" aria-label="Voir le projet WTS">
+          <a class="pf-web-card__link" href="/fr/projets/wts/" aria-label="Voir le projet WTS">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/wts.avif" alt="WTS — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -944,7 +944,7 @@
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/bsp/" aria-label="Voir le projet BSP">
+          <a class="pf-web-card__link" href="/fr/projets/bsp/" aria-label="Voir le projet BSP">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/bsp.avif" alt="BSP — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -957,7 +957,7 @@
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/rumpel-m-info/" aria-label="Voir le projet Rumpel-M-INFO">
+          <a class="pf-web-card__link" href="/fr/projets/rumpel-m-info/" aria-label="Voir le projet Rumpel-M-INFO">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/rumpel-m-info.avif" alt="Rumpel-M-INFO — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -970,7 +970,7 @@
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/bryan-mesnager/" aria-label="Voir le projet Bryan Mesnager">
+          <a class="pf-web-card__link" href="/fr/projets/bryan-mesnager/" aria-label="Voir le projet Bryan Mesnager">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/bryan-mesnager.avif" alt="Bryan Mesnager — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -983,7 +983,7 @@
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/edu-net-academy/" aria-label="Voir le projet Edu-Net Academy">
+          <a class="pf-web-card__link" href="/fr/projets/edu-net-academy/" aria-label="Voir le projet Edu-Net Academy">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/edu-net-academy.avif" alt="Edu-Net Academy — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -996,7 +996,7 @@
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/toata-nunta/" aria-label="Voir le projet Toată Nunta">
+          <a class="pf-web-card__link" href="/fr/projets/toata-nunta/" aria-label="Voir le projet Toată Nunta">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/toata-nunta.avif" alt="Toată Nunta — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1009,7 +1009,7 @@
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/alitermica/" aria-label="Voir le projet Alitermica">
+          <a class="pf-web-card__link" href="/fr/projets/alitermica/" aria-label="Voir le projet Alitermica">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/alitermica.avif" alt="Alitermica — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1022,7 +1022,7 @@
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/btg-romania/" aria-label="Voir le projet BTG Romania">
+          <a class="pf-web-card__link" href="/fr/projets/btg-romania/" aria-label="Voir le projet BTG Romania">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/btg-romania.avif" alt="BTG Romania — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1035,7 +1035,7 @@
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/font-legno/" aria-label="Voir le projet Font Legno">
+          <a class="pf-web-card__link" href="/fr/projets/font-legno/" aria-label="Voir le projet Font Legno">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/font-legno.avif" alt="Font Legno — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1048,7 +1048,7 @@
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/revo-piese-moto/" aria-label="Voir le projet Revo / Piese Moto">
+          <a class="pf-web-card__link" href="/fr/projets/revo-piese-moto/" aria-label="Voir le projet Revo / Piese Moto">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/revo-piese-moto.avif" alt="Revo / Piese Moto — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1061,7 +1061,7 @@
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/gs-gomma/" aria-label="Voir le projet GS Gomma">
+          <a class="pf-web-card__link" href="/fr/projets/gs-gomma/" aria-label="Voir le projet GS Gomma">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/gs-gomma.avif" alt="GS Gomma — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1074,7 +1074,7 @@
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/happy-hosting/" aria-label="Voir le projet Happy Hosting">
+          <a class="pf-web-card__link" href="/fr/projets/happy-hosting/" aria-label="Voir le projet Happy Hosting">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/happy-hosting.avif" alt="Happy Hosting — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1087,7 +1087,7 @@
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/castello-di-bagnolo/" aria-label="Voir le projet Castello di Bagnolo">
+          <a class="pf-web-card__link" href="/fr/projets/castello-di-bagnolo/" aria-label="Voir le projet Castello di Bagnolo">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/castello-di-bagnolo.avif" alt="Castello di Bagnolo — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1100,7 +1100,7 @@
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/malpaga/" aria-label="Voir le projet Malpaga">
+          <a class="pf-web-card__link" href="/fr/projets/malpaga/" aria-label="Voir le projet Malpaga">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/malpaga.avif" alt="Malpaga — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1113,7 +1113,7 @@
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/studio-vezzosi/" aria-label="Voir le projet Studio Vezzosi">
+          <a class="pf-web-card__link" href="/fr/projets/studio-vezzosi/" aria-label="Voir le projet Studio Vezzosi">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/studio-vezzosi.avif" alt="Studio Vezzosi — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1126,7 +1126,7 @@
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/studio-lunghini/" aria-label="Voir le projet Studio Lunghini">
+          <a class="pf-web-card__link" href="/fr/projets/studio-lunghini/" aria-label="Voir le projet Studio Lunghini">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/studio-lunghini.avif" alt="Studio Lunghini — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1139,7 +1139,7 @@
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/vincasoft/" aria-label="Voir le projet Vincasoft">
+          <a class="pf-web-card__link" href="/fr/projets/vincasoft/" aria-label="Voir le projet Vincasoft">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/vincasoft.avif" alt="Vincasoft — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1152,7 +1152,7 @@
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/bransha/" aria-label="Voir le projet Bransha">
+          <a class="pf-web-card__link" href="/fr/projets/bransha/" aria-label="Voir le projet Bransha">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/bransha.avif" alt="Bransha — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1165,7 +1165,7 @@
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/dq-design/" aria-label="Voir le projet DQ Design">
+          <a class="pf-web-card__link" href="/fr/projets/dq-design/" aria-label="Voir le projet DQ Design">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/dq-design.avif" alt="DQ Design — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1178,7 +1178,7 @@
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/velomed/" aria-label="Voir le projet Velomed">
+          <a class="pf-web-card__link" href="/fr/projets/velomed/" aria-label="Voir le projet Velomed">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/velomed.avif" alt="Velomed — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1191,7 +1191,7 @@
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/proiecte/im-design-studio/" aria-label="Voir le projet IM Design Studio">
+          <a class="pf-web-card__link" href="/fr/projets/im-design-studio/" aria-label="Voir le projet IM Design Studio">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/im-design-studio.avif" alt="IM Design Studio — projet réalisé par Visience" width="720" height="900" loading="lazy">
           </div>
@@ -1458,6 +1458,6 @@
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://visience.ro/fr/portfolio/#webpage\",\"url\":\"https://visience.ro/fr/portfolio/\",\"name\":\"Portfolio Visience\",\"description\":\"Une sélection de projets web, branding, réseaux sociaux et marketing réalisés par Visience pour des clients en Roumanie, en Italie, en France et en Allemagne.\",\"inLanguage\":\"fr\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Accueil\",\"item\":\"https://visience.ro/fr/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Portfolio\",\"item\":\"https://visience.ro/fr/portfolio/\"}]}]}"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"oa6yd_lXk3WAwdVmYp419"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://visience.ro/fr/portfolio/#webpage\",\"url\":\"https://visience.ro/fr/portfolio/\",\"name\":\"Portfolio Visience\",\"description\":\"Une sélection de projets web, branding, réseaux sociaux et marketing réalisés par Visience pour des clients en Roumanie, en Italie, en France et en Allemagne.\",\"inLanguage\":\"fr\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Accueil\",\"item\":\"https://visience.ro/fr/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Portfolio\",\"item\":\"https://visience.ro/fr/portfolio/\"}]}]}"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ZfweNf1kbug-_wW95KFVz"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

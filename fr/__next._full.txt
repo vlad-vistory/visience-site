@@ -27,7 +27,7 @@ c:I[68027,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","fr",""],"q":"","i":false,"f":[[["",{"children":["fr",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1ikceineaj5_b.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7"]}]]}]]}],{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"oa6yd_lXk3WAwdVmYp419"}
+})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","fr",""],"q":"","i":false,"f":[[["",{"children":["fr",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1ikceineaj5_b.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7"]}]]}]]}],{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"ZfweNf1kbug-_wW95KFVz"}
 e:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 16:I[27961,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 17:I[11015,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
@@ -655,7 +655,7 @@ b:["$","$1","h",{"children":[null,["$","$L1e",null,{"children":"$L1f"}],["$","di
 d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 24:I[97367,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 15:["$","$L18",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L19",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
-23:T2715f,
+23:T282cf,
 
 <div class="vis-home">
 
@@ -872,42 +872,42 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_
   <div class="port-wrap" id="devWrap" tabindex="0" role="region" aria-label="Carrousel promoteurs immobiliers">
     <div class="port-track" id="devTrack">
 
-      <a class="sq-card" href="/proiecte/vlaicu87/">
+      <a class="sq-card" href="/fr/projets/vlaicu87/">
         <span class="sq-card__img"><img src="/media/tiles/v2/vlaicu87.avif" alt="Vlaicu87 — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Vlaicu87</span>
       </a>
 
-      <a class="sq-card" href="/proiecte/cameo-residence/">
+      <a class="sq-card" href="/fr/projets/cameo-residence/">
         <span class="sq-card__img"><img src="/media/tiles/v2/cameo-residence.avif" alt="Cameo Residence — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Cameo Residence</span>
       </a>
 
-      <a class="sq-card" href="/proiecte/evergreen-towers/">
+      <a class="sq-card" href="/fr/projets/evergreen-towers/">
         <span class="sq-card__img"><img src="/media/tiles/v2/evergreen-towers.avif" alt="Evergreen Towers — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Evergreen Towers</span>
       </a>
 
-      <a class="sq-card" href="/proiecte/picolina/">
+      <a class="sq-card" href="/fr/projets/picolina/">
         <span class="sq-card__img"><img src="/media/tiles/v3/picolina-b.avif" alt="Picolina Bucium — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Picolina Bucium</span>
       </a>
 
-      <a class="sq-card" href="/proiecte/armur-design/">
+      <a class="sq-card" href="/fr/projets/armur-design/">
         <span class="sq-card__img"><img src="/media/tiles/v3/armur-design.avif" alt="Armur Design — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Armur Design</span>
       </a>
 
-      <a class="sq-card" href="/proiecte/lapis-residence/">
+      <a class="sq-card" href="/fr/projets/lapis-residence/">
         <span class="sq-card__img"><img src="/media/tiles/v2/lapis-residence.avif" alt="Lapis Residence — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Lapis Residence</span>
       </a>
 
-      <a class="sq-card" href="/proiecte/alfa-park-residence/">
+      <a class="sq-card" href="/fr/projets/alfa-park-residence/">
         <span class="sq-card__img"><img src="/media/tiles/v2/alfa-park-residence.avif" alt="Alfa Park Residence — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Alfa Park Residence</span>
       </a>
 
-      <a class="sq-card" href="/proiecte/2m-tech/">
+      <a class="sq-card" href="/fr/projets/2m-tech/">
         <span class="sq-card__img"><img src="/media/tiles/v2/2m-tech.avif" alt="2M Tech — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">2M Tech</span>
       </a>
@@ -940,42 +940,42 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_
   <div class="port-wrap" id="partWrap" tabindex="0" role="region" aria-label="Carrousel partenaires">
     <div class="port-track" id="partTrack">
 
-      <a class="sq-card" href="/proiecte/casa-vatra/">
+      <a class="sq-card" href="/fr/projets/casa-vatra/">
         <span class="sq-card__img"><img src="/media/tiles/v2/casa-vatra.fc383a.avif" alt="Casa Vatră — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Casa Vatră</span>
       </a>
 
-      <a class="sq-card" href="/proiecte/carmangeria-evei/">
+      <a class="sq-card" href="/fr/projets/carmangeria-evei/">
         <span class="sq-card__img"><img src="/media/tiles/v2/carmangeria-evei.avif" alt="Carmangeria Evei — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Carmangeria Evei</span>
       </a>
 
-      <a class="sq-card" href="/proiecte/solutii-alpensam/">
+      <a class="sq-card" href="/fr/projets/solutii-alpensam/">
         <span class="sq-card__img"><img src="/media/tiles/v2/solutii-alpensam.avif" alt="Soluții Alpensam — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Soluții Alpensam</span>
       </a>
 
-      <a class="sq-card" href="/proiecte/lucia-rosca/">
+      <a class="sq-card" href="/fr/projets/lucia-rosca/">
         <span class="sq-card__img"><img src="/media/tiles/v2/lucia-rosca.avif" alt="Lucia Roșca — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Lucia Roșca</span>
       </a>
 
-      <a class="sq-card" href="/proiecte/velomed/">
+      <a class="sq-card" href="/fr/projets/velomed/">
         <span class="sq-card__img"><img src="/media/tiles/v2/velomed.avif" alt="Velomed — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Velomed</span>
       </a>
 
-      <a class="sq-card" href="/proiecte/ecologica2000-italia/">
+      <a class="sq-card" href="/fr/projets/ecologica2000-italia/">
         <span class="sq-card__img"><img src="/media/tiles/v2/ecologica2000-italia.avif" alt="Ecologica 2000 — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Ecologica 2000</span>
       </a>
 
-      <a class="sq-card" href="/proiecte/amodelic/">
+      <a class="sq-card" href="/fr/projets/amodelic/">
         <span class="sq-card__img"><img src="/media/tiles/v2/amodelic.avif" alt="Amodelic — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Amodelic</span>
       </a>
 
-      <a class="sq-card" href="/proiecte/toata-nunta/">
+      <a class="sq-card" href="/fr/projets/toata-nunta/">
         <span class="sq-card__img"><img src="/media/tiles/v2/toata-nunta.avif" alt="Toată Nunta — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Toată Nunta</span>
       </a>
@@ -1664,7 +1664,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_
             <a href="https://vlaicu87.ro/" target="_blank" rel="noopener" class="pj-card__url">vlaicu87.ro ↗</a>
             <span class="pj-card__collab">avec Vistory</span>
           </div>
-        <a class="pj-card__more" href="/proiecte/vlaicu87/">Voir le projet <span aria-hidden="true">→</span></a>
+        <a class="pj-card__more" href="/fr/projets/vlaicu87/">Voir le projet <span aria-hidden="true">→</span></a>
         </div>
       </article>
 
@@ -1704,7 +1704,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_
           <div class="pj-card__foot">
             <a href="https://amodelic.com" target="_blank" rel="noopener" class="pj-card__url">amodelic.com ↗</a>
           </div>
-        <a class="pj-card__more" href="/proiecte/amodelic/">Voir le projet <span aria-hidden="true">→</span></a>
+        <a class="pj-card__more" href="/fr/projets/amodelic/">Voir le projet <span aria-hidden="true">→</span></a>
         </div>
       </article>
 
@@ -1737,7 +1737,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_
           <div class="pj-card__foot">
             <a href="https://casavatra.ro" target="_blank" rel="noopener" class="pj-card__url">casavatra.ro ↗</a>
           </div>
-        <a class="pj-card__more" href="/proiecte/casa-vatra/">Voir le projet <span aria-hidden="true">→</span></a>
+        <a class="pj-card__more" href="/fr/projets/casa-vatra/">Voir le projet <span aria-hidden="true">→</span></a>
         </div>
       </article>
 
@@ -1777,7 +1777,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_
           <div class="pj-card__foot">
             <a href="https://carmangeriaevei.ro/" target="_blank" rel="noopener" class="pj-card__url">carmangeriaevei.ro ↗</a>
           </div>
-        <a class="pj-card__more" href="/proiecte/carmangeria-evei/">Voir le projet <span aria-hidden="true">→</span></a>
+        <a class="pj-card__more" href="/fr/projets/carmangeria-evei/">Voir le projet <span aria-hidden="true">→</span></a>
         </div>
       </article>
 
@@ -1821,7 +1821,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_
             <a href="https://cameoresidence.ro/" target="_blank" rel="noopener" class="pj-card__url">cameoresidence.ro ↗</a>
             <span class="pj-card__collab">avec Vistory</span>
           </div>
-        <a class="pj-card__more" href="/proiecte/cameo-residence/">Voir le projet <span aria-hidden="true">→</span></a>
+        <a class="pj-card__more" href="/fr/projets/cameo-residence/">Voir le projet <span aria-hidden="true">→</span></a>
         </div>
       </article>
 
@@ -1864,7 +1864,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_
           <div class="pj-card__foot">
             <a href="https://solutiialpensam.ro/" target="_blank" rel="noopener" class="pj-card__url">solutiialpensam.ro ↗</a>
           </div>
-        <a class="pj-card__more" href="/proiecte/solutii-alpensam/">Voir le projet <span aria-hidden="true">→</span></a>
+        <a class="pj-card__more" href="/fr/projets/solutii-alpensam/">Voir le projet <span aria-hidden="true">→</span></a>
         </div>
       </article>
 
@@ -1897,7 +1897,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_
             <a href="https://2mtech.ro/" target="_blank" rel="noopener" class="pj-card__url">2mtech.ro ↗</a>
             <span class="pj-card__collab">avec Vistory</span>
           </div>
-        <a class="pj-card__more" href="/proiecte/2m-tech/">Voir le projet <span aria-hidden="true">→</span></a>
+        <a class="pj-card__more" href="/fr/projets/2m-tech/">Voir le projet <span aria-hidden="true">→</span></a>
         </div>
       </article>
 
@@ -1928,7 +1928,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_
           <div class="pj-card__foot">
             <a href="https://ecologica2000.eu/" target="_blank" rel="noopener" class="pj-card__url">ecologica2000.eu ↗</a>
           </div>
-        <a class="pj-card__more" href="/proiecte/ecologica2000-italia/">Voir le projet <span aria-hidden="true">→</span></a>
+        <a class="pj-card__more" href="/fr/projets/ecologica2000-italia/">Voir le projet <span aria-hidden="true">→</span></a>
         </div>
       </article>
 
