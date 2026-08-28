@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T3669,<style>
+2:T36ce,<style>
 .cs { background: var(--white); }
 
 /* HERO */
@@ -57,7 +57,7 @@
 .cs-gal__head { margin-bottom: 40px; }
 .cs-gal__head h2 { font-family: var(--f-d); font-weight: 800; font-size: clamp(26px, 3.2vw, 40px); letter-spacing: -.025em; color: var(--ink); }
 .cs-gal__grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; }
-.cs-gal__grid img { width: 100%; aspect-ratio: 16/9; object-fit: cover; border-radius: 14px; border: 1px solid var(--border); display: block; }
+.cs-gal__grid img { width: 100%; height: auto; aspect-ratio: 16/9; object-fit: cover; border-radius: 14px; border: 1px solid var(--border); display: block; }
 .cs-plans { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-top: 14px; }
 .cs-plan { background: var(--cream); border: 1px solid var(--border); border-radius: 14px; padding: 16px; }
 .cs-plan img { width: 100%; height: auto; border-radius: 8px; display: block; margin-bottom: 12px; border: 0; }
@@ -156,10 +156,10 @@
     <div class="wrap">
       <div class="cs-gal__head"><h2>Galerie</h2></div>
       <div class="cs-gal__grid">
-        <img src="/media/cameo-render-1.avif" alt="Cameo Residence — randare exterioară ansamblu" width="1600" height="900" loading="lazy">
-        <img src="/media/cameo-render-4.avif" alt="Cameo Residence — perspectivă ansamblu" width="1600" height="900" loading="lazy">
-        <img src="/media/cameo-render-3.avif" alt="Cameo Residence — vedere ansamblu rezidențial Iași" width="1600" height="900" loading="lazy">
-        <img src="/media/cameo-render-2.avif" alt="Cameo Residence — imagine de prezentare" width="1474" height="854" loading="lazy">
+        <img src="/media/cameo-foto-fatada.avif" alt="Cameo Residence — fațada ansamblului, cărămidă aparentă și balcoane" width="1600" height="1067" loading="lazy">
+        <img src="/media/cameo-foto-living.avif" alt="Cameo Residence — living dintr-un apartament finisat" width="1600" height="900" loading="lazy">
+        <img src="/media/cameo-foto-bucatarie.avif" alt="Cameo Residence — bucătărie cu insulă, într-un apartament predat" width="1600" height="1067" loading="lazy">
+        <img src="/media/cameo-foto-baie.avif" alt="Cameo Residence — baie finisată, cu lumină naturală" width="1600" height="1067" loading="lazy">
       </div>
       <div class="cs-plans">
         <div class="cs-plan"><img src="/media/cameo-plan-studio.avif" alt="Plan apartament o cameră / studio Cameo Residence" width="933" height="1333" loading="lazy"><span>Studio · 1 cameră</span></div>
@@ -188,6 +188,6 @@
   </nav>
 
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CreativeWork\",\"@id\":\"https://visience.ro/proiecte/cameo-residence/#case\",\"name\":\"Cameo Residence — studiu de caz\",\"about\":\"Marketing imobiliar pentru ansamblul rezidențial Cameo Residence, Iași\",\"creator\":{\"@type\":\"Organization\",\"name\":\"Visience Creative Experience\",\"url\":\"https://visience.ro/\"},\"keywords\":\"marketing imobiliar, branding, website, Google Ads, Meta Ads, Cameo Residence, Iași\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Acasă\",\"item\":\"https://visience.ro/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Proiecte\",\"item\":\"https://visience.ro/portofoliu/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Cameo Residence\",\"item\":\"https://visience.ro/proiecte/cameo-residence/\"}]}]}"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Cwhc9FyykJy9S8ZM2rY-z"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CreativeWork\",\"@id\":\"https://visience.ro/proiecte/cameo-residence/#case\",\"name\":\"Cameo Residence — studiu de caz\",\"about\":\"Marketing imobiliar pentru ansamblul rezidențial Cameo Residence, Iași\",\"creator\":{\"@type\":\"Organization\",\"name\":\"Visience Creative Experience\",\"url\":\"https://visience.ro/\"},\"keywords\":\"marketing imobiliar, branding, website, Google Ads, Meta Ads, Cameo Residence, Iași\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Acasă\",\"item\":\"https://visience.ro/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Proiecte\",\"item\":\"https://visience.ro/portofoliu/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Cameo Residence\",\"item\":\"https://visience.ro/proiecte/cameo-residence/\"}]}]}"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"oa6yd_lXk3WAwdVmYp419"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
