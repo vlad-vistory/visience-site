@@ -27,7 +27,7 @@ c:I[68027,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","site-999-lei",""],"q":"","i":false,"f":[[["",{"children":["site-999-lei",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1ikceineaj5_b.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7"]}]]}]]}],{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"04c5XmtiGjBftRmoZY3XX"}
+})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","site-999-lei",""],"q":"","i":false,"f":[[["",{"children":["site-999-lei",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1ikceineaj5_b.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7"]}]]}]]}],{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"ft5Vau6DsKS3DkUQApim4"}
 e:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 16:I[27961,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 17:I[11015,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
@@ -648,7 +648,7 @@ f:T1090,<header class="nav" id="nav" role="banner">
 6:["$","$L16",null,{}]
 7:["$","$L17",null,{}]
 8:["$","$1","c",{"children":[null,["$","$L18",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L19",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
-1a:T70c6,<style>
+1a:T8165,<style>
 .s999 { background: var(--white); }
 
 /* HERO */
@@ -720,6 +720,56 @@ f:T1090,<header class="nav" id="nav" role="banner">
 
 @media (max-width: 900px) { .s999-dis { grid-template-columns: 1fr; } .s999-wf { max-width: 420px; } }
 
+/* ilustratiile din „ce intra in pret” */
+.s999-cell svg { width: 30px; height: 30px; display: block; margin-bottom: 15px; color: var(--acc-deep); }
+
+/* cronologia: doua zile, patru opriri */
+.s999-crono { border: 1px solid var(--border); border-radius: var(--rlg); background: var(--white); padding: clamp(28px, 3.4vw, 44px) clamp(22px, 3vw, 44px); }
+.s999-crono__zile { display: grid; grid-template-columns: 1fr 1fr; gap: 4px; margin-bottom: 26px; }
+.s999-crono__z { font-family: var(--f-m); font-size: 11px; letter-spacing: .12em; text-transform: uppercase; color: var(--acc-ink); background: var(--acc); padding: 9px 16px; border-radius: 100px; text-align: center; }
+.s999-crono__z + .s999-crono__z { background: var(--ink); color: #fff; }
+.s999-crono__pista { position: relative; display: grid; grid-template-columns: repeat(4, 1fr); gap: 0; }
+.s999-crono__pista::before { content: ""; position: absolute; left: 12.5%; right: 12.5%; top: 11px; height: 2px; background: linear-gradient(90deg, var(--acc) 0 50%, var(--ink) 50% 100%); opacity: .35; }
+.s999-crono__op { position: relative; padding: 0 10px; text-align: center; }
+.s999-crono__d { width: 24px; height: 24px; border-radius: 50%; background: var(--white); border: 2px solid var(--acc); margin: 0 auto 14px; display: flex; align-items: center; justify-content: center; font-family: var(--f-m); font-size: 10px; font-weight: 700; color: var(--acc-deep); position: relative; z-index: 1; }
+.s999-crono__op:nth-child(n+3) .s999-crono__d { border-color: var(--ink); color: var(--ink); }
+.s999-crono__op h3 { font-family: var(--f-d); font-weight: 700; font-size: 15px; letter-spacing: -.01em; color: var(--ink); margin: 0 0 6px; }
+.s999-crono__op p { font-size: 13px; line-height: 1.65; color: var(--mid); font-weight: 300; margin: 0; }
+.s999-crono__ora { font-family: var(--f-m); font-size: 10px; letter-spacing: .08em; text-transform: uppercase; color: var(--light); margin-bottom: 5px; }
+
+/* formularul */
+.s999-form { max-width: 560px; }
+.s999-form .wpcf7-form-control-wrap { display: block; position: relative; margin-bottom: 12px; }
+.s999-form .wpcf7-form-control-wrap input {
+  width: 100%; padding: 21px 16px 8px; background: var(--white);
+  border: 1.5px solid var(--border); border-radius: 10px; color: var(--ink);
+  font-family: inherit; font-size: 14.5px; font-weight: 300; transition: .2s;
+}
+.s999-form .wpcf7-form-control-wrap input:focus { border-color: var(--acc-deep); outline: none; background: rgba(155,195,26,.05); }
+.s999-form .wpcf7-form-control-wrap input::placeholder { color: transparent; }
+.s999-form .floating-label { position: absolute; top: 50%; left: 16px; transform: translateY(-50%); font-size: 14px; color: var(--light); pointer-events: none; transition: .2s; }
+.s999-form .wpcf7-form-control-wrap input:not(:placeholder-shown) + .floating-label,
+.s999-form .wpcf7-form-control-wrap input:focus + .floating-label {
+  top: 12px; transform: none; font-size: 10px; color: var(--acc-deep);
+  font-family: var(--f-m); letter-spacing: .09em; text-transform: uppercase;
+}
+.s999-form .wpcf7-submit {
+  display: block; width: 100%; padding: 16px; margin-top: 6px;
+  background: var(--acc); color: var(--acc-ink); border: 0; border-radius: 100px;
+  font-family: var(--f-m); font-size: 11px; font-weight: 600; letter-spacing: .1em;
+  text-transform: uppercase; cursor: pointer; transition: .2s;
+}
+.s999-form .wpcf7-submit:hover { background: var(--acc-deep); color: #fff; transform: translateY(-1px); }
+.s999-form p { margin: 0; }
+
+@media (max-width: 760px) {
+  .s999-crono__pista { grid-template-columns: 1fr; gap: 22px; }
+  .s999-crono__pista::before { display: none; }
+  .s999-crono__op { text-align: left; padding: 0 0 0 38px; }
+  .s999-crono__d { position: absolute; left: 0; top: 0; margin: 0; }
+  .s999-crono__zile { grid-template-columns: 1fr; }
+}
+
 /* SECTIUNI */
 .s999-sec { padding: clamp(60px, 8vw, 100px) 0; border-top: 1px solid var(--border); }
 .s999-sec--alt { background: var(--cream); }
@@ -735,12 +785,6 @@ f:T1090,<header class="nav" id="nav" role="banner">
 .s999-cell p { font-size: 13.5px; line-height: 1.7; color: var(--mid); font-weight: 300; margin: 0; }
 
 
-/* pasi */
-.s999-pasi { display: grid; grid-template-columns: repeat(2, 1fr); gap: 3px; border: 1px solid var(--border); border-radius: var(--rlg); overflow: hidden; background: var(--border); }
-.s999-pas { background: var(--white); padding: 32px 30px; display: flex; gap: 20px; align-items: flex-start; }
-.s999-pas__n { font-family: var(--f-d); font-weight: 800; font-size: 34px; letter-spacing: -.04em; line-height: 1; color: var(--acc); flex-shrink: 0; }
-.s999-pas h3 { font-family: var(--f-d); font-weight: 700; font-size: 17px; letter-spacing: -.015em; color: var(--ink); margin: 0 0 8px; }
-.s999-pas p { font-size: 13.5px; line-height: 1.75; color: var(--mid); font-weight: 300; margin: 0; }
 
 /* intrebari */
 .s999-faq { max-width: 780px; }
@@ -752,7 +796,6 @@ f:T1090,<header class="nav" id="nav" role="banner">
 @media (max-width: 900px) {
   .s999-hero__grid { grid-template-columns: 1fr; gap: 34px; }
   .s999-grid { grid-template-columns: 1fr 1fr; }
-  .s999-pasi { grid-template-columns: 1fr; }
 }
 @media (max-width: 620px) {
   .s999-grid { grid-template-columns: 1fr; }
@@ -810,32 +853,32 @@ f:T1090,<header class="nav" id="nav" role="banner">
       </div>
       <div class="s999-grid">
         <div class="s999-cell">
-          <i class="fas fa-pen-ruler" aria-hidden="true"></i>
+          <svg viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 27h22"/><path d="M8 23l12-12 4 4L12 27H8z"/><path d="M20 11l3-3a2.1 2.1 0 013 3l-3 3"/><path d="M5 6h9v5H5z"/><path d="M8 6v2M11 6v2"/></svg>
           <h3>Design pe firma ta</h3>
           <p>Culorile, tipografia și felul în care sunt așezate secțiunile pornesc de la ce faci și de la ce ai deja: siglă, poze, materiale.</p>
         </div>
         <div class="s999-cell">
-          <i class="fas fa-align-left" aria-hidden="true"></i>
+          <svg viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 5h18v22H7z"/><path d="M11 11h10M11 16h10M11 21h6"/></svg>
           <h3>Textele scrise de noi</h3>
           <p>Ne spui ce faci într-o discuție de douăzeci de minute, iar noi scriem paginile. Le citești și le corectezi înainte de publicare.</p>
         </div>
         <div class="s999-cell">
-          <i class="fas fa-mobile-screen" aria-hidden="true"></i>
+          <svg viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="10" y="4" width="12" height="24" rx="2.5"/><path d="M14 7h4"/><circle cx="16" cy="24" r="1"/></svg>
           <h3>Testat pe telefon</h3>
           <p>Peste nouă din zece oameni deschid site-ul de pe telefon. Îl verificăm acolo întâi și abia apoi pe calculator.</p>
         </div>
         <div class="s999-cell">
-          <i class="fas fa-envelope-open-text" aria-hidden="true"></i>
+          <svg viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12l12-7 12 7v13a2 2 0 01-2 2H6a2 2 0 01-2-2z"/><path d="M4 12l12 8 12-8"/></svg>
           <h3>Formular și WhatsApp</h3>
           <p>Cererile ajung pe e-mailul tău, iar butonul de WhatsApp deschide conversația direct din telefon.</p>
         </div>
         <div class="s999-cell">
-          <i class="fas fa-magnifying-glass" aria-hidden="true"></i>
+          <svg viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="14" cy="14" r="8"/><path d="M20 20l7 7"/></svg>
           <h3>Pus în Google</h3>
           <p>Titluri, descrieri, sitemap și înscrierea în Search Console, ca site-ul să apară când cineva caută numele firmei.</p>
         </div>
         <div class="s999-cell">
-          <i class="fas fa-graduation-cap" aria-hidden="true"></i>
+          <svg viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="4" y="6" width="24" height="16" rx="2"/><path d="M12 26h8"/><path d="M14 11l5 3-5 3z"/></svg>
           <h3>Instruire înregistrată</h3>
           <p>Îți arătăm pe filmare cum schimbi textele, pozele și programul, ca să poți lucra singur pe site după livrare.</p>
         </div>
@@ -987,33 +1030,35 @@ f:T1090,<header class="nav" id="nav" role="banner">
         <h2>Cum decurge</h2>
         <p>Din momentul în care spui da până la site-ul publicat trec două zile lucrătoare.</p>
       </div>
-      <div class="s999-pasi">
-        <div class="s999-pas">
-          <div class="s999-pas__n">01</div>
-          <div>
-            <h3>Ziua 1, dimineața</h3>
-            <p>Douăzeci de minute la telefon sau pe WhatsApp: ce faci, cui te adresezi, ce vrei să se întâmple când cineva intră pe site. Ne trimiți sigla și pozele pe care le ai.</p>
-          </div>
+      <div class="s999-crono">
+        <div class="s999-crono__zile">
+          <div class="s999-crono__z">Ziua 1</div>
+          <div class="s999-crono__z">Ziua 2</div>
         </div>
-        <div class="s999-pas">
-          <div class="s999-pas__n">02</div>
-          <div>
-            <h3>Ziua 1, seara</h3>
-            <p>Îți trimitem site-ul pe o adresă de test. Îl deschizi, îl citești și ne spui ce schimbi.</p>
+        <div class="s999-crono__pista">
+          <div class="s999-crono__op">
+            <div class="s999-crono__d">1</div>
+            <div class="s999-crono__ora">Dimineața</div>
+            <h3>Discuția</h3>
+            <p>Douăzeci de minute la telefon. Ne trimiți sigla și pozele.</p>
           </div>
-        </div>
-        <div class="s999-pas">
-          <div class="s999-pas__n">03</div>
-          <div>
-            <h3>Ziua 2, dimineața</h3>
-            <p>Faci o listă cu tot ce vrei modificat și o rezolvăm într-o singură rundă. Textele și pozele se pot schimba oricând după aceea, singur.</p>
+          <div class="s999-crono__op">
+            <div class="s999-crono__d">2</div>
+            <div class="s999-crono__ora">Seara</div>
+            <h3>Prima variantă</h3>
+            <p>Îți trimitem site-ul pe o adresă de test.</p>
           </div>
-        </div>
-        <div class="s999-pas">
-          <div class="s999-pas__n">04</div>
-          <div>
-            <h3>Ziua 2, după-amiaza</h3>
-            <p>Punem site-ul pe domeniul tău, îl înscriem în Google și îți trimitem filmarea cu instruirea. Atunci plătești cei 999 de lei.</p>
+          <div class="s999-crono__op">
+            <div class="s999-crono__d">3</div>
+            <div class="s999-crono__ora">Dimineața</div>
+            <h3>Corecturile</h3>
+            <p>Ne dai lista cu ce schimbi și le rezolvăm.</p>
+          </div>
+          <div class="s999-crono__op">
+            <div class="s999-crono__d">4</div>
+            <div class="s999-crono__ora">După-amiaza</div>
+            <h3>Publicarea</h3>
+            <p>Site-ul intră pe domeniul tău și în Google.</p>
           </div>
         </div>
       </div>
@@ -1062,7 +1107,7 @@ f:T1090,<header class="nav" id="nav" role="banner">
       </div>
 
       <form action="/contact.php" method="post"
-            class="wpcf7-form init"
+            class="wpcf7-form init s999-form"
             aria-label="Formular site 999 lei"
             novalidate
             data-status="init">
