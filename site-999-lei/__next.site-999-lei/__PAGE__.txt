@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T8165,<style>
+2:T90ed,<style>
 .s999 { background: var(--white); }
 
 /* HERO */
@@ -123,6 +123,24 @@
   .s999-crono__zile { grid-template-columns: 1fr; }
 }
 
+/* recenzii: banda de sub hero */
+.s999-rev { padding: clamp(44px, 5vw, 64px) 0; background: var(--cream); border-bottom: 1px solid var(--border); }
+.s999-rev__cap { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin-bottom: 26px; }
+.s999-rev__stele { color: #F5A623; font-size: 15px; letter-spacing: 2px; line-height: 1; }
+.s999-rev__cap b { font-family: var(--f-d); font-weight: 700; font-size: 16px; color: var(--ink); letter-spacing: -.01em; }
+.s999-rev__cap span { font-family: var(--f-m); font-size: 11px; letter-spacing: .06em; text-transform: uppercase; color: var(--light); }
+.s999-rev__g { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; align-items: stretch; }
+.s999-rev__c { margin: 0; display: flex; flex-direction: column; gap: 11px; padding: 24px 24px 20px; background: var(--white); border: 1px solid var(--border); border-radius: 14px; }
+.s999-rev__c q { margin: 0; quotes: none; font-size: 15px; line-height: 1.65; color: var(--ink); flex: 1; }
+.s999-rev__w { display: flex; flex-direction: column; gap: 2px; }
+.s999-rev__n { font-family: var(--f-d); font-weight: 650; font-size: 14.5px; color: var(--ink); }
+.s999-rev__f { font-size: 13px; color: var(--acc-deep); font-weight: 500; text-decoration: none; }
+.s999-rev__f:hover { text-decoration: underline; }
+.s999-rev__s { font-family: var(--f-m); font-size: 10.5px; letter-spacing: .06em; text-transform: uppercase; color: var(--light); margin-top: 3px; }
+.s999-rev__t { margin: 22px 0 0; font-size: 13.5px; }
+.s999-rev__t a { color: var(--acc-deep); font-weight: 500; border-bottom: 1px solid rgba(78,108,12,.35); text-decoration: none; }
+@media (max-width: 860px) { .s999-rev__g { grid-template-columns: 1fr; } }
+
 /* SECTIUNI */
 .s999-sec { padding: clamp(60px, 8vw, 100px) 0; border-top: 1px solid var(--border); }
 .s999-sec--alt { background: var(--cream); }
@@ -197,6 +215,47 @@
       </div>
     </div>
   </section>
+
+  <section class="s999-rev" aria-label="Recenzii de la clienți">
+    <div class="wrap">
+      <div class="s999-rev__cap">
+        <span class="s999-rev__stele" aria-hidden="true">★★★★★</span>
+        <b>5 din 5 pe Google</b>
+        <span>recenzii scrise de clienți, pe profilul nostru de firmă</span>
+      </div>
+      <div class="s999-rev__g">
+        <figure class="s999-rev__c">
+          <span class="s999-rev__stele" aria-label="5 din 5 stele">★★★★★</span>
+          <q>Un partener de bază, de cursă lungă. Recomand.</q>
+          <figcaption class="s999-rev__w">
+            <span class="s999-rev__n">Dionisie Lefter</span>
+            <a class="s999-rev__f" href="https://velomed.ro/" target="_blank" rel="noopener noreferrer">Velomed &amp; Romold Invent</a>
+            <span class="s999-rev__s">Google · recenzie verificabilă</span>
+          </figcaption>
+        </figure>
+        <figure class="s999-rev__c">
+          <span class="s999-rev__stele" aria-label="5 din 5 stele">★★★★★</span>
+          <q>Am colaborat excelent cu Vlad!</q>
+          <figcaption class="s999-rev__w">
+            <span class="s999-rev__n">Dan Vatra</span>
+            <a class="s999-rev__f" href="https://casavatra.ro/" target="_blank" rel="noopener noreferrer">Casa Vatra</a>
+            <span class="s999-rev__s">Google · recenzie verificabilă</span>
+          </figcaption>
+        </figure>
+        <figure class="s999-rev__c">
+          <span class="s999-rev__stele" aria-label="5 din 5 stele">★★★★★</span>
+          <q>Profesionalism și calitate la superlativ. Recomand!</q>
+          <figcaption class="s999-rev__w">
+            <span class="s999-rev__n">Alpensam Edil</span>
+            <a class="s999-rev__f" href="https://solutiialpensam.ro/" target="_blank" rel="noopener noreferrer">Soluții Alpensam</a>
+            <span class="s999-rev__s">Google · recenzie verificabilă</span>
+          </figcaption>
+        </figure>
+      </div>
+      <p class="s999-rev__t"><a href="https://maps.google.com/?cid=5233500846285127119" target="_blank" rel="noopener noreferrer">Vezi toate recenziile pe Google →</a></p>
+    </div>
+  </section>
+
 
   <section class="s999-sec">
     <div class="wrap">
@@ -510,6 +569,6 @@
   </section>
 
 </main>
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ft5Vau6DsKS3DkUQApim4"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BojHs33Z8WNfXgvbNI4N9"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

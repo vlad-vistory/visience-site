@@ -27,7 +27,7 @@ c:I[68027,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","site-999-lei",""],"q":"","i":false,"f":[[["",{"children":["site-999-lei",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1ikceineaj5_b.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7"]}]]}]]}],{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"ft5Vau6DsKS3DkUQApim4"}
+})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","site-999-lei",""],"q":"","i":false,"f":[[["",{"children":["site-999-lei",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1ikceineaj5_b.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7"]}]]}]]}],{"children":["$L8",{"children":["$L9",{},null,false,null]},null,false,"$@a"]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"BojHs33Z8WNfXgvbNI4N9"}
 e:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 16:I[27961,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 17:I[11015,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
@@ -648,7 +648,7 @@ f:T1090,<header class="nav" id="nav" role="banner">
 6:["$","$L16",null,{}]
 7:["$","$L17",null,{}]
 8:["$","$1","c",{"children":[null,["$","$L18",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L19",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
-1a:T8165,<style>
+1a:T90ed,<style>
 .s999 { background: var(--white); }
 
 /* HERO */
@@ -770,6 +770,24 @@ f:T1090,<header class="nav" id="nav" role="banner">
   .s999-crono__zile { grid-template-columns: 1fr; }
 }
 
+/* recenzii: banda de sub hero */
+.s999-rev { padding: clamp(44px, 5vw, 64px) 0; background: var(--cream); border-bottom: 1px solid var(--border); }
+.s999-rev__cap { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin-bottom: 26px; }
+.s999-rev__stele { color: #F5A623; font-size: 15px; letter-spacing: 2px; line-height: 1; }
+.s999-rev__cap b { font-family: var(--f-d); font-weight: 700; font-size: 16px; color: var(--ink); letter-spacing: -.01em; }
+.s999-rev__cap span { font-family: var(--f-m); font-size: 11px; letter-spacing: .06em; text-transform: uppercase; color: var(--light); }
+.s999-rev__g { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; align-items: stretch; }
+.s999-rev__c { margin: 0; display: flex; flex-direction: column; gap: 11px; padding: 24px 24px 20px; background: var(--white); border: 1px solid var(--border); border-radius: 14px; }
+.s999-rev__c q { margin: 0; quotes: none; font-size: 15px; line-height: 1.65; color: var(--ink); flex: 1; }
+.s999-rev__w { display: flex; flex-direction: column; gap: 2px; }
+.s999-rev__n { font-family: var(--f-d); font-weight: 650; font-size: 14.5px; color: var(--ink); }
+.s999-rev__f { font-size: 13px; color: var(--acc-deep); font-weight: 500; text-decoration: none; }
+.s999-rev__f:hover { text-decoration: underline; }
+.s999-rev__s { font-family: var(--f-m); font-size: 10.5px; letter-spacing: .06em; text-transform: uppercase; color: var(--light); margin-top: 3px; }
+.s999-rev__t { margin: 22px 0 0; font-size: 13.5px; }
+.s999-rev__t a { color: var(--acc-deep); font-weight: 500; border-bottom: 1px solid rgba(78,108,12,.35); text-decoration: none; }
+@media (max-width: 860px) { .s999-rev__g { grid-template-columns: 1fr; } }
+
 /* SECTIUNI */
 .s999-sec { padding: clamp(60px, 8vw, 100px) 0; border-top: 1px solid var(--border); }
 .s999-sec--alt { background: var(--cream); }
@@ -844,6 +862,47 @@ f:T1090,<header class="nav" id="nav" role="banner">
       </div>
     </div>
   </section>
+
+  <section class="s999-rev" aria-label="Recenzii de la clienți">
+    <div class="wrap">
+      <div class="s999-rev__cap">
+        <span class="s999-rev__stele" aria-hidden="true">★★★★★</span>
+        <b>5 din 5 pe Google</b>
+        <span>recenzii scrise de clienți, pe profilul nostru de firmă</span>
+      </div>
+      <div class="s999-rev__g">
+        <figure class="s999-rev__c">
+          <span class="s999-rev__stele" aria-label="5 din 5 stele">★★★★★</span>
+          <q>Un partener de bază, de cursă lungă. Recomand.</q>
+          <figcaption class="s999-rev__w">
+            <span class="s999-rev__n">Dionisie Lefter</span>
+            <a class="s999-rev__f" href="https://velomed.ro/" target="_blank" rel="noopener noreferrer">Velomed &amp; Romold Invent</a>
+            <span class="s999-rev__s">Google · recenzie verificabilă</span>
+          </figcaption>
+        </figure>
+        <figure class="s999-rev__c">
+          <span class="s999-rev__stele" aria-label="5 din 5 stele">★★★★★</span>
+          <q>Am colaborat excelent cu Vlad!</q>
+          <figcaption class="s999-rev__w">
+            <span class="s999-rev__n">Dan Vatra</span>
+            <a class="s999-rev__f" href="https://casavatra.ro/" target="_blank" rel="noopener noreferrer">Casa Vatra</a>
+            <span class="s999-rev__s">Google · recenzie verificabilă</span>
+          </figcaption>
+        </figure>
+        <figure class="s999-rev__c">
+          <span class="s999-rev__stele" aria-label="5 din 5 stele">★★★★★</span>
+          <q>Profesionalism și calitate la superlativ. Recomand!</q>
+          <figcaption class="s999-rev__w">
+            <span class="s999-rev__n">Alpensam Edil</span>
+            <a class="s999-rev__f" href="https://solutiialpensam.ro/" target="_blank" rel="noopener noreferrer">Soluții Alpensam</a>
+            <span class="s999-rev__s">Google · recenzie verificabilă</span>
+          </figcaption>
+        </figure>
+      </div>
+      <p class="s999-rev__t"><a href="https://maps.google.com/?cid=5233500846285127119" target="_blank" rel="noopener noreferrer">Vezi toate recenziile pe Google →</a></p>
+    </div>
+  </section>
+
 
   <section class="s999-sec">
     <div class="wrap">
