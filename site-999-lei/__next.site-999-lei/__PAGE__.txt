@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T44be,<style>
+2:T5292,<style>
 .s999 { background: var(--white); }
 
 /* HERO */
@@ -24,6 +24,19 @@
 .s999-pret__l { list-style: none; margin: 22px 0 0; padding: 22px 0 0; border-top: 1px solid rgba(255,255,255,.12); display: grid; gap: 11px; }
 .s999-pret__l li { position: relative; padding-left: 20px; font-size: 13.5px; line-height: 1.55; color: rgba(255,255,255,.8); font-weight: 300; }
 .s999-pret__l li::before { content: "✓"; position: absolute; left: 0; top: 0; line-height: 1.7; font-size: 11px; font-weight: 700; color: var(--acc); }
+
+/* exemple: capturi in rama de browser */
+.s999-ex { display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px; }
+.s999-ex__c { display: block; text-decoration: none; }
+.s999-ex__b { border: 1px solid var(--border); border-radius: 14px; overflow: hidden; background: var(--white); box-shadow: 0 14px 34px rgba(17,16,16,.07); transition: .25s; }
+.s999-ex__c:hover .s999-ex__b { transform: translateY(-4px); box-shadow: 0 22px 46px rgba(17,16,16,.11); }
+.s999-ex__bar { display: flex; align-items: center; gap: 7px; padding: 10px 13px; background: var(--cream2); border-bottom: 1px solid var(--border); }
+.s999-ex__bar i { width: 8px; height: 8px; border-radius: 50%; background: rgba(20,20,26,.18); display: block; }
+.s999-ex__bar span { margin-left: 8px; font-family: var(--f-m); font-size: 11px; color: var(--mid); letter-spacing: .01em; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.s999-ex__b img { width: 100%; height: auto; display: block; }
+.s999-ex__t { margin: 14px 2px 0; font-size: 13.5px; line-height: 1.6; color: var(--mid); font-weight: 300; }
+.s999-ex__t b { display: block; font-family: var(--f-d); font-weight: 700; font-size: 15px; color: var(--ink); margin-bottom: 3px; letter-spacing: -.01em; }
+@media (max-width: 900px) { .s999-ex { grid-template-columns: 1fr; max-width: 520px; } }
 
 /* SECTIUNI */
 .s999-sec { padding: clamp(60px, 8vw, 100px) 0; border-top: 1px solid var(--border); }
@@ -82,7 +95,7 @@
         <div class="s999-hero__kick">Ofertă de start</div>
         <h1>Site de prezentare,<br><span class="acc">999 lei</span></h1>
         <p class="s999-hero__lead">
-          Un site de o pagină, construit de la zero pentru firma ta, gata în două săptămâni.
+          Un site de o pagină, construit de la zero pentru firma ta, gata în două zile.
           Prețul e întreg, plătit o singură dată. Mai jos scrie tot ce intră în el și tot
           ce se plătește separat, cu sume.
         </p>
@@ -95,7 +108,7 @@
         <div class="s999-hero__meta">
           <span><i class="fas fa-circle-check" aria-hidden="true"></i> 120+ site-uri livrate</span>
           <span><i class="fas fa-award" aria-hidden="true"></i> 12 ani de experiență</span>
-          <span><i class="fas fa-clock" aria-hidden="true"></i> Gata în 2 săptămâni</span>
+          <span><i class="fas fa-clock" aria-hidden="true"></i> Gata în 2 zile</span>
         </div>
       </div>
 
@@ -184,35 +197,71 @@
   <section class="s999-sec">
     <div class="wrap">
       <div class="s999-head">
+        <h2>Exemple</h2>
+        <p>Trei site-uri făcute de noi, ca să vezi stilul și felul în care sunt scrise. Sunt proiecte mai mari decât pachetul de 999 de lei — acolo primești o pagină, construită la fel.</p>
+      </div>
+      <div class="s999-ex">
+
+        <a class="s999-ex__c" href="https://forajesiputuri.ro/" target="_blank" rel="noopener">
+          <div class="s999-ex__b">
+            <div class="s999-ex__bar" aria-hidden="true"><i></i><i></i><i></i><span>forajesiputuri.ro</span></div>
+            <img src="/media/ex-forajesiputuri.avif" alt="Site-ul forajesiputuri.ro, realizat de Visience" width="1200" height="750" loading="lazy">
+          </div>
+          <p class="s999-ex__t"><b>Foraje și Puțuri</b>Firmă de foraje din Ilfov și București. Telefon și WhatsApp la vedere, oferta cerută dintr-un buton.</p>
+        </a>
+
+        <a class="s999-ex__c" href="https://ciprianforajeputuri.ro/" target="_blank" rel="noopener">
+          <div class="s999-ex__b">
+            <div class="s999-ex__bar" aria-hidden="true"><i></i><i></i><i></i><span>ciprianforajeputuri.ro</span></div>
+            <img src="/media/ex-ciprianforaje.avif" alt="Site-ul ciprianforajeputuri.ro, realizat de Visience" width="1200" height="750" loading="lazy">
+          </div>
+          <p class="s999-ex__t"><b>Ciprian Foraje Puțuri</b>Preț pe metru scris din prima, poze de pe teren și două numere de telefon în primul ecran.</p>
+        </a>
+
+        <a class="s999-ex__c" href="https://instalatortimisoaranonstop.ro/" target="_blank" rel="noopener">
+          <div class="s999-ex__b">
+            <div class="s999-ex__bar" aria-hidden="true"><i></i><i></i><i></i><span>instalatortimisoaranonstop.ro</span></div>
+            <img src="/media/ex-instalatortimisoara.avif" alt="Site-ul instalatortimisoaranonstop.ro, realizat de Visience" width="1200" height="750" loading="lazy">
+          </div>
+          <p class="s999-ex__t"><b>Instalator Timișoara</b>Urgențe non-stop, cu numărul de telefon scris mare, pentru cine sună de pe telefon.</p>
+        </a>
+
+      </div>
+    </div>
+  </section>
+
+  <section class="s999-sec">
+    <div class="wrap">
+      <div class="s999-head">
         <h2>Cum decurge</h2>
-        <p>Din momentul în care spui da până la site-ul publicat trec în jur de două săptămâni.</p>
+        <p>Din momentul în care spui da până la site-ul publicat trec două zile lucrătoare.</p>
       </div>
       <div class="s999-pasi">
         <div class="s999-pas">
           <div class="s999-pas__n">01</div>
           <div>
-            <h3>Discuția de început</h3>
+            <h3>Ziua 1, dimineața</h3>
             <p>Douăzeci de minute la telefon sau pe WhatsApp: ce faci, cui te adresezi, ce vrei să se întâmple când cineva intră pe site. Ne trimiți sigla și pozele pe care le ai.</p>
           </div>
         </div>
         <div class="s999-pas">
           <div class="s999-pas__n">02</div>
           <div>
-            <h3>Prima variantă</h3>
-            <p>În cinci zile lucrătoare îți trimitem site-ul pe o adresă de test. Îl deschizi, îl citești și ne spui ce schimbi.</p>
+            <h3>Ziua 1, seara</h3>
+            <p>Îți trimitem site-ul pe o adresă de test. Îl deschizi, îl citești și ne spui ce schimbi.</p>
           </div>
         </div>
         <div class="s999-pas">
           <div class="s999-pas__n">03</div>
           <div>
-            <h3>Corecturile</h3>
+            <h3>Ziua 2, dimineața</h3>
             <p>Faci o listă cu tot ce vrei modificat și o rezolvăm într-o singură rundă. Textele și pozele se pot schimba oricând după aceea, singur.</p>
           </div>
         </div>
         <div class="s999-pas">
           <div class="s999-pas__n">04</div>
           <div>
-            <h3>Publicarea</h3>
+            <h3>Ziua 2, după-amiaza</h3>
             <p>Punem site-ul pe domeniul tău, îl înscriem în Google și îți trimitem filmarea cu instruirea. Atunci plătești cei 999 de lei.</p>
           </div>
         </div>
@@ -312,6 +361,6 @@
   </section>
 
 </main>
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2SRMrYR5hyLly9-ZJJsaj"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"izlFzF-ZRp74UEWyweyaK"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
