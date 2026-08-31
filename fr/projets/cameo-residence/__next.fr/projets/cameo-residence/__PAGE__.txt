@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T4497,<style>
+2:T3e43,<style>
 .cs { background: var(--white); }
 
 /* HERO */
@@ -99,10 +99,10 @@
 
   <section class="cs-intro">
     <div class="wrap cs-intro__grid">
-      <h2>Un ensemble discret, porté aux bons acheteurs.</h2>
+      <h2>Ce que nous avons fait pour Cameo Residence</h2>
       <div>
         <p><strong>Cameo Residence</strong> est un ensemble résidentiel de Iași, composé de trois immeubles de faible hauteur, pensé pour ceux qui cherchent un mode de vie équilibré, discret et moderne — en insistant sur l’intimité, le calme et l’efficacité, sans compromis sur la sécurité ni sur l’esthétique.</p>
-        <p>Un bon produit ne se vend pas tout seul. Le défi était de traduire la qualité de l’ensemble en une présence en ligne qui inspire la même confiance — et de la mettre devant les gens qui cherchent vraiment un appartement à Iași. Nous nous sommes occupés de toute la chaîne : <strong>marque, site, campagnes, réseaux sociaux et supports imprimés</strong>.</p>
+        <p>Nous avons travaillé toute la présence de l’ensemble, en ligne et sur papier : <strong>l’identité visuelle, le site, les campagnes Google et Meta, les publications sur les réseaux sociaux, la brochure et la pochette de présentation</strong>. Tout part des mêmes éléments de marque, pour que l’ensemble ait la même allure partout où on le voit.</p>
       </div>
     </div>
   </section>
@@ -111,8 +111,8 @@
     <div class="wrap cs-svc__grid">
       <div class="cs-svc__txt">
         <div class="cs-svc__n">01 — Branding</div>
-        <h3>Une identité à la mesure de l’ensemble</h3>
-        <p>Nous avons construit l’identité visuelle Cameo — logo, palette, typographie — un signe net et élégant, qui parle de raffinement et de discrétion avant même que quelqu’un ait vu un appartement. La même identité se retrouve, sans écart, sur le site, dans les publicités et sur les supports de vente.</p>
+        <h3>Identité visuelle</h3>
+        <p>Nous avons construit l’identité visuelle Cameo : logo, palette de couleurs et typographie. Les mêmes éléments se retrouvent ensuite sur le site, dans les publicités, dans les publications et sur les supports imprimés, pour que l’ensemble se reconnaisse de la même façon partout.</p>
       </div>
       <div class="cs-svc__media"><img src="/media/cameo-brand-board.avif" alt="L’identité visuelle de Cameo Residence : logo, palette de couleurs et typographie" width="1200" height="1200" loading="lazy"></div>
     </div>
@@ -122,7 +122,7 @@
     <div class="wrap cs-svc__grid">
       <div class="cs-svc__txt">
         <div class="cs-svc__n">02 — Site web</div>
-        <h3>Un site qui transforme les visiteurs en demandes</h3>
+        <h3>Le site cameoresidence.ro</h3>
         <p>Nous avons construit cameoresidence.ro avec deux objectifs : bien montrer l’ensemble et générer des contacts. Une page par type d’appartement avec plans, prestations et prix, la présentation du quartier et de ses atouts, plus un formulaire de demande d’offre clair. Rapide sur mobile, optimisé pour la recherche et prêt pour les campagnes.</p>
         <a class="cs-svc__btn" href="https://cameoresidence.ro/" target="_blank" rel="noopener">Voir le site <span aria-hidden="true">↗</span></a>
       </div>
@@ -134,9 +134,9 @@
     <div class="wrap cs-svc__grid">
       <div class="cs-svc__txt">
         <div class="cs-svc__n">03 — Facebook &amp; Google Ads</div>
-        <h3>De vrais acheteurs, à faible coût par contact</h3>
-        <p>Nous avons lancé des campagnes sur Google et Meta ciblées sur les gens qui cherchent des appartements neufs à Iași, avec des créations montrant la vie dans l’ensemble, pas seulement l’immeuble. Le budget a été déplacé chaque mois vers le canal au coût par contact le plus bas — et le résultat s’est vu dans les appels et les visites, pas seulement dans les clics.</p>
-        <p>Les publicités ne disent pas « appartements à vendre ». Chacune prend une prestation et la décortique : la porte Porta Vector, le plancher chauffant Rehau, le parquet Barlinek. Par-dessus la photo nous plaçons la coupe technique du produit, pour qu’on voie de quoi c’est fait, pas seulement à quoi ça ressemble. C’est le genre de publicité sur laquelle s’arrête quelqu’un qui compare deux ensembles.</p>
+        <h3>Campagnes Google et Meta</h3>
+        <p>Nous avons lancé des campagnes sur Google et Meta, ciblées sur les gens qui cherchent des appartements neufs à Iași. Le budget s’est déplacé chaque mois vers le canal au coût par contact le plus bas, et les campagnes ont été suivies jusqu’aux appels et aux visites.</p>
+        <p>Chaque publicité prend une seule prestation et l’explique : la porte Porta Vector, le plancher chauffant Rehau, le parquet Barlinek. Par-dessus la photo nous plaçons la coupe technique du produit, avec ses couches et ses dimensions, pour ceux qui comparent des ensembles avant de se décider.</p>
       </div>
       <div class="cs-svc__media cs-svc__media--liber"><img src="/media/cameo-ads-creative.avif" alt="Trois publicités Facebook pour Cameo Residence, chacune avec une prestation expliquée techniquement" width="1600" height="660" loading="lazy"></div>
     </div>
@@ -145,24 +145,12 @@
   <section class="cs-svc cs-svc--alt cs-svc--flip">
     <div class="wrap cs-svc__grid">
       <div class="cs-svc__txt">
-        <div class="cs-svc__n">04 — Réseaux sociaux</div>
-        <h3>Une série, pas des publications éparses</h3>
-        <p>Nous avons construit les publications comme un système, à partir des prestations réelles de l’ensemble : le système photovoltaïque, les bornes de recharge pour voitures électriques, la porte d’entrée OPAL RC2, l’ascenseur Schindler 3000, la chaudière Viessmann, le parquet Barlinek. Une publication, une prestation, avec la spécification écrite exactement comme sur la fiche technique — puissance, classe de sécurité, garantie.</p>
-        <p>La maquette est la même à chaque fois : la ligne qui désigne l’élément sur la photo, le nom de la prestation en haut, le bénéfice en bas. Aucun prix n’apparaît, et le mot « premium » n’apparaît pas. Au bout de quelques publications, l’ensemble se reconnaît dans un fil sans qu’il faille en lire le nom.</p>
+        <div class="cs-svc__n">04 — Social media</div>
+        <h3>Publications pour Facebook et Instagram</h3>
+        <p>Les publications partent des prestations de l’ensemble : le système photovoltaïque, les bornes de recharge pour voitures électriques, la porte d’entrée OPAL RC2, l’ascenseur Schindler 3000, la chaudière Viessmann, le parquet Barlinek. Chaque publication prend une prestation, avec la spécification écrite exactement comme sur la fiche technique — puissance, classe de sécurité, garantie.</p>
+        <p>La maquette est la même à chaque fois : la ligne qui désigne l’élément sur la photo, le nom de la prestation en haut, le bénéfice en bas. Le format est 1080×1350, pour Facebook et Instagram, et la série s’étoffe à mesure que de nouvelles prestations apparaissent.</p>
       </div>
       <div class="cs-svc__media cs-svc__media--liber"><img src="/media/cameo-social-serie.avif" alt="Trois publications de la série Cameo Residence : système photovoltaïque, bornes de recharge et ascenseur Schindler" width="1600" height="660" loading="lazy"></div>
-    </div>
-  </section>
-
-  <section class="cs-svc">
-    <div class="wrap cs-svc__grid">
-      <div class="cs-svc__txt">
-        <div class="cs-svc__n">05 — La pochette de présentation</div>
-        <h3>Ce qui reste en main après la visite</h3>
-        <p>Pour un appartement, la discussion se termine au bureau, avec quelque chose sur papier. Nous avons fait la pochette A4 en quatre pages : la face avec l’ensemble, l’adresse et les prestations principales, une page de contact, le logo, et le dos avec le texte sur les promoteurs. Anthracite avec des accents dorés, la même identité qu’en ligne.</p>
-        <p>Elle est partie chez l’imprimeur prête à tourner, avec un fond perdu de trois millimètres. La couleur a été calée sur la pochette que le client avait déjà sur son bureau, pas sur ce qui rendait bien à l’écran — sur papier, les mêmes valeurs virent.</p>
-      </div>
-      <div class="cs-svc__media cs-svc__media--liber"><img src="/media/cameo-mapa-print.avif" alt="Les quatre pages de la pochette de présentation Cameo Residence, imprimées sur anthracite avec des accents dorés" width="1300" height="1792" loading="lazy"></div>
     </div>
   </section>
 
@@ -170,7 +158,7 @@
     <div class="wrap">
       <div class="cs-res__head">
         <div class="cs-svc__n">Résultats</div>
-        <h2>Ce que le projet a reçu, en bref.</h2>
+        <h2>En bref</h2>
       </div>
       <div class="cs-res__grid">
         <div class="cs-res__cell"><div class="cs-res__num">Iași</div><div class="cs-res__lbl">Un projet local, l’équipe à 20 minutes du chantier</div></div>
@@ -199,8 +187,8 @@
 
   <section class="cs-cta">
     <div class="wrap">
-      <h2>Vous avez un ensemble à vendre ?</h2>
-      <p>Nous faisons la même chose pour les promoteurs immobiliers : marque, site, campagnes et contenu qui amènent des acheteurs, pas seulement du trafic. Parlons de votre projet.</p>
+      <h2>Marketing pour promoteurs immobiliers</h2>
+      <p>Nous faisons la même chose pour les promoteurs immobiliers : marque, site, campagnes et contenu qui amènent des acheteurs. Parlez-nous de votre projet et nous vous envoyons une proposition.</p>
       <div class="cs-cta__acts">
         <a href="/fr/marketing-immobilier/" class="btn btn-solid">Marketing pour promoteurs</a>
         <a href="/fr/contact/" class="btn btn-ghost">Contact</a>
@@ -216,6 +204,6 @@
   </nav>
 
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CreativeWork\",\"@id\":\"https://visience.ro/fr/projets/cameo-residence/#case\",\"name\":\"Cameo Residence — étude de cas\",\"about\":\"Marketing immobilier pour l'ensemble résidentiel Cameo Residence, Iași\",\"inLanguage\":\"fr\",\"creator\":{\"@type\":\"Organization\",\"name\":\"Visience Creative Experience\",\"url\":\"https://visience.ro/\"},\"keywords\":\"marketing immobilier, branding, site web, Google Ads, Meta Ads, Cameo Residence, Iași\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Accueil\",\"item\":\"https://visience.ro/fr/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Projets\",\"item\":\"https://visience.ro/fr/portfolio/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Cameo Residence\",\"item\":\"https://visience.ro/fr/projets/cameo-residence/\"}]}]}"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"c-dVsgCww5liALLkeXpJ0"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CreativeWork\",\"@id\":\"https://visience.ro/fr/projets/cameo-residence/#case\",\"name\":\"Cameo Residence — étude de cas\",\"about\":\"Marketing immobilier pour l'ensemble résidentiel Cameo Residence, Iași\",\"inLanguage\":\"fr\",\"creator\":{\"@type\":\"Organization\",\"name\":\"Visience Creative Experience\",\"url\":\"https://visience.ro/\"},\"keywords\":\"marketing immobilier, branding, site web, Google Ads, Meta Ads, Cameo Residence, Iași\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Accueil\",\"item\":\"https://visience.ro/fr/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Projets\",\"item\":\"https://visience.ro/fr/portfolio/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Cameo Residence\",\"item\":\"https://visience.ro/fr/projets/cameo-residence/\"}]}]}"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"WZMByxkeIOWAwJ0_kXG1l"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

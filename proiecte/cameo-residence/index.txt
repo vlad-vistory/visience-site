@@ -27,7 +27,7 @@ d:I[68027,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","proiecte","cameo-residence",""],"q":"","i":false,"f":[[["",{"children":["proiecte",{"children":["cameo-residence",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1ikceineaj5_b.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7"]}]]}]]}],{"children":["$L8",{"children":["$L9",{"children":["$La",{},null,false,null]},null,false,"$@b"]},null,false,"$@b"]},null,false,null],"$Lc",false]],"m":"$undefined","G":["$d",["$Le"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"c-dVsgCww5liALLkeXpJ0"}
+})();4:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}0:{"P":null,"c":["","proiecte","cameo-residence",""],"q":"","i":false,"f":[[["",{"children":["proiecte",{"children":["cameo-residence",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1ikceineaj5_b.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5","$L6","$L7"]}]]}]]}],{"children":["$L8",{"children":["$L9",{"children":["$La",{},null,false,null]},null,false,"$@b"]},null,false,"$@b"]},null,false,null],"$Lc",false]],"m":"$undefined","G":["$d",["$Le"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"WZMByxkeIOWAwJ0_kXG1l"}
 f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 17:I[27961,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 18:I[11015,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
@@ -649,7 +649,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
 7:["$","$L18",null,{}]
 8:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L1a",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
 9:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L1a",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
-1b:T4221,<style>
+1b:T3c93,<style>
 .cs { background: var(--white); }
 
 /* HERO */
@@ -747,10 +747,10 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
 
   <section class="cs-intro">
     <div class="wrap cs-intro__grid">
-      <h2>Un ansamblu discret, dus la cumpărători potriviți.</h2>
+      <h2>Ce am lucrat pentru Cameo Residence</h2>
       <div>
         <p><strong>Cameo Residence</strong> este un ansamblu rezidențial din Iași, format din trei blocuri cu regim redus de înălțime, gândit pentru cei care caută un stil de viață echilibrat, discret și modern — cu accent pe intimitate, liniște și eficiență, fără compromisuri la siguranță și estetică.</p>
-        <p>Un produs bun nu se vinde singur. Provocarea a fost să traducem calitatea ansamblului într-o prezență online care inspiră aceeași încredere — și să o punem în fața oamenilor care chiar caută un apartament în Iași. Ne-am ocupat de tot lanțul: <strong>brand, website, campanii, social media și materiale tipărite</strong>.</p>
+        <p>Am lucrat toată prezența ansamblului, online și pe hârtie: <strong>identitatea vizuală, site-ul, campaniile pe Google și Meta, postările de social media, broșura și mapa de prezentare</strong>. Toate pornesc de la aceleași elemente de brand, ca ansamblul să arate la fel oriunde e văzut.</p>
       </div>
     </div>
   </section>
@@ -759,8 +759,8 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
     <div class="wrap cs-svc__grid">
       <div class="cs-svc__txt">
         <div class="cs-svc__n">01 — Branding</div>
-        <h3>O identitate pe măsura ansamblului</h3>
-        <p>Am construit identitatea vizuală Cameo — logo, paletă, tipografie — un semn curat și elegant, care comunică rafinament și discreție încă înainte ca cineva să vadă un apartament. Aceeași identitate apare consecvent pe site, în reclame și pe materialele de vânzare.</p>
+        <h3>Identitate vizuală</h3>
+        <p>Am construit identitatea vizuală Cameo: logo, paletă de culori și tipografie. Aceleași elemente apar apoi pe site, în reclame, în postări și pe materialele tipărite, ca ansamblul să se recunoască la fel peste tot.</p>
       </div>
       <div class="cs-svc__media"><img src="/media/cameo-brand-board.avif" alt="Identitatea vizuală Cameo Residence: logo, paletă de culori și tipografie" width="1200" height="1200" loading="lazy"></div>
     </div>
@@ -770,7 +770,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
     <div class="wrap cs-svc__grid">
       <div class="cs-svc__txt">
         <div class="cs-svc__n">02 — Website</div>
-        <h3>Un site care transformă vizitatorii în cereri</h3>
+        <h3>Site-ul cameoresidence.ro</h3>
         <p>Am construit cameoresidence.ro cu două obiective: să arate bine ansamblul și să genereze contacte. Pagini pe fiecare tip de apartament cu planuri, dotări și preț, prezentarea zonei și a avantajelor, plus un formular clar de cerere ofertă. Rapid pe mobil, optimizat pentru căutări și pregătit pentru campanii.</p>
         <a class="cs-svc__btn" href="https://cameoresidence.ro/" target="_blank" rel="noopener">Vezi website-ul <span aria-hidden="true">↗</span></a>
       </div>
@@ -782,9 +782,9 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
     <div class="wrap cs-svc__grid">
       <div class="cs-svc__txt">
         <div class="cs-svc__n">03 — Facebook &amp; Google Ads</div>
-        <h3>Cumpărători reali, la cost mic per lead</h3>
-        <p>Am pornit campanii pe Google și Meta țintite pe oameni care caută apartamente noi în Iași, cu creative care arată viața din ansamblu, nu doar blocul. Bugetul a fost mutat lunar spre canalul cu cel mai mic cost per lead — iar rezultatul s-a văzut în telefoane și vizionări, nu doar în click-uri.</p>
-        <p>Reclamele nu spun „apartamente de vânzare”. Fiecare ia o dotare și o desface: ușa Porta Vector, încălzirea în pardoseală Rehau, parchetul Barlinek. Peste fotografie punem secțiunea tehnică a produsului, ca omul să vadă din ce e făcut, nu doar cum arată. E genul de reclamă la care se oprește cineva care compară două ansambluri.</p>
+        <h3>Campanii Google și Meta</h3>
+        <p>Am pornit campanii pe Google și Meta, țintite pe oamenii care caută apartamente noi în Iași. Bugetul s-a mutat lunar spre canalul cu cel mai mic cost per lead, iar campaniile au fost urmărite până la telefoane și vizionări.</p>
+        <p>Fiecare reclamă ia o singură dotare și o explică: ușa Porta Vector, încălzirea în pardoseală Rehau, parchetul Barlinek. Peste fotografie punem secțiunea tehnică a produsului, cu straturile și dimensiunile lui, pentru cine compară ansambluri înainte să se hotărască.</p>
       </div>
       <div class="cs-svc__media cs-svc__media--liber"><img src="/media/cameo-ads-creative.avif" alt="Trei reclame Facebook pentru Cameo Residence, fiecare cu o dotare explicată tehnic" width="1600" height="660" loading="lazy"></div>
     </div>
@@ -794,23 +794,11 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
     <div class="wrap cs-svc__grid">
       <div class="cs-svc__txt">
         <div class="cs-svc__n">04 — Social media</div>
-        <h3>O serie, nu postări răzlețe</h3>
-        <p>Am construit postările ca pe un sistem, pornind de la dotările reale ale ansamblului: sistemul fotovoltaic, stațiile de încărcare pentru mașini electrice, ușa de intrare OPAL RC2, liftul Schindler 3000, centrala Viessmann, parchetul Barlinek. O postare, o dotare, cu specificația scrisă exact ca în fișa tehnică — putere, clasă de siguranță, garanție.</p>
-        <p>Macheta e aceeași de fiecare dată: linia care indică elementul din fotografie, numele dotării sus, beneficiul jos. Nu apar prețuri și nu apare cuvântul „premium”. După câteva postări, ansamblul se recunoaște în feed fără să fie nevoie să citești numele.</p>
+        <h3>Postări pentru Facebook și Instagram</h3>
+        <p>Postările pornesc de la dotările ansamblului: sistemul fotovoltaic, stațiile de încărcare pentru mașini electrice, ușa de intrare OPAL RC2, liftul Schindler 3000, centrala Viessmann, parchetul Barlinek. Fiecare postare ia o dotare, cu specificația scrisă exact ca în fișa tehnică — putere, clasă de siguranță, garanție.</p>
+        <p>Macheta e aceeași de fiecare dată: linia care indică elementul din fotografie, numele dotării sus, beneficiul jos. Formatul e 1080×1350, pentru Facebook și Instagram, iar seria se completează pe măsură ce apar dotări noi.</p>
       </div>
       <div class="cs-svc__media cs-svc__media--liber"><img src="/media/cameo-social-serie.avif" alt="Trei postări din seria Cameo Residence: sistem fotovoltaic, stații de încărcare și lift Schindler" width="1600" height="660" loading="lazy"></div>
-    </div>
-  </section>
-
-  <section class="cs-svc">
-    <div class="wrap cs-svc__grid">
-      <div class="cs-svc__txt">
-        <div class="cs-svc__n">05 — Mapa de prezentare</div>
-        <h3>Ce rămâne în mână după vizită</h3>
-        <p>La un apartament, discuția se termină la birou, cu ceva pe hârtie. Am făcut mapa A4 în patru pagini: fața cu ansamblul, adresa și dotările principale, o pagină de contact, sigla și versoul cu textul despre dezvoltatori. Antracit cu accente aurii, aceeași identitate ca online.</p>
-        <p>A plecat la tipar gata de lucru, cu bleed de trei milimetri. Culoarea a fost potrivită după mapa pe care clientul o avea deja pe birou, nu după ce arăta bine pe ecran — pe hârtie, aceleași valori virează.</p>
-      </div>
-      <div class="cs-svc__media cs-svc__media--liber"><img src="/media/cameo-mapa-print.avif" alt="Cele patru pagini ale mapei de prezentare Cameo Residence, tipărite pe antracit cu accente aurii" width="1300" height="1792" loading="lazy"></div>
     </div>
   </section>
 
@@ -818,7 +806,7 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
     <div class="wrap">
       <div class="cs-res__head">
         <div class="cs-svc__n">Rezultate</div>
-        <h2>Ce a primit proiectul, pe scurt.</h2>
+        <h2>Pe scurt</h2>
       </div>
       <div class="cs-res__grid">
         <div class="cs-res__cell"><div class="cs-res__num">Iași</div><div class="cs-res__lbl">Proiect local, echipă la 20 de minute de șantier</div></div>
@@ -847,8 +835,8 @@ f:I[36621,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4we
 
   <section class="cs-cta">
     <div class="wrap">
-      <h2>Ai un ansamblu de vândut?</h2>
-      <p>Facem același lucru pentru dezvoltatori imobiliari: brand, site, campanii și conținut care aduc cumpărători, nu doar trafic. Hai să vorbim despre proiectul tău.</p>
+      <h2>Marketing pentru dezvoltatori imobiliari</h2>
+      <p>Facem același lucru pentru dezvoltatori imobiliari: brand, site, campanii și conținut care aduc cumpărători. Spune-ne despre proiectul tău și îți trimitem o propunere.</p>
       <div class="cs-cta__acts">
         <a href="/marketing-dezvoltatori-imobiliari/" class="btn btn-solid">Marketing pentru dezvoltatori</a>
         <a href="/contact/" class="btn btn-ghost">Contact</a>
