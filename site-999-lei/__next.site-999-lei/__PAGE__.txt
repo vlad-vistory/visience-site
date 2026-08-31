@@ -1,0 +1,317 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/1ikceineaj5_b.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T44be,<style>
+.s999 { background: var(--white); }
+
+/* HERO */
+.s999-hero { background: var(--ink); color: #fff; padding: calc(var(--nav-h) + 70px) 0 76px; }
+.s999-hero__grid { display: grid; grid-template-columns: 1.15fr .85fr; gap: clamp(32px, 5vw, 70px); align-items: center; }
+.s999-hero__kick { font-family: var(--f-m); font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: var(--acc); margin-bottom: 14px; }
+.s999-hero h1 { font-family: var(--f-d); font-weight: 800; font-size: clamp(40px, 6vw, 72px); line-height: 1; letter-spacing: -.03em; margin: 0 0 20px; }
+.s999-hero h1 .acc { color: var(--acc); }
+.s999-hero__lead { font-size: clamp(15px, 1.6vw, 18px); line-height: 1.75; color: rgba(255,255,255,.72); font-weight: 300; margin: 0 0 30px; max-width: 520px; }
+.s999-hero__acts { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 30px; }
+.s999-hero__meta { display: flex; gap: 24px; flex-wrap: wrap; }
+.s999-hero__meta span { display: inline-flex; align-items: center; gap: 8px; font-family: var(--f-m); font-size: 11px; letter-spacing: .06em; text-transform: uppercase; color: rgba(255,255,255,.55); }
+.s999-hero__meta i { color: var(--acc); font-size: 12px; }
+
+/* eticheta de pret */
+.s999-pret { background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.14); border-radius: var(--rlg); padding: 36px 34px; }
+.s999-pret__n { font-family: var(--f-m); font-size: 11px; letter-spacing: .12em; text-transform: uppercase; color: rgba(255,255,255,.5); margin-bottom: 10px; }
+.s999-pret__v { font-family: var(--f-d); font-weight: 800; font-size: clamp(46px, 7vw, 66px); line-height: 1; letter-spacing: -.035em; color: var(--acc); margin-bottom: 6px; }
+.s999-pret__u { font-size: 13.5px; color: rgba(255,255,255,.62); font-weight: 300; line-height: 1.7; }
+.s999-pret__l { list-style: none; margin: 22px 0 0; padding: 22px 0 0; border-top: 1px solid rgba(255,255,255,.12); display: grid; gap: 11px; }
+.s999-pret__l li { position: relative; padding-left: 20px; font-size: 13.5px; line-height: 1.55; color: rgba(255,255,255,.8); font-weight: 300; }
+.s999-pret__l li::before { content: "✓"; position: absolute; left: 0; top: 0; line-height: 1.7; font-size: 11px; font-weight: 700; color: var(--acc); }
+
+/* SECTIUNI */
+.s999-sec { padding: clamp(60px, 8vw, 100px) 0; border-top: 1px solid var(--border); }
+.s999-sec--alt { background: var(--cream); }
+.s999-head { max-width: 660px; margin-bottom: 44px; }
+.s999-head h2 { font-family: var(--f-d); font-weight: 800; font-size: clamp(28px, 3.6vw, 42px); letter-spacing: -.025em; line-height: 1.05; color: var(--ink); margin: 0 0 14px; }
+.s999-head p { font-size: 15.5px; line-height: 1.75; color: var(--mid); font-weight: 300; margin: 0; }
+
+/* ce intra */
+.s999-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 3px; border: 1px solid var(--border); border-radius: var(--rlg); overflow: hidden; background: var(--border); }
+.s999-cell { background: var(--white); padding: 30px 26px; }
+.s999-cell i { font-size: 22px; color: var(--acc-deep); margin-bottom: 14px; display: block; }
+.s999-cell h3 { font-family: var(--f-d); font-weight: 700; font-size: 16px; letter-spacing: -.015em; color: var(--ink); margin: 0 0 8px; }
+.s999-cell p { font-size: 13.5px; line-height: 1.7; color: var(--mid); font-weight: 300; margin: 0; }
+
+/* costuri: tabelul care aduna tot */
+.s999-cost { max-width: 640px; }
+.s999-cost__t { width: 100%; border-collapse: collapse; border: 1px solid var(--border); border-radius: var(--rlg); overflow: hidden; background: var(--white); }
+.s999-cost__t td { padding: 16px 22px; border-bottom: 1px solid var(--border); font-size: 14.5px; color: var(--ink); font-weight: 300; }
+.s999-cost__t td:last-child { text-align: right; font-family: var(--f-m); font-weight: 500; white-space: nowrap; }
+.s999-cost__t tr:last-child td { border-bottom: 0; background: var(--ink); color: #fff; font-weight: 500; font-size: 15.5px; }
+.s999-cost__t tr:last-child td:last-child { color: var(--acc); font-weight: 700; }
+.s999-cost__n { font-size: 13.5px; line-height: 1.75; color: var(--mid); font-weight: 300; margin-top: 18px; }
+
+/* pasi */
+.s999-pasi { display: grid; grid-template-columns: repeat(2, 1fr); gap: 3px; border: 1px solid var(--border); border-radius: var(--rlg); overflow: hidden; background: var(--border); }
+.s999-pas { background: var(--white); padding: 32px 30px; display: flex; gap: 20px; align-items: flex-start; }
+.s999-pas__n { font-family: var(--f-d); font-weight: 800; font-size: 34px; letter-spacing: -.04em; line-height: 1; color: var(--acc); flex-shrink: 0; }
+.s999-pas h3 { font-family: var(--f-d); font-weight: 700; font-size: 17px; letter-spacing: -.015em; color: var(--ink); margin: 0 0 8px; }
+.s999-pas p { font-size: 13.5px; line-height: 1.75; color: var(--mid); font-weight: 300; margin: 0; }
+
+/* intrebari */
+.s999-faq { max-width: 780px; }
+.s999-faq__i { border-bottom: 1px solid var(--border); padding: 24px 0; }
+.s999-faq__i:first-child { border-top: 1px solid var(--border); }
+.s999-faq__i h3 { font-family: var(--f-d); font-weight: 700; font-size: 17px; letter-spacing: -.015em; color: var(--ink); margin: 0 0 10px; }
+.s999-faq__i p { font-size: 14.5px; line-height: 1.8; color: var(--mid); font-weight: 300; margin: 0; }
+
+@media (max-width: 900px) {
+  .s999-hero__grid { grid-template-columns: 1fr; gap: 34px; }
+  .s999-grid { grid-template-columns: 1fr 1fr; }
+  .s999-pasi { grid-template-columns: 1fr; }
+}
+@media (max-width: 620px) {
+  .s999-grid { grid-template-columns: 1fr; }
+  .s999-hero__acts .btn { width: 100%; justify-content: center; }
+  .s999-cost__t td { padding: 14px 16px; font-size: 13.5px; }
+}
+</style>
+
+<main class="s999">
+
+  <section class="s999-hero">
+    <div class="wrap s999-hero__grid">
+      <div>
+        <div class="s999-hero__kick">Ofertă de start</div>
+        <h1>Site de prezentare,<br><span class="acc">999 lei</span></h1>
+        <p class="s999-hero__lead">
+          Un site de o pagină, construit de la zero pentru firma ta, gata în două săptămâni.
+          Prețul e întreg, plătit o singură dată. Mai jos scrie tot ce intră în el și tot
+          ce se plătește separat, cu sume.
+        </p>
+        <div class="s999-hero__acts">
+          <a href="#cere" class="btn btn-solid">Cere site-ul <span aria-hidden="true">→</span></a>
+          <a href="https://wa.me/40771486499" target="_blank" rel="noopener" class="btn btn-dark">
+            <i class="fab fa-whatsapp" aria-hidden="true"></i> Scrie pe WhatsApp
+          </a>
+        </div>
+        <div class="s999-hero__meta">
+          <span><i class="fas fa-circle-check" aria-hidden="true"></i> 120+ site-uri livrate</span>
+          <span><i class="fas fa-award" aria-hidden="true"></i> 12 ani de experiență</span>
+          <span><i class="fas fa-clock" aria-hidden="true"></i> Gata în 2 săptămâni</span>
+        </div>
+      </div>
+
+      <div class="s999-pret">
+        <div class="s999-pret__n">Preț total</div>
+        <div class="s999-pret__v">999 lei</div>
+        <div class="s999-pret__u">o singură plată, la livrare</div>
+        <ul class="s999-pret__l">
+          <li>Site de o pagină, scris și construit de noi</li>
+          <li>Design desenat pentru firma ta, de la zero</li>
+          <li>Formular de contact și buton de WhatsApp</li>
+          <li>Merge la fel pe telefon și pe calculator</li>
+          <li>Setat în Google, ca să apară la căutare pe numele firmei</li>
+          <li>Instruire, ca să poți schimba singur textele</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="s999-sec">
+    <div class="wrap">
+      <div class="s999-head">
+        <h2>Ce intră în preț</h2>
+        <p>Astea sunt lucrurile pe care le primești pentru 999 de lei. Sunt aceleași la fiecare client, indiferent de domeniu.</p>
+      </div>
+      <div class="s999-grid">
+        <div class="s999-cell">
+          <i class="fas fa-pen-ruler" aria-hidden="true"></i>
+          <h3>Design pe firma ta</h3>
+          <p>Culorile, tipografia și felul în care sunt așezate secțiunile pornesc de la ce faci și de la ce ai deja: siglă, poze, materiale.</p>
+        </div>
+        <div class="s999-cell">
+          <i class="fas fa-align-left" aria-hidden="true"></i>
+          <h3>Textele scrise de noi</h3>
+          <p>Ne spui ce faci într-o discuție de douăzeci de minute, iar noi scriem paginile. Le citești și le corectezi înainte de publicare.</p>
+        </div>
+        <div class="s999-cell">
+          <i class="fas fa-mobile-screen" aria-hidden="true"></i>
+          <h3>Testat pe telefon</h3>
+          <p>Peste nouă din zece oameni deschid site-ul de pe telefon. Îl verificăm acolo întâi și abia apoi pe calculator.</p>
+        </div>
+        <div class="s999-cell">
+          <i class="fas fa-envelope-open-text" aria-hidden="true"></i>
+          <h3>Formular și WhatsApp</h3>
+          <p>Cererile ajung pe e-mailul tău, iar butonul de WhatsApp deschide conversația direct din telefon.</p>
+        </div>
+        <div class="s999-cell">
+          <i class="fas fa-magnifying-glass" aria-hidden="true"></i>
+          <h3>Pus în Google</h3>
+          <p>Titluri, descrieri, sitemap și înscrierea în Search Console, ca site-ul să apară când cineva caută numele firmei.</p>
+        </div>
+        <div class="s999-cell">
+          <i class="fas fa-graduation-cap" aria-hidden="true"></i>
+          <h3>Instruire înregistrată</h3>
+          <p>Îți arătăm pe filmare cum schimbi textele, pozele și programul, ca să poți lucra singur pe site după livrare.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="s999-sec s999-sec--alt">
+    <div class="wrap">
+      <div class="s999-head">
+        <h2>Ce se plătește separat</h2>
+        <p>Două lucruri se plătesc în afara celor 999 de lei, direct către furnizor, pe numele tău. Le trecem aici cu sume, ca să știi totalul dinainte.</p>
+      </div>
+      <div class="s999-cost">
+        <table class="s999-cost__t">
+          <tbody>
+            <tr><td>Site de prezentare, o pagină</td><td>999 lei</td></tr>
+            <tr><td>Domeniu .ro, un an</td><td>75 lei</td></tr>
+            <tr><td>Găzduire, un an</td><td>425 lei</td></tr>
+            <tr><td>Certificat SSL</td><td>inclus</td></tr>
+            <tr><td>Total, primul an</td><td>1.499 lei</td></tr>
+          </tbody>
+        </table>
+        <p class="s999-cost__n">
+          Din al doilea an plătești doar domeniul și găzduirea, adică 500 de lei pe an, direct către furnizor.
+          Site-ul, textele, pozele și domeniul rămân ale tale. Dacă vrei să pleci la altă firmă, îți dăm tot,
+          fără să ceri de două ori.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="s999-sec">
+    <div class="wrap">
+      <div class="s999-head">
+        <h2>Cum decurge</h2>
+        <p>Din momentul în care spui da până la site-ul publicat trec în jur de două săptămâni.</p>
+      </div>
+      <div class="s999-pasi">
+        <div class="s999-pas">
+          <div class="s999-pas__n">01</div>
+          <div>
+            <h3>Discuția de început</h3>
+            <p>Douăzeci de minute la telefon sau pe WhatsApp: ce faci, cui te adresezi, ce vrei să se întâmple când cineva intră pe site. Ne trimiți sigla și pozele pe care le ai.</p>
+          </div>
+        </div>
+        <div class="s999-pas">
+          <div class="s999-pas__n">02</div>
+          <div>
+            <h3>Prima variantă</h3>
+            <p>În cinci zile lucrătoare îți trimitem site-ul pe o adresă de test. Îl deschizi, îl citești și ne spui ce schimbi.</p>
+          </div>
+        </div>
+        <div class="s999-pas">
+          <div class="s999-pas__n">03</div>
+          <div>
+            <h3>Corecturile</h3>
+            <p>Faci o listă cu tot ce vrei modificat și o rezolvăm într-o singură rundă. Textele și pozele se pot schimba oricând după aceea, singur.</p>
+          </div>
+        </div>
+        <div class="s999-pas">
+          <div class="s999-pas__n">04</div>
+          <div>
+            <h3>Publicarea</h3>
+            <p>Punem site-ul pe domeniul tău, îl înscriem în Google și îți trimitem filmarea cu instruirea. Atunci plătești cei 999 de lei.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="s999-sec s999-sec--alt">
+    <div class="wrap">
+      <div class="s999-head">
+        <h2>Întrebări</h2>
+      </div>
+      <div class="s999-faq">
+        <div class="s999-faq__i">
+          <h3>De ce costă 999 de lei?</h3>
+          <p>Pentru că e un site de o pagină, cu o structură pe care am construit-o de multe ori și pe care o știm bine. Discuția durează douăzeci de minute, corecturile intră într-o rundă, iar restul e muncă pe care o facem repede fiindcă am mai făcut-o. Site-urile cu zece pagini, magazin online sau funcții pe măsură costă mai mult și le discutăm separat.</p>
+        </div>
+        <div class="s999-faq__i">
+          <h3>Ce se întâmplă dacă vreau mai multe pagini?</h3>
+          <p>Îți spunem cât costă înainte să începem, iar tu decizi. Site-ul e construit așa încât să se poată adăuga pagini peste el, fără să fie refăcut de la zero.</p>
+        </div>
+        <div class="s999-faq__i">
+          <h3>Al cui e site-ul după ce îl plătesc?</h3>
+          <p>Al tău. Domeniul se cumpără pe numele tău sau al firmei tale, iar găzduirea la fel. Îți dăm acces la tot, inclusiv la fișiere, dacă le ceri.</p>
+        </div>
+        <div class="s999-faq__i">
+          <h3>Trebuie să plătesc ceva în avans?</h3>
+          <p>Cei 999 de lei se plătesc la livrare, când site-ul e publicat și îl vezi funcționând. Domeniul și găzduirea se cumpără la început, ca să avem unde construi.</p>
+        </div>
+        <div class="s999-faq__i">
+          <h3>Am nevoie de poze profesionale?</h3>
+          <p>Merge și cu pozele tale, dacă sunt clare. Dacă nu ai, folosim fotografii de stoc alese pe domeniul tău și îți spunem care sunt, ca să le poți înlocui mai târziu cu ale tale.</p>
+        </div>
+        <div class="s999-faq__i">
+          <h3>Cât durează până apare în Google?</h3>
+          <p>Pe numele firmei, de obicei una–două săptămâni de la publicare. Pentru căutări generale, gen „instalator Iași”, e nevoie de lucru pe termen mai lung, iar aia e o discuție separată.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="s999-sec contact-sec" id="cere">
+    <div class="wrap">
+      <div class="s999-head">
+        <h2>Cere site-ul</h2>
+        <p>Lasă un număr de telefon și te sunăm în maxim 24 de ore. Îți spunem din prima discuție dacă 999 de lei acoperă ce ai nevoie sau dacă îți trebuie altceva.</p>
+      </div>
+
+      <form action="/contact.php" method="post"
+            class="wpcf7-form init"
+            aria-label="Formular site 999 lei"
+            novalidate
+            data-status="init">
+
+        <input type="hidden" name="pagina" value="site-999-lei">
+        <p style="position:absolute;left:-9999px" aria-hidden="true">
+          <label>Nu completa acest câmp: <input type="text" name="adresa-web" tabindex="-1" autocomplete="off"></label>
+        </p>
+
+        <p>
+          <span class="wpcf7-form-control-wrap" data-name="your-email">
+            <input type="email" name="your-email" aria-label="Email" placeholder=" "
+                   size="40" maxlength="400"
+                   class="wpcf7-form-control wpcf7-email wpcf7-text wpcf7-validates-as-email"
+                   autocomplete="email" aria-invalid="false" value="">
+            <span class="floating-label">Email</span>
+          </span>
+          <span class="wpcf7-form-control-wrap" data-name="tel-626">
+            <input type="tel" name="tel-626" aria-label="Telefon" placeholder=" "
+                   size="40" maxlength="400"
+                   class="wpcf7-form-control wpcf7-tel wpcf7-text wpcf7-validates-as-tel"
+                   aria-required="true" aria-invalid="false" value="">
+            <span class="floating-label">Telefon <span style="color:var(--acc-deep)">*</span></span>
+          </span>
+          <span class="wpcf7-form-control-wrap" data-name="text-477">
+            <input type="text" name="text-477" aria-label="Cu ce se ocupă firma" placeholder=" "
+                   size="40" maxlength="400"
+                   class="wpcf7-form-control wpcf7-text"
+                   aria-invalid="false" value="">
+            <span class="floating-label">Cu ce se ocupă firma</span>
+          </span>
+        </p>
+        <p>
+          <span class="wpcf7-form-control-wrap" data-name="your-subject">
+            <input type="text" name="your-subject" aria-label="Când să te sunăm?" placeholder=" "
+                   size="40" maxlength="400"
+                   class="wpcf7-form-control wpcf7-text"
+                   aria-invalid="false" value="">
+            <span class="floating-label">Când să te sunăm?</span>
+          </span>
+        </p>
+        <p>
+          <input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Trimite cererea">
+        </p>
+      </form>
+    </div>
+  </section>
+
+</main>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2SRMrYR5hyLly9-ZJJsaj"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null
