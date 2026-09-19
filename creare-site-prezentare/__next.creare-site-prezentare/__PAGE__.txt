@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 5:I[97367,["/_next/static/chunks/39pj0zrlkvrmu.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 6:"$Sreact.suspense"
-2:Tc43,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-prezentare/#service","name":"Creare website de prezentare","serviceType":"Web design și dezvoltare website","description":"Creare site-uri de prezentare profesionale: landing page-uri, site-uri de companie și portofolii. Design adaptiv, SEO tehnic, CMS inclus. De la 500€.","provider":{"@type":"Organization","name":"Visience Creative Experience","url":"https://visience.ro/"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"500","highPrice":"2500","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-prezentare/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site de prezentare?","acceptedAnswer":{"@type":"Answer","text":"Cel mai simplu, un site de o pagină, costă 200€ și e gata în 2 zile. Un site de prezentare mai complet pornește de la 750€ — pachetul Basic, cu până la 6 pagini. Pachetul Standard, cu SEO on-site complet, costă 1.200€, iar un site premium cu design custom pornește de la 2.500€. Pentru o campanie punctuală, un landing page pornește de la 500€. Prețul final depinde de numărul de pagini, funcționalități și nivelul de personalizare."}},{"@type":"Question","name":"Cât durează realizarea unui site de prezentare?","acceptedAnswer":{"@type":"Answer","text":"Un landing page e gata în câteva zile. Un site de prezentare durează de regulă 2–4 săptămâni, iar un proiect premium 4–8 săptămâni, în funcție de cât de repede primim textele și pozele. Termenul exact îl primești în ofertă, în scris, și îl respectăm."}},{"@type":"Question","name":"Pe ce platformă construiți site-ul?","acceptedAnswer":{"@type":"Answer","text":"Construim cel mai des pe WordPress (Oxygen Builder sau Elementor) și Webflow, astfel încât să poți edita ușor conținutul după livrare."}},{"@type":"Question","name":"Site-ul va fi optimizat pentru telefon și pentru Google?","acceptedAnswer":{"@type":"Answer","text":"Da. Fiecare site este responsive și include SEO tehnic din construcție: viteză, structură corectă și date structurate. Punem accent pe viteza pe mobil, acolo unde ajung cei mai mulți vizitatori."}},{"@type":"Question","name":"Pot edita singur conținutul după ce primesc site-ul?","acceptedAnswer":{"@type":"Answer","text":"Da. Toate site-urile includ un CMS, deci poți modifica texte, imagini și pagini fără cunoștințe tehnice. Oferim și o sesiune de instruire la livrare."}},{"@type":"Question","name":"Includeți și textele (copywriting) pentru site?","acceptedAnswer":{"@type":"Answer","text":"Da. Copywriting-ul orientat spre conversie este inclus în pachetele Standard și Premium, iar pentru landing page poate fi adăugat ca opțiune."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Website de prezentare","item":"https://visience.ro/creare-site-prezentare/"}]}]}3:T152b1,<style>
+2:Tc43,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-prezentare/#service","name":"Creare website de prezentare","serviceType":"Web design și dezvoltare website","description":"Creare site-uri de prezentare profesionale: landing page-uri, site-uri de companie și portofolii. Design adaptiv, SEO tehnic, CMS inclus. De la 500€.","provider":{"@type":"Organization","name":"Visience Creative Experience","url":"https://visience.ro/"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"500","highPrice":"2500","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-prezentare/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site de prezentare?","acceptedAnswer":{"@type":"Answer","text":"Cel mai simplu, un site de o pagină, costă 200€ și e gata în 2 zile. Un site de prezentare mai complet pornește de la 750€ — pachetul Basic, cu până la 6 pagini. Pachetul Standard, cu SEO on-site complet, costă 1.200€, iar un site premium cu design custom pornește de la 2.500€. Pentru o campanie punctuală, un landing page pornește de la 500€. Prețul final depinde de numărul de pagini, funcționalități și nivelul de personalizare."}},{"@type":"Question","name":"Cât durează realizarea unui site de prezentare?","acceptedAnswer":{"@type":"Answer","text":"Un landing page e gata în câteva zile. Un site de prezentare durează de regulă 2–4 săptămâni, iar un proiect premium 4–8 săptămâni, în funcție de cât de repede primim textele și pozele. Termenul exact îl primești în ofertă, în scris, și îl respectăm."}},{"@type":"Question","name":"Pe ce platformă construiți site-ul?","acceptedAnswer":{"@type":"Answer","text":"Construim cel mai des pe WordPress (Oxygen Builder sau Elementor) și Webflow, astfel încât să poți edita ușor conținutul după livrare."}},{"@type":"Question","name":"Site-ul va fi optimizat pentru telefon și pentru Google?","acceptedAnswer":{"@type":"Answer","text":"Da. Fiecare site este responsive și include SEO tehnic din construcție: viteză, structură corectă și date structurate. Punem accent pe viteza pe mobil, acolo unde ajung cei mai mulți vizitatori."}},{"@type":"Question","name":"Pot edita singur conținutul după ce primesc site-ul?","acceptedAnswer":{"@type":"Answer","text":"Da. Toate site-urile includ un CMS, deci poți modifica texte, imagini și pagini fără cunoștințe tehnice. Oferim și o sesiune de instruire la livrare."}},{"@type":"Question","name":"Includeți și textele (copywriting) pentru site?","acceptedAnswer":{"@type":"Answer","text":"Da. Copywriting-ul orientat spre conversie este inclus în pachetele Standard și Premium, iar pentru landing page poate fi adăugat ca opțiune."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Website de prezentare","item":"https://visience.ro/creare-site-prezentare/"}]}]}3:T183ba,<style>
 .wsp-sec-head { margin-bottom: 52px; max-width: 640px; }
 @media (max-width: 640px) {
   .wsp-sec-head { margin-bottom: 36px; }
@@ -823,18 +823,222 @@ a.rev-card__firma:hover { text-decoration: underline; }
 }
 
 
+/* ╔══════════════════════════════════════════════════
+   ║  TEXT MAI CITET, HERO MAI SCURT PE TELEFON
+   ╚══════════════════════════════════════════════════ */
+.wsp { --txt: #4a4a52; }
+.wsp .btn { font-size: 12.5px; }
+.wsp .btn-solid { padding: 15px 28px; }
+.wsp .btn-ghost, .wsp .btn-dark { padding: 14px 28px; }
+
+/* hero fara video: doua lumini verzi pe fundalul inchis */
+.wsp-hero__overlay {
+  background:
+    radial-gradient(620px 520px at 80% 45%, rgba(155,195,26,.15), transparent 70%),
+    radial-gradient(560px 420px at 0% 100%, rgba(155,195,26,.06), transparent 70%);
+}
+.wsp-crumb, .wsp-crumb a { font-size: 11px; color: rgba(255,255,255,.58); }
+.wsp-hero__lead { font-weight: 400; color: rgba(255,255,255,.76); }
+.wsp-pill__l { font-size: 10.5px; color: rgba(255,255,255,.64); }
+.wsp-hero__nota { font-size: 14.5px; font-weight: 400; color: rgba(255,255,255,.66); }
+.wsp-hero__meta { display: grid; grid-template-columns: repeat(2, max-content); gap: 12px 30px; }
+.wsp-hero__meta span { font-size: 14px; letter-spacing: 0; color: rgba(255,255,255,.84); }
+.wsp-hero__meta i { font-size: 15px; }
+
+/* telefonul isi deruleaza singur site-ul, fara sa lungeasca pagina */
+.wsp-tel__ecran img { animation: wspDerulare 26s ease-in-out 1.5s infinite; }
+@keyframes wspDerulare {
+  0%, 10% { transform: translateY(0); }
+  45%, 55% { transform: translateY(-66.667%); }
+  90%, 100% { transform: translateY(0); }
+}
+@media (max-width: 991px) {
+  .wsp-tel-zona { height: auto; }
+  .wsp-tel-lipit { position: static; height: auto; }
+  .wsp-hero__overlay {
+    background: radial-gradient(440px 440px at 50% 82%, rgba(155,195,26,.14), transparent 70%);
+  }
+}
+@media (max-width: 640px) {
+  .wsp-hero__meta { grid-template-columns: 1fr 1fr; gap: 10px 14px; }
+  .wsp-hero__meta span { font-size: 13.5px; }
+}
+@media (max-width: 420px) {
+  .wsp-hero__meta { grid-template-columns: 1fr; gap: 9px; }
+}
+
+/* banda cu clienti */
+.wsp-band__t { font-size: 11px; color: var(--mid); }
+.wsp-band__pista { animation-duration: 70s; }
+.wsp-band__c {
+  display: inline-flex; align-items: center; gap: 26px; padding-left: 26px;
+  font-family: var(--f-d); font-weight: 700; font-size: 17px; letter-spacing: -.015em;
+  color: var(--ink2); white-space: nowrap;
+}
+.wsp-band__c::after { content: ""; width: 6px; height: 6px; border-radius: 50%; background: var(--acc); }
+@media (prefers-reduced-motion: reduce) {
+  .wsp-tel__ecran img, .wsp-band__pista { animation: none; }
+}
+
+/* sectiuni */
+.sq-card__name { font-size: 15px; }
+@media (max-width: 720px) { .sq-card__name { font-size: 14.5px; } }
+
+/* portofoliu: site-ul real pe telefon, click direct spre site */
+.sq-card--tel { gap: 12px; align-items: center; text-align: center; }
+.sq-tel {
+  display: block; width: 100%; max-width: 250px; padding: 8px;
+  border-radius: 32px;
+  background: linear-gradient(150deg, #2a2a26, #0a0a09 62%);
+  box-shadow: 0 22px 44px rgba(17,16,16,.16), 0 3px 10px rgba(17,16,16,.12), inset 0 0 0 1px rgba(255,255,255,.08);
+  transition: transform .35s cubic-bezier(.25,.46,.45,.94), box-shadow .35s cubic-bezier(.25,.46,.45,.94);
+}
+.sq-tel__ecran { display: block; overflow: hidden; border-radius: 25px; aspect-ratio: 480 / 817; background: var(--cream2); }
+.sq-tel__ecran img { width: 100%; height: 100%; object-fit: cover; object-position: top; display: block; }
+.sq-card--tel:hover .sq-tel { transform: translateY(-6px); box-shadow: 0 30px 56px rgba(17,16,16,.2), 0 3px 10px rgba(17,16,16,.12); }
+.sq-card--tel .sq-card__name { margin-top: 6px; padding-left: 0; font-weight: 600; }
+.sq-card__url { margin-top: -6px; font-family: var(--f-m); font-size: 13px; color: var(--acc-deep); }
+.sq-card--tel:hover .sq-card__url { text-decoration: underline; }
+.wsp-work__lead, .revs__lead { font-size: clamp(16px, 1.5vw, 18px); font-weight: 400; color: var(--txt); }
+.wsp-eyebrow { font-size: 11px; }
+.wsp-lead { font-size: 17px; font-weight: 400; color: var(--txt); }
+.wsp-crm .wsp-lead { color: rgba(255,255,255,.74); }
+.wsp-puncte li { font-size: 16px; }
+.wsp-crm .wsp-puncte li { color: rgba(255,255,255,.86); }
+.wsp-msr .wsp-puncte li { color: var(--txt); }
+.wsp-msr__logo span { font-size: 12.5px; }
+
+/* pachete */
+.wsp-pk .wsp-sec-head { max-width: 780px; }
+.wsp-pk__n { font-size: 12px; }
+.wsp-pk__badge { font-size: 10.5px; }
+.wsp-pk__sub { font-size: 13.5px; color: var(--mid); }
+.wsp-pk__c--rec .wsp-pk__sub { color: rgba(255,255,255,.62); }
+.wsp-pk__d { font-size: 15px; font-weight: 400; color: var(--txt); }
+.wsp-pk__c--rec .wsp-pk__d { color: rgba(255,255,255,.74); }
+.wsp-pk__l li { font-size: 15px; }
+.wsp-pk__l li i { font-size: 13.5px; font-weight: 400; color: var(--mid); }
+.wsp-pk__c--rec .wsp-pk__l li i { color: rgba(255,255,255,.6); }
+.wsp-pk__l li::before { line-height: 1.7; font-size: 12px; }
+.wsp-pk__nota { font-size: 14.5px; font-weight: 400; color: var(--txt); }
+
+/* tabel si totalul pe primul an */
+.wsp-cmp__table th, .wsp-cmp__table td { font-size: 15px; }
+.wsp-cmp__table tbody th[scope="row"] { font-size: 15px; }
+.wsp-cmp__plan { font-size: 17px; }
+.wsp-cmp__price { font-size: 14px; }
+.wsp-cmp__opt { font-size: 11px; }
+.wsp-cmp__note { font-size: 14px; font-style: normal; color: var(--mid); }
+.wsp-total h3 { font-size: 20px; }
+.wsp-total li { font-size: 15.5px; }
+.wsp-total li .val { font-size: 15px; }
+.wsp-total li .val--inc { font-size: 12px; }
+.wsp-total__sum { font-size: 15.5px; color: var(--txt); }
+.wsp-total__sum strong { font-size: 20px; }
+@media (max-width: 640px) {
+  .wsp-cmp__scroll { overflow: visible; }
+  .wsp-cmp__table { min-width: 0; table-layout: fixed; }
+  .wsp-cmp__table tr > :nth-child(2) { display: none; }
+  .wsp-cmp__table th, .wsp-cmp__table td { padding: 13px 6px; font-size: 14px; }
+  .wsp-cmp__feat-col { width: 36%; }
+  .wsp-cmp__table tbody th[scope="row"] { padding-left: 14px; font-size: 14px; line-height: 1.35; }
+  .wsp-cmp__plan { font-size: 14px; }
+  .wsp-cmp__price { font-size: 13px; }
+  .wsp-cmp__opt { padding: 3px 7px; letter-spacing: 0; text-transform: none; font-size: 11.5px; }
+}
+
+/* recenzii: doar marimea, textul clientilor ramane cum e */
+.rev-stars { font-size: 16px; }
+.rev-card__txt { font-size: 18px; line-height: 1.5; color: var(--ink); }
+.rev-card__nume { font-size: 15.5px; }
+.rev-card__firma { font-size: 14px; }
+.rev-card__cand { font-size: 11.5px; color: var(--mid); }
+
+/* intrebari: titlul si un card de contact in stanga, lista in dreapta */
+.wsp-faq__a { font-size: 16.5px; font-weight: 400; color: var(--txt); line-height: 1.75; }
+.wsp-faq__in { display: grid; grid-template-columns: minmax(0, .82fr) minmax(0, 1.18fr); gap: 70px; align-items: start; }
+.wsp-faq__side { position: sticky; top: calc(var(--nav-h) + 32px); }
+.wsp-faq__side .wsp-sec-head { margin-bottom: 32px; }
+.wsp-faq__list { max-width: none; }
+.wsp-faq__card {
+  max-width: 400px; padding: 26px 26px 24px;
+  background: var(--white); border: 1px solid var(--border); border-radius: var(--rlg);
+}
+.wsp-faq__card-t { font-family: var(--f-d); font-weight: 700; font-size: 20px; letter-spacing: -.015em; color: var(--ink); margin-bottom: 8px; }
+.wsp-faq__card-d { font-size: 15.5px; line-height: 1.65; color: var(--txt); margin-bottom: 18px; }
+.wsp-faq__card-a { display: flex; flex-wrap: wrap; gap: 10px; }
+@media (max-width: 991px) {
+  .wsp-faq__in { grid-template-columns: 1fr; gap: 0; }
+  .wsp-faq__side { display: contents; }
+  .wsp-faq__card { order: 3; margin-top: 34px; max-width: 460px; }
+}
+
+/* contact */
+@media (min-width: 1025px) {
+  .wsp-contact h2.dd-lg { font-size: clamp(40px, 3.9vw, 56px); }
+}
+.wsp-contact .body-lg { font-size: 17px; font-weight: 400; color: var(--txt); }
+.wsp-vlad {
+  display: flex; align-items: center; gap: 18px; margin: 0 0 22px; padding: 16px 18px;
+  background: var(--white); border: 1px solid var(--border); border-radius: 16px;
+}
+.wsp-vlad img { width: 76px; height: 76px; border-radius: 50%; flex-shrink: 0; object-fit: cover; }
+.wsp-vlad__n { font-family: var(--f-d); font-weight: 700; font-size: 17px; letter-spacing: -.01em; color: var(--ink); margin-bottom: 4px; }
+.wsp-vlad__n span { display: block; margin-top: 1px; font-family: var(--f-b); font-weight: 500; font-size: 13px; letter-spacing: 0; color: var(--acc-deep); }
+.wsp-vlad__t { font-size: 15px; line-height: 1.6; color: var(--txt); }
+.wsp-contact__lbl { font-size: 11px; }
+.wsp-contact__line > span:last-child { font-size: 16px; }
+.cf-feat { font-size: 15.5px; color: var(--txt); }
+.wsp-contact__iasi { margin-top: 26px; font-size: 15px; color: var(--txt); }
+.wsp-contact__iasi a { color: var(--acc-deep); font-weight: 600; border-bottom: 1px solid rgba(78,108,12,.35); }
+.cf-box .floating-label { font-size: 15px; }
+.cf-box .wpcf7-form-control-wrap input:focus + .floating-label,
+.cf-box .wpcf7-form-control-wrap input:not(:placeholder-shown) + .floating-label { font-size: 11px; }
+.cf-box .wpcf7-submit { font-size: 13px; padding: 17px; }
+
+/* bara fixa jos, doar pe telefon */
+.wsp-bara { display: none; }
+@media (max-width: 768px) {
+  .wsp-bara {
+    position: sticky; bottom: 0; z-index: 60;
+    display: flex; align-items: center; gap: 10px;
+    padding: 10px 16px calc(10px + env(safe-area-inset-bottom));
+    background: rgba(17,17,20,.95);
+    -webkit-backdrop-filter: blur(10px); backdrop-filter: blur(10px);
+    border-top: 1px solid rgba(255,255,255,.08);
+  }
+  .wsp-bara__cta {
+    flex: 1; display: flex; align-items: center; justify-content: center; gap: 9px;
+    height: 50px; border-radius: 100px;
+    background: var(--acc); color: var(--acc-ink);
+    font-family: var(--f-m); font-size: 13px; font-weight: 600; letter-spacing: .06em; text-transform: uppercase;
+  }
+  .wsp-bara__wa {
+    width: 50px; height: 50px; flex-shrink: 0; border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    background: #25D366; color: #fff; font-size: 24px;
+  }
+  /* apare dupa ce butonul din hero iese din ecran */
+  @supports (animation-timeline: scroll()) {
+    .wsp-bara {
+      animation: wspBaraIn linear both;
+      animation-timeline: scroll(root block);
+      animation-range: 560px 760px;
+    }
+  }
+}
+@keyframes wspBaraIn {
+  from { opacity: 0; transform: translateY(110%); visibility: hidden; }
+  to { opacity: 1; transform: none; visibility: visible; }
+}
+
+
 </style>
 
 
 <main id="main" class="wsp">
 
 <section class="wsp-hero" aria-labelledby="wsp-hero-h">
-  <div class="wsp-hero__vid" aria-hidden="true">
-    <video autoplay muted loop playsinline preload="metadata"
-           poster="/media/sigla-mark-visience-new-colors.avif">
-      <source src="/media/fundal-visience.webm" type="video/webm">
-    </video>
-  </div>
   <div class="wsp-hero__overlay" aria-hidden="true"></div>
 
   <div class="wrap wsp-hero__content">
@@ -875,7 +1079,6 @@ a.rev-card__firma:hover { text-decoration: underline; }
 
         <p class="wsp-hero__nota">
           Plătești o singură dată. Site-ul, conținutul și domeniul rămân ale tale.
-          <a href="/creare-site-prezentare-iasi/" style="color:var(--acc2);border-bottom:1px solid rgba(155,195,26,.5)">Ești firmă din Iași? Vezi pagina dedicată →</a>
         </p>
 
         <div class="wsp-hero__meta">
@@ -904,7 +1107,7 @@ a.rev-card__firma:hover { text-decoration: underline; }
 </section>
 
 
-<section class="wsp-band" aria-label="Unelte cu care lucrăm">
+<section class="wsp-band" aria-label="Clienți cu care am lucrat">
   <svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
     <symbol id="u-wordpress" viewBox="0 0 24 24"><path fill="#21759B" d="M21.469 6.825c.84 1.537 1.318 3.3 1.318 5.175 0 3.979-2.156 7.456-5.363 9.325l3.295-9.527c.615-1.54.82-2.771.82-3.864 0-.405-.026-.78-.07-1.11m-7.981.105c.647-.03 1.232-.105 1.232-.105.582-.075.514-.93-.067-.899 0 0-1.755.135-2.88.135-1.064 0-2.85-.15-2.85-.15-.585-.03-.661.855-.075.885 0 0 .54.061 1.125.09l1.68 4.605-2.37 7.08L5.354 6.9c.649-.03 1.234-.1 1.234-.1.585-.075.516-.93-.065-.896 0 0-1.746.138-2.874.138-.2 0-.438-.008-.69-.015C4.911 3.15 8.235 1.215 12 1.215c2.809 0 5.365 1.072 7.286 2.833-.046-.003-.091-.009-.141-.009-1.06 0-1.812.923-1.812 1.914 0 .89.513 1.643 1.06 2.531.411.72.89 1.643.89 2.977 0 .915-.354 1.994-.821 3.479l-1.075 3.585-3.9-11.61.001.014zM12 22.784c-1.059 0-2.081-.153-3.048-.437l3.237-9.406 3.315 9.087c.024.053.05.101.078.149-1.12.393-2.325.609-3.582.609M1.211 12c0-1.564.336-3.05.935-4.39L7.29 21.709C3.694 19.96 1.212 16.271 1.211 12M12 0C5.385 0 0 5.385 0 12s5.385 12 12 12 12-5.385 12-12S18.615 0 12 0"/></symbol>
     <symbol id="u-elementor" viewBox="0 0 24 24"><path fill="#92003B" d="M12 0C5.372 0 0 5.372 0 12c0 6.626 5.372 12 12 12s12-5.372 12-12c0-6.626-5.372-12-12-12ZM9 17H7V7H9Zm8 0H11V15h6Zm0-4H11V11h6Zm0-4H11V7h6Z"/></symbol>
@@ -917,34 +1120,48 @@ a.rev-card__firma:hover { text-decoration: underline; }
     <symbol id="u-googlesearchconsole" viewBox="0 0 24 24"><path fill="#458CF5" d="M8.548 1.156L6.832 2.872v1.682h1.716zm0 3.398v.035H6.832v-.035H3.386L0 7.844v3.577h2.826V8.94c0-.525.429-.954.954-.954h16.476c.525 0 .954.43.954.954v2.48h2.754V7.844l-3.386-3.29H17.3v.035h-1.717v-.035zm7.035 0H17.3V2.872l-1.717-1.716zM8.679 1.188V2.84h6.773V1.188zm11.471 7.07a.834.834 0 00-.132.01l-.543.002c-5.216.014-10.432-.008-15.648.01-.435-.063-.794.436-.716.883v2.264h17.812c-.016-.888.045-1.782-.034-2.666-.104-.342-.427-.502-.739-.502zm-15.422.634a.689.698 0 01.689.698.689.698 0 01-.689.697.689.698 0 01-.688-.697.689.698 0 01.688-.698zm2.134 0a.689.698 0 01.689.698.689.698 0 01-.689.697.689.698 0 01-.688-.697.689.698 0 01.688-.698zM.036 11.645v9.156c0 1.05.858 1.908 1.907 1.908h.883V11.645zm21.174 0v11.064h.882c1.05 0 1.908-.858 1.908-1.908v-9.156zM4.057 13.133v6.85h6.137v-6.85zm13.243.021v3.777l-1.708.977-1.708-.977v-3.758a4.006 4.006 0 000 7.23v2.441h3.457v-2.442a4.006 4.006 0 00-.041-7.248zm-13.243 8.26v1.43h7.925v-1.43z"/></symbol>
     <symbol id="u-pagespeedinsights" viewBox="0 0 24 24"><path fill="#4285F4" d="M22.363 1.636H1.635C.732 1.636 0 2.37.001 3.273L0 20.727v.003c0 .903.733 1.634 1.635 1.634h20.73c.904 0 1.635-.734 1.635-1.637V3.273c.016-.89-.76-1.64-1.637-1.637zM3.979 2.886c.492-.507 1.279.28.77.772-.491.508-1.278-.279-.77-.771zM1.8 2.89c.507-.509 1.28.265.772.771-.493.502-1.274-.28-.772-.771zm21.7 17.838c.012.611-.524 1.148-1.137 1.136H1.635A1.137 1.137 0 0 1 .5 20.727L.501 4.91H23.5v15.819zM11 16.159l5.946-4.577c.235-.2.576.129.389.372l-.002-.002-3.936 6.35a1.638 1.638 0 0 1-2.448.405c-.785-.668-.811-1.835.05-2.548zm4.763-.75c.09-.168 2.002-3.181 2.06-3.35 2.056 1.813 3.029 4.382 2.898 7.026h-3.819c.073-1.39-.29-2.678-1.139-3.676zm-8.679 3.682H3.278c-.357-7.022 7.148-11.735 13.39-7.92l-3.461 2.618c-3.3-.762-6.364 1.71-6.123 5.302z"/></symbol>
   </svg>
-  <p class="wsp-band__t">Construit și măsurat cu</p>
+  <p class="wsp-band__t">Au lucrat cu noi</p>
   <div class="wsp-band__cadru">
     <div class="wsp-band__pista">
       <div class="wsp-band__set">
-        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-wordpress"/></svg>WordPress</span>
-        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-elementor"/></svg>Elementor</span>
-        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-woocommerce"/></svg>WooCommerce</span>
-        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-figma"/></svg>Figma</span>
-        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-nextdotjs"/></svg>Next.js</span>
-        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-cloudflare"/></svg>Cloudflare</span>
-        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-googleanalytics"/></svg>Google Analytics</span>
-        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-googletagmanager"/></svg>Tag Manager</span>
-        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-googlesearchconsole"/></svg>Search Console</span>
-        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-pagespeedinsights"/></svg>PageSpeed</span>
-        <span class="wsp-band__u"><b aria-hidden="true">V28</b>CRM Visience</span>
+        <span class="wsp-band__c">Vlaicu87</span>
+        <span class="wsp-band__c">Cameo Residence</span>
+        <span class="wsp-band__c">Casa Vatră</span>
+        <span class="wsp-band__c">Velomed</span>
+        <span class="wsp-band__c">Evergreen Towers</span>
+        <span class="wsp-band__c">Picolina Bucium</span>
+        <span class="wsp-band__c">Amodelic</span>
+        <span class="wsp-band__c">Soluții Alpensam</span>
+        <span class="wsp-band__c">2M Tech</span>
+        <span class="wsp-band__c">IM Design Studio</span>
+        <span class="wsp-band__c">Artesano Mob</span>
+        <span class="wsp-band__c">Armur Design</span>
+        <span class="wsp-band__c">Alyya Beauty</span>
+        <span class="wsp-band__c">L'Arte Suits</span>
+        <span class="wsp-band__c">BBG Maison Euxine</span>
+        <span class="wsp-band__c">GS Gomma</span>
+        <span class="wsp-band__c">Euro Taxi Iași</span>
+        <span class="wsp-band__c">Grand Beetle</span>
       </div>
       <div class="wsp-band__set" aria-hidden="true">
-        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-wordpress"/></svg>WordPress</span>
-        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-elementor"/></svg>Elementor</span>
-        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-woocommerce"/></svg>WooCommerce</span>
-        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-figma"/></svg>Figma</span>
-        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-nextdotjs"/></svg>Next.js</span>
-        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-cloudflare"/></svg>Cloudflare</span>
-        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-googleanalytics"/></svg>Google Analytics</span>
-        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-googletagmanager"/></svg>Tag Manager</span>
-        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-googlesearchconsole"/></svg>Search Console</span>
-        <span class="wsp-band__u"><svg width="19" height="19" aria-hidden="true"><use href="#u-pagespeedinsights"/></svg>PageSpeed</span>
-        <span class="wsp-band__u"><b aria-hidden="true">V28</b>CRM Visience</span>
+        <span class="wsp-band__c">Vlaicu87</span>
+        <span class="wsp-band__c">Cameo Residence</span>
+        <span class="wsp-band__c">Casa Vatră</span>
+        <span class="wsp-band__c">Velomed</span>
+        <span class="wsp-band__c">Evergreen Towers</span>
+        <span class="wsp-band__c">Picolina Bucium</span>
+        <span class="wsp-band__c">Amodelic</span>
+        <span class="wsp-band__c">Soluții Alpensam</span>
+        <span class="wsp-band__c">2M Tech</span>
+        <span class="wsp-band__c">IM Design Studio</span>
+        <span class="wsp-band__c">Artesano Mob</span>
+        <span class="wsp-band__c">Armur Design</span>
+        <span class="wsp-band__c">Alyya Beauty</span>
+        <span class="wsp-band__c">L'Arte Suits</span>
+        <span class="wsp-band__c">BBG Maison Euxine</span>
+        <span class="wsp-band__c">GS Gomma</span>
+        <span class="wsp-band__c">Euro Taxi Iași</span>
+        <span class="wsp-band__c">Grand Beetle</span>
       </div>
     </div>
   </div>
@@ -956,7 +1173,7 @@ a.rev-card__firma:hover { text-decoration: underline; }
     <div class="rv">
       <h2 class="dd dd-lg" id="wsp-work-h">Site-uri de prezentare livrate de noi</h2>
       <p class="wsp-work__lead">
-        Un <strong>site de prezentare</strong> arată afacerea, serviciile și oamenii din spatele ei, ca să transforme vizitatorii în clienți. Îl construim de la zero, adaptat brandului și industriei tale: ansambluri rezidențiale, restaurante, magazine, firme de proiectare sau construcții. Apasă pe oricare ca să vezi cum a fost gândit.
+        Un <strong>site de prezentare</strong> arată afacerea, serviciile și oamenii din spatele ei, ca să transforme vizitatorii în clienți. Îl construim de la zero, adaptat brandului și industriei tale: ansambluri rezidențiale, restaurante, magazine, firme de proiectare sau construcții. Apasă pe oricare ca să intri pe site.
       </p>
     </div>
     <div class="port-nav" role="group" aria-label="Navigare slider proiecte">
@@ -968,54 +1185,64 @@ a.rev-card__firma:hover { text-decoration: underline; }
   <div class="port-wrap" id="wspWrap" tabindex="0" role="region" aria-label="Slider site-uri de prezentare">
     <div class="port-track" id="wspTrack">
 
-      <a class="sq-card" href="/proiecte/vlaicu87/">
-        <span class="sq-card__img"><img src="/media/tiles/v2/vlaicu87.avif" alt="Vlaicu87 — site de prezentare realizat de Visience" width="720" height="900" loading="lazy"></span>
+      <a class="sq-card sq-card--tel" href="https://vlaicu87.ro/" target="_blank" rel="noopener">
+        <span class="sq-tel"><span class="sq-tel__ecran"><img src="/media/mobil/vlaicu87-1.avif" alt="Site-ul Vlaicu87 pe telefon, realizat de Visience" width="480" height="817" loading="lazy"></span></span>
         <span class="sq-card__name">Vlaicu87</span>
+        <span class="sq-card__url">vlaicu87.ro <span aria-hidden="true">↗</span></span>
       </a>
 
-      <a class="sq-card" href="/proiecte/cameo-residence/">
-        <span class="sq-card__img"><img src="/media/tiles/v2/cameo-residence.avif" alt="Cameo Residence — site de prezentare realizat de Visience" width="720" height="900" loading="lazy"></span>
+      <a class="sq-card sq-card--tel" href="https://cameoresidence.ro/" target="_blank" rel="noopener">
+        <span class="sq-tel"><span class="sq-tel__ecran"><img src="/media/mobil/cameo-residence-1.avif" alt="Site-ul Cameo Residence pe telefon, realizat de Visience" width="480" height="817" loading="lazy"></span></span>
         <span class="sq-card__name">Cameo Residence</span>
+        <span class="sq-card__url">cameoresidence.ro <span aria-hidden="true">↗</span></span>
       </a>
 
-      <a class="sq-card" href="/proiecte/casa-vatra/">
-        <span class="sq-card__img"><img src="/media/tiles/v2/casa-vatra.fc383a.avif" alt="Casa Vatră — site de prezentare realizat de Visience" width="720" height="900" loading="lazy"></span>
+      <a class="sq-card sq-card--tel" href="https://casavatra.ro/" target="_blank" rel="noopener">
+        <span class="sq-tel"><span class="sq-tel__ecran"><img src="/media/mobil/casa-vatra-1.avif" alt="Site-ul Casa Vatră pe telefon, realizat de Visience" width="480" height="817" loading="lazy"></span></span>
         <span class="sq-card__name">Casa Vatră</span>
+        <span class="sq-card__url">casavatra.ro <span aria-hidden="true">↗</span></span>
       </a>
 
-      <a class="sq-card" href="/proiecte/velomed/">
-        <span class="sq-card__img"><img src="/media/tiles/v2/velomed.avif" alt="Velomed — site de prezentare realizat de Visience" width="720" height="900" loading="lazy"></span>
+      <a class="sq-card sq-card--tel" href="https://velomed.ro/" target="_blank" rel="noopener">
+        <span class="sq-tel"><span class="sq-tel__ecran"><img src="/media/mobil/velomed-1.avif" alt="Site-ul Velomed pe telefon, realizat de Visience" width="480" height="817" loading="lazy"></span></span>
         <span class="sq-card__name">Velomed</span>
+        <span class="sq-card__url">velomed.ro <span aria-hidden="true">↗</span></span>
       </a>
 
-      <a class="sq-card" href="/proiecte/amodelic/">
-        <span class="sq-card__img"><img src="/media/tiles/v2/amodelic.avif" alt="Amodelic — site de prezentare realizat de Visience" width="720" height="900" loading="lazy"></span>
+      <a class="sq-card sq-card--tel" href="https://amodelic.com/" target="_blank" rel="noopener">
+        <span class="sq-tel"><span class="sq-tel__ecran"><img src="/media/mobil/amodelic-1.avif" alt="Site-ul Amodelic pe telefon, realizat de Visience" width="480" height="817" loading="lazy"></span></span>
         <span class="sq-card__name">Amodelic</span>
+        <span class="sq-card__url">amodelic.com <span aria-hidden="true">↗</span></span>
       </a>
 
-      <a class="sq-card" href="/proiecte/2m-tech/">
-        <span class="sq-card__img"><img src="/media/tiles/v2/2m-tech.avif" alt="2M Tech — site de prezentare realizat de Visience" width="720" height="900" loading="lazy"></span>
+      <a class="sq-card sq-card--tel" href="https://2mtech.ro/" target="_blank" rel="noopener">
+        <span class="sq-tel"><span class="sq-tel__ecran"><img src="/media/mobil/2m-tech-1.avif" alt="Site-ul 2M Tech pe telefon, realizat de Visience" width="480" height="817" loading="lazy"></span></span>
         <span class="sq-card__name">2M Tech</span>
+        <span class="sq-card__url">2mtech.ro <span aria-hidden="true">↗</span></span>
       </a>
 
-      <a class="sq-card" href="/proiecte/im-design-studio/">
-        <span class="sq-card__img"><img src="/media/tiles/v2/im-design-studio.avif" alt="IM Design Studio — site de prezentare realizat de Visience" width="720" height="900" loading="lazy"></span>
+      <a class="sq-card sq-card--tel" href="https://im-ds.ro/" target="_blank" rel="noopener">
+        <span class="sq-tel"><span class="sq-tel__ecran"><img src="/media/mobil/im-design-studio-1.avif" alt="Site-ul IM Design Studio pe telefon, realizat de Visience" width="480" height="817" loading="lazy"></span></span>
         <span class="sq-card__name">IM Design Studio</span>
+        <span class="sq-card__url">im-ds.ro <span aria-hidden="true">↗</span></span>
       </a>
 
-      <a class="sq-card" href="/proiecte/artesano-mob/">
-        <span class="sq-card__img"><img src="/media/tiles/v2/artesano-mob.avif" alt="Artesano Mob — site de prezentare realizat de Visience" width="720" height="900" loading="lazy"></span>
+      <a class="sq-card sq-card--tel" href="https://artesanomob.ro/" target="_blank" rel="noopener">
+        <span class="sq-tel"><span class="sq-tel__ecran"><img src="/media/mobil/artesano-mob-1.avif" alt="Site-ul Artesano Mob pe telefon, realizat de Visience" width="480" height="817" loading="lazy"></span></span>
         <span class="sq-card__name">Artesano Mob</span>
+        <span class="sq-card__url">artesanomob.ro <span aria-hidden="true">↗</span></span>
       </a>
 
-      <a class="sq-card" href="/proiecte/alyya-beauty/">
-        <span class="sq-card__img"><img src="/media/tiles/v2/alyya-beauty.avif" alt="Alyya Beauty — site de prezentare realizat de Visience" width="720" height="900" loading="lazy"></span>
-        <span class="sq-card__name">Alyya Beauty</span>
+      <a class="sq-card sq-card--tel" href="https://solutiialpensam.ro/" target="_blank" rel="noopener">
+        <span class="sq-tel"><span class="sq-tel__ecran"><img src="/media/mobil/solutii-alpensam-1.avif" alt="Site-ul Soluții Alpensam pe telefon, realizat de Visience" width="480" height="817" loading="lazy"></span></span>
+        <span class="sq-card__name">Soluții Alpensam</span>
+        <span class="sq-card__url">solutiialpensam.ro <span aria-hidden="true">↗</span></span>
       </a>
 
-      <a class="sq-card" href="/proiecte/gs-gomma/">
-        <span class="sq-card__img"><img src="/media/tiles/v2/gs-gomma.avif" alt="GS Gomma — site de prezentare realizat de Visience" width="720" height="900" loading="lazy"></span>
+      <a class="sq-card sq-card--tel" href="https://gsgommasrl.it/" target="_blank" rel="noopener">
+        <span class="sq-tel"><span class="sq-tel__ecran"><img src="/media/mobil/gs-gomma-v2-1.avif" alt="Site-ul GS Gomma pe telefon, realizat de Visience" width="480" height="817" loading="lazy"></span></span>
         <span class="sq-card__name">GS Gomma</span>
+        <span class="sq-card__url">gsgommasrl.it <span aria-hidden="true">↗</span></span>
       </a>
 
     </div>
@@ -1031,7 +1258,7 @@ a.rev-card__firma:hover { text-decoration: underline; }
 <section class="wsp-pk" id="pachete" aria-labelledby="wsp-pk-h">
   <div class="wrap">
     <div class="wsp-sec-head rv">
-      <h2 class="dd dd-lg" id="wsp-pk-h">Trei pachete,<br>toate cu preț final</h2>
+      <h2 class="dd dd-lg" id="wsp-pk-h">Trei pachete,<br>cu prețul la vedere</h2>
       <p class="wsp-work__lead">
         Plătești o singură dată, la livrare. Fără abonament ascuns și fără licențe pe care să le reînnoiești an de an. Toate cele trei pachete vin cu <strong>CRM inclus</strong>, cu măsurarea pusă din prima zi și cu SEO tehnic la lansare.
       </p>
@@ -1248,7 +1475,7 @@ a.rev-card__firma:hover { text-decoration: underline; }
 </section>
 
 
-<section class="wsp-cmp" id="pachete" aria-labelledby="wsp-cmp-h">
+<section class="wsp-cmp" id="comparatie" aria-labelledby="wsp-cmp-h">
   <div class="wrap">
     <div class="wsp-sec-head rv">
       <h2 class="dd dd-lg" id="wsp-cmp-h">Alege ce ți se<br>potrivește</h2>
@@ -1280,7 +1507,7 @@ a.rev-card__firma:hover { text-decoration: underline; }
     </div>
 
     <p class="wsp-cmp__note rv rv-d2">
-      Prețurile sunt orientative și de pornire. Fiecare ofertă este configurată pe nevoile tale — sună-ne pentru un preț exact.
+      Sunt prețuri de pornire, fără TVA. Prețul exact îl primești în ofertă, în scris, după o discuție scurtă.
     </p>
 
     <div class="wsp-total rv rv-d2">
@@ -1338,16 +1565,26 @@ a.rev-card__firma:hover { text-decoration: underline; }
     </div>
 
     <div class="revs__foot rv rv-d2">
-      <a class="btn btn-dark" href="https://maps.google.com/?cid=5233500846285127119" target="_blank" rel="noopener noreferrer">Vezi toate recenziile pe Google →</a>
+      <a class="btn btn-ghost" href="https://maps.google.com/?cid=5233500846285127119" target="_blank" rel="noopener noreferrer">Vezi toate recenziile pe Google <span aria-hidden="true">→</span></a>
     </div>
   </div>
 </section>
 
 
 <section class="wsp-faq" id="intrebari" aria-labelledby="wsp-faq-h">
-  <div class="wrap">
-    <div class="wsp-sec-head rv">
-      <h2 class="dd dd-lg" id="wsp-faq-h">Ce întreabă<br>clienții</h2>
+  <div class="wrap wsp-faq__in">
+    <div class="wsp-faq__side">
+      <div class="wsp-sec-head rv">
+        <h2 class="dd dd-lg" id="wsp-faq-h">Ce întreabă<br>clienții</h2>
+      </div>
+      <div class="wsp-faq__card rv rv-d2">
+        <p class="wsp-faq__card-t">Ai altă întrebare?</p>
+        <p class="wsp-faq__card-d">Sună-ne sau scrie-ne pe WhatsApp. Îți răspundem în cel mult 24 de ore.</p>
+        <div class="wsp-faq__card-a">
+          <a href="tel:+40771486499" class="btn btn-solid"><i class="fas fa-phone" aria-hidden="true"></i> +40 771 486 499</a>
+          <a href="https://wa.me/40771486499" target="_blank" rel="noopener" class="btn btn-ghost"><i class="fab fa-whatsapp" aria-hidden="true"></i> WhatsApp</a>
+        </div>
+      </div>
     </div>
 
     <div class="wsp-faq__list rv rv-d1">
@@ -1392,6 +1629,14 @@ a.rev-card__firma:hover { text-decoration: underline; }
           Spune-ne despre proiect și primești o analiză gratuită în maxim 24 de ore, fără obligații.
         </p>
 
+        <div class="wsp-vlad">
+          <img src="/media/vlad-roman-fondator.avif" alt="Vlad Roman, fondatorul Visience" width="112" height="112" loading="lazy">
+          <div>
+            <p class="wsp-vlad__n">Vlad Roman <span>fondator Visience</span></p>
+            <p class="wsp-vlad__t">Cererea ta ajunge direct la mine. Te sun în cel mult 24 de ore și vedem împreună ce ți se potrivește.</p>
+          </div>
+        </div>
+
         <div class="wsp-contact__direct">
           <a href="tel:+40771486499" class="wsp-contact__line">
             <span class="wsp-contact__ico"><i class="fas fa-phone"></i></span>
@@ -1412,11 +1657,13 @@ a.rev-card__firma:hover { text-decoration: underline; }
           <div class="cf-feat"><span class="cf-feat-dot">✓</span>Analiză gratuită a proiectului</div>
           <div class="cf-feat"><span class="cf-feat-dot">✓</span>Ofertă personalizată fără obligații</div>
         </div>
+
+        <p class="wsp-contact__iasi">Ești firmă din Iași? <a href="/creare-site-prezentare-iasi/">Vezi pagina dedicată <span aria-hidden="true">→</span></a></p>
       </div>
 
       <div class="cf-box rv rv-d1">
         <h3 style="font-family:var(--f-d);font-weight:700;font-size:21px;letter-spacing:-.01em;color:var(--ink);margin-bottom:8px">Spune-ne despre proiect</h3>
-        <p style="font-size:14px;color:var(--mid);line-height:1.7;font-weight:300;margin-bottom:24px">Completează formularul scurt și primești o ofertă personalizată pentru site-ul tău în maxim 24 de ore.</p>
+        <p style="font-size:15px;color:#4a4a52;line-height:1.7;margin-bottom:24px">Completează formularul scurt și primești o ofertă personalizată pentru site-ul tău în maxim 24 de ore.</p>
         <form action="/contact.php" method="post"
               class="wpcf7-form init"
               aria-label="Formular ofertă site"
@@ -1493,7 +1740,12 @@ a.rev-card__firma:hover { text-decoration: underline; }
     </div>
   </div>
 </section>
+
+<div class="wsp-bara" role="region" aria-label="Contact rapid">
+  <a href="#contact" class="wsp-bara__cta">Cere ofertă gratuită <span aria-hidden="true">→</span></a>
+  <a href="https://wa.me/40771486499" target="_blank" rel="noopener" class="wsp-bara__wa" aria-label="Scrie-ne pe WhatsApp"><i class="fab fa-whatsapp" aria-hidden="true"></i></a>
+</div>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"6Jd91qwZnM_Q8geo0zee1"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Vts8azG354RupxGamQBd8"}
 4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
 7:null

@@ -33,7 +33,7 @@
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();0:{"P":null,"c":["","en",""],"q":"","i":false,"f":[[["",{"children":["en",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/39pj0zrlkvrmu.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"6Jd91qwZnM_Q8geo0zee1"}
+})();0:{"P":null,"c":["","en",""],"q":"","i":false,"f":[[["",{"children":["en",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/39pj0zrlkvrmu.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Vts8azG354RupxGamQBd8"}
 c:I[36621,["/_next/static/chunks/39pj0zrlkvrmu.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 16:I[39756,["/_next/static/chunks/39pj0zrlkvrmu.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 17:I[37457,["/_next/static/chunks/39pj0zrlkvrmu.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
@@ -661,7 +661,7 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_
 13:["$","$L16",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L17",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
 14:["$","$L21",null,{}]
 15:["$","$L22",null,{}]
-23:T26a6f,
+23:T26c30,
 
 <div class="vis-home">
 
@@ -878,42 +878,42 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_
   <div class="port-wrap" id="devWrap" tabindex="0" role="region" aria-label="Property developer slider">
     <div class="port-track" id="devTrack">
 
-      <a class="sq-card" href="/en/projects/vlaicu87/">
+      <a class="sq-card" href="https://vlaicu87.ro/" target="_blank" rel="noopener">
         <span class="sq-card__img"><img src="/media/tiles/v2/vlaicu87.avif" alt="Vlaicu87 — project delivered by Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Vlaicu87</span>
       </a>
 
-      <a class="sq-card" href="/en/projects/cameo-residence/">
+      <a class="sq-card" href="https://cameoresidence.ro/" target="_blank" rel="noopener">
         <span class="sq-card__img"><img src="/media/tiles/v2/cameo-residence.avif" alt="Cameo Residence — project delivered by Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Cameo Residence</span>
       </a>
 
-      <a class="sq-card" href="/en/projects/evergreen-towers/">
+      <a class="sq-card" href="https://www.evergreentowers.ro/" target="_blank" rel="noopener">
         <span class="sq-card__img"><img src="/media/tiles/v2/evergreen-towers.avif" alt="Evergreen Towers — project delivered by Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Evergreen Towers</span>
       </a>
 
-      <a class="sq-card" href="/en/projects/picolina/">
+      <a class="sq-card" href="https://picolina.ro/" target="_blank" rel="noopener">
         <span class="sq-card__img"><img src="/media/tiles/v3/picolina-b.avif" alt="Picolina Bucium — project delivered by Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Picolina Bucium</span>
       </a>
 
-      <a class="sq-card" href="/en/projects/armur-design/">
+      <a class="sq-card" href="https://armurdesign.ro/" target="_blank" rel="noopener">
         <span class="sq-card__img"><img src="/media/tiles/v3/armur-design.avif" alt="Armur Design — project delivered by Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Armur Design</span>
       </a>
 
-      <a class="sq-card" href="/en/projects/lapis-residence/">
+      <a class="sq-card" href="https://www.lapis-residence.ro/" target="_blank" rel="noopener">
         <span class="sq-card__img"><img src="/media/tiles/v2/lapis-residence.avif" alt="Lapis Residence — project delivered by Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Lapis Residence</span>
       </a>
 
-      <a class="sq-card" href="/en/projects/alfa-park-residence/">
+      <a class="sq-card" href="https://www.alfapark.ro/" target="_blank" rel="noopener">
         <span class="sq-card__img"><img src="/media/tiles/v2/alfa-park-residence.avif" alt="Alfa Park Residence — project delivered by Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Alfa Park Residence</span>
       </a>
 
-      <a class="sq-card" href="/en/projects/2m-tech/">
+      <a class="sq-card" href="https://2mtech.ro/" target="_blank" rel="noopener">
         <span class="sq-card__img"><img src="/media/tiles/v2/2m-tech.avif" alt="2M Tech — project delivered by Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">2M Tech</span>
       </a>
@@ -946,42 +946,42 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_
   <div class="port-wrap" id="partWrap" tabindex="0" role="region" aria-label="Partner slider">
     <div class="port-track" id="partTrack">
 
-      <a class="sq-card" href="/en/projects/casa-vatra/">
+      <a class="sq-card" href="https://casavatra.ro/" target="_blank" rel="noopener">
         <span class="sq-card__img"><img src="/media/tiles/v2/casa-vatra.fc383a.avif" alt="Casa Vatră — project delivered by Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Casa Vatră</span>
       </a>
 
-      <a class="sq-card" href="/en/projects/carmangeria-evei/">
+      <a class="sq-card" href="https://carmangeriaevei.ro/" target="_blank" rel="noopener">
         <span class="sq-card__img"><img src="/media/tiles/v2/carmangeria-evei.avif" alt="Carmangeria Evei — project delivered by Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Carmangeria Evei</span>
       </a>
 
-      <a class="sq-card" href="/en/projects/solutii-alpensam/">
+      <a class="sq-card" href="https://solutiialpensam.ro/" target="_blank" rel="noopener">
         <span class="sq-card__img"><img src="/media/tiles/v2/solutii-alpensam.avif" alt="Soluții Alpensam — project delivered by Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Soluții Alpensam</span>
       </a>
 
-      <a class="sq-card" href="/en/projects/lucia-rosca/">
+      <a class="sq-card" href="https://luciarosca.ro/" target="_blank" rel="noopener">
         <span class="sq-card__img"><img src="/media/tiles/v2/lucia-rosca.avif" alt="Lucia Roșca — project delivered by Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Lucia Roșca</span>
       </a>
 
-      <a class="sq-card" href="/en/projects/velomed/">
+      <a class="sq-card" href="https://velomed.ro/" target="_blank" rel="noopener">
         <span class="sq-card__img"><img src="/media/tiles/v2/velomed.avif" alt="Velomed — project delivered by Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Velomed</span>
       </a>
 
-      <a class="sq-card" href="/en/projects/ecologica2000-italia/">
+      <a class="sq-card" href="https://ecologica2000.eu/" target="_blank" rel="noopener">
         <span class="sq-card__img"><img src="/media/tiles/v2/ecologica2000-italia.avif" alt="Ecologica 2000 — project delivered by Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Ecologica 2000</span>
       </a>
 
-      <a class="sq-card" href="/en/projects/amodelic/">
+      <a class="sq-card" href="https://amodelic.com/" target="_blank" rel="noopener">
         <span class="sq-card__img"><img src="/media/tiles/v2/amodelic.avif" alt="Amodelic — project delivered by Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Amodelic</span>
       </a>
 
-      <a class="sq-card" href="/en/projects/toata-nunta/">
+      <a class="sq-card" href="http://toatanunta.ro/" target="_blank" rel="noopener">
         <span class="sq-card__img"><img src="/media/tiles/v2/toata-nunta.avif" alt="Toată Nunta — project delivered by Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Toată Nunta</span>
       </a>
