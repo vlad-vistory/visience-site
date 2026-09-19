@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/1yf11i6jf966j.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:Tf0fd,<style>
+2:Td665,<style>
 /* PROJECT CARDS — pj-* (reused din home) */
 .pj-card {
   padding: 10px;
@@ -879,19 +879,6 @@
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/fr/projets/l-arte-su-misura/" aria-label="Voir le projet L'Arte Su Misura">
-            <div class="pf-web-card__img">
-            <img src="/media/tiles/v2/l-arte-su-misura.avif" alt="L'Arte Su Misura — projet réalisé par Visience" width="720" height="900" loading="lazy">
-          </div>
-            <div class="pf-web-card__body">
-              <h3 class="pf-web-card__title">L'Arte Su Misura</h3>
-              <span class="pf-web-card__more">Voir le projet <span aria-hidden="true">→</span></span>
-            </div>
-          </a>
-          <a class="pf-web-card__url" href="https://l-arte.ro/" target="_blank" rel="noopener">l-arte.ro ↗</a>
-        </div>
-
-        <div class="pf-web-card">
           <a class="pf-web-card__link" href="/fr/projets/ecologica2000-italia/" aria-label="Voir le projet Ecologica 2000">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/ecologica2000-italia.avif" alt="Ecologica 2000 — projet réalisé par Visience" width="720" height="900" loading="lazy">
@@ -902,19 +889,6 @@
             </div>
           </a>
           <a class="pf-web-card__url" href="https://ecologica2000.eu/" target="_blank" rel="noopener">ecologica2000.eu ↗</a>
-        </div>
-
-        <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/fr/projets/alexander-private-tailor/" aria-label="Voir le projet Alexander Private Tailor">
-            <div class="pf-web-card__img">
-            <img src="/media/tiles/v2/alexander-private-tailor.avif" alt="Alexander Private Tailor — projet réalisé par Visience" width="720" height="900" loading="lazy">
-          </div>
-            <div class="pf-web-card__body">
-              <h3 class="pf-web-card__title">Alexander Private Tailor</h3>
-              <span class="pf-web-card__more">Voir le projet <span aria-hidden="true">→</span></span>
-            </div>
-          </a>
-          <span class="pf-web-card__url pf-web-card__url--off">alexanderprivatetailor.com — n’est plus en ligne</span>
         </div>
 
         <div class="pf-web-card">
@@ -957,32 +931,6 @@
         </div>
 
         <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/fr/projets/rumpel-m-info/" aria-label="Voir le projet Rumpel-M-INFO">
-            <div class="pf-web-card__img">
-            <img src="/media/tiles/v2/rumpel-m-info.avif" alt="Rumpel-M-INFO — projet réalisé par Visience" width="720" height="900" loading="lazy">
-          </div>
-            <div class="pf-web-card__body">
-              <h3 class="pf-web-card__title">Rumpel-M-INFO</h3>
-              <span class="pf-web-card__more">Voir le projet <span aria-hidden="true">→</span></span>
-            </div>
-          </a>
-          <span class="pf-web-card__url pf-web-card__url--off">rumpel-m-info.de — n’est plus en ligne</span>
-        </div>
-
-        <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/fr/projets/bryan-mesnager/" aria-label="Voir le projet Bryan Mesnager">
-            <div class="pf-web-card__img">
-            <img src="/media/tiles/v2/bryan-mesnager.avif" alt="Bryan Mesnager — projet réalisé par Visience" width="720" height="900" loading="lazy">
-          </div>
-            <div class="pf-web-card__body">
-              <h3 class="pf-web-card__title">Bryan Mesnager</h3>
-              <span class="pf-web-card__more">Voir le projet <span aria-hidden="true">→</span></span>
-            </div>
-          </a>
-          <span class="pf-web-card__url pf-web-card__url--off">bryanmesnager.fr — n’est plus en ligne</span>
-        </div>
-
-        <div class="pf-web-card">
           <a class="pf-web-card__link" href="/fr/projets/edu-net-academy/" aria-label="Voir le projet Edu-Net Academy">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v2/edu-net-academy.avif" alt="Edu-Net Academy — projet réalisé par Visience" width="720" height="900" loading="lazy">
@@ -993,19 +941,6 @@
             </div>
           </a>
           <a class="pf-web-card__url" href="https://edu-net.academy/" target="_blank" rel="noopener">edu-net.academy ↗</a>
-        </div>
-
-        <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/fr/projets/toata-nunta/" aria-label="Voir le projet Toată Nunta">
-            <div class="pf-web-card__img">
-            <img src="/media/tiles/v2/toata-nunta.avif" alt="Toată Nunta — projet réalisé par Visience" width="720" height="900" loading="lazy">
-          </div>
-            <div class="pf-web-card__body">
-              <h3 class="pf-web-card__title">Toată Nunta</h3>
-              <span class="pf-web-card__more">Voir le projet <span aria-hidden="true">→</span></span>
-            </div>
-          </a>
-          <a class="pf-web-card__url" href="https://toatanunta.ro/" target="_blank" rel="noopener">toatanunta.ro ↗</a>
         </div>
 
         <div class="pf-web-card">
@@ -1071,19 +1006,6 @@
             </div>
           </a>
           <a class="pf-web-card__url" href="https://gsgommasrl.it/" target="_blank" rel="noopener">gsgommasrl.it ↗</a>
-        </div>
-
-        <div class="pf-web-card">
-          <a class="pf-web-card__link" href="/fr/projets/happy-hosting/" aria-label="Voir le projet Happy Hosting">
-            <div class="pf-web-card__img">
-            <img src="/media/tiles/v2/happy-hosting.avif" alt="Happy Hosting — projet réalisé par Visience" width="720" height="900" loading="lazy">
-          </div>
-            <div class="pf-web-card__body">
-              <h3 class="pf-web-card__title">Happy Hosting</h3>
-              <span class="pf-web-card__more">Voir le projet <span aria-hidden="true">→</span></span>
-            </div>
-          </a>
-          <a class="pf-web-card__url" href="https://happyhosting.it/" target="_blank" rel="noopener">happyhosting.it ↗</a>
         </div>
 
         <div class="pf-web-card">
@@ -1299,14 +1221,6 @@
           <p class="pf-client-card__desc">Entreprise italienne de recyclage et de gestion des déchets</p>
         </a>
 
-        <div class="pf-client-card">
-          <div class="pf-client-card__logo">
-            <img src="/media/logo-rumpel.avif" alt="Rumpel-M" loading="lazy">
-          </div>
-          <h4 class="pf-client-card__name">Rumpel-M-INFO</h4>
-          <p class="pf-client-card__desc">Services allemands d’élimination professionnelle des déchets</p>
-        </div>
-
         <a href="https://bsp.srl/" target="_blank" rel="noopener" class="pf-client-card">
           <div class="pf-client-card__logo">
             <img src="/media/bsp-srl-logo-visience.avif" alt="Logo BSP SRL — gestion des déchets, Italie" loading="lazy">
@@ -1322,14 +1236,6 @@
           <h4 class="pf-client-card__name">Ecologica 2000</h4>
           <p class="pf-client-card__desc">L’une des plus grandes entreprises italiennes de gestion des déchets</p>
         </a>
-
-        <div class="pf-client-card">
-          <div class="pf-client-card__logo">
-            <img src="/media/allyabeauty-visience-marketing-branding-creare-site-logo-.avif" alt="Alyya Beauty" loading="lazy">
-          </div>
-          <h4 class="pf-client-card__name">Alyya Beauty</h4>
-          <p class="pf-client-card__desc">Maquillage professionnel, dermopigmentation et microneedling</p>
-        </div>
 
         <a href="https://dqdesign.co.th/" target="_blank" rel="noopener" class="pf-client-card">
           <div class="pf-client-card__logo">
@@ -1347,14 +1253,6 @@
           <p class="pf-client-card__desc">Portail roumain d’éducation ouvert au monde entier</p>
         </a>
 
-        <div class="pf-client-card">
-          <div class="pf-client-card__logo">
-            <img src="/media/Private-Stylist-logo-2.avif" alt="Alexander" loading="lazy">
-          </div>
-          <h4 class="pf-client-card__name">Alexander Tailor</h4>
-          <p class="pf-client-card__desc">Styliste privé roumain, tailleur au Royaume-Uni</p>
-        </div>
-
         <a href="https://luciarosca.ro/" target="_blank" rel="noopener" class="pf-client-card">
           <div class="pf-client-card__logo">
             <img src="/media/LR_logo_light-1-200x78-1.avif" alt="Lucia Roșca" loading="lazy">
@@ -1362,14 +1260,6 @@
           <h4 class="pf-client-card__name">Lucia Roșca</h4>
           <p class="pf-client-card__desc">Créatrice de mode indépendante, Roumanie</p>
         </a>
-
-        <div class="pf-client-card">
-          <div class="pf-client-card__logo">
-            <img src="/media/bbg-maison-euxine-visience-marketing-branding-webdesign-afacere-startup-antreprenoriat-design-development-site-copy.avif" alt="Logo BBG Maison Euxine — exportateur de fruits de mer" loading="lazy">
-          </div>
-          <h4 class="pf-client-card__name">BBG Maison Euxine</h4>
-          <p class="pf-client-card__desc">L’un des plus grands exportateurs roumains de fruits de mer</p>
-        </div>
 
         <a href="https://velomed.ro/" target="_blank" rel="noopener" class="pf-client-card">
           <div class="pf-client-card__logo">
@@ -1401,14 +1291,6 @@
           </div>
           <h4 class="pf-client-card__name">Bransha</h4>
           <p class="pf-client-card__desc">La marque BTG dédiée à l’automatisation intelligente</p>
-        </a>
-
-        <a href="https://happyhosting.it/" target="_blank" rel="noopener" class="pf-client-card">
-          <div class="pf-client-card__logo">
-            <img src="/media/happy20hosting-visience-marketing-branding-webdesign-afacere-startup-antreprenoriat-design-development-site-.avif" alt="Happy Hosting" loading="lazy">
-          </div>
-          <h4 class="pf-client-card__name">Happy Hosting</h4>
-          <p class="pf-client-card__desc">Entreprise italienne d’hébergement web</p>
         </a>
 
         <a href="https://studiolunghini.it/" target="_blank" rel="noopener" class="pf-client-card">
@@ -1458,6 +1340,6 @@
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://visience.ro/fr/portfolio/#webpage\",\"url\":\"https://visience.ro/fr/portfolio/\",\"name\":\"Portfolio Visience\",\"description\":\"Une sélection de projets web, branding, réseaux sociaux et marketing réalisés par Visience pour des clients en Roumanie, en Italie, en France et en Allemagne.\",\"inLanguage\":\"fr\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Accueil\",\"item\":\"https://visience.ro/fr/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Portfolio\",\"item\":\"https://visience.ro/fr/portfolio/\"}]}]}"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"K4HvVk-rJopicoO338YPQ"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://visience.ro/fr/portfolio/#webpage\",\"url\":\"https://visience.ro/fr/portfolio/\",\"name\":\"Portfolio Visience\",\"description\":\"Une sélection de projets web, branding, réseaux sociaux et marketing réalisés par Visience pour des clients en Roumanie, en Italie, en France et en Allemagne.\",\"inLanguage\":\"fr\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Accueil\",\"item\":\"https://visience.ro/fr/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Portfolio\",\"item\":\"https://visience.ro/fr/portfolio/\"}]}]}"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"6yMEJUAhQ23xaYIUgih89"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

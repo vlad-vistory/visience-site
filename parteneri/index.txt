@@ -33,7 +33,7 @@
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();0:{"P":null,"c":["","parteneri",""],"q":"","i":false,"f":[[["",{"children":["parteneri",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2t44x5vm81k62.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1yf11i6jf966j.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"K4HvVk-rJopicoO338YPQ"}
+})();0:{"P":null,"c":["","parteneri",""],"q":"","i":false,"f":[[["",{"children":["parteneri",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2t44x5vm81k62.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1yf11i6jf966j.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"6yMEJUAhQ23xaYIUgih89"}
 c:I[36621,["/_next/static/chunks/1yf11i6jf966j.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 17:I[39756,["/_next/static/chunks/1yf11i6jf966j.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 18:I[37457,["/_next/static/chunks/1yf11i6jf966j.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
@@ -683,7 +683,7 @@ f:Tf55,<header class="nav" id="nav" role="banner">
 </footer>
 4:["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$b"}}],["$","$Lc",null,{"headerRo":"$d","footerRo":"$e","headerEn":"$f","footerEn":"$10","headerFr":"$11","footerFr":"$12","headerReclama":"<header class=\"nav nav--lp\" id=\"nav\" role=\"banner\">\r\n  <div class=\"wrap nav__in\">\r\n    <span class=\"nav__logo\">\r\n      <img class=\"nav__logo-img nav__logo-img--light\" src=\"/media/sigla-mark-visience-new-colors.avif\"\r\n           alt=\"Visience\" width=\"160\" height=\"30\" fetchpriority=\"high\">\r\n      <img class=\"nav__logo-img nav__logo-img--dark\" src=\"/media/sigla-visience-dark.avif\"\r\n           alt=\"\" aria-hidden=\"true\" width=\"160\" height=\"30\">\r\n    </span>\r\n\r\n    <div class=\"nlp\">\r\n      <a href=\"tel:+40771486499\" class=\"nlp__tel\" aria-label=\"Sună la 0771 486 499\">\r\n        <i class=\"fas fa-phone\" aria-hidden=\"true\"></i><span>0771 486 499</span>\r\n      </a>\r\n      <a href=\"https://wa.me/40771486499\" target=\"_blank\" rel=\"noopener\" class=\"nlp__wa\" aria-label=\"Scrie pe WhatsApp\">\r\n        <i class=\"fab fa-whatsapp\" aria-hidden=\"true\"></i><span>WhatsApp</span>\r\n      </a>\r\n    </div>\r\n  </div>\r\n</header>\r\n","footerReclama":"$13","children":"$L14"}],"$L15","$L16"]}]
 5:["$","$1","c",{"children":[null,["$","$L17",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
-19:Ta70,{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://visience.ro/parteneri/#webpage","url":"https://visience.ro/parteneri/","name":"Partenerii noștri","isPartOf":{"@id":"https://visience.ro/#website"},"about":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"},{"@type":"ItemList","name":"Clienți și parteneri Visience","numberOfItems":23,"itemListElement":[{"@type":"ListItem","position":1,"name":"Vlaicu87","item":"https://vlaicu87.ro"},{"@type":"ListItem","position":2,"name":"Cameo Residence","item":"https://cameoresidence.ro"},{"@type":"ListItem","position":3,"name":"2M Tech","item":"https://2mtech.ro"},{"@type":"ListItem","position":4,"name":"Casa Vatră","item":"https://casavatra.ro"},{"@type":"ListItem","position":5,"name":"Carmangeria Evei","item":"https://carmangeriaevei.ro"},{"@type":"ListItem","position":6,"name":"Soluții Alpensam","item":"https://solutiialpensam.ro"},{"@type":"ListItem","position":7,"name":"Amodelic","item":"https://amodelic.com"},{"@type":"ListItem","position":8,"name":"BTG Romania","item":"https://btgromania.ro/"},{"@type":"ListItem","position":9,"name":"Bransha","item":"https://bransha.ro/"},{"@type":"ListItem","position":10,"name":"Velomed","item":"https://velomed.ro/"},{"@type":"ListItem","position":11,"name":"Edu-Net Academy","item":"https://edu-net.academy/"},{"@type":"ListItem","position":12,"name":"Revo","item":"https://www.piesemoto.ro/"},{"@type":"ListItem","position":13,"name":"Alyya Beauty","item":"https://alyyabeauty.com/"},{"@type":"ListItem","position":14,"name":"Lucia Roșca","item":"https://luciarosca.ro/"},{"@type":"ListItem","position":15,"name":"Alexander Tailor","item":"https://alexanderprivatetailor.com/"},{"@type":"ListItem","position":16,"name":"BBG Maison Euxine","item":"https://bbgmaisoneuxine.com/"},{"@type":"ListItem","position":17,"name":"Ecologica 2000","item":"https://ecologica2000.eu/"},{"@type":"ListItem","position":18,"name":"WTS SRL","item":"https://wts.srl/"},{"@type":"ListItem","position":19,"name":"BSP SRL","item":"https://bsp.srl/"},{"@type":"ListItem","position":20,"name":"Rumpel-M-INFO","item":"https://rumpel-m-info.de/"},{"@type":"ListItem","position":21,"name":"Happy Hosting","item":"https://happyhosting.it/"},{"@type":"ListItem","position":22,"name":"Studio Lunghini","item":"https://studiolunghini.it/"},{"@type":"ListItem","position":23,"name":"DQ Design","item":"https://dqdesign.co.th/"}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Parteneri","item":"https://visience.ro/parteneri/"}]}]}1a:T95d5,<style>
+19:T890,{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://visience.ro/parteneri/#webpage","url":"https://visience.ro/parteneri/","name":"Partenerii noștri","isPartOf":{"@id":"https://visience.ro/#website"},"about":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"},{"@type":"ItemList","name":"Clienți și parteneri Visience","numberOfItems":20,"itemListElement":[{"@type":"ListItem","position":1,"name":"Vlaicu87","item":"https://vlaicu87.ro"},{"@type":"ListItem","position":2,"name":"Cameo Residence","item":"https://cameoresidence.ro"},{"@type":"ListItem","position":3,"name":"2M Tech","item":"https://2mtech.ro"},{"@type":"ListItem","position":4,"name":"Casa Vatră","item":"https://casavatra.ro"},{"@type":"ListItem","position":5,"name":"Carmangeria Evei","item":"https://carmangeriaevei.ro"},{"@type":"ListItem","position":6,"name":"Soluții Alpensam","item":"https://solutiialpensam.ro"},{"@type":"ListItem","position":7,"name":"Amodelic","item":"https://amodelic.com"},{"@type":"ListItem","position":8,"name":"BTG Romania","item":"https://btgromania.ro/"},{"@type":"ListItem","position":9,"name":"Bransha","item":"https://bransha.ro/"},{"@type":"ListItem","position":10,"name":"Velomed","item":"https://velomed.ro/"},{"@type":"ListItem","position":11,"name":"Edu-Net Academy","item":"https://edu-net.academy/"},{"@type":"ListItem","position":12,"name":"Revo","item":"https://www.piesemoto.ro/"},{"@type":"ListItem","position":13,"name":"Lucia Roșca","item":"https://luciarosca.ro/"},{"@type":"ListItem","position":14,"name":"Ecologica 2000","item":"https://ecologica2000.eu/"},{"@type":"ListItem","position":15,"name":"WTS SRL","item":"https://wts.srl/"},{"@type":"ListItem","position":16,"name":"BSP SRL","item":"https://bsp.srl/"},{"@type":"ListItem","position":17,"name":"Studio Lunghini","item":"https://studiolunghini.it/"},{"@type":"ListItem","position":18,"name":"DQ Design","item":"https://dqdesign.co.th/"}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":19,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":20,"name":"Parteneri","item":"https://visience.ro/parteneri/"}]}]}1a:T7e9f,<style>
 .prt-hero { padding: calc(var(--nav-h) + 80px) 0 70px; background: var(--cream); text-align: center; position: relative; overflow: hidden; }
 .prt-hero__in { position: relative; z-index: 1; max-width: 760px; margin: 0 auto; }
 .prt-bc { font-family: var(--f-m); font-size: 11px; color: var(--mid); letter-spacing: .05em; margin-bottom: 20px; }
@@ -901,20 +901,6 @@ f:Tf55,<header class="nav" id="nav" role="banner">
       </article>
       <article class="prt-card rv">
         <div class="prt-card__top">
-          <div class="prt-card__logo"><img src="/media/allyabeauty-visience-marketing-branding-creare-site-logo-.avif" alt="Logo Alyya Beauty" loading="lazy"></div>
-          <div class="prt-card__meta">
-            <h2 class="prt-card__name">Alyya Beauty</h2>
-            <span class="prt-card__tag">Beauty &amp; make-up · Botoșani</span>
-          </div>
-        </div>
-        <p class="prt-card__desc">Salon de înfrumusețare coordonat de Alina Olinic, în Botoșani, care oferă make-up profesional, dermopigmentare, extensii și laminare de gene și sprâncene, precum și microneedling. Echipa de specialiști lucrează într-un spațiu amenajat elegant, în stil baroc modern.</p>
-        <div class="prt-card__links">
-          <span class="prt-card__site prt-card__site--off">Domeniul nu mai este activ</span>
-          <span class="prt-card__social"><a href="https://www.facebook.com/AlyyaBeautybyAlinaOlinic/" target="_blank" rel="noopener" aria-label="Facebook Alyya Beauty"><svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M24 12c0-6.6-5.4-12-12-12S0 5.4 0 12c0 6 4.4 11 10.1 11.9V15.5h-3v-3.5h3V9.4c0-3 1.8-4.7 4.5-4.7 1.3 0 2.7.2 2.7.2v3h-1.5c-1.5 0-2 1-2 1.9V12h3.3l-.5 3.5h-2.7v8.4C19.6 23 24 18 24 12z"/></svg></a></span>
-        </div>
-      </article>
-      <article class="prt-card rv">
-        <div class="prt-card__top">
           <div class="prt-card__logo"><img src="/media/LR_logo_light-1-200x78-1.avif" alt="Logo Lucia Roșca" loading="lazy"></div>
           <div class="prt-card__meta">
             <h2 class="prt-card__name">Lucia Roșca</h2>
@@ -925,34 +911,6 @@ f:Tf55,<header class="nav" id="nav" role="banner">
         <div class="prt-card__links">
           <a href="https://luciarosca.ro/" target="_blank" rel="noopener" class="prt-card__site">Vizitează site-ul <span aria-hidden="true">↗</span></a>
           <span class="prt-card__social"><a href="https://www.facebook.com/luciaroscastudio/" target="_blank" rel="noopener" aria-label="Facebook Lucia Roșca"><svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M24 12c0-6.6-5.4-12-12-12S0 5.4 0 12c0 6 4.4 11 10.1 11.9V15.5h-3v-3.5h3V9.4c0-3 1.8-4.7 4.5-4.7 1.3 0 2.7.2 2.7.2v3h-1.5c-1.5 0-2 1-2 1.9V12h3.3l-.5 3.5h-2.7v8.4C19.6 23 24 18 24 12z"/></svg></a><a href="https://www.instagram.com/luciarosca/" target="_blank" rel="noopener" aria-label="Instagram Lucia Roșca"><svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M12 2.2c3.2 0 3.6 0 4.9.1 1.2.1 1.8.3 2.2.4.6.2 1 .5 1.4.9.4.4.7.8.9 1.4.2.4.4 1 .4 2.2.1 1.3.1 1.7.1 4.9s0 3.6-.1 4.9c-.1 1.2-.3 1.8-.4 2.2-.2.6-.5 1-.9 1.4-.4.4-.8.7-1.4.9-.4.2-1 .4-2.2.4-1.3.1-1.7.1-4.9.1s-3.6 0-4.9-.1c-1.2-.1-1.8-.3-2.2-.4-.6-.2-1-.5-1.4-.9-.4-.4-.7-.8-.9-1.4-.2-.4-.4-1-.4-2.2C2.2 15.6 2.2 15.2 2.2 12s0-3.6.1-4.9c.1-1.2.3-1.8.4-2.2.2-.6.5-1 .9-1.4.4-.4.8-.7 1.4-.9.4-.2 1-.4 2.2-.4C8.4 2.2 8.8 2.2 12 2.2zm0 3.2A6.6 6.6 0 1018.6 12 6.6 6.6 0 0012 5.4zm0 10.9A4.3 4.3 0 1116.3 12 4.3 4.3 0 0112 16.3zm6.8-11.1a1.5 1.5 0 11-1.5-1.5 1.5 1.5 0 011.5 1.5z"/></svg></a><a href="https://www.linkedin.com/in/lucia-rosca-8a7baa57/" target="_blank" rel="noopener" aria-label="LinkedIn Lucia Roșca"><svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M20.4 20.4h-3.6v-5.6c0-1.3 0-3-1.9-3s-2.1 1.4-2.1 2.9v5.7H9.2V9h3.4v1.6h.1c.5-.9 1.6-1.9 3.4-1.9 3.6 0 4.3 2.4 4.3 5.5v6.2zM5.3 7.4a2.1 2.1 0 112.1-2.1 2.1 2.1 0 01-2.1 2.1zM7.1 20.4H3.5V9h3.6v11.4zM22.2 0H1.8C.8 0 0 .8 0 1.7v20.6c0 .9.8 1.7 1.8 1.7h20.4c1 0 1.8-.8 1.8-1.7V1.7C24 .8 23.2 0 22.2 0z"/></svg></a></span>
-        </div>
-      </article>
-      <article class="prt-card rv">
-        <div class="prt-card__top">
-          <div class="prt-card__logo"><img src="/media/Private-Stylist-logo-2.avif" alt="Logo Alexander Tailor" loading="lazy"></div>
-          <div class="prt-card__meta">
-            <h2 class="prt-card__name">Alexander Tailor</h2>
-            <span class="prt-card__tag">Croitorie made-to-measure · România &amp; UK</span>
-          </div>
-        </div>
-        <p class="prt-card__desc">Alexander este croitor și stilist personal pentru bărbați, originar din România și format pe Savile Row și Jermyn Street la Londra. Realizează costume made-to-measure cu finisaj de tip bespoke, lucrând cu clienți din Londra, Paris și București.</p>
-        <div class="prt-card__links">
-          <span class="prt-card__site prt-card__site--off">Domeniul nu mai este activ</span>
-          <span class="prt-card__social"><a href="https://www.instagram.com/alexander.privatetailor/" target="_blank" rel="noopener" aria-label="Instagram Alexander Tailor"><svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M12 2.2c3.2 0 3.6 0 4.9.1 1.2.1 1.8.3 2.2.4.6.2 1 .5 1.4.9.4.4.7.8.9 1.4.2.4.4 1 .4 2.2.1 1.3.1 1.7.1 4.9s0 3.6-.1 4.9c-.1 1.2-.3 1.8-.4 2.2-.2.6-.5 1-.9 1.4-.4.4-.8.7-1.4.9-.4.2-1 .4-2.2.4-1.3.1-1.7.1-4.9.1s-3.6 0-4.9-.1c-1.2-.1-1.8-.3-2.2-.4-.6-.2-1-.5-1.4-.9-.4-.4-.7-.8-.9-1.4-.2-.4-.4-1-.4-2.2C2.2 15.6 2.2 15.2 2.2 12s0-3.6.1-4.9c.1-1.2.3-1.8.4-2.2.2-.6.5-1 .9-1.4.4-.4.8-.7 1.4-.9.4-.2 1-.4 2.2-.4C8.4 2.2 8.8 2.2 12 2.2zm0 3.2A6.6 6.6 0 1018.6 12 6.6 6.6 0 0012 5.4zm0 10.9A4.3 4.3 0 1116.3 12 4.3 4.3 0 0112 16.3zm6.8-11.1a1.5 1.5 0 11-1.5-1.5 1.5 1.5 0 011.5 1.5z"/></svg></a></span>
-        </div>
-      </article>
-      <article class="prt-card rv">
-        <div class="prt-card__top">
-          <div class="prt-card__logo"><img src="/media/bbg-maison-euxine-visience-marketing-branding-webdesign-afacere-startup-antreprenoriat-design-development-site-copy.avif" alt="Logo BBG Maison Euxine" loading="lazy"></div>
-          <div class="prt-card__meta">
-            <h2 class="prt-card__name">BBG Maison Euxine</h2>
-            <span class="prt-card__tag">Export fructe de mare · România</span>
-          </div>
-        </div>
-        <p class="prt-card__desc">BBG Maison Euxine este o companie românească specializată în comerțul și exportul de fructe de mare, aducând pe piață produse din zona Mării Negre.</p>
-        <div class="prt-card__links">
-          <span class="prt-card__site prt-card__site--off">Domeniul nu mai este activ</span>
-          
         </div>
       </article>
       <article class="prt-card rv">
@@ -994,34 +952,6 @@ f:Tf55,<header class="nav" id="nav" role="banner">
         <p class="prt-card__desc">Companie italiană de consultanță de mediu din Settimo Milanese (Milano), specializată în clasificarea deșeurilor, remedierea solului și a rezervoarelor, precum și intermedierea deșeurilor periculoase și nepericuloase. Activează alături de Ecologica 2000 și WTS în același grup.</p>
         <div class="prt-card__links">
           <a href="https://bsp.srl/" target="_blank" rel="noopener" class="prt-card__site">Vizitează site-ul <span aria-hidden="true">↗</span></a>
-          
-        </div>
-      </article>
-      <article class="prt-card rv">
-        <div class="prt-card__top">
-          <div class="prt-card__logo"><img src="/media/logo-rumpel.avif" alt="Logo Rumpel-M-INFO" loading="lazy"></div>
-          <div class="prt-card__meta">
-            <h2 class="prt-card__name">Rumpel-M-INFO</h2>
-            <span class="prt-card__tag">Eliminare deșeuri · Germania</span>
-          </div>
-        </div>
-        <p class="prt-card__desc">Firmă germană de salubritate ce oferă servicii profesionale de eliminare și management al deșeurilor. Se ocupă de colectarea și gestionarea responsabilă a deșeurilor pentru clienți din spațiul german.</p>
-        <div class="prt-card__links">
-          <span class="prt-card__site prt-card__site--off">Domeniul nu mai este activ</span>
-          
-        </div>
-      </article>
-      <article class="prt-card rv">
-        <div class="prt-card__top">
-          <div class="prt-card__logo"><img src="/media/happy20hosting-visience-marketing-branding-webdesign-afacere-startup-antreprenoriat-design-development-site-.avif" alt="Logo Happy Hosting" loading="lazy"></div>
-          <div class="prt-card__meta">
-            <h2 class="prt-card__name">Happy Hosting</h2>
-            <span class="prt-card__tag">Web hosting · Italia</span>
-          </div>
-        </div>
-        <p class="prt-card__desc">Happy Hosting este o companie italiană de găzduire web, care oferă servicii de hosting pentru site-uri și aplicații online. Pune la dispoziția clienților infrastructura necesară pentru a-și menține prezența digitală stabilă și accesibilă.</p>
-        <div class="prt-card__links">
-          <a href="https://happyhosting.it/" target="_blank" rel="noopener" class="prt-card__site">Vizitează site-ul <span aria-hidden="true">↗</span></a>
           
         </div>
       </article>
