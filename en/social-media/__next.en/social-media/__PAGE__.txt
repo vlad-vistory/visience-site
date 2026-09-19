@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 5:I[97367,["/_next/static/chunks/39pj0zrlkvrmu.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 6:"$Sreact.suspense"
-2:Tb9b,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/en/social-media/#service","name":"Social media management","serviceType":"Social media marketing","inLanguage":"en","provider":{"@type":"Organization","name":"Visience","url":"https://visience.ro/en/"},"areaServed":["US","RO","IT","FR","DE"],"offers":[{"@type":"Offer","priceCurrency":"USD","price":"350","itemOffered":{"@type":"Service","name":"Posts Basic, 8 posts a month"}},{"@type":"Offer","priceCurrency":"USD","price":"520","itemOffered":{"@type":"Service","name":"Posts Standard, 15 posts a month"}},{"@type":"Offer","priceCurrency":"USD","price":"810","itemOffered":{"@type":"Service","name":"Full SMM, 30 posts and full account management"}},{"@type":"Offer","priceCurrency":"USD","price":"600","itemOffered":{"@type":"Service","name":"SMM Strategy, one-off"}},{"@type":"Offer","priceCurrency":"USD","price":"350","itemOffered":{"@type":"Service","name":"Influencer research, one-off"}}]},{"@type":"FAQPage","@id":"https://visience.ro/en/social-media/#faq","mainEntity":[{"@type":"Question","name":"Which networks do you work on?","acceptedAnswer":{"@type":"Answer","text":"Facebook, Instagram, TikTok and LinkedIn. We recommend the right ones for the audience and the kind of business, and settle the mix at the strategy stage."}},{"@type":"Question","name":"What does a post include?","acceptedAnswer":{"@type":"Answer","text":"Copy written for the brand, the graphic design or working up existing material, the relevant hashtags and scheduling at the right hour. Full-management packages add strategic comments and interaction with followers."}},{"@type":"Question","name":"How long until results show?","acceptedAnswer":{"@type":"Answer","text":"The first signs, higher interaction and follower growth, usually appear within 1 to 2 months. Solid results in community and awareness settle over 3 to 6 months of steady presence."}},{"@type":"Question","name":"Is there a minimum contract?","acceptedAnswer":{"@type":"Answer","text":"The monthly packages work best with a commitment of a few months, because results come from consistency. The actual terms are agreed at the start, with no surprise clauses."}},{"@type":"Question","name":"Do you produce the photo and video content too?","acceptedAnswer":{"@type":"Answer","text":"We do the graphic design and work up material you provide. For a dedicated photo shoot or video production we coordinate with our partners and quote it separately."}},{"@type":"Question","name":"How do you report results?","acceptedAnswer":{"@type":"Answer","text":"A clear monthly report with follower growth, engagement, post reach and which content performed best. Full SMM adds a 1:1 consulting call."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visience.ro/en/"},{"@type":"ListItem","position":2,"name":"Social media","item":"https://visience.ro/en/social-media/"}]}]}3:T84f1,<style>
+2:Tb9b,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/en/social-media/#service","name":"Social media management","serviceType":"Social media marketing","inLanguage":"en","provider":{"@type":"Organization","name":"Visience","url":"https://visience.ro/en/"},"areaServed":["US","RO","IT","FR","DE"],"offers":[{"@type":"Offer","priceCurrency":"USD","price":"230","itemOffered":{"@type":"Service","name":"Posts Basic, 8 posts a month"}},{"@type":"Offer","priceCurrency":"USD","price":"520","itemOffered":{"@type":"Service","name":"Posts Standard, 15 posts a month"}},{"@type":"Offer","priceCurrency":"USD","price":"810","itemOffered":{"@type":"Service","name":"Full SMM, 30 posts and full account management"}},{"@type":"Offer","priceCurrency":"USD","price":"350","itemOffered":{"@type":"Service","name":"SMM Strategy, one-off"}},{"@type":"Offer","priceCurrency":"USD","price":"120","itemOffered":{"@type":"Service","name":"Influencer research, one-off"}}]},{"@type":"FAQPage","@id":"https://visience.ro/en/social-media/#faq","mainEntity":[{"@type":"Question","name":"Which networks do you work on?","acceptedAnswer":{"@type":"Answer","text":"Facebook, Instagram, TikTok and LinkedIn. We recommend the right ones for the audience and the kind of business, and settle the mix at the strategy stage."}},{"@type":"Question","name":"What does a post include?","acceptedAnswer":{"@type":"Answer","text":"Copy written for the brand, the graphic design or working up existing material, the relevant hashtags and scheduling at the right hour. Full-management packages add strategic comments and interaction with followers."}},{"@type":"Question","name":"How long until results show?","acceptedAnswer":{"@type":"Answer","text":"The first signs, higher interaction and follower growth, usually appear within 1 to 2 months. Solid results in community and awareness settle over 3 to 6 months of steady presence."}},{"@type":"Question","name":"Is there a minimum contract?","acceptedAnswer":{"@type":"Answer","text":"The monthly packages work best with a commitment of a few months, because results come from consistency. The actual terms are agreed at the start, with no surprise clauses."}},{"@type":"Question","name":"Do you produce the photo and video content too?","acceptedAnswer":{"@type":"Answer","text":"We do the graphic design and work up material you provide. For a dedicated photo shoot or video production we coordinate with our partners and quote it separately."}},{"@type":"Question","name":"How do you report results?","acceptedAnswer":{"@type":"Answer","text":"A clear monthly report with follower growth, engagement, post reach and which content performed best. Full SMM adds a 1:1 consulting call."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visience.ro/en/"},{"@type":"ListItem","position":2,"name":"Social media","item":"https://visience.ro/en/social-media/"}]}]}3:T84f1,<style>
 .sm-hero {
   position: relative;
   padding: calc(var(--nav-h) + 90px) 0 90px;
@@ -776,10 +776,10 @@
 
       <h2>How much does social media management cost?</h2>
       <p>
-        The price depends on how many networks, how often you post and how deep you want us in it. Our full package, <strong>Full SMM</strong>, is <strong>$810 a month</strong> and covers 30 posts plus running the accounts completely. For a middle pace, <strong>Posts Standard</strong> is <strong>$520 a month</strong>, and for a clean start, <strong>Posts Basic</strong> starts at <strong>$350 a month</strong>.
+        The price depends on how many networks, how often you post and how deep you want us in it. Our full package, <strong>Full SMM</strong>, is <strong>$810 a month</strong> and covers 30 posts plus running the accounts completely. For a middle pace, <strong>Posts Standard</strong> is <strong>$520 a month</strong>, and for a clean start, <strong>Posts Basic</strong> starts at <strong>$230 a month</strong>.
       </p>
       <p>
-        We recommend that any engagement starts with the <strong>SMM Strategy</strong> package ($600, one-off): audience analysis, competitor research, brand voice and tone, and a 12-month content calendar. On that footing, every month's posts have a point and a direction. <a href="#sm-prices">See the packages in detail below →</a>
+        We recommend that any engagement starts with the <strong>SMM Strategy</strong> package ($350, one-off): audience analysis, competitor research, brand voice and tone, and a 12-month content calendar. On that footing, every month's posts have a point and a direction. <a href="#sm-prices">See the packages in detail below →</a>
       </p>
 
       <h2>Why pick Visience for social?</h2>
@@ -883,7 +883,7 @@
 
       <div class="sm-pkg rv rv-d2">
         <div class="sm-pkg__name">Posts Basic</div>
-        <div class="sm-pkg__price">$350<span class="per"> / month</span></div>
+        <div class="sm-pkg__price">$230<span class="per"> / month</span></div>
         <div class="sm-pkg__price-note">A clean start on social</div>
         <p class="sm-pkg__desc">
           The right package to begin with: an organic presence, tidy design and copy written for you, so your brand looks professional from day one.
@@ -905,7 +905,7 @@
         <div class="sm-extra__title">SMM Strategy — the footing for everything else</div>
         <div class="sm-extra__txt">Audience analysis, competitor research, brand voice and tone, a 12-month content calendar and 2 working sessions. One-off cost.</div>
       </div>
-      <div class="sm-extra__price">$600</div>
+      <div class="sm-extra__price">$350</div>
     </div>
 
     <div class="sm-extra rv rv-d2">
@@ -914,7 +914,7 @@
         <div class="sm-extra__title">Influencer research (optional)</div>
         <div class="sm-extra__txt">A list of influencers who fit your brand, with collaboration rates, account statistics and engagement levels, so you put money into partnerships that actually work.</div>
       </div>
-      <div class="sm-extra__price">$350</div>
+      <div class="sm-extra__price">$120</div>
     </div>
 
   </div>
@@ -1040,6 +1040,6 @@
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"_tZBC0u3e-Q1UUfS93yMq"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"6Jd91qwZnM_Q8geo0zee1"}
 4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
 7:null

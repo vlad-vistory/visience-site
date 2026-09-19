@@ -33,7 +33,7 @@ a:I[68027,["/_next/static/chunks/39pj0zrlkvrmu.js","/_next/static/chunks/24ag4we
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();0:{"P":null,"c":["","fr","tarifs",""],"q":"","i":false,"f":[[["",{"children":["fr",{"children":["tarifs",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/39pj0zrlkvrmu.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"_tZBC0u3e-Q1UUfS93yMq"}
+})();0:{"P":null,"c":["","fr","tarifs",""],"q":"","i":false,"f":[[["",{"children":["fr",{"children":["tarifs",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/39pj0zrlkvrmu.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"6Jd91qwZnM_Q8geo0zee1"}
 d:I[36621,["/_next/static/chunks/39pj0zrlkvrmu.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 17:I[39756,["/_next/static/chunks/39pj0zrlkvrmu.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 18:I[37457,["/_next/static/chunks/39pj0zrlkvrmu.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
@@ -651,7 +651,7 @@ f:T2023,<footer class="footer" role="contentinfo">
 4:["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$c"}}],["$","$Ld",null,{"headerRo":"$e","footerRo":"$f","headerEn":"$10","footerEn":"$11","headerFr":"$12","footerFr":"$13","children":"$L14"}],"$L15","$L16"]}]
 5:["$","$1","c",{"children":[null,["$","$L17",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
 6:["$","$1","c",{"children":[null,["$","$L17",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
-19:T8ad,{"@context":"https://schema.org","@graph":[{"@type":"OfferCatalog","@id":"https://visience.ro/fr/tarifs/#catalog","name":"Services et tarifs Visience","inLanguage":"fr","itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Landing page de campagne"}},{"@type":"Offer","priceCurrency":"EUR","price":"750","itemOffered":{"@type":"Service","name":"Site vitrine Basic, jusqu'à 6 pages"}},{"@type":"Offer","priceCurrency":"EUR","price":"1200","itemOffered":{"@type":"Service","name":"Site vitrine Standard, 10 pages avec SEO on-page complet"}},{"@type":"Offer","priceCurrency":"EUR","price":"2500","itemOffered":{"@type":"Service","name":"Site vitrine Premium"}},{"@type":"Offer","priceCurrency":"EUR","price":"1000","itemOffered":{"@type":"Service","name":"Boutique en ligne Basic"}},{"@type":"Offer","priceCurrency":"EUR","price":"1800","itemOffered":{"@type":"Service","name":"Boutique en ligne Standard"}},{"@type":"Offer","priceCurrency":"EUR","price":"3500","itemOffered":{"@type":"Service","name":"Boutique en ligne Premium"}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Logo Basic"}},{"@type":"Offer","priceCurrency":"EUR","price":"1200","itemOffered":{"@type":"Service","name":"Identité visuelle complète"}},{"@type":"Offer","priceCurrency":"EUR","price":"2500","itemOffered":{"@type":"Service","name":"Brand book avec logo animé"}},{"@type":"Offer","priceCurrency":"EUR","price":"400","itemOffered":{"@type":"Service","name":"Gestion de campagnes, par plateforme, mensuel"}},{"@type":"Offer","priceCurrency":"EUR","price":"400","itemOffered":{"@type":"Service","name":"Configuration de campagne et mesure"}},{"@type":"Offer","priceCurrency":"EUR","price":"600","itemOffered":{"@type":"Service","name":"Stratégie SEO complète, mensuel"}},{"@type":"Offer","priceCurrency":"EUR","price":"450","itemOffered":{"@type":"Service","name":"Réseaux sociaux, 15 publications par mois"}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://visience.ro/fr/"},{"@type":"ListItem","position":2,"name":"Tarifs","item":"https://visience.ro/fr/tarifs/"}]}]}1a:T1598e,<style>
+19:T948,{"@context":"https://schema.org","@graph":[{"@type":"OfferCatalog","@id":"https://visience.ro/fr/tarifs/#catalog","name":"Services et tarifs Visience","inLanguage":"fr","itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Site d’une page, prêt en 2 jours"}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Landing page de campagne"}},{"@type":"Offer","priceCurrency":"EUR","price":"750","itemOffered":{"@type":"Service","name":"Site vitrine Basic, jusqu'à 6 pages"}},{"@type":"Offer","priceCurrency":"EUR","price":"1200","itemOffered":{"@type":"Service","name":"Site vitrine Standard, 10 pages avec SEO on-page complet"}},{"@type":"Offer","priceCurrency":"EUR","price":"2500","itemOffered":{"@type":"Service","name":"Site vitrine Premium"}},{"@type":"Offer","priceCurrency":"EUR","price":"1000","itemOffered":{"@type":"Service","name":"Boutique en ligne Basic"}},{"@type":"Offer","priceCurrency":"EUR","price":"1800","itemOffered":{"@type":"Service","name":"Boutique en ligne Standard"}},{"@type":"Offer","priceCurrency":"EUR","price":"3500","itemOffered":{"@type":"Service","name":"Boutique en ligne Premium"}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Logo Basic"}},{"@type":"Offer","priceCurrency":"EUR","price":"1200","itemOffered":{"@type":"Service","name":"Identité visuelle complète"}},{"@type":"Offer","priceCurrency":"EUR","price":"2500","itemOffered":{"@type":"Service","name":"Brand book avec logo animé"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Gestion de campagnes, mensuel, quel que soit le nombre de campagnes"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Configuration de campagne et mesure"}},{"@type":"Offer","priceCurrency":"EUR","price":"600","itemOffered":{"@type":"Service","name":"Stratégie SEO complète, mensuel"}},{"@type":"Offer","priceCurrency":"EUR","price":"450","itemOffered":{"@type":"Service","name":"Réseaux sociaux, 15 publications par mois"}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://visience.ro/fr/"},{"@type":"ListItem","position":2,"name":"Tarifs","item":"https://visience.ro/fr/tarifs/"}]}]}1a:T16215,<style>
 .pr-hero {
   position: relative;
   padding: calc(var(--nav-h) + 90px) 0 80px;
@@ -1227,7 +1227,7 @@ f:T2023,<footer class="footer" role="contentinfo">
     <div class="pr-sec__head rv">
       <h2 class="pr-sec__h2" id="site-h2">Combien coûte un <span class="acc">site vitrine ?</span></h2>
       <p class="pr-sec__lead">
-        Nous construisons des sites premium, au design unique et aux fonctionnalités avancées. L’investissement démarre à <strong>1.200€ pour le forfait Standard</strong> et monte à <strong>2.500€+ pour le Website Premium</strong>, avec des forfaits plus accessibles présentés plus bas. S’y ajoutent des coûts uniques pour le domaine (15€) et l’hébergement (85 €/an).
+        Nous construisons des sites au design unique, d’un <strong>site d’une page à 200€</strong>, prêt en 2 jours, jusqu’à <strong>2.500€+ pour le Website Premium</strong>. Le forfait le plus choisi, Standard, coûte <strong>1.200€</strong>. Pour le site d’une page, le domaine et l’hébergement sont inclus la première année ; pour les autres s’ajoutent 15€ de domaine et 85 €/an d’hébergement.
       </p>
     </div>
 
@@ -1235,7 +1235,22 @@ f:T2023,<footer class="footer" role="contentinfo">
       Vous cherchez à créer un <strong>site vitrine professionnel pour votre entreprise</strong> ? Nous réalisons des sites sous <strong>WordPress</strong>, optimisés pour les moteurs de recherche, avec un design personnalisé et un panneau d’administration simple à utiliser. Que vous vouliez une landing page rapide pour tester le marché ou un site complet avec blog, pages de services dédiées et animations interactives, toutes les options sont ci-dessous. <a href="#contact">Demander un devis personnalisé →</a>
     </p>
 
-    <div class="pr-grid rv rv-d1" style="grid-template-columns:repeat(4,1fr);gap:14px">
+    <div class="pr-grid cols-5 rv rv-d1">
+
+      <div class="pr-card compact">
+        <div class="pr-card__name">Site d’une page</div>
+        <div class="pr-card__price">200€</div>
+        <div class="pr-card__price-note">Coût unique · prêt en 2 jours</div>
+        <p class="pr-card__desc">Un site d’une page pour votre entreprise, avec le domaine et l’hébergement inclus la première année.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Design à l’image de votre entreprise</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Textes rédigés par nous</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Formulaire + WhatsApp</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Référencé sur Google</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Domaine + hébergement, première année</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Demander</a>
+      </div>
 
       <div class="pr-card compact">
         <div class="pr-card__name">Landing page de campagne</div>
@@ -1299,7 +1314,7 @@ f:T2023,<footer class="footer" role="contentinfo">
     </div>
 
     <p class="pr-seo-intro rv rv-d2" style="margin-top:36px;text-align:center;font-size:14px">
-      <strong>Website Avancé</strong> — tarif sur demande, selon la complexité du projet. Coûts supplémentaires : <strong>15€</strong> domaine, <strong>85 €/an</strong> hébergement.
+      <strong>Website Avancé</strong> — tarif sur demande, selon la complexité du projet. Coûts supplémentaires : <strong>15€</strong> domaine, <strong>85 €/an</strong> hébergement (inclus la première année pour le site d’une page).
     </p>
 
   </div>
@@ -1475,7 +1490,7 @@ f:T2023,<footer class="footer" role="contentinfo">
       <div class="pr-mini__card"><span class="pr-mini__name">Intégration réseaux sociaux</span><span class="pr-mini__price">100€</span></div>
       <div class="pr-mini__card"><span class="pr-mini__name">Optimisation de la vitesse du site</span><span class="pr-mini__price">à partir de 100€</span></div>
       <div class="pr-mini__card"><span class="pr-mini__name">Backup &amp; migration</span><span class="pr-mini__price">à partir de 100€</span></div>
-      <div class="pr-mini__card"><span class="pr-mini__name">Google Analytics 4 + Search Console</span><span class="pr-mini__price">150€</span></div>
+      <div class="pr-mini__card"><span class="pr-mini__name">Tracking Google Analytics 4 + Search Console</span><span class="pr-mini__price">100€</span></div>
       <div class="pr-mini__card"><span class="pr-mini__name">Pages légales supplémentaires</span><span class="pr-mini__price">50 €/page</span></div>
       <div class="pr-mini__card"><span class="pr-mini__name">Sécurisation du site (SSL, anti-spam)</span><span class="pr-mini__price">150€</span></div>
       <div class="pr-mini__card"><span class="pr-mini__name">Tutoriel vidéo CMS personnalisé</span><span class="pr-mini__price">100€</span></div>
@@ -1628,7 +1643,7 @@ f:T2023,<footer class="footer" role="contentinfo">
     <div class="pr-sec__head rv">
       <h2 class="pr-sec__h2" id="ppc-h2">Combien coûte une <span class="acc">campagne Google Ads ?</span></h2>
       <p class="pr-sec__lead">
-        Gestion des campagnes Google &amp; Meta <strong>400 €/mois par plateforme</strong> (3 mois minimum), mise en place campagne &amp; tracking <strong>400€</strong>, remarketing <strong>600€</strong>, Google Shopping <strong>500€</strong>. Le budget média se paie à part.
+        Gestion des campagnes Google &amp; Meta <strong>200 €/mois</strong>, quel que soit le nombre de campagnes (3 mois minimum), mise en place campagne &amp; tracking <strong>200€</strong> (offerte avec un contrat de 12 mois), remarketing <strong>200€</strong>, automatisations <strong>300€</strong>, Google Shopping <strong>100€</strong>. Le budget média se paie à part.
       </p>
     </div>
 
@@ -1636,27 +1651,28 @@ f:T2023,<footer class="footer" role="contentinfo">
       Vous voulez attirer des clients par <strong>Google Ads, Facebook Ads ou Instagram Ads</strong> ? Nous mettons en place et optimisons des campagnes PPC orientées <strong>leads qualifiés</strong> et <strong>ventes réelles</strong>, avec un focus sur le coût de chaque demande, pas sur des chiffres qui font joli sur le papier. Pour les boutiques en ligne, nous recommandons les campagnes <strong>Google Shopping</strong>, qui affichent les produits directement dans les résultats Google et attirent des acheteurs à forte intention.
     </p>
 
-    <div class="pr-grid cols-4 rv rv-d1">
+    <div class="pr-grid cols-5 rv rv-d1">
 
-      <div class="pr-card">
+      <div class="pr-card compact featured">
+        <span class="pr-card__badge">Un prix par mois</span>
         <div class="pr-card__name">Gestion des campagnes Google &amp; Meta</div>
-        <div class="pr-card__price">400 €<span style="font-size:14px;color:var(--mid)">/mois</span></div>
-        <div class="pr-card__price-note">par plateforme · 3 mois minimum</div>
-        <p class="pr-card__desc">Nous gérons et optimisons vos campagnes Google Ads ou Meta Ads, avec un focus sur les leads et les ventes réelles.</p>
+        <div class="pr-card__price">200 €<span style="font-size:14px;opacity:.7">/mois</span></div>
+        <div class="pr-card__price-note">quel que soit le nombre de campagnes · 3 mois minimum</div>
+        <p class="pr-card__desc">Nous gérons et optimisons vos campagnes Google Ads et Meta Ads, avec un focus sur les leads et les ventes réelles.</p>
         <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Google et Meta, autant de campagnes que nécessaire</span></div>
           <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Optimisation hebdomadaire</span></div>
           <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Créatives + textes des annonces</span></div>
           <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Rapport mensuel de performance</span></div>
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Collaboration de 3 mois minimum</span></div>
           <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Budget média à part, recommandé min. 500 €/mois</span></div>
         </div>
         <a href="#contact" class="pr-card__cta">Demander</a>
       </div>
 
-      <div class="pr-card">
+      <div class="pr-card compact">
         <div class="pr-card__name">Mise en place campagne &amp; tracking</div>
-        <div class="pr-card__price">400€</div>
-        <div class="pr-card__price-note">Coût unique</div>
+        <div class="pr-card__price">200€</div>
+        <div class="pr-card__price-note">Coût unique · offerte avec un contrat de 12 mois</div>
         <p class="pr-card__desc">Nous préparons tout avant la première campagne, pour que chaque euro dépensé soit mesuré correctement.</p>
         <div class="pr-card__feats">
           <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Configuration du compte publicitaire</span></div>
@@ -1667,25 +1683,36 @@ f:T2023,<footer class="footer" role="contentinfo">
         <a href="#contact" class="pr-card__cta">Demander</a>
       </div>
 
-      <div class="pr-card featured">
-        <span class="pr-card__badge">Le plus efficace</span>
-        <div class="pr-card__name">Remarketing &amp; automatisations</div>
-        <div class="pr-card__price">600€</div>
-        <div class="pr-card__price-note">30 heures</div>
+      <div class="pr-card compact">
+        <div class="pr-card__name">Remarketing</div>
+        <div class="pr-card__price">200€</div>
+        <div class="pr-card__price-note">Coût unique</div>
         <p class="pr-card__desc">Récupérez les visiteurs qui sont passés sur le site sans acheter. Le taux de conversion monte.</p>
         <div class="pr-card__feats">
           <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Annonces personnalisées Google + FB</span></div>
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>E-mails automatiques de relance</span></div>
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>E-mails produits abandonnés</span></div>
           <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Ciblage sur l’historique de navigation</span></div>
           <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Optimisation continue</span></div>
         </div>
         <a href="#contact" class="pr-card__cta">Demander</a>
       </div>
 
-      <div class="pr-card">
+      <div class="pr-card compact">
+        <div class="pr-card__name">Automatisations</div>
+        <div class="pr-card__price">300€</div>
+        <div class="pr-card__price-note">par séquence d’e-mails</div>
+        <p class="pr-card__desc">Des e-mails qui partent seuls au bon moment : après une demande, après une visite, après un panier abandonné.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>E-mails automatiques de relance</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>E-mails produits abandonnés</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Déclencheurs automatiques</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Rapport de performance</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Demander</a>
+      </div>
+
+      <div class="pr-card compact">
         <div class="pr-card__name">Google Shopping</div>
-        <div class="pr-card__price">500€</div>
+        <div class="pr-card__price">100€</div>
         <div class="pr-card__price-note">mise en place complète du flux + campagne</div>
         <p class="pr-card__desc">Vos produits affichés directement dans Google. Des acheteurs à forte intention.</p>
         <div class="pr-card__feats">
@@ -1709,7 +1736,7 @@ f:T2023,<footer class="footer" role="contentinfo">
     <div class="pr-sec__head rv">
       <h2 class="pr-sec__h2" id="smm-h2">Combien coûte <span class="acc">la gestion des réseaux sociaux ?</span></h2>
       <p class="pr-sec__lead">
-        Stratégie réseaux sociaux <strong>500€</strong> une seule fois, forfaits de publications à partir de <strong>300 €/mois</strong> et gestion complète <strong>700 €/mois</strong>.
+        Stratégie réseaux sociaux <strong>300€</strong> une seule fois, forfaits de publications à partir de <strong>200 €/mois</strong> et gestion complète <strong>700 €/mois</strong>.
       </p>
     </div>
 
@@ -1721,7 +1748,7 @@ f:T2023,<footer class="footer" role="contentinfo">
 
       <div class="pr-card compact">
         <div class="pr-card__name">Stratégie SMM</div>
-        <div class="pr-card__price">500€</div>
+        <div class="pr-card__price">300€</div>
         <div class="pr-card__price-note">Coût unique</div>
         <p class="pr-card__desc">Analyse complète de l’audience cible, calendrier éditorial sur 12 mois, voix de marque.</p>
         <div class="pr-card__feats">
@@ -1736,7 +1763,7 @@ f:T2023,<footer class="footer" role="contentinfo">
 
       <div class="pr-card compact">
         <div class="pr-card__name">Publications Start</div>
-        <div class="pr-card__price">300 €<span style="font-size:14px;color:var(--mid)">/mois</span></div>
+        <div class="pr-card__price">200 €<span style="font-size:14px;color:var(--mid)">/mois</span></div>
         <div class="pr-card__price-note">8 publications organiques</div>
         <p class="pr-card__desc">Des messages et des visuels personnalisés, adaptés à votre marque.</p>
         <div class="pr-card__feats">
@@ -1792,7 +1819,7 @@ f:T2023,<footer class="footer" role="contentinfo">
     <div class="pr-sec__head rv">
       <h2 class="pr-sec__h2" id="inf-h2">Combien coûte <span class="acc">une étude d’influenceurs ?</span></h2>
       <p class="pr-sec__lead">
-        Liste complète d’influenceurs pertinents, tarifs de collaboration, statistiques d’audience et pertinence — <strong>300€</strong>.
+        Liste complète d’influenceurs pertinents, tarifs de collaboration, statistiques d’audience et pertinence — <strong>100€</strong>.
       </p>
     </div>
 
@@ -1804,7 +1831,7 @@ f:T2023,<footer class="footer" role="contentinfo">
 
       <div class="pr-card">
         <div class="pr-card__name">Étude d’influenceurs</div>
-        <div class="pr-card__price">300€</div>
+        <div class="pr-card__price">100€</div>
         <div class="pr-card__price-note">Rapport complet</div>
         <p class="pr-card__desc">Identification des influenceurs pertinents, avec un rapport détaillé sur les tarifs et les statistiques.</p>
         <div class="pr-card__feats">
@@ -2313,7 +2340,7 @@ f:T2023,<footer class="footer" role="contentinfo">
     <div class="rel-trans">
       <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Aucun tarif caché</span>
       <h2>C’est ça, notre différence.</h2>
-      <p>Visience est une agence de marketing et de web basée à Iași qui publie ses tarifs : 500€ une landing page, à partir de 750€ un site vitrine, à partir de 1.000€ une boutique en ligne, 400€ par mois la gestion des campagnes Google et Meta, à partir de 600€ par mois le SEO. Ce sont les chiffres des devis que nous envoyons, pas un point de départ pour négocier.</p>
+      <p>Visience est une agence de marketing et de web basée à Iași qui publie ses tarifs : 200€ un site d’une page, 500€ une landing page, à partir de 750€ un site vitrine, à partir de 1.000€ une boutique en ligne, 200€ par mois la gestion des campagnes Google et Meta, quel que soit leur nombre, à partir de 600€ par mois le SEO. Ce sont les chiffres des devis que nous envoyons, pas un point de départ pour négocier.</p>
       <a href="/fr/portfolio/" class="rel-trans__link">Voir le portfolio <span aria-hidden="true">→</span></a>
     </div>
     <div class="rel-links">
@@ -2342,5 +2369,5 @@ b:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_
 1b:["$","$L24",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@25"}]}]
 1e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#FFFFFF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#111114","media":"(prefers-color-scheme: dark)"}]]
 26:I[27201,["/_next/static/chunks/39pj0zrlkvrmu.js","/_next/static/chunks/24ag4weogx3og.js"],"IconMark"]
-21:[["$","title","0",{"children":"Tarifs — sites internet, branding, publicité et SEO | Visience"}],["$","meta","1",{"name":"description","content":"Chaque prestation avec son tarif et les heures incluses : sites à partir de 750 €, boutiques à partir de 1.000 €, gestion de campagnes 400 € par mois, SEO 600 € par mois. Rien de caché."}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://visience.ro/fr/tarifs/"}],["$","link","4",{"rel":"alternate","hrefLang":"ro-RO","href":"https://visience.ro/preturi/"}],["$","link","5",{"rel":"alternate","hrefLang":"en","href":"https://visience.ro/en/pricing/"}],["$","link","6",{"rel":"alternate","hrefLang":"fr","href":"https://visience.ro/fr/tarifs/"}],["$","link","7",{"rel":"alternate","hrefLang":"x-default","href":"https://visience.ro/preturi/"}],["$","meta","8",{"property":"og:title","content":"Tarifs — Visience"}],["$","meta","9",{"property":"og:description","content":"Sites à partir de 750 €, boutiques à partir de 1.000 €, gestion de campagnes 400 € par mois, SEO 600 € par mois. Tarifs publiés, heures incluses."}],["$","meta","10",{"property":"og:url","content":"https://visience.ro/fr/tarifs/"}],["$","meta","11",{"property":"og:locale","content":"fr_FR"}],["$","meta","12",{"property":"og:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Agenție Marketing Imobiliar & Creare Site-uri în Iași | Visience"}],["$","meta","16",{"name":"twitter:description","content":"Branding, website-uri, magazine online, Google & Meta Ads, SEO. Prețuri publice, fără costuri ascunse."}],["$","meta","17",{"name":"twitter:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","link","18",{"rel":"icon","href":"/favicon.ico?favicon.04nd99rd6ooix.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","19",{"rel":"icon","href":"/icon.png?icon.3v2r-pcu8x6vx.png","sizes":"192x192","type":"image/png"}],["$","link","20",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2y52blaubq-q-.png","sizes":"180x180","type":"image/png"}],["$","$L26","21",{}]]
+21:[["$","title","0",{"children":"Tarifs — sites internet, branding, publicité et SEO | Visience"}],["$","meta","1",{"name":"description","content":"Chaque prestation avec son tarif et les heures incluses : sites à partir de 200 €, boutiques à partir de 1.000 €, gestion de campagnes 200 € par mois, SEO 600 € par mois. Rien de caché."}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://visience.ro/fr/tarifs/"}],["$","link","4",{"rel":"alternate","hrefLang":"ro-RO","href":"https://visience.ro/preturi/"}],["$","link","5",{"rel":"alternate","hrefLang":"en","href":"https://visience.ro/en/pricing/"}],["$","link","6",{"rel":"alternate","hrefLang":"fr","href":"https://visience.ro/fr/tarifs/"}],["$","link","7",{"rel":"alternate","hrefLang":"x-default","href":"https://visience.ro/preturi/"}],["$","meta","8",{"property":"og:title","content":"Tarifs — Visience"}],["$","meta","9",{"property":"og:description","content":"Sites à partir de 200 €, boutiques à partir de 1.000 €, gestion de campagnes 200 € par mois, SEO 600 € par mois. Tarifs publiés, heures incluses."}],["$","meta","10",{"property":"og:url","content":"https://visience.ro/fr/tarifs/"}],["$","meta","11",{"property":"og:locale","content":"fr_FR"}],["$","meta","12",{"property":"og:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Agenție Marketing Imobiliar & Creare Site-uri în Iași | Visience"}],["$","meta","16",{"name":"twitter:description","content":"Branding, website-uri, magazine online, Google & Meta Ads, SEO. Prețuri publice, fără costuri ascunse."}],["$","meta","17",{"name":"twitter:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","link","18",{"rel":"icon","href":"/favicon.ico?favicon.04nd99rd6ooix.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","19",{"rel":"icon","href":"/icon.png?icon.3v2r-pcu8x6vx.png","sizes":"192x192","type":"image/png"}],["$","link","20",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2y52blaubq-q-.png","sizes":"180x180","type":"image/png"}],["$","$L26","21",{}]]
 25:null

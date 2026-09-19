@@ -33,7 +33,7 @@ a:I[68027,["/_next/static/chunks/39pj0zrlkvrmu.js","/_next/static/chunks/24ag4we
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();0:{"P":null,"c":["","en","google-meta-ads",""],"q":"","i":false,"f":[[["",{"children":["en",{"children":["google-meta-ads",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/39pj0zrlkvrmu.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"_tZBC0u3e-Q1UUfS93yMq"}
+})();0:{"P":null,"c":["","en","google-meta-ads",""],"q":"","i":false,"f":[[["",{"children":["en",{"children":["google-meta-ads",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/39pj0zrlkvrmu.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"6Jd91qwZnM_Q8geo0zee1"}
 d:I[36621,["/_next/static/chunks/39pj0zrlkvrmu.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 17:I[39756,["/_next/static/chunks/39pj0zrlkvrmu.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 18:I[37457,["/_next/static/chunks/39pj0zrlkvrmu.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
@@ -651,7 +651,18 @@ f:T2023,<footer class="footer" role="contentinfo">
 4:["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$c"}}],["$","$Ld",null,{"headerRo":"$e","footerRo":"$f","headerEn":"$10","footerEn":"$11","headerFr":"$12","footerFr":"$13","children":"$L14"}],"$L15","$L16"]}]
 5:["$","$1","c",{"children":[null,["$","$L17",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
 6:["$","$1","c",{"children":[null,["$","$L17",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
-19:Tbc4,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/en/google-meta-ads/#service","name":"Google Ads and Meta Ads management","serviceType":"PPC advertising management","inLanguage":"en","provider":{"@type":"Organization","name":"Visience","url":"https://visience.ro/en/"},"areaServed":["US","RO","IT","FR","DE"],"offers":[{"@type":"Offer","priceCurrency":"USD","price":"460","itemOffered":{"@type":"Service","name":"Campaign management, per platform, monthly"}},{"@type":"Offer","priceCurrency":"USD","price":"460","itemOffered":{"@type":"Service","name":"Campaign and tracking setup, one-off"}},{"@type":"Offer","priceCurrency":"USD","price":"700","itemOffered":{"@type":"Service","name":"Remarketing and automation"}},{"@type":"Offer","priceCurrency":"USD","price":"600","itemOffered":{"@type":"Service","name":"Google Shopping management"}}]},{"@type":"FAQPage","@id":"https://visience.ro/en/google-meta-ads/#faq","mainEntity":[{"@type":"Question","name":"What is the minimum advertising budget?","acceptedAnswer":{"@type":"Answer","text":"The media budget is paid straight to Google and Meta, outside the management fee. We recommend at least $600 a month per platform as a starting point, with $930 to $1,740 a month working best for steady results."}},{"@type":"Question","name":"Does the management fee include the ad budget?","acceptedAnswer":{"@type":"Answer","text":"No. The $460 a month per platform management fee and the one-off $460 setup cover strategy, creative, implementation, optimisation and reporting. The advertising budget is paid straight to Google and Meta from the client's own account."}},{"@type":"Question","name":"Which platforms do you run campaigns on?","acceptedAnswer":{"@type":"Answer","text":"Google Ads across Search, Display, Shopping and YouTube, plus Facebook Ads and Instagram Ads. The combination depends on where the customers actually are."}},{"@type":"Question","name":"How long until the first results?","acceptedAnswer":{"@type":"Answer","text":"The first clicks and leads can arrive within a few days. The first 2 to 3 weeks are a learning period, and stable results with a settled cost per lead usually come after 4 to 6 weeks."}},{"@type":"Question","name":"Do you work with online stores?","acceptedAnswer":{"@type":"Answer","text":"Yes. We set up Google Shopping with Merchant Center, product feed optimisation, Smart or Standard Shopping campaigns, and combine it with remarketing and abandoned-cart email."}},{"@type":"Question","name":"How do you report performance?","acceptedAnswer":{"@type":"Answer","text":"A clear monthly report with impressions, clicks, cost per click, leads or sales and cost per lead, plus what was optimised and what is proposed for the month ahead."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visience.ro/en/"},{"@type":"ListItem","position":2,"name":"Google & Meta Ads","item":"https://visience.ro/en/google-meta-ads/"}]}]}1a:T97b7,<style>
+19:Tc92,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/en/google-meta-ads/#service","name":"Google Ads and Meta Ads management","serviceType":"PPC advertising management","inLanguage":"en","provider":{"@type":"Organization","name":"Visience","url":"https://visience.ro/en/"},"areaServed":["US","RO","IT","FR","DE"],"offers":[{"@type":"Offer","priceCurrency":"USD","price":"230","itemOffered":{"@type":"Service","name":"Campaign management, monthly, any number of campaigns"}},{"@type":"Offer","priceCurrency":"USD","price":"230","itemOffered":{"@type":"Service","name":"Campaign and tracking setup, one-off, free on a 12-month contract"}},{"@type":"Offer","priceCurrency":"USD","price":"230","itemOffered":{"@type":"Service","name":"Remarketing setup"}},{"@type":"Offer","priceCurrency":"USD","price":"350","itemOffered":{"@type":"Service","name":"Email automation, per sequence"}},{"@type":"Offer","priceCurrency":"USD","price":"120","itemOffered":{"@type":"Service","name":"Google Shopping setup"}}]},{"@type":"FAQPage","@id":"https://visience.ro/en/google-meta-ads/#faq","mainEntity":[{"@type":"Question","name":"What is the minimum advertising budget?","acceptedAnswer":{"@type":"Answer","text":"The media budget is paid straight to Google and Meta, outside the management fee. We recommend at least $600 a month per platform as a starting point, with $930 to $1,740 a month working best for steady results."}},{"@type":"Question","name":"Does the management fee include the ad budget?","acceptedAnswer":{"@type":"Answer","text":"No. The $230 a month management fee, whatever the number of campaigns, and the one-off $230 setup (free on a 12-month contract) cover strategy, creative, implementation, optimisation and reporting. The advertising budget is paid straight to Google and Meta from the client's own account."}},{"@type":"Question","name":"Which platforms do you run campaigns on?","acceptedAnswer":{"@type":"Answer","text":"Google Ads across Search, Display, Shopping and YouTube, plus Facebook Ads and Instagram Ads. The combination depends on where the customers actually are."}},{"@type":"Question","name":"How long until the first results?","acceptedAnswer":{"@type":"Answer","text":"The first clicks and leads can arrive within a few days. The first 2 to 3 weeks are a learning period, and stable results with a settled cost per lead usually come after 4 to 6 weeks."}},{"@type":"Question","name":"Do you work with online stores?","acceptedAnswer":{"@type":"Answer","text":"Yes. We set up Google Shopping with Merchant Center, product feed optimisation, Smart or Standard Shopping campaigns, and combine it with remarketing and abandoned-cart email."}},{"@type":"Question","name":"How do you report performance?","acceptedAnswer":{"@type":"Answer","text":"A clear monthly report with impressions, clicks, cost per click, leads or sales and cost per lead, plus what was optimised and what is proposed for the month ahead."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visience.ro/en/"},{"@type":"ListItem","position":2,"name":"Google & Meta Ads","item":"https://visience.ro/en/google-meta-ads/"}]}]}7:["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$19"}}],"$L1a"],null,"$L1b"]}]
+1c:[]
+8:"$W1c"
+9:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":"$L1e"}],["$","div",null,{"hidden":true,"children":["$","$L1f",null,{"children":["$","$20",null,{"name":"Next.Metadata","children":"$L21"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+b:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+22:I[27961,["/_next/static/chunks/39pj0zrlkvrmu.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
+23:I[11015,["/_next/static/chunks/39pj0zrlkvrmu.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
+25:I[97367,["/_next/static/chunks/39pj0zrlkvrmu.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+14:["$","$L17",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
+15:["$","$L22",null,{}]
+16:["$","$L23",null,{}]
+24:T9a56,<style>
 .ads-hero {
   position: relative;
   padding: calc(var(--nav-h) + 90px) 0 90px;
@@ -1527,68 +1538,64 @@ f:T2023,<footer class="footer" role="contentinfo">
         Campaign management prices —<br><span class="acc">clear, with no surprises</span>
       </h2>
       <p class="ads-prices__sub">
-        The prices below are for managing the campaigns. The budget paid to the platforms (Google / Meta) is separate. You get a quote for your case within 24 hours.
+        One monthly price for management, however many campaigns you run, plus setups paid once. The budget paid to the platforms (Google / Meta) is separate. You get a quote for your case within 24 hours.
       </p>
     </div>
 
     <div class="ads-pkg-grid">
 
       <div class="ads-pkg featured rv">
-        <span class="ads-pkg__badge">Recommended</span>
-        <div class="ads-pkg__name">Remarketing &amp; automation</div>
-        <div class="ads-pkg__price">$700</div>
-        <div class="ads-pkg__price-note">Campaign management</div>
+        <span class="ads-pkg__badge">One price a month</span>
+        <div class="ads-pkg__name">Google &amp; Meta campaign management</div>
+        <div class="ads-pkg__price">$230</div>
+        <div class="ads-pkg__price-note">Per month, any number of campaigns · 3 months minimum</div>
         <p class="ads-pkg__desc">
-          Bring back the visitors who did not buy and lift the conversion rate with tailored ads and automated email. The best return for what you put in.
+          We take your campaigns on Google Ads and Meta completely: strategy, creative, optimisation and reporting. The media budget is paid separately, straight to the platforms.
         </p>
         <div class="ads-pkg__feats">
-          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Tailored ads on Google + Facebook</span></div>
-          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Automated follow-up email</span></div>
-          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Abandoned cart email</span></div>
-          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Targeting on browsing history</span></div>
-          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Ongoing optimisation</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Google and Meta, any number of campaigns</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Campaign strategy and structure</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Creative included (visual + copy)</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Weekly optimisation of bids and audiences</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Monthly report with cost per lead and enquiry source</span></div>
         </div>
         <a href="/en/contact/" class="btn btn-solid" style="justify-content:center">Ask for a quote</a>
       </div>
 
       <div class="ads-pkg rv rv-d1">
-        <div class="ads-pkg__name">Google Shopping</div>
-        <div class="ads-pkg__price">$600</div>
-        <div class="ads-pkg__price-note">Campaign management</div>
+        <div class="ads-pkg__name">Remarketing</div>
+        <div class="ads-pkg__price">$230</div>
+        <div class="ads-pkg__price-note">One-off setup</div>
         <p class="ads-pkg__desc">
-          For online stores: we put your products straight into Google, in front of people with real buying intent.
+          Bring back the visitors who did not buy, with tailored ads on Google and Facebook.
         </p>
         <div class="ads-pkg__feats">
-          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Google Merchant Center setup</span></div>
-          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Product feed optimisation</span></div>
-          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Smart or Standard Shopping</span></div>
-          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Bidding strategy tuned for profit</span></div>
-          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Monthly monitoring &amp; optimisation</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Tailored ads on Google + Facebook</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Targeting on browsing history</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Ongoing optimisation</span></div>
         </div>
         <a href="/en/contact/" class="btn btn-ghost" style="justify-content:center">Ask for a quote</a>
       </div>
 
       <div class="ads-pkg rv rv-d2">
-        <div class="ads-pkg__name">Google &amp; Meta campaign management</div>
-        <div class="ads-pkg__price">$600</div>
-        <div class="ads-pkg__price-note">Per month, per platform · 3 months minimum</div>
+        <div class="ads-pkg__name">Automation</div>
+        <div class="ads-pkg__price">$350</div>
+        <div class="ads-pkg__price-note">Per email sequence</div>
         <p class="ads-pkg__desc">
-          We take your campaigns on Google Ads or Meta completely: strategy, creative, optimisation and reporting. The media budget is paid separately, straight to the platforms.
+          Emails that go out on their own at the right moment, so someone who left an enquiry or a cart does not forget you.
         </p>
         <div class="ads-pkg__feats">
-          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Campaign strategy and structure</span></div>
-          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Creative included (visual + copy)</span></div>
-          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Weekly optimisation of bids and audiences</span></div>
-          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Monthly report with cost per lead and enquiry source</span></div>
-          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>3-month minimum engagement</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Automated follow-up email</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Abandoned cart email</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Triggered by what people do on the site</span></div>
         </div>
         <a href="/en/contact/" class="btn btn-ghost" style="justify-content:center">Ask for a quote</a>
       </div>
 
       <div class="ads-pkg rv rv-d2" style="grid-column:1/-1">
         <div class="ads-pkg__name">Campaign &amp; tracking setup</div>
-        <div class="ads-pkg__price">$460</div>
-        <div class="ads-pkg__price-note">One-off, at the start of the engagement</div>
+        <div class="ads-pkg__price">$230</div>
+        <div class="ads-pkg__price-note">One-off, at the start of the engagement · free on a 12-month contract</div>
         <p class="ads-pkg__desc" style="border-bottom:none;padding-bottom:0;margin-bottom:18px">
           The technical footing under every campaign: we configure the accounts, install the pixels and define the conversions, so every dollar spent is measured properly.
         </p>
@@ -1597,6 +1604,21 @@ f:T2023,<footer class="footer" role="contentinfo">
           <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Google Tag &amp; Meta Pixel installed</span></div>
           <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Conversions configured</span></div>
           <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>GA4 integration</span></div>
+        </div>
+      </div>
+
+      <div class="ads-pkg rv rv-d2" style="grid-column:1/-1">
+        <div class="ads-pkg__name">Google Shopping</div>
+        <div class="ads-pkg__price">$120</div>
+        <div class="ads-pkg__price-note">One-off, feed + campaign setup</div>
+        <p class="ads-pkg__desc" style="border-bottom:none;padding-bottom:0;margin-bottom:18px">
+          For online stores: we put your products straight into Google, in front of people with real buying intent.
+        </p>
+        <div class="ads-pkg__feats" style="flex-direction:row;flex-wrap:wrap;gap:10px 28px;margin-bottom:0">
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Google Merchant Center setup</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Product feed optimisation</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Smart or Standard Shopping</span></div>
+          <div class="ads-pkg__feat"><span class="ads-pkg__feat-tick">✓</span><span>Bidding strategy tuned for profit</span></div>
         </div>
       </div>
 
@@ -1660,7 +1682,7 @@ f:T2023,<footer class="footer" role="contentinfo">
 
       <details class="ads-faq-item">
         <summary>Does the management fee include the ad budget?</summary>
-        <p><strong>No.</strong> The management fee (<strong>$460 a month per platform</strong>) and the one-off setup (<strong>$460</strong>) cover the strategy, the ad creative, the implementation, the optimisation and the reporting. The <strong>advertising budget</strong> — the money actually spent on ads — is paid straight to Google and Meta from your own account and is completely separate from what you pay us. That way you keep full control of the media budget and can see exactly where it goes.</p>
+        <p><strong>No.</strong> The management fee (<strong>$230 a month, however many campaigns</strong>) and the one-off setup (<strong>$230</strong>, free on a 12-month contract) cover the strategy, the ad creative, the implementation, the optimisation and the reporting. The <strong>advertising budget</strong> — the money actually spent on ads — is paid straight to Google and Meta from your own account and is completely separate from what you pay us. That way you keep full control of the media budget and can see exactly where it goes.</p>
       </details>
 
       <details class="ads-faq-item">
@@ -1727,19 +1749,9 @@ f:T2023,<footer class="footer" role="contentinfo">
   </div>
 </section>
 </main>
-7:["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$19"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$1a"}}]],null,"$L1b"]}]
-1c:[]
-8:"$W1c"
-9:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":"$L1e"}],["$","div",null,{"hidden":true,"children":["$","$L1f",null,{"children":["$","$20",null,{"name":"Next.Metadata","children":"$L21"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
-b:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
-22:I[27961,["/_next/static/chunks/39pj0zrlkvrmu.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
-23:I[11015,["/_next/static/chunks/39pj0zrlkvrmu.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
-24:I[97367,["/_next/static/chunks/39pj0zrlkvrmu.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
-14:["$","$L17",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
-15:["$","$L22",null,{}]
-16:["$","$L23",null,{}]
-1b:["$","$L24",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@25"}]}]
+1a:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$24"}}]
+1b:["$","$L25",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@26"}]}]
 1e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#FFFFFF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#111114","media":"(prefers-color-scheme: dark)"}]]
-26:I[27201,["/_next/static/chunks/39pj0zrlkvrmu.js","/_next/static/chunks/24ag4weogx3og.js"],"IconMark"]
-21:[["$","title","0",{"children":"Google & Meta Ads Management — $600 a Month per Platform | Visience"}],["$","meta","1",{"name":"description","content":"Google Ads, Facebook and Instagram campaigns run to cost per enquiry. Management $460 a month per platform, setup $460, remarketing $700. The ad budget stays yours, paid straight to the platforms."}],["$","link","2",{"rel":"canonical","href":"https://visience.ro/en/google-meta-ads/"}],["$","link","3",{"rel":"alternate","hrefLang":"ro-RO","href":"https://visience.ro/google-meta-ads/"}],["$","link","4",{"rel":"alternate","hrefLang":"en","href":"https://visience.ro/en/google-meta-ads/"}],["$","link","5",{"rel":"alternate","hrefLang":"fr","href":"https://visience.ro/fr/google-meta-ads/"}],["$","link","6",{"rel":"alternate","hrefLang":"x-default","href":"https://visience.ro/google-meta-ads/"}],["$","meta","7",{"property":"og:title","content":"Campaigns that bring customers, not just clicks — Visience"}],["$","meta","8",{"property":"og:description","content":"Google Ads and Meta Ads managed to cost per enquiry. $460 a month per platform, ad budget separate."}],["$","meta","9",{"property":"og:url","content":"https://visience.ro/en/google-meta-ads/"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","meta","12",{"property":"og:type","content":"website"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Agenție Marketing Imobiliar & Creare Site-uri în Iași | Visience"}],["$","meta","15",{"name":"twitter:description","content":"Branding, website-uri, magazine online, Google & Meta Ads, SEO. Prețuri publice, fără costuri ascunse."}],["$","meta","16",{"name":"twitter:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","link","17",{"rel":"icon","href":"/favicon.ico?favicon.04nd99rd6ooix.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","18",{"rel":"icon","href":"/icon.png?icon.3v2r-pcu8x6vx.png","sizes":"192x192","type":"image/png"}],["$","link","19",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2y52blaubq-q-.png","sizes":"180x180","type":"image/png"}],["$","$L26","20",{}]]
-25:null
+27:I[27201,["/_next/static/chunks/39pj0zrlkvrmu.js","/_next/static/chunks/24ag4weogx3og.js"],"IconMark"]
+21:[["$","title","0",{"children":"Google & Meta Ads Management — $230 a Month | Visience"}],["$","meta","1",{"name":"description","content":"Google Ads, Facebook and Instagram campaigns run to cost per enquiry. Management $230 a month for any number of campaigns, setup $230, remarketing $230. The ad budget stays yours, paid straight to the platforms."}],["$","link","2",{"rel":"canonical","href":"https://visience.ro/en/google-meta-ads/"}],["$","link","3",{"rel":"alternate","hrefLang":"ro-RO","href":"https://visience.ro/google-meta-ads/"}],["$","link","4",{"rel":"alternate","hrefLang":"en","href":"https://visience.ro/en/google-meta-ads/"}],["$","link","5",{"rel":"alternate","hrefLang":"fr","href":"https://visience.ro/fr/google-meta-ads/"}],["$","link","6",{"rel":"alternate","hrefLang":"x-default","href":"https://visience.ro/google-meta-ads/"}],["$","meta","7",{"property":"og:title","content":"Campaigns that bring customers, not just clicks — Visience"}],["$","meta","8",{"property":"og:description","content":"Google Ads and Meta Ads managed to cost per enquiry. $230 a month, any number of campaigns, ad budget separate."}],["$","meta","9",{"property":"og:url","content":"https://visience.ro/en/google-meta-ads/"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","meta","12",{"property":"og:type","content":"website"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Agenție Marketing Imobiliar & Creare Site-uri în Iași | Visience"}],["$","meta","15",{"name":"twitter:description","content":"Branding, website-uri, magazine online, Google & Meta Ads, SEO. Prețuri publice, fără costuri ascunse."}],["$","meta","16",{"name":"twitter:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","link","17",{"rel":"icon","href":"/favicon.ico?favicon.04nd99rd6ooix.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","18",{"rel":"icon","href":"/icon.png?icon.3v2r-pcu8x6vx.png","sizes":"192x192","type":"image/png"}],["$","link","19",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2y52blaubq-q-.png","sizes":"180x180","type":"image/png"}],["$","$L27","20",{}]]
+26:null

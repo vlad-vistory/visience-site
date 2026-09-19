@@ -33,7 +33,7 @@ a:I[68027,["/_next/static/chunks/39pj0zrlkvrmu.js","/_next/static/chunks/24ag4we
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();0:{"P":null,"c":["","en","pricing",""],"q":"","i":false,"f":[[["",{"children":["en",{"children":["pricing",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/39pj0zrlkvrmu.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"_tZBC0u3e-Q1UUfS93yMq"}
+})();0:{"P":null,"c":["","en","pricing",""],"q":"","i":false,"f":[[["",{"children":["en",{"children":["pricing",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/39pj0zrlkvrmu.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"6Jd91qwZnM_Q8geo0zee1"}
 d:I[36621,["/_next/static/chunks/39pj0zrlkvrmu.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 17:I[39756,["/_next/static/chunks/39pj0zrlkvrmu.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 18:I[37457,["/_next/static/chunks/39pj0zrlkvrmu.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
@@ -651,7 +651,7 @@ f:T2023,<footer class="footer" role="contentinfo">
 4:["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$c"}}],["$","$Ld",null,{"headerRo":"$e","footerRo":"$f","headerEn":"$10","footerEn":"$11","headerFr":"$12","footerFr":"$13","children":"$L14"}],"$L15","$L16"]}]
 5:["$","$1","c",{"children":[null,["$","$L17",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
 6:["$","$1","c",{"children":[null,["$","$L17",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
-19:T863,{"@context":"https://schema.org","@graph":[{"@type":"OfferCatalog","@id":"https://visience.ro/en/pricing/#catalog","name":"Visience services and prices","inLanguage":"en","itemListElement":[{"@type":"Offer","priceCurrency":"USD","price":"600","itemOffered":{"@type":"Service","name":"Campaign landing page"}},{"@type":"Offer","priceCurrency":"USD","price":"870","itemOffered":{"@type":"Service","name":"Website Basic, up to 6 pages"}},{"@type":"Offer","priceCurrency":"USD","price":"1400","itemOffered":{"@type":"Service","name":"Website Standard, 10 pages with full on-page SEO"}},{"@type":"Offer","priceCurrency":"USD","price":"2900","itemOffered":{"@type":"Service","name":"Website Premium"}},{"@type":"Offer","priceCurrency":"USD","price":"1160","itemOffered":{"@type":"Service","name":"Online store Basic"}},{"@type":"Offer","priceCurrency":"USD","price":"2100","itemOffered":{"@type":"Service","name":"Online store Standard"}},{"@type":"Offer","priceCurrency":"USD","price":"4060","itemOffered":{"@type":"Service","name":"Online store Premium"}},{"@type":"Offer","priceCurrency":"USD","price":"600","itemOffered":{"@type":"Service","name":"Logo Basic"}},{"@type":"Offer","priceCurrency":"USD","price":"1400","itemOffered":{"@type":"Service","name":"Full visual identity"}},{"@type":"Offer","priceCurrency":"USD","price":"2900","itemOffered":{"@type":"Service","name":"Brand book with animated logo"}},{"@type":"Offer","priceCurrency":"USD","price":"460","itemOffered":{"@type":"Service","name":"Campaign management, per platform, monthly"}},{"@type":"Offer","priceCurrency":"USD","price":"460","itemOffered":{"@type":"Service","name":"Campaign and tracking setup"}},{"@type":"Offer","priceCurrency":"USD","price":"700","itemOffered":{"@type":"Service","name":"Full SEO strategy, monthly"}},{"@type":"Offer","priceCurrency":"USD","price":"520","itemOffered":{"@type":"Service","name":"Social media, 15 posts monthly"}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visience.ro/en/"},{"@type":"ListItem","position":2,"name":"Pricing","item":"https://visience.ro/en/pricing/"}]}]}1a:T1487f,<style>
+19:T8f1,{"@context":"https://schema.org","@graph":[{"@type":"OfferCatalog","@id":"https://visience.ro/en/pricing/#catalog","name":"Visience services and prices","inLanguage":"en","itemListElement":[{"@type":"Offer","priceCurrency":"USD","price":"230","itemOffered":{"@type":"Service","name":"One-page website, ready in 2 days"}},{"@type":"Offer","priceCurrency":"USD","price":"600","itemOffered":{"@type":"Service","name":"Campaign landing page"}},{"@type":"Offer","priceCurrency":"USD","price":"870","itemOffered":{"@type":"Service","name":"Website Basic, up to 6 pages"}},{"@type":"Offer","priceCurrency":"USD","price":"1400","itemOffered":{"@type":"Service","name":"Website Standard, 10 pages with full on-page SEO"}},{"@type":"Offer","priceCurrency":"USD","price":"2900","itemOffered":{"@type":"Service","name":"Website Premium"}},{"@type":"Offer","priceCurrency":"USD","price":"1160","itemOffered":{"@type":"Service","name":"Online store Basic"}},{"@type":"Offer","priceCurrency":"USD","price":"2100","itemOffered":{"@type":"Service","name":"Online store Standard"}},{"@type":"Offer","priceCurrency":"USD","price":"4060","itemOffered":{"@type":"Service","name":"Online store Premium"}},{"@type":"Offer","priceCurrency":"USD","price":"600","itemOffered":{"@type":"Service","name":"Logo Basic"}},{"@type":"Offer","priceCurrency":"USD","price":"1400","itemOffered":{"@type":"Service","name":"Full visual identity"}},{"@type":"Offer","priceCurrency":"USD","price":"2900","itemOffered":{"@type":"Service","name":"Brand book with animated logo"}},{"@type":"Offer","priceCurrency":"USD","price":"230","itemOffered":{"@type":"Service","name":"Campaign management, monthly, any number of campaigns"}},{"@type":"Offer","priceCurrency":"USD","price":"230","itemOffered":{"@type":"Service","name":"Campaign and tracking setup"}},{"@type":"Offer","priceCurrency":"USD","price":"700","itemOffered":{"@type":"Service","name":"Full SEO strategy, monthly"}},{"@type":"Offer","priceCurrency":"USD","price":"520","itemOffered":{"@type":"Service","name":"Social media, 15 posts monthly"}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visience.ro/en/"},{"@type":"ListItem","position":2,"name":"Pricing","item":"https://visience.ro/en/pricing/"}]}]}1a:T1508a,<style>
 .pr-hero {
   position: relative;
   padding: calc(var(--nav-h) + 90px) 0 80px;
@@ -1227,7 +1227,7 @@ f:T2023,<footer class="footer" role="contentinfo">
     <div class="pr-sec__head rv">
       <h2 class="pr-sec__h2" id="site-h2">What does a <span class="acc">business website</span> cost?</h2>
       <p class="pr-sec__lead">
-        We build premium websites with an original design and the features to match. The investment starts at <strong>$1,400 for the Standard package</strong> and reaches <strong>$2,900+ for a Premium website</strong>, with more affordable packages below. Plus one-off costs for the domain ($15) and hosting ($100 a year).
+        We build websites with an original design, from a <strong>one-page website at $230</strong>, ready in 2 days, up to <strong>$2,900+ for a Premium website</strong>. The package most people choose, Standard, is <strong>$1,400</strong>. On the one-page website the domain and hosting are included for the first year; on the others the domain adds $15 and hosting $100 a year.
       </p>
     </div>
 
@@ -1235,7 +1235,22 @@ f:T2023,<footer class="footer" role="contentinfo">
       Looking to build <strong>a professional website for your company</strong>? We build on <strong>WordPress</strong>, ready for search engines, with a design made for you and an admin panel that is easy to use. Whether you want a quick landing page to test the market or a full website with a blog, dedicated service pages and interactive animation, every option is below. <a href="#contact">Ask for a quote →</a>
     </p>
 
-    <div class="pr-grid rv rv-d1" style="grid-template-columns:repeat(4,1fr);gap:14px">
+    <div class="pr-grid cols-5 rv rv-d1">
+
+      <div class="pr-card compact">
+        <div class="pr-card__name">One-page website</div>
+        <div class="pr-card__price">$230</div>
+        <div class="pr-card__price-note">One-off · ready in 2 days</div>
+        <p class="pr-card__desc">A one-page website for your business, with the domain and hosting included for the first year.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Designed around your business</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Copy written by us</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Form + WhatsApp</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Set up on Google</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Domain + hosting, first year</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Request</a>
+      </div>
 
       <div class="pr-card compact">
         <div class="pr-card__name">Campaign landing page</div>
@@ -1299,7 +1314,7 @@ f:T2023,<footer class="footer" role="contentinfo">
     </div>
 
     <p class="pr-seo-intro rv rv-d2" style="margin-top:36px;text-align:center;font-size:14px">
-      <strong>Website Advanced</strong> — priced on request, depending on how complex the project is. Additional costs: <strong>$15</strong> domain, <strong>$100 a year</strong> hosting.
+      <strong>Website Advanced</strong> — priced on request, depending on how complex the project is. Additional costs: <strong>$15</strong> domain, <strong>$100 a year</strong> hosting (included for the first year on the one-page website).
     </p>
 
   </div>
@@ -1475,7 +1490,7 @@ f:T2023,<footer class="footer" role="contentinfo">
       <div class="pr-mini__card"><span class="pr-mini__name">Social media integration</span><span class="pr-mini__price">$120</span></div>
       <div class="pr-mini__card"><span class="pr-mini__name">Website speed optimisation</span><span class="pr-mini__price">from $120</span></div>
       <div class="pr-mini__card"><span class="pr-mini__name">Backup &amp; migration</span><span class="pr-mini__price">from $120</span></div>
-      <div class="pr-mini__card"><span class="pr-mini__name">Google Analytics 4 + Search Console</span><span class="pr-mini__price">$170</span></div>
+      <div class="pr-mini__card"><span class="pr-mini__name">Google Analytics 4 + Search Console tracking</span><span class="pr-mini__price">$120</span></div>
       <div class="pr-mini__card"><span class="pr-mini__name">Extra legal pages</span><span class="pr-mini__price">$60/page</span></div>
       <div class="pr-mini__card"><span class="pr-mini__name">Website security (SSL, anti-spam)</span><span class="pr-mini__price">$170</span></div>
       <div class="pr-mini__card"><span class="pr-mini__name">Custom CMS video tutorial</span><span class="pr-mini__price">$120</span></div>
@@ -1628,7 +1643,7 @@ f:T2023,<footer class="footer" role="contentinfo">
     <div class="pr-sec__head rv">
       <h2 class="pr-sec__h2" id="ppc-h2">What does a <span class="acc">Google Ads campaign</span> cost?</h2>
       <p class="pr-sec__lead">
-        Google &amp; Meta campaign management <strong>$460 a month per platform</strong> (3 months minimum), campaign &amp; tracking setup <strong>$460</strong>, remarketing <strong>$700</strong>, Google Shopping <strong>$600</strong>. The media budget is paid separately.
+        Google &amp; Meta campaign management <strong>$230 a month</strong>, any number of campaigns (3 months minimum), campaign &amp; tracking setup <strong>$230</strong> (free on a 12-month contract), remarketing <strong>$230</strong>, automation <strong>$350</strong>, Google Shopping <strong>$120</strong>. The media budget is paid separately.
       </p>
     </div>
 
@@ -1636,27 +1651,28 @@ f:T2023,<footer class="footer" role="contentinfo">
       Want to bring in customers through <strong>Google Ads, Facebook Ads or Instagram Ads</strong>? We set up and tune PPC campaigns aimed at <strong>qualified leads</strong> and <strong>real sales</strong>, focused on what each enquiry costs rather than on numbers that look good on paper. For online stores we recommend <strong>Google Shopping</strong> campaigns, which put your products straight into the Google results in front of people ready to buy.
     </p>
 
-    <div class="pr-grid cols-4 rv rv-d1">
+    <div class="pr-grid cols-5 rv rv-d1">
 
-      <div class="pr-card">
+      <div class="pr-card compact featured">
+        <span class="pr-card__badge">One price a month</span>
         <div class="pr-card__name">Google &amp; Meta campaign management</div>
-        <div class="pr-card__price">$460<span style="font-size:14px;color:var(--mid)">/mo</span></div>
-        <div class="pr-card__price-note">per platform · 3 months minimum</div>
-        <p class="pr-card__desc">We run and tune your Google Ads or Meta Ads campaigns, focused on leads and real sales.</p>
+        <div class="pr-card__price">$230<span style="font-size:14px;opacity:.7">/mo</span></div>
+        <div class="pr-card__price-note">any number of campaigns · 3 months minimum</div>
+        <p class="pr-card__desc">We run and tune your Google Ads and Meta Ads campaigns, focused on leads and real sales.</p>
         <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Google and Meta, any number of campaigns</span></div>
           <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Weekly optimisation</span></div>
           <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Creative + ad copy</span></div>
           <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Monthly performance report</span></div>
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>3-month minimum engagement</span></div>
           <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Media budget separate, min. $600 a month recommended</span></div>
         </div>
         <a href="#contact" class="pr-card__cta">Request</a>
       </div>
 
-      <div class="pr-card">
+      <div class="pr-card compact">
         <div class="pr-card__name">Campaign &amp; tracking setup</div>
-        <div class="pr-card__price">$460</div>
-        <div class="pr-card__price-note">One-off cost</div>
+        <div class="pr-card__price">$230</div>
+        <div class="pr-card__price-note">One-off · free on a 12-month contract</div>
         <p class="pr-card__desc">We put everything in place before the first campaign, so every dollar spent is measured properly.</p>
         <div class="pr-card__feats">
           <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Ad account set up</span></div>
@@ -1667,25 +1683,36 @@ f:T2023,<footer class="footer" role="contentinfo">
         <a href="#contact" class="pr-card__cta">Request</a>
       </div>
 
-      <div class="pr-card featured">
-        <span class="pr-card__badge">Best value</span>
-        <div class="pr-card__name">Remarketing &amp; automation</div>
-        <div class="pr-card__price">$700</div>
-        <div class="pr-card__price-note">30 hours</div>
+      <div class="pr-card compact">
+        <div class="pr-card__name">Remarketing</div>
+        <div class="pr-card__price">$230</div>
+        <div class="pr-card__price-note">One-off cost</div>
         <p class="pr-card__desc">Bring back the people who visited the site and did not buy. Lifts the conversion rate.</p>
         <div class="pr-card__feats">
           <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Tailored ads on Google + Facebook</span></div>
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Automated follow-up email</span></div>
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Abandoned product email</span></div>
           <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Targeting on browsing history</span></div>
           <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Ongoing optimisation</span></div>
         </div>
         <a href="#contact" class="pr-card__cta">Request</a>
       </div>
 
-      <div class="pr-card">
+      <div class="pr-card compact">
+        <div class="pr-card__name">Automation</div>
+        <div class="pr-card__price">$350</div>
+        <div class="pr-card__price-note">per email sequence</div>
+        <p class="pr-card__desc">Emails that go out on their own at the right moment: after an enquiry, after a visit, after an abandoned cart.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Automated follow-up email</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Abandoned product email</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Automatic triggers</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Performance reporting</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Request</a>
+      </div>
+
+      <div class="pr-card compact">
         <div class="pr-card__name">Google Shopping</div>
-        <div class="pr-card__price">$600</div>
+        <div class="pr-card__price">$120</div>
         <div class="pr-card__price-note">full feed + campaign setup</div>
         <p class="pr-card__desc">Your products shown straight in Google. Customers with real buying intent.</p>
         <div class="pr-card__feats">
@@ -1709,7 +1736,7 @@ f:T2023,<footer class="footer" role="contentinfo">
     <div class="pr-sec__head rv">
       <h2 class="pr-sec__h2" id="smm-h2">What does <span class="acc">running your social accounts</span> cost?</h2>
       <p class="pr-sec__lead">
-        A one-off social media strategy <strong>$600</strong>, posting packages from <strong>$350 a month</strong> and full management <strong>$810 a month</strong>.
+        A one-off social media strategy <strong>$350</strong>, posting packages from <strong>$230 a month</strong> and full management <strong>$810 a month</strong>.
       </p>
     </div>
 
@@ -1721,7 +1748,7 @@ f:T2023,<footer class="footer" role="contentinfo">
 
       <div class="pr-card compact">
         <div class="pr-card__name">Social media strategy</div>
-        <div class="pr-card__price">$600</div>
+        <div class="pr-card__price">$350</div>
         <div class="pr-card__price-note">One-off cost</div>
         <p class="pr-card__desc">A full audience analysis, a 12-month content calendar, the brand voice.</p>
         <div class="pr-card__feats">
@@ -1736,7 +1763,7 @@ f:T2023,<footer class="footer" role="contentinfo">
 
       <div class="pr-card compact">
         <div class="pr-card__name">Posts Start</div>
-        <div class="pr-card__price">$350<span style="font-size:14px;color:var(--mid)">/mo</span></div>
+        <div class="pr-card__price">$230<span style="font-size:14px;color:var(--mid)">/mo</span></div>
         <div class="pr-card__price-note">8 organic posts</div>
         <p class="pr-card__desc">Messages and designs made for your brand.</p>
         <div class="pr-card__feats">
@@ -1792,7 +1819,7 @@ f:T2023,<footer class="footer" role="contentinfo">
     <div class="pr-sec__head rv">
       <h2 class="pr-sec__h2" id="inf-h2">What does <span class="acc">influencer research</span> cost?</h2>
       <p class="pr-sec__lead">
-        A complete list of relevant influencers, collaboration rates, audience statistics and how well they fit — <strong>$350</strong>.
+        A complete list of relevant influencers, collaboration rates, audience statistics and how well they fit — <strong>$120</strong>.
       </p>
     </div>
 
@@ -1804,7 +1831,7 @@ f:T2023,<footer class="footer" role="contentinfo">
 
       <div class="pr-card">
         <div class="pr-card__name">Influencer research</div>
-        <div class="pr-card__price">$350</div>
+        <div class="pr-card__price">$120</div>
         <div class="pr-card__price-note">Full report</div>
         <p class="pr-card__desc">We identify the relevant influencers, with a detailed report on rates and statistics.</p>
         <div class="pr-card__feats">
@@ -2313,7 +2340,7 @@ f:T2023,<footer class="footer" role="contentinfo">
     <div class="rel-trans">
       <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> No hidden prices</span>
       <h2>That is what sets us apart.</h2>
-      <p>Visience is a marketing and web studio based in Iași, Romania, that publishes its prices: $600 for a landing page, from $870 for a business website, from $1,160 for an online store, $460 a month to run Google and Meta campaigns, from $700 a month for SEO. These are the figures in the quotes we send, not an opening position for a negotiation.</p>
+      <p>Visience is a marketing and web studio based in Iași, Romania, that publishes its prices: $230 for a one-page website, $600 for a landing page, from $870 for a business website, from $1,160 for an online store, $230 a month to run Google and Meta campaigns, however many, from $700 a month for SEO. These are the figures in the quotes we send, not an opening position for a negotiation.</p>
       <a href="/en/portfolio/" class="rel-trans__link">See the portfolio <span aria-hidden="true">→</span></a>
     </div>
     <div class="rel-links">
@@ -2342,5 +2369,5 @@ b:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16fat-5-gaue_
 1b:["$","$L24",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@25"}]}]
 1e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#FFFFFF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#111114","media":"(prefers-color-scheme: dark)"}]]
 26:I[27201,["/_next/static/chunks/39pj0zrlkvrmu.js","/_next/static/chunks/24ag4weogx3og.js"],"IconMark"]
-21:[["$","title","0",{"children":"Pricing — Websites, Branding, Ads and SEO | Visience"}],["$","meta","1",{"name":"description","content":"Every service with a price and the hours included: websites from $870, online stores from $1,160, campaign management $460 a month, SEO $700 a month. Nothing hidden."}],["$","link","2",{"rel":"canonical","href":"https://visience.ro/en/pricing/"}],["$","link","3",{"rel":"alternate","hrefLang":"ro-RO","href":"https://visience.ro/preturi/"}],["$","link","4",{"rel":"alternate","hrefLang":"en","href":"https://visience.ro/en/pricing/"}],["$","link","5",{"rel":"alternate","hrefLang":"fr","href":"https://visience.ro/fr/tarifs/"}],["$","link","6",{"rel":"alternate","hrefLang":"x-default","href":"https://visience.ro/preturi/"}],["$","meta","7",{"property":"og:title","content":"Pricing — Visience"}],["$","meta","8",{"property":"og:description","content":"Websites from $870, online stores from $1,160, campaign management $460 a month, SEO $700 a month. Published prices, hours included."}],["$","meta","9",{"property":"og:url","content":"https://visience.ro/en/pricing/"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","meta","12",{"property":"og:type","content":"website"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Agenție Marketing Imobiliar & Creare Site-uri în Iași | Visience"}],["$","meta","15",{"name":"twitter:description","content":"Branding, website-uri, magazine online, Google & Meta Ads, SEO. Prețuri publice, fără costuri ascunse."}],["$","meta","16",{"name":"twitter:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","link","17",{"rel":"icon","href":"/favicon.ico?favicon.04nd99rd6ooix.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","18",{"rel":"icon","href":"/icon.png?icon.3v2r-pcu8x6vx.png","sizes":"192x192","type":"image/png"}],["$","link","19",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2y52blaubq-q-.png","sizes":"180x180","type":"image/png"}],["$","$L26","20",{}]]
+21:[["$","title","0",{"children":"Pricing — Websites, Branding, Ads and SEO | Visience"}],["$","meta","1",{"name":"description","content":"Every service with a price and the hours included: websites from $230, online stores from $1,160, campaign management $230 a month, SEO $700 a month. Nothing hidden."}],["$","link","2",{"rel":"canonical","href":"https://visience.ro/en/pricing/"}],["$","link","3",{"rel":"alternate","hrefLang":"ro-RO","href":"https://visience.ro/preturi/"}],["$","link","4",{"rel":"alternate","hrefLang":"en","href":"https://visience.ro/en/pricing/"}],["$","link","5",{"rel":"alternate","hrefLang":"fr","href":"https://visience.ro/fr/tarifs/"}],["$","link","6",{"rel":"alternate","hrefLang":"x-default","href":"https://visience.ro/preturi/"}],["$","meta","7",{"property":"og:title","content":"Pricing — Visience"}],["$","meta","8",{"property":"og:description","content":"Websites from $230, online stores from $1,160, campaign management $230 a month, SEO $700 a month. Published prices, hours included."}],["$","meta","9",{"property":"og:url","content":"https://visience.ro/en/pricing/"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","meta","12",{"property":"og:type","content":"website"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Agenție Marketing Imobiliar & Creare Site-uri în Iași | Visience"}],["$","meta","15",{"name":"twitter:description","content":"Branding, website-uri, magazine online, Google & Meta Ads, SEO. Prețuri publice, fără costuri ascunse."}],["$","meta","16",{"name":"twitter:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","link","17",{"rel":"icon","href":"/favicon.ico?favicon.04nd99rd6ooix.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","18",{"rel":"icon","href":"/icon.png?icon.3v2r-pcu8x6vx.png","sizes":"192x192","type":"image/png"}],["$","link","19",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2y52blaubq-q-.png","sizes":"180x180","type":"image/png"}],["$","$L26","20",{}]]
 25:null
