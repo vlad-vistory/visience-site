@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/1yf11i6jf966j.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:Td665,<style>
+2:Tdc43,<style>
 /* PROJECT CARDS — pj-* (reused din home) */
 .pj-card {
   padding: 10px;
@@ -570,6 +570,38 @@
       </div>
 
 <div class="pf-feat-grid rv rv-d2">
+
+  <article class="pj-card pj-card--v2">
+    <div class="pj-card__vis">
+      <div class="pj-phone">
+        <video class="pj-phone__vid"
+               poster="/media/bucegii-placeholder.avif"
+               data-src="/media/bucegii.webm"
+               muted loop playsinline preload="none"></video>
+        <span class="pj-phone__play">
+          <i class="fa-regular fa-hand-pointer"></i>Voir l’aperçu
+        </span>
+      </div>
+      <div class="pj-desktop">
+        <img src="/media/bucegii-desk.avif" alt="Bucegii la Fereastră desktop" loading="lazy" width="1600" height="800">
+      </div>
+    </div>
+    <div class="pj-card__body">
+      <div class="pj-card__pills">
+        <span class="pj-pill pj-pill--svc">Site web</span>
+        <span class="pj-pill pj-pill--svc">CRM</span>
+        <span class="pj-pill pj-pill--svc">Disponibilités en direct</span>
+        <span class="pj-pill pj-pill--ind">Ensemble résidentiel</span>
+        <span class="pj-pill pj-pill--ind">Bușteni</span>
+      </div>
+      <h3 class="pj-card__title">Bucegii la Fereastră — Residence Bușteni</h3>
+      <div class="pj-card__foot">
+        <a href="https://www.bucegii-la-fereastra.ro/" target="_blank" rel="noopener" class="pj-card__url">bucegii-la-fereastra.ro ↗</a>
+      </div>
+        <a class="pj-card__more" href="https://www.bucegii-la-fereastra.ro/" target="_blank" rel="noopener">Voir le site <span aria-hidden="true">→</span></a>
+    </div>
+  </article>
+
 
   <article class="pj-card pj-card--v1">
     <div class="pj-card__vis">
@@ -1340,6 +1372,6 @@
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://visience.ro/fr/portfolio/#webpage\",\"url\":\"https://visience.ro/fr/portfolio/\",\"name\":\"Portfolio Visience\",\"description\":\"Une sélection de projets web, branding, réseaux sociaux et marketing réalisés par Visience pour des clients en Roumanie, en Italie, en France et en Allemagne.\",\"inLanguage\":\"fr\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Accueil\",\"item\":\"https://visience.ro/fr/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Portfolio\",\"item\":\"https://visience.ro/fr/portfolio/\"}]}]}"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"6yMEJUAhQ23xaYIUgih89"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://visience.ro/fr/portfolio/#webpage\",\"url\":\"https://visience.ro/fr/portfolio/\",\"name\":\"Portfolio Visience\",\"description\":\"Une sélection de projets web, branding, réseaux sociaux et marketing réalisés par Visience pour des clients en Roumanie, en Italie, en France et en Allemagne.\",\"inLanguage\":\"fr\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Accueil\",\"item\":\"https://visience.ro/fr/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Portfolio\",\"item\":\"https://visience.ro/fr/portfolio/\"}]}]}"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"LrLgB6mVEn9egSTQQwrz_"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
