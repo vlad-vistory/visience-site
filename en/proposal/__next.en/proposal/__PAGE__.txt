@@ -2,7 +2,7 @@
 5:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 6:"$Sreact.suspense"
 :HL["/_next/static/chunks/3dpbwq9v8sqbu.css","style"]
-2:T132f,<main class="pb-page">
+2:T12db,<main class="pb-page">
 
   <div class="pb-bar">
     <div class="pb-bar__in">
@@ -11,8 +11,8 @@
         <span>Real estate marketing · Visience</span>
       </div>
       <div class="pb-bar__r">
-        <div class="pb-count" id="pbCount">page <strong>1</strong> / 11</div>
-        <a class="pb-dl" href="/media/proposal-en/Visience-Proposal-Real-Estate-Marketing.pdf" download>
+        <div class="pb-count" id="pbCount">page <strong>1</strong> / 10</div>
+        <a class="pb-dl" href="/media/proposal-en/v2/Visience-Proposal-Real-Estate-Marketing.pdf" download>
           <svg width="15" height="15" viewBox="0 0 16 16" fill="none" aria-hidden="true">
             <path d="M8 1.5v9m0 0L4.5 7M8 10.5 11.5 7M2 13.5h12" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
           </svg>
@@ -24,17 +24,16 @@
 
   <div class="pb-doc">
     <div class="pb-doc__in" id="pbDoc">
-      <img class="pb-sheet" src="/media/proposal-en/p01.avif" width="1400" height="1982" alt="Visience partnership proposal — page 1: real estate marketing from the first post to the last apartment sold" fetchpriority="high">
-      <img class="pb-sheet" src="/media/proposal-en/p02.avif" width="1400" height="1982" alt="Page 2: everything a residential development needs to sell, in one place" loading="lazy">
-      <img class="pb-sheet" src="/media/proposal-en/p03.avif" width="1400" height="1982" alt="Page 3: every lead in one place, CRM included" loading="lazy">
-      <img class="pb-sheet" src="/media/proposal-en/p04.avif" width="1400" height="1982" alt="Page 4: real experience in property, the developments in our portfolio" loading="lazy">
-      <img class="pb-sheet" src="/media/proposal-en/p05.avif" width="1400" height="1982" alt="Page 5: results from client accounts, not promises" loading="lazy">
-      <img class="pb-sheet" src="/media/proposal-en/p06.avif" width="1400" height="1982" alt="Page 6: the page that brings the leads" loading="lazy">
-      <img class="pb-sheet" src="/media/proposal-en/p07.avif" width="1400" height="1982" alt="Page 7: how we work, from brief to the first leads" loading="lazy">
-      <img class="pb-sheet" src="/media/proposal-en/p08.avif" width="1400" height="1982" alt="Page 8: already have a site? we work with what you have" loading="lazy">
-      <img class="pb-sheet" src="/media/proposal-en/p09.avif" width="1400" height="1982" alt="Page 9: published prices, no surprises" loading="lazy">
-      <img class="pb-sheet" src="/media/proposal-en/p10.avif" width="1400" height="1982" alt="Page 10: already have a site? pay only for the campaigns" loading="lazy">
-      <img class="pb-sheet" src="/media/proposal-en/p11.avif" width="1400" height="1982" alt="Page 11: the next development to sell out could be yours, contact details" loading="lazy">
+      <img class="pb-sheet" src="/media/proposal-en/v2/p01.avif" width="1400" height="1982" alt="Visience partnership proposal — page 1: real estate marketing from the first post to the last apartment sold" fetchpriority="high">
+      <img class="pb-sheet" src="/media/proposal-en/v2/p02.avif" width="1400" height="1982" alt="Page 2: everything a residential development needs to sell, in one place" loading="lazy">
+      <img class="pb-sheet" src="/media/proposal-en/v2/p03.avif" width="1400" height="1982" alt="Page 3: every lead in one place, CRM included" loading="lazy">
+      <img class="pb-sheet" src="/media/proposal-en/v2/p04.avif" width="1400" height="1982" alt="Page 4: real experience in property, the developments in our portfolio" loading="lazy">
+      <img class="pb-sheet" src="/media/proposal-en/v2/p05.avif" width="1400" height="1982" alt="Page 5: results from client accounts, not promises" loading="lazy">
+      <img class="pb-sheet" src="/media/proposal-en/v2/p06.avif" width="1400" height="1982" alt="Page 6: the page that brings the leads" loading="lazy">
+      <img class="pb-sheet" src="/media/proposal-en/v2/p07.avif" width="1400" height="1982" alt="Page 7: how we work, from brief to the first leads" loading="lazy">
+      <img class="pb-sheet" src="/media/proposal-en/v2/p08.avif" width="1400" height="1982" alt="Page 8: the price of every service — area analysis, brand and website" loading="lazy">
+      <img class="pb-sheet" src="/media/proposal-en/v2/p09.avif" width="1400" height="1982" alt="Page 9: what it costs to bring in buyers — campaigns, content, upkeep" loading="lazy">
+      <img class="pb-sheet" src="/media/proposal-en/v2/p10.avif" width="1400" height="1982" alt="Page 10: the next development to sell out could be yours, contact details" loading="lazy">
     </div>
   </div>
 
@@ -47,7 +46,7 @@
       </p>
       <div class="pb-end__acts">
         <a href="/en/contact/" class="btn btn-solid">Book a call <span aria-hidden="true">→</span></a>
-        <a class="btn btn-ghost" href="/media/proposal-en/Visience-Proposal-Real-Estate-Marketing.pdf" download>Download the proposal (PDF)</a>
+        <a class="btn btn-ghost" href="/media/proposal-en/v2/Visience-Proposal-Real-Estate-Marketing.pdf" download>Download the proposal (PDF)</a>
       </div>
       <div class="pb-end__meta">
         <span><a href="mailto:contact@visience.ro">contact@visience.ro</a></span>
@@ -97,7 +96,7 @@
   recalc();
 })();
 </script>
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],["$L3"],"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"8wEhfjFcBq6RYx0Yciky0"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],["$L3"],"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"qEN6wprvOns1gn_TxMHgd"}
 3:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3dpbwq9v8sqbu.css","precedence":"next"}]
 4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
 7:null

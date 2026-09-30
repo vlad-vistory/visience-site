@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
 6:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-2:Tc90,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/fr/marketing-immobilier/#service","name":"Marketing immobilier pour promoteurs","serviceType":"Marketing immobilier","inLanguage":"fr","provider":{"@type":"Organization","name":"Visience","url":"https://visience.ro/fr/"},"areaServed":["FR","BE","CH","LU","RO"],"offers":[{"@type":"Offer","priceCurrency":"EUR","price":"3500","itemOffered":{"@type":"Service","name":"Pack Start, moins de 30 lots"}},{"@type":"Offer","priceCurrency":"EUR","price":"6500","itemOffered":{"@type":"Service","name":"Pack Standard, 30 à 80 lots"}},{"@type":"Offer","priceCurrency":"EUR","price":"12000","itemOffered":{"@type":"Service","name":"Écosystème complet, plus de 80 lots"}},{"@type":"Offer","priceCurrency":"EUR","price":"440","itemOffered":{"@type":"Service","name":"Campagnes gérées, mensuel"}},{"@type":"Offer","priceCurrency":"EUR","price":"800","itemOffered":{"@type":"Service","name":"Analyse de zone"}}]},{"@type":"FAQPage","@id":"https://visience.ro/fr/marketing-immobilier/#faq","mainEntity":[{"@type":"Question","name":"En combien de temps puis-je lancer le site de mon programme ?","acceptedAnswer":{"@type":"Answer","text":"Cela dépend du nombre de typologies mises en ligne et de la rapidité avec laquelle nous recevons les plans et les rendus. Le délai est fixé dans le devis et tenu."}},{"@type":"Question","name":"Combien dépenser par mois sur Google et Meta Ads ?","acceptedAnswer":{"@type":"Answer","text":"Le budget publicitaire ne fait pas partie de nos packs, il est payé directement aux plateformes. Pour un programme de taille moyenne nous recommandons au moins 1.000 € par mois sur Google et 800 € par mois sur Meta."}},{"@type":"Question","name":"Avez-vous l'expérience des ventes en crédit immobilier ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Nos sites incluent des pages sur les modalités de paiement, un simulateur de crédit et les partenaires bancaires."}},{"@type":"Question","name":"Pouvez-vous travailler avec mon agence de communication ou mon agent immobilier ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Nous coordonnons avec l'agent sur la transmission des leads, avec la communication sur la cohérence du message, et avec les photographes et studios 3D sur les visuels."}},{"@type":"Question","name":"Que se passe-t-il une fois le dernier lot vendu ?","acceptedAnswer":{"@type":"Answer","text":"Le site reste en ligne pour la crédibilité de la marque et le budget publicitaire descend au minimum. Au lancement de la phase suivante, la marque et le CRM sont déjà en place."}},{"@type":"Question","name":"Combien coûte le marketing d'un programme résidentiel ?","acceptedAnswer":{"@type":"Answer","text":"Les packs démarrent à 3.500 € en coût unique pour les petits programmes. Le plus choisi est le Standard, à partir de 6.500 € de mise en place plus 1.500 € par mois, campagnes et reporting inclus."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://visience.ro/fr/"},{"@type":"ListItem","position":2,"name":"Marketing immobilier","item":"https://visience.ro/fr/marketing-immobilier/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"8wEhfjFcBq6RYx0Yciky0"}
-5:T129f0,<style>
+2:Tcc7,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/fr/marketing-immobilier/#service","name":"Marketing immobilier pour promoteurs","serviceType":"Marketing immobilier","inLanguage":"fr","provider":{"@type":"Organization","name":"Visience","url":"https://visience.ro/fr/"},"areaServed":["FR","BE","CH","LU","RO"],"offers":[{"@type":"Offer","priceCurrency":"EUR","price":"1200","itemOffered":{"@type":"Service","name":"Branding Standard"}},{"@type":"Offer","priceCurrency":"EUR","price":"1200","itemOffered":{"@type":"Service","name":"Site Standard, avec les pages d'appartements"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Gestion des campagnes Google et Meta, mensuel"}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Stratégie et plan de campagnes"}},{"@type":"Offer","priceCurrency":"EUR","price":"800","itemOffered":{"@type":"Service","name":"Analyse de zone"}}]},{"@type":"FAQPage","@id":"https://visience.ro/fr/marketing-immobilier/#faq","mainEntity":[{"@type":"Question","name":"En combien de temps puis-je lancer le site de mon programme ?","acceptedAnswer":{"@type":"Answer","text":"Cela dépend du nombre de typologies mises en ligne et de la rapidité avec laquelle nous recevons les plans et les rendus. Le délai est fixé dans le devis et tenu."}},{"@type":"Question","name":"Combien dépenser par mois sur Google et Meta Ads ?","acceptedAnswer":{"@type":"Answer","text":"Le budget publicitaire ne fait pas partie de nos honoraires, il est payé directement aux plateformes. Pour un programme de taille moyenne nous recommandons au moins 1.000 € par mois sur Google et 800 € par mois sur Meta."}},{"@type":"Question","name":"Avez-vous l'expérience des ventes en crédit immobilier ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Nos sites incluent des pages sur les modalités de paiement, un simulateur de crédit et les partenaires bancaires."}},{"@type":"Question","name":"Pouvez-vous travailler avec mon agence de communication ou mon agent immobilier ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Nous coordonnons avec l'agent sur la transmission des leads, avec la communication sur la cohérence du message, et avec les photographes et studios 3D sur les visuels."}},{"@type":"Question","name":"Que se passe-t-il une fois le dernier lot vendu ?","acceptedAnswer":{"@type":"Answer","text":"Le site reste en ligne pour la crédibilité de la marque et le budget publicitaire descend au minimum. Au lancement de la phase suivante, la marque et le CRM sont déjà en place."}},{"@type":"Question","name":"Combien coûte le marketing d'un programme résidentiel ?","acceptedAnswer":{"@type":"Answer","text":"Vous payez chaque prestation séparément. La marque va de 500 € pour un logo à 2.500 € avec un brand book complet, le site coûte entre 750 € et 2.500 €, et les campagnes Google et Meta 200 € par mois, quel que soit leur nombre."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://visience.ro/fr/"},{"@type":"ListItem","position":2,"name":"Marketing immobilier","item":"https://visience.ro/fr/marketing-immobilier/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"qEN6wprvOns1gn_TxMHgd"}
+5:T12670,<style>
 .dev-page { background: var(--cream); }
 
 .dev-section__head {
@@ -802,6 +802,10 @@
 .br-tar__n { font-size: 14.5px; color: var(--ink); font-weight: 500; }
 .br-tar__n small { display: block; font-size: 12.5px; color: var(--mid); font-weight: 400; margin-top: 3px; }
 .br-tar__p { font-family: var(--f-d); font-weight: 700; font-size: 15px; color: var(--acc-deep); white-space: nowrap; }
+.br-tar__h { font-family: var(--f-d); font-size: 20px; font-weight: 700; margin: 40px 0 14px; }
+.br-h + .br-tar__h { margin-top: 6px; }
+.br-tar__i:last-child:nth-child(odd) { grid-column: 1 / -1; }
+.br-tar__cta { margin-top: 26px; }
 .br-nota { margin-top: 22px; font-size: 13px; line-height: 1.65; color: var(--mid); max-width: 82ch; }
 
 @media (max-width: 1000px) {
@@ -1021,7 +1025,7 @@
       <div class="br-list rv rv-d2">
         <div class="br-list__i"><span class="br-list__n">01</span><div><h3>Un seul partenaire</h3><p>Marque, site web, campagnes, contenu et leads sous le même toit. Un seul interlocuteur, pas cinq prestataires qui se renvoient la balle.</p></div></div>
         <div class="br-list__i"><span class="br-list__n">02</span><div><h3>Des rapports clairs</h3><p>Vous voyez ce qui fonctionne et d'où vient chaque acheteur. Des décisions prises sur des données, pas sur des suppositions.</p></div></div>
-        <div class="br-list__i"><span class="br-list__n">03</span><div><h3>Aucun prix caché</h3><p>Tous les forfaits et tous les tarifs sont publics, sur cette page. Aucune surprise sur la facture.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">03</span><div><h3>Aucun prix caché</h3><p>Tous les prix sont publics, sur cette page, prestation par prestation. Aucune surprise sur la facture.</p></div></div>
         <div class="br-list__i"><span class="br-list__n">04</span><div><h3>Une réponse personnelle</h3><p>Nous restons impliqués directement dans le projet. Vous n'êtes pas confié à un junior après la signature.</p></div></div>
       </div>
     </div>
@@ -1307,100 +1311,55 @@
   <section class="br-sec br-sec--cream" id="prices">
     <div class="wrap">
       <div class="br-h rv">
-        <h2>Des prix transparents, sans surprises</h2>
-        <p>Les forfaits de marketing pour une résidence lancée de zéro : marque, site web et campagnes. Prix indicatifs, finalisés après un brief. Les montants correspondent à nos honoraires de travail ; le budget avec lequel vous achetez l'espace publicitaire se paie séparément, directement à Google et Meta.</p>
+        <h2>Le prix de chaque prestation</h2>
+        <p>Vous ne payez que ce dont vous avez besoin. Prix indicatifs, confirmés après un brief. Les montants correspondent à nos honoraires ; le budget avec lequel vous achetez l'espace publicitaire se paie à part, directement à Google et Meta.</p>
       </div>
-      <div class="br-pk rv rv-d2">
-        <div class="br-pk__c">
-          <p class="br-pk__tag">Start</p>
-          <p class="br-pk__n">Moins de 30 unités</p>
-          <p class="br-pk__d">Tout ce qu'il faut pour lancer la vente, sans gros abonnement mensuel.</p>
-          <p class="br-pk__pret">3.500€</p>
-          <p class="br-pk__sub">coût unique, plus 200€/mois pour les campagnes</p>
-          <ul class="br-pk__l">
-            <li>Branding complet : 3 propositions de logo, palette, brand book</li>
-            <li>Site web de 10-15 pages, optimisé pour la recherche</li>
-            <li>Une page dédiée à chaque type d'appartement</li>
-            <li>CRM inclus et grille des appartements sur le site</li>
-            <li>Configuration des campagnes et mesure des conversions</li>
-            <li>Analytics, Search Console et fiche Google Business</li>
-          </ul>
-          <a href="/fr/contact/" class="btn btn-ghost">Demander une offre</a>
-        </div>
-        <div class="br-pk__c br-pk__c--rec">
-          <p class="br-pk__tag">Recommandé</p>
-          <p class="br-pk__n">Standard</p>
-          <p class="br-pk__d">Pour des ensembles moyens, 30-80 unités, avec des objectifs de vente clairs.</p>
-          <p class="br-pk__pret">6.500€</p>
-          <p class="br-pk__sub">coût unique, plus 1.500€/mois pour les campagnes</p>
-          <ul class="br-pk__l">
-            <li>Branding premium : brand book complet et animation du logo</li>
-            <li>Site premium : 3 propositions de design, animations, copywriting</li>
-            <li>Pages avec plans et prix pour chaque typologie</li>
-            <li>CRM et grille des appartements</li>
-            <li>Stratégie et plan de campagnes sur toute la période de vente</li>
-            <li>Remarketing et automatisations</li>
-          </ul>
-          <a href="/fr/contact/" class="btn btn-solid">Demander une offre</a>
-        </div>
-        <div class="br-pk__c">
-          <p class="br-pk__tag">Écosystème complet</p>
-          <p class="br-pk__n">Plus de 80 unités</p>
-          <p class="br-pk__d">Pour les grandes résidences ou les promoteurs avec plusieurs projets.</p>
-          <p class="br-pk__pret">12.000€</p>
-          <p class="br-pk__sub">coût unique, plus 4.500€/mois pour les campagnes</p>
-          <ul class="br-pk__l">
-            <li>Tout ce qui est dans Standard, plus :</li>
-            <li>Coordination de la production photo, vidéo et des images 3D</li>
-            <li>Visite virtuelle 360 des appartements</li>
-            <li>Configurateur d'appartements, avec filtres</li>
-            <li>Site web en deux langues</li>
-            <li>Pack complet de supports imprimés</li>
-          </ul>
-          <a href="/fr/contact/" class="btn btn-ghost">Demander une offre</a>
-        </div>
-      </div>
-      <p class="br-nota">Le budget publicitaire n'est pas inclus. Les honoraires mensuels couvrent notre travail : la construction des campagnes, les textes, les visuels, l'optimisation et le rapport. L'argent qui achète les affichages se paie directement à Google et Meta, depuis votre carte, et leur reste intégralement. Pour une résidence moyenne, nous recommandons à partir de 1.500-2.500€ par mois.</p>
-    </div>
-  </section>
-
-  <section class="br-sec">
-    <div class="wrap">
-      <div class="br-h rv">
-        <h2>Vous avez déjà un site ? Vous ne payez que les campagnes</h2>
-        <p>Nous ne reconstruisons rien. Nous lançons les campagnes sur votre site et nous le gardons en forme tant que la publicité tourne, pour que l'argent de la publicité ne se perde pas sur une page qui ne répond pas aux questions de l'acheteur.</p>
-      </div>
-      <div class="br-pk rv rv-d2" style="grid-template-columns:1fr">
-        <div class="br-pk__c br-pk__c--rec" style="max-width:520px">
-          <p class="br-pk__tag">Recommandé</p>
-          <p class="br-pk__n">Campagnes gérées</p>
-          <p class="br-pk__d">Tout ce qu'il faut pour que la publicité tourne, poste par poste.</p>
-          <ul class="br-pk__l">
-            <li>Gestion des campagnes Google et Meta, quel que soit leur nombre : <strong>200€/mois</strong></li>
-            <li>Réparations et optimisations sur le site, 4 heures × 60€ : <strong>240€/mois</strong></li>
-            <li>Optimisation hebdomadaire des campagnes : incluse</li>
-            <li>Mesure des conversions et rapport mensuel : inclus</li>
-            <li>Configuration, une seule fois : <strong>200€</strong>, offerte avec un contrat de 12 mois</li>
-          </ul>
-          <p class="br-pk__sub">Total : 440€ par mois, plus la configuration.</p>
-          <a href="/fr/contact/" class="btn btn-solid">Lancez les campagnes</a>
-        </div>
-      </div>
-
-      <h3 class="br-h" style="margin:44px 0 18px;font-family:var(--f-d);font-size:20px;font-weight:700">Ou prenez seulement ce qu'il vous faut</h3>
+      <h3 class="br-tar__h">Avant le lancement</h3>
       <div class="br-tar rv">
-        <div class="br-tar__i"><span class="br-tar__n">Gestion des campagnes Google et Meta<small>Un prix par mois, quel que soit le nombre de campagnes.</small></span><span class="br-tar__p">200€/mois</span></div>
-        <div class="br-tar__i"><span class="br-tar__n">Configuration des campagnes et mesure des conversions<small>Une seule fois, avant la première campagne. Offerte avec un contrat de 12 mois.</small></span><span class="br-tar__p">200€</span></div>
-        <div class="br-tar__i"><span class="br-tar__n">Stratégie et plan de campagnes<small>Pour une résidence. Chaque résidence en plus : 250€.</small></span><span class="br-tar__p">500€</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Analyse de secteur<small>Les résidences concurrentes, la demande en ligne et le profil de l'acheteur, dans un document écrit. Se déduit de la marque et du site si nous lançons ensemble.</small></span><span class="br-tar__p">800€</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Stratégie et plan de campagnes<small>Pour une résidence. Chaque résidence ou phase en plus : 250€.</small></span><span class="br-tar__p">500€</span></div>
+      </div>
+      <h3 class="br-tar__h">Marque</h3>
+      <div class="br-tar rv">
+        <div class="br-tar__i"><span class="br-tar__n">Logo<small>Logo unique, une révision, toutes les variantes pour l'imprimé et le web.</small></span><span class="br-tar__p">500€</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Branding Standard<small>3 pistes de logo, palette, identité complète.</small></span><span class="br-tar__p">1.200€</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Branding Premium<small>Brand book complet, logo animé, supports.</small></span><span class="br-tar__p">2.500€</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Brochure de présentation<small>5 pages. Chaque page en plus : 15€.</small></span><span class="br-tar__p">300€</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Design graphique et imprimé<small>Bâches de chantier, flyers, roll-up.</small></span><span class="br-tar__p">50€/heure</span></div>
+      </div>
+      <h3 class="br-tar__h">Site web</h3>
+      <div class="br-tar rv">
+        <div class="br-tar__i"><span class="br-tar__n">Site Basic<small>Jusqu'à 6 pages : présentation, appartements, emplacement, contact.</small></span><span class="br-tar__p">750€</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Site Standard<small>Jusqu'à 10 pages, SEO on-page complet.</small></span><span class="br-tar__p">1.200€</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Site Premium<small>3 pistes de design, animations, rédaction.</small></span><span class="br-tar__p">2.500€</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Page d'offre pour les campagnes<small>Une page dédiée à la campagne, avec son propre formulaire.</small></span><span class="br-tar__p">500€</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Site en plusieurs langues<small>Traduction des pages et des formulaires.</small></span><span class="br-tar__p">à partir de 100€</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">CRM et grille des appartements sur le site<small>Toutes les demandes au même endroit et les disponibilités à jour.</small></span><span class="br-tar__p">inclus</span></div>
+      </div>
+      <h3 class="br-tar__h">Campagnes Google et Meta</h3>
+      <div class="br-tar rv">
+        <div class="br-tar__i"><span class="br-tar__n">Gestion des campagnes<small>Quel que soit leur nombre. Optimisation chaque semaine, rapport mensuel. 3 mois minimum.</small></span><span class="br-tar__p">200€/mois</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Configuration des campagnes et mesure des conversions<small>Une seule fois. Offerte avec un contrat de 12 mois.</small></span><span class="br-tar__p">200€</span></div>
         <div class="br-tar__i"><span class="br-tar__n">Remarketing<small>Des annonces pour les visiteurs qui n'ont pas laissé leurs coordonnées.</small></span><span class="br-tar__p">200€</span></div>
         <div class="br-tar__i"><span class="br-tar__n">Automatisations<small>Des e-mails automatiques pour ceux qui ont laissé leurs coordonnées.</small></span><span class="br-tar__p">300€/séquence</span></div>
-        <div class="br-tar__i"><span class="br-tar__n">SEO et Google Maps<small>Visibilité organique pour le secteur de la résidence.</small></span><span class="br-tar__p">600€/mois</span></div>
-        <div class="br-tar__i"><span class="br-tar__n">Réseaux sociaux<small>8 publications par mois. Avec 15 publications : 450€.</small></span><span class="br-tar__p">200€/mois</span></div>
-        <div class="br-tar__i"><span class="br-tar__n">Réparations et optimisations sur le site<small>Vitesse, formulaires, nouvelles pages.</small></span><span class="br-tar__p">60€/heure</span></div>
-        <div class="br-tar__i"><span class="br-tar__n">Nouvelle page d'offre<small>Une page dédiée à la campagne, avec son propre formulaire.</small></span><span class="br-tar__p">500€</span></div>
-        <div class="br-tar__i"><span class="br-tar__n">Analyse de secteur<small>Avant tout forfait. Elle se déduit du forfait de lancement.</small></span><span class="br-tar__p">800€</span></div>
       </div>
-      <p class="br-nota">Les montants correspondent à nos honoraires et n'incluent pas le budget publicitaire. Le budget est versé directement sur vos comptes Google Ads et Meta et leur revient intégralement. La gestion reste à 200€ par mois quel que soit le nombre de campagnes ; chaque résidence en plus ajoute sa stratégie et son plan de campagnes, 250€.</p>
+      <h3 class="br-tar__h">Contenu et visibilité</h3>
+      <div class="br-tar rv">
+        <div class="br-tar__i"><span class="br-tar__n">Stratégie réseaux sociaux<small>Audience, calendrier sur 12 mois, ton de la marque.</small></span><span class="br-tar__p">300€</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Réseaux sociaux, 8 publications<small>Visuels, textes, programmation.</small></span><span class="br-tar__p">200€/mois</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Réseaux sociaux, 15 publications<small>Plus stories et rapport mensuel.</small></span><span class="br-tar__p">450€/mois</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">SEO et Google Maps<small>Visibilité organique pour le secteur de la résidence. 6 mois minimum.</small></span><span class="br-tar__p">600€/mois</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Fiche Google Business et réseaux sociaux<small>Créés, vérifiés et complétés.</small></span><span class="br-tar__p">300€</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Newsletter<small>Campagnes mensuelles vers la liste des intéressés, avec rapport.</small></span><span class="br-tar__p">300€/mois</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Photo, vidéo, drone et visite virtuelle 360<small>Nous coordonnons le photographe, les tournages et les rendus.</small></span><span class="br-tar__p">sur devis</span></div>
+      </div>
+      <h3 class="br-tar__h">Après le lancement</h3>
+      <div class="br-tar rv">
+        <div class="br-tar__i"><span class="br-tar__n">Réparations et optimisations sur le site<small>Vitesse, formulaires, nouvelles pages.</small></span><span class="br-tar__p">60€/heure</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Maintenance mensuelle<small>Mises à jour, sauvegardes, petites modifications.</small></span><span class="br-tar__p">à partir de 100€/mois</span></div>
+      </div>
+      <p class="br-nota">Coûts supplémentaires : nom de domaine 15€ et hébergement 85€ par an. Le budget publicitaire n'est pas inclus : il va directement sur vos comptes Google Ads et Meta et leur revient en totalité. Pour une résidence moyenne, nous recommandons à partir de 1.500-2.500€ par mois.</p>
+      <p class="br-tar__cta"><a href="/fr/contact/" class="btn btn-solid">Demander une offre pour votre résidence <span aria-hidden="true">→</span></a></p>
     </div>
   </section>
 
@@ -1419,7 +1378,7 @@
 
         <details class="dev-faq-item">
           <summary>Combien est-ce que je dépense par mois sur Google et Meta Ads ?</summary>
-          <p>Le budget Ads N'EST PAS inclus dans nos forfaits — vous le payez directement à Google et Meta. Nous recommandons au minimum 1.000€/mois sur Google + 800€/mois sur Meta pour un ensemble moyen. À titre indicatif, nous répartissons 60% Google (recherches avec intention) et 40% Meta, puis nous déplaçons chaque mois le budget vers le canal au coût par lead le plus bas.</p>
+          <p>Le budget Ads N'EST PAS inclus dans nos honoraires — vous le payez directement à Google et Meta. Nous recommandons au minimum 1.000€/mois sur Google + 800€/mois sur Meta pour un ensemble moyen. À titre indicatif, nous répartissons 60% Google (recherches avec intention) et 40% Meta, puis nous déplaçons chaque mois le budget vers le canal au coût par lead le plus bas.</p>
         </details>
 
         <details class="dev-faq-item">
@@ -1444,7 +1403,7 @@
 
         <details class="dev-faq-item">
           <summary>Combien coûte le marketing d'une résidence ?</summary>
-          <p>Les forfaits partent de 3.500€ en coût unique pour les petites résidences (branding starter + site web). Le plus choisi est Standard : à partir de 6.500€ de mise en place + 1.500€/mois, campagnes et reporting inclus. Les prix des forfaits sont publics, sur cette page. Le budget Ads se paie séparément, directement à Google et Meta, et l'analyse de secteur de la phase 01 coûte 800€ et se déduit du forfait de lancement si nous continuons ensemble.</p>
+          <p>Vous payez chaque prestation séparément, selon vos besoins. La marque va de 500€ pour un logo à 2.500€ avec un brand book complet, le site coûte entre 750€ et 2.500€, et les campagnes Google et Meta 200€ par mois, quel que soit leur nombre. Tous les prix sont publics, sur cette page. Le budget Ads se paie séparément, directement à Google et Meta, et l'analyse de secteur coûte 800€ et se déduit de la marque et du site si nous continuons ensemble.</p>
         </details>
 
         <details class="dev-faq-item">
@@ -1513,7 +1472,7 @@
     <div class="rel-trans">
       <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Aucun prix caché</span>
       <h2>Voyez exactement ce que vous payez.</h2>
-      <p>Nous ne travaillons pas avec des tarifs cachés ou des surprises sur la facture. Tous nos forfaits et tous nos prix sont publics. Vous choisissez en connaissance de cause, sans pression.</p>
+      <p>Nous ne travaillons pas avec des tarifs cachés ou des surprises sur la facture. Tous nos prix sont publics, prestation par prestation. Vous choisissez en connaissance de cause, sans pression.</p>
       <a href="/fr/tarifs/" class="rel-trans__link">Voir tous les prix <span aria-hidden="true">→</span></a>
     </div>
     <div class="rel-links">

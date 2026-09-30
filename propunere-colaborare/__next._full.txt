@@ -34,7 +34,7 @@
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();0:{"P":null,"c":["","propunere-colaborare",""],"q":"","i":false,"f":[[["",{"children":["propunere-colaborare",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2t44x5vm81k62.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/128am0rogg1gy.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"8wEhfjFcBq6RYx0Yciky0"}
+})();0:{"P":null,"c":["","propunere-colaborare",""],"q":"","i":false,"f":[[["",{"children":["propunere-colaborare",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2t44x5vm81k62.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/128am0rogg1gy.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"qEN6wprvOns1gn_TxMHgd"}
 c:I[36621,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 17:I[39756,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 18:I[37457,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
@@ -684,7 +684,7 @@ f:Tf55,<header class="nav" id="nav" role="banner">
 </footer>
 4:["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$b"}}],["$","$Lc",null,{"headerRo":"$d","footerRo":"$e","headerEn":"$f","footerEn":"$10","headerFr":"$11","footerFr":"$12","headerReclama":"<header class=\"nav nav--lp\" id=\"nav\" role=\"banner\">\r\n  <div class=\"wrap nav__in\">\r\n    <span class=\"nav__logo\">\r\n      <img class=\"nav__logo-img nav__logo-img--light\" src=\"/media/sigla-mark-visience-new-colors.avif\"\r\n           alt=\"Visience\" width=\"160\" height=\"30\" fetchpriority=\"high\">\r\n      <img class=\"nav__logo-img nav__logo-img--dark\" src=\"/media/sigla-visience-dark.avif\"\r\n           alt=\"\" aria-hidden=\"true\" width=\"160\" height=\"30\">\r\n    </span>\r\n\r\n    <div class=\"nlp\">\r\n      <a href=\"tel:+40771486499\" class=\"nlp__tel\" aria-label=\"Sună la 0771 486 499\">\r\n        <i class=\"fas fa-phone\" aria-hidden=\"true\"></i><span>0771 486 499</span>\r\n      </a>\r\n      <a href=\"https://wa.me/40771486499\" target=\"_blank\" rel=\"noopener\" class=\"nlp__wa\" aria-label=\"Scrie pe WhatsApp\">\r\n        <i class=\"fab fa-whatsapp\" aria-hidden=\"true\"></i><span>WhatsApp</span>\r\n      </a>\r\n    </div>\r\n  </div>\r\n</header>\r\n","footerReclama":"$13","children":"$L14"}],"$L15","$L16"]}]
 5:["$","$1","c",{"children":[null,["$","$L17",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
-19:T13af,<main class="pb-page">
+19:T1351,<main class="pb-page">
 
   <div class="pb-bar">
     <div class="pb-bar__in">
@@ -693,8 +693,8 @@ f:Tf55,<header class="nav" id="nav" role="banner">
         <span>Marketing imobiliar · Visience</span>
       </div>
       <div class="pb-bar__r">
-        <div class="pb-count" id="pbCount">pagina <strong>1</strong> / 11</div>
-        <a class="pb-dl" href="/media/propunere/v2/Visience-Propunere-Colaborare-Marketing.pdf" download>
+        <div class="pb-count" id="pbCount">pagina <strong>1</strong> / 10</div>
+        <a class="pb-dl" href="/media/propunere/v3/Visience-Propunere-Colaborare-Marketing.pdf" download>
           <svg width="15" height="15" viewBox="0 0 16 16" fill="none" aria-hidden="true">
             <path d="M8 1.5v9m0 0L4.5 7M8 10.5 11.5 7M2 13.5h12" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
           </svg>
@@ -706,17 +706,16 @@ f:Tf55,<header class="nav" id="nav" role="banner">
 
   <div class="pb-doc">
     <div class="pb-doc__in" id="pbDoc">
-      <img class="pb-sheet" src="/media/propunere/v2/p01.avif" width="1400" height="1982" alt="Propunere de colaborare Visience — pagina 1: marketing imobiliar de la prima postare la ultimul apartament vândut" fetchpriority="high">
-      <img class="pb-sheet" src="/media/propunere/v2/p02.avif" width="1400" height="1982" alt="Pagina 2: tot ce îi trebuie unui ansamblu rezidențial ca să se vândă, într-un singur loc" loading="lazy">
-      <img class="pb-sheet" src="/media/propunere/v2/p03.avif" width="1400" height="1982" alt="Pagina 3: toate lead-urile într-un singur loc, CRM inclus" loading="lazy">
-      <img class="pb-sheet" src="/media/propunere/v2/p04.avif" width="1400" height="1982" alt="Pagina 4: experiență reală în domeniul imobiliar, ansamblurile din portofoliu" loading="lazy">
-      <img class="pb-sheet" src="/media/propunere/v2/p05.avif" width="1400" height="1982" alt="Pagina 5: rezultate din conturile clienților, nu promisiuni" loading="lazy">
-      <img class="pb-sheet" src="/media/propunere/v2/p06.avif" width="1400" height="1982" alt="Pagina 6: cum arată pagina care aduce lead-urile" loading="lazy">
-      <img class="pb-sheet" src="/media/propunere/v2/p07.avif" width="1400" height="1982" alt="Pagina 7: cum lucrăm, de la brief la primele lead-uri" loading="lazy">
-      <img class="pb-sheet" src="/media/propunere/v2/p08.avif" width="1400" height="1982" alt="Pagina 8: ai deja un site? ne pliem pe ce ai" loading="lazy">
-      <img class="pb-sheet" src="/media/propunere/v2/p09.avif" width="1400" height="1982" alt="Pagina 9: prețuri transparente, fără surprize" loading="lazy">
-      <img class="pb-sheet" src="/media/propunere/v2/p10.avif" width="1400" height="1982" alt="Pagina 10: ai deja site? plătești doar campaniile" loading="lazy">
-      <img class="pb-sheet" src="/media/propunere/v2/p11.avif" width="1400" height="1982" alt="Pagina 11: următorul ansamblu vândut complet poate fi al tău, date de contact" loading="lazy">
+      <img class="pb-sheet" src="/media/propunere/v3/p01.avif" width="1400" height="1982" alt="Propunere de colaborare Visience — pagina 1: marketing imobiliar de la prima postare la ultimul apartament vândut" fetchpriority="high">
+      <img class="pb-sheet" src="/media/propunere/v3/p02.avif" width="1400" height="1982" alt="Pagina 2: tot ce îi trebuie unui ansamblu rezidențial ca să se vândă, într-un singur loc" loading="lazy">
+      <img class="pb-sheet" src="/media/propunere/v3/p03.avif" width="1400" height="1982" alt="Pagina 3: toate lead-urile într-un singur loc, CRM inclus" loading="lazy">
+      <img class="pb-sheet" src="/media/propunere/v3/p04.avif" width="1400" height="1982" alt="Pagina 4: experiență reală în domeniul imobiliar, ansamblurile din portofoliu" loading="lazy">
+      <img class="pb-sheet" src="/media/propunere/v3/p05.avif" width="1400" height="1982" alt="Pagina 5: rezultate din conturile clienților, nu promisiuni" loading="lazy">
+      <img class="pb-sheet" src="/media/propunere/v3/p06.avif" width="1400" height="1982" alt="Pagina 6: cum arată pagina care aduce lead-urile" loading="lazy">
+      <img class="pb-sheet" src="/media/propunere/v3/p07.avif" width="1400" height="1982" alt="Pagina 7: cum lucrăm, de la brief la primele lead-uri" loading="lazy">
+      <img class="pb-sheet" src="/media/propunere/v3/p08.avif" width="1400" height="1982" alt="Pagina 8: prețuri pe fiecare serviciu — analiză de zonă, brand și website" loading="lazy">
+      <img class="pb-sheet" src="/media/propunere/v3/p09.avif" width="1400" height="1982" alt="Pagina 9: cât costă să aduci cumpărători — campanii, conținut, întreținere" loading="lazy">
+      <img class="pb-sheet" src="/media/propunere/v3/p10.avif" width="1400" height="1982" alt="Pagina 10: următorul ansamblu vândut complet poate fi al tău, date de contact" loading="lazy">
     </div>
   </div>
 
@@ -729,7 +728,7 @@ f:Tf55,<header class="nav" id="nav" role="banner">
       </p>
       <div class="pb-end__acts">
         <a href="/contact/" class="btn btn-solid">Programează un apel <span aria-hidden="true">→</span></a>
-        <a class="btn btn-ghost" href="/media/propunere/v2/Visience-Propunere-Colaborare-Marketing.pdf" download>Descarcă propunerea (PDF)</a>
+        <a class="btn btn-ghost" href="/media/propunere/v3/Visience-Propunere-Colaborare-Marketing.pdf" download>Descarcă propunerea (PDF)</a>
       </div>
       <div class="pb-end__meta">
         <span><a href="mailto:contact@visience.ro">contact@visience.ro</a></span>

@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 5:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 6:"$Sreact.suspense"
-2:Tbab,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/analiza-de-zona/#service","name":"Analiza de zonă pentru ansambluri rezidențiale","serviceType":"Cercetare de piață pentru dezvoltatori imobiliari","description":"Analiză a ansamblurilor concurente din raza de 2-3 km, a cererii online pe zonă și pe tipologie, cu recomandare scrisă pe mixul de tipologii, prețul de listă și momentul lansării.","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"url":"https://visience.ro/analiza-de-zona/","offers":{"@type":"Offer","price":"800","priceCurrency":"EUR","url":"https://visience.ro/analiza-de-zona/","availability":"https://schema.org/InStock"}},{"@type":"FAQPage","@id":"https://visience.ro/analiza-de-zona/#faq","mainEntity":[{"@type":"Question","name":"De unde luați datele pentru analiza de zonă?","acceptedAnswer":{"@type":"Answer","text":"Din surse publice: site-urile ansamblurilor din zonă, anunțurile lor, prețurile afișate, reclamele care rulează și datele de căutare online. Fiecare cifră din document are sursa lângă ea, iar unde nu există date publice și estimăm, scriem că estimăm."}},{"@type":"Question","name":"Ce se întâmplă dacă nu continui cu Visience după analiză?","acceptedAnswer":{"@type":"Answer","text":"Documentul rămâne al tău și îl poți folosi cu cine vrei, inclusiv cu altă agenție sau cu echipa ta internă. Nu are clauze care să te lege de noi."}},{"@type":"Question","name":"Faceți analiza și pentru ansambluri din afara Iașiului?","acceptedAnswer":{"@type":"Answer","text":"Da. Datele se strâng online, deci zona nu contează. Am lucrat pe proiecte din Iași, Botoșani și București. Dacă ansamblul e într-un oraș mic, cu puține proiecte concurente, spunem asta din start, pentru că analiza iese mai scurtă."}},{"@type":"Question","name":"Cât costă analiza de zonă?","acceptedAnswer":{"@type":"Answer","text":"De la 800€, o singură dată, per proiect. Dacă lansăm ansamblul împreună, cei 800€ se scad integral din pachetul de lansare. Dacă intră mult mai multe ansambluri concurente în raza analizată sau vrei mai multe zone comparate, spunem înainte cât costă în plus."}},{"@type":"Question","name":"Când are sens analiza de zonă?","acceptedAnswer":{"@type":"Answer","text":"Când ai terenul, autorizația e obținută sau pe drum, nu ai fixat definitiv mixul de tipologii și nu ai publicat lista de prețuri. Nu mai are sens dacă ai turnat structura, prețurile sunt publicate și vânzarea a pornit."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Marketing dezvoltatori imobiliari","item":"https://visience.ro/marketing-dezvoltatori-imobiliari/"},{"@type":"ListItem","position":3,"name":"Analiza de zonă","item":"https://visience.ro/analiza-de-zona/"}]}]}3:T66d2,<style>
+2:Tbb9,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/analiza-de-zona/#service","name":"Analiza de zonă pentru ansambluri rezidențiale","serviceType":"Cercetare de piață pentru dezvoltatori imobiliari","description":"Analiză a ansamblurilor concurente din raza de 2-3 km, a cererii online pe zonă și pe tipologie, cu recomandare scrisă pe mixul de tipologii, prețul de listă și momentul lansării.","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"url":"https://visience.ro/analiza-de-zona/","offers":{"@type":"Offer","price":"800","priceCurrency":"EUR","url":"https://visience.ro/analiza-de-zona/","availability":"https://schema.org/InStock"}},{"@type":"FAQPage","@id":"https://visience.ro/analiza-de-zona/#faq","mainEntity":[{"@type":"Question","name":"De unde luați datele pentru analiza de zonă?","acceptedAnswer":{"@type":"Answer","text":"Din surse publice: site-urile ansamblurilor din zonă, anunțurile lor, prețurile afișate, reclamele care rulează și datele de căutare online. Fiecare cifră din document are sursa lângă ea, iar unde nu există date publice și estimăm, scriem că estimăm."}},{"@type":"Question","name":"Ce se întâmplă dacă nu continui cu Visience după analiză?","acceptedAnswer":{"@type":"Answer","text":"Documentul rămâne al tău și îl poți folosi cu cine vrei, inclusiv cu altă agenție sau cu echipa ta internă. Nu are clauze care să te lege de noi."}},{"@type":"Question","name":"Faceți analiza și pentru ansambluri din afara Iașiului?","acceptedAnswer":{"@type":"Answer","text":"Da. Datele se strâng online, deci zona nu contează. Am lucrat pe proiecte din Iași, Botoșani și București. Dacă ansamblul e într-un oraș mic, cu puține proiecte concurente, spunem asta din start, pentru că analiza iese mai scurtă."}},{"@type":"Question","name":"Cât costă analiza de zonă?","acceptedAnswer":{"@type":"Answer","text":"De la 800€, o singură dată, per proiect. Dacă lansăm ansamblul împreună, cei 800€ se scad integral din costul brandului și al site-ului. Dacă intră mult mai multe ansambluri concurente în raza analizată sau vrei mai multe zone comparate, spunem înainte cât costă în plus."}},{"@type":"Question","name":"Când are sens analiza de zonă?","acceptedAnswer":{"@type":"Answer","text":"Când ai terenul, autorizația e obținută sau pe drum, nu ai fixat definitiv mixul de tipologii și nu ai publicat lista de prețuri. Nu mai are sens dacă ai turnat structura, prețurile sunt publicate și vânzarea a pornit."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Marketing dezvoltatori imobiliari","item":"https://visience.ro/marketing-dezvoltatori-imobiliari/"},{"@type":"ListItem","position":3,"name":"Analiza de zonă","item":"https://visience.ro/analiza-de-zona/"}]}]}3:T66f9,<style>
 .az-page { background: var(--white); }
 
 .az-hero { padding: clamp(120px, 16vw, 180px) 0 clamp(56px, 8vw, 84px); background: var(--cream); }
@@ -509,7 +509,7 @@
           <p class="az-price__note">O singură dată, per proiect. Fără abonament și fără obligația de a continua cu noi.</p>
           <p class="az-price__deduce">
             Dacă mergi mai departe și lansăm ansamblul împreună,
-            <strong>cei 800€ se scad integral</strong> din pachetul de lansare.
+            <strong>cei 800€ se scad integral</strong> din costul brandului și al site-ului.
             Practic, analiza te costă zero dacă lucrăm și mai departe, și rămâne
             a ta dacă nu.
           </p>
@@ -590,11 +590,11 @@
           </p>
         </div>
         <div class="az-faq__i">
-          <h3>Ce legătură are cu pachetele de marketing?</h3>
+          <h3>Ce legătură are cu restul serviciilor?</h3>
           <p>
             Analiza e pasul dinaintea lor. Poate fi luată singură, iar dacă lansăm
-            ansamblul împreună se scade integral din pachetul de lansare.
-            <a href="/marketing-dezvoltatori-imobiliari/">Vezi pachetele pentru dezvoltatori</a>.
+            ansamblul împreună se scade integral din costul brandului și al site-ului.
+            <a href="/marketing-dezvoltatori-imobiliari/#preturi">Vezi prețurile pentru dezvoltatori</a>.
           </p>
         </div>
       </div>
@@ -610,12 +610,12 @@
       </p>
       <div class="az-cta__acts">
         <a href="/contact/" class="btn btn-solid">Cere analiza pentru proiectul tău <span aria-hidden="true">→</span></a>
-        <a href="/marketing-dezvoltatori-imobiliari/" class="btn btn-ghost">Vezi pachetele complete</a>
+        <a href="/marketing-dezvoltatori-imobiliari/#preturi" class="btn btn-ghost">Vezi toate prețurile</a>
       </div>
     </div>
   </section>
 
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"8wEhfjFcBq6RYx0Yciky0"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"qEN6wprvOns1gn_TxMHgd"}
 4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
 7:null

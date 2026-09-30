@@ -33,7 +33,7 @@
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();0:{"P":null,"c":["","marketing-dezvoltatori-imobiliari",""],"q":"","i":false,"f":[[["",{"children":["marketing-dezvoltatori-imobiliari",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2t44x5vm81k62.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/128am0rogg1gy.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"8wEhfjFcBq6RYx0Yciky0"}
+})();0:{"P":null,"c":["","marketing-dezvoltatori-imobiliari",""],"q":"","i":false,"f":[[["",{"children":["marketing-dezvoltatori-imobiliari",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2t44x5vm81k62.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/128am0rogg1gy.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"qEN6wprvOns1gn_TxMHgd"}
 c:I[36621,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 17:I[39756,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 18:I[37457,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
@@ -683,7 +683,7 @@ f:Tf55,<header class="nav" id="nav" role="banner">
 </footer>
 4:["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$b"}}],["$","$Lc",null,{"headerRo":"$d","footerRo":"$e","headerEn":"$f","footerEn":"$10","headerFr":"$11","footerFr":"$12","headerReclama":"<header class=\"nav nav--lp\" id=\"nav\" role=\"banner\">\r\n  <div class=\"wrap nav__in\">\r\n    <span class=\"nav__logo\">\r\n      <img class=\"nav__logo-img nav__logo-img--light\" src=\"/media/sigla-mark-visience-new-colors.avif\"\r\n           alt=\"Visience\" width=\"160\" height=\"30\" fetchpriority=\"high\">\r\n      <img class=\"nav__logo-img nav__logo-img--dark\" src=\"/media/sigla-visience-dark.avif\"\r\n           alt=\"\" aria-hidden=\"true\" width=\"160\" height=\"30\">\r\n    </span>\r\n\r\n    <div class=\"nlp\">\r\n      <a href=\"tel:+40771486499\" class=\"nlp__tel\" aria-label=\"Sună la 0771 486 499\">\r\n        <i class=\"fas fa-phone\" aria-hidden=\"true\"></i><span>0771 486 499</span>\r\n      </a>\r\n      <a href=\"https://wa.me/40771486499\" target=\"_blank\" rel=\"noopener\" class=\"nlp__wa\" aria-label=\"Scrie pe WhatsApp\">\r\n        <i class=\"fab fa-whatsapp\" aria-hidden=\"true\"></i><span>WhatsApp</span>\r\n      </a>\r\n    </div>\r\n  </div>\r\n</header>\r\n","footerReclama":"$13","children":"$L14"}],"$L15","$L16"]}]
 5:["$","$1","c",{"children":[null,["$","$L17",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
-19:T15c3,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari/#service","name":"Marketing imobiliar pentru dezvoltatori","serviceType":"Marketing imobiliar și branding pentru ansambluri rezidențiale","description":"Strategie, branding de ansamblu, website cu pagini de apartamente, campanii Google și Meta Ads, remarketing, email și CRM pentru dezvoltatori imobiliari.","provider":{"@type":"Organization","name":"Visience Creative Experience","url":"https://visience.ro/"},"areaServed":{"@type":"Country","name":"România"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Pachete de marketing imobiliar","itemListElement":[{"@type":"Offer","name":"Brand & Site","price":"3500","priceCurrency":"EUR","description":"Branding starter, website 5–7 pagini, o pagină tip apartament, SEO tehnic de bază. Pentru ansambluri sub 30 de unități."},{"@type":"Offer","name":"Standard","price":"6500","priceCurrency":"EUR","description":"Branding complet, website 10–15 pagini, pagini per tip apartament, campanii Google + Meta, CRM și raport lunar. Management 1.500€/lună."},{"@type":"Offer","name":"Ecosistem Complet","price":"12000","priceCurrency":"EUR","description":"Tot din Standard, plus coordonare producție vizuală, virtual tour 360, social media, newsletter și account manager dedicat. Management 4.500€/lună."}]}},{"@type":"FAQPage","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari/#faq","mainEntity":[{"@type":"Question","name":"În cât timp pot lansa site-ul ansamblului meu?","acceptedAnswer":{"@type":"Answer","text":"Depinde de câte tipologii de apartament intră pe site și de cât de repede primim planurile și randările. Termenul îl fixăm în ofertă și îl ținem."}},{"@type":"Question","name":"Cât cheltui lunar pe Google și Meta Ads?","acceptedAnswer":{"@type":"Answer","text":"Bugetul de Ads NU este inclus în pachetele noastre — îl plătești direct la Google și Meta. Recomandăm minim 1.000€/lună pe Google + 800€/lună pe Meta pentru un cartier mediu. Orientativ, împărțim 60% Google (căutări cu intenție) și 40% Meta, apoi mutăm lunar bugetul spre canalul cu cel mai mic cost per lead."}},{"@type":"Question","name":"Aveți experiență cu vânzări pe credit ipotecar?","acceptedAnswer":{"@type":"Answer","text":"Da. Toate site-urile noastre includ pagini despre opțiunile de plată, simulator credit, parteneri bancari. Lucrăm cu agenți de creditare pentru a integra calculator interactiv pe site."}},{"@type":"Question","name":"Puteți colabora cu agenția de PR sau agentul imobiliar al meu?","acceptedAnswer":{"@type":"Answer","text":"Da, lucrăm frecvent în echipe extinse. Coordonăm cu agentul imobiliar pentru lead handover, cu PR-ul pentru consistență mesaj, cu fotografi/3D pentru asset-uri vizuale."}},{"@type":"Question","name":"Ce se întâmplă după ce se vinde ultima unitate? Mai am nevoie de site?","acceptedAnswer":{"@type":"Answer","text":"Păstrăm site-ul live pentru încrederea de brand (cumpărătorii vor să-l verifice). Reducem bugetul de Ads la minimum. Dacă lansezi următoarea fază sau proiect, începem ușor — fundamentul de brand și CRM există deja."}},{"@type":"Question","name":"Lucrați și cu dezvoltatori din afara Iașiului?","acceptedAnswer":{"@type":"Answer","text":"Da. Avem clienți în București, Cluj, Timișoara, Brașov și internațional (Italia, Franța, Germania). Toată colaborarea se poate face remote — întâlnirile pe Zoom/Meet funcționează la fel de bine."}},{"@type":"Question","name":"Cât costă marketingul pentru un ansamblu rezidențial?","acceptedAnswer":{"@type":"Answer","text":"Pachetele pornesc de la 3.500€ one-time pentru ansambluri mici (branding starter + website). Cel mai ales este Standard: de la 6.500€ setup + 1.500€/lună, cu campanii și raportare incluse. Toate prețurile sunt publice, pe această pagină — bugetul de Ads se plătește separat, direct la Google și Meta."}},{"@type":"Question","name":"Faceți și randări 3D fotorealiste?","acceptedAnswer":{"@type":"Answer","text":"Nu producem randări 3D in-house. Le preluăm pe cele făcute de arhitectul tău sau coordonăm un partener specializat, apoi le integrăm în website, campanii și materialele de vânzare. Tu rămâi cu un singur punct de contact, iar noi ne concentrăm pe ce facem cel mai bine: strategia și lead-urile."}},{"@type":"Question","name":"Cum vindem apartamente înainte de finalizarea construcției?","acceptedAnswer":{"@type":"Answer","text":"Vânzarea off-plan cere încredere: website cu planuri clare și stadiul lucrărilor actualizat lunar, listă de așteptare cu ofertă de lansare, campanii de notorietate în zonă și e-mailuri automate care țin lead-urile calde până la precontract. E modelul după care lucrăm pe fiecare proiect rezidențial."}},{"@type":"Question","name":"Colaborați cu agențiile imobiliare și portalurile de anunțuri?","acceptedAnswer":{"@type":"Answer","text":"Da. Coordonăm listările pe portaluri precum Imobiliare.ro și Storia, cu tracking separat pe fiecare canal, și predăm lead-urile către agenții tăi sau agenția parteneră prin CRM. Vezi exact de unde vine fiecare cumpărător și ce canal merită buget."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Marketing dezvoltatori imobiliari","item":"https://visience.ro/marketing-dezvoltatori-imobiliari/"}]}]}6:["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$19"}}],"$L1a"],null,"$L1b"]}]
+19:T16c0,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari/#service","name":"Marketing imobiliar pentru dezvoltatori","serviceType":"Marketing imobiliar și branding pentru ansambluri rezidențiale","description":"Strategie, branding de ansamblu, website cu pagini de apartamente, campanii Google și Meta Ads, remarketing, email și CRM pentru dezvoltatori imobiliari.","provider":{"@type":"Organization","name":"Visience Creative Experience","url":"https://visience.ro/"},"areaServed":{"@type":"Country","name":"România"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Servicii de marketing imobiliar","itemListElement":[{"@type":"Offer","name":"Analiză de zonă","price":"800","priceCurrency":"EUR","description":"Ansamblurile concurente, cererea online și profilul cumpărătorului, într-un document scris."},{"@type":"Offer","name":"Branding Standard","price":"1200","priceCurrency":"EUR","description":"3 variante de logo, paletă, identitate completă."},{"@type":"Offer","name":"Website Standard","price":"1200","priceCurrency":"EUR","description":"Până la 10 pagini, cu pagini de apartamente, CRM și grila de apartamente incluse."},{"@type":"Offer","name":"Management campanii Google și Meta","price":"200","priceCurrency":"EUR","description":"Pe lună, oricâte campanii, cu optimizare săptămânală și raport lunar."},{"@type":"Offer","name":"Strategie și plan de campanii","price":"500","priceCurrency":"EUR","description":"Pentru un ansamblu; fiecare ansamblu sau fază în plus, 250€."}]}},{"@type":"FAQPage","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari/#faq","mainEntity":[{"@type":"Question","name":"În cât timp pot lansa site-ul ansamblului meu?","acceptedAnswer":{"@type":"Answer","text":"Depinde de câte tipologii de apartament intră pe site și de cât de repede primim planurile și randările. Termenul îl fixăm în ofertă și îl ținem."}},{"@type":"Question","name":"Cât cheltui lunar pe Google și Meta Ads?","acceptedAnswer":{"@type":"Answer","text":"Bugetul de Ads NU este inclus în prețurile noastre — îl plătești direct la Google și Meta. Recomandăm minim 1.000€/lună pe Google + 800€/lună pe Meta pentru un cartier mediu. Orientativ, împărțim 60% Google (căutări cu intenție) și 40% Meta, apoi mutăm lunar bugetul spre canalul cu cel mai mic cost per lead."}},{"@type":"Question","name":"Aveți experiență cu vânzări pe credit ipotecar?","acceptedAnswer":{"@type":"Answer","text":"Da. Toate site-urile noastre includ pagini despre opțiunile de plată, simulator credit, parteneri bancari. Lucrăm cu agenți de creditare pentru a integra calculator interactiv pe site."}},{"@type":"Question","name":"Puteți colabora cu agenția de PR sau agentul imobiliar al meu?","acceptedAnswer":{"@type":"Answer","text":"Da, lucrăm frecvent în echipe extinse. Coordonăm cu agentul imobiliar pentru lead handover, cu PR-ul pentru consistență mesaj, cu fotografi/3D pentru asset-uri vizuale."}},{"@type":"Question","name":"Ce se întâmplă după ce se vinde ultima unitate? Mai am nevoie de site?","acceptedAnswer":{"@type":"Answer","text":"Păstrăm site-ul live pentru încrederea de brand (cumpărătorii vor să-l verifice). Reducem bugetul de Ads la minimum. Dacă lansezi următoarea fază sau proiect, începem ușor — fundamentul de brand și CRM există deja."}},{"@type":"Question","name":"Lucrați și cu dezvoltatori din afara Iașiului?","acceptedAnswer":{"@type":"Answer","text":"Da. Avem clienți în București, Cluj, Timișoara, Brașov și internațional (Italia, Franța, Germania). Toată colaborarea se poate face remote — întâlnirile pe Zoom/Meet funcționează la fel de bine."}},{"@type":"Question","name":"Cât costă marketingul pentru un ansamblu rezidențial?","acceptedAnswer":{"@type":"Answer","text":"Plătești fiecare serviciu separat, după ce îți trebuie. Brandul pornește de la 500€ pentru logo și ajunge la 2.500€ cu brand book complet, site-ul costă între 750€ și 2.500€, iar campaniile Google și Meta 200€ pe lună, oricâte campanii. Toate prețurile sunt publice, pe această pagină — bugetul de Ads se plătește separat, direct la Google și Meta."}},{"@type":"Question","name":"Faceți și randări 3D fotorealiste?","acceptedAnswer":{"@type":"Answer","text":"Nu producem randări 3D in-house. Le preluăm pe cele făcute de arhitectul tău sau coordonăm un partener specializat, apoi le integrăm în website, campanii și materialele de vânzare. Tu rămâi cu un singur punct de contact, iar noi ne concentrăm pe ce facem cel mai bine: strategia și lead-urile."}},{"@type":"Question","name":"Cum vindem apartamente înainte de finalizarea construcției?","acceptedAnswer":{"@type":"Answer","text":"Vânzarea off-plan cere încredere: website cu planuri clare și stadiul lucrărilor actualizat lunar, listă de așteptare cu ofertă de lansare, campanii de notorietate în zonă și e-mailuri automate care țin lead-urile calde până la precontract. E modelul după care lucrăm pe fiecare proiect rezidențial."}},{"@type":"Question","name":"Colaborați cu agențiile imobiliare și portalurile de anunțuri?","acceptedAnswer":{"@type":"Answer","text":"Da. Coordonăm listările pe portaluri precum Imobiliare.ro și Storia, cu tracking separat pe fiecare canal, și predăm lead-urile către agenții tăi sau agenția parteneră prin CRM. Vezi exact de unde vine fiecare cumpărător și ce canal merită buget."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Marketing dezvoltatori imobiliari","item":"https://visience.ro/marketing-dezvoltatori-imobiliari/"}]}]}6:["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$19"}}],"$L1a"],null,"$L1b"]}]
 1c:[]
 7:"$W1c"
 8:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":"$L1e"}],["$","div",null,{"hidden":true,"children":["$","$L1f",null,{"children":["$","$20",null,{"name":"Next.Metadata","children":"$L21"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
@@ -694,7 +694,7 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2t44x5vm81k62
 14:["$","$L17",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
 15:["$","$L22",null,{}]
 16:["$","$L23",null,{}]
-24:T12188,<style>
+24:T11ed8,<style>
 .dev-page { background: var(--cream); }
 
 .dev-section__head {
@@ -1494,6 +1494,10 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2t44x5vm81k62
 .br-tar__n { font-size: 14.5px; color: var(--ink); font-weight: 500; }
 .br-tar__n small { display: block; font-size: 12.5px; color: var(--mid); font-weight: 400; margin-top: 3px; }
 .br-tar__p { font-family: var(--f-d); font-weight: 700; font-size: 15px; color: var(--acc-deep); white-space: nowrap; }
+.br-tar__h { font-family: var(--f-d); font-size: 20px; font-weight: 700; margin: 40px 0 14px; }
+.br-h + .br-tar__h { margin-top: 6px; }
+.br-tar__i:last-child:nth-child(odd) { grid-column: 1 / -1; }
+.br-tar__cta { margin-top: 26px; }
 .br-nota { margin-top: 22px; font-size: 13px; line-height: 1.65; color: var(--mid); max-width: 82ch; }
 
 @media (max-width: 1000px) {
@@ -1713,7 +1717,7 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2t44x5vm81k62
       <div class="br-list rv rv-d2">
         <div class="br-list__i"><span class="br-list__n">01</span><div><h3>Un singur partener</h3><p>Brand, website, campanii, conținut și lead-uri sub același acoperiș. Un singur om de contact, nu cinci firme care dau vina una pe alta.</p></div></div>
         <div class="br-list__i"><span class="br-list__n">02</span><div><h3>Raportare clară</h3><p>Vezi ce funcționează și de unde vine fiecare cumpărător. Decizii pe date, nu pe presupuneri.</p></div></div>
-        <div class="br-list__i"><span class="br-list__n">03</span><div><h3>Fără prețuri ascunse</h3><p>Toate pachetele și tarifele sunt publice, pe această pagină. Fără surprize în factură.</p></div></div>
+        <div class="br-list__i"><span class="br-list__n">03</span><div><h3>Fără prețuri ascunse</h3><p>Toate prețurile sunt publice, pe această pagină, serviciu cu serviciu. Fără surprize în factură.</p></div></div>
         <div class="br-list__i"><span class="br-list__n">04</span><div><h3>Răspuns personal</h3><p>Rămânem implicați direct în proiect. Nu te pasăm unui junior după semnare.</p></div></div>
       </div>
     </div>
@@ -1999,100 +2003,55 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2t44x5vm81k62
   <section class="br-sec br-sec--cream" id="preturi">
     <div class="wrap">
       <div class="br-h rv">
-        <h2>Prețuri transparente, fără surprize</h2>
-        <p>Pachetele de marketing pentru un ansamblu rezidențial pornit de la zero: brand, website și campanii. Prețuri orientative, finalizate după un brief. Sumele sunt onorariul nostru de lucru; bugetul cu care cumperi spațiul de reclamă se plătește separat, direct către Google și Meta.</p>
+        <h2>Prețuri pe fiecare serviciu</h2>
+        <p>Plătești doar ce îți trebuie. Prețuri orientative, confirmate după un brief. Sumele sunt onorariul nostru de lucru; bugetul cu care cumperi spațiul de reclamă se plătește separat, direct către Google și Meta.</p>
       </div>
-      <div class="br-pk rv rv-d2">
-        <div class="br-pk__c">
-          <p class="br-pk__tag">Start</p>
-          <p class="br-pk__n">Sub 30 de unități</p>
-          <p class="br-pk__d">Tot ce trebuie ca să pornești vânzarea, fără abonament mare lunar.</p>
-          <p class="br-pk__pret">3.500€</p>
-          <p class="br-pk__sub">cost unic, plus 200€/lună pentru campanii</p>
-          <ul class="br-pk__l">
-            <li>Branding complet: 3 variante de logo, paletă, brand book</li>
-            <li>Website de 10-15 pagini, optimizat pentru căutări</li>
-            <li>Pagină dedicată pentru fiecare tip de apartament</li>
-            <li>CRM inclus și grila de apartamente pe site</li>
-            <li>Configurarea campaniilor și măsurarea conversiilor</li>
-            <li>Analytics, Search Console și profil Google Business</li>
-          </ul>
-          <a href="/contact/" class="btn btn-ghost">Cere ofertă</a>
-        </div>
-        <div class="br-pk__c br-pk__c--rec">
-          <p class="br-pk__tag">Recomandat</p>
-          <p class="br-pk__n">Standard</p>
-          <p class="br-pk__d">Pentru cartiere medii, 30-80 de unități, cu obiective clare de vânzări.</p>
-          <p class="br-pk__pret">6.500€</p>
-          <p class="br-pk__sub">cost unic, plus 1.500€/lună pentru campanii</p>
-          <ul class="br-pk__l">
-            <li>Branding premium: brand book complet și animație de logo</li>
-            <li>Website premium: 3 variante de design, animații, copywriting</li>
-            <li>Pagini cu planuri și prețuri pentru fiecare tipologie</li>
-            <li>CRM și grila de apartamente</li>
-            <li>Strategie și plan de campanii pe toată perioada de vânzare</li>
-            <li>Remarketing și automatizări</li>
-          </ul>
-          <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
-        </div>
-        <div class="br-pk__c">
-          <p class="br-pk__tag">Ecosistem complet</p>
-          <p class="br-pk__n">Peste 80 de unități</p>
-          <p class="br-pk__d">Pentru ansambluri mari sau dezvoltatori cu mai multe proiecte.</p>
-          <p class="br-pk__pret">12.000€</p>
-          <p class="br-pk__sub">cost unic, plus 4.500€/lună pentru campanii</p>
-          <ul class="br-pk__l">
-            <li>Tot ce e în Standard, plus:</li>
-            <li>Coordonare producție foto, video și randări 3D</li>
-            <li>Tur virtual 360 al apartamentelor</li>
-            <li>Configurator de apartamente, cu filtrare</li>
-            <li>Website în două limbi</li>
-            <li>Pachet complet de materiale print</li>
-          </ul>
-          <a href="/contact/" class="btn btn-ghost">Cere ofertă</a>
-        </div>
-      </div>
-      <p class="br-nota">Bugetul de reclame nu este inclus. Onorariul lunar acoperă munca noastră: construcția campaniilor, textele, creativele, optimizarea și raportul. Banii cu care se cumpără afișările se plătesc direct către Google și Meta, din cardul tău, și rămân integral la ei. Pentru un ansamblu mediu recomandăm de la 1.500-2.500€ pe lună.</p>
-    </div>
-  </section>
-
-  <section class="br-sec">
-    <div class="wrap">
-      <div class="br-h rv">
-        <h2>Ai deja site? Plătești doar campaniile</h2>
-        <p>Nu reconstruim nimic. Pornim campaniile pe site-ul tău și îl ținem în formă cât timp rulează reclamele, ca banii de publicitate să nu se piardă pe o pagină care nu răspunde la întrebările cumpărătorului.</p>
-      </div>
-      <div class="br-pk rv rv-d2" style="grid-template-columns:1fr">
-        <div class="br-pk__c br-pk__c--rec" style="max-width:520px">
-          <p class="br-pk__tag">Recomandat</p>
-          <p class="br-pk__n">Campanii gestionate</p>
-          <p class="br-pk__d">Tot ce trebuie ca să meargă reclamele, pe bucăți.</p>
-          <ul class="br-pk__l">
-            <li>Management campanii Google și Meta, oricâte campanii: <strong>200€/lună</strong></li>
-            <li>Reparații și optimizări pe site, 4 ore × 60€: <strong>240€/lună</strong></li>
-            <li>Optimizare săptămânală a campaniilor: inclusă</li>
-            <li>Măsurarea conversiilor și raport lunar: incluse</li>
-            <li>Configurare, o singură dată: <strong>200€</strong>, gratuită la contract pe 12 luni</li>
-          </ul>
-          <p class="br-pk__sub">Total: 440€ pe lună, plus configurarea.</p>
-          <a href="/contact/" class="btn btn-solid">Pornește campaniile</a>
-        </div>
-      </div>
-
-      <h3 class="br-h" style="margin:44px 0 18px;font-family:var(--f-d);font-size:20px;font-weight:700">Sau iei doar ce îți trebuie</h3>
+      <h3 class="br-tar__h">Înainte de lansare</h3>
       <div class="br-tar rv">
-        <div class="br-tar__i"><span class="br-tar__n">Management campanii Google și Meta<small>Un preț pe lună, oricâte campanii.</small></span><span class="br-tar__p">200€/lună</span></div>
-        <div class="br-tar__i"><span class="br-tar__n">Configurarea campaniilor și măsurarea conversiilor<small>O singură dată, înainte de prima campanie. Gratuită la contract pe 12 luni.</small></span><span class="br-tar__p">200€</span></div>
-        <div class="br-tar__i"><span class="br-tar__n">Strategie și plan de campanii<small>Pentru un ansamblu. Fiecare ansamblu în plus: 250€.</small></span><span class="br-tar__p">500€</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Analiză de zonă<small>Ansamblurile concurente, cererea online și profilul cumpărătorului, într-un document scris. Se scade din costul brandului și al site-ului dacă lansăm împreună.</small></span><span class="br-tar__p">800€</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Strategie și plan de campanii<small>Pentru un ansamblu. Fiecare ansamblu sau fază în plus: 250€.</small></span><span class="br-tar__p">500€</span></div>
+      </div>
+      <h3 class="br-tar__h">Brand</h3>
+      <div class="br-tar rv">
+        <div class="br-tar__i"><span class="br-tar__n">Logo<small>Logo unic, o revizie, toate variantele pentru tipar și online.</small></span><span class="br-tar__p">500€</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Branding Standard<small>3 variante de logo, paletă, identitate completă.</small></span><span class="br-tar__p">1.200€</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Branding Premium<small>Brand book complet, animație de logo, materiale.</small></span><span class="br-tar__p">2.500€</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Broșură de prezentare<small>5 pagini. Fiecare pagină în plus: 15€.</small></span><span class="br-tar__p">300€</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Design grafic și print<small>Bannere de șantier, flyere, roll-up.</small></span><span class="br-tar__p">50€/oră</span></div>
+      </div>
+      <h3 class="br-tar__h">Website</h3>
+      <div class="br-tar rv">
+        <div class="br-tar__i"><span class="br-tar__n">Website Basic<small>Până la 6 pagini: prezentare, apartamente, locație, contact.</small></span><span class="br-tar__p">750€</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Website Standard<small>Până la 10 pagini, SEO on-site complet.</small></span><span class="br-tar__p">1.200€</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Website Premium<small>3 variante de design, animații, copywriting.</small></span><span class="br-tar__p">2.500€</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Pagină de ofertă pentru campanii<small>O pagină dedicată campaniei, cu formular propriu.</small></span><span class="br-tar__p">500€</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Website în mai multe limbi<small>Traducerea paginilor și a formularelor.</small></span><span class="br-tar__p">de la 100€</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">CRM și grila de apartamente pe site<small>Toate lead-urile într-un singur loc și disponibilitatea la zi.</small></span><span class="br-tar__p">incluse</span></div>
+      </div>
+      <h3 class="br-tar__h">Campanii Google și Meta</h3>
+      <div class="br-tar rv">
+        <div class="br-tar__i"><span class="br-tar__n">Management campanii<small>Oricâte campanii. Optimizare săptămânală, raport lunar. Minim 3 luni.</small></span><span class="br-tar__p">200€/lună</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Configurarea campaniilor și măsurarea conversiilor<small>O singură dată. Gratuită la contract pe 12 luni.</small></span><span class="br-tar__p">200€</span></div>
         <div class="br-tar__i"><span class="br-tar__n">Remarketing<small>Reclame către vizitatorii care n-au lăsat datele.</small></span><span class="br-tar__p">200€</span></div>
         <div class="br-tar__i"><span class="br-tar__n">Automatizări<small>E-mailuri automate către cei care au lăsat datele.</small></span><span class="br-tar__p">300€/secvență</span></div>
-        <div class="br-tar__i"><span class="br-tar__n">SEO și Google Maps<small>Vizibilitate organică pentru zona ansamblului.</small></span><span class="br-tar__p">600€/lună</span></div>
-        <div class="br-tar__i"><span class="br-tar__n">Social media<small>8 postări pe lună. Cu 15 postări: 450€.</small></span><span class="br-tar__p">200€/lună</span></div>
-        <div class="br-tar__i"><span class="br-tar__n">Reparații și optimizări pe site<small>Viteză, formulare, pagini noi.</small></span><span class="br-tar__p">60€/oră</span></div>
-        <div class="br-tar__i"><span class="br-tar__n">Pagină de ofertă nouă<small>O pagină dedicată campaniei, cu formular propriu.</small></span><span class="br-tar__p">500€</span></div>
-        <div class="br-tar__i"><span class="br-tar__n">Analiză de zonă<small>Înainte de orice pachet. Se scade din pachetul de lansare.</small></span><span class="br-tar__p">800€</span></div>
       </div>
-      <p class="br-nota">Sumele sunt onorariul nostru și nu includ bugetul de reclamă. Bugetul se pune direct în conturile tale Google Ads și Meta și merge integral la ele. Managementul rămâne 200€ pe lună oricâte campanii rulezi; pentru fiecare ansamblu în plus se adaugă strategia și planul de campanii, 250€.</p>
+      <h3 class="br-tar__h">Conținut și vizibilitate</h3>
+      <div class="br-tar rv">
+        <div class="br-tar__i"><span class="br-tar__n">Strategie social media<small>Public, calendar pe 12 luni, tonul mărcii.</small></span><span class="br-tar__p">300€</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Social media, 8 postări<small>Grafică, texte, programare.</small></span><span class="br-tar__p">200€/lună</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Social media, 15 postări<small>Plus story-uri și raport lunar.</small></span><span class="br-tar__p">450€/lună</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">SEO și Google Maps<small>Vizibilitate organică pentru zona ansamblului. Minim 6 luni.</small></span><span class="br-tar__p">600€/lună</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Profil Google Business și rețele sociale<small>Create, verificate și completate.</small></span><span class="br-tar__p">300€</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Newsletter<small>Campanii lunare către lista de interesați, cu raport.</small></span><span class="br-tar__p">300€/lună</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Foto, video, dronă și tur virtual 360<small>Coordonăm fotograful, filmările și randările.</small></span><span class="br-tar__p">la cerere</span></div>
+      </div>
+      <h3 class="br-tar__h">După lansare</h3>
+      <div class="br-tar rv">
+        <div class="br-tar__i"><span class="br-tar__n">Reparații și optimizări pe site<small>Viteză, formulare, pagini noi.</small></span><span class="br-tar__p">60€/oră</span></div>
+        <div class="br-tar__i"><span class="br-tar__n">Mentenanță lunară<small>Actualizări, backup, mici modificări.</small></span><span class="br-tar__p">de la 100€/lună</span></div>
+      </div>
+      <p class="br-nota">Costuri în plus: domeniu 15€ și găzduire 85€ pe an. Bugetul de reclame nu este inclus: se pune direct în conturile tale Google Ads și Meta și merge integral la ele. Pentru un ansamblu mediu recomandăm de la 1.500-2.500€ pe lună.</p>
+      <p class="br-tar__cta"><a href="/contact/" class="btn btn-solid">Cere ofertă pentru ansamblul tău <span aria-hidden="true">→</span></a></p>
     </div>
   </section>
 
@@ -2111,7 +2070,7 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2t44x5vm81k62
 
         <details class="dev-faq-item">
           <summary>Cât cheltui lunar pe Google și Meta Ads?</summary>
-          <p>Bugetul de Ads NU este inclus în pachetele noastre — îl plătești direct la Google și Meta. Recomandăm minim 1.000€/lună pe Google + 800€/lună pe Meta pentru un cartier mediu. Orientativ, împărțim 60% Google (căutări cu intenție) și 40% Meta, apoi mutăm lunar bugetul spre canalul cu cel mai mic cost per lead.</p>
+          <p>Bugetul de Ads NU este inclus în prețurile noastre — îl plătești direct la Google și Meta. Recomandăm minim 1.000€/lună pe Google + 800€/lună pe Meta pentru un cartier mediu. Orientativ, împărțim 60% Google (căutări cu intenție) și 40% Meta, apoi mutăm lunar bugetul spre canalul cu cel mai mic cost per lead.</p>
         </details>
 
         <details class="dev-faq-item">
@@ -2136,7 +2095,7 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2t44x5vm81k62
 
         <details class="dev-faq-item">
           <summary>Cât costă marketingul pentru un ansamblu rezidențial?</summary>
-          <p>Pachetele pornesc de la 3.500€ one-time pentru ansambluri mici (branding starter + website). Cel mai ales este Standard: de la 6.500€ setup + 1.500€/lună, cu campanii și raportare incluse. Prețurile pachetelor sunt publice, pe această pagină. Bugetul de Ads se plătește separat, direct la Google și Meta, iar analiza de zonă de la faza 01 costă 800€ și se scade din pachetul de lansare dacă mergem mai departe.</p>
+          <p>Plătești fiecare serviciu separat, după ce îți trebuie. Brandul pornește de la 500€ pentru logo și ajunge la 2.500€ cu brand book complet, site-ul costă între 750€ și 2.500€, iar campaniile Google și Meta 200€ pe lună, oricâte campanii. Toate prețurile sunt publice, pe această pagină. Bugetul de Ads se plătește separat, direct la Google și Meta, iar analiza de zonă costă 800€ și se scade din costul brandului și al site-ului dacă mergem mai departe.</p>
         </details>
 
         <details class="dev-faq-item">
@@ -2205,7 +2164,7 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2t44x5vm81k62
     <div class="rel-trans">
       <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
       <h2>Vezi exact cât plătești.</h2>
-      <p>Nu lucrăm cu tarife ascunse sau surprize în factură. Toate pachetele și prețurile noastre sunt publice. Alegi în cunoștință de cauză, fără presiune.</p>
+      <p>Nu lucrăm cu tarife ascunse sau surprize în factură. Toate prețurile noastre sunt publice, serviciu cu serviciu. Alegi în cunoștință de cauză, fără presiune.</p>
       <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
     </div>
     <div class="rel-links">
