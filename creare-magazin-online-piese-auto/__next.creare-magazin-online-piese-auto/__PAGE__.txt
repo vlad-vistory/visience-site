@@ -1,0 +1,210 @@
+1:"$Sreact.fragment"
+6:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["/_next/static/chunks/10yh402vs--l8.css","style"]
+2:T8c0,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-magazin-online-piese-auto/#service","name":"Creare magazin online de piese auto și moto","serviceType":"Creare magazin online de piese auto și moto","description":"Magazin online de piese auto și moto: căutare după vehicul, mii de produse pe categorii, livrare și retur, Google Shopping. Exemplu: PieseMoto.ro.","url":"https://visience.ro/creare-magazin-online-piese-auto/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"100","highPrice":"3500","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-magazin-online-piese-auto/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un magazin online de piese?","acceptedAnswer":{"@type":"Answer","text":"1.800€ un magazin cu produse sugerate, e-mail pentru coșul abandonat și două limbi, 3.500€ cu design unic și configurator. Căutarea după vehicul și importul de la furnizori se estimează la oră, 60€."}},{"@type":"Question","name":"Pot importa produsele de la furnizor?","acceptedAnswer":{"@type":"Answer","text":"Da, din fișierul furnizorului (CSV, Excel sau XML), cu prețurile și stocul. Dacă furnizorul trimite fișierul zilnic, importul se poate face automat."}},{"@type":"Question","name":"Cum fac ca piesele să apară în Google?","acceptedAnswer":{"@type":"Answer","text":"Cu SEO pe produse și categorii, de la 1.500€, și cu Google Shopping, 100€ configurarea. Campaniile costă 200€ pe lună, oricâte."}},{"@type":"Question","name":"Merge și pentru piese auto?","acceptedAnswer":{"@type":"Answer","text":"Da. Căutarea după marcă, model și an funcționează la fel pentru mașini, motociclete sau utilaje."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Site-uri pe domenii","item":"https://visience.ro/site-uri-pe-domenii/"},{"@type":"ListItem","position":3,"name":"Magazin online de piese auto și moto","item":"https://visience.ro/creare-magazin-online-piese-auto/"}]}]}3:T2969,<main id="main">
+
+<section class="csi-hero" aria-labelledby="csi-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="22%" x2="100%" y2="64%"/>
+      <line x1="0" y1="58%" x2="100%" y2="18%"/>
+      <line x1="24%" y1="0" x2="78%" y2="100%"/>
+      <line x1="66%" y1="0" x2="14%" y2="100%"/>
+    </svg>
+  </div>
+  <div class="wrap">
+    <nav class="csi-breadcrumbs" aria-label="Breadcrumbs">
+      <a href="/">Acasă</a><span class="sep">/</span>
+      <a href="/site-uri-pe-domenii/">Site-uri pe domenii</a><span class="sep">/</span>
+      <span>Magazin online de piese auto și moto</span>
+    </nav>
+
+    <h1 class="csi-hero__h1" id="csi-h1">
+      Magazin online de<br>
+      <span class="acc">piese auto și moto</span>
+    </h1>
+
+    <p class="csi-hero__lead">Omul știe ce motocicletă are, nu codul piesei. Dacă magazinul îl pune să caute printre zece mii de produse, pleacă. Dacă îl lasă să aleagă marca, modelul și anul și îi arată doar ce se potrivește, cumpără. Facem magazine de piese care lucrează așa.</p>
+
+    <div class="csi-hero__acts">
+      <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+      <a href="#exemple" class="btn btn-ghost" style="border-color:rgba(255,255,255,.25);color:#fff">Vezi exemple</a>
+    </div>
+
+    <div class="csi-hero__stats">
+      <div class="csi-hero__stat"><span class="n">1.800€</span><span class="l">magazin cu sugestii și două limbi</span></div>
+      <div class="csi-hero__stat"><span class="n">3.500€</span><span class="l">cu configurator</span></div>
+      <div class="csi-hero__stat"><span class="n">100€</span><span class="l">Google Shopping</span></div>
+      <div class="csi-hero__stat"><span class="n">1.500€</span><span class="l">SEO pentru magazin, de la</span></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Ce trebuie să aibă un magazin de <span class="acc">piese</span></h2>
+      <p class="body-lg" style="margin-top:14px">Ce îl ajută pe om să găsească piesa potrivită din prima.</p>
+    </div>
+    <div class="csi-grid csi-grid--3 rv rv-d1">
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-motorcycle"></i></div>
+        <h3>Căutare după vehicul</h3>
+        <p>Marcă, model, an, și doar piesele compatibile. PieseMoto are căutarea asta chiar pe prima pagină.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-layer-group"></i></div>
+        <h3>Catalog pe categorii</h3>
+        <p>Piese, accesorii, echipamente, anvelope, cu filtre pe marcă și preț.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-barcode"></i></div>
+        <h3>Coduri și echivalențe</h3>
+        <p>Codul original și codurile echivalente, ca omul să găsească piesa și după cod.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-truck-fast"></i></div>
+        <h3>Livrare și stoc</h3>
+        <p>Ce e în stoc pleacă azi, ce se aduce are termenul scris. Omul știe când primește piesa.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-user"></i></div>
+        <h3>Cont de client</h3>
+        <p>Istoricul comenzilor și vehiculele salvate, pentru comanda următoare.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-magnifying-glass-dollar"></i></div>
+        <h3>Google Shopping și SEO</h3>
+        <p>Piesele apar cu preț în Google, la căutări cu modelul vehiculului în ele.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream2" id="exemple">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Un magazin de <span class="acc">piese moto</span></h2>
+      <p class="body-lg" style="margin-top:14px">Cu link spre site.</p>
+    </div>
+    <div class="csi-porto csi-porto--1 rv rv-d1">
+      <a class="csi-shot" href="https://www.piesemoto.ro/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/piesemoto.avif" alt="Magazinul online de piese moto PieseMoto.ro, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>PieseMoto.ro</strong>Magazin online de piese, accesorii și echipamente moto: catalog pe categorii, informații de livrare și retur, cont de client.<span class="csi-shot__url">piesemoto.ro ↗</span></div>
+      </a>
+    </div>
+    <div class="rv rv-d2" style="text-align:center;margin-top:34px">
+      <a href="/portofoliu/" class="btn btn-ghost">Vezi tot portofoliul →</a>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white" id="preturi">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Cât costă, <span class="acc">pe fiecare serviciu</span></h2>
+      <p class="body-lg" style="margin-top:14px">Prețurile magazinului, pe fiecare serviciu.</p>
+    </div>
+    <div class="csi-pr rv rv-d1">
+      <div class="csi-pr-card feat">
+        <span class="csi-pr-card__badge">Recomandat</span>
+        <div class="csi-pr-card__name">Magazin Standard</div>
+        <div class="csi-pr-card__price">1.800€</div>
+        <p class="csi-pr-card__desc">Produse sugerate, e-mail pentru coșul abandonat, două limbi.</p>
+      </div>
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">Magazin Premium</div>
+        <div class="csi-pr-card__price">3.500€</div>
+        <p class="csi-pr-card__desc">Design unic, mega meniu, configurator de produse complexe.</p>
+      </div>
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">Google Shopping</div>
+        <div class="csi-pr-card__price">100€</div>
+        <p class="csi-pr-card__desc">Feed de produse și campanie, configurate o singură dată.</p>
+      </div>
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">SEO magazin online</div>
+        <div class="csi-pr-card__price">de la 1.500€</div>
+        <p class="csi-pr-card__desc">Produse, categorii și date structurate pentru mii de pagini.</p>
+      </div>
+    </div>
+    <p class="csi-pr-note rv rv-d2">
+      Se adaugă domeniul (15€) și găzduirea (85€ pe an). Căutarea după vehicul și importul de produse de la furnizori le estimăm la oră, 60€, după ce vedem fișierele. <a href="/preturi/">Vezi toate prețurile</a> sau <a href="/contact/">cere o ofertă</a>. Răspundem în 24 de ore.
+    </p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Întrebări <span class="acc">frecvente</span></h2>
+    </div>
+    <div class="csi-faq rv">
+      <details>
+        <summary>Cât costă un magazin online de piese?</summary>
+        <p>1.800€ un magazin cu produse sugerate, e-mail pentru coșul abandonat și două limbi, 3.500€ cu design unic și configurator. Căutarea după vehicul și importul de la furnizori se estimează la oră, 60€.</p>
+      </details>
+      <details>
+        <summary>Pot importa produsele de la furnizor?</summary>
+        <p>Da, din fișierul furnizorului (CSV, Excel sau XML), cu prețurile și stocul. Dacă furnizorul trimite fișierul zilnic, importul se poate face automat.</p>
+      </details>
+      <details>
+        <summary>Cum fac ca piesele să apară în Google?</summary>
+        <p>Cu SEO pe produse și categorii, de la 1.500€, și cu Google Shopping, 100€ configurarea. Campaniile costă 200€ pe lună, oricâte.</p>
+      </details>
+      <details>
+        <summary>Merge și pentru piese auto?</summary>
+        <p>Da. Căutarea după marcă, model și an funcționează la fel pentru mașini, motociclete sau utilaje.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-cta" aria-labelledby="csi-cta-h">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="dd dd-lg csi-cta__h" id="csi-cta-h">Vinzi piese?<br><span class="acc">Hai să le găsească oamenii după vehicul.</span></h2>
+      <p class="csi-cta__p">Spune-ne câte produse ai și de la ce furnizori. Primești în 24 de ore o ofertă pe servicii, cu prețul fiecăruia.</p>
+      <div class="csi-cta__acts">
+        <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+        <a href="tel:+40771486499" class="btn btn-dark">+40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Site-uri pe alte domenii și prețuri">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Toate prețurile noastre sunt publice, serviciu cu serviciu. Alegi în cunoștință de cauză, fără presiune.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Site-uri pe alte domenii</div>
+      <div class="rel-links__grid">
+        <a href="/creare-site-carmangerie/" class="rel-link"><span class="rel-link__name">Magazin online pentru carmangerie <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-magazin-online-produse-locale/" class="rel-link"><span class="rel-link__name">Magazin online pentru producători locali <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-magazin-online-rezervoare-gpl/" class="rel-link"><span class="rel-link__name">Magazin online rezervoare GPL <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-magazin-online-haine/" class="rel-link"><span class="rel-link__name">Magazin online de haine și bijuterii <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-restaurant/" class="rel-link"><span class="rel-link__name">Site pentru restaurant <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/site-uri-pe-domenii/" class="rel-link"><span class="rel-link__name">Toate domeniile <span class="arr" aria-hidden="true">↗</span></span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"scY-j1QzR4C98TB7VNNSr"}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/10yh402vs--l8.css","precedence":"next"}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

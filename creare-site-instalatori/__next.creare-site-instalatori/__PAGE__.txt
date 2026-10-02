@@ -1,0 +1,222 @@
+1:"$Sreact.fragment"
+6:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["/_next/static/chunks/10yh402vs--l8.css","style"]
+2:T8ed,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-instalatori/#service","name":"Creare site pentru instalatori și firme de foraje","serviceType":"Creare site pentru instalatori și firme de foraje","description":"Site pentru instalatori și foraje: telefon la vedere, servicii pe pagini, zone deservite, recenzii. Exemple: Instalator Timișoara, Foraje și Puțuri.","url":"https://visience.ro/creare-site-instalatori/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"200","highPrice":"750","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-instalatori/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site pentru instalator?","acceptedAnswer":{"@type":"Answer","text":"200€ un site de o pagină cu serviciile, zona și butonul de sunat, gata în 2 zile. 750€ un site de până la 6 pagini, câte una pe serviciu. Campaniile costă 200€ pe lună, oricâte."}},{"@type":"Question","name":"Ce e cel mai important pe site-ul unui instalator?","acceptedAnswer":{"@type":"Answer","text":"Telefonul, pus sus și ușor de apăsat pe mobil, și o pagină pentru fiecare serviciu. Oamenii caută exact problema lor, de exemplu „desfundare canalizare” și orașul."}},{"@type":"Question","name":"Faceți site-uri și pentru firme de foraje?","acceptedAnswer":{"@type":"Answer","text":"Da. La Foraje și Puțuri am făcut site-ul, paginile pe zone și campaniile Google Ads."}},{"@type":"Question","name":"Merită reclame Google pentru urgențe?","acceptedAnswer":{"@type":"Answer","text":"Da, pentru căutările cu „urgent” sau „non-stop” în ele: omul vrea să sune pe loc. Campaniile costă 200€ pe lună, oricâte, iar bugetul de reclamă se plătește direct platformelor."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Site-uri pe domenii","item":"https://visience.ro/site-uri-pe-domenii/"},{"@type":"ListItem","position":3,"name":"Site pentru instalatori și foraje","item":"https://visience.ro/creare-site-instalatori/"}]}]}3:T2ef6,<main id="main">
+
+<section class="csi-hero" aria-labelledby="csi-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="22%" x2="100%" y2="64%"/>
+      <line x1="0" y1="58%" x2="100%" y2="18%"/>
+      <line x1="24%" y1="0" x2="78%" y2="100%"/>
+      <line x1="66%" y1="0" x2="14%" y2="100%"/>
+    </svg>
+  </div>
+  <div class="wrap">
+    <nav class="csi-breadcrumbs" aria-label="Breadcrumbs">
+      <a href="/">Acasă</a><span class="sep">/</span>
+      <a href="/site-uri-pe-domenii/">Site-uri pe domenii</a><span class="sep">/</span>
+      <span>Site pentru instalatori și foraje</span>
+    </nav>
+
+    <h1 class="csi-hero__h1" id="csi-h1">
+      Site pentru<br>
+      <span class="acc">instalatori și foraje</span>
+    </h1>
+
+    <p class="csi-hero__lead">Țeava s-a spart la 7 dimineața. Omul caută „instalator” și orașul, deschide primul site și sună. Nu citește, nu compară. Pentru meseriile astea, site-ul are o singură treabă: să pună numărul de telefon în fața omului care are nevoie de el acum.</p>
+
+    <div class="csi-hero__acts">
+      <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+      <a href="#exemple" class="btn btn-ghost" style="border-color:rgba(255,255,255,.25);color:#fff">Vezi exemple</a>
+    </div>
+
+    <div class="csi-hero__stats">
+      <div class="csi-hero__stat"><span class="n">200€</span><span class="l">site de o pagină, în 2 zile</span></div>
+      <div class="csi-hero__stat"><span class="n">750€</span><span class="l">site cu servicii și zone</span></div>
+      <div class="csi-hero__stat"><span class="n">200€/lună</span><span class="l">campanii, oricâte</span></div>
+      <div class="csi-hero__stat"><span class="n">3</span><span class="l">firme de instalații și foraje</span></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Ce trebuie să aibă site-ul unui <span class="acc">instalator</span></h2>
+      <p class="body-lg" style="margin-top:14px">Pentru urgențe și pentru lucrările programate, în aceeași pagină.</p>
+    </div>
+    <div class="csi-grid csi-grid--3 rv rv-d1">
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-phone"></i></div>
+        <h3>Telefonul mereu la vedere</h3>
+        <p>Buton de sunat sus pe fiecare pagină și jos pe telefon. Se apasă dintr-un deget.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-list-check"></i></div>
+        <h3>Servicii pe pagini</h3>
+        <p>Sanitare, termice, centrale, desfundări, foraje. Fiecare cu pagina ei, ca să apară la căutarea exactă.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-map-pin"></i></div>
+        <h3>Zonele deservite</h3>
+        <p>Orașul, cartierele și localitățile din jur, scrise clar. La foraje, județele în care lucrezi.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-clock"></i></div>
+        <h3>Program și urgențe</h3>
+        <p>Non-stop sau program fix, spus din prima. Cine sună noaptea știe la ce să se aștepte.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-star"></i></div>
+        <h3>Recenzii reale</h3>
+        <p>Nota de pe Google și câteva recenzii, cu link spre profil.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-comments"></i></div>
+        <h3>WhatsApp cu poze</h3>
+        <p>Omul trimite o poză cu problema și primește un preț orientativ înainte să vii.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream2" id="exemple">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Site-uri pentru <span class="acc">instalații și foraje</span></h2>
+      <p class="body-lg" style="margin-top:14px">Timișoara, Ilfov și Torino, cu link spre site-ul fiecăruia.</p>
+    </div>
+    <div class="csi-porto csi-porto--3 rv rv-d1">
+      <a class="csi-shot" href="https://instalatortimisoaranonstop.ro/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/instalator.avif" alt="Site pentru Instalator Timișoara NON-STOP, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Instalator Timișoara NON-STOP</strong>Site și postări pentru un instalator cu urgențe 24/7: sanitare, termice, centrale, cu numărul de telefon pe primul ecran.<span class="csi-shot__url">instalatortimisoaranonstop.ro ↗</span></div>
+      </a>
+      <a class="csi-shot" href="https://forajesiputuri.ro/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/foraje.avif" alt="Site pentru firma Foraje și Puțuri din Ilfov, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Foraje și Puțuri — Ilfov</strong>Site, pagini pe zone și campanii Google Ads pentru o firmă de foraje de puțuri din Mogoșoaia, cu lucrări în București, Ilfov și județele din jur.<span class="csi-shot__url">forajesiputuri.ro ↗</span></div>
+      </a>
+      <a class="csi-shot" href="https://www.alitermica.it/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/alitermica.avif" alt="Site pentru firma de instalații Alitermica, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Alitermica — Torino</strong>Site pentru o firmă de instalații termice și de climatizare: soluții pe categorii, prezentarea firmei și galerie de lucrări.<span class="csi-shot__url">alitermica.it ↗</span></div>
+      </a>
+    </div>
+    <div class="rv rv-d2" style="text-align:center;margin-top:34px">
+      <a href="/portofoliu/" class="btn btn-ghost">Vezi tot portofoliul →</a>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white" id="preturi">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Cât costă, <span class="acc">pe fiecare serviciu</span></h2>
+      <p class="body-lg" style="margin-top:14px">Fiecare serviciu are prețul lui. Mulți încep cu site-ul de o pagină și adaugă campaniile după.</p>
+    </div>
+    <div class="csi-pr rv rv-d1">
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">Site de o pagină</div>
+        <div class="csi-pr-card__price">200€</div>
+        <p class="csi-pr-card__desc">Serviciile, zona, programul și butonul de sunat, gata în 2 zile. Domeniul și găzduirea incluse în primul an.</p>
+      </div>
+      <div class="csi-pr-card feat">
+        <span class="csi-pr-card__badge">Recomandat</span>
+        <div class="csi-pr-card__name">Website Basic</div>
+        <div class="csi-pr-card__price">750€</div>
+        <p class="csi-pr-card__desc">Până la 6 pagini: câte una pe serviciu, zone, contact.</p>
+      </div>
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">Pagină pentru campanii</div>
+        <div class="csi-pr-card__price">500€</div>
+        <p class="csi-pr-card__desc">O singură pagină făcută pentru reclame, cu telefonul și formularul.</p>
+      </div>
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">Campanii Google și Meta</div>
+        <div class="csi-pr-card__price">200€/lună</div>
+        <p class="csi-pr-card__desc">Oricâte campanii, cu raport lunar. Minim 3 luni.</p>
+      </div>
+    </div>
+    <p class="csi-pr-note rv rv-d2">
+      La site-urile de mai multe pagini se adaugă domeniul (15€) și găzduirea (85€ pe an). Configurarea campaniilor e gratuită la un contract pe 12 luni. <a href="/preturi/">Vezi toate prețurile</a> sau <a href="/contact/">cere o ofertă</a>. Răspundem în 24 de ore.
+    </p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Întrebări <span class="acc">frecvente</span></h2>
+    </div>
+    <div class="csi-faq rv">
+      <details>
+        <summary>Cât costă un site pentru instalator?</summary>
+        <p>200€ un site de o pagină cu serviciile, zona și butonul de sunat, gata în 2 zile. 750€ un site de până la 6 pagini, câte una pe serviciu. Campaniile costă 200€ pe lună, oricâte.</p>
+      </details>
+      <details>
+        <summary>Ce e cel mai important pe site-ul unui instalator?</summary>
+        <p>Telefonul, pus sus și ușor de apăsat pe mobil, și o pagină pentru fiecare serviciu. Oamenii caută exact problema lor, de exemplu „desfundare canalizare” și orașul.</p>
+      </details>
+      <details>
+        <summary>Faceți site-uri și pentru firme de foraje?</summary>
+        <p>Da. La Foraje și Puțuri am făcut site-ul, paginile pe zone și campaniile Google Ads.</p>
+      </details>
+      <details>
+        <summary>Merită reclame Google pentru urgențe?</summary>
+        <p>Da, pentru căutările cu „urgent” sau „non-stop” în ele: omul vrea să sune pe loc. Campaniile costă 200€ pe lună, oricâte, iar bugetul de reclamă se plătește direct platformelor.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-cta" aria-labelledby="csi-cta-h">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="dd dd-lg csi-cta__h" id="csi-cta-h">Ești instalator?<br><span class="acc">Hai să sune telefonul.</span></h2>
+      <p class="csi-cta__p">Spune-ne ce servicii faci și în ce zonă. Primești în 24 de ore o ofertă pe servicii, cu prețul fiecăruia.</p>
+      <div class="csi-cta__acts">
+        <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+        <a href="tel:+40771486499" class="btn btn-dark">+40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Site-uri pe alte domenii și prețuri">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Toate prețurile noastre sunt publice, serviciu cu serviciu. Alegi în cunoștință de cauză, fără presiune.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Site-uri pe alte domenii</div>
+      <div class="rel-links__grid">
+        <a href="/creare-magazin-online-rezervoare-gpl/" class="rel-link"><span class="rel-link__name">Magazin online rezervoare GPL <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-arhitectura/" class="rel-link"><span class="rel-link__name">Site pentru birou de arhitectură <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-mobila-la-comanda/" class="rel-link"><span class="rel-link__name">Site pentru mobilă la comandă <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-firma-constructii/" class="rel-link"><span class="rel-link__name">Site pentru firmă de construcții <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-restaurant/" class="rel-link"><span class="rel-link__name">Site pentru restaurant <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/site-uri-pe-domenii/" class="rel-link"><span class="rel-link__name">Toate domeniile <span class="arr" aria-hidden="true">↗</span></span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"scY-j1QzR4C98TB7VNNSr"}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/10yh402vs--l8.css","precedence":"next"}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

@@ -20,12 +20,23 @@
 - [Contact](https://visience.ro/contact/): telefon, WhatsApp, email și formular
 
 ## Site-uri pe domenii
-- [Magazin online rezervoare GPL](https://visience.ro/creare-magazin-online-rezervoare-gpl/): catalog pe capacități, calculator de consum, montaj și ISCIR, Google Shopping; exemple: Soluții Alpensam, Eco Tehno Star Impex (Vrancea)
-- [Site pentru restaurant](https://visience.ro/creare-site-restaurant/): meniu pe categorii, rezervări online, comenzi fără comisionul aplicațiilor; exemplu: Casa Vatră (Rădăuți)
-- [Site pentru patiserie](https://visience.ro/creare-site-patiserie/): catalog de torturi, formular de comandă cu data ridicării, avans plătit online
-- [Magazin online pentru carmangerie](https://visience.ro/creare-site-carmangerie/): produse la kilogram, livrare pe zone, plată la livrare, precomenzi de sezon; exemplu: Carmangeria Evei (Călărași)
-- [Site pentru birou de arhitectură](https://visience.ro/creare-site-arhitectura/): portofoliu pe categorii, o pagină pentru fiecare proiect, două limbi; exemple: IM Design Studio, Amodelic, BTG România
-- [Site pentru mobilă la comandă](https://visience.ro/creare-site-mobila-la-comanda/): lucrări pe camere, cereri de ofertă cu dimensiuni și poze; exemple: Artesano Mob (București), Iași Mobilier
+- [Toate domeniile](https://visience.ro/site-uri-pe-domenii/): ce trebuie să aibă site-ul în fiecare domeniu, cu exemple și prețuri
+- [Site pentru restaurant](https://visience.ro/creare-site-restaurant/): meniu pe categorii, rezervări, comenzi directe; exemplu: Casa Vatră (Rădăuți)
+- [Site pentru patiserie](https://visience.ro/creare-site-patiserie/): catalog de torturi, formular de comandă, avans plătit online
+- [Magazin online pentru carmangerie](https://visience.ro/creare-site-carmangerie/): produse la kilogram, livrare pe zone, plată la livrare; exemplu: Carmangeria Evei (Călărași)
+- [Site pentru pensiune](https://visience.ro/creare-site-pensiune/): camere cu prețuri, rezervare directă, recenzii, două limbi; exemple: Casa Vatră, Castello di Bagnolo
+- [Magazin online pentru producători locali](https://visience.ro/creare-magazin-online-produse-locale/): povestea fermei, livrare pe zone, brand și etichetă; exemple: Cantina Malpaga, Carmangeria Evei, Mier
+- [Magazin online rezervoare GPL](https://visience.ro/creare-magazin-online-rezervoare-gpl/): catalog pe capacități, calculator de consum, montaj și ISCIR; exemple: Soluții Alpensam, Eco Tehno Star Impex
+- [Site pentru birou de arhitectură](https://visience.ro/creare-site-arhitectura/): portofoliu pe categorii, pagină pe proiect, două limbi; exemple: IM Design Studio, Amodelic, BTG România
+- [Site pentru mobilă la comandă](https://visience.ro/creare-site-mobila-la-comanda/): lucrări pe camere, cereri de ofertă cu dimensiuni; exemple: Artesano Mob, Iași Mobilier
+- [Site pentru firmă de construcții](https://visience.ro/creare-site-firma-constructii/): lucrări înainte și după, deviz pe etape, calculator de preț; exemple: Zugrăvescu, Zugrăvim Iași, 2M Tech, Armur Design
+- [Site pentru instalatori și foraje](https://visience.ro/creare-site-instalatori/): telefon la vedere, servicii pe pagini, zone deservite; exemple: Instalator Timișoara NON-STOP, Foraje și Puțuri, Alitermica
+- [Magazin online de haine și bijuterii](https://visience.ro/creare-magazin-online-haine/): colecții, ghid de mărimi, comenzi personalizate; exemple: Lucia Roșca, DQ Design
+- [Magazin online de piese auto și moto](https://visience.ro/creare-magazin-online-piese-auto/): căutare după vehicul, import de la furnizori, Google Shopping; exemplu: PieseMoto.ro
+- [Site pentru firmă de producție](https://visience.ro/creare-site-firma-productie/): procese, certificări, cereri de ofertă tehnice, mai multe limbi; exemple: GS Gomma, Studio Vezzosi, Bransha, Ecologica 2000
+- [Platformă de cursuri online](https://visience.ro/creare-platforma-cursuri-online/): lecții video, teste, certificate, abonamente; exemplu: Edu-Net Academy
+- [Site pentru agenție imobiliară](https://visience.ro/creare-site-agentie-imobiliara/): proprietăți cu filtre și hartă, cereri la agent; exemple: 4Biz Properties, Bucegii la Fereastră
+- [Site pentru avocat](https://visience.ro/creare-site-avocat/): arii de practică pe pagini, articole, programare; exemplu: Studio Legale Lunghini (Milano)
 
 ## Proiecte imobiliare în portofoliu (Iași)
 - Cameo Residence (complex rezidențial): identitate de proiect, materiale de vânzare tipărite, conținut pentru social media

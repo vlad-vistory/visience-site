@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
 6:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-:HL["/_next/static/chunks/3p_bzywwxz5v9.css","style"]
-2:T9b2,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-restaurant/#service","name":"Creare site pentru restaurant","serviceType":"Creare site pentru restaurant","description":"Site pentru restaurant: meniul pe categorii, rezervări online și comenzi directe, schimbate ușor de pe telefon. De la 200€, gata în 2 zile.","url":"https://visience.ro/creare-site-restaurant/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"200","highPrice":"1000","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-restaurant/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site pentru restaurant?","acceptedAnswer":{"@type":"Answer","text":"200€ un site de o pagină cu meniul, programul și harta, gata în 2 zile. 750€ un site de până la 6 pagini cu meniu pe categorii și galerie. Rezervările online se adaugă cu 200€, iar comenzile cu plată online pornesc de la 1.000€."}},{"@type":"Question","name":"Pot schimba singur meniul și prețurile?","acceptedAnswer":{"@type":"Answer","text":"Da. Meniul se editează din panou, de pe telefon sau de pe calculator, fără să ne suni. La livrare îți arătăm cum."}},{"@type":"Question","name":"Pot primi comenzi fără aplicațiile de livrare?","acceptedAnswer":{"@type":"Answer","text":"Da. Comenzile vin direct pe site, cu plată cu cardul sau la livrare, fără comisionul aplicațiilor de livrare. Livrarea o faci tu sau curierul cu care lucrezi."}},{"@type":"Question","name":"Mă ajutați și cu Google Maps?","acceptedAnswer":{"@type":"Answer","text":"Da. Completăm profilul Google Business cu program, meniu și poze și îl legăm de site. Costă 300€, o singură dată."}},{"@type":"Question","name":"Faceți site-uri și pentru pensiuni sau hoteluri cu restaurant?","acceptedAnswer":{"@type":"Answer","text":"Da. La Casa Vatră, restaurantul și hotelul sunt pe același site, cu rezervări separate pentru masă și pentru cameră."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Creare site de prezentare","item":"https://visience.ro/creare-site-prezentare/"},{"@type":"ListItem","position":3,"name":"Site pentru restaurant","item":"https://visience.ro/creare-site-restaurant/"}]}]}3:T2d72,<main id="main">
+:HL["/_next/static/chunks/10yh402vs--l8.css","style"]
+2:T9a9,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-restaurant/#service","name":"Creare site pentru restaurant","serviceType":"Creare site pentru restaurant","description":"Site pentru restaurant: meniul pe categorii, rezervări online și comenzi directe, schimbate ușor de pe telefon. De la 200€, gata în 2 zile.","url":"https://visience.ro/creare-site-restaurant/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"200","highPrice":"1000","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-restaurant/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site pentru restaurant?","acceptedAnswer":{"@type":"Answer","text":"200€ un site de o pagină cu meniul, programul și harta, gata în 2 zile. 750€ un site de până la 6 pagini cu meniu pe categorii și galerie. Rezervările online se adaugă cu 200€, iar comenzile cu plată online pornesc de la 1.000€."}},{"@type":"Question","name":"Pot schimba singur meniul și prețurile?","acceptedAnswer":{"@type":"Answer","text":"Da. Meniul se editează din panou, de pe telefon sau de pe calculator, fără să ne suni. La livrare îți arătăm cum."}},{"@type":"Question","name":"Pot primi comenzi fără aplicațiile de livrare?","acceptedAnswer":{"@type":"Answer","text":"Da. Comenzile vin direct pe site, cu plată cu cardul sau la livrare, fără comisionul aplicațiilor de livrare. Livrarea o faci tu sau curierul cu care lucrezi."}},{"@type":"Question","name":"Mă ajutați și cu Google Maps?","acceptedAnswer":{"@type":"Answer","text":"Da. Completăm profilul Google Business cu program, meniu și poze și îl legăm de site. Costă 300€, o singură dată."}},{"@type":"Question","name":"Faceți site-uri și pentru pensiuni sau hoteluri cu restaurant?","acceptedAnswer":{"@type":"Answer","text":"Da. La Casa Vatră, restaurantul și hotelul sunt pe același site, cu rezervări separate pentru masă și pentru cameră."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Site-uri pe domenii","item":"https://visience.ro/site-uri-pe-domenii/"},{"@type":"ListItem","position":3,"name":"Site pentru restaurant","item":"https://visience.ro/creare-site-restaurant/"}]}]}3:T2e0b,<main id="main">
 
 <section class="csi-hero" aria-labelledby="csi-h1">
   <div class="line-bg" aria-hidden="true">
@@ -16,7 +16,7 @@
   <div class="wrap">
     <nav class="csi-breadcrumbs" aria-label="Breadcrumbs">
       <a href="/">Acasă</a><span class="sep">/</span>
-      <a href="/creare-site-prezentare/">Creare site de prezentare</a><span class="sep">/</span>
+      <a href="/site-uri-pe-domenii/">Site-uri pe domenii</a><span class="sep">/</span>
       <span>Site pentru restaurant</span>
     </nav>
 
@@ -203,17 +203,18 @@
     <div class="rel-links">
       <div class="rel-links__title">Site-uri pe alte domenii</div>
       <div class="rel-links__grid">
-        <a href="/creare-magazin-online-rezervoare-gpl/" class="rel-link"><span class="rel-link__name">Magazin online rezervoare GPL <span class="arr" aria-hidden="true">↗</span></span></a>
         <a href="/creare-site-patiserie/" class="rel-link"><span class="rel-link__name">Site pentru patiserie <span class="arr" aria-hidden="true">↗</span></span></a>
         <a href="/creare-site-carmangerie/" class="rel-link"><span class="rel-link__name">Magazin online pentru carmangerie <span class="arr" aria-hidden="true">↗</span></span></a>
-        <a href="/creare-site-arhitectura/" class="rel-link"><span class="rel-link__name">Site pentru birou de arhitectură <span class="arr" aria-hidden="true">↗</span></span></a>
-        <a href="/creare-site-mobila-la-comanda/" class="rel-link"><span class="rel-link__name">Site pentru mobilă la comandă <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-pensiune/" class="rel-link"><span class="rel-link__name">Site pentru pensiune <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-magazin-online-produse-locale/" class="rel-link"><span class="rel-link__name">Magazin online pentru producători locali <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-magazin-online-rezervoare-gpl/" class="rel-link"><span class="rel-link__name">Magazin online rezervoare GPL <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/site-uri-pe-domenii/" class="rel-link"><span class="rel-link__name">Toate domeniile <span class="arr" aria-hidden="true">↗</span></span></a>
       </div>
     </div>
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"40VjPMCK73TnFp_H7nJ9c"}
-4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3p_bzywwxz5v9.css","precedence":"next"}]
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"scY-j1QzR4C98TB7VNNSr"}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/10yh402vs--l8.css","precedence":"next"}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null

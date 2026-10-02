@@ -1,0 +1,216 @@
+1:"$Sreact.fragment"
+6:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["/_next/static/chunks/10yh402vs--l8.css","style"]
+2:T892,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-magazin-online-haine/#service","name":"Creare magazin online de haine și bijuterii","serviceType":"Creare magazin online de haine și bijuterii","description":"Magazin online pentru branduri de haine și bijuterii: colecții, mărimi, comenzi personalizate, poze mari, Google Shopping. Exemple: Lucia Roșca, DQ Design.","url":"https://visience.ro/creare-magazin-online-haine/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"100","highPrice":"3500","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-magazin-online-haine/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un magazin online de haine?","acceptedAnswer":{"@type":"Answer","text":"De la 1.000€ pentru un magazin cu catalog, coș și plată online, 1.800€ cu produse sugerate, e-mail pentru coșul abandonat și două limbi, 3.500€ cu design unic. Google Shopping se configurează cu 100€."}},{"@type":"Question","name":"Cum reduc retururile pentru mărime greșită?","acceptedAnswer":{"@type":"Answer","text":"Cu un tabel de mărimi în centimetri pe fiecare produs și cu măsurile modelului din poze. Omul compară cu o haină de-a lui care îi vine bine."}},{"@type":"Question","name":"Pot primi comenzi personalizate?","acceptedAnswer":{"@type":"Answer","text":"Da. Pe pagina produsului se pune un formular pentru mărime, culoare sau gravură, iar comanda ajunge la tine cu toate detaliile."}},{"@type":"Question","name":"Pot vinde și în afara României?","acceptedAnswer":{"@type":"Answer","text":"Da. Magazinul Standard are două limbi, iar livrarea se setează pe țări."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Site-uri pe domenii","item":"https://visience.ro/site-uri-pe-domenii/"},{"@type":"ListItem","position":3,"name":"Magazin online de haine și bijuterii","item":"https://visience.ro/creare-magazin-online-haine/"}]}]}3:T2c01,<main id="main">
+
+<section class="csi-hero" aria-labelledby="csi-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="22%" x2="100%" y2="64%"/>
+      <line x1="0" y1="58%" x2="100%" y2="18%"/>
+      <line x1="24%" y1="0" x2="78%" y2="100%"/>
+      <line x1="66%" y1="0" x2="14%" y2="100%"/>
+    </svg>
+  </div>
+  <div class="wrap">
+    <nav class="csi-breadcrumbs" aria-label="Breadcrumbs">
+      <a href="/">Acasă</a><span class="sep">/</span>
+      <a href="/site-uri-pe-domenii/">Site-uri pe domenii</a><span class="sep">/</span>
+      <span>Magazin online de haine și bijuterii</span>
+    </nav>
+
+    <h1 class="csi-hero__h1" id="csi-h1">
+      Magazin online de<br>
+      <span class="acc">haine și bijuterii</span>
+    </h1>
+
+    <p class="csi-hero__lead">Hainele și bijuteriile se cumpără cu ochii. Poza mare, materialul de aproape, cum cade pe corp. Apoi vine întrebarea care oprește jumătate din comenzi: ce mărime iau? Facem magazine care răspund la amândouă, pentru branduri mici care vând sub numele lor.</p>
+
+    <div class="csi-hero__acts">
+      <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+      <a href="#exemple" class="btn btn-ghost" style="border-color:rgba(255,255,255,.25);color:#fff">Vezi exemple</a>
+    </div>
+
+    <div class="csi-hero__stats">
+      <div class="csi-hero__stat"><span class="n">1.000€</span><span class="l">magazin online, de la</span></div>
+      <div class="csi-hero__stat"><span class="n">1.800€</span><span class="l">cu coș abandonat și două limbi</span></div>
+      <div class="csi-hero__stat"><span class="n">100€</span><span class="l">Google Shopping</span></div>
+      <div class="csi-hero__stat"><span class="n">12 ani</span><span class="l">experiență</span></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Ce trebuie să aibă un magazin de <span class="acc">haine și bijuterii</span></h2>
+      <p class="body-lg" style="margin-top:14px">Ce îl face pe om să cumpere înainte să probeze.</p>
+    </div>
+    <div class="csi-grid csi-grid--3 rv rv-d1">
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-shirt"></i></div>
+        <h3>Colecții și categorii</h3>
+        <p>Pe sezon, pe tip de produs, pe ocazie. Fiecare colecție cu pagina și povestea ei.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-ruler"></i></div>
+        <h3>Ghid de mărimi</h3>
+        <p>Tabel cu măsuri reale în centimetri, pe fiecare produs. Mai puține retururi pentru mărime greșită.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-magnifying-glass-plus"></i></div>
+        <h3>Poze mari, de aproape</h3>
+        <p>Materialul, cusăturile, închizătoarea. Se încarcă repede și pe telefon.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-scissors"></i></div>
+        <h3>Comenzi personalizate</h3>
+        <p>Mărime pe comandă, gravură, culoare la alegere, cu formular pe pagina produsului. Lucia Roșca primește așa comenzile custom.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-rotate-left"></i></div>
+        <h3>Retur explicat</h3>
+        <p>Cum și în cât timp se returnează, cu formularul cerut de lege. Omul cumpără mai ușor când știe că poate returna.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-magnifying-glass-dollar"></i></div>
+        <h3>Google Shopping</h3>
+        <p>Produsul apare cu poză și preț în Google, la căutări ca „rochie de seară neagră”.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream2" id="exemple">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Magazine și site-uri pentru <span class="acc">modă și bijuterii</span></h2>
+      <p class="body-lg" style="margin-top:14px">Un brand românesc și un atelier din Bangkok, cu link spre site.</p>
+    </div>
+    <div class="csi-porto rv rv-d1">
+      <a class="csi-shot" href="https://luciarosca.ro/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/luciarosca.avif" alt="Magazin online pentru brandul Lucia Roșca, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Lucia Roșca — modă feminină</strong>Magazin online refăcut pentru un brand de modă feminină: catalog pe categorii, pagini de colecție, comenzi custom și un parcurs de cumpărare refăcut.<span class="csi-shot__url">luciarosca.ro ↗</span></div>
+      </a>
+      <a class="csi-shot" href="https://dqdesign.co.th/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/dqdesign.avif" alt="Site pentru atelierul de bijuterii DQ Design, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>DQ Design — bijuterii, Bangkok</strong>Site de prezentare pentru un atelier de bijuterii: povestea atelierului, serviciile de producție și colecțiile.<span class="csi-shot__url">dqdesign.co.th ↗</span></div>
+      </a>
+    </div>
+    <div class="rv rv-d2" style="text-align:center;margin-top:34px">
+      <a href="/portofoliu/" class="btn btn-ghost">Vezi tot portofoliul →</a>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white" id="preturi">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Cât costă, <span class="acc">pe fiecare serviciu</span></h2>
+      <p class="body-lg" style="margin-top:14px">Prețurile magazinului, pe fiecare serviciu.</p>
+    </div>
+    <div class="csi-pr rv rv-d1">
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">Magazin Basic</div>
+        <div class="csi-pr-card__price">1.000€</div>
+        <p class="csi-pr-card__desc">Catalog, coș, plată cu cardul sau ramburs, livrare.</p>
+      </div>
+      <div class="csi-pr-card feat">
+        <span class="csi-pr-card__badge">Recomandat</span>
+        <div class="csi-pr-card__name">Magazin Standard</div>
+        <div class="csi-pr-card__price">1.800€</div>
+        <p class="csi-pr-card__desc">Plus produse sugerate, e-mail pentru coșul abandonat și două limbi.</p>
+      </div>
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">Magazin Premium</div>
+        <div class="csi-pr-card__price">3.500€</div>
+        <p class="csi-pr-card__desc">Design unic, mega meniu cu imagini, chat live.</p>
+      </div>
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">Google Shopping</div>
+        <div class="csi-pr-card__price">100€</div>
+        <p class="csi-pr-card__desc">Feed de produse și campanie, configurate o singură dată.</p>
+      </div>
+    </div>
+    <p class="csi-pr-note rv rv-d2">
+      Se adaugă domeniul (15€) și găzduirea (85€ pe an). Campaniile Google și Meta costă 200€ pe lună, oricâte. <a href="/preturi/">Vezi toate prețurile</a> sau <a href="/contact/">cere o ofertă</a>. Răspundem în 24 de ore.
+    </p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Întrebări <span class="acc">frecvente</span></h2>
+    </div>
+    <div class="csi-faq rv">
+      <details>
+        <summary>Cât costă un magazin online de haine?</summary>
+        <p>De la 1.000€ pentru un magazin cu catalog, coș și plată online, 1.800€ cu produse sugerate, e-mail pentru coșul abandonat și două limbi, 3.500€ cu design unic. Google Shopping se configurează cu 100€.</p>
+      </details>
+      <details>
+        <summary>Cum reduc retururile pentru mărime greșită?</summary>
+        <p>Cu un tabel de mărimi în centimetri pe fiecare produs și cu măsurile modelului din poze. Omul compară cu o haină de-a lui care îi vine bine.</p>
+      </details>
+      <details>
+        <summary>Pot primi comenzi personalizate?</summary>
+        <p>Da. Pe pagina produsului se pune un formular pentru mărime, culoare sau gravură, iar comanda ajunge la tine cu toate detaliile.</p>
+      </details>
+      <details>
+        <summary>Pot vinde și în afara României?</summary>
+        <p>Da. Magazinul Standard are două limbi, iar livrarea se setează pe țări.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-cta" aria-labelledby="csi-cta-h">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="dd dd-lg csi-cta__h" id="csi-cta-h">Ai un brand de haine sau bijuterii?<br><span class="acc">Hai să-l vinzi online.</span></h2>
+      <p class="csi-cta__p">Trimite-ne câteva produse și unde vinzi acum. Primești în 24 de ore o ofertă pe servicii, cu prețul fiecăruia.</p>
+      <div class="csi-cta__acts">
+        <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+        <a href="tel:+40771486499" class="btn btn-dark">+40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Site-uri pe alte domenii și prețuri">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Toate prețurile noastre sunt publice, serviciu cu serviciu. Alegi în cunoștință de cauză, fără presiune.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Site-uri pe alte domenii</div>
+      <div class="rel-links__grid">
+        <a href="/creare-site-carmangerie/" class="rel-link"><span class="rel-link__name">Magazin online pentru carmangerie <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-magazin-online-produse-locale/" class="rel-link"><span class="rel-link__name">Magazin online pentru producători locali <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-magazin-online-rezervoare-gpl/" class="rel-link"><span class="rel-link__name">Magazin online rezervoare GPL <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-magazin-online-piese-auto/" class="rel-link"><span class="rel-link__name">Magazin online de piese auto și moto <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-restaurant/" class="rel-link"><span class="rel-link__name">Site pentru restaurant <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/site-uri-pe-domenii/" class="rel-link"><span class="rel-link__name">Toate domeniile <span class="arr" aria-hidden="true">↗</span></span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"scY-j1QzR4C98TB7VNNSr"}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/10yh402vs--l8.css","precedence":"next"}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

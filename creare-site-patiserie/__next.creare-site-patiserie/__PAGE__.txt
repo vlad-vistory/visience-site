@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
 6:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-:HL["/_next/static/chunks/3p_bzywwxz5v9.css","style"]
-2:T8a0,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-patiserie/#service","name":"Creare site pentru patiserie și cofetărie","serviceType":"Creare site pentru patiserie și cofetărie","description":"Site pentru patiserie sau cofetărie: catalog de torturi și prăjituri, formular de comandă cu data ridicării, avans plătit online. De la 200€, prețuri publice.","url":"https://visience.ro/creare-site-patiserie/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"200","highPrice":"1000","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-patiserie/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site pentru patiserie?","acceptedAnswer":{"@type":"Answer","text":"200€ un site de o pagină, gata în 2 zile. 750€ un site cu catalog și formular de comandă pentru torturi. Comenzile cu plată online pornesc de la 1.000€. La site-urile de mai multe pagini se adaugă domeniul (15€) și găzduirea (85€ pe an)."}},{"@type":"Question","name":"Pot primi avans pentru torturi direct pe site?","acceptedAnswer":{"@type":"Answer","text":"Da, cu plata cu cardul. Comanda se confirmă când intră avansul, iar restul se plătește la ridicare."}},{"@type":"Question","name":"Pot schimba singur prețurile și pozele?","acceptedAnswer":{"@type":"Answer","text":"Da, din panou, fără cunoștințe tehnice. Un tort nou se pune cu poză, preț și descriere în câteva minute."}},{"@type":"Question","name":"Faceți și logo sau doar site?","acceptedAnswer":{"@type":"Answer","text":"Și logo, și identitate: de la 500€ un logo. La Amisfera, un brand de deserturi, am făcut logo-ul, postările și campaniile."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Creare site de prezentare","item":"https://visience.ro/creare-site-prezentare/"},{"@type":"ListItem","position":3,"name":"Site pentru patiserie","item":"https://visience.ro/creare-site-patiserie/"}]}]}3:T2d5e,<main id="main">
+:HL["/_next/static/chunks/10yh402vs--l8.css","style"]
+2:T897,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-patiserie/#service","name":"Creare site pentru patiserie și cofetărie","serviceType":"Creare site pentru patiserie și cofetărie","description":"Site pentru patiserie sau cofetărie: catalog de torturi și prăjituri, formular de comandă cu data ridicării, avans plătit online. De la 200€, prețuri publice.","url":"https://visience.ro/creare-site-patiserie/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"200","highPrice":"1000","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-patiserie/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site pentru patiserie?","acceptedAnswer":{"@type":"Answer","text":"200€ un site de o pagină, gata în 2 zile. 750€ un site cu catalog și formular de comandă pentru torturi. Comenzile cu plată online pornesc de la 1.000€. La site-urile de mai multe pagini se adaugă domeniul (15€) și găzduirea (85€ pe an)."}},{"@type":"Question","name":"Pot primi avans pentru torturi direct pe site?","acceptedAnswer":{"@type":"Answer","text":"Da, cu plata cu cardul. Comanda se confirmă când intră avansul, iar restul se plătește la ridicare."}},{"@type":"Question","name":"Pot schimba singur prețurile și pozele?","acceptedAnswer":{"@type":"Answer","text":"Da, din panou, fără cunoștințe tehnice. Un tort nou se pune cu poză, preț și descriere în câteva minute."}},{"@type":"Question","name":"Faceți și logo sau doar site?","acceptedAnswer":{"@type":"Answer","text":"Și logo, și identitate: de la 500€ un logo. La Amisfera, un brand de deserturi, am făcut logo-ul, postările și campaniile."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Site-uri pe domenii","item":"https://visience.ro/site-uri-pe-domenii/"},{"@type":"ListItem","position":3,"name":"Site pentru patiserie","item":"https://visience.ro/creare-site-patiserie/"}]}]}3:T2df7,<main id="main">
 
 <section class="csi-hero" aria-labelledby="csi-h1">
   <div class="line-bg" aria-hidden="true">
@@ -16,7 +16,7 @@
   <div class="wrap">
     <nav class="csi-breadcrumbs" aria-label="Breadcrumbs">
       <a href="/">Acasă</a><span class="sep">/</span>
-      <a href="/creare-site-prezentare/">Creare site de prezentare</a><span class="sep">/</span>
+      <a href="/site-uri-pe-domenii/">Site-uri pe domenii</a><span class="sep">/</span>
       <span>Site pentru patiserie</span>
     </nav>
 
@@ -205,17 +205,18 @@
     <div class="rel-links">
       <div class="rel-links__title">Site-uri pe alte domenii</div>
       <div class="rel-links__grid">
-        <a href="/creare-magazin-online-rezervoare-gpl/" class="rel-link"><span class="rel-link__name">Magazin online rezervoare GPL <span class="arr" aria-hidden="true">↗</span></span></a>
         <a href="/creare-site-restaurant/" class="rel-link"><span class="rel-link__name">Site pentru restaurant <span class="arr" aria-hidden="true">↗</span></span></a>
         <a href="/creare-site-carmangerie/" class="rel-link"><span class="rel-link__name">Magazin online pentru carmangerie <span class="arr" aria-hidden="true">↗</span></span></a>
-        <a href="/creare-site-arhitectura/" class="rel-link"><span class="rel-link__name">Site pentru birou de arhitectură <span class="arr" aria-hidden="true">↗</span></span></a>
-        <a href="/creare-site-mobila-la-comanda/" class="rel-link"><span class="rel-link__name">Site pentru mobilă la comandă <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-pensiune/" class="rel-link"><span class="rel-link__name">Site pentru pensiune <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-magazin-online-produse-locale/" class="rel-link"><span class="rel-link__name">Magazin online pentru producători locali <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-magazin-online-rezervoare-gpl/" class="rel-link"><span class="rel-link__name">Magazin online rezervoare GPL <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/site-uri-pe-domenii/" class="rel-link"><span class="rel-link__name">Toate domeniile <span class="arr" aria-hidden="true">↗</span></span></a>
       </div>
     </div>
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"40VjPMCK73TnFp_H7nJ9c"}
-4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3p_bzywwxz5v9.css","precedence":"next"}]
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"scY-j1QzR4C98TB7VNNSr"}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/10yh402vs--l8.css","precedence":"next"}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null

@@ -1,0 +1,193 @@
+1:"$Sreact.fragment"
+6:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["/_next/static/chunks/10yh402vs--l8.css","style"]
+2:Tad5,{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://visience.ro/site-uri-pe-domenii/#page","name":"Site-uri pe domenii","description":"Ce trebuie să aibă un site în domeniul tău: restaurant, pensiune, construcții, instalatori, magazine online, avocați și altele, cu exemple și prețuri.","url":"https://visience.ro/site-uri-pe-domenii/","mainEntity":{"@type":"ItemList","itemListElement":[{"@type":"ListItem","position":1,"name":"Site pentru restaurant","url":"https://visience.ro/creare-site-restaurant/"},{"@type":"ListItem","position":2,"name":"Site pentru patiserie","url":"https://visience.ro/creare-site-patiserie/"},{"@type":"ListItem","position":3,"name":"Magazin online pentru carmangerie","url":"https://visience.ro/creare-site-carmangerie/"},{"@type":"ListItem","position":4,"name":"Site pentru pensiune","url":"https://visience.ro/creare-site-pensiune/"},{"@type":"ListItem","position":5,"name":"Magazin online pentru producători locali","url":"https://visience.ro/creare-magazin-online-produse-locale/"},{"@type":"ListItem","position":6,"name":"Magazin online rezervoare GPL","url":"https://visience.ro/creare-magazin-online-rezervoare-gpl/"},{"@type":"ListItem","position":7,"name":"Site pentru birou de arhitectură","url":"https://visience.ro/creare-site-arhitectura/"},{"@type":"ListItem","position":8,"name":"Site pentru mobilă la comandă","url":"https://visience.ro/creare-site-mobila-la-comanda/"},{"@type":"ListItem","position":9,"name":"Site pentru firmă de construcții","url":"https://visience.ro/creare-site-firma-constructii/"},{"@type":"ListItem","position":10,"name":"Site pentru instalatori și foraje","url":"https://visience.ro/creare-site-instalatori/"},{"@type":"ListItem","position":11,"name":"Magazin online de haine și bijuterii","url":"https://visience.ro/creare-magazin-online-haine/"},{"@type":"ListItem","position":12,"name":"Magazin online de piese auto și moto","url":"https://visience.ro/creare-magazin-online-piese-auto/"},{"@type":"ListItem","position":13,"name":"Site pentru firmă de producție","url":"https://visience.ro/creare-site-firma-productie/"},{"@type":"ListItem","position":14,"name":"Platformă de cursuri online","url":"https://visience.ro/creare-platforma-cursuri-online/"},{"@type":"ListItem","position":15,"name":"Site pentru agenție imobiliară","url":"https://visience.ro/creare-site-agentie-imobiliara/"},{"@type":"ListItem","position":16,"name":"Site pentru avocat","url":"https://visience.ro/creare-site-avocat/"}]}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Site-uri pe domenii","item":"https://visience.ro/site-uri-pe-domenii/"}]}]}3:T2bae,<main id="main">
+
+<section class="csi-hero" aria-labelledby="csi-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="22%" x2="100%" y2="64%"/>
+      <line x1="0" y1="58%" x2="100%" y2="18%"/>
+      <line x1="24%" y1="0" x2="78%" y2="100%"/>
+      <line x1="66%" y1="0" x2="14%" y2="100%"/>
+    </svg>
+  </div>
+  <div class="wrap">
+    <nav class="csi-breadcrumbs" aria-label="Breadcrumbs">
+      <a href="/">Acasă</a><span class="sep">/</span>
+      <span>Site-uri pe domenii</span>
+    </nav>
+
+    <h1 class="csi-hero__h1" id="csi-h1">
+      Site-uri pe<br>
+      <span class="acc">domenii</span>
+    </h1>
+
+    <p class="csi-hero__lead">Un restaurant are nevoie de meniu și rezervări, un instalator de un telefon mereu la vedere, un birou de arhitectură de proiecte mari și rapide. Pentru fiecare domeniu am scris ce trebuie să aibă site-ul, cu exemple din portofoliu și prețul fiecărui serviciu.</p>
+
+    <div class="csi-hero__acts" style="margin-bottom:0">
+      <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+      <a href="/preturi/" class="btn btn-ghost" style="border-color:rgba(255,255,255,.25);color:#fff">Vezi toate prețurile</a>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white csi-hub-sec">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Mâncare și <span class="acc">ospitalitate</span></h2>
+    </div>
+    <div class="csi-porto csi-porto--3 rv rv-d1">
+      <a class="csi-shot" href="/creare-site-restaurant/">
+        <div class="csi-shot__img">
+          <img src="/media/nise/casavatra.avif" alt="Site pentru restaurant — exemple din portofoliul Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Site pentru restaurant</strong>Site pentru restaurant: meniul la zi, rezervări online, comenzi fără comision.<span class="csi-shot__url">Vezi pagina →</span></div>
+      </a>
+      <a class="csi-shot" href="/creare-site-patiserie/">
+        <div class="csi-shot__img">
+          <img src="/media/nise/amisfera.avif" alt="Site pentru patiserie — exemple din portofoliul Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Site pentru patiserie</strong>Site pentru patiserie: catalog de torturi, formular de comandă, avans plătit online.<span class="csi-shot__url">Vezi pagina →</span></div>
+      </a>
+      <a class="csi-shot" href="/creare-site-carmangerie/">
+        <div class="csi-shot__img">
+          <img src="/media/nise/carmangeria.avif" alt="Magazin online pentru carmangerie — exemple din portofoliul Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Magazin online pentru carmangerie</strong>Magazin online pentru carmangerie: produse la kilogram, livrare pe zone, plată la livrare.<span class="csi-shot__url">Vezi pagina →</span></div>
+      </a>
+      <a class="csi-shot" href="/creare-site-pensiune/">
+        <div class="csi-shot__img">
+          <img src="/media/nise/castello.avif" alt="Site pentru pensiune — exemple din portofoliul Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Site pentru pensiune</strong>Site pentru pensiune: camere, prețuri, rezervare directă, recenzii.<span class="csi-shot__url">Vezi pagina →</span></div>
+      </a>
+      <a class="csi-shot" href="/creare-magazin-online-produse-locale/">
+        <div class="csi-shot__img">
+          <img src="/media/nise/malpaga.avif" alt="Magazin online pentru producători locali — exemple din portofoliul Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Magazin online pentru producători locali</strong>Magazin online pentru producători locali: povestea fermei, livrare pe zone, brand.<span class="csi-shot__url">Vezi pagina →</span></div>
+      </a>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream2 csi-hub-sec">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Casă și <span class="acc">construcții</span></h2>
+    </div>
+    <div class="csi-porto csi-porto--3 rv rv-d1">
+      <a class="csi-shot" href="/creare-magazin-online-rezervoare-gpl/">
+        <div class="csi-shot__img">
+          <img src="/media/nise/alpensam.avif" alt="Magazin online rezervoare GPL — exemple din portofoliul Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Magazin online rezervoare GPL</strong>Magazine online pentru rezervoare GPL: catalog pe capacități, montaj și ISCIR explicate, Google Shopping.<span class="csi-shot__url">Vezi pagina →</span></div>
+      </a>
+      <a class="csi-shot" href="/creare-site-arhitectura/">
+        <div class="csi-shot__img">
+          <img src="/media/nise/imds.avif" alt="Site pentru birou de arhitectură — exemple din portofoliul Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Site pentru birou de arhitectură</strong>Site pentru birou de arhitectură: portofoliu pe categorii, o pagină pe proiect, două limbi.<span class="csi-shot__url">Vezi pagina →</span></div>
+      </a>
+      <a class="csi-shot" href="/creare-site-mobila-la-comanda/">
+        <div class="csi-shot__img">
+          <img src="/media/nise/artesano.avif" alt="Site pentru mobilă la comandă — exemple din portofoliul Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Site pentru mobilă la comandă</strong>Site pentru mobilă la comandă: lucrări pe camere, cereri de ofertă cu dimensiuni și poze.<span class="csi-shot__url">Vezi pagina →</span></div>
+      </a>
+      <a class="csi-shot" href="/creare-site-firma-constructii/">
+        <div class="csi-shot__img">
+          <img src="/media/nise/zugravescu.avif" alt="Site pentru firmă de construcții — exemple din portofoliul Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Site pentru firmă de construcții</strong>Site pentru firme de construcții și renovări: lucrări reale, deviz pe etape, cereri de ofertă.<span class="csi-shot__url">Vezi pagina →</span></div>
+      </a>
+      <a class="csi-shot" href="/creare-site-instalatori/">
+        <div class="csi-shot__img">
+          <img src="/media/nise/instalator.avif" alt="Site pentru instalatori și foraje — exemple din portofoliul Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Site pentru instalatori și foraje</strong>Site pentru instalatori și foraje: telefon la vedere, servicii, zone, recenzii.<span class="csi-shot__url">Vezi pagina →</span></div>
+      </a>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white csi-hub-sec">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Comerț <span class="acc">online</span></h2>
+    </div>
+    <div class="csi-porto csi-porto--3 rv rv-d1">
+      <a class="csi-shot" href="/creare-magazin-online-haine/">
+        <div class="csi-shot__img">
+          <img src="/media/nise/luciarosca.avif" alt="Magazin online de haine și bijuterii — exemple din portofoliul Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Magazin online de haine și bijuterii</strong>Magazin online de haine și bijuterii: colecții, ghid de mărimi, comenzi personalizate.<span class="csi-shot__url">Vezi pagina →</span></div>
+      </a>
+      <a class="csi-shot" href="/creare-magazin-online-piese-auto/">
+        <div class="csi-shot__img">
+          <img src="/media/nise/piesemoto.avif" alt="Magazin online de piese auto și moto — exemple din portofoliul Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Magazin online de piese auto și moto</strong>Magazin online de piese: căutare după vehicul, catalog mare, Google Shopping.<span class="csi-shot__url">Vezi pagina →</span></div>
+      </a>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream2 csi-hub-sec">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Servicii și <span class="acc">firme</span></h2>
+    </div>
+    <div class="csi-porto csi-porto--3 rv rv-d1">
+      <a class="csi-shot" href="/creare-site-firma-productie/">
+        <div class="csi-shot__img">
+          <img src="/media/nise/gsgomma.avif" alt="Site pentru firmă de producție — exemple din portofoliul Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Site pentru firmă de producție</strong>Site pentru firme de producție: procese, certificări, mai multe limbi, cereri de ofertă.<span class="csi-shot__url">Vezi pagina →</span></div>
+      </a>
+      <a class="csi-shot" href="/creare-platforma-cursuri-online/">
+        <div class="csi-shot__img">
+          <img src="/media/nise/edunet.avif" alt="Platformă de cursuri online — exemple din portofoliul Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Platformă de cursuri online</strong>Platformă de cursuri online: lecții video, teste, certificate, plată online.<span class="csi-shot__url">Vezi pagina →</span></div>
+      </a>
+      <a class="csi-shot" href="/creare-site-agentie-imobiliara/">
+        <div class="csi-shot__img">
+          <img src="/media/nise/4biz.avif" alt="Site pentru agenție imobiliară — exemple din portofoliul Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Site pentru agenție imobiliară</strong>Site pentru agenție imobiliară: proprietăți cu filtre, hartă, cereri la agent.<span class="csi-shot__url">Vezi pagina →</span></div>
+      </a>
+      <a class="csi-shot" href="/creare-site-avocat/">
+        <div class="csi-shot__img">
+          <img src="/media/nise/lunghini.avif" alt="Site pentru avocat — exemple din portofoliul Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Site pentru avocat</strong>Site pentru avocat: arii de practică, articole, programare la consultație.<span class="csi-shot__url">Vezi pagina →</span></div>
+      </a>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-cta" aria-labelledby="csi-cta-h">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="dd dd-lg csi-cta__h" id="csi-cta-h">Domeniul tău lipsește?<br><span class="acc">Spune-ne ce faci.</span></h2>
+      <p class="csi-cta__p">Îți spunem ce trebuie să aibă site-ul tău și cât costă fiecare serviciu. Răspundem în 24 de ore.</p>
+      <div class="csi-cta__acts">
+        <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+        <a href="tel:+40771486499" class="btn btn-dark">+40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"scY-j1QzR4C98TB7VNNSr"}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/10yh402vs--l8.css","precedence":"next"}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

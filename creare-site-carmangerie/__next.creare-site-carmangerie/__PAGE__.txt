@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
 6:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-:HL["/_next/static/chunks/3p_bzywwxz5v9.css","style"]
-2:T903,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-carmangerie/#service","name":"Creare site și magazin online pentru carmangerie","serviceType":"Creare site și magazin online pentru carmangerie","description":"Magazin online pentru carmangerie: produse la kilogram, livrare pe zone, plată la livrare, precomenzi de sezon. Exemplu: Carmangeria Evei.","url":"https://visience.ro/creare-site-carmangerie/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"750","highPrice":"1800","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-carmangerie/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un magazin online pentru carmangerie?","acceptedAnswer":{"@type":"Answer","text":"De la 1.000€ pentru un magazin cu coș, plată cu cardul sau ramburs și livrare. 1.800€ cu produse sugerate și e-mail pentru coșul abandonat. Livrarea pe zone sau prin curier se configurează cu 100€."}},{"@type":"Question","name":"Cum vând produse la kilogram online?","acceptedAnswer":{"@type":"Answer","text":"Produsul are prețul pe kilogram și un gramaj estimat. Omul comandă, de exemplu, un kilogram de cârnați, iar suma finală se ajustează la cântar și se încasează la livrare."}},{"@type":"Question","name":"Pot livra doar în orașul meu?","acceptedAnswer":{"@type":"Answer","text":"Da. Livrarea se setează pe zone: orașul, localitățile din jur sau doar ridicare de la magazin. Adresele din afara zonei nu pot finaliza comanda."}},{"@type":"Question","name":"Mă ajutați și cu reclamele?","acceptedAnswer":{"@type":"Answer","text":"Da. Campaniile Google și Meta costă 200€ pe lună, oricâte, iar bugetul de reclamă se plătește direct platformelor. La Carmangeria Evei ne ocupăm și de postări."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Creare magazin online","item":"https://visience.ro/creare-magazin-online/"},{"@type":"ListItem","position":3,"name":"Magazin online pentru carmangerie","item":"https://visience.ro/creare-site-carmangerie/"}]}]}3:T2bec,<main id="main">
+:HL["/_next/static/chunks/10yh402vs--l8.css","style"]
+2:T8ff,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-carmangerie/#service","name":"Creare site și magazin online pentru carmangerie","serviceType":"Creare site și magazin online pentru carmangerie","description":"Magazin online pentru carmangerie: produse la kilogram, livrare pe zone, plată la livrare, precomenzi de sezon. Exemplu: Carmangeria Evei.","url":"https://visience.ro/creare-site-carmangerie/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"750","highPrice":"1800","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-carmangerie/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un magazin online pentru carmangerie?","acceptedAnswer":{"@type":"Answer","text":"De la 1.000€ pentru un magazin cu coș, plată cu cardul sau ramburs și livrare. 1.800€ cu produse sugerate și e-mail pentru coșul abandonat. Livrarea pe zone sau prin curier se configurează cu 100€."}},{"@type":"Question","name":"Cum vând produse la kilogram online?","acceptedAnswer":{"@type":"Answer","text":"Produsul are prețul pe kilogram și un gramaj estimat. Omul comandă, de exemplu, un kilogram de cârnați, iar suma finală se ajustează la cântar și se încasează la livrare."}},{"@type":"Question","name":"Pot livra doar în orașul meu?","acceptedAnswer":{"@type":"Answer","text":"Da. Livrarea se setează pe zone: orașul, localitățile din jur sau doar ridicare de la magazin. Adresele din afara zonei nu pot finaliza comanda."}},{"@type":"Question","name":"Mă ajutați și cu reclamele?","acceptedAnswer":{"@type":"Answer","text":"Da. Campaniile Google și Meta costă 200€ pe lună, oricâte, iar bugetul de reclamă se plătește direct platformelor. La Carmangeria Evei ne ocupăm și de postări."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Site-uri pe domenii","item":"https://visience.ro/site-uri-pe-domenii/"},{"@type":"ListItem","position":3,"name":"Magazin online pentru carmangerie","item":"https://visience.ro/creare-site-carmangerie/"}]}]}3:T2c8a,<main id="main">
 
 <section class="csi-hero" aria-labelledby="csi-h1">
   <div class="line-bg" aria-hidden="true">
@@ -16,7 +16,7 @@
   <div class="wrap">
     <nav class="csi-breadcrumbs" aria-label="Breadcrumbs">
       <a href="/">Acasă</a><span class="sep">/</span>
-      <a href="/creare-magazin-online/">Creare magazin online</a><span class="sep">/</span>
+      <a href="/site-uri-pe-domenii/">Site-uri pe domenii</a><span class="sep">/</span>
       <span>Magazin online pentru carmangerie</span>
     </nav>
 
@@ -199,17 +199,18 @@
     <div class="rel-links">
       <div class="rel-links__title">Site-uri pe alte domenii</div>
       <div class="rel-links__grid">
-        <a href="/creare-magazin-online-rezervoare-gpl/" class="rel-link"><span class="rel-link__name">Magazin online rezervoare GPL <span class="arr" aria-hidden="true">↗</span></span></a>
         <a href="/creare-site-restaurant/" class="rel-link"><span class="rel-link__name">Site pentru restaurant <span class="arr" aria-hidden="true">↗</span></span></a>
         <a href="/creare-site-patiserie/" class="rel-link"><span class="rel-link__name">Site pentru patiserie <span class="arr" aria-hidden="true">↗</span></span></a>
-        <a href="/creare-site-arhitectura/" class="rel-link"><span class="rel-link__name">Site pentru birou de arhitectură <span class="arr" aria-hidden="true">↗</span></span></a>
-        <a href="/creare-site-mobila-la-comanda/" class="rel-link"><span class="rel-link__name">Site pentru mobilă la comandă <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-pensiune/" class="rel-link"><span class="rel-link__name">Site pentru pensiune <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-magazin-online-produse-locale/" class="rel-link"><span class="rel-link__name">Magazin online pentru producători locali <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-magazin-online-rezervoare-gpl/" class="rel-link"><span class="rel-link__name">Magazin online rezervoare GPL <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/site-uri-pe-domenii/" class="rel-link"><span class="rel-link__name">Toate domeniile <span class="arr" aria-hidden="true">↗</span></span></a>
       </div>
     </div>
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"40VjPMCK73TnFp_H7nJ9c"}
-4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3p_bzywwxz5v9.css","precedence":"next"}]
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"scY-j1QzR4C98TB7VNNSr"}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/10yh402vs--l8.css","precedence":"next"}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null

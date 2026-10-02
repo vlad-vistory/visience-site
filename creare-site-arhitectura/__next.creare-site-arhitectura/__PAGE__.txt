@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
 6:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-:HL["/_next/static/chunks/3p_bzywwxz5v9.css","style"]
-2:T8f9,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-arhitectura/#service","name":"Creare site pentru birou de arhitectură și proiectare","serviceType":"Creare site pentru birou de arhitectură și proiectare","description":"Site pentru birou de arhitectură: portofoliu pe categorii, o pagină pe proiect, două limbi. Exemple: IM Design Studio, Amodelic, BTG România.","url":"https://visience.ro/creare-site-arhitectura/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"750","highPrice":"2500","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-arhitectura/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site pentru un birou de arhitectură?","acceptedAnswer":{"@type":"Answer","text":"750€ un site de până la 6 pagini, 1.200€ un site de până la 10 pagini, cu pagini de proiect și SEO complet, 2.500€ un site cu design unic, trei variante de pornire și animații. A doua limbă pornește de la 100€."}},{"@type":"Question","name":"Pot adăuga singur proiecte noi?","acceptedAnswer":{"@type":"Answer","text":"Da. Un proiect nou se pune din panou, cu poze, text și categorie, fără cunoștințe tehnice. La livrare îți arătăm cum."}},{"@type":"Question","name":"Cum fac ca randările mari să nu încetinească site-ul?","acceptedAnswer":{"@type":"Answer","text":"Le comprimăm în formate moderne și le punem la mărimea potrivită pentru fiecare ecran: pe telefon se încarcă varianta mică, pe monitor cea mare."}},{"@type":"Question","name":"Faceți și identitate vizuală pentru birou?","acceptedAnswer":{"@type":"Answer","text":"Da, de la 500€ un logo și de la 1.200€ o identitate completă. La Amodelic am făcut și identitatea vizuală, nu doar site-ul."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Creare site de prezentare","item":"https://visience.ro/creare-site-prezentare/"},{"@type":"ListItem","position":3,"name":"Site pentru birou de arhitectură","item":"https://visience.ro/creare-site-arhitectura/"}]}]}3:T307e,<main id="main">
+:HL["/_next/static/chunks/10yh402vs--l8.css","style"]
+2:T8f0,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-arhitectura/#service","name":"Creare site pentru birou de arhitectură și proiectare","serviceType":"Creare site pentru birou de arhitectură și proiectare","description":"Site pentru birou de arhitectură: portofoliu pe categorii, o pagină pe proiect, două limbi. Exemple: IM Design Studio, Amodelic, BTG România.","url":"https://visience.ro/creare-site-arhitectura/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"750","highPrice":"2500","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-arhitectura/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site pentru un birou de arhitectură?","acceptedAnswer":{"@type":"Answer","text":"750€ un site de până la 6 pagini, 1.200€ un site de până la 10 pagini, cu pagini de proiect și SEO complet, 2.500€ un site cu design unic, trei variante de pornire și animații. A doua limbă pornește de la 100€."}},{"@type":"Question","name":"Pot adăuga singur proiecte noi?","acceptedAnswer":{"@type":"Answer","text":"Da. Un proiect nou se pune din panou, cu poze, text și categorie, fără cunoștințe tehnice. La livrare îți arătăm cum."}},{"@type":"Question","name":"Cum fac ca randările mari să nu încetinească site-ul?","acceptedAnswer":{"@type":"Answer","text":"Le comprimăm în formate moderne și le punem la mărimea potrivită pentru fiecare ecran: pe telefon se încarcă varianta mică, pe monitor cea mare."}},{"@type":"Question","name":"Faceți și identitate vizuală pentru birou?","acceptedAnswer":{"@type":"Answer","text":"Da, de la 500€ un logo și de la 1.200€ o identitate completă. La Amodelic am făcut și identitatea vizuală, nu doar site-ul."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Site-uri pe domenii","item":"https://visience.ro/site-uri-pe-domenii/"},{"@type":"ListItem","position":3,"name":"Site pentru birou de arhitectură","item":"https://visience.ro/creare-site-arhitectura/"}]}]}3:T312c,<main id="main">
 
 <section class="csi-hero" aria-labelledby="csi-h1">
   <div class="line-bg" aria-hidden="true">
@@ -16,7 +16,7 @@
   <div class="wrap">
     <nav class="csi-breadcrumbs" aria-label="Breadcrumbs">
       <a href="/">Acasă</a><span class="sep">/</span>
-      <a href="/creare-site-prezentare/">Creare site de prezentare</a><span class="sep">/</span>
+      <a href="/site-uri-pe-domenii/">Site-uri pe domenii</a><span class="sep">/</span>
       <span>Site pentru birou de arhitectură</span>
     </nav>
 
@@ -212,16 +212,17 @@
       <div class="rel-links__title">Site-uri pe alte domenii</div>
       <div class="rel-links__grid">
         <a href="/creare-magazin-online-rezervoare-gpl/" class="rel-link"><span class="rel-link__name">Magazin online rezervoare GPL <span class="arr" aria-hidden="true">↗</span></span></a>
-        <a href="/creare-site-restaurant/" class="rel-link"><span class="rel-link__name">Site pentru restaurant <span class="arr" aria-hidden="true">↗</span></span></a>
-        <a href="/creare-site-patiserie/" class="rel-link"><span class="rel-link__name">Site pentru patiserie <span class="arr" aria-hidden="true">↗</span></span></a>
-        <a href="/creare-site-carmangerie/" class="rel-link"><span class="rel-link__name">Magazin online pentru carmangerie <span class="arr" aria-hidden="true">↗</span></span></a>
         <a href="/creare-site-mobila-la-comanda/" class="rel-link"><span class="rel-link__name">Site pentru mobilă la comandă <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-firma-constructii/" class="rel-link"><span class="rel-link__name">Site pentru firmă de construcții <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-instalatori/" class="rel-link"><span class="rel-link__name">Site pentru instalatori și foraje <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-restaurant/" class="rel-link"><span class="rel-link__name">Site pentru restaurant <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/site-uri-pe-domenii/" class="rel-link"><span class="rel-link__name">Toate domeniile <span class="arr" aria-hidden="true">↗</span></span></a>
       </div>
     </div>
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"40VjPMCK73TnFp_H7nJ9c"}
-4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3p_bzywwxz5v9.css","precedence":"next"}]
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"scY-j1QzR4C98TB7VNNSr"}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/10yh402vs--l8.css","precedence":"next"}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null

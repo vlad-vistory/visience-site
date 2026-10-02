@@ -1,0 +1,228 @@
+1:"$Sreact.fragment"
+6:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["/_next/static/chunks/10yh402vs--l8.css","style"]
+2:T8dd,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-firma-productie/#service","name":"Creare site pentru firmă de producție și export","serviceType":"Creare site pentru firmă de producție și export","description":"Site pentru firme de producție și export: procese, certificări, capacitate, cereri de ofertă, în mai multe limbi. Exemple: GS Gomma, Studio Vezzosi, Bransha.","url":"https://visience.ro/creare-site-firma-productie/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"750","highPrice":"2500","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-firma-productie/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site pentru o firmă de producție?","acceptedAnswer":{"@type":"Answer","text":"750€ un site de până la 6 pagini, 1.200€ un site de până la 10 pagini, cu SEO complet și o pagină pe fiecare produs, 2.500€ cu design unic și animații. Fiecare limbă în plus pornește de la 100€."}},{"@type":"Question","name":"În câte limbi poate fi site-ul?","acceptedAnswer":{"@type":"Answer","text":"În câte ai nevoie. Bransha are site în cinci limbi, Studio Vezzosi în trei. Fiecare limbă în plus pornește de la 100€, după cât text are site-ul."}},{"@type":"Question","name":"Cine traduce textele tehnice?","acceptedAnswer":{"@type":"Answer","text":"Le traducem noi și verificăm cu tine termenii tehnici, pentru că un termen greșit într-o fișă tehnică poate costa o comandă."}},{"@type":"Question","name":"Pot primi cereri cu desene tehnice atașate?","acceptedAnswer":{"@type":"Answer","text":"Da. Formularul acceptă fișiere PDF și desene, cu o limită de mărime, iar cererea ajunge pe e-mail cu fișierul atașat."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Site-uri pe domenii","item":"https://visience.ro/site-uri-pe-domenii/"},{"@type":"ListItem","position":3,"name":"Site pentru firmă de producție","item":"https://visience.ro/creare-site-firma-productie/"}]}]}3:T2fdf,<main id="main">
+
+<section class="csi-hero" aria-labelledby="csi-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="22%" x2="100%" y2="64%"/>
+      <line x1="0" y1="58%" x2="100%" y2="18%"/>
+      <line x1="24%" y1="0" x2="78%" y2="100%"/>
+      <line x1="66%" y1="0" x2="14%" y2="100%"/>
+    </svg>
+  </div>
+  <div class="wrap">
+    <nav class="csi-breadcrumbs" aria-label="Breadcrumbs">
+      <a href="/">Acasă</a><span class="sep">/</span>
+      <a href="/site-uri-pe-domenii/">Site-uri pe domenii</a><span class="sep">/</span>
+      <span>Site pentru firmă de producție</span>
+    </nav>
+
+    <h1 class="csi-hero__h1" id="csi-h1">
+      Site pentru firmă de<br>
+      <span class="acc">producție și export</span>
+    </h1>
+
+    <p class="csi-hero__lead">Un cumpărător din Germania caută un furnizor de piese din cauciuc. Găsește trei fabrici. Prima are site doar în română. A doua, o pagină cu o poză cu hala. A treia îi arată procesele, certificările, capacitatea lunară și un formular în limba lui. Știi pe cine sună.</p>
+
+    <div class="csi-hero__acts">
+      <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+      <a href="#exemple" class="btn btn-ghost" style="border-color:rgba(255,255,255,.25);color:#fff">Vezi exemple</a>
+    </div>
+
+    <div class="csi-hero__stats">
+      <div class="csi-hero__stat"><span class="n">1.200€</span><span class="l">site cu SEO complet</span></div>
+      <div class="csi-hero__stat"><span class="n">100€</span><span class="l">limbă în plus, de la</span></div>
+      <div class="csi-hero__stat"><span class="n">5</span><span class="l">limbi pe un site făcut de noi</span></div>
+      <div class="csi-hero__stat"><span class="n">12 ani</span><span class="l">experiență</span></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Ce trebuie să aibă site-ul unei <span class="acc">firme de producție</span></h2>
+      <p class="body-lg" style="margin-top:14px">Ce verifică un cumpărător industrial înainte să ceară o ofertă.</p>
+    </div>
+    <div class="csi-grid csi-grid--3 rv rv-d1">
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-gears"></i></div>
+        <h3>Procesele, explicate</h3>
+        <p>Ce faci, cu ce utilaje și în ce toleranțe. Cumpărătorul tehnic caută detalii concrete.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-certificate"></i></div>
+        <h3>Certificări și calitate</h3>
+        <p>ISO, controlul calității, certificatele de produs, cu documentele de descărcat.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-industry"></i></div>
+        <h3>Capacitate și termene</h3>
+        <p>Ce volum poți produce și în cât timp. Asta decide dacă ajungi pe lista scurtă.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-language"></i></div>
+        <h3>Mai multe limbi</h3>
+        <p>Engleză, germană, italiană, după piețele în care vinzi. Site-ul Bransha e în cinci limbi.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-file-signature"></i></div>
+        <h3>Cerere de ofertă tehnică</h3>
+        <p>Formular cu desenul tehnic atașat, material, cantitate și termen. Ajunge direct la cine face ofertele.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-images"></i></div>
+        <h3>Producția, arătată</h3>
+        <p>Poze și video din hală, cu utilajele și oamenii tăi.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream2" id="exemple">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Site-uri pentru <span class="acc">producție și industrie</span></h2>
+      <p class="body-lg" style="margin-top:14px">Firme din Italia și România, cu link spre site-ul fiecăreia.</p>
+    </div>
+    <div class="csi-porto rv rv-d1">
+      <a class="csi-shot" href="https://gsgommasrl.it/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/gsgomma.avif" alt="Site pentru producătorul GS Gomma, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>GS Gomma — Piemont</strong>Site pentru un producător de piese din cauciuc: injecție, debavurare în azot, asamblare și control optic.<span class="csi-shot__url">gsgommasrl.it ↗</span></div>
+      </a>
+      <a class="csi-shot" href="https://studiovezzosi.com/en/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/vezzosi.avif" alt="Site pentru Studio Vezzosi, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Studio Vezzosi — Milano</strong>Site în italiană, engleză și rusă pentru o firmă de componente antiuzură și reprezentanțe industriale.<span class="csi-shot__url">studiovezzosi.com ↗</span></div>
+      </a>
+      <a class="csi-shot" href="https://bransha.ro/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/bransha.avif" alt="Site pentru firma de automatizări Bransha, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Bransha — automatizări</strong>Site în cinci limbi pentru o firmă de automatizări de clădiri: aplicația Munn și sistemul de apel soră.<span class="csi-shot__url">bransha.ro ↗</span></div>
+      </a>
+      <a class="csi-shot" href="https://ecologica2000.eu/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/ecologica.avif" alt="Site pentru Ecologica 2000, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Ecologica 2000 — Milano</strong>Site pentru o firmă de gestionare a deșeurilor, plus site-urile WTS și BSP din același grup.<span class="csi-shot__url">ecologica2000.eu ↗</span></div>
+      </a>
+    </div>
+    <div class="rv rv-d2" style="text-align:center;margin-top:34px">
+      <a href="/portofoliu/" class="btn btn-ghost">Vezi tot portofoliul →</a>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white" id="preturi">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Cât costă, <span class="acc">pe fiecare serviciu</span></h2>
+      <p class="body-lg" style="margin-top:14px">Fiecare serviciu are prețul lui. Fiecare limbă în plus se adaugă separat.</p>
+    </div>
+    <div class="csi-pr rv rv-d1">
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">Website Basic</div>
+        <div class="csi-pr-card__price">750€</div>
+        <p class="csi-pr-card__desc">Până la 6 pagini: produse, procese, firmă, contact.</p>
+      </div>
+      <div class="csi-pr-card feat">
+        <span class="csi-pr-card__badge">Recomandat</span>
+        <div class="csi-pr-card__name">Website Standard</div>
+        <div class="csi-pr-card__price">1.200€</div>
+        <p class="csi-pr-card__desc">Până la 10 pagini, câte una pe produs, SEO on-site complet.</p>
+      </div>
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">Website Premium</div>
+        <div class="csi-pr-card__price">2.500€</div>
+        <p class="csi-pr-card__desc">3 variante de design, animații, copywriting.</p>
+      </div>
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">Limbă în plus</div>
+        <div class="csi-pr-card__price">de la 100€</div>
+        <p class="csi-pr-card__desc">Traducerea paginilor și a formularului de ofertă.</p>
+      </div>
+    </div>
+    <p class="csi-pr-note rv rv-d2">
+      Se adaugă domeniul (15€) și găzduirea (85€ pe an). Pentru cumpărători din alte țări recomandăm și SEO pe limba lor, 600€ pe lună. <a href="/preturi/">Vezi toate prețurile</a> sau <a href="/contact/">cere o ofertă</a>. Răspundem în 24 de ore.
+    </p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Întrebări <span class="acc">frecvente</span></h2>
+    </div>
+    <div class="csi-faq rv">
+      <details>
+        <summary>Cât costă un site pentru o firmă de producție?</summary>
+        <p>750€ un site de până la 6 pagini, 1.200€ un site de până la 10 pagini, cu SEO complet și o pagină pe fiecare produs, 2.500€ cu design unic și animații. Fiecare limbă în plus pornește de la 100€.</p>
+      </details>
+      <details>
+        <summary>În câte limbi poate fi site-ul?</summary>
+        <p>În câte ai nevoie. Bransha are site în cinci limbi, Studio Vezzosi în trei. Fiecare limbă în plus pornește de la 100€, după cât text are site-ul.</p>
+      </details>
+      <details>
+        <summary>Cine traduce textele tehnice?</summary>
+        <p>Le traducem noi și verificăm cu tine termenii tehnici, pentru că un termen greșit într-o fișă tehnică poate costa o comandă.</p>
+      </details>
+      <details>
+        <summary>Pot primi cereri cu desene tehnice atașate?</summary>
+        <p>Da. Formularul acceptă fișiere PDF și desene, cu o limită de mărime, iar cererea ajunge pe e-mail cu fișierul atașat.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-cta" aria-labelledby="csi-cta-h">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="dd dd-lg csi-cta__h" id="csi-cta-h">Ai o fabrică sau un atelier?<br><span class="acc">Hai să te găsească și cumpărătorii din afară.</span></h2>
+      <p class="csi-cta__p">Spune-ne ce produci și în ce țări vrei să vinzi. Primești în 24 de ore o ofertă pe servicii, cu prețul fiecăruia.</p>
+      <div class="csi-cta__acts">
+        <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+        <a href="tel:+40771486499" class="btn btn-dark">+40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Site-uri pe alte domenii și prețuri">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Toate prețurile noastre sunt publice, serviciu cu serviciu. Alegi în cunoștință de cauză, fără presiune.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Site-uri pe alte domenii</div>
+      <div class="rel-links__grid">
+        <a href="/creare-site-pensiune/" class="rel-link"><span class="rel-link__name">Site pentru pensiune <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-platforma-cursuri-online/" class="rel-link"><span class="rel-link__name">Platformă de cursuri online <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-agentie-imobiliara/" class="rel-link"><span class="rel-link__name">Site pentru agenție imobiliară <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-avocat/" class="rel-link"><span class="rel-link__name">Site pentru avocat <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-restaurant/" class="rel-link"><span class="rel-link__name">Site pentru restaurant <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/site-uri-pe-domenii/" class="rel-link"><span class="rel-link__name">Toate domeniile <span class="arr" aria-hidden="true">↗</span></span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"scY-j1QzR4C98TB7VNNSr"}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/10yh402vs--l8.css","precedence":"next"}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

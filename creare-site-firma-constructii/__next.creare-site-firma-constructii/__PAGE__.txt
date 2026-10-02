@@ -1,0 +1,228 @@
+1:"$Sreact.fragment"
+6:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["/_next/static/chunks/10yh402vs--l8.css","style"]
+2:T952,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-firma-constructii/#service","name":"Creare site pentru firmă de construcții și renovări","serviceType":"Creare site pentru firmă de construcții și renovări","description":"Site pentru firme de construcții și renovări: lucrări înainte și după, deviz pe etape, calculator de preț, cereri pe WhatsApp. Exemple din Iași.","url":"https://visience.ro/creare-site-firma-constructii/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"500","highPrice":"1200","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-firma-constructii/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site pentru o firmă de construcții?","acceptedAnswer":{"@type":"Answer","text":"750€ un site de până la 6 pagini, 1.200€ un site de până la 10 pagini, cu câte o pagină pe tip de lucrare și SEO complet. Calculatorul de preț se face la oră, 60€. Se adaugă domeniul (15€) și găzduirea (85€ pe an)."}},{"@type":"Question","name":"Pot pune singur lucrări noi pe site?","acceptedAnswer":{"@type":"Answer","text":"Da. O lucrare nouă se adaugă din panou, cu poze și câteva rânduri, fără cunoștințe tehnice."}},{"@type":"Question","name":"Merită un calculator de preț pe site?","acceptedAnswer":{"@type":"Answer","text":"Pentru lucrări care se repetă, ca zugrăvitul sau gresia, da: omul vede un interval înainte să sune, iar la tine ajung cereri de la oameni care acceptă prețul. Pentru lucrări complexe, un formular cu poze merge mai bine."}},{"@type":"Question","name":"Faceți și reclamele?","acceptedAnswer":{"@type":"Answer","text":"Da. Campaniile Google și Meta costă 200€ pe lună, oricâte, iar bugetul de reclamă se plătește direct platformelor. Configurarea e gratuită la un contract pe 12 luni."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Site-uri pe domenii","item":"https://visience.ro/site-uri-pe-domenii/"},{"@type":"ListItem","position":3,"name":"Site pentru firmă de construcții","item":"https://visience.ro/creare-site-firma-constructii/"}]}]}3:T3200,<main id="main">
+
+<section class="csi-hero" aria-labelledby="csi-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="22%" x2="100%" y2="64%"/>
+      <line x1="0" y1="58%" x2="100%" y2="18%"/>
+      <line x1="24%" y1="0" x2="78%" y2="100%"/>
+      <line x1="66%" y1="0" x2="14%" y2="100%"/>
+    </svg>
+  </div>
+  <div class="wrap">
+    <nav class="csi-breadcrumbs" aria-label="Breadcrumbs">
+      <a href="/">Acasă</a><span class="sep">/</span>
+      <a href="/site-uri-pe-domenii/">Site-uri pe domenii</a><span class="sep">/</span>
+      <span>Site pentru firmă de construcții</span>
+    </nav>
+
+    <h1 class="csi-hero__h1" id="csi-h1">
+      Site pentru firmă de<br>
+      <span class="acc">construcții și renovări</span>
+    </h1>
+
+    <p class="csi-hero__lead">Omul care vrea să-și renoveze apartamentul are o singură frică: că rămâne cu lucrarea neterminată și cu banii dați. Înainte să sune, caută dovezi. Lucrări reale, cu poze înainte și după, un preț pe care îl înțelege și o firmă care are nume. Facem site-uri care îi arată toate astea din primul ecran.</p>
+
+    <div class="csi-hero__acts">
+      <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+      <a href="#exemple" class="btn btn-ghost" style="border-color:rgba(255,255,255,.25);color:#fff">Vezi exemple</a>
+    </div>
+
+    <div class="csi-hero__stats">
+      <div class="csi-hero__stat"><span class="n">750€</span><span class="l">site, de la</span></div>
+      <div class="csi-hero__stat"><span class="n">500€</span><span class="l">pagină pentru campanii</span></div>
+      <div class="csi-hero__stat"><span class="n">200€/lună</span><span class="l">campanii, oricâte</span></div>
+      <div class="csi-hero__stat"><span class="n">4</span><span class="l">firme de construcții în portofoliu</span></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Ce trebuie să aibă site-ul unei <span class="acc">firme de construcții</span></h2>
+      <p class="body-lg" style="margin-top:14px">Dovezile pe care le caută omul înainte să-ți dea cheile.</p>
+    </div>
+    <div class="csi-grid csi-grid--3 rv rv-d1">
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-images"></i></div>
+        <h3>Lucrări înainte și după</h3>
+        <p>Poze din lucrările tale, pe tipuri: apartamente, case, băi, bucătării. Cu orașul și cartierul, ca omul să recunoască zona.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-file-invoice"></i></div>
+        <h3>Deviz pe etape</h3>
+        <p>Ce intră în fiecare etapă și când se plătește. Omul vede că banii merg pe lucrare făcută.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-calculator"></i></div>
+        <h3>Calculator de preț</h3>
+        <p>Suprafața, tipul lucrării și un interval de preț pe loc. La Zugrăvim Iași e chiar primul buton de pe pagină.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-star"></i></div>
+        <h3>Recenzii de pe Google</h3>
+        <p>Nota și recenziile reale, puse pe site, cu link spre profilul Google.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-comments"></i></div>
+        <h3>Cerere pe WhatsApp</h3>
+        <p>Poze cu spațiul trimise pe WhatsApp sau prin formular, ca să poți da un preț înainte de deplasare.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-helmet-safety"></i></div>
+        <h3>Echipă și garanție</h3>
+        <p>Cine lucrează, de câți ani și ce garanție dai, scrise clar. La renovări, asta vinde mai mult decât prețul.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream2" id="exemple">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Site-uri pentru <span class="acc">firme de construcții</span></h2>
+      <p class="body-lg" style="margin-top:14px">Firme din Iași, cu link spre site-ul fiecăreia.</p>
+    </div>
+    <div class="csi-porto rv rv-d1">
+      <a class="csi-shot" href="https://zugravescu.ro/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/zugravescu.avif" alt="Site pentru firma de renovări Zugrăvescu din Iași, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Zugrăvescu — renovări, Iași</strong>Site pentru o firmă de renovări: deviz pe etape, pagini de prețuri și lucrări, cu cererile adunate într-un CRM. Ne ocupăm și de postări.<span class="csi-shot__url">zugravescu.ro ↗</span></div>
+      </a>
+      <a class="csi-shot" href="https://zugravimiasi.ro/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/zugravimiasi.avif" alt="Site pentru firma Zugrăvim Iași, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Zugrăvim Iași</strong>Site refăcut pentru vânzare: zugrăvit și renovări de apartamente și case, câte o pagină pe fiecare lucrare și calculator de preț.<span class="csi-shot__url">zugravimiasi.ro ↗</span></div>
+      </a>
+      <a class="csi-shot" href="https://2mtech.ro/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/2mtech.avif" alt="Site pentru firma de construcții 2M Tech, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>2M Tech — construcții</strong>Site pentru o firmă de construcții din Iași: lucrările executate și ansamblul rezidențial propriu.<span class="csi-shot__url">2mtech.ro ↗</span></div>
+      </a>
+      <a class="csi-shot" href="https://armurdesign.ro/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/armur.avif" alt="Site pentru firma de amenajări Armur Design, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Armur Design — amenajări și construcții</strong>Brand, site și campanii pentru o firmă de amenajări interioare și exterioare și construcții, în colaborare cu Vistory.<span class="csi-shot__url">armurdesign.ro ↗</span></div>
+      </a>
+    </div>
+    <div class="rv rv-d2" style="text-align:center;margin-top:34px">
+      <a href="/portofoliu/" class="btn btn-ghost">Vezi tot portofoliul →</a>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white" id="preturi">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Cât costă, <span class="acc">pe fiecare serviciu</span></h2>
+      <p class="body-lg" style="margin-top:14px">Fiecare serviciu are prețul lui. Calculatorul de preț îl facem la oră, 60€, după ce stabilim cum calculezi tu.</p>
+    </div>
+    <div class="csi-pr rv rv-d1">
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">Website Basic</div>
+        <div class="csi-pr-card__price">750€</div>
+        <p class="csi-pr-card__desc">Până la 6 pagini: lucrări, servicii, despre firmă, cerere de ofertă.</p>
+      </div>
+      <div class="csi-pr-card feat">
+        <span class="csi-pr-card__badge">Recomandat</span>
+        <div class="csi-pr-card__name">Website Standard</div>
+        <div class="csi-pr-card__price">1.200€</div>
+        <p class="csi-pr-card__desc">Până la 10 pagini, câte una pe tip de lucrare, SEO on-site complet.</p>
+      </div>
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">Pagină pentru campanii</div>
+        <div class="csi-pr-card__price">500€</div>
+        <p class="csi-pr-card__desc">O singură pagină cu formular, făcută pentru reclame.</p>
+      </div>
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">Campanii Google și Meta</div>
+        <div class="csi-pr-card__price">200€/lună</div>
+        <p class="csi-pr-card__desc">Oricâte campanii, cu raport lunar. Minim 3 luni.</p>
+      </div>
+    </div>
+    <p class="csi-pr-note rv rv-d2">
+      Se adaugă domeniul (15€) și găzduirea (85€ pe an). Bugetul de reclamă se plătește direct platformelor, iar configurarea campaniilor e gratuită la un contract pe 12 luni. <a href="/preturi/">Vezi toate prețurile</a> sau <a href="/contact/">cere o ofertă</a>. Răspundem în 24 de ore.
+    </p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Întrebări <span class="acc">frecvente</span></h2>
+    </div>
+    <div class="csi-faq rv">
+      <details>
+        <summary>Cât costă un site pentru o firmă de construcții?</summary>
+        <p>750€ un site de până la 6 pagini, 1.200€ un site de până la 10 pagini, cu câte o pagină pe tip de lucrare și SEO complet. Calculatorul de preț se face la oră, 60€. Se adaugă domeniul (15€) și găzduirea (85€ pe an).</p>
+      </details>
+      <details>
+        <summary>Pot pune singur lucrări noi pe site?</summary>
+        <p>Da. O lucrare nouă se adaugă din panou, cu poze și câteva rânduri, fără cunoștințe tehnice.</p>
+      </details>
+      <details>
+        <summary>Merită un calculator de preț pe site?</summary>
+        <p>Pentru lucrări care se repetă, ca zugrăvitul sau gresia, da: omul vede un interval înainte să sune, iar la tine ajung cereri de la oameni care acceptă prețul. Pentru lucrări complexe, un formular cu poze merge mai bine.</p>
+      </details>
+      <details>
+        <summary>Faceți și reclamele?</summary>
+        <p>Da. Campaniile Google și Meta costă 200€ pe lună, oricâte, iar bugetul de reclamă se plătește direct platformelor. Configurarea e gratuită la un contract pe 12 luni.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-cta" aria-labelledby="csi-cta-h">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="dd dd-lg csi-cta__h" id="csi-cta-h">Ai o firmă de construcții?<br><span class="acc">Hai să-ți arătăm lucrările.</span></h2>
+      <p class="csi-cta__p">Trimite-ne câteva poze din lucrări și orașul în care lucrezi. Primești în 24 de ore o ofertă pe servicii, cu prețul fiecăruia.</p>
+      <div class="csi-cta__acts">
+        <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+        <a href="tel:+40771486499" class="btn btn-dark">+40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Site-uri pe alte domenii și prețuri">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Toate prețurile noastre sunt publice, serviciu cu serviciu. Alegi în cunoștință de cauză, fără presiune.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Site-uri pe alte domenii</div>
+      <div class="rel-links__grid">
+        <a href="/creare-magazin-online-rezervoare-gpl/" class="rel-link"><span class="rel-link__name">Magazin online rezervoare GPL <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-arhitectura/" class="rel-link"><span class="rel-link__name">Site pentru birou de arhitectură <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-mobila-la-comanda/" class="rel-link"><span class="rel-link__name">Site pentru mobilă la comandă <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-instalatori/" class="rel-link"><span class="rel-link__name">Site pentru instalatori și foraje <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-restaurant/" class="rel-link"><span class="rel-link__name">Site pentru restaurant <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/site-uri-pe-domenii/" class="rel-link"><span class="rel-link__name">Toate domeniile <span class="arr" aria-hidden="true">↗</span></span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"scY-j1QzR4C98TB7VNNSr"}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/10yh402vs--l8.css","precedence":"next"}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null
