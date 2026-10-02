@@ -1,0 +1,219 @@
+1:"$Sreact.fragment"
+6:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["/_next/static/chunks/3p_bzywwxz5v9.css","style"]
+2:T9b2,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-restaurant/#service","name":"Creare site pentru restaurant","serviceType":"Creare site pentru restaurant","description":"Site pentru restaurant: meniul pe categorii, rezervări online și comenzi directe, schimbate ușor de pe telefon. De la 200€, gata în 2 zile.","url":"https://visience.ro/creare-site-restaurant/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"200","highPrice":"1000","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-restaurant/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site pentru restaurant?","acceptedAnswer":{"@type":"Answer","text":"200€ un site de o pagină cu meniul, programul și harta, gata în 2 zile. 750€ un site de până la 6 pagini cu meniu pe categorii și galerie. Rezervările online se adaugă cu 200€, iar comenzile cu plată online pornesc de la 1.000€."}},{"@type":"Question","name":"Pot schimba singur meniul și prețurile?","acceptedAnswer":{"@type":"Answer","text":"Da. Meniul se editează din panou, de pe telefon sau de pe calculator, fără să ne suni. La livrare îți arătăm cum."}},{"@type":"Question","name":"Pot primi comenzi fără aplicațiile de livrare?","acceptedAnswer":{"@type":"Answer","text":"Da. Comenzile vin direct pe site, cu plată cu cardul sau la livrare, fără comisionul aplicațiilor de livrare. Livrarea o faci tu sau curierul cu care lucrezi."}},{"@type":"Question","name":"Mă ajutați și cu Google Maps?","acceptedAnswer":{"@type":"Answer","text":"Da. Completăm profilul Google Business cu program, meniu și poze și îl legăm de site. Costă 300€, o singură dată."}},{"@type":"Question","name":"Faceți site-uri și pentru pensiuni sau hoteluri cu restaurant?","acceptedAnswer":{"@type":"Answer","text":"Da. La Casa Vatră, restaurantul și hotelul sunt pe același site, cu rezervări separate pentru masă și pentru cameră."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Creare site de prezentare","item":"https://visience.ro/creare-site-prezentare/"},{"@type":"ListItem","position":3,"name":"Site pentru restaurant","item":"https://visience.ro/creare-site-restaurant/"}]}]}3:T2d72,<main id="main">
+
+<section class="csi-hero" aria-labelledby="csi-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="22%" x2="100%" y2="64%"/>
+      <line x1="0" y1="58%" x2="100%" y2="18%"/>
+      <line x1="24%" y1="0" x2="78%" y2="100%"/>
+      <line x1="66%" y1="0" x2="14%" y2="100%"/>
+    </svg>
+  </div>
+  <div class="wrap">
+    <nav class="csi-breadcrumbs" aria-label="Breadcrumbs">
+      <a href="/">Acasă</a><span class="sep">/</span>
+      <a href="/creare-site-prezentare/">Creare site de prezentare</a><span class="sep">/</span>
+      <span>Site pentru restaurant</span>
+    </nav>
+
+    <h1 class="csi-hero__h1" id="csi-h1">
+      Creare site pentru<br>
+      <span class="acc">restaurant</span>
+    </h1>
+
+    <p class="csi-hero__lead">E vineri seara și cineva caută unde să mănânce în orașul tău. Deschide două site-uri. Unul are meniul în PDF de acum trei ani. Celălalt are meniul la zi, prețurile și un buton de rezervare. Știi deja unde merge. Noi facem al doilea fel de site.</p>
+
+    <div class="csi-hero__acts">
+      <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+      <a href="#exemple" class="btn btn-ghost" style="border-color:rgba(255,255,255,.25);color:#fff">Vezi exemple</a>
+    </div>
+
+    <div class="csi-hero__stats">
+      <div class="csi-hero__stat"><span class="n">200€</span><span class="l">site de o pagină, în 2 zile</span></div>
+      <div class="csi-hero__stat"><span class="n">750€</span><span class="l">site cu meniu și galerie</span></div>
+      <div class="csi-hero__stat"><span class="n">+200€</span><span class="l">rezervări online</span></div>
+      <div class="csi-hero__stat"><span class="n">12 ani</span><span class="l">experiență</span></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Ce trebuie să aibă site-ul unui <span class="acc">restaurant</span></h2>
+      <p class="body-lg" style="margin-top:14px">Ce caută omul înainte să vină, în ordinea în care caută.</p>
+    </div>
+    <div class="csi-grid csi-grid--3 rv rv-d1">
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-utensils"></i></div>
+        <h3>Meniul pe categorii</h3>
+        <p>Ciorbe, grătare, deserturi, cu prețuri și gramaje. Îl schimbi singur, de pe telefon, când se schimbă ceva în bucătărie.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-calendar-check"></i></div>
+        <h3>Rezervări online</h3>
+        <p>Data, ora și numărul de persoane ajung pe e-mail, fără telefoane pierdute în plină seară.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-bag-shopping"></i></div>
+        <h3>Comenzi pentru acasă</h3>
+        <p>Coș, plată cu cardul sau la livrare, zona de livrare. Pe comenzile venite direct nu dai comision aplicațiilor.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-location-dot"></i></div>
+        <h3>Google Maps și recenzii</h3>
+        <p>Profilul Google Business completat, cu program, meniu și poze, legat de site.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-champagne-glasses"></i></div>
+        <h3>Evenimente și meniuri fixe</h3>
+        <p>Botezuri, aniversări, meniul zilei. Fiecare cu pagina lui, ca să apară și în căutări.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-mobile-screen"></i></div>
+        <h3>Rapid pe telefon</h3>
+        <p>Cei mai mulți te caută de pe telefon, din mașină sau de pe stradă. Butonul de sunat se apasă dintr-un deget.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream2" id="exemple">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Site-uri pentru <span class="acc">restaurante și ospitalitate</span></h2>
+      <p class="body-lg" style="margin-top:14px">Proiecte live, cu link spre site-ul fiecăruia.</p>
+    </div>
+    <div class="csi-porto rv rv-d1">
+      <a class="csi-shot" href="https://casavatra.ro/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/casavatra.avif" alt="Site pentru restaurantul Casa Vatră din Rădăuți, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Casa Vatră — restaurant și hotel</strong>Site nou și meniu digital pentru un restaurant cu hotel din Rădăuți: meniul pe categorii, rezervări pentru masă sau cameră și comenzi online.<span class="csi-shot__url">casavatra.ro ↗</span></div>
+      </a>
+      <a class="csi-shot" href="https://www.castellodibagnolo.it/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/castello.avif" alt="Site pentru agriturismul Castello di Bagnolo, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Castello di Bagnolo — agriturism</strong>Site în mai multe limbi pentru un agriturism din Italia: apartamente în ferme restaurate, vizite la castel, parc și nunți.<span class="csi-shot__url">castellodibagnolo.it ↗</span></div>
+      </a>
+    </div>
+    <div class="rv rv-d2" style="text-align:center;margin-top:34px">
+      <a href="/portofoliu/" class="btn btn-ghost">Vezi tot portofoliul →</a>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white" id="preturi">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Cât costă, <span class="acc">pe fiecare serviciu</span></h2>
+      <p class="body-lg" style="margin-top:14px">Pornești cu cât îți trebuie acum și adaugi pe parcurs. Fiecare serviciu are prețul lui.</p>
+    </div>
+    <div class="csi-pr rv rv-d1">
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">Site de o pagină</div>
+        <div class="csi-pr-card__price">200€</div>
+        <p class="csi-pr-card__desc">Meniul, programul, harta și telefonul, gata în 2 zile. Domeniul și găzduirea incluse în primul an.</p>
+      </div>
+      <div class="csi-pr-card feat">
+        <span class="csi-pr-card__badge">Recomandat</span>
+        <div class="csi-pr-card__name">Website Basic</div>
+        <div class="csi-pr-card__price">750€</div>
+        <p class="csi-pr-card__desc">Până la 6 pagini: meniu pe categorii, galerie, evenimente, contact.</p>
+      </div>
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">Rezervări online</div>
+        <div class="csi-pr-card__price">200€</div>
+        <p class="csi-pr-card__desc">Se adaugă la orice site: masă sau cameră, cu dată, oră și persoane.</p>
+      </div>
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">Comenzi cu plată online</div>
+        <div class="csi-pr-card__price">1.000€</div>
+        <p class="csi-pr-card__desc">Coș, plată cu cardul sau ramburs și livrare, ca magazin online.</p>
+      </div>
+    </div>
+    <p class="csi-pr-note rv rv-d2">
+      La site-urile de mai multe pagini se adaugă domeniul (15€) și găzduirea (85€ pe an). Profilul Google Business completat costă 300€, o singură dată. <a href="/preturi/">Vezi toate prețurile</a> sau <a href="/contact/">cere o ofertă</a>. Răspundem în 24 de ore.
+    </p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Întrebări <span class="acc">frecvente</span></h2>
+    </div>
+    <div class="csi-faq rv">
+      <details>
+        <summary>Cât costă un site pentru restaurant?</summary>
+        <p>200€ un site de o pagină cu meniul, programul și harta, gata în 2 zile. 750€ un site de până la 6 pagini cu meniu pe categorii și galerie. Rezervările online se adaugă cu 200€, iar comenzile cu plată online pornesc de la 1.000€.</p>
+      </details>
+      <details>
+        <summary>Pot schimba singur meniul și prețurile?</summary>
+        <p>Da. Meniul se editează din panou, de pe telefon sau de pe calculator, fără să ne suni. La livrare îți arătăm cum.</p>
+      </details>
+      <details>
+        <summary>Pot primi comenzi fără aplicațiile de livrare?</summary>
+        <p>Da. Comenzile vin direct pe site, cu plată cu cardul sau la livrare, fără comisionul aplicațiilor de livrare. Livrarea o faci tu sau curierul cu care lucrezi.</p>
+      </details>
+      <details>
+        <summary>Mă ajutați și cu Google Maps?</summary>
+        <p>Da. Completăm profilul Google Business cu program, meniu și poze și îl legăm de site. Costă 300€, o singură dată.</p>
+      </details>
+      <details>
+        <summary>Faceți site-uri și pentru pensiuni sau hoteluri cu restaurant?</summary>
+        <p>Da. La Casa Vatră, restaurantul și hotelul sunt pe același site, cu rezervări separate pentru masă și pentru cameră.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-cta" aria-labelledby="csi-cta-h">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="dd dd-lg csi-cta__h" id="csi-cta-h">Ai un restaurant?<br><span class="acc">Hai să-i facem meniul găsit.</span></h2>
+      <p class="csi-cta__p">Spune-ne cum se numește și ce vrei să facă site-ul: meniu, rezervări, comenzi. Primești în 24 de ore o ofertă pe servicii.</p>
+      <div class="csi-cta__acts">
+        <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+        <a href="tel:+40771486499" class="btn btn-dark">+40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Site-uri pe alte domenii și prețuri">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Toate prețurile noastre sunt publice, serviciu cu serviciu. Alegi în cunoștință de cauză, fără presiune.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Site-uri pe alte domenii</div>
+      <div class="rel-links__grid">
+        <a href="/creare-magazin-online-rezervoare-gpl/" class="rel-link"><span class="rel-link__name">Magazin online rezervoare GPL <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-patiserie/" class="rel-link"><span class="rel-link__name">Site pentru patiserie <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-carmangerie/" class="rel-link"><span class="rel-link__name">Magazin online pentru carmangerie <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-arhitectura/" class="rel-link"><span class="rel-link__name">Site pentru birou de arhitectură <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-mobila-la-comanda/" class="rel-link"><span class="rel-link__name">Site pentru mobilă la comandă <span class="arr" aria-hidden="true">↗</span></span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"40VjPMCK73TnFp_H7nJ9c"}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3p_bzywwxz5v9.css","precedence":"next"}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

@@ -19,6 +19,14 @@
 - [Blog](https://visience.ro/blog/): peste 100 de articole în română despre site-uri, SEO, reclame și marketing
 - [Contact](https://visience.ro/contact/): telefon, WhatsApp, email și formular
 
+## Site-uri pe domenii
+- [Magazin online rezervoare GPL](https://visience.ro/creare-magazin-online-rezervoare-gpl/): catalog pe capacități, calculator de consum, montaj și ISCIR, Google Shopping; exemple: Soluții Alpensam, Eco Tehno Star Impex (Vrancea)
+- [Site pentru restaurant](https://visience.ro/creare-site-restaurant/): meniu pe categorii, rezervări online, comenzi fără comisionul aplicațiilor; exemplu: Casa Vatră (Rădăuți)
+- [Site pentru patiserie](https://visience.ro/creare-site-patiserie/): catalog de torturi, formular de comandă cu data ridicării, avans plătit online
+- [Magazin online pentru carmangerie](https://visience.ro/creare-site-carmangerie/): produse la kilogram, livrare pe zone, plată la livrare, precomenzi de sezon; exemplu: Carmangeria Evei (Călărași)
+- [Site pentru birou de arhitectură](https://visience.ro/creare-site-arhitectura/): portofoliu pe categorii, o pagină pentru fiecare proiect, două limbi; exemple: IM Design Studio, Amodelic, BTG România
+- [Site pentru mobilă la comandă](https://visience.ro/creare-site-mobila-la-comanda/): lucrări pe camere, cereri de ofertă cu dimensiuni și poze; exemple: Artesano Mob (București), Iași Mobilier
+
 ## Proiecte imobiliare în portofoliu (Iași)
 - Cameo Residence (complex rezidențial): identitate de proiect, materiale de vânzare tipărite, conținut pentru social media
 - Vlaicu 87 (proiect rezidențial): site cu planuri pe tipologii de apartamente și sistemul prin care cererile ajung în CRM

@@ -1,0 +1,227 @@
+1:"$Sreact.fragment"
+6:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["/_next/static/chunks/3p_bzywwxz5v9.css","style"]
+2:T8f9,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-arhitectura/#service","name":"Creare site pentru birou de arhitectură și proiectare","serviceType":"Creare site pentru birou de arhitectură și proiectare","description":"Site pentru birou de arhitectură: portofoliu pe categorii, o pagină pe proiect, două limbi. Exemple: IM Design Studio, Amodelic, BTG România.","url":"https://visience.ro/creare-site-arhitectura/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"750","highPrice":"2500","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-arhitectura/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site pentru un birou de arhitectură?","acceptedAnswer":{"@type":"Answer","text":"750€ un site de până la 6 pagini, 1.200€ un site de până la 10 pagini, cu pagini de proiect și SEO complet, 2.500€ un site cu design unic, trei variante de pornire și animații. A doua limbă pornește de la 100€."}},{"@type":"Question","name":"Pot adăuga singur proiecte noi?","acceptedAnswer":{"@type":"Answer","text":"Da. Un proiect nou se pune din panou, cu poze, text și categorie, fără cunoștințe tehnice. La livrare îți arătăm cum."}},{"@type":"Question","name":"Cum fac ca randările mari să nu încetinească site-ul?","acceptedAnswer":{"@type":"Answer","text":"Le comprimăm în formate moderne și le punem la mărimea potrivită pentru fiecare ecran: pe telefon se încarcă varianta mică, pe monitor cea mare."}},{"@type":"Question","name":"Faceți și identitate vizuală pentru birou?","acceptedAnswer":{"@type":"Answer","text":"Da, de la 500€ un logo și de la 1.200€ o identitate completă. La Amodelic am făcut și identitatea vizuală, nu doar site-ul."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Creare site de prezentare","item":"https://visience.ro/creare-site-prezentare/"},{"@type":"ListItem","position":3,"name":"Site pentru birou de arhitectură","item":"https://visience.ro/creare-site-arhitectura/"}]}]}3:T307e,<main id="main">
+
+<section class="csi-hero" aria-labelledby="csi-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="22%" x2="100%" y2="64%"/>
+      <line x1="0" y1="58%" x2="100%" y2="18%"/>
+      <line x1="24%" y1="0" x2="78%" y2="100%"/>
+      <line x1="66%" y1="0" x2="14%" y2="100%"/>
+    </svg>
+  </div>
+  <div class="wrap">
+    <nav class="csi-breadcrumbs" aria-label="Breadcrumbs">
+      <a href="/">Acasă</a><span class="sep">/</span>
+      <a href="/creare-site-prezentare/">Creare site de prezentare</a><span class="sep">/</span>
+      <span>Site pentru birou de arhitectură</span>
+    </nav>
+
+    <h1 class="csi-hero__h1" id="csi-h1">
+      Site pentru<br>
+      <span class="acc">birou de arhitectură</span>
+    </h1>
+
+    <p class="csi-hero__lead">Un client nou ajunge la un arhitect în două feluri: dintr-o recomandare sau dintr-un proiect pe care l-a văzut. În ambele cazuri, următorul pas e același. Îți deschide site-ul și se uită la proiecte. Dacă le găsește greu sau galeria se încarcă în zece secunde, închide.</p>
+
+    <div class="csi-hero__acts">
+      <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+      <a href="#exemple" class="btn btn-ghost" style="border-color:rgba(255,255,255,.25);color:#fff">Vezi exemple</a>
+    </div>
+
+    <div class="csi-hero__stats">
+      <div class="csi-hero__stat"><span class="n">750€</span><span class="l">site, de la</span></div>
+      <div class="csi-hero__stat"><span class="n">1.200€</span><span class="l">cu pagini de proiect și SEO</span></div>
+      <div class="csi-hero__stat"><span class="n">100€</span><span class="l">a doua limbă, de la</span></div>
+      <div class="csi-hero__stat"><span class="n">12 ani</span><span class="l">experiență</span></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Ce trebuie să aibă site-ul unui <span class="acc">birou de arhitectură</span></h2>
+      <p class="body-lg" style="margin-top:14px">Proiectele în față, restul în ordinea în care le caută un client.</p>
+    </div>
+    <div class="csi-grid csi-grid--3 rv rv-d1">
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-table-cells-large"></i></div>
+        <h3>Portofoliu pe categorii</h3>
+        <p>Rezidențial, birouri, clădiri publice, interioare. Fiecare categorie cu proiectele ei.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-file-image"></i></div>
+        <h3>O pagină pentru fiecare proiect</h3>
+        <p>Locație, an, suprafață, echipă, randări și fotografii. Pagina proprie poate apărea și în Google, pe numele proiectului.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-bolt"></i></div>
+        <h3>Randări mari, încărcate repede</h3>
+        <p>Imaginile se comprimă fără să-și piardă detaliul și se servesc la mărimea fiecărui ecran.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-language"></i></div>
+        <h3>Două limbi</h3>
+        <p>Pentru concursuri și clienți din afară. Site-ul IM Design Studio e în română și engleză.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-users"></i></div>
+        <h3>Echipă, presă, cariere</h3>
+        <p>Cine lucrează la birou, ce s-a scris despre proiecte, unde se poate aplica.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-pen-to-square"></i></div>
+        <h3>Proiecte noi, puse de tine</h3>
+        <p>Un proiect nou se adaugă din panou, cu poze și text, fără să ne scrii.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream2" id="exemple">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Site-uri pentru <span class="acc">arhitecți și proiectanți</span></h2>
+      <p class="body-lg" style="margin-top:14px">Birouri din Iași și București, cu link spre site-ul fiecăruia.</p>
+    </div>
+    <div class="csi-porto rv rv-d1">
+      <a class="csi-shot" href="https://im-ds.ro/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/imds.avif" alt="Site pentru biroul de arhitectură IM Design Studio, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>IM Design Studio</strong>Site bilingv pentru un birou de arhitectură din Iași și București: portofoliu pe categorii, echipă, presă și cariere.<span class="csi-shot__url">im-ds.ro ↗</span></div>
+      </a>
+      <a class="csi-shot" href="https://amodelic.com/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/amodelic.avif" alt="Site pentru biroul de proiectare Amodelic, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Amodelic — proiectare și consultanță</strong>Site, identitate vizuală și prezență online pentru un birou de proiectare în construcții din Iași, care lucrează mult cu proiecte publice.<span class="csi-shot__url">amodelic.com ↗</span></div>
+      </a>
+      <a class="csi-shot" href="https://btgromania.ro/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/btg.avif" alt="Site pentru biroul de proiectare BTG România, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>BTG România — proiectare instalații</strong>Site pentru un birou de proiectare instalații și sisteme BMS din Iași: prima pagină pe tipuri de clădiri și o pagină pentru fiecare proiect.<span class="csi-shot__url">btgromania.ro ↗</span></div>
+      </a>
+      <a class="csi-shot" href="https://armurdesign.ro/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/armur.avif" alt="Site pentru firma de amenajări Armur Design, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Armur Design — amenajări și construcții</strong>Brand, site și campanii pentru o firmă de amenajări interioare și exterioare și construcții, în colaborare cu Vistory.<span class="csi-shot__url">armurdesign.ro ↗</span></div>
+      </a>
+    </div>
+    <div class="rv rv-d2" style="text-align:center;margin-top:34px">
+      <a href="/portofoliu/" class="btn btn-ghost">Vezi tot portofoliul →</a>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white" id="preturi">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Cât costă, <span class="acc">pe fiecare serviciu</span></h2>
+      <p class="body-lg" style="margin-top:14px">Fiecare serviciu are prețul lui. Alegi după câte proiecte vrei să arăți și cum vrei să arate.</p>
+    </div>
+    <div class="csi-pr rv rv-d1">
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">Website Basic</div>
+        <div class="csi-pr-card__price">750€</div>
+        <p class="csi-pr-card__desc">Până la 6 pagini: proiecte, birou, echipă, contact.</p>
+      </div>
+      <div class="csi-pr-card feat">
+        <span class="csi-pr-card__badge">Recomandat</span>
+        <div class="csi-pr-card__name">Website Standard</div>
+        <div class="csi-pr-card__price">1.200€</div>
+        <p class="csi-pr-card__desc">Până la 10 pagini, pagini de proiect și SEO on-site complet.</p>
+      </div>
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">Website Premium</div>
+        <div class="csi-pr-card__price">2.500€</div>
+        <p class="csi-pr-card__desc">3 variante de design, animații și copywriting.</p>
+      </div>
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">A doua limbă</div>
+        <div class="csi-pr-card__price">de la 100€</div>
+        <p class="csi-pr-card__desc">Traducerea paginilor și a proiectelor.</p>
+      </div>
+    </div>
+    <p class="csi-pr-note rv rv-d2">
+      Se adaugă domeniul (15€) și găzduirea (85€ pe an). Un logo nou pornește de la 500€, o identitate completă de la 1.200€. <a href="/preturi/">Vezi toate prețurile</a> sau <a href="/contact/">cere o ofertă</a>. Răspundem în 24 de ore.
+    </p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Întrebări <span class="acc">frecvente</span></h2>
+    </div>
+    <div class="csi-faq rv">
+      <details>
+        <summary>Cât costă un site pentru un birou de arhitectură?</summary>
+        <p>750€ un site de până la 6 pagini, 1.200€ un site de până la 10 pagini, cu pagini de proiect și SEO complet, 2.500€ un site cu design unic, trei variante de pornire și animații. A doua limbă pornește de la 100€.</p>
+      </details>
+      <details>
+        <summary>Pot adăuga singur proiecte noi?</summary>
+        <p>Da. Un proiect nou se pune din panou, cu poze, text și categorie, fără cunoștințe tehnice. La livrare îți arătăm cum.</p>
+      </details>
+      <details>
+        <summary>Cum fac ca randările mari să nu încetinească site-ul?</summary>
+        <p>Le comprimăm în formate moderne și le punem la mărimea potrivită pentru fiecare ecran: pe telefon se încarcă varianta mică, pe monitor cea mare.</p>
+      </details>
+      <details>
+        <summary>Faceți și identitate vizuală pentru birou?</summary>
+        <p>Da, de la 500€ un logo și de la 1.200€ o identitate completă. La Amodelic am făcut și identitatea vizuală, nu doar site-ul.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-cta" aria-labelledby="csi-cta-h">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="dd dd-lg csi-cta__h" id="csi-cta-h">Ai un birou de arhitectură?<br><span class="acc">Hai să-ți punem proiectele în față.</span></h2>
+      <p class="csi-cta__p">Trimite-ne câteva proiecte și site-ul de acum, dacă ai. Primești în 24 de ore o ofertă pe servicii, cu prețul fiecăruia.</p>
+      <div class="csi-cta__acts">
+        <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+        <a href="tel:+40771486499" class="btn btn-dark">+40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Site-uri pe alte domenii și prețuri">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Toate prețurile noastre sunt publice, serviciu cu serviciu. Alegi în cunoștință de cauză, fără presiune.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Site-uri pe alte domenii</div>
+      <div class="rel-links__grid">
+        <a href="/creare-magazin-online-rezervoare-gpl/" class="rel-link"><span class="rel-link__name">Magazin online rezervoare GPL <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-restaurant/" class="rel-link"><span class="rel-link__name">Site pentru restaurant <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-patiserie/" class="rel-link"><span class="rel-link__name">Site pentru patiserie <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-carmangerie/" class="rel-link"><span class="rel-link__name">Magazin online pentru carmangerie <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-mobila-la-comanda/" class="rel-link"><span class="rel-link__name">Site pentru mobilă la comandă <span class="arr" aria-hidden="true">↗</span></span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"40VjPMCK73TnFp_H7nJ9c"}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3p_bzywwxz5v9.css","precedence":"next"}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 5:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 6:"$Sreact.suspense"
-2:Tc53,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-magazin-online#service","name":"Creare magazin online","serviceType":"Dezvoltare magazin online e-commerce","description":"Creare magazine online pe WooCommerce, Shopify și PrestaShop, optimizate pentru conversie și SEO, cu integrări de plată, curierat și facturare. De la 1.000€.","provider":{"@type":"Organization","name":"Visience Creative Experience","url":"https://visience.ro/"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"1000","highPrice":"3500","offerCount":"3"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-magazin-online#faq","mainEntity":[{"@type":"Question","name":"Cât durează realizarea unui magazin online?","acceptedAnswer":{"@type":"Answer","text":"Depinde de numărul de produse și de integrările cerute. Termenul exact se confirmă în ofertă, după ce vedem lista de produse."}},{"@type":"Question","name":"Pe ce platformă realizați magazinele online?","acceptedAnswer":{"@type":"Answer","text":"Lucrăm preponderent pe WooCommerce (WordPress), iar la cerere și pe Shopify, PrestaShop sau Webflow E-commerce. Recomandăm platforma după analiza obiectivelor tale."}},{"@type":"Question","name":"Ce se întâmplă după lansarea magazinului?","acceptedAnswer":{"@type":"Answer","text":"Oferim 3 luni de mentenanță inclusă (6 luni pentru Premium): actualizări, corectarea erorilor, backup-uri și suport prin email. Ulterior poți alege un abonament lunar sau suport punctual."}},{"@type":"Question","name":"Voi putea adăuga singur produse după lansare?","acceptedAnswer":{"@type":"Answer","text":"Da. Magazinele au panou de administrare intuitiv și oferim un training de 1-2 ore (inclus în Standard și Premium) ca să poți adăuga produse, modifica prețuri și gestiona comenzi fără ajutorul nostru."}},{"@type":"Question","name":"Includeți și hosting-ul și domeniul?","acceptedAnswer":{"@type":"Answer","text":"Nu sunt incluse în preț, dar te ajutăm cu recomandări și configurare. Orientativ: domeniul ~10-15€/an, hosting performant pentru WooCommerce ~80-200€/an."}},{"@type":"Question","name":"Pot să-mi mut magazinul existent de pe altă platformă?","acceptedAnswer":{"@type":"Answer","text":"Da. Migrăm magazine de pe Gomag, Magento, OpenCart, PrestaShop sau alte platforme către WooCommerce, păstrând produse, categorii, comenzi și clienți. Costul depinde de volumul de date."}},{"@type":"Question","name":"Realizați și campanii de marketing pentru magazin?","acceptedAnswer":{"@type":"Answer","text":"Da. După lansare preluăm managementul campaniilor Google Ads & Meta Ads (200€/lună, oricâte campanii), Google Shopping (100€), SEO continuu (600€/lună) și social media management (de la 200€/lună)."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Creare magazin online","item":"https://visience.ro/creare-magazin-online"}]}]}3:T9828,<style>
+2:Tc53,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-magazin-online#service","name":"Creare magazin online","serviceType":"Dezvoltare magazin online e-commerce","description":"Creare magazine online pe WooCommerce, Shopify și PrestaShop, optimizate pentru conversie și SEO, cu integrări de plată, curierat și facturare. De la 1.000€.","provider":{"@type":"Organization","name":"Visience Creative Experience","url":"https://visience.ro/"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"1000","highPrice":"3500","offerCount":"3"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-magazin-online#faq","mainEntity":[{"@type":"Question","name":"Cât durează realizarea unui magazin online?","acceptedAnswer":{"@type":"Answer","text":"Depinde de numărul de produse și de integrările cerute. Termenul exact se confirmă în ofertă, după ce vedem lista de produse."}},{"@type":"Question","name":"Pe ce platformă realizați magazinele online?","acceptedAnswer":{"@type":"Answer","text":"Lucrăm preponderent pe WooCommerce (WordPress), iar la cerere și pe Shopify, PrestaShop sau Webflow E-commerce. Recomandăm platforma după analiza obiectivelor tale."}},{"@type":"Question","name":"Ce se întâmplă după lansarea magazinului?","acceptedAnswer":{"@type":"Answer","text":"Oferim 3 luni de mentenanță inclusă (6 luni pentru Premium): actualizări, corectarea erorilor, backup-uri și suport prin email. Ulterior poți alege un abonament lunar sau suport punctual."}},{"@type":"Question","name":"Voi putea adăuga singur produse după lansare?","acceptedAnswer":{"@type":"Answer","text":"Da. Magazinele au panou de administrare intuitiv și oferim un training de 1-2 ore (inclus în Standard și Premium) ca să poți adăuga produse, modifica prețuri și gestiona comenzi fără ajutorul nostru."}},{"@type":"Question","name":"Includeți și hosting-ul și domeniul?","acceptedAnswer":{"@type":"Answer","text":"Nu sunt incluse în preț, dar te ajutăm cu recomandări și configurare. Orientativ: domeniul ~10-15€/an, hosting performant pentru WooCommerce ~80-200€/an."}},{"@type":"Question","name":"Pot să-mi mut magazinul existent de pe altă platformă?","acceptedAnswer":{"@type":"Answer","text":"Da. Migrăm magazine de pe Gomag, Magento, OpenCart, PrestaShop sau alte platforme către WooCommerce, păstrând produse, categorii, comenzi și clienți. Costul depinde de volumul de date."}},{"@type":"Question","name":"Realizați și campanii de marketing pentru magazin?","acceptedAnswer":{"@type":"Answer","text":"Da. După lansare preluăm managementul campaniilor Google Ads & Meta Ads (200€/lună, oricâte campanii), Google Shopping (100€), SEO continuu (600€/lună) și social media management (de la 200€/lună)."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Creare magazin online","item":"https://visience.ro/creare-magazin-online"}]}]}3:T9e5e,<style>
 .shop-hero {
   position: relative;
   padding: calc(var(--nav-h) + 90px) 0 90px;
@@ -661,6 +661,29 @@
 </section>
 
 
+<section class="nise-strip" aria-label="Site-uri pe domenii">
+<style>
+.nise-strip{padding:48px 0;background:var(--cream2)}
+.nise-strip h2{font-family:var(--f-d);font-weight:700;font-size:22px;letter-spacing:-.015em;margin:0 0 6px}
+.nise-strip p{font-size:14.5px;color:var(--mid);font-weight:300;margin:0 0 18px}
+.nise-strip__l{display:flex;flex-wrap:wrap;gap:10px}
+.nise-strip__l a{display:inline-flex;align-items:center;gap:8px;padding:10px 16px;border:1px solid var(--border);border-radius:100px;background:var(--white);font-size:14px;color:var(--ink);transition:border-color .2s,color .2s}
+.nise-strip__l a:hover{border-color:var(--acc);color:var(--acc-deep)}
+</style>
+  <div class="wrap">
+    <h2>Site-uri pe domenii</h2>
+    <p>Ce trebuie să aibă site-ul în domeniul tău, cu exemple din portofoliu și prețul fiecărui serviciu.</p>
+    <div class="nise-strip__l">
+      <a href="/creare-magazin-online-rezervoare-gpl/">Magazin online rezervoare GPL <span aria-hidden="true">→</span></a>
+      <a href="/creare-site-restaurant/">Site pentru restaurant <span aria-hidden="true">→</span></a>
+      <a href="/creare-site-patiserie/">Site pentru patiserie <span aria-hidden="true">→</span></a>
+      <a href="/creare-site-carmangerie/">Magazin online pentru carmangerie <span aria-hidden="true">→</span></a>
+      <a href="/creare-site-arhitectura/">Site pentru birou de arhitectură <span aria-hidden="true">→</span></a>
+      <a href="/creare-site-mobila-la-comanda/">Site pentru mobilă la comandă <span aria-hidden="true">→</span></a>
+    </div>
+  </div>
+</section>
+
 <section class="shop-prices" id="preturi" aria-labelledby="prices-h2">
   <div class="wrap">
 
@@ -977,6 +1000,6 @@
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"qEN6wprvOns1gn_TxMHgd"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"40VjPMCK73TnFp_H7nJ9c"}
 4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
 7:null
