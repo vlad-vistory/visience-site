@@ -13,7 +13,7 @@
 :HL["/_next/static/media/a218039a3287bcfd-s.p.43zbiuwnnoiok.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/c875c6f5d3e977ac-s.p.1h18_wedhzk4h.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/e2334d715941921e-s.p.3o_v2fun1jzxk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/chunks/10yh402vs--l8.css","style"]
+:HL["/_next/static/chunks/26lsc62kbfuba.css","style"]
 :HL["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css","style"]
 2:["$","link",null,{"rel":"stylesheet","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}]
 3:T987,(function(){
@@ -34,7 +34,7 @@
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();0:{"P":null,"c":["","creare-magazin-online-haine",""],"q":"","i":false,"f":[[["",{"children":["creare-magazin-online-haine",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2t44x5vm81k62.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/128am0rogg1gy.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"0pYOq9EVkZ15rH_lTPytG"}
+})();0:{"P":null,"c":["","creare-magazin-online-haine",""],"q":"","i":false,"f":[[["",{"children":["creare-magazin-online-haine",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2t44x5vm81k62.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/128am0rogg1gy.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"iFOtP2SFzXFfOLAPNt30m"}
 c:I[36621,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 17:I[39756,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 18:I[37457,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
@@ -123,7 +123,7 @@ b:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","Loca
     </div>
   </div>
 </nav>
-e:T2023,<footer class="footer" role="contentinfo">
+e:T21a2,<footer class="footer" role="contentinfo">
   <div class="wrap">
 
     <div class="footer__grid">
@@ -204,13 +204,15 @@ e:T2023,<footer class="footer" role="contentinfo">
         <div class="footer__col-title">Servicii</div>
         <ul class="footer__links">
           <li><a href="/creare-site-prezentare/">Creare site de prezentare</a></li>
-          <li><a href="/creare-site-prezentare-iasi/">Creare site de prezentare Iași</a></li>
+          <li><a href="/site-o-pagina/">Site de o pagină</a></li>
+          <li><a href="/creare-site-prezentare-iasi/">Creare site Iași</a></li>
           <li><a href="/creare-site-prezentare-bacau/">Creare site de prezentare Bacău</a></li>
           <li><a href="/creare-site-prezentare-bucuresti/">Creare site de prezentare București</a></li>
           <li><a href="/creare-magazin-online/">Creare magazin online</a></li>
           <li><a href="/branding-identitate-vizuala/">Branding &amp; identitate</a></li>
           <li><a href="/social-media-management/">Social Media</a></li>
           <li><a href="/google-meta-ads/">Google &amp; Meta Ads</a></li>
+          <li><a href="/reclame-online-iasi/">Reclame online Iași</a></li>
           <li><a href="/optimizare-seo/">SEO &amp; Content</a></li>
           <li><a href="/dezvoltare-software/">Dezvoltare software</a></li>
           <li><a href="/marketing-dezvoltatori-imobiliari/">Marketing pentru dezvoltatori</a></li>
@@ -226,6 +228,9 @@ e:T2023,<footer class="footer" role="contentinfo">
           <li><a href="/parteneri/">Parteneri</a></li>
           <li><a href="/blog/">Blog</a></li>
           <li><a href="/preturi/">Prețuri</a></li>
+          <li><a href="/pret-site-de-prezentare/">Preț site de prezentare</a></li>
+          <li><a href="/pret-magazin-online/">Preț magazin online</a></li>
+          <li><a href="/pret-administrare-google-ads/">Preț administrare Google Ads</a></li>
           <li><a href="/#rezultate">Studii de caz</a></li>
           <li><a href="/#despre">Despre noi</a></li>
           <li><a href="/contact/">Contact</a></li>
@@ -903,9 +908,9 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2t44x5vm81k62
 14:["$","$L17",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
 15:["$","$L23",null,{}]
 16:["$","$L24",null,{}]
-1b:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/10yh402vs--l8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1b:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/26lsc62kbfuba.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 1c:["$","$L25",null,{"children":["$","$21",null,{"name":"Next.MetadataOutlet","children":"$@26"}]}]
 1f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#FFFFFF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#111114","media":"(prefers-color-scheme: dark)"}]]
 27:I[27201,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"IconMark"]
-22:[["$","title","0",{"children":"Creare magazin online de haine și bijuterii | Visience"}],["$","meta","1",{"name":"description","content":"Magazin online pentru branduri de haine și bijuterii: colecții, mărimi, comenzi personalizate, poze mari, Google Shopping. Exemple: Lucia Roșca, DQ Design."}],["$","link","2",{"rel":"canonical","href":"https://visience.ro/creare-magazin-online-haine/"}],["$","meta","3",{"property":"og:title","content":"Creare magazin online de haine și bijuterii — Visience"}],["$","meta","4",{"property":"og:description","content":"Magazin online de haine și bijuterii: colecții, ghid de mărimi, comenzi personalizate."}],["$","meta","5",{"property":"og:url","content":"https://visience.ro/creare-magazin-online-haine/"}],["$","meta","6",{"property":"og:locale","content":"ro_RO"}],["$","meta","7",{"property":"og:image","content":"https://visience.ro/media/nise/luciarosca.avif"}],["$","meta","8",{"property":"og:image:alt","content":"Magazin online pentru brandul Lucia Roșca, realizat de Visience"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Agenție Marketing Imobiliar & Creare Site-uri în Iași | Visience"}],["$","meta","12",{"name":"twitter:description","content":"Branding, website-uri, magazine online, Google & Meta Ads, SEO. Prețuri publice, fără costuri ascunse."}],["$","meta","13",{"name":"twitter:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.04nd99rd6ooix.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/icon.png?icon.3v2r-pcu8x6vx.png","sizes":"192x192","type":"image/png"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2y52blaubq-q-.png","sizes":"180x180","type":"image/png"}],["$","$L27","17",{}]]
+22:[["$","title","0",{"children":"Creare magazin online de haine și bijuterii | Visience"}],["$","meta","1",{"name":"description","content":"Magazin online pentru branduri de haine și bijuterii: colecții, mărimi, comenzi personalizate, poze mari, Google Shopping. Exemple: Lucia Roșca, DQ Design."}],["$","link","2",{"rel":"canonical","href":"https://visience.ro/creare-magazin-online-haine/"}],["$","meta","3",{"property":"og:title","content":"Creare magazin online de haine și bijuterii — Visience"}],["$","meta","4",{"property":"og:description","content":"Magazin online de haine și bijuterii: colecții, ghid de mărimi, comenzi personalizate."}],["$","meta","5",{"property":"og:url","content":"https://visience.ro/creare-magazin-online-haine/"}],["$","meta","6",{"property":"og:locale","content":"ro_RO"}],["$","meta","7",{"property":"og:image","content":"https://visience.ro/media/nise/luciarosca.avif"}],["$","meta","8",{"property":"og:image:alt","content":"Magazin online pentru brandul Lucia Roșca, realizat de Visience"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Agenție Marketing Digital & Web Design Iași | Visience"}],["$","meta","12",{"name":"twitter:description","content":"Branding, website-uri, magazine online, Google & Meta Ads, SEO. Prețuri publice, fără costuri ascunse."}],["$","meta","13",{"name":"twitter:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.04nd99rd6ooix.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/icon.png?icon.3v2r-pcu8x6vx.png","sizes":"192x192","type":"image/png"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2y52blaubq-q-.png","sizes":"180x180","type":"image/png"}],["$","$L27","17",{}]]
 26:null

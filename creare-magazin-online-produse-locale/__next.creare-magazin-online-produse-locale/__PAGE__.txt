@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 6:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-:HL["/_next/static/chunks/10yh402vs--l8.css","style"]
+:HL["/_next/static/chunks/26lsc62kbfuba.css","style"]
 2:T8f9,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-magazin-online-produse-locale/#service","name":"Creare magazin online pentru producători locali","serviceType":"Creare magazin online pentru producători locali","description":"Magazin online pentru producători locali: vin, miere, carne, brânzeturi. Povestea fermei, livrare pe zone, plată la livrare, brand. De la 1.000€.","url":"https://visience.ro/creare-magazin-online-produse-locale/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"100","highPrice":"1800","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-magazin-online-produse-locale/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un magazin online pentru un producător local?","acceptedAnswer":{"@type":"Answer","text":"De la 1.000€ pentru un magazin cu coș, plată cu cardul sau ramburs și livrare. 1.800€ cu produse sugerate și e-mail pentru coșul abandonat. Livrarea pe zone sau prin curier se configurează cu 100€."}},{"@type":"Question","name":"Mă ajutați și cu eticheta?","acceptedAnswer":{"@type":"Answer","text":"Da. Logo-ul pornește de la 500€, iar o identitate completă, cu paletă și reguli de folosire, de la 1.200€. Designul etichetei se face separat, la 50€ pe oră. Pentru Mier am făcut identitatea vizuală."}},{"@type":"Question","name":"Pot livra doar în zona mea?","acceptedAnswer":{"@type":"Answer","text":"Da. Livrarea se setează pe zone: orașul, localitățile din jur sau doar ridicare de la fermă."}},{"@type":"Question","name":"Pot vinde coșuri cadou?","acceptedAnswer":{"@type":"Answer","text":"Da. Un coș se pune ca produs separat, cu ce conține și prețul lui, iar de sărbători se deschide pagina de precomandă."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Site-uri pe domenii","item":"https://visience.ro/site-uri-pe-domenii/"},{"@type":"ListItem","position":3,"name":"Magazin online pentru producători locali","item":"https://visience.ro/creare-magazin-online-produse-locale/"}]}]}3:T2d17,<main id="main">
 
 <section class="csi-hero" aria-labelledby="csi-h1">
@@ -216,7 +216,7 @@
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0pYOq9EVkZ15rH_lTPytG"}
-4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/10yh402vs--l8.css","precedence":"next"}]
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"iFOtP2SFzXFfOLAPNt30m"}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/26lsc62kbfuba.css","precedence":"next"}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null

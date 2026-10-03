@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 6:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-:HL["/_next/static/chunks/10yh402vs--l8.css","style"]
+:HL["/_next/static/chunks/26lsc62kbfuba.css","style"]
 2:T8c0,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-magazin-online-piese-auto/#service","name":"Creare magazin online de piese auto și moto","serviceType":"Creare magazin online de piese auto și moto","description":"Magazin online de piese auto și moto: căutare după vehicul, mii de produse pe categorii, livrare și retur, Google Shopping. Exemplu: PieseMoto.ro.","url":"https://visience.ro/creare-magazin-online-piese-auto/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"100","highPrice":"3500","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-magazin-online-piese-auto/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un magazin online de piese?","acceptedAnswer":{"@type":"Answer","text":"1.800€ un magazin cu produse sugerate, e-mail pentru coșul abandonat și două limbi, 3.500€ cu design unic și configurator. Căutarea după vehicul și importul de la furnizori se estimează la oră, 60€."}},{"@type":"Question","name":"Pot importa produsele de la furnizor?","acceptedAnswer":{"@type":"Answer","text":"Da, din fișierul furnizorului (CSV, Excel sau XML), cu prețurile și stocul. Dacă furnizorul trimite fișierul zilnic, importul se poate face automat."}},{"@type":"Question","name":"Cum fac ca piesele să apară în Google?","acceptedAnswer":{"@type":"Answer","text":"Cu SEO pe produse și categorii, de la 1.500€, și cu Google Shopping, 100€ configurarea. Campaniile costă 200€ pe lună, oricâte."}},{"@type":"Question","name":"Merge și pentru piese auto?","acceptedAnswer":{"@type":"Answer","text":"Da. Căutarea după marcă, model și an funcționează la fel pentru mașini, motociclete sau utilaje."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Site-uri pe domenii","item":"https://visience.ro/site-uri-pe-domenii/"},{"@type":"ListItem","position":3,"name":"Magazin online de piese auto și moto","item":"https://visience.ro/creare-magazin-online-piese-auto/"}]}]}3:T2969,<main id="main">
 
 <section class="csi-hero" aria-labelledby="csi-h1">
@@ -204,7 +204,7 @@
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0pYOq9EVkZ15rH_lTPytG"}
-4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/10yh402vs--l8.css","precedence":"next"}]
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"iFOtP2SFzXFfOLAPNt30m"}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/26lsc62kbfuba.css","precedence":"next"}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null

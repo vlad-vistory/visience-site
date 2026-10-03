@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 6:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-:HL["/_next/static/chunks/10yh402vs--l8.css","style"]
+:HL["/_next/static/chunks/26lsc62kbfuba.css","style"]
 2:T952,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-firma-constructii/#service","name":"Creare site pentru firmă de construcții și renovări","serviceType":"Creare site pentru firmă de construcții și renovări","description":"Site pentru firme de construcții și renovări: lucrări înainte și după, deviz pe etape, calculator de preț, cereri pe WhatsApp. Exemple din Iași.","url":"https://visience.ro/creare-site-firma-constructii/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"500","highPrice":"1200","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-firma-constructii/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site pentru o firmă de construcții?","acceptedAnswer":{"@type":"Answer","text":"750€ un site de până la 6 pagini, 1.200€ un site de până la 10 pagini, cu câte o pagină pe tip de lucrare și SEO complet. Calculatorul de preț se face la oră, 60€. Se adaugă domeniul (15€) și găzduirea (85€ pe an)."}},{"@type":"Question","name":"Pot pune singur lucrări noi pe site?","acceptedAnswer":{"@type":"Answer","text":"Da. O lucrare nouă se adaugă din panou, cu poze și câteva rânduri, fără cunoștințe tehnice."}},{"@type":"Question","name":"Merită un calculator de preț pe site?","acceptedAnswer":{"@type":"Answer","text":"Pentru lucrări care se repetă, ca zugrăvitul sau gresia, da: omul vede un interval înainte să sune, iar la tine ajung cereri de la oameni care acceptă prețul. Pentru lucrări complexe, un formular cu poze merge mai bine."}},{"@type":"Question","name":"Faceți și reclamele?","acceptedAnswer":{"@type":"Answer","text":"Da. Campaniile Google și Meta costă 200€ pe lună, oricâte, iar bugetul de reclamă se plătește direct platformelor. Configurarea e gratuită la un contract pe 12 luni."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Site-uri pe domenii","item":"https://visience.ro/site-uri-pe-domenii/"},{"@type":"ListItem","position":3,"name":"Site pentru firmă de construcții","item":"https://visience.ro/creare-site-firma-constructii/"}]}]}3:T3200,<main id="main">
 
 <section class="csi-hero" aria-labelledby="csi-h1">
@@ -222,7 +222,7 @@
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0pYOq9EVkZ15rH_lTPytG"}
-4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/10yh402vs--l8.css","precedence":"next"}]
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"iFOtP2SFzXFfOLAPNt30m"}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/26lsc62kbfuba.css","precedence":"next"}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null

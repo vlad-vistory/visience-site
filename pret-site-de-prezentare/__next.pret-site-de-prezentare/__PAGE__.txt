@@ -1,0 +1,309 @@
+1:"$Sreact.fragment"
+7:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["/_next/static/chunks/26lsc62kbfuba.css","style"]
+2:T130a,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/pret-site-de-prezentare/#service","name":"Creare site de prezentare","serviceType":"Creare site de prezentare","description":"Preț site de prezentare: 200€ o pagină, 750€ Basic, 1.200€ Standard, 2.500€ Premium. După lansare, 100€ pe an domeniul și găzduirea. Fără chirie lunară.","url":"https://visience.ro/pret-site-de-prezentare/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"200","highPrice":"2500","offerCount":"5"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Prețuri site de prezentare","itemListElement":[{"@type":"Offer","name":"Site de o pagină","price":"200","priceCurrency":"EUR","description":"Design pe firma ta, textele scrise de noi, formular și WhatsApp, pus în Google, domeniu și găzduire în primul an. Gata în 2 zile.","itemOffered":{"@type":"Service","name":"Site de o pagină"}},{"@type":"Offer","name":"Landing page de campanie","price":"500","priceCurrency":"EUR","description":"O pagină pentru reclame, cu formular și tracking pe conversii.","itemOffered":{"@type":"Service","name":"Landing page de campanie"}},{"@type":"Offer","name":"Website Basic","price":"750","priceCurrency":"EUR","description":"Până la 6 pagini, blog, galerie, GDPR și cookies, firewall și SMTP, SEO de bază.","itemOffered":{"@type":"Service","name":"Website Basic"}},{"@type":"Offer","name":"Website Standard","price":"1200","priceCurrency":"EUR","description":"Tot din Basic, plus design după analiza concurenței, SEO on-site complet, 10 pagini pe orașe sau cartiere, schema JSON-LD, 10 articole, hartă interactivă.","itemOffered":{"@type":"Service","name":"Website Standard"}},{"@type":"Offer","name":"Website Premium","price":"2500","priceCurrency":"EUR","description":"Tot din Standard, plus 3 variante de design pentru prima pagină, animații, analiza publicului, copywriting SEO, Google Tag Manager.","itemOffered":{"@type":"Service","name":"Website Premium"}}]}},{"@type":"FAQPage","@id":"https://visience.ro/pret-site-de-prezentare/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site de prezentare în 2026?","acceptedAnswer":{"@type":"Answer","text":"200€ un site de o pagină, gata în 2 zile. 750€ Website Basic, cu până la 6 pagini. 1.200€ Website Standard, varianta aleasă cel mai des. 2.500€ Website Premium. Website Avansat are preț la cerere."}},{"@type":"Question","name":"Ce plătesc în fiecare an după ce site-ul e gata?","acceptedAnswer":{"@type":"Answer","text":"Domeniul, 15€, și găzduirea, 85€ pe an, adică 100€ pe an. La site-ul de o pagină sunt incluse în primul an și le plătești din anul 2. Mentenanța e opțională, de la 100€ pe lună."}},{"@type":"Question","name":"De ce costă Premium de peste trei ori mai mult decât Basic?","acceptedAnswer":{"@type":"Answer","text":"Din orele de lucru: Basic are 25 de ore, Standard 50, Premium 100. Diferența se duce în design după analiza concurenței, 10 pagini pe orașe, 10 articole, trei variante de design pentru prima pagină și texte scrise pentru Google."}},{"@type":"Question","name":"Cine scrie textele de pe site?","acceptedAnswer":{"@type":"Answer","text":"La site-ul de o pagină le scriem noi, incluse în cei 200€. În Website Premium intră analiza publicului și copywriting SEO, adică texte scrise pe căutările clienților tăi."}},{"@type":"Question","name":"Cât costă un site în două limbi?","acceptedAnswer":{"@type":"Answer","text":"Traducerea se adaugă de la 100€ la oricare variantă. Un Website Basic în două limbi pornește deci de la 850€, iar domeniul și găzduirea se plătesc separat, ca la orice site."}},{"@type":"Question","name":"Site-ul rămâne al meu dacă nu mai lucrez cu voi?","acceptedAnswer":{"@type":"Answer","text":"Da. Site-ul e al tău din ziua livrării, fără chirie lunară. Plătești doar domeniul și găzduirea, 100€ pe an. Dacă vrei să-l muți în altă parte, mutarea o facem noi de la 100€ sau o face cine vrei tu."}},{"@type":"Question","name":"Când am nevoie de magazin online în loc de site de prezentare?","acceptedAnswer":{"@type":"Answer","text":"Când vrei să vinzi direct pe site, cu coș și plată cu cardul, transfer sau ramburs. Magazinul online pornește de la 1.000€. Dacă vrei doar telefoane și cereri de ofertă, ajunge un site de prezentare."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Prețuri","item":"https://visience.ro/preturi/"},{"@type":"ListItem","position":3,"name":"Preț site de prezentare","item":"https://visience.ro/pret-site-de-prezentare/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"iFOtP2SFzXFfOLAPNt30m"}
+6:T4916,<main id="main">
+
+<section class="csi-hero" aria-labelledby="csi-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="22%" x2="100%" y2="64%"/>
+      <line x1="0" y1="58%" x2="100%" y2="18%"/>
+      <line x1="24%" y1="0" x2="78%" y2="100%"/>
+      <line x1="66%" y1="0" x2="14%" y2="100%"/>
+    </svg>
+  </div>
+  <div class="wrap">
+    <nav class="csi-breadcrumbs" aria-label="Breadcrumbs">
+      <a href="/">Acasă</a><span class="sep">/</span>
+      <a href="/preturi/">Prețuri</a><span class="sep">/</span>
+      <span>Preț site de prezentare</span>
+    </nav>
+
+    <h1 class="csi-hero__h1" id="csi-h1">
+      Preț site de prezentare:<br>
+      <span class="acc">de la 200€ la 2.500€</span>
+    </h1>
+
+    <p class="csi-hero__lead">Duminică seara îți faci socoteala pe anul care vine. Site-ul e pe listă de doi ani, dar n-ai sunat pe nimeni, pentru că nu știi dacă vorbim de 300 de lei sau de 3.000 de euro. Uite cifrele. Un site de o pagină costă 200€, unul cu mai multe pagini între 750€ și 2.500€, iar varianta aleasă cel mai des e Standard, la 1.200€.</p>
+
+    <div class="csi-hero__acts">
+      <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+      <a href="#preturi" class="btn btn-ghost" style="border-color:rgba(255,255,255,.25);color:#fff">Vezi tabelul</a>
+    </div>
+
+    <div class="csi-hero__stats">
+      <div class="csi-hero__stat"><span class="n">200€</span><span class="l">site de o pagină, în 2 zile</span></div>
+      <div class="csi-hero__stat"><span class="n">750€</span><span class="l">Basic, până la 6 pagini</span></div>
+      <div class="csi-hero__stat"><span class="n">1.200€</span><span class="l">Standard, cel mai ales</span></div>
+      <div class="csi-hero__stat"><span class="n">2.500€</span><span class="l">Premium, 100 de ore de lucru</span></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white" id="preturi">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Cât costă un site de prezentare, <span class="acc">variantă cu variantă</span></h2>
+      <p class="body-lg" style="margin-top:14px">Prețurile pentru un site de firmă în 2026, plătite o dată, nu lunar. Sunt aceleași cifre pe care le trimitem în oferte.</p>
+    </div>
+    <div class="csi-tbl rv rv-d1">
+      <table>
+        <thead>
+          <tr><th>Variantă</th><th>Preț</th><th>Ce primești</th><th>Pentru cine</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Site de o pagină</td>
+            <td>200€ (999 lei)</td>
+            <td>Design pe firma ta, textele scrise de noi, formular și WhatsApp, pus în Google, domeniu și găzduire în primul an. Gata în 2 zile.</td>
+            <td>Meseriași, cabinete și firme la început, care au nevoie să fie găsite și sunate.</td>
+          </tr>
+          <tr>
+            <td>Landing page de campanie</td>
+            <td>500€</td>
+            <td>O pagină făcută pentru reclame, cu formular și tracking pe conversii.</td>
+            <td>Firme care pornesc campanii Google sau Meta și vor să vadă ce cerere a venit din ce anunț.</td>
+          </tr>
+          <tr>
+            <td>Website Basic</td>
+            <td>750€</td>
+            <td>Până la 6 pagini, blog, galerie, GDPR și cookies, firewall și SMTP, SEO de bază. 25 de ore de lucru.</td>
+            <td>Firme mici cu câteva servicii, care vor câte o pagină pentru fiecare.</td>
+          </tr>
+          <tr>
+            <td>Website Standard</td>
+            <td>1.200€</td>
+            <td>Tot din Basic, plus design după analiza concurenței, SEO on-site complet, 10 pagini pe orașe sau cartiere, schema JSON-LD, 10 articole, hartă interactivă. 50 de ore.</td>
+            <td>Firme care lucrează în mai multe orașe sau cartiere și vor să apară în Google în fiecare. Varianta aleasă cel mai des.</td>
+          </tr>
+          <tr>
+            <td>Website Premium</td>
+            <td>2.500€</td>
+            <td>Tot din Standard, plus 3 variante de design pentru prima pagină, animații, analiza publicului, copywriting SEO, Google Tag Manager. 100 de ore.</td>
+            <td>Firme dintr-o piață aglomerată, unde imaginea și textele hotărăsc pe cine sună clientul.</td>
+          </tr>
+          <tr>
+            <td>Website Avansat</td>
+            <td>la cerere</td>
+            <td>Prețul îl stabilim după ce vedem ce trebuie să facă site-ul.</td>
+            <td>Proiecte care nu încap în variantele de mai sus.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="csi-pr-note rv rv-d2">
+      La <a href="/site-o-pagina/">site-ul de o pagină</a>, domeniul și găzduirea sunt incluse în primul an. La celelalte variante se adaugă de la început domeniul (15€) și găzduirea (85€ pe an). <a href="/preturi/">Vezi toate prețurile</a>.
+    </p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Ce face prețul <span class="acc">să crească sau să scadă</span></h2>
+      <p class="body-lg" style="margin-top:14px">Prețul urmează orele de lucru: 25 la Basic, 50 la Standard, 100 la Premium. Când îți trebuie mai puțin, plătești mai puțin. Orice lucru în plus cere ore, iar orele se văd în preț.</p>
+    </div>
+    <div class="csi-grid csi-grid--3 rv rv-d1">
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-file-lines"></i></div>
+        <h3>Numărul de pagini</h3>
+        <p>O pagină costă 200€. Până la 6 pagini, 750€. Cu 10 pagini pe orașe sau cartiere și 10 articole, 1.200€. Fiecare pagină are textul și pozele ei, deci și orele ei.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-pen-nib"></i></div>
+        <h3>Textele</h3>
+        <p>La site-ul de o pagină le scriem noi. În Premium intră analiza publicului și copywriting SEO, adică texte scrise pe cuvintele cu care te caută clienții.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-language"></i></div>
+        <h3>Limbile</h3>
+        <p>Traducerea se adaugă de la 100€. IM Design Studio, un birou de arhitectură din Iași și București, are site-ul în două limbi.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-calendar-check"></i></div>
+        <h3>Rezervări online</h3>
+        <p>200€, la oricare variantă. Clientul alege ziua și ora direct pe site, fără să te prindă la telefon în mijlocul unei lucrări.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-palette"></i></div>
+        <h3>Designul</h3>
+        <p>La Standard îl facem după ce ne uităm la concurența ta. La Premium primești trei variante pentru prima pagină, alegi una și vine cu animații.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-cart-shopping"></i></div>
+        <h3>Vânzarea online</h3>
+        <p>Dacă vrei coș și plată cu cardul, nu mai e site de prezentare. E magazin online și pornește de la 1.000€.</p>
+      </div>
+    </div>
+    <p class="csi-pr-note rv rv-d2">
+      Se mai pot adăuga, fiecare cu prețul lui: newsletter 100€, chat live 100€, integrare cu rețelele sociale 100€, GA4 + Search Console 100€, optimizare de viteză de la 100€, backup și migrare de la 100€, pagini legale 50€ pe pagină, securizare (SSL, anti-spam) 150€, tutorial video 100€, profil Google Business 300€ o dată. Pentru magazine, vezi <a href="/pret-magazin-online/">prețul unui magazin online</a>.
+    </p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Cât plătești <span class="acc">după lansare, an de an</span></h2>
+      <p class="body-lg" style="margin-top:14px">Un site are două costuri care se repetă: domeniul, 15€ pe an, și găzduirea, 85€ pe an. Împreună, 100€ pe an. Atât.</p>
+    </div>
+    <div class="csi-grid csi-grid--3 rv rv-d1">
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-file"></i></div>
+        <h3>Site de o pagină</h3>
+        <p><strong>Anul 1: 200€.</strong> Domeniul și găzduirea sunt incluse.<br><strong>Anul 2: 100€</strong>, adică 15€ domeniul și 85€ găzduirea.<br>Pe doi ani: 300€.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-copy"></i></div>
+        <h3>Website Basic</h3>
+        <p><strong>Anul 1: 850€</strong>, adică 750€ site-ul, 15€ domeniul și 85€ găzduirea.<br><strong>Anul 2: 100€.</strong><br>Pe doi ani: 950€.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-layer-group"></i></div>
+        <h3>Website Standard</h3>
+        <p><strong>Anul 1: 1.300€</strong>, adică 1.200€ site-ul, 15€ domeniul și 85€ găzduirea.<br><strong>Anul 2: 100€.</strong><br>Pe doi ani: 1.400€.</p>
+      </div>
+    </div>
+    <div class="csi-prose rv rv-d2" style="margin-top:40px">
+      <p>Mentenanța e opțională și pornește de la 100€ pe lună. O iei dacă vrei să ne ocupăm noi lunar de site. Dacă o iei la un Website Basic, anul 2 ajunge la 1.300€: 100€ domeniul și găzduirea, plus 1.200€ mentenanța pe 12 luni. Dacă nu, rămâi la 100€ pe an, iar textele și pozele le schimbi singur din panou.</p>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream2" id="exemple">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Site-uri de prezentare <span class="acc">livrate</span></h2>
+      <p class="body-lg" style="margin-top:14px">Firme mici, din orașe diferite, cu site-urile live. Intră pe ele și vezi ce primești pentru banii tăi.</p>
+    </div>
+    <div class="csi-porto rv rv-d1">
+      <a class="csi-shot" href="https://zugravimiasi.ro/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/zugravimiasi.avif" alt="Site pentru firma Zugrăvim Iași, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Zugrăvim Iași</strong>Site refăcut pentru o firmă de zugrăveli și renovări de apartamente și case, cu câte o pagină pe fiecare lucrare și calculator de preț.<span class="csi-shot__url">zugravimiasi.ro ↗</span></div>
+      </a>
+      <a class="csi-shot" href="https://iasimobilier.ro/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/iasimobilier.avif" alt="Site pentru atelierul Iași Mobilier, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Iași Mobilier, Valea Lupului</strong>Atelier de mobilă din PAL și MDF: bucătării, dressinguri, materiale și cerere de ofertă, cu cererile adunate într-un panou propriu.<span class="csi-shot__url">iasimobilier.ro ↗</span></div>
+      </a>
+      <a class="csi-shot" href="https://instalatortimisoaranonstop.ro/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/instalator.avif" alt="Site pentru Instalator Timișoara NON-STOP, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Instalator Timișoara NON-STOP</strong>Instalator cu urgențe 24/7, sanitare, termice și centrale, cu numărul de telefon pe primul ecran.<span class="csi-shot__url">instalatortimisoaranonstop.ro ↗</span></div>
+      </a>
+      <a class="csi-shot" href="https://forajesiputuri.ro/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/foraje.avif" alt="Site pentru firma Foraje și Puțuri din Ilfov, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Foraje și Puțuri, Ilfov</strong>Site cu pagini pe zone pentru o firmă de foraje din Mogoșoaia, cu lucrări în București, Ilfov și județele din jur.<span class="csi-shot__url">forajesiputuri.ro ↗</span></div>
+      </a>
+    </div>
+    <div class="rv rv-d2" style="text-align:center;margin-top:34px">
+      <a href="/portofoliu/" class="btn btn-ghost">Vezi tot portofoliul →</a>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">De ce <span class="acc">publicăm prețurile</span></h2>
+    </div>
+    <div class="csi-prose rv rv-d1">
+      <p>Facem site-uri din 2014 și am trecut de 120 de proiecte. Prețurile stau pe site ca să-ți poți face socoteala singur, înainte să vorbești cu cineva. Sunt cifrele din ofertele noastre, nu un punct de plecare pentru negociere. Când ne scrii, știi deja în ce variantă te încadrezi, iar noi îți spunem doar ce se adaugă.</p>
+      <p><strong>Site-ul rămâne al tău.</strong> Îl plătești o dată, primești acces la panou și la tot conținutul, iar după lansare plătești doar domeniul și găzduirea. Nu există chirie lunară care, dacă se oprește, îți ia site-ul. E ca la mobila din bucătărie: o plătești o dată și nu mai dai nimănui bani pe lună ca să-ți țină dulapurile pe perete.</p>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Întrebări <span class="acc">frecvente</span></h2>
+    </div>
+    <div class="csi-faq rv">
+      <details>
+        <summary>Cât costă un site de prezentare în 2026?</summary>
+        <p>200€ un site de o pagină, gata în 2 zile. 750€ Website Basic, cu până la 6 pagini. 1.200€ Website Standard, varianta aleasă cel mai des. 2.500€ Website Premium. Website Avansat are preț la cerere.</p>
+      </details>
+      <details>
+        <summary>Ce plătesc în fiecare an după ce site-ul e gata?</summary>
+        <p>Domeniul, 15€, și găzduirea, 85€ pe an, adică 100€ pe an. La site-ul de o pagină sunt incluse în primul an și le plătești din anul 2. Mentenanța e opțională, de la 100€ pe lună.</p>
+      </details>
+      <details>
+        <summary>De ce costă Premium de peste trei ori mai mult decât Basic?</summary>
+        <p>Din orele de lucru: Basic are 25 de ore, Standard 50, Premium 100. Diferența se duce în design după analiza concurenței, 10 pagini pe orașe, 10 articole, trei variante de design pentru prima pagină și texte scrise pentru Google.</p>
+      </details>
+      <details>
+        <summary>Cine scrie textele de pe site?</summary>
+        <p>La site-ul de o pagină le scriem noi, incluse în cei 200€. În Website Premium intră analiza publicului și copywriting SEO, adică texte scrise pe căutările clienților tăi.</p>
+      </details>
+      <details>
+        <summary>Cât costă un site în două limbi?</summary>
+        <p>Traducerea se adaugă de la 100€ la oricare variantă. Un Website Basic în două limbi pornește deci de la 850€, iar domeniul și găzduirea se plătesc separat, ca la orice site.</p>
+      </details>
+      <details>
+        <summary>Site-ul rămâne al meu dacă nu mai lucrez cu voi?</summary>
+        <p>Da. Site-ul e al tău din ziua livrării, fără chirie lunară. Plătești doar domeniul și găzduirea, 100€ pe an. Dacă vrei să-l muți în altă parte, mutarea o facem noi de la 100€ sau o face cine vrei tu.</p>
+      </details>
+      <details>
+        <summary>Când am nevoie de magazin online în loc de site de prezentare?</summary>
+        <p>Când vrei să vinzi direct pe site, cu coș și plată cu cardul, transfer sau ramburs. Magazinul online pornește de la 1.000€. Dacă vrei doar telefoane și cereri de ofertă, ajunge un site de prezentare.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-cta" aria-labelledby="csi-cta-h">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="dd dd-lg csi-cta__h" id="csi-cta-h">Acum știi cât costă.<br><span class="acc">Spune-ne ce-ți trebuie.</span></h2>
+      <p class="csi-cta__p">Scrie-ne ce face firma ta și câte servicii vrei pe site. În 24 de ore îți spunem în ce variantă te încadrezi și ce se mai adaugă, fiecare cu prețul lui.</p>
+      <div class="csi-cta__acts">
+        <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+        <a href="tel:+40771486499" class="btn btn-dark">+40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Prețuri și pagini înrudite">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Toate prețurile noastre sunt publice, serviciu cu serviciu. Alegi în cunoștință de cauză, fără presiune.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Mai departe despre site-uri și prețuri</div>
+      <div class="rel-links__grid">
+        <a href="/site-o-pagina/" class="rel-link"><span class="rel-link__name">Site de o pagină <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/pret-magazin-online/" class="rel-link"><span class="rel-link__name">Preț magazin online <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-prezentare/" class="rel-link"><span class="rel-link__name">Creare site de prezentare <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-prezentare-iasi/" class="rel-link"><span class="rel-link__name">Creare site Iași <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/blog/pretul-corect-pentru-un-site-de-firma/" class="rel-link"><span class="rel-link__name">Care e prețul corect pentru un site <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/site-uri-pe-domenii/" class="rel-link"><span class="rel-link__name">Site-uri pe domenii <span class="arr" aria-hidden="true">↗</span></span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+3:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$6"}}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/26lsc62kbfuba.css","precedence":"next"}]
+5:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

@@ -1,0 +1,309 @@
+1:"$Sreact.fragment"
+7:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["/_next/static/chunks/26lsc62kbfuba.css","style"]
+2:Tdf3,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/site-o-pagina/#service","name":"Site de o pagină","serviceType":"Creare site de o pagină","description":"Site de o pagină pentru firma ta: design pe firma ta, textele scrise de noi, formular și WhatsApp, înscriere în Google, domeniu și găzduire incluse în primul an. Gata în 2 zile.","url":"https://visience.ro/site-o-pagina/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"Offer","name":"Site de o pagină","price":"200","priceCurrency":"EUR","description":"Cost unic, plătit la livrare. Domeniul și găzduirea sunt incluse în primul an; din anul 2, domeniul costă 15€ și găzduirea 85€ pe an.","url":"https://visience.ro/site-o-pagina/"}},{"@type":"FAQPage","@id":"https://visience.ro/site-o-pagina/#faq","mainEntity":[{"@type":"Question","name":"Chiar costă doar 200€?","acceptedAnswer":{"@type":"Answer","text":"Da. Plătești 200€ (999 lei) o singură dată, la livrare, după ce site-ul e publicat. În preț intră designul, textele, formularul, butonul de WhatsApp, înscrierea în Google și domeniul cu găzduirea pentru primul an. Prețul e mic pentru că e o singură pagină, cu o structură pe care am construit-o de multe ori."}},{"@type":"Question","name":"Ce plătesc din anul doi?","acceptedAnswer":{"@type":"Answer","text":"Domeniul, 15€ pe an, și găzduirea, 85€ pe an. Pentru site nu mai plătești nimic: n-are abonament și nici chirie lunară."}},{"@type":"Question","name":"Al cui e domeniul?","acceptedAnswer":{"@type":"Answer","text":"Al tău. Domeniul și găzduirea le cumpărăm pe numele tău sau al firmei. Site-ul îți aparține după livrare, iar dacă ceri fișierele, ți le dăm."}},{"@type":"Question","name":"Apare site-ul pe Google?","acceptedAnswer":{"@type":"Answer","text":"Da. Îi facem titlurile, descrierile și sitemap-ul și îl înscriem în Google Search Console. La căutarea după numele firmei apare de obicei în una sau două săptămâni de la publicare. Pentru căutări generale, de tipul „instalator Iași”, o singură pagină urcă greu; acolo ajută paginile pe orașe din Website Standard, la 1.200€."}},{"@type":"Question","name":"Pot adăuga pagini mai târziu?","acceptedAnswer":{"@type":"Answer","text":"Da. Construim site-ul așa încât să punem pagini noi peste el, fără să-l refacem. Website Basic, cu până la 6 pagini, costă 750€, iar Website Standard 1.200€. Îți spunem cât costă trecerea înainte să începem."}},{"@type":"Question","name":"Cine scrie textele?","acceptedAnswer":{"@type":"Answer","text":"Noi. Ne spui la telefon, în vreo douăzeci de minute, ce faci, unde lucrezi și ce te întreabă clienții. Scriem pagina, o citești pe adresa de test și ne spui ce schimbăm înainte de publicare."}},{"@type":"Question","name":"Am nevoie de poze profesionale?","acceptedAnswer":{"@type":"Answer","text":"Nu neapărat. Merg și pozele făcute de tine cu telefonul, dacă sunt clare. Dacă nu ai, alegem fotografii de stoc potrivite meseriei tale și îți spunem care sunt, ca să le înlocuiești mai târziu."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Creare site de prezentare","item":"https://visience.ro/creare-site-prezentare/"},{"@type":"ListItem","position":3,"name":"Site de o pagină","item":"https://visience.ro/site-o-pagina/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"iFOtP2SFzXFfOLAPNt30m"}
+6:T49df,<main id="main">
+
+<section class="csi-hero" aria-labelledby="csi-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="22%" x2="100%" y2="64%"/>
+      <line x1="0" y1="58%" x2="100%" y2="18%"/>
+      <line x1="24%" y1="0" x2="78%" y2="100%"/>
+      <line x1="66%" y1="0" x2="14%" y2="100%"/>
+    </svg>
+  </div>
+  <div class="wrap">
+    <nav class="csi-breadcrumbs" aria-label="Breadcrumbs">
+      <a href="/">Acasă</a><span class="sep">/</span>
+      <a href="/creare-site-prezentare/">Creare site de prezentare</a><span class="sep">/</span>
+      <span>Site de o pagină</span>
+    </nav>
+
+    <h1 class="csi-hero__h1" id="csi-h1">
+      Site de o pagină<br>
+      <span class="acc">200€, gata în 2 zile</span>
+    </h1>
+
+    <p class="csi-hero__lead">Cineva ți-a primit numărul de la un vecin. Înainte să sune, îți caută firma pe Google, să vadă dacă exiști. Găsește o pagină de Facebook. Ultima postare, acum doi ani. Mai stă pe gânduri. Pentru momentul ăsta facem site-ul de o pagină: 200€ (999 lei), plătiți o singură dată, cu domeniul și găzduirea incluse în primul an.</p>
+
+    <div class="csi-hero__acts">
+      <a href="/site-999-lei/#cere" class="btn btn-solid">Cere site-ul</a>
+      <a href="/contact/" class="btn btn-ghost" style="border-color:rgba(255,255,255,.25);color:#fff">Pune o întrebare</a>
+    </div>
+
+    <div class="csi-hero__stats">
+      <div class="csi-hero__stat"><span class="n">200€</span><span class="l">o singură plată, 999 lei</span></div>
+      <div class="csi-hero__stat"><span class="n">2 zile</span><span class="l">de la discuție la publicare</span></div>
+      <div class="csi-hero__stat"><span class="n">1 an</span><span class="l">domeniu și găzduire incluse</span></div>
+      <div class="csi-hero__stat"><span class="n">15€ + 85€</span><span class="l">domeniu + găzduire pe an, din anul 2</span></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Ce e un <span class="acc">site de o pagină</span></h2>
+    </div>
+    <div class="csi-prose rv rv-d1">
+      <p>Un site cu o singură pagină, lungă, pe care omul o citește de sus în jos, cu degetul pe ecran. Fără meniu cu zece butoane și fără pagini în care să se rătăcească. Tot ce îi trebuie ca să te sune stă într-un singur loc.</p>
+      <p>Pagina are opt părți, puse în ordinea în care le citește cineva care te vede prima dată. Sus, sigla, meseria și numărul de telefon. Apoi o propoziție despre ce faci și unde, cu un buton de sunat și unul de WhatsApp. Urmează lista lucrărilor, motivele pentru care te-ar alege pe tine (ani de meserie, lucrări făcute, recenzii de pe Google), <strong>șase până la nouă poze</strong> de la lucrările tale și întrebările pe care le auzi la fiecare telefon, cu răspuns. La final, un formular scurt, programul, zona în care lucrezi și datele legale ale firmei.</p>
+      <p>Seamănă cu un pliant bun. Doar că pe ăsta îl găsește lumea pe Google și sună din el dintr-o apăsare.</p>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream2">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Pentru cine <span class="acc">merge</span></h2>
+      <p class="body-lg" style="margin-top:14px">Pentru firmele la care clientul vrea să afle repede ce faci, unde lucrezi și cum te sună.</p>
+    </div>
+    <div class="csi-types rv rv-d1">
+      <div class="csi-type">
+        <span class="csi-type__n"><i class="fas fa-screwdriver-wrench" aria-hidden="true"></i></span>
+        <div>
+          <h3>Meseriași</h3>
+          <p>Instalatori, electricieni, zugravi, firme de foraje. Omul vrea să vadă că exiști, ce lucrări faci și în ce zonă te deplasezi. Pentru asta, o pagină ajunge.</p>
+        </div>
+      </div>
+      <div class="csi-type">
+        <span class="csi-type__n"><i class="fas fa-calendar-check" aria-hidden="true"></i></span>
+        <div>
+          <h3>Cabinete și saloane</h3>
+          <p>Cabinet medical, de avocatură sau de contabilitate, salon de coafură ori de cosmetică. Serviciile, programul, adresa și numărul pentru programări încap pe o pagină.</p>
+        </div>
+      </div>
+      <div class="csi-type">
+        <span class="csi-type__n"><i class="fas fa-utensils" aria-hidden="true"></i></span>
+        <div>
+          <h3>Restaurante mici</h3>
+          <p>Bistro, patiserie, pizzerie de cartier. Meniul scurt, programul, harta și telefonul pentru comenzi. Dacă meniul are zeci de feluri pe categorii, îți trebuie mai mult.</p>
+        </div>
+      </div>
+      <div class="csi-type">
+        <span class="csi-type__n"><i class="fas fa-seedling" aria-hidden="true"></i></span>
+        <div>
+          <h3>Firme la început</h3>
+          <p>Abia ai deschis și ai nevoie de o adresă pe care s-o treci pe cartea de vizită, pe mașină sau pe factură. Pornești cu 200€ și adaugi pagini când crește firma.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Când o pagină <span class="acc">nu ajunge</span></h2>
+    </div>
+    <div class="csi-prose rv rv-d1">
+      <p>Sunt două cazuri în care îți spunem din prima să nu iei site-ul de 200€.</p>
+      <p><strong>Vrei să vinzi online.</strong> Coșul, plata cu cardul, transportul și paginile de produs nu încap pe o pagină. Aici e nevoie de un <a href="/creare-magazin-online/">magazin online</a>, care pornește de la 1.000€.</p>
+      <p><strong>Faci multe lucruri diferite și vrei să te găsească lumea pe Google pentru fiecare.</strong> Să zicem că montezi centrale, desfunzi canalizări și faci instalații sanitare. Cine caută „montaj centrală” trebuie să ajungă pe o pagină care vorbește doar despre asta. O pagină care le cuprinde pe toate iese greu în față la oricare dintre ele. Atunci îți trebuie Website Basic, cu până la 6 pagini, la 750€.</p>
+      <p>Ne dăm seama de asta la prima discuție, înainte să plătești ceva. N-are rost să faci un site ca să-l refaci peste o lună.</p>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Ce intră în <span class="acc">cei 200€</span></h2>
+      <p class="body-lg" style="margin-top:14px">Aceleași lucruri la fiecare client, oricare i-ar fi meseria.</p>
+    </div>
+    <div class="csi-grid csi-grid--3 rv rv-d1">
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-pen-ruler"></i></div>
+        <h3>Design pe firma ta</h3>
+        <p>Culorile, literele și așezarea pornesc de la sigla, pozele și materialele pe care le ai deja. Îl verificăm întâi pe telefon, de unde intră cei mai mulți.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-file-lines"></i></div>
+        <h3>Textele scrise de noi</h3>
+        <p>Douăzeci de minute la telefon ne ajung ca să scriem pagina pe meseria ta. O citești și o corectezi înainte să apară online.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-comments"></i></div>
+        <h3>Formular și WhatsApp</h3>
+        <p>Cererile din formular îți vin pe e-mail. Butonul de WhatsApp deschide conversația direct de pe telefonul omului.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-magnifying-glass"></i></div>
+        <h3>Pus în Google</h3>
+        <p>Titluri, descrieri, sitemap și înscriere în Search Console, ca firma să apară când cineva îi caută numele.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-globe"></i></div>
+        <h3>Domeniu și găzduire</h3>
+        <p>Adresa site-ului și găzduirea pentru primul an intră în preț. Le cumpărăm pe numele tău sau al firmei.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-video"></i></div>
+        <h3>Instruire filmată</h3>
+        <p>Îți înregistrăm cum schimbi textele, pozele și programul, ca să te descurci singur după livrare.</p>
+      </div>
+    </div>
+    <p class="csi-pr-note rv rv-d2">Plătești la livrare, după ce site-ul e publicat și îl vezi funcționând. <a href="/preturi/">Vezi toate prețurile</a></p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Cum decurge, <span class="acc">pe zile</span></h2>
+      <p class="body-lg" style="margin-top:14px">Două zile lucrătoare din momentul în care spui da până la site-ul publicat.</p>
+    </div>
+    <div class="csi-steps rv rv-d1">
+      <div class="csi-step"><div class="csi-step__n">ZIUA 1 · DIMINEAȚA</div><h3>Discuția</h3><p>Douăzeci de minute la telefon despre ce faci și pentru cine. Ne trimiți sigla și pozele.</p></div>
+      <div class="csi-step"><div class="csi-step__n">ZIUA 1 · SEARA</div><h3>Prima variantă</h3><p>Îți trimitem site-ul pe o adresă de test, ca să-l vezi pe telefon și pe calculator.</p></div>
+      <div class="csi-step"><div class="csi-step__n">ZIUA 2 · DIMINEAȚA</div><h3>Corecturile</h3><p>Ne dai lista cu ce schimbi: un cuvânt, o poză, un număr. O rundă de corecturi intră în preț.</p></div>
+      <div class="csi-step"><div class="csi-step__n">ZIUA 2 · DUPĂ-AMIAZA</div><h3>Publicarea</h3><p>Site-ul intră pe domeniul tău și îl trimitem în Google. Abia acum plătești.</p></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream2">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Ce urmează <span class="acc">după livrare</span></h2>
+      <p class="body-lg" style="margin-top:14px">Site-ul e al tău. N-are abonament și nici chirie lunară.</p>
+    </div>
+    <div class="csi-tbl rv rv-d1">
+      <table>
+        <thead><tr><th>Ce plătești</th><th>În primul an</th><th>Din anul 2</th></tr></thead>
+        <tbody>
+          <tr><td>Site-ul de o pagină</td><td>200€, o singură dată</td><td>nimic</td></tr>
+          <tr><td>Domeniul</td><td>inclus</td><td>15€ pe an</td></tr>
+          <tr><td>Găzduirea</td><td>inclusă</td><td>85€ pe an</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="csi-prose rv rv-d2" style="margin-top:40px">
+      <p>Site-ul e construit așa încât să putem pune pagini noi peste el, fără să-l luăm de la capăt. Dacă peste un an ai nevoie de mai mult, îl trecem pe <strong>Website Basic</strong> (750€, până la 6 pagini, cu blog și galerie) sau pe <strong>Website Standard</strong> (1.200€, cu pagini pe orașe și cartiere, 10 articole și SEO on-site complet). Îți spunem cât costă trecerea înainte să ne apucăm, iar tu decizi.</p>
+      <p>Dacă vrei să apari și pe Google Maps, completăm profilul Google Business cu poze, program și servicii și îl legăm de site. Costă 300€, o singură dată.</p>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white" id="exemple">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Site-uri <span class="acc">făcute de noi</span></h2>
+      <p class="body-lg" style="margin-top:14px">Sunt proiecte mai mari decât un site de o pagină. Le arătăm ca să vezi cum lucrăm: telefonul în primul ecran și texte scrise pentru omul care caută. Pe o singură pagină le primești la fel.</p>
+    </div>
+    <div class="csi-porto csi-porto--3 rv rv-d1">
+      <a class="csi-shot" href="https://instalatortimisoaranonstop.ro/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/instalator.avif" alt="Site pentru Instalator Timișoara NON-STOP, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Instalator Timișoara NON-STOP</strong>Urgențe 24/7 la sanitare, termice și centrale, cu numărul de telefon scris mare pe primul ecran, pentru cine sună de pe mobil.<span class="csi-shot__url">instalatortimisoaranonstop.ro ↗</span></div>
+      </a>
+      <a class="csi-shot" href="https://forajesiputuri.ro/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/foraje.avif" alt="Site pentru firma Foraje și Puțuri din Ilfov, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Foraje și Puțuri — Ilfov</strong>Foraje de puțuri în București, Ilfov și județele din jur. Telefonul și WhatsApp-ul la vedere, oferta cerută dintr-un buton. Aici am făcut și paginile pe zone, și campaniile Google Ads.<span class="csi-shot__url">forajesiputuri.ro ↗</span></div>
+      </a>
+      <a class="csi-shot" href="https://casavatra.ro/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/casavatra.avif" alt="Site pentru restaurantul Casa Vatră din Rădăuți, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Casa Vatră — restaurant și hotel</strong>Restaurant cu hotel în Rădăuți: meniul pe categorii, rezervări pentru masă sau pentru cameră și comenzi online.<span class="csi-shot__url">casavatra.ro ↗</span></div>
+      </a>
+    </div>
+    <div class="rv rv-d2" style="text-align:center;margin-top:34px">
+      <a href="/portofoliu/" class="btn btn-ghost">Vezi tot portofoliul →</a>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Întrebări <span class="acc">frecvente</span></h2>
+    </div>
+    <div class="csi-faq rv">
+      <details>
+        <summary>Chiar costă doar 200€?</summary>
+        <p>Da. Plătești 200€ (999 lei) o singură dată, la livrare, după ce site-ul e publicat. În preț intră designul, textele, formularul, butonul de WhatsApp, înscrierea în Google și domeniul cu găzduirea pentru primul an. Prețul e mic pentru că e o singură pagină, cu o structură pe care am construit-o de multe ori.</p>
+      </details>
+      <details>
+        <summary>Ce plătesc din anul doi?</summary>
+        <p>Domeniul, 15€ pe an, și găzduirea, 85€ pe an. Pentru site nu mai plătești nimic: n-are abonament și nici chirie lunară.</p>
+      </details>
+      <details>
+        <summary>Al cui e domeniul?</summary>
+        <p>Al tău. Domeniul și găzduirea le cumpărăm pe numele tău sau al firmei. Site-ul îți aparține după livrare, iar dacă ceri fișierele, ți le dăm.</p>
+      </details>
+      <details>
+        <summary>Apare site-ul pe Google?</summary>
+        <p>Da. Îi facem titlurile, descrierile și sitemap-ul și îl înscriem în Google Search Console. La căutarea după numele firmei apare de obicei în una sau două săptămâni de la publicare. Pentru căutări generale, de tipul „instalator Iași”, o singură pagină urcă greu; acolo ajută paginile pe orașe din Website Standard, la 1.200€.</p>
+      </details>
+      <details>
+        <summary>Pot adăuga pagini mai târziu?</summary>
+        <p>Da. Construim site-ul așa încât să punem pagini noi peste el, fără să-l refacem. Website Basic, cu până la 6 pagini, costă 750€, iar Website Standard 1.200€. Îți spunem cât costă trecerea înainte să începem.</p>
+      </details>
+      <details>
+        <summary>Cine scrie textele?</summary>
+        <p>Noi. Ne spui la telefon, în vreo douăzeci de minute, ce faci, unde lucrezi și ce te întreabă clienții. Scriem pagina, o citești pe adresa de test și ne spui ce schimbăm înainte de publicare.</p>
+      </details>
+      <details>
+        <summary>Am nevoie de poze profesionale?</summary>
+        <p>Nu neapărat. Merg și pozele făcute de tine cu telefonul, dacă sunt clare. Dacă nu ai, alegem fotografii de stoc potrivite meseriei tale și îți spunem care sunt, ca să le înlocuiești mai târziu.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-cta" aria-labelledby="csi-cta-h">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="dd dd-lg csi-cta__h" id="csi-cta-h">Firma ta n-are încă site?<br><span class="acc">În două zile îl are.</span></h2>
+      <p class="csi-cta__p">Lasă numărul și cu ce se ocupă firma. Te sună Vlad în cel mult 24 de ore și îți spune din prima discuție dacă o pagină îți ajunge.</p>
+      <div class="csi-cta__acts">
+        <a href="/site-999-lei/#cere" class="btn btn-solid">Cere site-ul</a>
+        <a href="tel:+40771486499" class="btn btn-dark">+40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Prețuri și alte tipuri de site">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Toate prețurile noastre sunt publice, serviciu cu serviciu. Alegi în cunoștință de cauză, fără presiune.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Mai multe despre site-uri</div>
+      <div class="rel-links__grid">
+        <a href="/pret-site-de-prezentare/" class="rel-link"><span class="rel-link__name">Preț site de prezentare <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-prezentare/" class="rel-link"><span class="rel-link__name">Creare site de prezentare <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-prezentare-iasi/" class="rel-link"><span class="rel-link__name">Creare site Iași <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-restaurant/" class="rel-link"><span class="rel-link__name">Site pentru restaurant <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-instalatori/" class="rel-link"><span class="rel-link__name">Site pentru instalatori <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/site-uri-pe-domenii/" class="rel-link"><span class="rel-link__name">Site-uri pe domenii <span class="arr" aria-hidden="true">↗</span></span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+3:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$6"}}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/26lsc62kbfuba.css","precedence":"next"}]
+5:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

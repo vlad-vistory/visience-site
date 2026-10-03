@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 6:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-:HL["/_next/static/chunks/10yh402vs--l8.css","style"]
+:HL["/_next/static/chunks/26lsc62kbfuba.css","style"]
 2:T890,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-platforma-cursuri-online/#service","name":"Creare platformă de cursuri online","serviceType":"Creare platformă de cursuri online","description":"Platformă de cursuri online: lecții video, teste, certificate, conturi de cursant și instructor, plată sau abonament. De la 1.200€. Exemplu: Edu-Net.","url":"https://visience.ro/creare-platforma-cursuri-online/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"200","highPrice":"1200","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-platforma-cursuri-online/#faq","mainEntity":[{"@type":"Question","name":"Cât costă o platformă de cursuri online?","acceptedAnswer":{"@type":"Answer","text":"1.200€ platforma cu lecții video, teste, certificate și conturi de cursant. Abonamentul lunar se adaugă cu 200€, iar o secvență de e-mailuri automate costă 300€. Funcțiile în plus se estimează la oră, 60€."}},{"@type":"Question","name":"Unde se încarcă videoclipurile?","acceptedAnswer":{"@type":"Answer","text":"Pe un serviciu video separat, legat de platformă, ca lecțiile să se încarce repede. Îți spunem în ofertă care se potrivește volumului tău."}},{"@type":"Question","name":"Încasez eu banii de la cursanți?","acceptedAnswer":{"@type":"Answer","text":"Da. Plata intră direct în contul tău, prin procesatorul de plăți pe care îl alegi."}},{"@type":"Question","name":"Pot avea mai mulți instructori?","acceptedAnswer":{"@type":"Answer","text":"Da. Fiecare instructor are contul lui și își pune cursurile, iar tu aprobi ce apare. Zona de instructor se estimează la oră."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Site-uri pe domenii","item":"https://visience.ro/site-uri-pe-domenii/"},{"@type":"ListItem","position":3,"name":"Platformă de cursuri online","item":"https://visience.ro/creare-platforma-cursuri-online/"}]}]}3:T28ea,<main id="main">
 
 <section class="csi-hero" aria-labelledby="csi-h1">
@@ -204,7 +204,7 @@
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0pYOq9EVkZ15rH_lTPytG"}
-4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/10yh402vs--l8.css","precedence":"next"}]
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"iFOtP2SFzXFfOLAPNt30m"}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/26lsc62kbfuba.css","precedence":"next"}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null

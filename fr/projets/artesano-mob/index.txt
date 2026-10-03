@@ -34,7 +34,7 @@ b:I[68027,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4we
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();0:{"P":null,"c":["","fr","projets","artesano-mob",""],"q":"","i":false,"f":[[["",{"children":["fr",{"children":["projets",{"children":[["slug","artesano-mob","d",null],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2t44x5vm81k62.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/128am0rogg1gy.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{"children":["$L8",{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],"$La",false]],"m":"$undefined","G":["$b",["$Lc"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"0pYOq9EVkZ15rH_lTPytG"}
+})();0:{"P":null,"c":["","fr","projets","artesano-mob",""],"q":"","i":false,"f":[[["",{"children":["fr",{"children":["projets",{"children":[["slug","artesano-mob","d",null],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2t44x5vm81k62.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/128am0rogg1gy.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{"children":["$L8",{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],"$La",false]],"m":"$undefined","G":["$b",["$Lc"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"iFOtP2SFzXFfOLAPNt30m"}
 e:I[36621,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 19:I[39756,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 1a:I[37457,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
@@ -124,7 +124,7 @@ d:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","Loca
     </div>
   </div>
 </nav>
-10:T2023,<footer class="footer" role="contentinfo">
+10:T21a2,<footer class="footer" role="contentinfo">
   <div class="wrap">
 
     <div class="footer__grid">
@@ -205,13 +205,15 @@ d:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","Loca
         <div class="footer__col-title">Servicii</div>
         <ul class="footer__links">
           <li><a href="/creare-site-prezentare/">Creare site de prezentare</a></li>
-          <li><a href="/creare-site-prezentare-iasi/">Creare site de prezentare Iași</a></li>
+          <li><a href="/site-o-pagina/">Site de o pagină</a></li>
+          <li><a href="/creare-site-prezentare-iasi/">Creare site Iași</a></li>
           <li><a href="/creare-site-prezentare-bacau/">Creare site de prezentare Bacău</a></li>
           <li><a href="/creare-site-prezentare-bucuresti/">Creare site de prezentare București</a></li>
           <li><a href="/creare-magazin-online/">Creare magazin online</a></li>
           <li><a href="/branding-identitate-vizuala/">Branding &amp; identitate</a></li>
           <li><a href="/social-media-management/">Social Media</a></li>
           <li><a href="/google-meta-ads/">Google &amp; Meta Ads</a></li>
+          <li><a href="/reclame-online-iasi/">Reclame online Iași</a></li>
           <li><a href="/optimizare-seo/">SEO &amp; Content</a></li>
           <li><a href="/dezvoltare-software/">Dezvoltare software</a></li>
           <li><a href="/marketing-dezvoltatori-imobiliari/">Marketing pentru dezvoltatori</a></li>
@@ -227,6 +229,9 @@ d:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","Loca
           <li><a href="/parteneri/">Parteneri</a></li>
           <li><a href="/blog/">Blog</a></li>
           <li><a href="/preturi/">Prețuri</a></li>
+          <li><a href="/pret-site-de-prezentare/">Preț site de prezentare</a></li>
+          <li><a href="/pret-magazin-online/">Preț magazin online</a></li>
+          <li><a href="/pret-administrare-google-ads/">Preț administrare Google Ads</a></li>
           <li><a href="/#rezultate">Studii de caz</a></li>
           <li><a href="/#despre">Despre noi</a></li>
           <li><a href="/contact/">Contact</a></li>

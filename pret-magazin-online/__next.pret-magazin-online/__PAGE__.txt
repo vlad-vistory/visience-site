@@ -1,0 +1,298 @@
+1:"$Sreact.fragment"
+7:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["/_next/static/chunks/26lsc62kbfuba.css","style"]
+2:T1110,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/pret-magazin-online/#service","name":"Creare magazin online","serviceType":"Creare magazin online WooCommerce","description":"Preț magazin online pe WooCommerce: 1.000€ Basic, 1.800€ Standard, 3.500€ Premium. Ce primești la fiecare, ce face prețul să crească și cât plătești pe an.","url":"https://visience.ro/pret-magazin-online/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"1000","highPrice":"3500","offerCount":"3"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Prețuri magazin online","itemListElement":[{"@type":"Offer","name":"Magazin online Basic","price":"1000","priceCurrency":"EUR","description":"WooCommerce, până la 6 pagini dinamice, plată cu cardul, transfer și ramburs, transport configurat, galerie, GDPR și protecția consumatorului, SMTP.","url":"https://visience.ro/pret-magazin-online/","itemOffered":{"@type":"Service","name":"Magazin online Basic"}},{"@type":"Offer","name":"Magazin online Standard","price":"1800","priceCurrency":"EUR","description":"Tot din Basic, plus 2 revizii de design, șablon de produs personalizat, produse sugerate, puncte cadou, e-mail pentru coșul abandonat, site în 2 limbi și 3 luni de mentenanță.","url":"https://visience.ro/pret-magazin-online/","itemOffered":{"@type":"Service","name":"Magazin online Standard"}},{"@type":"Offer","name":"Magazin online Premium","price":"3500","priceCurrency":"EUR","description":"Tot din Standard, plus design unic, mega meniu cu imagini, chat live, configurator de produse, schema markup completă și analiza vizitatorilor.","url":"https://visience.ro/pret-magazin-online/","itemOffered":{"@type":"Service","name":"Magazin online Premium"}}]}},{"@type":"FAQPage","@id":"https://visience.ro/pret-magazin-online/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un magazin online?","acceptedAnswer":{"@type":"Answer","text":"1.000€ varianta Basic, 1.800€ varianta Standard, pe care o aleg cei mai mulți, și 3.500€ varianta Premium. Se adaugă domeniul, 15€, și găzduirea, 85€ pe an. Adăugarea produselor se negociază separat."}},{"@type":"Question","name":"Cât costă un magazin online pe an, după lansare?","acceptedAnswer":{"@type":"Answer","text":"Cel puțin 100€ pe an: 15€ domeniul și 85€ găzduirea. Mentenanța e opțională și pornește de la 100€ pe lună. Comisionul la plățile cu cardul îl plătești procesatorului de plăți, nu nouă."}},{"@type":"Question","name":"Prețul include și adăugarea produselor?","acceptedAnswer":{"@type":"Answer","text":"Nu. Adăugarea produselor se negociază separat, după câte produse ai și câte variante au. Le poți urca și singur din panou; la livrare îți arătăm cum."}},{"@type":"Question","name":"Care e diferența de cost între WooCommerce și Shopify?","acceptedAnswer":{"@type":"Answer","text":"Pe WooCommerce plătești găzduirea, 85€ pe an, iar magazinul rămâne al tău. Pe Shopify plătești în fiecare lună abonamentul lor, cât timp magazinul e deschis; prețul planurilor îl găsești pe site-ul Shopify."}},{"@type":"Question","name":"Ce procesatori de plăți și ce curieri puteți lega de magazin?","acceptedAnswer":{"@type":"Answer","text":"Pentru plata cu cardul, Stripe, Netopia sau EuPlătesc. Pentru livrare, Sameday, FAN Courier sau Cargus. Plata cu cardul, transferul bancar, rambursul și transportul configurat sunt incluse de la varianta Basic."}},{"@type":"Question","name":"Cât costă reclamele pentru un magazin online?","acceptedAnswer":{"@type":"Answer","text":"Managementul campaniilor Google și Meta costă 200€ pe lună, oricâte campanii, minim 3 luni. Bugetul de reclamă îl plătești direct la Google sau Meta; recomandăm cel puțin 500€ pe lună. Google Shopping, ca produsele să apară cu poză și preț în Google, costă 100€."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Prețuri","item":"https://visience.ro/preturi/"},{"@type":"ListItem","position":3,"name":"Preț magazin online","item":"https://visience.ro/pret-magazin-online/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"iFOtP2SFzXFfOLAPNt30m"}
+6:T4931,<main id="main">
+
+<section class="csi-hero" aria-labelledby="csi-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="22%" x2="100%" y2="64%"/>
+      <line x1="0" y1="58%" x2="100%" y2="18%"/>
+      <line x1="24%" y1="0" x2="78%" y2="100%"/>
+      <line x1="66%" y1="0" x2="14%" y2="100%"/>
+    </svg>
+  </div>
+  <div class="wrap">
+    <nav class="csi-breadcrumbs" aria-label="Breadcrumbs">
+      <a href="/">Acasă</a><span class="sep">/</span>
+      <a href="/preturi/">Prețuri</a><span class="sep">/</span>
+      <span>Preț magazin online</span>
+    </nav>
+
+    <h1 class="csi-hero__h1" id="csi-h1">
+      Preț magazin online:<br>
+      <span class="acc">de la 1.000€ la 3.500€</span>
+    </h1>
+
+    <p class="csi-hero__lead">Pui o rochie pe Facebook și până seara ai șapte mesaje: „cât costă?”, „o aveți pe M?”, „trimiteți în Cluj?”. Răspunzi la fiecare de pe telefon, între doi clienți. Pe un magazin online omul vede singur prețul și mărimile, plătește, iar tu primești comanda gata de trimis. La noi costă 1.000€ varianta Basic, 1.800€ varianta Standard, pe care o aleg cei mai mulți, și 3.500€ varianta Premium.</p>
+
+    <div class="csi-hero__acts">
+      <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+      <a href="#preturi" class="btn btn-ghost" style="border-color:rgba(255,255,255,.25);color:#fff">Vezi ce primești</a>
+    </div>
+
+    <div class="csi-hero__stats">
+      <div class="csi-hero__stat"><span class="n">1.000€</span><span class="l">magazin Basic</span></div>
+      <div class="csi-hero__stat"><span class="n">1.800€</span><span class="l">Standard, cel mai ales</span></div>
+      <div class="csi-hero__stat"><span class="n">3.500€</span><span class="l">magazin Premium</span></div>
+      <div class="csi-hero__stat"><span class="n">15€ + 85€</span><span class="l">domeniu și găzduire pe an</span></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white" id="preturi">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Prețul pe fiecare <span class="acc">variantă de magazin</span></h2>
+      <p class="body-lg" style="margin-top:14px">Toate sunt pe WooCommerce și primesc comenzi cu plată cu cardul, transfer sau ramburs, cu transportul configurat. Diferă cât lucrăm pe design și ce face magazinul în plus.</p>
+    </div>
+    <div class="csi-tbl rv rv-d1">
+      <table>
+        <thead>
+          <tr><th>Variantă</th><th>Preț</th><th>Ce primești</th><th>Pentru cine</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Magazin Basic</strong></td>
+            <td>1.000€</td>
+            <td>Până la 6 pagini dinamice, plată cu cardul, transfer bancar și ramburs, transport configurat, galerie, GDPR și paginile cerute de protecția consumatorului, e-mailuri trimise prin SMTP, afișare corectă pe telefon.</td>
+            <td>Vinzi pe Facebook sau pe OLX, ai în jur de 20 de produse și vrei ca omul să comande și să plătească fără să-ți scrie.</td>
+          </tr>
+          <tr>
+            <td><strong>Magazin Standard</strong><br>cel mai ales</td>
+            <td>1.800€</td>
+            <td>Tot din Basic, plus 2 revizii de design, șablon de produs făcut pe marfa ta, produse sugerate, puncte cadou, e-mail pentru coșul abandonat, site în 2 limbi și 3 luni de mentenanță.</td>
+            <td>Ai clienți care revin, poate și un magazin fizic, și vrei să cumpere din nou. A doua limbă te ajută dacă vinzi și în afară.</td>
+          </tr>
+          <tr>
+            <td><strong>Magazin Premium</strong></td>
+            <td>3.500€</td>
+            <td>Tot din Standard, plus design unic, mega meniu cu imagini, chat live, configurator de produse, schema markup completă și analiza vizitatorilor.</td>
+            <td>Ai sute de produse cu mărimi și culori sau un produs pe care clientul și-l alege bucată cu bucată.</td>
+          </tr>
+          <tr>
+            <td><strong>Magazin Avansat</strong></td>
+            <td>la cerere</td>
+            <td>Funcții care nu intră în Premium, gândite pe felul în care lucrezi. Îți spunem prețul după ce vedem ce îți trebuie.</td>
+            <td>Ai un mod de lucru care nu încape în variantele de mai sus.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="csi-pr-note rv rv-d2">
+      Adăugarea produselor se negociază separat. Se adaugă domeniul (15€) și găzduirea (85€ pe an). <a href="/preturi/">Vezi toate prețurile</a> sau <a href="/contact/">cere o ofertă</a>. Răspundem în 24 de ore.
+    </p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream2">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Ce face <span class="acc">prețul să crească</span></h2>
+      <p class="body-lg" style="margin-top:14px">Prețul unui magazin e timp de lucru: 35 de ore la Basic, 75 la Standard, 150 la Premium. Ce adaugă ore adaugă și la preț.</p>
+    </div>
+    <div class="csi-grid csi-grid--3 rv rv-d1">
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-boxes-stacked"></i></div>
+        <h3>Câte produse ai și cine le urcă</h3>
+        <p>Douăzeci de produse le urci într-o după-amiază. Opt sute, cu poze și descrieri, cer zile întregi. De asta adăugarea se negociază separat: o faci tu, după ce îți arătăm cum, sau o facem noi.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-shirt"></i></div>
+        <h3>Mărimi și culori</h3>
+        <p>Un tricou în 5 mărimi și 4 culori înseamnă 20 de combinații, fiecare cu stocul și poza ei. Cu sute de produse așa, ești în zona Premium.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-language"></i></div>
+        <h3>Limbi</h3>
+        <p>Standard vine cu site-ul în 2 limbi. Traducerea textelor pornește de la 100€.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-credit-card"></i></div>
+        <h3>Plăți și curieri</h3>
+        <p>Cardul, transferul și rambursul merg de la Basic. Legăm magazinul de Stripe, Netopia sau EuPlătesc și de Sameday, FAN Courier sau Cargus. Fiecare legătură în plus cu un program al tău înseamnă ore în plus.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-magnifying-glass-dollar"></i></div>
+        <h3>Google Shopping</h3>
+        <p>Produsele apar cu poză și preț direct în căutările Google. Merchant Center, feed-ul de produse și campania costă 100€.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-sliders"></i></div>
+        <h3>Configurator</h3>
+        <p>Omul alege dimensiunea, materialul sau culoarea și vede prețul înainte să comande. Intră în Premium. La Soluții Alpensam, un calculator îi arată ce rezervor i se potrivește.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Cât plătești <span class="acc">după lansare</span></h2>
+      <p class="body-lg" style="margin-top:14px">Magazinul îl plătești o dată. Câteva costuri vin însă în fiecare an sau în fiecare lună, și e bine să le știi de la început.</p>
+    </div>
+    <div class="csi-prose rv rv-d1">
+      <p><strong>Domeniul și găzduirea: 100€ pe an.</strong> Domeniul costă 15€, găzduirea 85€ pe an. Fără ele magazinul nu e online, așa că intră în calcul din prima zi.</p>
+      <p><strong>Mentenanța: de la 100€ pe lună, dacă o vrei.</strong> Ținem la zi WordPress și WooCommerce și intervenim când se strică ceva. La Standard primele 3 luni sunt incluse. Poți să n-o iei deloc, dar atunci actualizările rămân în grija ta.</p>
+      <p><strong>Comisionul la plățile cu cardul.</strong> Stripe, Netopia sau EuPlătesc rețin un comision la fiecare plată. Îl plătești lor, nu nouă, iar procentul îl găsești în contractul cu procesatorul ales.</p>
+      <p><strong>Reclamele, dacă vrei trafic de la început.</strong> Managementul campaniilor Google și Meta costă 200€ pe lună, oricâte campanii, minim 3 luni. Bugetul de reclamă e separat și îl plătești direct la Google sau Meta; recomandăm cel puțin 500€ pe lună. Setup-ul de campanie și tracking costă 200€ o dată și e gratuit la un contract pe 12 luni.</p>
+    </div>
+    <div class="csi-types rv rv-d2" style="margin-top:34px">
+      <div class="csi-type">
+        <div class="csi-type__n">1.100€</div>
+        <div>
+          <h3>Anul 1 cu magazin Basic</h3>
+          <p>1.000€ magazinul, 15€ domeniul, 85€ găzduirea. Din anul 2 rămân 100€ pe an. Cu mentenanță tot anul, mai adaugi cel puțin 1.200€.</p>
+        </div>
+      </div>
+      <div class="csi-type">
+        <div class="csi-type__n">1.900€</div>
+        <div>
+          <h3>Anul 1 cu magazin Standard</h3>
+          <p>1.800€ magazinul, 15€ domeniul, 85€ găzduirea, cu 3 luni de mentenanță incluse. Dacă o continui în celelalte 9 luni, mai adaugi cel puțin 900€.</p>
+        </div>
+      </div>
+    </div>
+    <p class="csi-pr-note rv rv-d2">
+      În calcule nu intră adăugarea produselor, comisioanele la plăți și reclamele. Mai pe larg, în articolul <a href="/blog/cat-costa-un-magazin-online/">Cât costă un magazin online</a>.
+    </p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">WooCommerce sau Shopify: <span class="acc">ce plătești lunar</span></h2>
+    </div>
+    <div class="csi-prose rv rv-d1">
+      <p>Variantele din tabel sunt pe WooCommerce. Facem magazine și pe Shopify sau PrestaShop, dar lucrăm mai ales pe WooCommerce, iar diferența dintre cele două se simte la costul lunar.</p>
+      <p><strong>Shopify</strong> se plătește lunar, la Shopify, cât timp magazinul e deschis. Abonamentul depinde de planul ales și îl găsești pe site-ul lor. Partea bună: găzduirea și actualizările sunt treaba lor.</p>
+      <p><strong>WooCommerce</strong> e gratuit și rulează pe găzduirea ta, de 85€ pe an. Magazinul e al tău, cu produse, comenzi și clienți, și îl iei cu tine dacă pleci de la noi. Partea mai puțin comodă: actualizările le face cineva, tu sau noi, prin mentenanță.</p>
+      <p>Shopify seamănă cu o chirie. WooCommerce, cu o casă a ta pe care o întreții.</p>
+      <p>Îți spunem în ofertă ce ți se potrivește, după ce vedem ce vinzi și cum. Detalii despre felul în care lucrăm găsești pe pagina <a href="/creare-magazin-online/">creare magazin online</a>.</p>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white" id="exemple">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Magazine online <span class="acc">făcute de noi</span></h2>
+      <p class="body-lg" style="margin-top:14px">Proiecte live, cu link spre site-ul fiecăruia.</p>
+    </div>
+    <div class="csi-porto rv rv-d1">
+      <a class="csi-shot" href="https://carmangeriaevei.ro/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/carmangeria.avif" alt="Magazin online pentru Carmangeria Evei din Călărași, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Carmangeria Evei</strong>Magazin online, social media și campanii Google și Meta pentru un producător local de carne și afumături din județul Călărași, cu livrare în 24–48 de ore.<span class="csi-shot__url">carmangeriaevei.ro ↗</span></div>
+      </a>
+      <a class="csi-shot" href="https://luciarosca.ro/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/luciarosca.avif" alt="Magazin online pentru brandul Lucia Roșca, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Lucia Roșca</strong>Magazin online refăcut pentru un brand de modă feminină: catalog pe categorii, pagini de colecție și comenzi custom, cu formular pe pagina produsului.<span class="csi-shot__url">luciarosca.ro ↗</span></div>
+      </a>
+      <a class="csi-shot" href="https://www.piesemoto.ro/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/piesemoto.avif" alt="Magazinul online de piese moto PieseMoto.ro, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>PieseMoto.ro</strong>Magazin online de piese, accesorii și echipamente moto: catalog pe categorii, căutare după marcă, model și an chiar pe prima pagină, cont de client.<span class="csi-shot__url">piesemoto.ro ↗</span></div>
+      </a>
+      <a class="csi-shot" href="https://solutiialpensam.ro/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/alpensam.avif" alt="Magazin online de rezervoare GPL Soluții Alpensam, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Soluții Alpensam</strong>Magazin online, branding și campanii Google și Meta pentru un grup autorizat ISCIR: rezervoare de la 990 la 5.000 de litri, calculator de consum, proiectare și montaj.<span class="csi-shot__url">solutiialpensam.ro ↗</span></div>
+      </a>
+    </div>
+    <div class="rv rv-d2" style="text-align:center;margin-top:34px">
+      <a href="/portofoliu/" class="btn btn-ghost">Vezi tot portofoliul →</a>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Întrebări <span class="acc">frecvente</span></h2>
+    </div>
+    <div class="csi-faq rv">
+      <details>
+        <summary>Cât costă un magazin online?</summary>
+        <p>1.000€ varianta Basic, 1.800€ varianta Standard, pe care o aleg cei mai mulți, și 3.500€ varianta Premium. Se adaugă domeniul, 15€, și găzduirea, 85€ pe an. Adăugarea produselor se negociază separat.</p>
+      </details>
+      <details>
+        <summary>Cât costă un magazin online pe an, după lansare?</summary>
+        <p>Cel puțin 100€ pe an: 15€ domeniul și 85€ găzduirea. Mentenanța e opțională și pornește de la 100€ pe lună. Comisionul la plățile cu cardul îl plătești procesatorului de plăți, nu nouă.</p>
+      </details>
+      <details>
+        <summary>Prețul include și adăugarea produselor?</summary>
+        <p>Nu. Adăugarea produselor se negociază separat, după câte produse ai și câte variante au. Le poți urca și singur din panou; la livrare îți arătăm cum.</p>
+      </details>
+      <details>
+        <summary>Care e diferența de cost între WooCommerce și Shopify?</summary>
+        <p>Pe WooCommerce plătești găzduirea, 85€ pe an, iar magazinul rămâne al tău. Pe Shopify plătești în fiecare lună abonamentul lor, cât timp magazinul e deschis; prețul planurilor îl găsești pe site-ul Shopify.</p>
+      </details>
+      <details>
+        <summary>Ce procesatori de plăți și ce curieri puteți lega de magazin?</summary>
+        <p>Pentru plata cu cardul, Stripe, Netopia sau EuPlătesc. Pentru livrare, Sameday, FAN Courier sau Cargus. Plata cu cardul, transferul bancar, rambursul și transportul configurat sunt incluse de la varianta Basic.</p>
+      </details>
+      <details>
+        <summary>Cât costă reclamele pentru un magazin online?</summary>
+        <p>Managementul campaniilor Google și Meta costă 200€ pe lună, oricâte campanii, minim 3 luni. Bugetul de reclamă îl plătești direct la Google sau Meta; recomandăm cel puțin 500€ pe lună. Google Shopping, ca produsele să apară cu poză și preț în Google, costă 100€.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-cta" aria-labelledby="csi-cta-h">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="dd dd-lg csi-cta__h" id="csi-cta-h">Vinzi deja?<br><span class="acc">Hai să-ți facem și magazinul.</span></h2>
+      <p class="csi-cta__p">Spune-ne ce vinzi, cam câte produse ai și unde le vinzi acum. Îți trimitem în 24 de ore prețul pe fiecare serviciu.</p>
+      <div class="csi-cta__acts">
+        <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+        <a href="tel:+40771486499" class="btn btn-dark">+40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Prețuri și magazine online">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Toate prețurile noastre sunt publice, serviciu cu serviciu. Alegi în cunoștință de cauză, fără presiune.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Prețuri și magazine online</div>
+      <div class="rel-links__grid">
+        <a href="/creare-magazin-online/" class="rel-link"><span class="rel-link__name">Creare magazin online <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/pret-site-de-prezentare/" class="rel-link"><span class="rel-link__name">Preț site de prezentare <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/pret-administrare-google-ads/" class="rel-link"><span class="rel-link__name">Preț administrare Google Ads <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/blog/cat-costa-un-magazin-online/" class="rel-link"><span class="rel-link__name">Cât costă un magazin online <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-magazin-online-haine/" class="rel-link"><span class="rel-link__name">Magazin online de haine <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/site-uri-pe-domenii/" class="rel-link"><span class="rel-link__name">Site-uri pe domenii <span class="arr" aria-hidden="true">↗</span></span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+3:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$6"}}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/26lsc62kbfuba.css","precedence":"next"}]
+5:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

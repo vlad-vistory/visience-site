@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 6:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-:HL["/_next/static/chunks/10yh402vs--l8.css","style"]
+:HL["/_next/static/chunks/26lsc62kbfuba.css","style"]
 2:T865,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-agentie-imobiliara/#service","name":"Creare site pentru agenție imobiliară","serviceType":"Creare site pentru agenție imobiliară","description":"Site pentru agenție imobiliară: proprietăți cu filtre și hartă, pagină pe fiecare anunț, cereri direct la agent. De la 1.200€. Exemplu: 4Biz Properties.","url":"https://visience.ro/creare-site-agentie-imobiliara/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"100","highPrice":"1200","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-agentie-imobiliara/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site pentru agenție imobiliară?","acceptedAnswer":{"@type":"Answer","text":"1.200€ un site cu proprietăți, filtre, hartă și pagină pe fiecare anunț. Pentru o agenție mică, un site de până la 6 pagini costă 750€. Harta interactivă se adaugă cu 100€."}},{"@type":"Question","name":"Cine pune proprietățile pe site?","acceptedAnswer":{"@type":"Answer","text":"Agenții, din panou, cu poze, preț și caracteristici. Fiecare agent își vede proprietățile și cererile."}},{"@type":"Question","name":"Fiecare agent primește cererile lui?","acceptedAnswer":{"@type":"Answer","text":"Da. Cererea de pe pagina unei proprietăți ajunge la agentul care o are, cu sursa ei."}},{"@type":"Question","name":"Lucrați și cu dezvoltatori imobiliari?","acceptedAnswer":{"@type":"Answer","text":"Da, cu prețuri separate pentru ansambluri rezidențiale: analiză de zonă, brand, site cu grila de apartamente și campanii."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Site-uri pe domenii","item":"https://visience.ro/site-uri-pe-domenii/"},{"@type":"ListItem","position":3,"name":"Site pentru agenție imobiliară","item":"https://visience.ro/creare-site-agentie-imobiliara/"}]}]}3:T2afe,<main id="main">
 
 <section class="csi-hero" aria-labelledby="csi-h1">
@@ -210,7 +210,7 @@
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0pYOq9EVkZ15rH_lTPytG"}
-4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/10yh402vs--l8.css","precedence":"next"}]
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"iFOtP2SFzXFfOLAPNt30m"}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/26lsc62kbfuba.css","precedence":"next"}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null

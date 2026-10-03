@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 6:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-:HL["/_next/static/chunks/10yh402vs--l8.css","style"]
+:HL["/_next/static/chunks/26lsc62kbfuba.css","style"]
 2:T8ed,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-instalatori/#service","name":"Creare site pentru instalatori și firme de foraje","serviceType":"Creare site pentru instalatori și firme de foraje","description":"Site pentru instalatori și foraje: telefon la vedere, servicii pe pagini, zone deservite, recenzii. Exemple: Instalator Timișoara, Foraje și Puțuri.","url":"https://visience.ro/creare-site-instalatori/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"200","highPrice":"750","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-instalatori/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site pentru instalator?","acceptedAnswer":{"@type":"Answer","text":"200€ un site de o pagină cu serviciile, zona și butonul de sunat, gata în 2 zile. 750€ un site de până la 6 pagini, câte una pe serviciu. Campaniile costă 200€ pe lună, oricâte."}},{"@type":"Question","name":"Ce e cel mai important pe site-ul unui instalator?","acceptedAnswer":{"@type":"Answer","text":"Telefonul, pus sus și ușor de apăsat pe mobil, și o pagină pentru fiecare serviciu. Oamenii caută exact problema lor, de exemplu „desfundare canalizare” și orașul."}},{"@type":"Question","name":"Faceți site-uri și pentru firme de foraje?","acceptedAnswer":{"@type":"Answer","text":"Da. La Foraje și Puțuri am făcut site-ul, paginile pe zone și campaniile Google Ads."}},{"@type":"Question","name":"Merită reclame Google pentru urgențe?","acceptedAnswer":{"@type":"Answer","text":"Da, pentru căutările cu „urgent” sau „non-stop” în ele: omul vrea să sune pe loc. Campaniile costă 200€ pe lună, oricâte, iar bugetul de reclamă se plătește direct platformelor."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Site-uri pe domenii","item":"https://visience.ro/site-uri-pe-domenii/"},{"@type":"ListItem","position":3,"name":"Site pentru instalatori și foraje","item":"https://visience.ro/creare-site-instalatori/"}]}]}3:T2ef6,<main id="main">
 
 <section class="csi-hero" aria-labelledby="csi-h1">
@@ -216,7 +216,7 @@
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0pYOq9EVkZ15rH_lTPytG"}
-4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/10yh402vs--l8.css","precedence":"next"}]
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"iFOtP2SFzXFfOLAPNt30m"}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/26lsc62kbfuba.css","precedence":"next"}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null

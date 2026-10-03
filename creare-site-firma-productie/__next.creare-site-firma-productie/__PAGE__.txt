@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 6:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-:HL["/_next/static/chunks/10yh402vs--l8.css","style"]
+:HL["/_next/static/chunks/26lsc62kbfuba.css","style"]
 2:T8dd,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-firma-productie/#service","name":"Creare site pentru firmă de producție și export","serviceType":"Creare site pentru firmă de producție și export","description":"Site pentru firme de producție și export: procese, certificări, capacitate, cereri de ofertă, în mai multe limbi. Exemple: GS Gomma, Studio Vezzosi, Bransha.","url":"https://visience.ro/creare-site-firma-productie/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"750","highPrice":"2500","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-firma-productie/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site pentru o firmă de producție?","acceptedAnswer":{"@type":"Answer","text":"750€ un site de până la 6 pagini, 1.200€ un site de până la 10 pagini, cu SEO complet și o pagină pe fiecare produs, 2.500€ cu design unic și animații. Fiecare limbă în plus pornește de la 100€."}},{"@type":"Question","name":"În câte limbi poate fi site-ul?","acceptedAnswer":{"@type":"Answer","text":"În câte ai nevoie. Bransha are site în cinci limbi, Studio Vezzosi în trei. Fiecare limbă în plus pornește de la 100€, după cât text are site-ul."}},{"@type":"Question","name":"Cine traduce textele tehnice?","acceptedAnswer":{"@type":"Answer","text":"Le traducem noi și verificăm cu tine termenii tehnici, pentru că un termen greșit într-o fișă tehnică poate costa o comandă."}},{"@type":"Question","name":"Pot primi cereri cu desene tehnice atașate?","acceptedAnswer":{"@type":"Answer","text":"Da. Formularul acceptă fișiere PDF și desene, cu o limită de mărime, iar cererea ajunge pe e-mail cu fișierul atașat."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Site-uri pe domenii","item":"https://visience.ro/site-uri-pe-domenii/"},{"@type":"ListItem","position":3,"name":"Site pentru firmă de producție","item":"https://visience.ro/creare-site-firma-productie/"}]}]}3:T2fdf,<main id="main">
 
 <section class="csi-hero" aria-labelledby="csi-h1">
@@ -222,7 +222,7 @@
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0pYOq9EVkZ15rH_lTPytG"}
-4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/10yh402vs--l8.css","precedence":"next"}]
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"iFOtP2SFzXFfOLAPNt30m"}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/26lsc62kbfuba.css","precedence":"next"}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null
