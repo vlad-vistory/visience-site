@@ -2,13 +2,20 @@
 // CRM visience.ro — baza de date, autentificare, ajutoare.
 
 const STARI = [
+  'fals'      => 'Număr fals / bot',
   'nou'       => 'Nou',
   'contactat' => 'Contactat',
   'oferta'    => 'Ofertă trimisă',
   'negociere' => 'În negociere',
   'castigat'  => 'Câștigat',
+  'live'      => 'Live',
   'pierdut'   => 'Pierdut',
 ];
+
+// „Live” e tot un client câștigat, doar că site-ul e deja online
+const STARI_CASTIGATE = "('castigat','live')";
+// numerele false si boții nu intră în totaluri, rate și analize
+const FARA_FALSE = "stare <> 'fals'";
 
 /**
  * Directorul cu datele. Prima alegere e in afara webroot-ului, ca sa nu fie

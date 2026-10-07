@@ -37,6 +37,7 @@ table{border-collapse:collapse;width:100%}
 .iesire:hover{background:rgba(255,255,255,.1);color:#fff}
 
 .wrap{max-width:1180px;margin:0 auto;padding:28px 24px 70px}
+.wrap--lat{max-width:1640px}
 .bara{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-bottom:22px}
 
 /* ---- butoane ---- */
@@ -98,9 +99,11 @@ table{border-collapse:collapse;width:100%}
 .pastila--negociere{background:#f3e9fb;color:#4a2170;border-color:#ddc9ee}
 .pastila--castigat{background:#dff2e3;color:#14532d;border-color:#b6dfc0}
 .pastila--pierdut{background:#f7e9e8;color:#7a221c;border-color:#e8c7c4}
+.pastila--fals{background:#eeeeef;color:#55555c;border-color:#d9d9de}
+.pastila--live{background:#d7f0f5;color:#0b4f5c;border-color:#a9dbe5}
 
 /* ---- palnie ---- */
-.palnie{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:12px;align-items:start}
+.palnie{display:grid;grid-template-columns:repeat(8,minmax(150px,1fr));gap:12px;align-items:start;overflow-x:auto;padding-bottom:6px}
 .coloana{background:var(--alb);border:1px solid var(--line);border-radius:13px;overflow:hidden;box-shadow:var(--umbra)}
 .coloana__cap{
   display:flex;justify-content:space-between;align-items:center;gap:8px;
@@ -110,6 +113,9 @@ table{border-collapse:collapse;width:100%}
 .coloana--nou .coloana__cap{box-shadow:inset 3px 0 0 var(--acc)}
 .coloana--castigat .coloana__cap{box-shadow:inset 3px 0 0 #2e7d46}
 .coloana--pierdut .coloana__cap{box-shadow:inset 3px 0 0 #b3261e}
+.coloana--fals .coloana__cap{box-shadow:inset 3px 0 0 #8a8a92}
+.coloana--fals{background:#f6f6f7}
+.coloana--live .coloana__cap{box-shadow:inset 3px 0 0 #0f8aa0}
 .coloana__corp{padding:10px;display:flex;flex-direction:column;gap:9px;min-height:60px}
 .coloana__gol{color:var(--line);text-align:center;margin:8px 0;font-size:18px}
 
@@ -213,6 +219,8 @@ body.intrare{display:flex;align-items:center;justify-content:center;min-height:1
 .coloana--negociere .bulina{background:#8b5cc7}
 .coloana--castigat .bulina{background:#2e7d46}
 .coloana--pierdut .bulina{background:#b3261e}
+.coloana--fals .bulina{background:#8a8a92}
+.coloana--live .bulina{background:#0f8aa0}
 .coloana__cap span{display:flex;align-items:center}
 
 /* tragerea cardurilor */
@@ -292,7 +300,7 @@ body.intrare{display:flex;align-items:center;justify-content:center;min-height:1
   .cifre--5{grid-template-columns:repeat(3,1fr)}
 }
 @media (max-width:1080px){
-  .palnie{grid-template-columns:repeat(3,1fr)}
+  .palnie{grid-template-columns:repeat(8,minmax(200px,1fr))}
   .cifre{grid-template-columns:repeat(2,1fr)}
 }
 @media (max-width:860px){

@@ -199,7 +199,7 @@ function vedere_trafic(): void {
   $q = db()->quote($de);
   $undeV = " WHERE creat >= $q" . ($pana ? " AND creat < " . db()->quote($pana) : '');
   $undeA = $undeV;
-  $undeL = " AND creat >= $q" . ($pana ? " AND creat < " . db()->quote($pana) : '');
+  $undeL = " AND " . FARA_FALSE . " AND creat >= $q" . ($pana ? " AND creat < " . db()->quote($pana) : '');
 
   $vizite     = (int)db()->query("SELECT COUNT(*) FROM vizite $undeV")->fetchColumn();
   $vizitatori = (int)db()->query("SELECT COUNT(DISTINCT vizitator) FROM vizite $undeV")->fetchColumn();
@@ -309,16 +309,15 @@ function vedere_panou(): void {
     return;
   }
 
-  $q = function (string $unde) { return (int)db()->query("SELECT COUNT(*) FROM leaduri WHERE sters IS NULL AND $unde")->fetchColumn(); };
+  $q = function (string $unde) { return (int)db()->query("SELECT COUNT(*) FROM leaduri WHERE sters IS NULL AND " . FARA_FALSE . " AND $unde")->fetchColumn(); };
+  $reali = $q('1');
   $luna  = $q("creat >= date('now','start of month')");
-  $lunaT = (int)db()->query("SELECT COUNT(*) FROM leaduri WHERE sters IS NULL
-                             AND creat >= date('now','start of month','-1 month')
-                             AND creat < date('now','start of month')")->fetchColumn();
+  $lunaT = $q("creat >= date('now','start of month','-1 month') AND creat < date('now','start of month')");
   $noi     = $q("stare = 'nou'");
-  $lucru   = $q("stare NOT IN ('castigat','pierdut')");
-  $cast    = $q("stare = 'castigat'");
-  $inchise = $q("stare IN ('castigat','pierdut')");
-  $val = (float)db()->query("SELECT COALESCE(SUM(valoare),0) FROM leaduri WHERE sters IS NULL AND stare = 'castigat'")->fetchColumn();
+  $lucru   = $q("stare NOT IN ('castigat','live','pierdut')");
+  $cast    = $q("stare IN " . STARI_CASTIGATE);
+  $inchise = $q("stare IN ('castigat','live','pierdut')");
+  $val = (float)db()->query("SELECT COALESCE(SUM(valoare),0) FROM leaduri WHERE sters IS NULL AND stare IN " . STARI_CASTIGATE)->fetchColumn();
   $rata = $inchise ? round($cast / $inchise * 100) : 0;
 
   $delta = '';
@@ -330,7 +329,7 @@ function vedere_panou(): void {
   echo '<div class="cifre cifre--5">';
   cifra('Lead-uri luna asta', $luna, $delta);
   cifra('Neatinse', $noi, $noi ? '<span class="delta jos">de contactat</span>' : '');
-  cifra('În lucru', $lucru, '<span class="delta">din ' . $total . ' total</span>');
+  cifra('În lucru', $lucru, '<span class="delta">din ' . $reali . ' total</span>');
   cifra('Rata de câștig', $rata . '%', $inchise ? '<span class="delta">din ' . $inchise . ' închise</span>' : '');
   cifra('Valoare câștigată', number_format($val, 0, ',', '.') . ' lei', '');
   echo '</div>';
@@ -599,7 +598,7 @@ function vedere_pareri(): void {
 
 function vedere_analiza(): void {
   [$de, $pana, $eticheta, $preset] = perioada();
-  $undeL = " AND creat >= " . db()->quote($de) . ($pana ? " AND creat < " . db()->quote($pana) : '');
+  $undeL = " AND " . FARA_FALSE . " AND creat >= " . db()->quote($de) . ($pana ? " AND creat < " . db()->quote($pana) : '');
   $total = (int)db()->query("SELECT COUNT(*) FROM leaduri WHERE sters IS NULL $undeL")->fetchColumn();
 
   echo '<div class="bara"><h1>Analiză</h1><a class="b" href="/crm/?v=export">Descarcă CSV</a></div>';
@@ -655,7 +654,7 @@ function vedere_analiza(): void {
 
   echo '<section class="cutie" style="margin-top:20px"><h2>Conversia prin pâlnia de vânzări</h2><div class="conv">';
   foreach (STARI as $k => $n) {
-    if ($k === 'pierdut') continue;
+    if ($k === 'pierdut' || $k === 'fals') continue;
     $c = (int)db()->query("SELECT COUNT(*) FROM leaduri WHERE sters IS NULL AND stare = " . db()->quote($k) . " $undeL")->fetchColumn();
     $p = $total ? round($c / $total * 100) : 0;
     echo '<div class="conv__r"><span class="conv__n">' . h($n) . '</span>
@@ -800,7 +799,7 @@ function cap(string $v): void {
   echo '<!doctype html><html lang="ro"><head><meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="robots" content="noindex,nofollow">
-    <title>CRM Visience</title><link rel="stylesheet" href="/crm/crm.css?v=2">
+    <title>CRM Visience</title><link rel="stylesheet" href="/crm/crm.css?v=3">
     <link rel="icon" href="/favicon.ico"></head><body>';
   echo '<header class="sus"><a class="marca" href="/crm/">Visience <span>CRM</span></a><nav>';
   foreach ($nav as $k => $n) {
@@ -810,7 +809,7 @@ function cap(string $v): void {
   echo '</nav><a class="vezi-site" href="/" target="_blank" rel="noopener">Vezi site-ul ↗</a>
         <form method="post"><input type="hidden" name="jeton" value="' . jeton() . '">
         <input type="hidden" name="actiune" value="iesire">
-        <button class="iesire">Ieși</button></form></header><main class="wrap">';
+        <button class="iesire">Ieși</button></form></header><main class="wrap' . ($v === 'palnie' ? ' wrap--lat' : '') . '">';
 }
 
 function subsol(): void { echo '</main></body></html>'; }
@@ -924,7 +923,7 @@ function ecran_intrare(string $titlu, string $actiune, string $eroare, bool $dub
   echo '<!doctype html><html lang="ro"><head><meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="robots" content="noindex,nofollow"><title>CRM Visience</title>
-    <link rel="stylesheet" href="/crm/crm.css?v=2"></head><body class="intrare">';
+    <link rel="stylesheet" href="/crm/crm.css?v=3"></head><body class="intrare">';
   echo '<form method="post" class="poarta">
     <div class="marca marca--mare">Visience <span>CRM</span></div>
     <h1>' . h($titlu) . '</h1>';
