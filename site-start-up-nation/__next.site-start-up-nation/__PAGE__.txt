@@ -1,0 +1,268 @@
+1:"$Sreact.fragment"
+7:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["/_next/static/chunks/2225dsg-8gzx2.css","style"]
+2:T149b,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://visience.ro/site-start-up-nation/#webpage","url":"https://visience.ro/site-start-up-nation/","name":"Site și magazin online pentru Start-Up Nation","description":"Site de prezentare, magazin online, domeniu și promovare pentru firmele din Start-Up Nation: ofertă defalcată, specificații tehnice, acte pentru decont. De la 750€.","inLanguage":"ro-RO","dateModified":"2026-10-13","isPartOf":{"@id":"https://visience.ro/#website"},"about":{"@id":"https://visience.ro/site-start-up-nation/#service"}},{"@type":"Service","@id":"https://visience.ro/site-start-up-nation/#service","name":"Site și magazin online pentru Start-Up Nation","serviceType":"Site și magazin online pentru Start-Up Nation","description":"Site de prezentare, magazin online, domeniu și promovare pentru firmele din Start-Up Nation: ofertă defalcată, specificații tehnice, acte pentru decont. De la 750€.","url":"https://visience.ro/site-start-up-nation/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"750","highPrice":"3500","offerCount":"5"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Prețuri: Site și magazin online pentru Start-Up Nation","itemListElement":[{"@type":"Offer","name":"Înregistrare domeniu","price":"15","priceCurrency":"EUR","description":"Domeniu .ro pe numele firmei tale.","itemOffered":{"@type":"Service","name":"Înregistrare domeniu"},"priceSpecification":{"@type":"UnitPriceSpecification","price":"15","priceCurrency":"EUR","unitCode":"ANN"}},{"@type":"Offer","name":"Promovarea site-ului sau a magazinului","price":"200","priceCurrency":"EUR","description":"Campanii Google și Meta, oricâte, cu raport lunar. Setup 200€, gratuit la contract pe 12 luni.","itemOffered":{"@type":"Service","name":"Promovarea site-ului sau a magazinului"},"priceSpecification":{"@type":"UnitPriceSpecification","price":"200","priceCurrency":"EUR","unitCode":"MON"}},{"@type":"Offer","name":"Website Basic","price":"750","priceCurrency":"EUR","description":"Până la 6 pagini, blog, galerie, formular de contact, GDPR și cookies, SEO de bază, afișare corectă pe telefon. Livrare în 2–4 săptămâni.","itemOffered":{"@type":"Service","name":"Website Basic"}},{"@type":"Offer","name":"Profil Google Business","price":"300","priceCurrency":"EUR","description":"Creat de la zero, cu servicii, poze și program, ca firma nouă să apară pe hartă.","itemOffered":{"@type":"Service","name":"Profil Google Business"}},{"@type":"Offer","name":"Setup campanie și tracking","price":"200","priceCurrency":"EUR","description":"Contul publicitar pe firma ta, pixelul, evenimentele de conversie și legătura cu GA4.","itemOffered":{"@type":"Service","name":"Setup campanie și tracking"}}]}},{"@type":"FAQPage","@id":"https://visience.ro/site-start-up-nation/#faq","mainEntity":[{"@type":"Question","name":"Este site-ul cheltuială eligibilă în Start-Up Nation?","acceptedAnswer":{"@type":"Answer","text":"Da. Procedura are în lista de cheltuieli eligibile site-ul de prezentare a activității, magazinul online, înregistrarea domeniului și promovarea site-ului sau a magazinului."}},{"@type":"Question","name":"Câte oferte îmi trebuie?","acceptedAnswer":{"@type":"Answer","text":"Verifică în procedura în vigoare și cu consultantul. Oricare ar fi numărul, autoritatea poate cere la verificare oferte comparabile și corespondența cu furnizorii, așa că păstrează-le pe toate, cu e-mailurile prin care le-ai primit."}},{"@type":"Question","name":"Poate consultantul meu să-mi facă și site-ul?","acceptedAnswer":{"@type":"Answer","text":"Procedura spune că firma de consultanță nu poate fi furnizor pentru alte cheltuieli eligibile din proiect, altfel nu se decontează cheltuielile cu ea. De aceea site-ul îl iei de la altă firmă."}},{"@type":"Question","name":"Cât costă un site pentru Start-Up Nation?","acceptedAnswer":{"@type":"Answer","text":"Site de prezentare: 750€ Basic, 1.200€ Standard, 2.500€ Premium. Magazin online: de la 1.000€. Domeniul 15€ pe an, găzduirea 85€ pe an. Campaniile Google și Meta, 200€ pe lună."}},{"@type":"Question","name":"Puteți face oferta în lei?","acceptedAnswer":{"@type":"Answer","text":"Da. Prețurile sunt în euro, iar pe ofertă le trecem și în lei, la cursul BNR din ziua ofertei."}},{"@type":"Question","name":"Prețul include TVA?","acceptedAnswer":{"@type":"Answer","text":"Visience nu e plătitoare de TVA. Totalul din ofertă e suma de pe factură, fără TVA adăugat."}},{"@type":"Question","name":"Faceți și logo-ul pentru firma nouă?","acceptedAnswer":{"@type":"Answer","text":"Da. Logo-ul costă 500€, iar identitatea vizuală completă, de la 1.200€. Le trecem pe rânduri separate în aceeași ofertă."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Fonduri europene","item":"https://visience.ro/site-fonduri-europene/"},{"@type":"ListItem","position":3,"name":"Start-Up Nation","item":"https://visience.ro/site-start-up-nation/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"oZ2t3vdziEIDL9RyZefLT"}
+6:T3b70,<main id="main">
+
+<section class="csi-hero" aria-labelledby="csi-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="22%" x2="100%" y2="64%"/>
+      <line x1="0" y1="58%" x2="100%" y2="18%"/>
+      <line x1="24%" y1="0" x2="78%" y2="100%"/>
+      <line x1="66%" y1="0" x2="14%" y2="100%"/>
+    </svg>
+  </div>
+  <div class="wrap">
+    <nav class="csi-breadcrumbs" aria-label="Breadcrumbs">
+      <a href="/">Acasă</a><span class="sep">/</span>
+      <a href="/site-fonduri-europene/">Fonduri europene</a><span class="sep">/</span>
+      <span>Start-Up Nation</span>
+    </nav>
+
+    <h1 class="csi-hero__h1" id="csi-h1">
+      Site și magazin online<br>
+      <span class="acc">pentru Start-Up Nation</span>
+    </h1>
+
+    <p class="csi-hero__lead">Ai fost admis în Start-Up Nation și ai de cumpărat ce ai trecut în planul de afaceri. Site-ul e una dintre puținele cheltuieli scrise cu numele în procedură: site de prezentare, magazin online, domeniu și promovarea lor. Îți facem oferta defalcată pentru dosar, apoi site-ul, și îți dăm actele pentru decont.</p>
+
+    <div class="csi-hero__acts">
+      <a href="/contact/" class="btn btn-solid">Cere oferta pentru dosar</a>
+      <a href="#oferta" class="btn btn-ghost" style="border-color:rgba(255,255,255,.25);color:#fff">Vezi exemplul de ofertă</a>
+    </div>
+
+    <div class="csi-hero__stats">
+      <div class="csi-hero__stat"><span class="n">250k</span><span class="l">lei, finanțarea maximă pe firmă</span></div>
+      <div class="csi-hero__stat"><span class="n">90%</span><span class="l">ajutor din valoarea eligibilă</span></div>
+      <div class="csi-hero__stat"><span class="n">750€</span><span class="l">site de prezentare</span></div>
+      <div class="csi-hero__stat"><span class="n">1.000€</span><span class="l">magazin online, de la</span></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Ce scrie în procedură <span class="acc">despre partea online</span></h2>
+      <p class="body-lg" style="margin-top:14px">În lista de cheltuieli eligibile din procedura Start-Up Nation, partea online are patru elemente. Lângă fiecare, ce facem noi și cât costă.</p>
+    </div>
+    <div class="csi-tbl rv rv-d1">
+      <table>
+        <thead>
+          <tr><th>Cheltuiala din procedură</th><th>Preț</th><th>Ce primești</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Site de prezentare a activității</td><td>750€ – 2.500€</td><td>Website Basic, Standard sau Premium, după câte servicii ai, cu pagina proiectului inclusă.</td></tr>
+          <tr><td>Magazin online</td><td>1.000€ – 3.500€</td><td>Plată cu cardul, transport, paginile cerute de ANPC, panou pentru comenzi și stoc.</td></tr>
+          <tr><td>Înregistrare domeniu</td><td>15€ / an</td><td>Domeniu .ro pe numele firmei tale.</td></tr>
+          <tr><td>Promovarea site-ului sau a magazinului</td><td>200€ / lună</td><td>Campanii Google și Meta, oricâte, cu raport lunar. Setup 200€, gratuit la contract pe 12 luni.</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="fe-tbl-note rv rv-d2">Găzduirea costă 85€ pe an. Linia de buget pe care o treci o stabilești cu consultantul, după procedura în vigoare.</p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream2">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Trei reguli <span class="acc">care contează la decont</span></h2>
+    </div>
+    <div class="csi-grid csi-grid--3 rv rv-d1">
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-user-tie"></i></div>
+        <h3>Consultantul nu e și furnizor</h3>
+        <p>Procedura spune că firma de consultanță nu poate livra alte cheltuieli eligibile din proiect, altfel nu se decontează nimic de la ea. Noi facem doar partea digitală.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-scale-balanced"></i></div>
+        <h3>Prețul e cel din piață</h3>
+        <p>La verificare, autoritatea poate cere oferte comparabile și corespondența cu furnizorii. Păstrează oferta noastră, e-mailul cu care ai primit-o și ofertele celorlalți.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-file-signature"></i></div>
+        <h3>Totul e pe numele firmei</h3>
+        <p>Contractul, factura, domeniul și conturile de reclamă sunt pe firma beneficiară, iar site-ul trece în proprietatea ei prin cesiunea drepturilor de autor.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white" id="oferta">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Exemplu de ofertă <span class="acc">pentru un start-up</span></h2>
+      <p class="body-lg" style="margin-top:14px">Site de prezentare, prezență pe hartă și primele trei luni de reclame, cu domeniul și găzduirea pe trei ani. Pe ofertă trecem și sumele în lei, la cursul BNR din ziua ofertei.</p>
+    </div>
+    <div class="csi-tbl rv rv-d1">
+      <table>
+        <thead>
+          <tr><th>Serviciu</th><th>Preț</th><th>Ce conține</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Website Basic</td><td>750€</td><td>Până la 6 pagini, blog, galerie, formular de contact, GDPR și cookies, SEO de bază, afișare corectă pe telefon. Livrare în 2–4 săptămâni.</td></tr>
+          <tr><td>Pagina proiectului</td><td>inclusă</td><td>Descrierea proiectului și sprijinul primit, cum cere contractul de finanțare.</td></tr>
+          <tr><td>Domeniu .ro, 3 ani</td><td>45€</td><td>3 × 15€, înregistrat pe numele firmei beneficiare.</td></tr>
+          <tr><td>Găzduire, 3 ani</td><td>255€</td><td>3 × 85€. Site-ul rămâne online toată perioada de durabilitate a proiectului.</td></tr>
+          <tr><td>Profil Google Business</td><td>300€</td><td>Creat de la zero, cu servicii, poze și program, ca firma nouă să apară pe hartă.</td></tr>
+          <tr><td>Setup campanie și tracking</td><td>200€</td><td>Contul publicitar pe firma ta, pixelul, evenimentele de conversie și legătura cu GA4.</td></tr>
+          <tr><td>Management campanii Google și Meta, 3 luni</td><td>600€</td><td>3 × 200€, oricâte campanii, raport lunar. Bugetul de afișare se plătește direct la platforme.</td></tr>
+        </tbody>
+        <tfoot>
+          <tr><td>Total</td><td>2.150€</td><td>Fără TVA adăugat: Visience nu e plătitoare de TVA.</td></tr>
+        </tfoot>
+      </table>
+    </div>
+    <p class="fe-tbl-note rv rv-d2">Firma e nouă și nu are încă logo? Logo-ul costă 500€ și poate intra în aceeași ofertă. Vezi și <a href="/oferta-site-fonduri-europene/#specificatii">specificațiile tehnice</a>.</p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Cum lucrăm <span class="acc">cu firmele din Start-Up Nation</span></h2>
+    </div>
+    <div class="csi-steps rv rv-d1">
+      <div class="csi-step">
+        <div class="csi-step__n">01</div>
+        <h3>Ne trimiți ce ai în plan</h3>
+        <p>Partea din planul de afaceri despre site, magazin și promovare, plus suma pe care ai trecut-o.</p>
+      </div>
+      <div class="csi-step">
+        <div class="csi-step__n">02</div>
+        <h3>Oferta în 24 de ore</h3>
+        <p>Defalcată pe serviciile din procedură, în euro și în lei, cu specificațiile tehnice.</p>
+      </div>
+      <div class="csi-step">
+        <div class="csi-step__n">03</div>
+        <h3>Contractul și pornirea</h3>
+        <p>Semnăm contractul după acordul de finanțare. Îți arătăm întâi macheta primei pagini, apoi facem restul.</p>
+      </div>
+      <div class="csi-step">
+        <div class="csi-step__n">04</div>
+        <h3>Livrarea și actele</h3>
+        <p>Site-ul, factura, procesul-verbal, cesiunea drepturilor și raportul cu capturi, pentru cererea de plată.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream2" id="exemple">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Site-uri pentru firme <span class="acc">la început de drum</span></h2>
+      <p class="body-lg" style="margin-top:14px">Firme mici, cu site-uri și magazine care primesc cereri și comenzi.</p>
+    </div>
+    <div class="csi-porto csi-porto--3 rv rv-d1">
+      <a class="csi-shot" href="https://carmangeriaevei.ro/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/carmangeria.avif" alt="Magazin online Carmangeria Evei, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Carmangeria Evei</strong>Magazin online, postări și campanii pentru un producător local din Călărași.<span class="csi-shot__url">carmangeriaevei.ro ↗</span></div>
+      </a>
+      <a class="csi-shot" href="https://forajesiputuri.ro/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/foraje.avif" alt="Site pentru firma Foraje și Puțuri, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Foraje și Puțuri, Ilfov</strong>Site cu pagini pe zone pentru o firmă de foraje, cu lucrări în București, Ilfov și județele din jur.<span class="csi-shot__url">forajesiputuri.ro ↗</span></div>
+      </a>
+      <a class="csi-shot" href="https://instalatortimisoaranonstop.ro/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/instalator.avif" alt="Site pentru Instalator Timișoara NON-STOP, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Instalator Timișoara NON-STOP</strong>Instalator cu urgențe 24/7, cu numărul de telefon pe primul ecran.<span class="csi-shot__url">instalatortimisoaranonstop.ro ↗</span></div>
+      </a>
+    </div>
+    <div class="rv rv-d2" style="text-align:center;margin-top:34px">
+      <a href="/portofoliu/" class="btn btn-ghost">Vezi tot portofoliul →</a>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Întrebări <span class="acc">frecvente</span></h2>
+    </div>
+    <div class="csi-faq rv">
+      <details>
+        <summary>Este site-ul cheltuială eligibilă în Start-Up Nation?</summary>
+        <p>Da. Procedura are în lista de cheltuieli eligibile site-ul de prezentare a activității, magazinul online, înregistrarea domeniului și promovarea site-ului sau a magazinului.</p>
+      </details>
+      <details>
+        <summary>Câte oferte îmi trebuie?</summary>
+        <p>Verifică în procedura în vigoare și cu consultantul. Oricare ar fi numărul, autoritatea poate cere la verificare oferte comparabile și corespondența cu furnizorii, așa că păstrează-le pe toate, cu e-mailurile prin care le-ai primit.</p>
+      </details>
+      <details>
+        <summary>Poate consultantul meu să-mi facă și site-ul?</summary>
+        <p>Procedura spune că firma de consultanță nu poate fi furnizor pentru alte cheltuieli eligibile din proiect, altfel nu se decontează cheltuielile cu ea. De aceea site-ul îl iei de la altă firmă.</p>
+      </details>
+      <details>
+        <summary>Cât costă un site pentru Start-Up Nation?</summary>
+        <p>Site de prezentare: 750€ Basic, 1.200€ Standard, 2.500€ Premium. Magazin online: de la 1.000€. Domeniul 15€ pe an, găzduirea 85€ pe an. Campaniile Google și Meta, 200€ pe lună.</p>
+      </details>
+      <details>
+        <summary>Puteți face oferta în lei?</summary>
+        <p>Da. Prețurile sunt în euro, iar pe ofertă le trecem și în lei, la cursul BNR din ziua ofertei.</p>
+      </details>
+      <details>
+        <summary>Prețul include TVA?</summary>
+        <p>Visience nu e plătitoare de TVA. Totalul din ofertă e suma de pe factură, fără TVA adăugat.</p>
+      </details>
+      <details>
+        <summary>Faceți și logo-ul pentru firma nouă?</summary>
+        <p>Da. Logo-ul costă 500€, iar identitatea vizuală completă, de la 1.200€. Le trecem pe rânduri separate în aceeași ofertă.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-cta" aria-labelledby="csi-cta-h">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="dd dd-lg csi-cta__h" id="csi-cta-h">Ai fost admis în Start-Up Nation?<br><span class="acc">Cere oferta pentru site.</span></h2>
+      <p class="csi-cta__p">Trimite-ne partea din planul de afaceri despre site și promovare. În 24 de ore primești oferta, în euro și în lei, cu specificațiile tehnice.</p>
+      <div class="csi-cta__acts">
+        <a href="/contact/" class="btn btn-solid">Cere oferta</a>
+        <a href="tel:+40771486499" class="btn btn-dark">+40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Proiecte cu fonduri europene și prețuri">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Toate prețurile noastre sunt publice, serviciu cu serviciu. Sunt aceleași cifre pe care le trecem în oferta pentru dosar.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Proiecte cu fonduri europene</div>
+      <div class="rel-links__grid">
+        <a href="/site-fonduri-europene/" class="rel-link"><span class="rel-link__name">Site pentru fonduri europene <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/oferta-site-fonduri-europene/" class="rel-link"><span class="rel-link__name">Model de ofertă și specificații tehnice <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/magazin-online-fonduri-europene/" class="rel-link"><span class="rel-link__name">Magazin online prin fonduri europene <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/reclame-fonduri-europene/" class="rel-link"><span class="rel-link__name">Reclame Google și Facebook pentru proiect <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/vizibilitate-proiect-fonduri-europene/" class="rel-link"><span class="rel-link__name">Pagina proiectului și vizibilitatea <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/preturi/" class="rel-link"><span class="rel-link__name">Toate prețurile <span class="arr" aria-hidden="true">↗</span></span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+3:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$6"}}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2225dsg-8gzx2.css","precedence":"next"}]
+5:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

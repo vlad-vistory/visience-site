@@ -1,0 +1,977 @@
+1:"$Sreact.fragment"
+9:I[68027,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"default",1]
+:HL["/_next/static/chunks/0soykg1_j0p1h.css","style"]
+:HL["/_next/static/media/0da9c7f357bd9d4d-s.p.1975l3y3401x_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2094fb60fd9c8287-s.p.3qxy1tqak831c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/47fe1b7cd6e6ed85-s.p.3bh2vc0w-r-ll.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5f9d24ebef5d5292-s.p.19xuq3td7fwu_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6c55a692938ebbbc-s.p.1emuuracu50qd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/798ea22d9983e047-s.p.3go-kn2r40gie.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/829ba4228c966254-s.p.2mm3nq9i83l-m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8cf1ea7b03cdeb83-s.p.3dbq0oou7i_24.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8e6fa89aa22d24ec-s.p.2o7m9ogm38dql.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a218039a3287bcfd-s.p.43zbiuwnnoiok.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/c875c6f5d3e977ac-s.p.1h18_wedhzk4h.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e2334d715941921e-s.p.3o_v2fun1jzxk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/2225dsg-8gzx2.css","style"]
+:HL["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css","style"]
+2:["$","link",null,{"rel":"stylesheet","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}]
+3:T987,(function(){
+  window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}window.gtag=gtag;
+  var K='visience-consent',c=null;try{c=localStorage.getItem(K);}catch(e){}
+  gtag('consent','default',{ad_storage:'denied',analytics_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',wait_for_update:500});
+  gtag('set','ads_data_redaction',true);gtag('set','url_passthrough',true);
+  function loadClarity(){if(window.clarity)return;(function(c,l,a,r,i){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};var t=l.createElement(r);t.async=1;t.src='https://www.clarity.ms/tag/'+i;var y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,'clarity','script','sxwbb1ueew');}
+  /* Meta Pixel. Scriptul pleaca doar dupa consimtamantul de marketing, ca la Clarity.
+     Pana atunci evenimentele stau in metaCoada; daca omul accepta, se trimit toate. */
+  (function(f){if(f.fbq)return;var n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];})(window);
+  var metaPornit=false,metaCoada=[];
+  window.visienceMeta=function(ev,par){if(metaPornit){fbq('track',ev,par);}else if(metaCoada.length<20){metaCoada.push([ev,par]);}};
+  function loadMeta(){if(metaPornit)return;metaPornit=true;var t=document.createElement('script');t.async=1;t.src='https://connect.facebook.net/en_US/fbevents.js';var y=document.getElementsByTagName('script')[0];y.parentNode.insertBefore(t,y);fbq('init','1383052000664206');fbq('track','PageView');for(var i=0;i<metaCoada.length;i++){fbq('track',metaCoada[i][0],metaCoada[i][1]);}metaCoada=[];}
+  function apply(a,m){gtag('consent','update',{analytics_storage:a?'granted':'denied',ad_storage:m?'granted':'denied',ad_user_data:m?'granted':'denied',ad_personalization:m?'granted':'denied'});if(a)loadClarity();if(m)loadMeta();}
+  window.visienceConsent=function(a,m){try{localStorage.setItem(K,JSON.stringify({a:!!a,m:!!m}));}catch(e){}apply(!!a,!!m);};
+  var p=null;if(c==='granted')p={a:1,m:1};else if(c==='denied')p={a:0,m:0};else if(c){try{p=JSON.parse(c);}catch(e){}}
+  if(p)apply(!!p.a,!!p.m);
+  gtag('js',new Date());gtag('config','GT-MJWWD7S8');
+  var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
+})();0:{"P":null,"c":["","oferta-site-fonduri-europene",""],"q":"","i":false,"f":[[["",{"children":["oferta-site-fonduri-europene",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0soykg1_j0p1h.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/128am0rogg1gy.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"oZ2t3vdziEIDL9RyZefLT"}
+c:I[36621,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
+17:I[39756,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
+18:I[37457,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
+1e:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"ViewportBoundary"]
+20:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"MetadataBoundary"]
+21:"$Sreact.suspense"
+b:T698,{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness","ProfessionalService"],"@id":"https://visience.ro/#organization","name":"Visience","legalName":"Visience Creative Experience SRL","url":"https://visience.ro/","logo":{"@type":"ImageObject","url":"https://visience.ro/media/sigla-mark-visience-new-colors.avif","width":1276,"height":267},"description":"Agenție de marketing digital și creare site-uri web din Iași. Branding, website-uri, magazine online, social media, Google și Meta Ads, SEO. 12 ani de experiență.","slogan":"Nu facem doar website-uri. Transformăm companii.","foundingDate":"2014","telephone":"+40771486499","email":"contact@visience.ro","priceRange":"€€€","vatID":"RO44755311","taxID":"44755311","areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"},{"@type":"City","name":"București"},{"@type":"City","name":"Timișoara"},{"@type":"City","name":"Cluj-Napoca"},{"@type":"City","name":"Suceava"},{"@type":"City","name":"Bacău"}],"address":{"@type":"PostalAddress","streetAddress":"Bulevardul Nicolae Iorga 18, sc. 904A, ap. 19","addressLocality":"Iași","addressRegion":"Iași","postalCode":"700224","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":47.145365,"longitude":27.582157},"hasMap":"https://maps.google.com/?cid=5233500846285127119","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"],"knowsLanguage":["ro"]},{"@type":"WebSite","@id":"https://visience.ro/#website","url":"https://visience.ro/","name":"Visience","publisher":{"@id":"https://visience.ro/#organization"},"inLanguage":"ro-RO"}]}d:T1090,<header class="nav" id="nav" role="banner">
+  <div class="wrap nav__in">
+    <a href="/" class="nav__logo" aria-label="Visience — Acasă">
+      <img class="nav__logo-img nav__logo-img--light" src="/media/sigla-mark-visience-new-colors.avif"
+           alt="Visience" width="160" height="30" fetchpriority="high">
+      <img class="nav__logo-img nav__logo-img--dark" src="/media/sigla-visience-dark.avif"
+           alt="" aria-hidden="true" width="160" height="30">
+    </a>
+
+    <nav class="nav__links" aria-label="Navigare principală">
+      <div class="nav__has-drop">
+        <a href="/#servicii">Servicii<svg class="nav__drop-ico" viewBox="0 0 10 6" aria-hidden="true"><path d="M1 1l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+        <div class="nav__drop">
+          <a href="/creare-site-prezentare/">Creare site de prezentare</a>
+          <a href="/creare-magazin-online/">Creare magazin online</a>
+          <a href="/branding-identitate-vizuala/">Branding &amp; identitate</a>
+          <a href="/social-media-management/">Social media</a>
+          <a href="/google-meta-ads/">Google &amp; Meta Ads</a>
+          <a href="/optimizare-seo/">SEO &amp; content</a>
+          <a href="/dezvoltare-software/">Dezvoltare software</a>
+          <a href="/marketing-dezvoltatori-imobiliari/">Marketing pentru dezvoltatori</a>
+        </div>
+      </div>
+      <a href="/portofoliu/">Proiecte</a>
+      <a href="/preturi/">Prețuri</a>
+      <a href="/blog/">Blog</a>
+      <a href="/#rezultate">Rezultate</a>
+      <a href="/#despre">Despre</a>
+      <a href="/contact/">Contact</a>
+      <a href="/en/" class="nav__lang" hreflang="en" lang="en" aria-label="View the site in English">EN</a>
+      <a href="/fr/" class="nav__lang" hreflang="fr" lang="fr" aria-label="Voir le site en français">FR</a>
+    </nav>
+
+    <a href="/#contact" class="nav__cta">Solicită ofertă</a>
+
+    <button class="nav__burger" id="navBurger"
+            aria-label="Deschide meniul" aria-expanded="false" aria-controls="navMob">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<nav class="nav__mob" id="navMob" aria-label="Meniu mobil">
+  <div class="nm-in">
+    <div class="nm-grup">
+      <button type="button" class="nm-l nm-tog" id="nmServicii" aria-expanded="false" aria-controls="nmSub">
+        Servicii
+        <svg class="nm-tog__i" width="18" height="18" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+          <path d="M5 8l5 5 5-5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
+      <div class="nm-sublista" id="nmSub" hidden>
+        <a href="/creare-site-prezentare/" class="nm-sub">Creare site de prezentare</a>
+        <a href="/creare-magazin-online/" class="nm-sub">Creare magazin online</a>
+        <a href="/branding-identitate-vizuala/" class="nm-sub">Branding &amp; identitate</a>
+        <a href="/social-media-management/" class="nm-sub">Social media</a>
+        <a href="/google-meta-ads/" class="nm-sub">Google &amp; Meta Ads</a>
+        <a href="/optimizare-seo/" class="nm-sub">SEO &amp; content</a>
+        <a href="/dezvoltare-software/" class="nm-sub">Dezvoltare software</a>
+        <a href="/marketing-dezvoltatori-imobiliari/" class="nm-sub">Marketing pentru dezvoltatori</a>
+        <a href="/analiza-de-zona/" class="nm-sub">Analiză de zonă</a>
+      </div>
+    </div>
+
+    <a href="/portofoliu/" class="nm-l">Proiecte</a>
+    <a href="/preturi/"   class="nm-l">Prețuri</a>
+    <a href="/blog/"      class="nm-l">Blog</a>
+    <a href="/#rezultate" class="nm-l">Rezultate</a>
+    <a href="/#despre"    class="nm-l">Despre</a>
+    <a href="/contact/"   class="nm-l">Contact</a>
+    <a href="/en/" class="nm-l" hreflang="en" lang="en">English</a>
+    <a href="/fr/" class="nm-l" hreflang="fr" lang="fr">Site en français</a>
+
+    <div class="nm-jos">
+      <a href="/contact/" class="btn btn-solid nm-cta">Solicită ofertă</a>
+      <div class="nm-contact">
+        <a href="tel:+40771486499">+40 771 486 499</a>
+        <a href="mailto:contact@visience.ro">contact@visience.ro</a>
+      </div>
+    </div>
+  </div>
+</nav>
+e:T21f8,<footer class="footer" role="contentinfo">
+  <div class="wrap">
+
+    <div class="footer__grid">
+
+      <div>
+        <div class="footer__logo">
+          <img src="/media/sigla-mark-visience-new-colors.avif"
+               alt="Visience" width="148" height="28" loading="lazy">
+        </div>
+
+        <p class="footer__brand">
+          Agenție de marketing digital cu 12 ani de experiență. Transformăm imaginea companiilor prin branding, website, social media și marketing precis configurat.
+        </p>
+
+        <p class="footer__trust">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M20 6 9 17l-5-5"/>
+          </svg>
+          Prețuri publice, fără costuri ascunse — <a href="/preturi/">vezi prețurile</a>.
+        </p>
+
+        <div class="footer__contact">
+          <a href="tel:+40771486499">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.67A2 2 0 012 .92h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L6.91 8.09a16 16 0 006 6l1.27-.83a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/>
+            </svg>
+            +40 771 486 499
+          </a>
+          <a href="mailto:contact@visience.ro">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+              <polyline points="22,6 12,13 2,6"/>
+            </svg>
+            contact@visience.ro
+          </a>
+        </div>
+
+        <div class="footer__social">
+          <a href="https://www.facebook.com/visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience pe Facebook">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M24 12c0-6.63-5.37-12-12-12S0 5.37 0 12c0 5.99 4.39 10.95 10.13 11.85v-8.38H7.08V12h3.05V9.36c0-3.01 1.79-4.67 4.53-4.67 1.31 0 2.69.23 2.69.23v2.96h-1.52c-1.49 0-1.96.93-1.96 1.88V12h3.33l-.53 3.47h-2.8v8.38C19.61 22.95 24 17.99 24 12z"/>
+            </svg>
+          </a>
+          <a href="https://www.instagram.com/visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience pe Instagram">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M12 2.16c3.2 0 3.58.01 4.85.07 1.17.05 1.8.25 2.23.41.56.22.96.48 1.38.9.42.42.68.82.9 1.38.16.42.36 1.06.41 2.23.06 1.27.07 1.65.07 4.85s-.01 3.58-.07 4.85c-.05 1.17-.25 1.8-.41 2.23-.22.56-.48.96-.9 1.38-.42.42-.82.68-1.38.9-.42.16-1.06.36-2.23.41-1.27.06-1.65.07-4.85.07s-3.58-.01-4.85-.07c-1.17-.05-1.8-.25-2.23-.41-.56-.22-.96-.48-1.38-.9-.42-.42-.68-.82-.9-1.38-.16-.42-.36-1.06-.41-2.23C2.17 15.58 2.16 15.2 2.16 12s.01-3.58.07-4.85c.05-1.17.25-1.8.41-2.23.22-.56.48-.96.9-1.38.42-.42.82-.68 1.38-.9.42-.16 1.06-.36 2.23-.41C8.42 2.17 8.8 2.16 12 2.16M12 0C8.74 0 8.33.01 7.05.07 5.78.13 4.9.33 4.14.63c-.79.3-1.46.72-2.12 1.38C1.35 2.68.94 3.35.63 4.14.33 4.9.13 5.78.07 7.05.01 8.33 0 8.74 0 12s.01 3.67.07 4.95c.06 1.27.26 2.15.56 2.91.3.79.72 1.46 1.38 2.12.66.66 1.33 1.08 2.12 1.38.76.3 1.64.5 2.91.56C8.33 23.99 8.74 24 12 24s3.67-.01 4.95-.07c1.27-.06 2.15-.26 2.91-.56.79-.3 1.46-.72 2.12-1.38.66-.66 1.08-1.33 1.38-2.12.3-.76.5-1.64.56-2.91.06-1.28.07-1.69.07-4.95s-.01-3.67-.07-4.95c-.06-1.27-.26-2.15-.56-2.91-.3-.79-.72-1.46-1.38-2.12C21.32 1.35 20.65.94 19.86.63 19.1.33 18.22.13 16.95.07 15.67.01 15.26 0 12 0z"/>
+              <path d="M12 5.84A6.16 6.16 0 1 0 18.16 12 6.16 6.16 0 0 0 12 5.84zM12 16a4 4 0 1 1 4-4 4 4 0 0 1-4 4z"/>
+              <circle cx="18.41" cy="5.59" r="1.44"/>
+            </svg>
+          </a>
+          <a href="https://www.tiktok.com/@visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience pe TikTok">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M16.6 5.82A4.28 4.28 0 0 1 15.54 3h-3.09v12.4a2.59 2.59 0 0 1-2.59 2.5 2.59 2.59 0 0 1 0-5.18c.27 0 .52.04.76.12v-3.2a5.79 5.79 0 0 0-.76-.05 5.69 5.69 0 1 0 5.69 5.69V9.01a7.35 7.35 0 0 0 4.29 1.37V7.3a4.29 4.29 0 0 1-3.24-1.48z"/>
+            </svg>
+          </a>
+        </div>
+
+        <div class="footer__anpc">
+          <a class="anpc-b" href="https://anpc.ro/" target="_blank" rel="noopener noreferrer"
+             aria-label="ANPC — Autoritatea Națională pentru Protecția Consumatorilor">
+            <img src="https://anpc.ro/wp-content/themes/anpc/img/anpc_logo.png"
+                 alt="ANPC" width="50" height="18" loading="lazy"
+                 onerror="this.style.display='none'">
+            ANPC
+          </a>
+          <a class="anpc-b" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage"
+             target="_blank" rel="noopener noreferrer"
+             aria-label="SOL — Soluționare Online a Litigiilor">
+            SOL
+          </a>
+        </div>
+      </div>
+
+      <nav aria-label="Servicii">
+        <div class="footer__col-title">Servicii</div>
+        <ul class="footer__links">
+          <li><a href="/creare-site-prezentare/">Creare site de prezentare</a></li>
+          <li><a href="/site-o-pagina/">Site de o pagină</a></li>
+          <li><a href="/creare-site-prezentare-iasi/">Creare site Iași</a></li>
+          <li><a href="/creare-site-prezentare-bacau/">Creare site de prezentare Bacău</a></li>
+          <li><a href="/creare-site-prezentare-bucuresti/">Creare site de prezentare București</a></li>
+          <li><a href="/creare-magazin-online/">Creare magazin online</a></li>
+          <li><a href="/site-fonduri-europene/">Site pentru fonduri europene</a></li>
+          <li><a href="/branding-identitate-vizuala/">Branding &amp; identitate</a></li>
+          <li><a href="/social-media-management/">Social Media</a></li>
+          <li><a href="/google-meta-ads/">Google &amp; Meta Ads</a></li>
+          <li><a href="/reclame-online-iasi/">Reclame online Iași</a></li>
+          <li><a href="/optimizare-seo/">SEO &amp; Content</a></li>
+          <li><a href="/dezvoltare-software/">Dezvoltare software</a></li>
+          <li><a href="/marketing-dezvoltatori-imobiliari/">Marketing pentru dezvoltatori</a></li>
+          <li><a href="/marketing-imobiliar-iasi/">Marketing imobiliar Iași</a></li>
+            <li><a href="/analiza-de-zona/">Analiză de zonă</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Companie">
+        <div class="footer__col-title">Companie</div>
+        <ul class="footer__links">
+          <li><a href="/portofoliu/">Portofoliu</a></li>
+          <li><a href="/parteneri/">Parteneri</a></li>
+          <li><a href="/blog/">Blog</a></li>
+          <li><a href="/preturi/">Prețuri</a></li>
+          <li><a href="/pret-site-de-prezentare/">Preț site de prezentare</a></li>
+          <li><a href="/pret-magazin-online/">Preț magazin online</a></li>
+          <li><a href="/pret-administrare-google-ads/">Preț administrare Google Ads</a></li>
+          <li><a href="/#rezultate">Studii de caz</a></li>
+          <li><a href="/#despre">Despre noi</a></li>
+          <li><a href="/contact/">Contact</a></li>
+          <li><a href="/en/" hreflang="en" lang="en">Site in English</a></li>
+          <li><a href="/fr/" hreflang="fr" lang="fr">Site en français</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Legal">
+        <div class="footer__col-title">Legal &amp; GDPR</div>
+        <ul class="footer__links">
+          <li><a href="/termeni-si-conditii/">Termeni și Condiții</a></li>
+          <li><a href="/politica-de-confidentialitate/">Politică Confidențialitate</a></li>
+          <li><a href="/politica-cookies/">Politică Cookies</a></li>
+        </ul>
+      </nav>
+
+    </div>
+
+    <div class="footer__bottom">
+      <div class="footer__bottom-in">
+        <p class="footer__copy">
+          © 2026 Visience Creative Experience SRL · Toate drepturile rezervate
+        </p>
+        <div class="footer__legal">
+          <a href="/termeni-si-conditii/">Termeni</a>
+          <a href="/politica-de-confidentialitate/">Confidențialitate</a>
+          <a href="/politica-cookies/">Cookies</a>
+          <a href="/gdpr/">GDPR</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</footer>
+f:Tf55,<header class="nav" id="nav" role="banner">
+  <div class="wrap nav__in">
+    <a href="/en/" class="nav__logo" aria-label="Visience — Home">
+      <img class="nav__logo-img nav__logo-img--light" src="/media/sigla-mark-visience-new-colors.avif"
+           alt="Visience" width="160" height="30" fetchpriority="high">
+      <img class="nav__logo-img nav__logo-img--dark" src="/media/sigla-visience-dark.avif"
+           alt="" aria-hidden="true" width="160" height="30">
+    </a>
+
+    <nav class="nav__links" aria-label="Main navigation">
+      <div class="nav__has-drop">
+        <a href="/en/#services">Services<svg class="nav__drop-ico" viewBox="0 0 10 6" aria-hidden="true"><path d="M1 1l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+        <div class="nav__drop">
+          <a href="/en/web-design/">Website design</a>
+          <a href="/en/online-store/">Online stores</a>
+          <a href="/en/branding/">Branding &amp; identity</a>
+          <a href="/en/social-media/">Social media</a>
+          <a href="/en/google-meta-ads/">Google &amp; Meta Ads</a>
+          <a href="/en/seo/">SEO &amp; content</a>
+          <a href="/en/software-development/">Software development</a>
+          <a href="/en/real-estate-marketing/">Real estate marketing</a>
+        </div>
+      </div>
+      <a href="/en/portfolio/">Work</a>
+      <a href="/en/pricing/">Pricing</a>
+      <a href="/en/#results">Results</a>
+      <a href="/en/#about">About</a>
+      <a href="/en/contact/">Contact</a>
+      <a href="/" class="nav__lang" hreflang="ro" lang="ro" aria-label="Vezi site-ul în română">RO</a>
+      <a href="/fr/" class="nav__lang" hreflang="fr" lang="fr" aria-label="Voir le site en français">FR</a>
+    </nav>
+
+    <a href="/en/contact/" class="nav__cta">Get a quote</a>
+
+    <button class="nav__burger" id="navBurger"
+            aria-label="Open menu" aria-expanded="false" aria-controls="navMob">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<nav class="nav__mob" id="navMob" aria-label="Mobile menu">
+  <div class="nm-in">
+    <div class="nm-grup">
+      <button type="button" class="nm-l nm-tog" id="nmServicii" aria-expanded="false" aria-controls="nmSub">
+        Services
+        <svg class="nm-tog__i" width="18" height="18" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+          <path d="M5 8l5 5 5-5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
+      <div class="nm-sublista" id="nmSub" hidden>
+        <a href="/en/web-design/" class="nm-sub">Website design</a>
+        <a href="/en/online-store/" class="nm-sub">Online stores</a>
+        <a href="/en/branding/" class="nm-sub">Branding &amp; identity</a>
+        <a href="/en/social-media/" class="nm-sub">Social media</a>
+        <a href="/en/google-meta-ads/" class="nm-sub">Google &amp; Meta Ads</a>
+        <a href="/en/seo/" class="nm-sub">SEO &amp; content</a>
+        <a href="/en/software-development/" class="nm-sub">Software development</a>
+        <a href="/en/real-estate-marketing/" class="nm-sub">Real estate marketing</a>
+      </div>
+    </div>
+
+    <a href="/en/portfolio/" class="nm-l">Work</a>
+    <a href="/en/pricing/"   class="nm-l">Pricing</a>
+    <a href="/en/#results"   class="nm-l">Results</a>
+    <a href="/en/#about"     class="nm-l">About</a>
+    <a href="/en/contact/"   class="nm-l">Contact</a>
+    <a href="/" class="nm-l" hreflang="ro" lang="ro">Română</a>
+    <a href="/fr/" class="nm-l" hreflang="fr" lang="fr">Site en français</a>
+
+    <div class="nm-jos">
+      <a href="/en/contact/" class="btn btn-solid nm-cta">Get a quote</a>
+      <div class="nm-contact">
+        <a href="tel:+40771486499">+40 771 486 499</a>
+        <a href="mailto:contact@visience.ro">contact@visience.ro</a>
+      </div>
+    </div>
+  </div>
+</nav>
+10:T1a33,<footer class="footer" role="contentinfo">
+  <div class="wrap">
+
+    <div class="footer__grid">
+
+      <div>
+        <div class="footer__logo">
+          <img src="/media/sigla-mark-visience-new-colors.avif"
+               alt="Visience" width="148" height="28" loading="lazy">
+        </div>
+
+        <p class="footer__brand">
+          A digital marketing studio with 12 years behind it. We build the brand, the website and the campaigns that bring enquiries — and we measure every one of them.
+        </p>
+
+        <p class="footer__trust">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M20 6 9 17l-5-5"/>
+          </svg>
+          Prices published, nothing hidden — <a href="/en/pricing/">see the price list</a>.
+        </p>
+
+        <div class="footer__contact">
+          <a href="tel:+40771486499">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.67A2 2 0 012 .92h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L6.91 8.09a16 16 0 006 6l1.27-.83a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/>
+            </svg>
+            +40 771 486 499
+          </a>
+          <a href="mailto:contact@visience.ro">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+              <polyline points="22,6 12,13 2,6"/>
+            </svg>
+            contact@visience.ro
+          </a>
+        </div>
+
+        <div class="footer__social">
+          <a href="https://www.facebook.com/visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience on Facebook">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M24 12c0-6.63-5.37-12-12-12S0 5.37 0 12c0 5.99 4.39 10.95 10.13 11.85v-8.38H7.08V12h3.05V9.36c0-3.01 1.79-4.67 4.53-4.67 1.31 0 2.69.23 2.69.23v2.96h-1.52c-1.49 0-1.96.93-1.96 1.88V12h3.33l-.53 3.47h-2.8v8.38C19.61 22.95 24 17.99 24 12z"/>
+            </svg>
+          </a>
+          <a href="https://www.instagram.com/visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience on Instagram">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M12 2.16c3.2 0 3.58.01 4.85.07 1.17.05 1.8.25 2.23.41.56.22.96.48 1.38.9.42.42.68.82.9 1.38.16.42.36 1.06.41 2.23.06 1.27.07 1.65.07 4.85s-.01 3.58-.07 4.85c-.05 1.17-.25 1.8-.41 2.23-.22.56-.48.96-.9 1.38-.42.42-.82.68-1.38.9-.42.16-1.06.36-2.23.41-1.27.06-1.65.07-4.85.07s-3.58-.01-4.85-.07c-1.17-.05-1.8-.25-2.23-.41-.56-.22-.96-.48-1.38-.9-.42-.42-.68-.82-.9-1.38-.16-.42-.36-1.06-.41-2.23C2.17 15.58 2.16 15.2 2.16 12s.01-3.58.07-4.85c.05-1.17.25-1.8.41-2.23.22-.56.48-.96.9-1.38.42-.42.82-.68 1.38-.9.42-.16 1.06-.36 2.23-.41C8.42 2.17 8.8 2.16 12 2.16M12 0C8.74 0 8.33.01 7.05.07 5.78.13 4.9.33 4.14.63c-.79.3-1.46.72-2.12 1.38C1.35 2.68.94 3.35.63 4.14.33 4.9.13 5.78.07 7.05.01 8.33 0 8.74 0 12s.01 3.67.07 4.95c.06 1.27.26 2.15.56 2.91.3.79.72 1.46 1.38 2.12.66.66 1.33 1.08 2.12 1.38.76.3 1.64.5 2.91.56C8.33 23.99 8.74 24 12 24s3.67-.01 4.95-.07c1.27-.06 2.15-.26 2.91-.56.79-.3 1.46-.72 2.12-1.38.66-.66 1.08-1.33 1.38-2.12.3-.76.5-1.64.56-2.91.06-1.28.07-1.69.07-4.95s-.01-3.67-.07-4.95c-.06-1.27-.26-2.15-.56-2.91-.3-.79-.72-1.46-1.38-2.12C21.32 1.35 20.65.94 19.86.63 19.1.33 18.22.13 16.95.07 15.67.01 15.26 0 12 0z"/>
+              <path d="M12 5.84A6.16 6.16 0 1 0 18.16 12 6.16 6.16 0 0 0 12 5.84zM12 16a4 4 0 1 1 4-4 4 4 0 0 1-4 4z"/>
+              <circle cx="18.41" cy="5.59" r="1.44"/>
+            </svg>
+          </a>
+          <a href="https://www.tiktok.com/@visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience on TikTok">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M16.6 5.82A4.28 4.28 0 0 1 15.54 3h-3.09v12.4a2.59 2.59 0 0 1-2.59 2.5 2.59 2.59 0 0 1 0-5.18c.27 0 .52.04.76.12v-3.2a5.79 5.79 0 0 0-.76-.05 5.69 5.69 0 1 0 5.69 5.69V9.01a7.35 7.35 0 0 0 4.29 1.37V7.3a4.29 4.29 0 0 1-3.24-1.48z"/>
+            </svg>
+          </a>
+        </div>
+      </div>
+
+      <nav aria-label="Services">
+        <div class="footer__col-title">Services</div>
+        <ul class="footer__links">
+          <li><a href="/en/web-design/">Website design</a></li>
+          <li><a href="/en/online-store/">Online stores</a></li>
+          <li><a href="/en/branding/">Branding &amp; identity</a></li>
+          <li><a href="/en/social-media/">Social media</a></li>
+          <li><a href="/en/google-meta-ads/">Google &amp; Meta Ads</a></li>
+          <li><a href="/en/seo/">SEO &amp; content</a></li>
+          <li><a href="/en/software-development/">Software development</a></li>
+          <li><a href="/en/real-estate-marketing/">Real estate marketing</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Company">
+        <div class="footer__col-title">Company</div>
+        <ul class="footer__links">
+          <li><a href="/en/portfolio/">Work</a></li>
+          <li><a href="/en/pricing/">Pricing</a></li>
+          <li><a href="/en/#results">Case studies</a></li>
+          <li><a href="/en/#about">About us</a></li>
+          <li><a href="/en/contact/">Contact</a></li>
+          <li><a href="/" hreflang="ro" lang="ro">Site în română</a></li>
+          <li><a href="/fr/" hreflang="fr" lang="fr">Site en français</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Legal">
+        <div class="footer__col-title">Legal &amp; GDPR</div>
+        <ul class="footer__links">
+          <li><a href="/en/terms/">Terms &amp; conditions</a></li>
+          <li><a href="/en/privacy/">Privacy policy</a></li>
+          <li><a href="/en/cookies/">Cookie policy</a></li>
+        </ul>
+      </nav>
+
+    </div>
+
+    <div class="footer__bottom">
+      <div class="footer__bottom-in">
+        <p class="footer__copy">
+          © 2026 Visience Creative Experience SRL · All rights reserved
+        </p>
+        <div class="footer__legal">
+          <a href="/en/terms/">Terms</a>
+          <a href="/en/privacy/">Privacy</a>
+          <a href="/en/cookies/">Cookies</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</footer>
+11:Tffe,<header class="nav" id="nav" role="banner">
+  <div class="wrap nav__in">
+    <a href="/fr/" class="nav__logo" aria-label="Visience — Accueil">
+      <img class="nav__logo-img nav__logo-img--light" src="/media/sigla-mark-visience-new-colors.avif"
+           alt="Visience" width="160" height="30" fetchpriority="high">
+      <img class="nav__logo-img nav__logo-img--dark" src="/media/sigla-visience-dark.avif"
+           alt="" aria-hidden="true" width="160" height="30">
+    </a>
+
+    <nav class="nav__links" aria-label="Navigation principale">
+      <div class="nav__has-drop">
+        <a href="/fr/#services">Services<svg class="nav__drop-ico" viewBox="0 0 10 6" aria-hidden="true"><path d="M1 1l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+        <div class="nav__drop">
+          <a href="/fr/creation-site-internet/">Création de site internet</a>
+          <a href="/fr/boutique-en-ligne/">Boutique en ligne</a>
+          <a href="/fr/branding/">Branding &amp; identité</a>
+          <a href="/fr/reseaux-sociaux/">Réseaux sociaux</a>
+          <a href="/fr/google-meta-ads/">Google &amp; Meta Ads</a>
+          <a href="/fr/referencement/">SEO &amp; contenu</a>
+          <a href="/fr/developpement-logiciel/">Développement logiciel</a>
+          <a href="/fr/marketing-immobilier/">Marketing immobilier</a>
+        </div>
+      </div>
+      <a href="/fr/portfolio/">Réalisations</a>
+      <a href="/fr/tarifs/">Tarifs</a>
+      <a href="/fr/#results">Résultats</a>
+      <a href="/fr/#about">À propos</a>
+      <a href="/fr/contact/">Contact</a>
+      <a href="/" class="nav__lang" hreflang="ro" lang="ro" aria-label="Vezi site-ul în română">RO</a>
+      <a href="/en/" class="nav__lang" hreflang="en" lang="en" aria-label="View the site in English">EN</a>
+    </nav>
+
+    <a href="/fr/contact/" class="nav__cta">Demander un devis</a>
+
+    <button class="nav__burger" id="navBurger"
+            aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="navMob">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<nav class="nav__mob" id="navMob" aria-label="Menu mobile">
+  <div class="nm-in">
+    <div class="nm-grup">
+      <button type="button" class="nm-l nm-tog" id="nmServicii" aria-expanded="false" aria-controls="nmSub">
+        Services
+        <svg class="nm-tog__i" width="18" height="18" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+          <path d="M5 8l5 5 5-5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
+      <div class="nm-sublista" id="nmSub" hidden>
+        <a href="/fr/creation-site-internet/" class="nm-sub">Création de site internet</a>
+        <a href="/fr/boutique-en-ligne/" class="nm-sub">Boutique en ligne</a>
+        <a href="/fr/branding/" class="nm-sub">Branding &amp; identité</a>
+        <a href="/fr/reseaux-sociaux/" class="nm-sub">Réseaux sociaux</a>
+        <a href="/fr/google-meta-ads/" class="nm-sub">Google &amp; Meta Ads</a>
+        <a href="/fr/referencement/" class="nm-sub">SEO &amp; contenu</a>
+        <a href="/fr/developpement-logiciel/" class="nm-sub">Développement logiciel</a>
+        <a href="/fr/marketing-immobilier/" class="nm-sub">Marketing immobilier</a>
+      </div>
+    </div>
+
+    <a href="/fr/portfolio/" class="nm-l">Réalisations</a>
+    <a href="/fr/tarifs/"    class="nm-l">Tarifs</a>
+    <a href="/fr/#results"   class="nm-l">Résultats</a>
+    <a href="/fr/#about"     class="nm-l">À propos</a>
+    <a href="/fr/contact/"   class="nm-l">Contact</a>
+    <a href="/" class="nm-l" hreflang="ro" lang="ro">Site în română</a>
+    <a href="/en/" class="nm-l" hreflang="en" lang="en">Site in English</a>
+
+    <div class="nm-jos">
+      <a href="/fr/contact/" class="btn btn-solid nm-cta">Demander un devis</a>
+      <div class="nm-contact">
+        <a href="tel:+40771486499">+40 771 486 499</a>
+        <a href="mailto:contact@visience.ro">contact@visience.ro</a>
+      </div>
+    </div>
+  </div>
+</nav>
+12:T1afa,<footer class="footer" role="contentinfo">
+  <div class="wrap">
+
+    <div class="footer__grid">
+
+      <div>
+        <div class="footer__logo">
+          <img src="/media/sigla-mark-visience-new-colors.avif"
+               alt="Visience" width="148" height="28" loading="lazy">
+        </div>
+
+        <p class="footer__brand">
+          Un studio de marketing digital avec 12 ans derrière lui. Nous construisons la marque, le site et les campagnes qui amènent des demandes — et nous mesurons chacune d'elles.
+        </p>
+
+        <p class="footer__trust">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M20 6 9 17l-5-5"/>
+          </svg>
+          Tarifs publiés, rien de caché — <a href="/fr/tarifs/">voir la grille tarifaire</a>.
+        </p>
+
+        <div class="footer__contact">
+          <a href="tel:+40771486499">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.67A2 2 0 012 .92h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L6.91 8.09a16 16 0 006 6l1.27-.83a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/>
+            </svg>
+            +40 771 486 499
+          </a>
+          <a href="mailto:contact@visience.ro">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none"
+                 stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+              <polyline points="22,6 12,13 2,6"/>
+            </svg>
+            contact@visience.ro
+          </a>
+        </div>
+
+        <div class="footer__social">
+          <a href="https://www.facebook.com/visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience sur Facebook">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M24 12c0-6.63-5.37-12-12-12S0 5.37 0 12c0 5.99 4.39 10.95 10.13 11.85v-8.38H7.08V12h3.05V9.36c0-3.01 1.79-4.67 4.53-4.67 1.31 0 2.69.23 2.69.23v2.96h-1.52c-1.49 0-1.96.93-1.96 1.88V12h3.33l-.53 3.47h-2.8v8.38C19.61 22.95 24 17.99 24 12z"/>
+            </svg>
+          </a>
+          <a href="https://www.instagram.com/visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience sur Instagram">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M12 2.16c3.2 0 3.58.01 4.85.07 1.17.05 1.8.25 2.23.41.56.22.96.48 1.38.9.42.42.68.82.9 1.38.16.42.36 1.06.41 2.23.06 1.27.07 1.65.07 4.85s-.01 3.58-.07 4.85c-.05 1.17-.25 1.8-.41 2.23-.22.56-.48.96-.9 1.38-.42.42-.82.68-1.38.9-.42.16-1.06.36-2.23.41-1.27.06-1.65.07-4.85.07s-3.58-.01-4.85-.07c-1.17-.05-1.8-.25-2.23-.41-.56-.22-.96-.48-1.38-.9-.42-.42-.68-.82-.9-1.38-.16-.42-.36-1.06-.41-2.23C2.17 15.58 2.16 15.2 2.16 12s.01-3.58.07-4.85c.05-1.17.25-1.8.41-2.23.22-.56.48-.96.9-1.38.42-.42.82-.68 1.38-.9.42-.16 1.06-.36 2.23-.41C8.42 2.17 8.8 2.16 12 2.16M12 0C8.74 0 8.33.01 7.05.07 5.78.13 4.9.33 4.14.63c-.79.3-1.46.72-2.12 1.38C1.35 2.68.94 3.35.63 4.14.33 4.9.13 5.78.07 7.05.01 8.33 0 8.74 0 12s.01 3.67.07 4.95c.06 1.27.26 2.15.56 2.91.3.79.72 1.46 1.38 2.12.66.66 1.33 1.08 2.12 1.38.76.3 1.64.5 2.91.56C8.33 23.99 8.74 24 12 24s3.67-.01 4.95-.07c1.27-.06 2.15-.26 2.91-.56.79-.3 1.46-.72 2.12-1.38.66-.66 1.08-1.33 1.38-2.12.3-.76.5-1.64.56-2.91.06-1.28.07-1.69.07-4.95s-.01-3.67-.07-4.95c-.06-1.27-.26-2.15-.56-2.91-.3-.79-.72-1.46-1.38-2.12C21.32 1.35 20.65.94 19.86.63 19.1.33 18.22.13 16.95.07 15.67.01 15.26 0 12 0z"/>
+              <path d="M12 5.84A6.16 6.16 0 1 0 18.16 12 6.16 6.16 0 0 0 12 5.84zM12 16a4 4 0 1 1 4-4 4 4 0 0 1-4 4z"/>
+              <circle cx="18.41" cy="5.59" r="1.44"/>
+            </svg>
+          </a>
+          <a href="https://www.tiktok.com/@visience.ro" target="_blank" rel="noopener noreferrer" aria-label="Visience sur TikTok">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M16.6 5.82A4.28 4.28 0 0 1 15.54 3h-3.09v12.4a2.59 2.59 0 0 1-2.59 2.5 2.59 2.59 0 0 1 0-5.18c.27 0 .52.04.76.12v-3.2a5.79 5.79 0 0 0-.76-.05 5.69 5.69 0 1 0 5.69 5.69V9.01a7.35 7.35 0 0 0 4.29 1.37V7.3a4.29 4.29 0 0 1-3.24-1.48z"/>
+            </svg>
+          </a>
+        </div>
+      </div>
+
+      <nav aria-label="Services">
+        <div class="footer__col-title">Services</div>
+        <ul class="footer__links">
+          <li><a href="/fr/creation-site-internet/">Création de site internet</a></li>
+          <li><a href="/fr/boutique-en-ligne/">Boutique en ligne</a></li>
+          <li><a href="/fr/branding/">Branding &amp; identité</a></li>
+          <li><a href="/fr/reseaux-sociaux/">Réseaux sociaux</a></li>
+          <li><a href="/fr/google-meta-ads/">Google &amp; Meta Ads</a></li>
+          <li><a href="/fr/referencement/">SEO &amp; contenu</a></li>
+          <li><a href="/fr/developpement-logiciel/">Développement logiciel</a></li>
+          <li><a href="/fr/marketing-immobilier/">Marketing immobilier</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Entreprise">
+        <div class="footer__col-title">Entreprise</div>
+        <ul class="footer__links">
+          <li><a href="/fr/portfolio/">Réalisations</a></li>
+          <li><a href="/fr/tarifs/">Tarifs</a></li>
+          <li><a href="/fr/#results">Études de cas</a></li>
+          <li><a href="/fr/#about">À propos</a></li>
+          <li><a href="/fr/contact/">Contact</a></li>
+          <li><a href="/" hreflang="ro" lang="ro">Site în română</a></li>
+          <li><a href="/en/" hreflang="en" lang="en">Site in English</a></li>
+        </ul>
+      </nav>
+
+      <nav aria-label="Mentions légales">
+        <div class="footer__col-title">Mentions légales &amp; RGPD</div>
+        <ul class="footer__links">
+          <li><a href="/fr/conditions-generales/">Conditions générales</a></li>
+          <li><a href="/fr/confidentialite/">Politique de confidentialité</a></li>
+          <li><a href="/fr/cookies/">Politique de cookies</a></li>
+        </ul>
+      </nav>
+
+    </div>
+
+    <div class="footer__bottom">
+      <div class="footer__bottom-in">
+        <p class="footer__copy">
+          © 2026 Visience Creative Experience SRL · Tous droits réservés
+        </p>
+        <div class="footer__legal">
+          <a href="/fr/conditions-generales/">Conditions</a>
+          <a href="/fr/confidentialite/">Confidentialité</a>
+          <a href="/fr/cookies/">Cookies</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</footer>
+13:T655,<footer class="footer footer--lp" role="contentinfo">
+  <div class="wrap">
+    <div class="flp">
+      <div class="flp__firma">
+        <img src="/media/sigla-mark-visience-new-colors.avif" alt="Visience" width="128" height="24" loading="lazy">
+        <p>Visience Creative Experience SRL · CUI RO44755311<br>Bd. Nicolae Iorga 18, 700224 Iași</p>
+      </div>
+
+      <div class="flp__contact">
+        <a href="tel:+40771486499">+40 771 486 499</a>
+        <a href="mailto:contact@visience.ro">contact@visience.ro</a>
+      </div>
+
+      <div class="flp__legal">
+        <nav aria-label="Legal">
+          <a href="/termeni-si-conditii/" target="_blank" rel="noopener">Termeni</a>
+          <a href="/politica-de-confidentialitate/" target="_blank" rel="noopener">Confidențialitate</a>
+          <a href="/politica-cookies/" target="_blank" rel="noopener">Cookies</a>
+          <a href="/gdpr/" target="_blank" rel="noopener">GDPR</a>
+        </nav>
+        <div class="footer__anpc">
+          <a class="anpc-b" href="https://anpc.ro/" target="_blank" rel="noopener noreferrer"
+             aria-label="ANPC — Autoritatea Națională pentru Protecția Consumatorilor">ANPC</a>
+          <a class="anpc-b" href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage"
+             target="_blank" rel="noopener noreferrer"
+             aria-label="SOL — Soluționare Online a Litigiilor">SOL</a>
+        </div>
+      </div>
+    </div>
+
+    <p class="flp__copy">© 2026 Visience Creative Experience SRL · Toate drepturile rezervate</p>
+  </div>
+</footer>
+4:["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$b"}}],["$","$Lc",null,{"headerRo":"$d","footerRo":"$e","headerEn":"$f","footerEn":"$10","headerFr":"$11","footerFr":"$12","headerReclama":"<header class=\"nav nav--lp\" id=\"nav\" role=\"banner\">\r\n  <div class=\"wrap nav__in\">\r\n    <span class=\"nav__logo\">\r\n      <img class=\"nav__logo-img nav__logo-img--light\" src=\"/media/sigla-mark-visience-new-colors.avif\"\r\n           alt=\"Visience\" width=\"160\" height=\"30\" fetchpriority=\"high\">\r\n      <img class=\"nav__logo-img nav__logo-img--dark\" src=\"/media/sigla-visience-dark.avif\"\r\n           alt=\"\" aria-hidden=\"true\" width=\"160\" height=\"30\">\r\n    </span>\r\n\r\n    <div class=\"nlp\">\r\n      <a href=\"tel:+40771486499\" class=\"nlp__tel\" aria-label=\"Sună la 0771 486 499\">\r\n        <i class=\"fas fa-phone\" aria-hidden=\"true\"></i><span>0771 486 499</span>\r\n      </a>\r\n      <a href=\"https://wa.me/40771486499\" target=\"_blank\" rel=\"noopener\" class=\"nlp__wa\" aria-label=\"Scrie pe WhatsApp\">\r\n        <i class=\"fab fa-whatsapp\" aria-hidden=\"true\"></i><span>WhatsApp</span>\r\n      </a>\r\n    </div>\r\n  </div>\r\n</header>\r\n","footerReclama":"$13","children":"$L14"}],"$L15","$L16"]}]
+5:["$","$1","c",{"children":[null,["$","$L17",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+19:T10fd,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://visience.ro/oferta-site-fonduri-europene/#webpage","url":"https://visience.ro/oferta-site-fonduri-europene/","name":"Oferta pentru site pe care o pui în dosar","description":"Modelul ofertei Visience pentru dosarul de finanțare: servicii defalcate, prețuri fără TVA adăugat și specificații tehnice pentru site, magazin online și promovare.","inLanguage":"ro-RO","dateModified":"2026-10-13","isPartOf":{"@id":"https://visience.ro/#website"},"about":{"@id":"https://visience.ro/oferta-site-fonduri-europene/#service"}},{"@type":"Service","@id":"https://visience.ro/oferta-site-fonduri-europene/#service","name":"Ofertă de preț și specificații tehnice pentru site în proiecte europene","serviceType":"Ofertă de preț și specificații tehnice pentru site în proiecte europene","description":"Modelul ofertei Visience pentru dosarul de finanțare: servicii defalcate, prețuri fără TVA adăugat și specificații tehnice pentru site, magazin online și promovare.","url":"https://visience.ro/oferta-site-fonduri-europene/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"200","highPrice":"3500","offerCount":"3"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Prețuri: Ofertă de preț și specificații tehnice pentru site în proiecte europene","itemListElement":[{"@type":"Offer","name":"Magazin online Standard","price":"1800","priceCurrency":"EUR","description":"Catalog cu categorii, filtre și variante, coș, plată cu cardul, transfer și ramburs, transport configurat, e-mailuri automate, produse sugerate, e-mail pentru coșul abandonat, site în 2 limbi, 3 luni de mentenanță. Livrare în 4–6 săptămâni.","itemOffered":{"@type":"Service","name":"Magazin online Standard"}},{"@type":"Offer","name":"Google Shopping","price":"100","priceCurrency":"EUR","description":"Merchant Center, feed-ul de produse și campania.","itemOffered":{"@type":"Service","name":"Google Shopping"}},{"@type":"Offer","name":"Setup campanie și tracking","price":"200","priceCurrency":"EUR","description":"Contul publicitar pe firma ta, pixelul, evenimentele de conversie și legătura cu GA4.","itemOffered":{"@type":"Service","name":"Setup campanie și tracking"}}]}},{"@type":"FAQPage","@id":"https://visience.ro/oferta-site-fonduri-europene/#faq","mainEntity":[{"@type":"Question","name":"Puteți trece pe ofertă titlul proiectului și programul?","acceptedAnswer":{"@type":"Answer","text":"Da. Oferta are numărul și data ei, datele firmei tale, titlul proiectului, programul de finanțare și valabilitatea."}},{"@type":"Question","name":"Puteți face oferta în lei?","acceptedAnswer":{"@type":"Answer","text":"Da. Prețurile noastre sunt în euro. Pe ofertă le trecem și în lei, la cursul BNR din ziua ofertei, dacă ghidul îți cere bugetul în lei."}},{"@type":"Question","name":"Cât timp e valabilă oferta?","acceptedAnswer":{"@type":"Answer","text":"90 de zile. Dacă evaluarea proiectului durează mai mult, îți trimitem o ofertă nouă, cu data la zi."}},{"@type":"Question","name":"Pot folosi specificațiile voastre pentru alte oferte?","acceptedAnswer":{"@type":"Answer","text":"Da, de aceea sunt scrise fără nume de firmă sau de marcă. Toți furnizorii fac oferta pe aceleași cerințe, iar comparația e corectă."}},{"@type":"Question","name":"Prețul include TVA?","acceptedAnswer":{"@type":"Answer","text":"Visience nu e plătitoare de TVA. Totalul din ofertă e suma de pe factură, fără TVA adăugat."}},{"@type":"Question","name":"Ce se întâmplă dacă proiectul nu e aprobat?","acceptedAnswer":{"@type":"Answer","text":"Oferta nu te obligă la nimic și e gratuită. Contractul nostru îl semnăm după ce semnezi contractul de finanțare. Dacă vrei site-ul și fără finanțare, îl facem la aceleași prețuri."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Fonduri europene","item":"https://visience.ro/site-fonduri-europene/"},{"@type":"ListItem","position":3,"name":"Ofertă și specificații","item":"https://visience.ro/oferta-site-fonduri-europene/"}]}]}6:["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$19"}}],"$L1a"],["$L1b"],"$L1c"]}]
+1d:[]
+7:"$W1d"
+8:["$","$1","h",{"children":[null,["$","$L1e",null,{"children":"$L1f"}],["$","div",null,{"hidden":true,"children":["$","$L20",null,{"children":["$","$21",null,{"name":"Next.Metadata","children":"$L22"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0soykg1_j0p1h.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+23:I[27961,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
+24:I[11015,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
+26:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+14:["$","$L17",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
+15:["$","$L23",null,{}]
+16:["$","$L24",null,{}]
+25:T3e3c,<main id="main">
+
+<section class="csi-hero" aria-labelledby="csi-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="22%" x2="100%" y2="64%"/>
+      <line x1="0" y1="58%" x2="100%" y2="18%"/>
+      <line x1="24%" y1="0" x2="78%" y2="100%"/>
+      <line x1="66%" y1="0" x2="14%" y2="100%"/>
+    </svg>
+  </div>
+  <div class="wrap">
+    <nav class="csi-breadcrumbs" aria-label="Breadcrumbs">
+      <a href="/">Acasă</a><span class="sep">/</span>
+      <a href="/site-fonduri-europene/">Fonduri europene</a><span class="sep">/</span>
+      <span>Ofertă și specificații</span>
+    </nav>
+
+    <h1 class="csi-hero__h1" id="csi-h1">
+      Oferta pentru site<br>
+      <span class="acc">pe care o pui în dosar</span>
+    </h1>
+
+    <p class="csi-hero__lead">Pentru linia de buget a site-ului, consultantul îți cere trei lucruri: o descriere tehnică, un preț și o dovadă că prețul e cel din piață. Aici le găsești pe toate trei. Mai jos e modelul ofertei noastre, rând cu rând, și specificațiile tehnice scrise fără nume de firmă, gata de copiat în cererea de finanțare.</p>
+
+    <div class="csi-hero__acts">
+      <a href="/contact/" class="btn btn-solid">Cere oferta pentru dosar</a>
+      <a href="#specificatii" class="btn btn-ghost" style="border-color:rgba(255,255,255,.25);color:#fff">Vezi specificațiile</a>
+    </div>
+
+    <div class="csi-hero__stats">
+      <div class="csi-hero__stat"><span class="n">24 h</span><span class="l">de la cerere la ofertă</span></div>
+      <div class="csi-hero__stat"><span class="n">90</span><span class="l">de zile valabilitate</span></div>
+      <div class="csi-hero__stat"><span class="n">3</span><span class="l">seturi de specificații tehnice</span></div>
+      <div class="csi-hero__stat"><span class="n">120+</span><span class="l">proiecte livrate din 2014</span></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white" id="model">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Modelul ofertei, <span class="acc">rând cu rând</span></h2>
+      <p class="body-lg" style="margin-top:14px">O ofertă pentru un magazin online cu promovare pe 6 luni, într-un proiect cu durabilitate de 3 ani. Câmpurile dintre paranteze drepte le completăm cu datele tale.</p>
+    </div>
+    <div class="fe-doc rv rv-d1">
+      <div class="fe-doc__top">
+        <div class="fe-doc__title">Ofertă de preț nr. [număr] din [data]</div>
+        <div class="fe-doc__meta">Valabilă 90 de zile<br>Prețuri în euro; la cerere și în lei, la cursul BNR din ziua ofertei</div>
+      </div>
+      <div class="fe-doc__parti">
+        <div><b>Furnizor</b>Visience Creative Experience SRL<br>CUI 44755311, neplătitoare de TVA<br>Bd. Nicolae Iorga 18, Iași<br>contact@visience.ro · +40 771 486 499</div>
+        <div><b>Beneficiar</b>[Denumirea firmei], CUI [cod]<br>Proiect: [titlul proiectului]<br>Program: [programul și apelul]<br>Durabilitate: 3 ani</div>
+      </div>
+      <div class="csi-tbl">
+      <table>
+        <thead>
+          <tr><th>Serviciu</th><th>Preț</th><th>Ce conține</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Magazin online Standard</td><td>1.800€</td><td>Catalog cu categorii, filtre și variante, coș, plată cu cardul, transfer și ramburs, transport configurat, e-mailuri automate, produse sugerate, e-mail pentru coșul abandonat, site în 2 limbi, 3 luni de mentenanță. Livrare în 4–6 săptămâni.</td></tr>
+          <tr><td>Pagina proiectului</td><td>inclusă</td><td>Titlul, beneficiarul, obiectivele, rezultatele, valoarea și sprijinul UE, cu emblema și mențiunea de finanțare în primul ecran, cum cere art. 50 din Regulamentul (UE) 2021/1060.</td></tr>
+          <tr><td>Domeniu .ro, 3 ani</td><td>45€</td><td>3 × 15€, înregistrat pe numele firmei beneficiare.</td></tr>
+          <tr><td>Găzduire, 3 ani</td><td>255€</td><td>3 × 85€. Site-ul rămâne online toată perioada de durabilitate a proiectului.</td></tr>
+          <tr><td>Google Shopping</td><td>100€</td><td>Merchant Center, feed-ul de produse și campania.</td></tr>
+          <tr><td>Setup campanie și tracking</td><td>200€</td><td>Contul publicitar pe firma ta, pixelul, evenimentele de conversie și legătura cu GA4.</td></tr>
+          <tr><td>Management campanii Google și Meta, 6 luni</td><td>1.200€</td><td>6 × 200€. Oricâte campanii, pe ambele platforme, optimizare săptămânală, texte și imagini pentru anunțuri, raport lunar. Bugetul de afișare se plătește direct la Google și Meta.</td></tr>
+        </tbody>
+        <tfoot>
+          <tr><td>Total</td><td>3.600€</td><td>Visience nu e plătitoare de TVA, așa că totalul e suma de pe factură.</td></tr>
+        </tfoot>
+      </table>
+    </div>
+      <ul class="fe-doc__cond">
+        <li>Termen de livrare: 4–6 săptămâni de la semnarea contractului de prestări servicii.</li>
+        <li>Plată: avans la pornirea lucrului și diferența la predare, dacă nu stabilim altfel în contract.</li>
+        <li>Recepție: proces-verbal de predare-primire, semnat de ambele părți.</li>
+        <li>Drepturi: site-ul trece în proprietatea beneficiarului, prin cesiunea drepturilor patrimoniale de autor.</li>
+        <li>Comanda fermă se dă de la data de la care ghidul programului acceptă cheltuieli.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream2" id="specificatii">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Specificații tehnice, <span class="acc">gata de pus în cerere</span></h2>
+      <p class="body-lg" style="margin-top:14px">Le-am scris neutru, fără nume de firmă sau de marcă, ca să poți cere oferte și de la alți furnizori pe aceleași cerințe. Copiază doar ce se potrivește proiectului tău.</p>
+    </div>
+    <div class="fe-spec rv rv-d1">
+      <div class="fe-spec__box">
+        <h3>Site de prezentare</h3>
+        <ol>
+          <li>Design adaptat pentru telefon, tabletă și calculator.</li>
+          <li>Minimum 6 pagini: prima pagină, despre firmă, servicii sau produse, galerie, contact, pagina proiectului.</li>
+          <li>Panou de administrare din care beneficiarul modifică textele și imaginile fără cunoștințe tehnice.</li>
+          <li>Formular de contact cu protecție anti-spam și acordul pentru prelucrarea datelor.</li>
+          <li>Politica de confidențialitate, politica de cookie și banner de consimțământ, conform GDPR.</li>
+          <li>Conexiune securizată HTTPS, firewall, trimiterea e-mailurilor prin SMTP.</li>
+          <li>Optimizare pentru motoarele de căutare: titlu și descriere pe fiecare pagină, sitemap, date structurate.</li>
+          <li>Integrare Google Analytics 4 și Google Search Console.</li>
+          <li>Accesibilitate: contrast suficient, texte alternative la imagini, navigare cu tastatura.</li>
+          <li>Pagină dedicată proiectului, cu informațiile cerute de art. 50 din Regulamentul (UE) 2021/1060 și emblema UE.</li>
+          <li>Domeniu și găzduire pentru toată perioada de durabilitate a proiectului.</li>
+          <li>Cesiunea drepturilor patrimoniale de autor către beneficiar și acces complet de administrator.</li>
+        </ol>
+      </div>
+      <div class="fe-spec__box">
+        <h3>Magazin online</h3>
+        <ol>
+          <li>Toate cerințele de la site-ul de prezentare.</li>
+          <li>Catalog de produse cu categorii, filtre, variante (mărime, culoare) și căutare.</li>
+          <li>Coș de cumpărături și comandă fără cont obligatoriu.</li>
+          <li>Plată online cu cardul, prin procesator autorizat, plus transfer bancar și ramburs.</li>
+          <li>Calcul automat al costului de transport.</li>
+          <li>E-mailuri automate pentru confirmarea și starea comenzii.</li>
+          <li>Stoc actualizat automat la fiecare comandă.</li>
+          <li>Paginile obligatorii pentru comerț online: termeni, retur, livrare, legături către ANPC și SOL.</li>
+          <li>Panou de administrare pentru produse, comenzi și clienți.</li>
+          <li>Export de produse pentru Google Shopping.</li>
+        </ol>
+      </div>
+      <div class="fe-spec__box">
+        <h3>Promovare online</h3>
+        <ol>
+          <li>Configurarea conturilor de publicitate Google Ads și Meta, pe numele beneficiarului.</li>
+          <li>Măsurarea conversiilor: pixel Meta, etichete Google, legătura cu Google Analytics 4.</li>
+          <li>Campanii în rețeaua de căutare Google și pe Facebook și Instagram.</li>
+          <li>Texte și imagini pentru anunțuri.</li>
+          <li>Optimizare săptămânală a campaniilor.</li>
+          <li>Raport lunar: afișări, clicuri, cereri sau vânzări, cost pe rezultat.</li>
+          <li>Durata: [număr] luni, minimum 3.</li>
+          <li>Bugetul de afișare se plătește separat, direct către platforme.</li>
+        </ol>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Ce primești după contract, <span class="acc">pentru decont</span></h2>
+    </div>
+    <div class="csi-types rv rv-d1">
+      <div class="csi-type">
+        <div class="csi-type__n">01</div>
+        <div>
+          <h3>Contractul de prestări servicii</h3>
+          <p>Cu aceleași servicii, prețuri și termene ca în ofertă, ca să se lege unul de altul la verificare.</p>
+        </div>
+      </div>
+      <div class="csi-type">
+        <div class="csi-type__n">02</div>
+        <div>
+          <h3>Factura</h3>
+          <p>Cu mențiunile cerute de program, de exemplu titlul sau codul proiectului, dacă ghidul le cere.</p>
+        </div>
+      </div>
+      <div class="csi-type">
+        <div class="csi-type__n">03</div>
+        <div>
+          <h3>Procesul-verbal de predare-primire</h3>
+          <p>Cu lista a ce s-a livrat: pagini, funcții, accese de administrator, domeniu și găzduire.</p>
+        </div>
+      </div>
+      <div class="csi-type">
+        <div class="csi-type__n">04</div>
+        <div>
+          <h3>Cesiunea drepturilor și raportul de livrare</h3>
+          <p>Drepturile patrimoniale de autor trec pe firma ta. Raportul are linkuri și capturi de ecran pentru fiecare cerință din specificații.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Cum arăți că prețul <span class="acc">e cel din piață</span></h2>
+    </div>
+    <div class="csi-prose rv rv-d1">
+      <p>Cine îți verifică decontul poate cere dovada că ai plătit prețul pieței. Regula se numește principiul economicității și apare în toate programele. Cel mai simplu o dovedești cu oferte comparabile, de la firme independente, pe aceleași specificații.</p>
+      <p>Pe oferta noastră, fiecare serviciu are rândul lui, așa că poate fi pusă lângă altele rând cu rând. Toate prețurile noastre sunt publice, pe <a href="/preturi/">pagina de prețuri</a>. Unele ghiduri acceptă și prețurile publicate pe site ca sursă de preț, alături de oferte.</p>
+      <p>Celelalte oferte le ceri tu, de la firme fără legătură cu noi, cu firma ta sau cu consultantul. Păstrează e-mailurile cu care le-ai cerut și primit: la verificare, autoritatea poate cere și corespondența cu furnizorii.</p>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Întrebări <span class="acc">frecvente</span></h2>
+    </div>
+    <div class="csi-faq rv">
+      <details>
+        <summary>Puteți trece pe ofertă titlul proiectului și programul?</summary>
+        <p>Da. Oferta are numărul și data ei, datele firmei tale, titlul proiectului, programul de finanțare și valabilitatea.</p>
+      </details>
+      <details>
+        <summary>Puteți face oferta în lei?</summary>
+        <p>Da. Prețurile noastre sunt în euro. Pe ofertă le trecem și în lei, la cursul BNR din ziua ofertei, dacă ghidul îți cere bugetul în lei.</p>
+      </details>
+      <details>
+        <summary>Cât timp e valabilă oferta?</summary>
+        <p>90 de zile. Dacă evaluarea proiectului durează mai mult, îți trimitem o ofertă nouă, cu data la zi.</p>
+      </details>
+      <details>
+        <summary>Pot folosi specificațiile voastre pentru alte oferte?</summary>
+        <p>Da, de aceea sunt scrise fără nume de firmă sau de marcă. Toți furnizorii fac oferta pe aceleași cerințe, iar comparația e corectă.</p>
+      </details>
+      <details>
+        <summary>Prețul include TVA?</summary>
+        <p>Visience nu e plătitoare de TVA. Totalul din ofertă e suma de pe factură, fără TVA adăugat.</p>
+      </details>
+      <details>
+        <summary>Ce se întâmplă dacă proiectul nu e aprobat?</summary>
+        <p>Oferta nu te obligă la nimic și e gratuită. Contractul nostru îl semnăm după ce semnezi contractul de finanțare. Dacă vrei site-ul și fără finanțare, îl facem la aceleași prețuri.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-cta" aria-labelledby="csi-cta-h">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="dd dd-lg csi-cta__h" id="csi-cta-h">Trimite-ne datele proiectului.<br><span class="acc">Oferta vine în 24 de ore.</span></h2>
+      <p class="csi-cta__p">Firma, programul, termenul de depunere și ce trebuie să facă site-ul. Primești oferta defalcată și specificațiile, gata de pus în dosar.</p>
+      <div class="csi-cta__acts">
+        <a href="/contact/" class="btn btn-solid">Cere oferta</a>
+        <a href="tel:+40771486499" class="btn btn-dark">+40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Proiecte cu fonduri europene și prețuri">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Toate prețurile noastre sunt publice, serviciu cu serviciu. Sunt aceleași cifre pe care le trecem în oferta pentru dosar.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Proiecte cu fonduri europene</div>
+      <div class="rel-links__grid">
+        <a href="/site-fonduri-europene/" class="rel-link"><span class="rel-link__name">Site pentru fonduri europene <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/magazin-online-fonduri-europene/" class="rel-link"><span class="rel-link__name">Magazin online prin fonduri europene <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/site-start-up-nation/" class="rel-link"><span class="rel-link__name">Site și magazin pentru Start-Up Nation <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/reclame-fonduri-europene/" class="rel-link"><span class="rel-link__name">Reclame Google și Facebook pentru proiect <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/vizibilitate-proiect-fonduri-europene/" class="rel-link"><span class="rel-link__name">Pagina proiectului și vizibilitatea <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/preturi/" class="rel-link"><span class="rel-link__name">Toate prețurile <span class="arr" aria-hidden="true">↗</span></span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+1a:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$25"}}]
+1b:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2225dsg-8gzx2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1c:["$","$L26",null,{"children":["$","$21",null,{"name":"Next.MetadataOutlet","children":"$@27"}]}]
+1f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#FFFFFF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#111114","media":"(prefers-color-scheme: dark)"}]]
+28:I[27201,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"IconMark"]
+22:[["$","title","0",{"children":"Ofertă de preț pentru site în proiect european | Visience"}],["$","meta","1",{"name":"description","content":"Modelul ofertei Visience pentru dosarul de finanțare: servicii defalcate, prețuri fără TVA adăugat și specificații tehnice pentru site, magazin online și promovare."}],["$","link","2",{"rel":"canonical","href":"https://visience.ro/oferta-site-fonduri-europene/"}],["$","meta","3",{"property":"og:title","content":"Ofertă de preț și specificații tehnice pentru site în proiecte europene — Visience"}],["$","meta","4",{"property":"og:description","content":"Oferta pentru dosar, rând cu rând, și specificațiile tehnice pentru site, magazin online și reclame, gata de pus în cererea de finanțare."}],["$","meta","5",{"property":"og:url","content":"https://visience.ro/oferta-site-fonduri-europene/"}],["$","meta","6",{"property":"og:locale","content":"ro_RO"}],["$","meta","7",{"property":"og:image","content":"https://visience.ro/media/nise/luciarosca.avif"}],["$","meta","8",{"property":"og:image:alt","content":"Ofertă de preț și specificații tehnice pentru site în proiecte europene, exemplu din portofoliul Visience"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Agenție Marketing Digital & Web Design Iași | Visience"}],["$","meta","12",{"name":"twitter:description","content":"Branding, website-uri, magazine online, Google & Meta Ads, SEO. Prețuri publice, fără costuri ascunse."}],["$","meta","13",{"name":"twitter:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.04nd99rd6ooix.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/icon.png?icon.3v2r-pcu8x6vx.png","sizes":"192x192","type":"image/png"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2y52blaubq-q-.png","sizes":"180x180","type":"image/png"}],["$","$L28","17",{}]]
+27:null

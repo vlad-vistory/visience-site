@@ -25,6 +25,14 @@
 - [Blog](https://visience.ro/blog/): peste 100 de articole în română despre site-uri, SEO, reclame și marketing
 - [Contact](https://visience.ro/contact/): telefon, WhatsApp, email și formular
 
+## Proiecte cu fonduri europene
+- [Site pentru fonduri europene](https://visience.ro/site-fonduri-europene/): site și magazin online eligibile în proiecte cu fonduri europene și Start-Up Nation; ofertă defalcată pentru dosar în 24 de ore, pagina proiectului inclusă, acte pentru decont; Visience nu e plătitoare de TVA
+- [Model de ofertă și specificații tehnice](https://visience.ro/oferta-site-fonduri-europene/): model de ofertă de preț pentru dosarul de finanțare, rând cu rând, și specificații tehnice neutre pentru site de prezentare, magazin online și promovare online
+- [Magazin online prin fonduri europene](https://visience.ro/magazin-online-fonduri-europene/): magazin online în proiect european: plată cu cardul, transport, pagini ANPC și SOL, accesibilitate, pagina proiectului; 1.000€ Basic, 1.800€ Standard, 3.500€ Premium
+- [Site și magazin pentru Start-Up Nation](https://visience.ro/site-start-up-nation/): site de prezentare, magazin online, domeniu și promovare pentru firmele din Start-Up Nation 2024; consultantul nu poate fi și furnizor; exemplu de ofertă
+- [Reclame Google și Facebook pentru proiect](https://visience.ro/reclame-fonduri-europene/): campanii Google și Meta pentru proiecte europene, 200€ pe lună oricâte campanii, raport lunar pentru decont, postări despre proiect cu emblema UE
+- [Pagina proiectului și vizibilitatea](https://visience.ro/vizibilitate-proiect-fonduri-europene/): obligațiile din art. 50 al Regulamentului (UE) 2021/1060: descrierea proiectului pe site și pe rețelele sociale, afiș A3 sau placă, emblema UE, sancțiune de până la 3%
+
 ## Site-uri pe domenii
 - [Toate domeniile](https://visience.ro/site-uri-pe-domenii/): ce trebuie să aibă site-ul în fiecare domeniu, cu exemple și prețuri
 - [Site pentru restaurant](https://visience.ro/creare-site-restaurant/): meniu pe categorii, rezervări, comenzi directe; exemplu: Casa Vatră (Rădăuți)

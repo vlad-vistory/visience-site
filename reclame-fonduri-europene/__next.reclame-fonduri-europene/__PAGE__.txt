@@ -1,0 +1,248 @@
+1:"$Sreact.fragment"
+7:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["/_next/static/chunks/2225dsg-8gzx2.css","style"]
+2:T16ba,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://visience.ro/reclame-fonduri-europene/#webpage","url":"https://visience.ro/reclame-fonduri-europene/","name":"Reclame și promovare pentru proiectul european","description":"Campanii Google și Meta pentru firme cu proiecte europene: 200€ pe lună, oricâte campanii, rapoarte lunare pentru decont, postări despre proiect cu mențiunea sprijinului UE.","inLanguage":"ro-RO","dateModified":"2026-10-13","isPartOf":{"@id":"https://visience.ro/#website"},"about":{"@id":"https://visience.ro/reclame-fonduri-europene/#service"}},{"@type":"Service","@id":"https://visience.ro/reclame-fonduri-europene/#service","name":"Reclame și promovare pentru proiecte cu fonduri europene","serviceType":"Reclame și promovare pentru proiecte cu fonduri europene","description":"Campanii Google și Meta pentru firme cu proiecte europene: 200€ pe lună, oricâte campanii, rapoarte lunare pentru decont, postări despre proiect cu mențiunea sprijinului UE.","url":"https://visience.ro/reclame-fonduri-europene/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"100","highPrice":"500","offerCount":"8"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Prețuri: Reclame și promovare pentru proiecte cu fonduri europene","itemListElement":[{"@type":"Offer","name":"Management campanii Google și Meta","price":"200","priceCurrency":"EUR","description":"Oricâte campanii, pe ambele platforme, minimum 3 luni. Optimizare săptămânală, texte și imagini pentru anunțuri, raport lunar.","itemOffered":{"@type":"Service","name":"Management campanii Google și Meta"},"priceSpecification":{"@type":"UnitPriceSpecification","price":"200","priceCurrency":"EUR","unitCode":"MON"}},{"@type":"Offer","name":"Setup campanie și tracking","price":"200","priceCurrency":"EUR","description":"Contul publicitar, pixelul, evenimentele de conversie și legătura cu GA4. Gratuit la contract pe 12 luni.","itemOffered":{"@type":"Service","name":"Setup campanie și tracking"}},{"@type":"Offer","name":"Landing page de campanie","price":"500","priceCurrency":"EUR","description":"O pagină făcută pentru reclame, cu formular și măsurarea conversiilor.","itemOffered":{"@type":"Service","name":"Landing page de campanie"}},{"@type":"Offer","name":"Remarketing","price":"200","priceCurrency":"EUR","description":"Anunțuri pentru oamenii care ți-au văzut site-ul și au plecat fără să cumpere.","itemOffered":{"@type":"Service","name":"Remarketing"}},{"@type":"Offer","name":"Google Shopping","price":"100","priceCurrency":"EUR","description":"Merchant Center, feed-ul de produse și campania, pentru magazine online.","itemOffered":{"@type":"Service","name":"Google Shopping"}},{"@type":"Offer","name":"Strategie social media","price":"300","priceCurrency":"EUR","description":"Ce postezi, unde, cât de des și pentru cine.","itemOffered":{"@type":"Service","name":"Strategie social media"}},{"@type":"Offer","name":"8 postări pe lună","price":"200","priceCurrency":"EUR","description":"Texte și imagini pentru Facebook și Instagram, inclusiv postările despre proiect.","itemOffered":{"@type":"Service","name":"8 postări pe lună"},"priceSpecification":{"@type":"UnitPriceSpecification","price":"200","priceCurrency":"EUR","unitCode":"MON"}},{"@type":"Offer","name":"Logo","price":"500","priceCurrency":"EUR","description":"Pentru firmele noi care pornesc proiectul fără identitate vizuală.","itemOffered":{"@type":"Service","name":"Logo"}}]}},{"@type":"FAQPage","@id":"https://visience.ro/reclame-fonduri-europene/#faq","mainEntity":[{"@type":"Question","name":"Pot plăti reclamele din fonduri europene?","acceptedAnswer":{"@type":"Answer","text":"Serviciile de promovare apar în multe programe. Start-Up Nation are promovarea site-ului și a magazinului online la cheltuieli eligibile, iar la microîntreprinderile din Nord-Est, apelul 2, marketingul intră alături de echipamente. Dacă și bugetul de afișare e eligibil, scrie în ghidul programului."}},{"@type":"Question","name":"Cât costă administrarea campaniilor?","acceptedAnswer":{"@type":"Answer","text":"200€ pe lună, oricâte campanii, pe Google și Meta, minimum 3 luni. Setup-ul costă 200€ și e gratuit la contract pe 12 luni."}},{"@type":"Question","name":"Ce dovezi primesc pentru decont?","acceptedAnswer":{"@type":"Answer","text":"Un raport lunar cu rezultatele fiecărei campanii, capturi din conturile de reclame și facturile platformelor, emise pe firma ta."}},{"@type":"Question","name":"Trebuie să pun emblema UE în reclame?","acceptedAnswer":{"@type":"Answer","text":"Pe materialele care vorbesc despre proiect, da: emblema și mențiunea „Cofinanțat de Uniunea Europeană”. Pentru restul reclamelor urmăm manualul de identitate vizuală al programului tău."}},{"@type":"Question","name":"Garantați un număr de clienți?","acceptedAnswer":{"@type":"Answer","text":"Îți arătăm lunar costul fiecărei cereri și mutăm bugetul spre campaniile care aduc clienți. Rezultatele depind și de piață, de aceea în contract scriem ce facem, nu câți clienți vin."}},{"@type":"Question","name":"Prețul include TVA?","acceptedAnswer":{"@type":"Answer","text":"Visience nu e plătitoare de TVA. Totalul din ofertă e suma de pe factură, fără TVA adăugat."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Fonduri europene","item":"https://visience.ro/site-fonduri-europene/"},{"@type":"ListItem","position":3,"name":"Reclame pentru proiect","item":"https://visience.ro/reclame-fonduri-europene/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"oZ2t3vdziEIDL9RyZefLT"}
+6:T3535,<main id="main">
+
+<section class="csi-hero" aria-labelledby="csi-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="22%" x2="100%" y2="64%"/>
+      <line x1="0" y1="58%" x2="100%" y2="18%"/>
+      <line x1="24%" y1="0" x2="78%" y2="100%"/>
+      <line x1="66%" y1="0" x2="14%" y2="100%"/>
+    </svg>
+  </div>
+  <div class="wrap">
+    <nav class="csi-breadcrumbs" aria-label="Breadcrumbs">
+      <a href="/">Acasă</a><span class="sep">/</span>
+      <a href="/site-fonduri-europene/">Fonduri europene</a><span class="sep">/</span>
+      <span>Reclame pentru proiect</span>
+    </nav>
+
+    <h1 class="csi-hero__h1" id="csi-h1">
+      Reclame și promovare<br>
+      <span class="acc">pentru proiectul european</span>
+    </h1>
+
+    <p class="csi-hero__lead">În cererea de finanțare ai promis clienți noi și vânzări mai mari până la finalul proiectului. Site-ul îi primește, reclamele îi aduc. Facem campanii pe Google, Facebook și Instagram, cu un raport lunar pe care îl pui la dosar, plus postările despre proiect, cu mențiunea sprijinului UE.</p>
+
+    <div class="csi-hero__acts">
+      <a href="/contact/" class="btn btn-solid">Cere oferta pentru dosar</a>
+      <a href="#oferta" class="btn btn-ghost" style="border-color:rgba(255,255,255,.25);color:#fff">Vezi exemplul de ofertă</a>
+    </div>
+
+    <div class="csi-hero__stats">
+      <div class="csi-hero__stat"><span class="n">200€</span><span class="l">pe lună, oricâte campanii</span></div>
+      <div class="csi-hero__stat"><span class="n">2</span><span class="l">platforme: Google și Meta</span></div>
+      <div class="csi-hero__stat"><span class="n">12</span><span class="l">rapoarte pe an, pentru dosar</span></div>
+      <div class="csi-hero__stat"><span class="n">0€</span><span class="l">setup la contract pe 12 luni</span></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Ce poți trece în proiect <span class="acc">la promovare</span></h2>
+      <p class="body-lg" style="margin-top:14px">Fiecare serviciu are prețul lui. Alegi ce se potrivește cu ce ai promis în cererea de finanțare.</p>
+    </div>
+    <div class="csi-tbl rv rv-d1">
+      <table>
+        <thead>
+          <tr><th>Serviciu</th><th>Preț</th><th>Ce conține</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Management campanii Google și Meta</td><td>200€ / lună</td><td>Oricâte campanii, pe ambele platforme, minimum 3 luni. Optimizare săptămânală, texte și imagini pentru anunțuri, raport lunar.</td></tr>
+          <tr><td>Setup campanie și tracking</td><td>200€</td><td>Contul publicitar, pixelul, evenimentele de conversie și legătura cu GA4. Gratuit la contract pe 12 luni.</td></tr>
+          <tr><td>Landing page de campanie</td><td>500€</td><td>O pagină făcută pentru reclame, cu formular și măsurarea conversiilor.</td></tr>
+          <tr><td>Remarketing</td><td>200€</td><td>Anunțuri pentru oamenii care ți-au văzut site-ul și au plecat fără să cumpere.</td></tr>
+          <tr><td>Google Shopping</td><td>100€</td><td>Merchant Center, feed-ul de produse și campania, pentru magazine online.</td></tr>
+          <tr><td>Strategie social media</td><td>300€</td><td>Ce postezi, unde, cât de des și pentru cine.</td></tr>
+          <tr><td>8 postări pe lună</td><td>200€ / lună</td><td>Texte și imagini pentru Facebook și Instagram, inclusiv postările despre proiect.</td></tr>
+          <tr><td>Logo</td><td>500€</td><td>Pentru firmele noi care pornesc proiectul fără identitate vizuală.</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="fe-tbl-note rv rv-d2">Bugetul de afișare se plătește direct la Google și Meta, de pe contul firmei tale. Dacă poate fi trecut și el în proiect, scrie în ghidul programului.</p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream2">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Ce primești <span class="acc">pentru decont</span></h2>
+    </div>
+    <div class="csi-grid csi-grid--3 rv rv-d1">
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-file-lines"></i></div>
+        <h3>Raport lunar</h3>
+        <p>Afișări, clicuri, cereri sau vânzări și costul pe rezultat, pe fiecare campanie. Îl pui la dosar lună de lună.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-camera"></i></div>
+        <h3>Capturi din conturi</h3>
+        <p>Din Google Ads și Meta, cu perioada și campaniile din contract, ca dovadă că serviciul s-a prestat.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-building"></i></div>
+        <h3>Conturi pe firma ta</h3>
+        <p>Contul de reclame și facturile platformelor sunt pe firma beneficiară. Noi le administrăm, tu rămâi proprietarul.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Postările despre proiect <span class="acc">și emblema UE</span></h2>
+    </div>
+    <div class="csi-prose rv rv-d1">
+      <p>Regulamentul (UE) 2021/1060 cere ca proiectul să fie descris și pe rețelele sociale ale firmei, cu scopul, rezultatele și sprijinul Uniunii. Pe materialele despre proiect apar emblema UE și mențiunea „Cofinanțat de Uniunea Europeană”, scrisă întreg, lângă emblemă, cum cere anexa IX a regulamentului.</p>
+      <p>Facem postarea de la începutul proiectului și pe cea de la final, cu textul cerut de manualul de identitate vizuală al programului tău. Intră în cele 8 postări pe lună. Pentru reclamele cu produsele și serviciile tale urmăm tot manualul programului, pe care îl citim înainte să pornim.</p>
+      <p>Dacă ai nevoie și de pagina proiectului pe site, de afiș sau de placă, vezi <a href="/vizibilitate-proiect-fonduri-europene/">ce cere articolul 50 și cât costă fiecare</a>.</p>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Cum pornim <span class="acc">campaniile</span></h2>
+    </div>
+    <div class="csi-steps rv rv-d1">
+      <div class="csi-step">
+        <div class="csi-step__n">01</div>
+        <h3>Contul și măsurarea</h3>
+        <p>Contul de reclame pe firma ta, pixelul și conversiile, ca fiecare cerere să se vadă în raport.</p>
+      </div>
+      <div class="csi-step">
+        <div class="csi-step__n">02</div>
+        <h3>Primele campanii</h3>
+        <p>Căutare pe Google pentru ce cer clienții tăi, plus Facebook și Instagram pentru zona și publicul tău.</p>
+      </div>
+      <div class="csi-step">
+        <div class="csi-step__n">03</div>
+        <h3>Optimizare săptămânală</h3>
+        <p>Mutăm bugetul spre anunțurile care aduc cereri și oprim ce nu funcționează.</p>
+      </div>
+      <div class="csi-step">
+        <div class="csi-step__n">04</div>
+        <h3>Raportul lunar</h3>
+        <p>Cifrele lunii, pe campanii, gata de pus la dosarul proiectului.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white" id="oferta">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Exemplu de ofertă <span class="acc">pentru 12 luni de promovare</span></h2>
+      <p class="body-lg" style="margin-top:14px">Promovare pe un an pentru o firmă cu site nou, într-un proiect european.</p>
+    </div>
+    <div class="csi-tbl rv rv-d1">
+      <table>
+        <thead>
+          <tr><th>Serviciu</th><th>Preț</th><th>Ce conține</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Setup campanie și tracking</td><td>gratuit</td><td>Inclus la contractul pe 12 luni.</td></tr>
+          <tr><td>Management campanii Google și Meta, 12 luni</td><td>2.400€</td><td>12 × 200€, oricâte campanii, raport lunar.</td></tr>
+          <tr><td>Landing page de campanie</td><td>500€</td><td>Pagina pe care ajung oamenii din reclame, cu formular.</td></tr>
+          <tr><td>Remarketing</td><td>200€</td><td>Anunțuri pentru vizitatorii care nu au trimis cererea.</td></tr>
+          <tr><td>Strategie social media</td><td>300€</td><td>Planul pentru Facebook și Instagram.</td></tr>
+          <tr><td>8 postări pe lună, 12 luni</td><td>2.400€</td><td>12 × 200€, inclusiv postările despre proiect, cu emblema UE.</td></tr>
+        </tbody>
+        <tfoot>
+          <tr><td>Total</td><td>5.800€</td><td>Fără TVA adăugat. Bugetul de afișare se plătește separat, direct la Google și Meta.</td></tr>
+        </tfoot>
+      </table>
+    </div>
+    <p class="fe-tbl-note rv rv-d2">Vezi și <a href="/oferta-site-fonduri-europene/#specificatii">specificațiile tehnice pentru promovare</a>, gata de pus în cererea de finanțare.</p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Întrebări <span class="acc">frecvente</span></h2>
+    </div>
+    <div class="csi-faq rv">
+      <details>
+        <summary>Pot plăti reclamele din fonduri europene?</summary>
+        <p>Serviciile de promovare apar în multe programe. Start-Up Nation are promovarea site-ului și a magazinului online la cheltuieli eligibile, iar la microîntreprinderile din Nord-Est, apelul 2, marketingul intră alături de echipamente. Dacă și bugetul de afișare e eligibil, scrie în ghidul programului.</p>
+      </details>
+      <details>
+        <summary>Cât costă administrarea campaniilor?</summary>
+        <p>200€ pe lună, oricâte campanii, pe Google și Meta, minimum 3 luni. Setup-ul costă 200€ și e gratuit la contract pe 12 luni.</p>
+      </details>
+      <details>
+        <summary>Ce dovezi primesc pentru decont?</summary>
+        <p>Un raport lunar cu rezultatele fiecărei campanii, capturi din conturile de reclame și facturile platformelor, emise pe firma ta.</p>
+      </details>
+      <details>
+        <summary>Trebuie să pun emblema UE în reclame?</summary>
+        <p>Pe materialele care vorbesc despre proiect, da: emblema și mențiunea „Cofinanțat de Uniunea Europeană”. Pentru restul reclamelor urmăm manualul de identitate vizuală al programului tău.</p>
+      </details>
+      <details>
+        <summary>Garantați un număr de clienți?</summary>
+        <p>Îți arătăm lunar costul fiecărei cereri și mutăm bugetul spre campaniile care aduc clienți. Rezultatele depind și de piață, de aceea în contract scriem ce facem, nu câți clienți vin.</p>
+      </details>
+      <details>
+        <summary>Prețul include TVA?</summary>
+        <p>Visience nu e plătitoare de TVA. Totalul din ofertă e suma de pe factură, fără TVA adăugat.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-cta" aria-labelledby="csi-cta-h">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="dd dd-lg csi-cta__h" id="csi-cta-h">Ai promovarea în proiect?<br><span class="acc">Cere oferta pentru dosar.</span></h2>
+      <p class="csi-cta__p">Spune-ne programul, cât durează proiectul și ce ai promis în cerere. În 24 de ore primești oferta defalcată, lună cu lună.</p>
+      <div class="csi-cta__acts">
+        <a href="/contact/" class="btn btn-solid">Cere oferta</a>
+        <a href="tel:+40771486499" class="btn btn-dark">+40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Proiecte cu fonduri europene și prețuri">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Toate prețurile noastre sunt publice, serviciu cu serviciu. Sunt aceleași cifre pe care le trecem în oferta pentru dosar.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Proiecte cu fonduri europene</div>
+      <div class="rel-links__grid">
+        <a href="/site-fonduri-europene/" class="rel-link"><span class="rel-link__name">Site pentru fonduri europene <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/oferta-site-fonduri-europene/" class="rel-link"><span class="rel-link__name">Model de ofertă și specificații tehnice <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/magazin-online-fonduri-europene/" class="rel-link"><span class="rel-link__name">Magazin online prin fonduri europene <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/site-start-up-nation/" class="rel-link"><span class="rel-link__name">Site și magazin pentru Start-Up Nation <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/vizibilitate-proiect-fonduri-europene/" class="rel-link"><span class="rel-link__name">Pagina proiectului și vizibilitatea <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/preturi/" class="rel-link"><span class="rel-link__name">Toate prețurile <span class="arr" aria-hidden="true">↗</span></span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+3:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$6"}}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2225dsg-8gzx2.css","precedence":"next"}]
+5:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

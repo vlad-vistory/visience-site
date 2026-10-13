@@ -1,0 +1,382 @@
+1:"$Sreact.fragment"
+7:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["/_next/static/chunks/2225dsg-8gzx2.css","style"]
+2:T162d,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://visience.ro/site-fonduri-europene/#webpage","url":"https://visience.ro/site-fonduri-europene/","name":"Site pentru proiectul cu fonduri europene","description":"Site și magazin online eligibile în proiecte cu fonduri europene și Start-Up Nation: ofertă defalcată pentru dosar în 24 de ore, pagina proiectului, acte pentru decont.","inLanguage":"ro-RO","dateModified":"2026-10-13","isPartOf":{"@id":"https://visience.ro/#website"},"about":{"@id":"https://visience.ro/site-fonduri-europene/#service"}},{"@type":"Service","@id":"https://visience.ro/site-fonduri-europene/#service","name":"Creare site pentru proiecte cu fonduri europene","serviceType":"Creare site pentru proiecte cu fonduri europene","description":"Site și magazin online eligibile în proiecte cu fonduri europene și Start-Up Nation: ofertă defalcată pentru dosar în 24 de ore, pagina proiectului, acte pentru decont.","url":"https://visience.ro/site-fonduri-europene/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"200","highPrice":"3500","offerCount":"3"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Prețuri: Creare site pentru proiecte cu fonduri europene","itemListElement":[{"@type":"Offer","name":"Website Basic","price":"750","priceCurrency":"EUR","description":"Până la 6 pagini, blog, galerie, formular de contact, GDPR și cookies, firewall și SMTP, SEO de bază, afișare corectă pe telefon. 25 de ore de lucru, livrare în 2–4 săptămâni.","itemOffered":{"@type":"Service","name":"Website Basic"}},{"@type":"Offer","name":"Profil Google Business","price":"300","priceCurrency":"EUR","description":"Creat sau refăcut, cu servicii, poze și program, ca firma să apară pe hartă.","itemOffered":{"@type":"Service","name":"Profil Google Business"}},{"@type":"Offer","name":"Google Analytics 4 și Search Console","price":"100","priceCurrency":"EUR","description":"Câți oameni intră pe site, din ce căutări și ce cereri trimit. Cifrele intră și în raportul de la finalul proiectului.","itemOffered":{"@type":"Service","name":"Google Analytics 4 și Search Console"}}]}},{"@type":"FAQPage","@id":"https://visience.ro/site-fonduri-europene/#faq","mainEntity":[{"@type":"Question","name":"Poate fi finanțat un site din fonduri europene?","acceptedAnswer":{"@type":"Answer","text":"Da, în programele care îl au la cheltuieli eligibile. Start-Up Nation scrie explicit site-ul de prezentare, magazinul online, domeniul și promovarea lor. Programele regionale îl acceptă la digitalizare sau la promovare, uneori numai alături de o investiție principală, cum e la microîntreprinderile din Nord-Est, apelul 2. Ghidul apelului decide."}},{"@type":"Question","name":"Ce trebuie să conțină oferta de preț pentru site?","acceptedAnswer":{"@type":"Answer","text":"Datele furnizorului, numărul și data ofertei, valabilitatea, firma beneficiară și proiectul, fiecare serviciu pe rândul lui cu specificațiile și prețul, mențiunea despre TVA, termenul de livrare și condițiile de plată."}},{"@type":"Question","name":"Câte oferte îmi trebuie pentru site?","acceptedAnswer":{"@type":"Answer","text":"Depinde de ghid. La microîntreprinderile din Nord-Est, apelul 2, costurile se justifică cu cel puțin două surse de preț. În alte programe se cer trei oferte sau dovada că ai verificat piața. Noi îți trimitem oferta noastră, iar celelalte vin de la firme independente, alese de tine."}},{"@type":"Question","name":"Când pot comanda site-ul?","acceptedAnswer":{"@type":"Answer","text":"De la data de la care ghidul acceptă cheltuieli, de obicei după semnarea contractului de finanțare. Până atunci primești doar oferta, fără comandă fermă și fără avans."}},{"@type":"Question","name":"Ce se întâmplă dacă nu pun informațiile despre proiect pe site?","acceptedAnswer":{"@type":"Answer","text":"Articolul 50 din Regulamentul (UE) 2021/1060 cere descrierea proiectului pe site-ul firmei, dacă există, și pe rețelele sociale. Dacă lipsesc și nu le completezi după ce ți se cere, autoritatea de management poate anula până la 3% din sprijinul UE."}},{"@type":"Question","name":"Prețul include TVA?","acceptedAnswer":{"@type":"Answer","text":"Visience nu e plătitoare de TVA. Totalul din ofertă e suma de pe factură, fără TVA adăugat."}},{"@type":"Question","name":"Scrieți și cererea de finanțare?","acceptedAnswer":{"@type":"Answer","text":"Lucrăm alături de consultantul tău: el scrie proiectul, noi îi dăm oferta și specificațiile tehnice, iar după contract livrăm partea digitală. Așa rămân furnizori diferiți, cum cere de exemplu Start-Up Nation."}},{"@type":"Question","name":"Cât timp trebuie să stea site-ul online?","acceptedAnswer":{"@type":"Answer","text":"Cel puțin perioada de durabilitate din contractul de finanțare, de regulă trei ani la IMM-uri. Domeniul și găzduirea costă 100€ pe an și le trecem în ofertă pentru toată perioada."}},{"@type":"Question","name":"Lucrați și cu firme din alte județe?","acceptedAnswer":{"@type":"Answer","text":"Da, cu firme din toată țara. Totul se face online: oferta, contractul, predarea și actele. Suntem în Iași, așa că în Nord-Est ne putem vedea și față în față."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Fonduri europene","item":"https://visience.ro/site-fonduri-europene/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"oZ2t3vdziEIDL9RyZefLT"}
+6:T5e49,<main id="main">
+
+<section class="csi-hero" aria-labelledby="csi-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="22%" x2="100%" y2="64%"/>
+      <line x1="0" y1="58%" x2="100%" y2="18%"/>
+      <line x1="24%" y1="0" x2="78%" y2="100%"/>
+      <line x1="66%" y1="0" x2="14%" y2="100%"/>
+    </svg>
+  </div>
+  <div class="wrap">
+    <nav class="csi-breadcrumbs" aria-label="Breadcrumbs">
+      <a href="/">Acasă</a><span class="sep">/</span>
+      <span>Fonduri europene</span>
+    </nav>
+
+    <h1 class="csi-hero__h1" id="csi-h1">
+      Site pentru proiectul<br>
+      <span class="acc">cu fonduri europene</span>
+    </h1>
+
+    <p class="csi-hero__lead">E joi seara, dosarul se depune luni, iar consultantul îți cere oferte pentru site. Nu știi ce trebuie să scrie pe ele și nici dacă site-ul intră în buget. Îți trimitem în 24 de ore oferta defalcată: fiecare serviciu cu specificațiile și prețul lui, pe antet, cu dată și valabilitate. După ce semnezi contractul de finanțare, facem site-ul, pagina proiectului și actele pentru decont.</p>
+
+    <div class="csi-hero__acts">
+      <a href="/contact/" class="btn btn-solid">Cere oferta pentru dosar</a>
+      <a href="/oferta-site-fonduri-europene/" class="btn btn-ghost" style="border-color:rgba(255,255,255,.25);color:#fff">Vezi modelul de ofertă</a>
+    </div>
+
+    <div class="csi-hero__stats">
+      <div class="csi-hero__stat"><span class="n">24 h</span><span class="l">oferta pentru dosar</span></div>
+      <div class="csi-hero__stat"><span class="n">750€</span><span class="l">site de prezentare</span></div>
+      <div class="csi-hero__stat"><span class="n">1.000€</span><span class="l">magazin online, de la</span></div>
+      <div class="csi-hero__stat"><span class="n">120+</span><span class="l">proiecte livrate din 2014</span></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Ce face un site <span class="acc">eligibil în proiect</span></h2>
+      <p class="body-lg" style="margin-top:14px">Site-ul devine eligibil când e trecut corect în proiect și cumpărat după regulile programului. Sunt șase lucruri pe care le verifică cine îți aprobă decontul.</p>
+    </div>
+    <div class="csi-grid csi-grid--3 rv rv-d1">
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-list-check"></i></div>
+        <h3>E pe linia potrivită din buget</h3>
+        <p>Digitalizare, programe informatice, active necorporale sau promovare, cum le numește ghidul apelului. Și e legat de ce promite proiectul: clienți noi, vânzări online, o activitate nouă.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-scale-balanced"></i></div>
+        <h3>Are prețul justificat</h3>
+        <p>Cu oferte sau surse de preț comparabile. La microîntreprinderile din Nord-Est, apelul 2, ghidul cere cel puțin două. Oferta noastră are fiecare serviciu pe rândul lui, ca să poată fi comparată rând cu rând.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-handshake"></i></div>
+        <h3>Vine de la un furnizor independent</h3>
+        <p>Fără legături de acționariat cu tine, cu consultantul sau cu ceilalți ofertanți. Noi scriem oferta noastră, iar celelalte vin de la firmele pe care le alegi tu.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-calendar-check"></i></div>
+        <h3>E comandat la momentul potrivit</h3>
+        <p>Lucrul începe de la data de la care ghidul acceptă cheltuieli, de obicei după semnarea contractului de finanțare. Până atunci primești oferta, fără comandă fermă și fără avans.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-key"></i></div>
+        <h3>Rămâne al firmei tale</h3>
+        <p>Îl plătești o dată, primești acces complet de administrator, iar drepturile de autor trec pe firma ta prin contract. Așa îl poți trece în contabilitate ca investiție.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-clock-rotate-left"></i></div>
+        <h3>Stă online toată perioada de durabilitate</h3>
+        <p>După plata finală, proiectul se păstrează câțiva ani, de regulă trei la IMM-uri. Domeniul și găzduirea costă 100€ pe an și le trecem în ofertă pentru toată perioada.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream2">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Exemplu de ofertă <span class="acc">pentru un site de prezentare</span></h2>
+      <p class="body-lg" style="margin-top:14px">Așa arată oferta pentru un site de firmă într-un proiect cu durabilitate de 3 ani. Pe oferta adevărată apar și numărul, data, valabilitatea și datele proiectului tău.</p>
+    </div>
+    <div class="csi-tbl rv rv-d1">
+      <table>
+        <thead>
+          <tr><th>Serviciu</th><th>Preț</th><th>Ce conține</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Website Basic</td><td>750€</td><td>Până la 6 pagini, blog, galerie, formular de contact, GDPR și cookies, firewall și SMTP, SEO de bază, afișare corectă pe telefon. 25 de ore de lucru, livrare în 2–4 săptămâni.</td></tr>
+          <tr><td>Pagina proiectului</td><td>inclusă</td><td>Titlul, beneficiarul, obiectivele, rezultatele, valoarea și sprijinul UE, cu emblema și mențiunea de finanțare în primul ecran, cum cere art. 50 din Regulamentul (UE) 2021/1060.</td></tr>
+          <tr><td>Domeniu .ro, 3 ani</td><td>45€</td><td>3 × 15€, înregistrat pe numele firmei beneficiare.</td></tr>
+          <tr><td>Găzduire, 3 ani</td><td>255€</td><td>3 × 85€. Site-ul rămâne online toată perioada de durabilitate a proiectului.</td></tr>
+          <tr><td>Profil Google Business</td><td>300€</td><td>Creat sau refăcut, cu servicii, poze și program, ca firma să apară pe hartă.</td></tr>
+          <tr><td>Google Analytics 4 și Search Console</td><td>100€</td><td>Câți oameni intră pe site, din ce căutări și ce cereri trimit. Cifrele intră și în raportul de la finalul proiectului.</td></tr>
+        </tbody>
+        <tfoot>
+          <tr><td>Total</td><td>1.450€</td><td>Visience nu e plătitoare de TVA, deci aceasta e suma de pe factură.</td></tr>
+        </tfoot>
+      </table>
+    </div>
+    <p class="fe-tbl-note rv rv-d2">Vrei magazin online sau reclame în același proiect? Le adăugăm pe rânduri separate. Vezi <a href="/oferta-site-fonduri-europene/">modelul complet de ofertă și specificațiile tehnice</a>.</p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Pagina proiectului, <span class="acc">inclusă în site</span></h2>
+    </div>
+    <div class="csi-prose rv rv-d1">
+      <p>Dacă firma ta are site, regulamentul european îți cere să pui pe el o scurtă descriere a proiectului, cu scopul, rezultatele și sprijinul primit de la Uniune. Aceeași descriere merge și pe paginile firmei de pe rețelele sociale. Regula e în <strong>articolul 50 din Regulamentul (UE) 2021/1060</strong> și se aplică proiectelor din politica de coeziune 2021–2027, cum sunt cele din programele regionale.</p>
+      <p>Dacă informațiile lipsesc și nu le completezi după ce ți se cere, autoritatea de management poate anula <strong>până la 3% din sprijinul UE</strong>. La o finanțare de 200.000€, asta înseamnă până la 6.000€.</p>
+      <p>În fiecare site făcut pentru un proiect european, pagina proiectului e inclusă în preț. O legăm din meniu și din subsol, iar emblema UE și mențiunea „Cofinanțat de Uniunea Europeană” se văd din primul ecran. Dacă ai deja site, o adăugăm pe el. <a href="/vizibilitate-proiect-fonduri-europene/">Vezi ce trebuie să scrie pe pagina proiectului</a>.</p>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Programe în care <span class="acc">site-ul poate intra</span></h2>
+      <p class="body-lg" style="margin-top:14px">Ce am găsit în ghidurile și procedurile programelor. Apelurile se schimbă des, așa că verifică varianta în vigoare înainte să depui.</p>
+      <span class="fe-upd">Verificat la 13 octombrie 2026</span>
+    </div>
+    <div class="csi-tbl csi-tbl--text rv rv-d1">
+      <table>
+        <thead>
+          <tr><th>Program</th><th>Ce se finanțează</th><th>Unde intră site-ul</th><th>De reținut</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Start-Up Nation 2024</td><td>Până la 250.000 lei pe firmă, ajutor de până la 90% din valoarea eligibilă.</td><td>Scris cu numele în lista de cheltuieli: site de prezentare, magazin online, domeniu și promovarea lor.</td><td>Firma de consultanță care scrie proiectul nu poate fi furnizor pentru alte cheltuieli din proiect. <a href="/site-start-up-nation/">Detalii</a></td></tr>
+          <tr><td>Programul Regional Nord-Est, microîntreprinderi, apelul 2</td><td>100.000–300.000€ pe proiect. Depunere până pe 28.10.2026, ora 14:00.</td><td>La digitalizare și marketing, numai alături de echipamentele cumpărate prin proiect.</td><td>Costurile se justifică cu cel puțin două surse de preț. Înainte de depunere nu se dă comandă fermă.</td></tr>
+          <tr><td>Programele regionale din celelalte regiuni</td><td>Apeluri pentru microîntreprinderi și IMM-uri, cu calendare diferite de la o regiune la alta.</td><td>Caută în ghid la cheltuielile cu digitalizarea, activele necorporale sau promovarea.</td><td>Regulile pentru oferte sunt în ghidul apelului, la capitolul despre rezonabilitatea costurilor.</td></tr>
+          <tr><td>GAL-uri, prin LEADER (AFIR)</td><td>Start-up-uri și activități neagricole din mediul rural, proiecte de zeci de mii de euro.</td><td>Ca software, trecut în planul de afaceri.</td><td>Fiecare GAL are apelurile lui. În județul Iași, GAL Valea Prutului primește proiecte până pe 6.11.2026 sau până se termină bugetul.</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="fe-tbl-note rv rv-d2">Apelurile de digitalizare pentru IMM-uri din PNRR și din Programul Regional Nord-Est s-au încheiat. Când se deschid apeluri noi, le adăugăm în tabel.</p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">De la ofertă <span class="acc">la decont</span></h2>
+    </div>
+    <div class="csi-steps rv rv-d1">
+      <div class="csi-step">
+        <div class="csi-step__n">01</div>
+        <h3>Ne scrii programul</h3>
+        <p>Programul, apelul, termenul de depunere și ce trebuie să facă site-ul: prezentare sau magazin, câte limbi, câte produse.</p>
+      </div>
+      <div class="csi-step">
+        <div class="csi-step__n">02</div>
+        <h3>Primești oferta în 24 de ore</h3>
+        <p>Defalcată pe servicii, cu specificațiile tehnice pentru cererea de finanțare. Dacă se schimbă ceva în proiect, o refacem.</p>
+      </div>
+      <div class="csi-step">
+        <div class="csi-step__n">03</div>
+        <h3>Pornim după contract</h3>
+        <p>După ce semnezi contractul de finanțare, semnăm și noi contractul de prestări servicii, cu aceleași servicii și prețuri ca în ofertă.</p>
+      </div>
+      <div class="csi-step">
+        <div class="csi-step__n">04</div>
+        <h3>Livrăm și actele de decont</h3>
+        <p>Site-ul, pagina proiectului, factura, procesul-verbal de predare-primire, cesiunea drepturilor de autor și un raport cu capturi.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream2" id="exemple">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Firme cu proiecte europene, <span class="acc">digitalizate de noi</span></h2>
+      <p class="body-lg" style="margin-top:14px">Am făcut partea digitală pentru firme care au accesat fonduri europene: o platformă de cursuri, un restaurant cu hotel, un birou de arhitectură.</p>
+    </div>
+    <div class="csi-porto csi-porto--3 rv rv-d1">
+      <a class="csi-shot" href="/proiecte/edu-net-academy/">
+        <div class="csi-shot__img">
+          <img src="/media/nise/edunet.avif" alt="Platforma de cursuri online Edu-Net Academy, realizată de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Edu-Net Academy</strong>Platformă de cursuri online, cu conturi de instructor și cursant, cursuri live, blog și evenimente.<span class="csi-shot__url">Vezi proiectul →</span></div>
+      </a>
+      <a class="csi-shot" href="/proiecte/casa-vatra/">
+        <div class="csi-shot__img">
+          <img src="/media/nise/casavatra.avif" alt="Site pentru restaurantul și hotelul Casa Vatră din Rădăuți, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Casa Vatră, Rădăuți</strong>Restaurant cu hotel: meniu pe categorii, rezervări pentru masă sau cameră și comenzi online.<span class="csi-shot__url">Vezi proiectul →</span></div>
+      </a>
+      <a class="csi-shot" href="/proiecte/im-design-studio/">
+        <div class="csi-shot__img">
+          <img src="/media/nise/imds.avif" alt="Site pentru biroul de arhitectură IM Design Studio, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>IM Design Studio</strong>Site în două limbi pentru un birou de arhitectură din Iași și București: portofoliu pe categorii, echipă, presă și cariere.<span class="csi-shot__url">Vezi proiectul →</span></div>
+      </a>
+    </div>
+    <div class="rv rv-d2" style="text-align:center;margin-top:34px">
+      <a href="/portofoliu/" class="btn btn-ghost">Vezi tot portofoliul →</a>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Cât costă, <span class="acc">pe fiecare serviciu</span></h2>
+      <p class="body-lg" style="margin-top:14px">Prețurile de pe site sunt aceleași cu cele din oferte. Unele ghiduri acceptă și prețurile publicate pe site ca sursă de preț, alături de oferte.</p>
+    </div>
+    <div class="csi-pr rv rv-d1">
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">Website Basic</div>
+        <div class="csi-pr-card__price">750€</div>
+        <p class="csi-pr-card__desc">Până la 6 pagini, gata în 2–4 săptămâni.</p>
+      </div>
+      <div class="csi-pr-card feat">
+        <span class="csi-pr-card__badge">Cel mai ales</span>
+        <div class="csi-pr-card__name">Website Standard</div>
+        <div class="csi-pr-card__price">1.200€</div>
+        <p class="csi-pr-card__desc">Tot din Basic, plus 10 pagini pe orașe, 10 articole și SEO complet.</p>
+      </div>
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">Magazin online</div>
+        <div class="csi-pr-card__price">de la 1.000€</div>
+        <p class="csi-pr-card__desc">Plată cu cardul, transport, paginile cerute de ANPC.</p>
+      </div>
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">Campanii Google și Meta</div>
+        <div class="csi-pr-card__price">200€ / lună</div>
+        <p class="csi-pr-card__desc">Oricâte campanii, pe ambele platforme, cu raport lunar.</p>
+      </div>
+    </div>
+    <p class="csi-pr-note rv rv-d2">
+      Domeniul costă 15€ pe an, găzduirea 85€ pe an. Pagina proiectului e inclusă în orice site făcut pentru un proiect european. <a href="/preturi/">Vezi toate prețurile</a>.
+    </p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Pentru fiecare parte <span class="acc">a proiectului</span></h2>
+    </div>
+    <div class="csi-grid csi-grid--3 rv rv-d1">
+      <a class="csi-card fe-link" href="/oferta-site-fonduri-europene/">
+        <div class="csi-card__ico"><i class="fas fa-file-invoice"></i></div>
+        <h3>Model de ofertă și specificații tehnice</h3>
+        <p>Oferta rând cu rând și textul tehnic gata de pus în cererea de finanțare.</p>
+        <span class="fe-link__go">Vezi pagina →</span>
+      </a>
+      <a class="csi-card fe-link" href="/magazin-online-fonduri-europene/">
+        <div class="csi-card__ico"><i class="fas fa-store"></i></div>
+        <h3>Magazin online prin fonduri europene</h3>
+        <p>Ce trebuie să aibă magazinul ca să vândă din prima lună și să treacă de decont.</p>
+        <span class="fe-link__go">Vezi pagina →</span>
+      </a>
+      <a class="csi-card fe-link" href="/site-start-up-nation/">
+        <div class="csi-card__ico"><i class="fas fa-rocket"></i></div>
+        <h3>Site și magazin pentru Start-Up Nation</h3>
+        <p>Ce scrie în procedură despre site, domeniu și promovare și cum arată oferta.</p>
+        <span class="fe-link__go">Vezi pagina →</span>
+      </a>
+      <a class="csi-card fe-link" href="/reclame-fonduri-europene/">
+        <div class="csi-card__ico"><i class="fas fa-bullhorn"></i></div>
+        <h3>Reclame Google și Facebook pentru proiect</h3>
+        <p>Campanii care aduc clienții promiși în proiect, cu rapoarte lunare pentru decont.</p>
+        <span class="fe-link__go">Vezi pagina →</span>
+      </a>
+      <a class="csi-card fe-link" href="/vizibilitate-proiect-fonduri-europene/">
+        <div class="csi-card__ico"><i class="fas fa-flag"></i></div>
+        <h3>Pagina proiectului și vizibilitatea</h3>
+        <p>Ce cere articolul 50: pagina de pe site, postările, afișul A3 și placa.</p>
+        <span class="fe-link__go">Vezi pagina →</span>
+      </a>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Întrebări <span class="acc">frecvente</span></h2>
+    </div>
+    <div class="csi-faq rv">
+      <details>
+        <summary>Poate fi finanțat un site din fonduri europene?</summary>
+        <p>Da, în programele care îl au la cheltuieli eligibile. Start-Up Nation scrie explicit site-ul de prezentare, magazinul online, domeniul și promovarea lor. Programele regionale îl acceptă la digitalizare sau la promovare, uneori numai alături de o investiție principală, cum e la microîntreprinderile din Nord-Est, apelul 2. Ghidul apelului decide.</p>
+      </details>
+      <details>
+        <summary>Ce trebuie să conțină oferta de preț pentru site?</summary>
+        <p>Datele furnizorului, numărul și data ofertei, valabilitatea, firma beneficiară și proiectul, fiecare serviciu pe rândul lui cu specificațiile și prețul, mențiunea despre TVA, termenul de livrare și condițiile de plată.</p>
+      </details>
+      <details>
+        <summary>Câte oferte îmi trebuie pentru site?</summary>
+        <p>Depinde de ghid. La microîntreprinderile din Nord-Est, apelul 2, costurile se justifică cu cel puțin două surse de preț. În alte programe se cer trei oferte sau dovada că ai verificat piața. Noi îți trimitem oferta noastră, iar celelalte vin de la firme independente, alese de tine.</p>
+      </details>
+      <details>
+        <summary>Când pot comanda site-ul?</summary>
+        <p>De la data de la care ghidul acceptă cheltuieli, de obicei după semnarea contractului de finanțare. Până atunci primești doar oferta, fără comandă fermă și fără avans.</p>
+      </details>
+      <details>
+        <summary>Ce se întâmplă dacă nu pun informațiile despre proiect pe site?</summary>
+        <p>Articolul 50 din Regulamentul (UE) 2021/1060 cere descrierea proiectului pe site-ul firmei, dacă există, și pe rețelele sociale. Dacă lipsesc și nu le completezi după ce ți se cere, autoritatea de management poate anula până la 3% din sprijinul UE.</p>
+      </details>
+      <details>
+        <summary>Prețul include TVA?</summary>
+        <p>Visience nu e plătitoare de TVA. Totalul din ofertă e suma de pe factură, fără TVA adăugat.</p>
+      </details>
+      <details>
+        <summary>Scrieți și cererea de finanțare?</summary>
+        <p>Lucrăm alături de consultantul tău: el scrie proiectul, noi îi dăm oferta și specificațiile tehnice, iar după contract livrăm partea digitală. Așa rămân furnizori diferiți, cum cere de exemplu Start-Up Nation.</p>
+      </details>
+      <details>
+        <summary>Cât timp trebuie să stea site-ul online?</summary>
+        <p>Cel puțin perioada de durabilitate din contractul de finanțare, de regulă trei ani la IMM-uri. Domeniul și găzduirea costă 100€ pe an și le trecem în ofertă pentru toată perioada.</p>
+      </details>
+      <details>
+        <summary>Lucrați și cu firme din alte județe?</summary>
+        <p>Da, cu firme din toată țara. Totul se face online: oferta, contractul, predarea și actele. Suntem în Iași, așa că în Nord-Est ne putem vedea și față în față.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-cta" aria-labelledby="csi-cta-h">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="dd dd-lg csi-cta__h" id="csi-cta-h">Ai un proiect pe fonduri europene?<br><span class="acc">Cere oferta pentru dosar.</span></h2>
+      <p class="csi-cta__p">Scrie-ne programul, termenul de depunere și ce trebuie să facă site-ul. În 24 de ore primești oferta defalcată și specificațiile tehnice.</p>
+      <div class="csi-cta__acts">
+        <a href="/contact/" class="btn btn-solid">Cere oferta</a>
+        <a href="tel:+40771486499" class="btn btn-dark">+40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Proiecte cu fonduri europene și prețuri">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Toate prețurile noastre sunt publice, serviciu cu serviciu. Sunt aceleași cifre pe care le trecem în oferta pentru dosar.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Proiecte cu fonduri europene</div>
+      <div class="rel-links__grid">
+        <a href="/oferta-site-fonduri-europene/" class="rel-link"><span class="rel-link__name">Model de ofertă și specificații tehnice <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/magazin-online-fonduri-europene/" class="rel-link"><span class="rel-link__name">Magazin online prin fonduri europene <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/site-start-up-nation/" class="rel-link"><span class="rel-link__name">Site și magazin pentru Start-Up Nation <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/reclame-fonduri-europene/" class="rel-link"><span class="rel-link__name">Reclame Google și Facebook pentru proiect <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/vizibilitate-proiect-fonduri-europene/" class="rel-link"><span class="rel-link__name">Pagina proiectului și vizibilitatea <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/pret-site-de-prezentare/" class="rel-link"><span class="rel-link__name">Preț site de prezentare <span class="arr" aria-hidden="true">↗</span></span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+3:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$6"}}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2225dsg-8gzx2.css","precedence":"next"}]
+5:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

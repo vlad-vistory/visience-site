@@ -1,0 +1,254 @@
+1:"$Sreact.fragment"
+7:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["/_next/static/chunks/2225dsg-8gzx2.css","style"]
+2:T163d,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://visience.ro/magazin-online-fonduri-europene/#webpage","url":"https://visience.ro/magazin-online-fonduri-europene/","name":"Magazin online finanțat prin proiect european","description":"Magazin online eligibil în proiecte europene și Start-Up Nation: plată cu cardul, transport, pagini ANPC, pagina proiectului. De la 1.000€, ofertă pentru dosar în 24 de ore.","inLanguage":"ro-RO","dateModified":"2026-10-13","isPartOf":{"@id":"https://visience.ro/#website"},"about":{"@id":"https://visience.ro/magazin-online-fonduri-europene/#service"}},{"@type":"Service","@id":"https://visience.ro/magazin-online-fonduri-europene/#service","name":"Creare magazin online pentru proiecte cu fonduri europene","serviceType":"Creare magazin online pentru proiecte cu fonduri europene","description":"Magazin online eligibil în proiecte europene și Start-Up Nation: plată cu cardul, transport, pagini ANPC, pagina proiectului. De la 1.000€, ofertă pentru dosar în 24 de ore.","url":"https://visience.ro/magazin-online-fonduri-europene/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"1000","highPrice":"3500","offerCount":"6"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Prețuri: Creare magazin online pentru proiecte cu fonduri europene","itemListElement":[{"@type":"Offer","name":"Magazin Basic","price":"1000","priceCurrency":"EUR","description":"Până la 6 pagini dinamice, plată cu cardul, transfer bancar și ramburs, transport configurat, galerie, GDPR și paginile cerute de protecția consumatorului, e-mailuri trimise prin SMTP, afișare corectă pe telefon. Livrare în 2–3 săptămâni.","itemOffered":{"@type":"Service","name":"Magazin Basic"}},{"@type":"Offer","name":"Magazin Standard","price":"1800","priceCurrency":"EUR","description":"Tot din Basic, plus 2 revizii de design, șablon de produs făcut pe marfa ta, produse sugerate, puncte cadou, e-mail pentru coșul abandonat, site în 2 limbi și 3 luni de mentenanță. Livrare în 4–6 săptămâni.","itemOffered":{"@type":"Service","name":"Magazin Standard"}},{"@type":"Offer","name":"Magazin Premium","price":"3500","priceCurrency":"EUR","description":"Tot din Standard, plus design unic, mega meniu cu imagini, chat live, configurator de produse, schema markup completă și analiza vizitatorilor. Livrare în 6–10 săptămâni.","itemOffered":{"@type":"Service","name":"Magazin Premium"}},{"@type":"Offer","name":"Google Analytics 4 și Search Console","price":"100","priceCurrency":"EUR","description":"Câți oameni intră pe site, din ce căutări și ce cereri trimit. Cifrele intră și în raportul de la finalul proiectului.","itemOffered":{"@type":"Service","name":"Google Analytics 4 și Search Console"}},{"@type":"Offer","name":"Google Shopping","price":"100","priceCurrency":"EUR","description":"Merchant Center, feed-ul de produse și campania.","itemOffered":{"@type":"Service","name":"Google Shopping"}},{"@type":"Offer","name":"Setup campanie și tracking","price":"200","priceCurrency":"EUR","description":"Contul publicitar pe firma ta, pixelul, evenimentele de conversie și legătura cu GA4.","itemOffered":{"@type":"Service","name":"Setup campanie și tracking"}}]}},{"@type":"FAQPage","@id":"https://visience.ro/magazin-online-fonduri-europene/#faq","mainEntity":[{"@type":"Question","name":"Poate fi finanțat un magazin online din fonduri europene?","acceptedAnswer":{"@type":"Answer","text":"Da, dacă programul îl are la cheltuieli eligibile. Start-Up Nation scrie explicit magazinul online, domeniul și promovarea lui. În programele regionale intră de obicei la digitalizare, alături de investiția principală."}},{"@type":"Question","name":"Cât costă un magazin online într-un proiect european?","acceptedAnswer":{"@type":"Answer","text":"La fel ca în afara proiectului: 1.000€ Basic, 1.800€ Standard, 3.500€ Premium. Se adaugă domeniul, 15€ pe an, și găzduirea, 85€ pe an. Pagina proiectului e inclusă."}},{"@type":"Question","name":"Cât durează până la lansare?","acceptedAnswer":{"@type":"Answer","text":"2–3 săptămâni pentru Basic, 4–6 pentru Standard, 6–10 pentru Premium, din ziua în care avem produsele și pozele."}},{"@type":"Question","name":"Pot vinde din prima zi după lansare?","acceptedAnswer":{"@type":"Answer","text":"Da. Plata cu cardul, transportul și e-mailurile de comandă sunt configurate și testate înainte de lansare."}},{"@type":"Question","name":"Magazinul rămâne al firmei mele?","acceptedAnswer":{"@type":"Answer","text":"Da. Îl plătești o dată, primești acces complet de administrator, iar drepturile patrimoniale de autor trec pe firma ta prin contract."}},{"@type":"Question","name":"Faceți și reclamele pentru magazin?","acceptedAnswer":{"@type":"Answer","text":"Da. Google Shopping costă 100€ o dată, iar campaniile Google și Meta 200€ pe lună, oricâte. Pot intra în același proiect, pe rânduri separate în ofertă."}},{"@type":"Question","name":"Prețul include TVA?","acceptedAnswer":{"@type":"Answer","text":"Visience nu e plătitoare de TVA. Totalul din ofertă e suma de pe factură, fără TVA adăugat."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Fonduri europene","item":"https://visience.ro/site-fonduri-europene/"},{"@type":"ListItem","position":3,"name":"Magazin online","item":"https://visience.ro/magazin-online-fonduri-europene/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"oZ2t3vdziEIDL9RyZefLT"}
+6:T3b77,<main id="main">
+
+<section class="csi-hero" aria-labelledby="csi-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="22%" x2="100%" y2="64%"/>
+      <line x1="0" y1="58%" x2="100%" y2="18%"/>
+      <line x1="24%" y1="0" x2="78%" y2="100%"/>
+      <line x1="66%" y1="0" x2="14%" y2="100%"/>
+    </svg>
+  </div>
+  <div class="wrap">
+    <nav class="csi-breadcrumbs" aria-label="Breadcrumbs">
+      <a href="/">Acasă</a><span class="sep">/</span>
+      <a href="/site-fonduri-europene/">Fonduri europene</a><span class="sep">/</span>
+      <span>Magazin online</span>
+    </nav>
+
+    <h1 class="csi-hero__h1" id="csi-h1">
+      Magazin online<br>
+      <span class="acc">finanțat prin proiect european</span>
+    </h1>
+
+    <p class="csi-hero__lead">În planul de afaceri ai scris că din luna a patra vinzi online. Banii pentru magazin sunt în buget, termenul curge, iar magazinul trebuie să ia comenzi adevărate, nu doar să existe la decont. Îl facem cu plata cu cardul, transportul calculat singur și paginile cerute de ANPC, plus pagina proiectului. Oferta pentru dosar o ai în 24 de ore.</p>
+
+    <div class="csi-hero__acts">
+      <a href="/contact/" class="btn btn-solid">Cere oferta pentru dosar</a>
+      <a href="#preturi" class="btn btn-ghost" style="border-color:rgba(255,255,255,.25);color:#fff">Vezi prețurile</a>
+    </div>
+
+    <div class="csi-hero__stats">
+      <div class="csi-hero__stat"><span class="n">1.000€</span><span class="l">Magazin Basic</span></div>
+      <div class="csi-hero__stat"><span class="n">1.800€</span><span class="l">Standard, cel mai ales</span></div>
+      <div class="csi-hero__stat"><span class="n">3.500€</span><span class="l">Premium</span></div>
+      <div class="csi-hero__stat"><span class="n">24 h</span><span class="l">oferta pentru dosar</span></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Ce trebuie să aibă <span class="acc">un magazin din proiect</span></h2>
+      <p class="body-lg" style="margin-top:14px">Un magazin finanțat trece prin două verificări: cea de la decont și cea a clientului care vrea să plătească. Le gândim pe amândouă de la început.</p>
+    </div>
+    <div class="csi-grid csi-grid--3 rv rv-d1">
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-credit-card"></i></div>
+        <h3>Plată cu cardul, transfer și ramburs</h3>
+        <p>Prin procesator autorizat. Clientul plătește în pagină, iar tu vezi comanda și plata în panou.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-truck"></i></div>
+        <h3>Transport calculat singur</h3>
+        <p>Pe greutate, pe zonă sau cu prag de livrare gratuită. Clientul vede costul înainte să plătească.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-scale-balanced"></i></div>
+        <h3>Paginile cerute de lege</h3>
+        <p>Termeni, retur, livrare, confidențialitate și cookie, plus legăturile către ANPC și platforma europeană SOL.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-universal-access"></i></div>
+        <h3>Accesibil</h3>
+        <p>Din 28 iunie 2025, magazinele online intră sub Actul european privind accesibilitatea (Directiva (UE) 2019/882), cu excepția microîntreprinderilor. Îl facem accesibil de la început: contrast, texte alternative, navigare cu tastatura.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-flag"></i></div>
+        <h3>Pagina proiectului</h3>
+        <p>Cu descrierea proiectului și sprijinul primit, cum cere programul tău. Inclusă în preț.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-chart-line"></i></div>
+        <h3>Măsurat din prima zi</h3>
+        <p>Google Analytics 4 și evenimentele de vânzare, pentru 100€, ca la final să ai cifrele pentru raportul de proiect.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream2" id="preturi">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Prețul magazinului, <span class="acc">variantă cu variantă</span></h2>
+      <p class="body-lg" style="margin-top:14px">Aceleași prețuri ca în afara proiectului. Plătești o dată, iar magazinul rămâne al firmei tale.</p>
+    </div>
+    <div class="csi-tbl rv rv-d1">
+      <table>
+        <thead>
+          <tr><th>Variantă</th><th>Preț</th><th>Ce primești</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Magazin Basic</td><td>1.000€</td><td>Până la 6 pagini dinamice, plată cu cardul, transfer bancar și ramburs, transport configurat, galerie, GDPR și paginile cerute de protecția consumatorului, e-mailuri trimise prin SMTP, afișare corectă pe telefon. Livrare în 2–3 săptămâni.</td></tr>
+          <tr><td>Magazin Standard</td><td>1.800€</td><td>Tot din Basic, plus 2 revizii de design, șablon de produs făcut pe marfa ta, produse sugerate, puncte cadou, e-mail pentru coșul abandonat, site în 2 limbi și 3 luni de mentenanță. Livrare în 4–6 săptămâni.</td></tr>
+          <tr><td>Magazin Premium</td><td>3.500€</td><td>Tot din Standard, plus design unic, mega meniu cu imagini, chat live, configurator de produse, schema markup completă și analiza vizitatorilor. Livrare în 6–10 săptămâni.</td></tr>
+          <tr><td>Magazin Avansat</td><td>la cerere</td><td>Funcții gândite pe felul în care lucrezi. Îți spunem prețul după ce vedem ce îți trebuie.</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="fe-tbl-note rv rv-d2">Se adaugă domeniul, 15€ pe an, și găzduirea, 85€ pe an. Google Shopping, 100€. Pagina proiectului e inclusă.</p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Exemplu de ofertă <span class="acc">pentru un magazin în proiect</span></h2>
+      <p class="body-lg" style="margin-top:14px">Un magazin de start cu primele trei luni de promovare, într-un proiect cu durabilitate de 3 ani.</p>
+    </div>
+    <div class="csi-tbl rv rv-d1">
+      <table>
+        <thead>
+          <tr><th>Serviciu</th><th>Preț</th><th>Ce conține</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Magazin Basic</td><td>1.000€</td><td>Plată cu cardul, transfer și ramburs, transport configurat, paginile cerute de protecția consumatorului, afișare corectă pe telefon.</td></tr>
+          <tr><td>Pagina proiectului</td><td>inclusă</td><td>Titlul, beneficiarul, obiectivele, rezultatele, valoarea și sprijinul UE, cu emblema și mențiunea de finanțare în primul ecran, cum cere art. 50 din Regulamentul (UE) 2021/1060.</td></tr>
+          <tr><td>Domeniu .ro, 3 ani</td><td>45€</td><td>3 × 15€, înregistrat pe numele firmei beneficiare.</td></tr>
+          <tr><td>Găzduire, 3 ani</td><td>255€</td><td>3 × 85€. Site-ul rămâne online toată perioada de durabilitate a proiectului.</td></tr>
+          <tr><td>Google Analytics 4 și Search Console</td><td>100€</td><td>Câți oameni intră pe site, din ce căutări și ce cereri trimit. Cifrele intră și în raportul de la finalul proiectului.</td></tr>
+          <tr><td>Google Shopping</td><td>100€</td><td>Merchant Center, feed-ul de produse și campania.</td></tr>
+          <tr><td>Setup campanie și tracking</td><td>200€</td><td>Contul publicitar pe firma ta, pixelul, evenimentele de conversie și legătura cu GA4.</td></tr>
+          <tr><td>Management campanii Google și Meta, 3 luni</td><td>600€</td><td>3 × 200€, oricâte campanii, raport lunar. Bugetul de afișare se plătește direct la platforme.</td></tr>
+        </tbody>
+        <tfoot>
+          <tr><td>Total</td><td>2.300€</td><td>Fără TVA adăugat: Visience nu e plătitoare de TVA.</td></tr>
+        </tfoot>
+      </table>
+    </div>
+    <p class="fe-tbl-note rv rv-d2">Vezi <a href="/oferta-site-fonduri-europene/">modelul complet de ofertă și specificațiile tehnice pentru magazin</a>.</p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream" id="exemple">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Magazine online <span class="acc">livrate</span></h2>
+      <p class="body-lg" style="margin-top:14px">Magazine cu comenzi și plăți reale. Intră pe ele și vezi ce primești.</p>
+    </div>
+    <div class="csi-porto csi-porto--3 rv rv-d1">
+      <a class="csi-shot" href="https://luciarosca.ro/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/luciarosca.avif" alt="Magazin online Lucia Roșca, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Lucia Roșca, modă feminină</strong>Magazin refăcut pentru un brand de modă: catalog pe categorii, pagini de colecție și comenzi personalizate.<span class="csi-shot__url">luciarosca.ro ↗</span></div>
+      </a>
+      <a class="csi-shot" href="https://carmangeriaevei.ro/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/carmangeria.avif" alt="Magazin online Carmangeria Evei, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Carmangeria Evei</strong>Magazin pentru un producător local din Călărași, cu livrare în 24–48 de ore, postări și campanii.<span class="csi-shot__url">carmangeriaevei.ro ↗</span></div>
+      </a>
+      <a class="csi-shot" href="https://www.piesemoto.ro/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/piesemoto.avif" alt="Magazin online PieseMoto.ro, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>PieseMoto.ro</strong>Piese, accesorii și echipamente moto: catalog pe categorii, livrare și retur, cont de client.<span class="csi-shot__url">piesemoto.ro ↗</span></div>
+      </a>
+    </div>
+    <div class="rv rv-d2" style="text-align:center;margin-top:34px">
+      <a href="/portofoliu/" class="btn btn-ghost">Vezi tot portofoliul →</a>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Întrebări <span class="acc">frecvente</span></h2>
+    </div>
+    <div class="csi-faq rv">
+      <details>
+        <summary>Poate fi finanțat un magazin online din fonduri europene?</summary>
+        <p>Da, dacă programul îl are la cheltuieli eligibile. Start-Up Nation scrie explicit magazinul online, domeniul și promovarea lui. În programele regionale intră de obicei la digitalizare, alături de investiția principală.</p>
+      </details>
+      <details>
+        <summary>Cât costă un magazin online într-un proiect european?</summary>
+        <p>La fel ca în afara proiectului: 1.000€ Basic, 1.800€ Standard, 3.500€ Premium. Se adaugă domeniul, 15€ pe an, și găzduirea, 85€ pe an. Pagina proiectului e inclusă.</p>
+      </details>
+      <details>
+        <summary>Cât durează până la lansare?</summary>
+        <p>2–3 săptămâni pentru Basic, 4–6 pentru Standard, 6–10 pentru Premium, din ziua în care avem produsele și pozele.</p>
+      </details>
+      <details>
+        <summary>Pot vinde din prima zi după lansare?</summary>
+        <p>Da. Plata cu cardul, transportul și e-mailurile de comandă sunt configurate și testate înainte de lansare.</p>
+      </details>
+      <details>
+        <summary>Magazinul rămâne al firmei mele?</summary>
+        <p>Da. Îl plătești o dată, primești acces complet de administrator, iar drepturile patrimoniale de autor trec pe firma ta prin contract.</p>
+      </details>
+      <details>
+        <summary>Faceți și reclamele pentru magazin?</summary>
+        <p>Da. Google Shopping costă 100€ o dată, iar campaniile Google și Meta 200€ pe lună, oricâte. Pot intra în același proiect, pe rânduri separate în ofertă.</p>
+      </details>
+      <details>
+        <summary>Prețul include TVA?</summary>
+        <p>Visience nu e plătitoare de TVA. Totalul din ofertă e suma de pe factură, fără TVA adăugat.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-cta" aria-labelledby="csi-cta-h">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="dd dd-lg csi-cta__h" id="csi-cta-h">Ai magazinul în planul de afaceri?<br><span class="acc">Cere oferta pentru dosar.</span></h2>
+      <p class="csi-cta__p">Spune-ne programul, câte produse ai și cum livrezi. În 24 de ore primești oferta defalcată și specificațiile tehnice.</p>
+      <div class="csi-cta__acts">
+        <a href="/contact/" class="btn btn-solid">Cere oferta</a>
+        <a href="tel:+40771486499" class="btn btn-dark">+40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Proiecte cu fonduri europene și prețuri">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Toate prețurile noastre sunt publice, serviciu cu serviciu. Sunt aceleași cifre pe care le trecem în oferta pentru dosar.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Proiecte cu fonduri europene</div>
+      <div class="rel-links__grid">
+        <a href="/site-fonduri-europene/" class="rel-link"><span class="rel-link__name">Site pentru fonduri europene <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/oferta-site-fonduri-europene/" class="rel-link"><span class="rel-link__name">Model de ofertă și specificații tehnice <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/site-start-up-nation/" class="rel-link"><span class="rel-link__name">Site și magazin pentru Start-Up Nation <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/reclame-fonduri-europene/" class="rel-link"><span class="rel-link__name">Reclame Google și Facebook pentru proiect <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/vizibilitate-proiect-fonduri-europene/" class="rel-link"><span class="rel-link__name">Pagina proiectului și vizibilitatea <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/preturi/" class="rel-link"><span class="rel-link__name">Toate prețurile <span class="arr" aria-hidden="true">↗</span></span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+3:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$6"}}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2225dsg-8gzx2.css","precedence":"next"}]
+5:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null
