@@ -21,6 +21,10 @@ RewriteRule ^ - [L]
 RewriteRule ^sitemap_index\.xml$ /sitemap.xml [R=301,L]
 RewriteRule ^(post|page|category)-sitemap\.xml$ /sitemap.xml [R=301,L]
 
+# variantele scoase pe 14.10.2026 -> pretul site-ului de prezentare
+RewriteRule ^site-o-pagina/?$ /pret-site-de-prezentare/ [R=301,L]
+RewriteRule ^site-999-lei/?$ /pret-site-de-prezentare/ [R=301,L]
+
 # URL-urile vechi WordPress -> paginile noi (301)
 RewriteRule ^creare-sitede-prezentare/?$ /creare-site-prezentare/ [R=301,L]
 RewriteRule ^ppc-google-meta-ads/?$ /google-meta-ads/ [R=301,L]

@@ -12,13 +12,12 @@
 - [Acasă](https://visience.ro/): agenție de marketing digital și web design din Iași
 - [Creare site Iași](https://visience.ro/creare-site-prezentare-iasi/): agenția de web design din Iași, cu prețuri publice și exemple din oraș
 - [Reclame online în Iași](https://visience.ro/reclame-online-iasi/): campanii Google, Facebook și Instagram pe cartiere, pe județ sau pe ieșenii plecați; 200€ pe lună, oricâte campanii
-- [Site de o pagină](https://visience.ro/site-o-pagina/): 200€ (999 lei), gata în 2 zile, domeniu și găzduire incluse în primul an
 - [Creare site de prezentare](https://visience.ro/creare-site-prezentare/): site-uri pentru firme, cu SEO tehnic și CMS editabil; variante locale pentru Iași, Bacău și București
 - [Creare magazin online](https://visience.ro/creare-magazin-online/): magazine WooCommerce și Shopify, de la 1.000€
 - [Marketing pentru dezvoltatori imobiliari](https://visience.ro/marketing-dezvoltatori-imobiliari/): brand de ansamblu, site de proiect cu planuri și prețuri, campanii Google & Meta, plan pe etape, de la autorizație până la ultimele unități din fiecare fază
 - [Marketing imobiliar în Iași](https://visience.ro/marketing-imobiliar-iasi/): varianta locală, cu proiecte din Iași și campanii pe diaspora
 - [Prețuri publice pentru toate serviciile](https://visience.ro/preturi/)
-- [Preț site de prezentare](https://visience.ro/pret-site-de-prezentare/): de la 200€ la 2.500€, plus costurile an de an după lansare
+- [Preț site de prezentare](https://visience.ro/pret-site-de-prezentare/): de la 500€ la 2.500€, plus costurile an de an după lansare
 - [Preț magazin online](https://visience.ro/pret-magazin-online/): 1.000€, 1.800€ sau 3.500€, ce primești la fiecare și cât plătești pe an
 - [Preț administrare Google Ads](https://visience.ro/pret-administrare-google-ads/): 200€ pe lună, oricâte campanii pe Google și Meta, cu calcule pe bugete de 500€, 1.000€ și 2.000€
 - [Portofoliu](https://visience.ro/portofoliu/)
@@ -65,7 +64,6 @@
 - [Cum vinzi apartamente înainte de finalizarea construcției](https://visience.ro/blog/cum-vinzi-apartamente-inainte-de-finalizarea-constructiei/): randări cu prețuri, progres de șantier, rezervare cu avans mic
 
 ## Servicii și prețuri orientative
-- Site de o pagină — 200€, gata în 2 zile, cu domeniu și găzduire incluse în primul an
 - Landing page de campanie — 500€
 - Creare website de prezentare — de la 750€ (Standard 1.200€, Premium 2.500€+)
 - Creare magazin online — de la 1.000€

@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
-6:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+6:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
 :HL["/_next/static/chunks/2225dsg-8gzx2.css","style"]
-2:T863,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-pensiune/#service","name":"Creare site pentru pensiune și cazare","serviceType":"Creare site pentru pensiune și cazare","description":"Site pentru pensiune și cazare: camere cu poze și prețuri, rezervare directă, recenzii și hartă, în română și engleză. De la 200€, gata în 2 zile.","url":"https://visience.ro/creare-site-pensiune/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"200","highPrice":"750","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-pensiune/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site pentru pensiune?","acceptedAnswer":{"@type":"Answer","text":"200€ un site de o pagină cu camerele, prețurile și harta, gata în 2 zile. 750€ un site de până la 6 pagini, cu galerie și o pagină pe fiecare cameră. Rezervările online se adaugă cu 200€, iar a doua limbă pornește de la 100€."}},{"@type":"Question","name":"Pot primi rezervări direct pe site?","acceptedAnswer":{"@type":"Answer","text":"Da. Oaspetele alege datele și camera, iar cererea ajunge la tine pe e-mail. Pe rezervările făcute direct plătești zero comision platformelor."}},{"@type":"Question","name":"Pot schimba singur prețurile pe sezon?","acceptedAnswer":{"@type":"Answer","text":"Da, din panou. Prețul pe noapte se schimbă în câteva minute, fără să ne suni."}},{"@type":"Question","name":"Mă ajutați și cu Google Maps?","acceptedAnswer":{"@type":"Answer","text":"Da. Completăm profilul Google Business cu poze, camere și link spre site. Costă 300€, o singură dată."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Site-uri pe domenii","item":"https://visience.ro/site-uri-pe-domenii/"},{"@type":"ListItem","position":3,"name":"Site pentru pensiune","item":"https://visience.ro/creare-site-pensiune/"}]}]}3:T2bfc,<main id="main">
+2:T814,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-pensiune/#service","name":"Creare site pentru pensiune și cazare","serviceType":"Creare site pentru pensiune și cazare","description":"Site pentru pensiune și cazare: camere cu poze și prețuri, rezervare directă, recenzii și hartă, în română și engleză. De la 750€, prețuri publice.","url":"https://visience.ro/creare-site-pensiune/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"200","highPrice":"750","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-pensiune/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site pentru pensiune?","acceptedAnswer":{"@type":"Answer","text":"750€ un site de până la 6 pagini, cu galerie și o pagină pe fiecare cameră. Rezervările online se adaugă cu 200€, iar a doua limbă pornește de la 100€."}},{"@type":"Question","name":"Pot primi rezervări direct pe site?","acceptedAnswer":{"@type":"Answer","text":"Da. Oaspetele alege datele și camera, iar cererea ajunge la tine pe e-mail. Pe rezervările făcute direct plătești zero comision platformelor."}},{"@type":"Question","name":"Pot schimba singur prețurile pe sezon?","acceptedAnswer":{"@type":"Answer","text":"Da, din panou. Prețul pe noapte se schimbă în câteva minute, fără să ne suni."}},{"@type":"Question","name":"Mă ajutați și cu Google Maps?","acceptedAnswer":{"@type":"Answer","text":"Da. Completăm profilul Google Business cu poze, camere și link spre site. Costă 300€, o singură dată."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Site-uri pe domenii","item":"https://visience.ro/site-uri-pe-domenii/"},{"@type":"ListItem","position":3,"name":"Site pentru pensiune","item":"https://visience.ro/creare-site-pensiune/"}]}]}3:T2b4e,<main id="main">
 
 <section class="csi-hero" aria-labelledby="csi-h1">
   <div class="line-bg" aria-hidden="true">
@@ -33,7 +33,7 @@
     </div>
 
     <div class="csi-hero__stats">
-      <div class="csi-hero__stat"><span class="n">200€</span><span class="l">site de o pagină</span></div>
+      <div class="csi-hero__stat"><span class="n">300€</span><span class="l">profil Google Business</span></div>
       <div class="csi-hero__stat"><span class="n">750€</span><span class="l">site cu camere și galerie</span></div>
       <div class="csi-hero__stat"><span class="n">+200€</span><span class="l">rezervări online</span></div>
       <div class="csi-hero__stat"><span class="n">12 ani</span><span class="l">experiență</span></div>
@@ -119,9 +119,9 @@
     </div>
     <div class="csi-pr rv rv-d1">
       <div class="csi-pr-card">
-        <div class="csi-pr-card__name">Site de o pagină</div>
-        <div class="csi-pr-card__price">200€</div>
-        <p class="csi-pr-card__desc">Camerele, prețurile, harta și telefonul, gata în 2 zile. Domeniul și găzduirea incluse în primul an.</p>
+        <div class="csi-pr-card__name">Profil Google Business</div>
+        <div class="csi-pr-card__price">300€</div>
+        <p class="csi-pr-card__desc">Creat sau refăcut, cu camerele, pozele și recenziile, ca pensiunea să apară pe hartă.</p>
       </div>
       <div class="csi-pr-card feat">
         <span class="csi-pr-card__badge">Recomandat</span>
@@ -141,7 +141,7 @@
       </div>
     </div>
     <p class="csi-pr-note rv rv-d2">
-      La site-urile de mai multe pagini se adaugă domeniul (15€) și găzduirea (85€ pe an). Profilul Google Business completat costă 300€, o singură dată. <a href="/preturi/">Vezi toate prețurile</a> sau <a href="/contact/">cere o ofertă</a>. Răspundem în 24 de ore.
+      La orice site se adaugă domeniul (15€) și găzduirea (85€ pe an). <a href="/preturi/">Vezi toate prețurile</a> sau <a href="/contact/">cere o ofertă</a>. Răspundem în 24 de ore.
     </p>
   </div>
 </section>
@@ -155,7 +155,7 @@
     <div class="csi-faq rv">
       <details>
         <summary>Cât costă un site pentru pensiune?</summary>
-        <p>200€ un site de o pagină cu camerele, prețurile și harta, gata în 2 zile. 750€ un site de până la 6 pagini, cu galerie și o pagină pe fiecare cameră. Rezervările online se adaugă cu 200€, iar a doua limbă pornește de la 100€.</p>
+        <p>750€ un site de până la 6 pagini, cu galerie și o pagină pe fiecare cameră. Rezervările online se adaugă cu 200€, iar a doua limbă pornește de la 100€.</p>
       </details>
       <details>
         <summary>Pot primi rezervări direct pe site?</summary>
@@ -210,7 +210,7 @@
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"oZ2t3vdziEIDL9RyZefLT"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"qsZaYob-h3L5ejKkelUiG"}
 4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2225dsg-8gzx2.css","precedence":"next"}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null

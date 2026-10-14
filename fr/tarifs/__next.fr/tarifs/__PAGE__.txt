@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-5:I[97367,["/_next/static/chunks/128am0rogg1gy.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+5:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 6:"$Sreact.suspense"
-2:T948,{"@context":"https://schema.org","@graph":[{"@type":"OfferCatalog","@id":"https://visience.ro/fr/tarifs/#catalog","name":"Services et tarifs Visience","inLanguage":"fr","itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Site d’une page, prêt en 2 jours"}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Landing page de campagne"}},{"@type":"Offer","priceCurrency":"EUR","price":"750","itemOffered":{"@type":"Service","name":"Site vitrine Basic, jusqu'à 6 pages"}},{"@type":"Offer","priceCurrency":"EUR","price":"1200","itemOffered":{"@type":"Service","name":"Site vitrine Standard, 10 pages avec SEO on-page complet"}},{"@type":"Offer","priceCurrency":"EUR","price":"2500","itemOffered":{"@type":"Service","name":"Site vitrine Premium"}},{"@type":"Offer","priceCurrency":"EUR","price":"1000","itemOffered":{"@type":"Service","name":"Boutique en ligne Basic"}},{"@type":"Offer","priceCurrency":"EUR","price":"1800","itemOffered":{"@type":"Service","name":"Boutique en ligne Standard"}},{"@type":"Offer","priceCurrency":"EUR","price":"3500","itemOffered":{"@type":"Service","name":"Boutique en ligne Premium"}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Logo Basic"}},{"@type":"Offer","priceCurrency":"EUR","price":"1200","itemOffered":{"@type":"Service","name":"Identité visuelle complète"}},{"@type":"Offer","priceCurrency":"EUR","price":"2500","itemOffered":{"@type":"Service","name":"Brand book avec logo animé"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Gestion de campagnes, mensuel, quel que soit le nombre de campagnes"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Configuration de campagne et mesure"}},{"@type":"Offer","priceCurrency":"EUR","price":"600","itemOffered":{"@type":"Service","name":"Stratégie SEO complète, mensuel"}},{"@type":"Offer","priceCurrency":"EUR","price":"450","itemOffered":{"@type":"Service","name":"Réseaux sociaux, 15 publications par mois"}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://visience.ro/fr/"},{"@type":"ListItem","position":2,"name":"Tarifs","item":"https://visience.ro/fr/tarifs/"}]}]}3:T16228,<style>
+2:T8c3,{"@context":"https://schema.org","@graph":[{"@type":"OfferCatalog","@id":"https://visience.ro/fr/tarifs/#catalog","name":"Services et tarifs Visience","inLanguage":"fr","itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Landing page de campagne"}},{"@type":"Offer","priceCurrency":"EUR","price":"750","itemOffered":{"@type":"Service","name":"Site vitrine Basic, jusqu'à 6 pages"}},{"@type":"Offer","priceCurrency":"EUR","price":"1200","itemOffered":{"@type":"Service","name":"Site vitrine Standard, 10 pages avec SEO on-page complet"}},{"@type":"Offer","priceCurrency":"EUR","price":"2500","itemOffered":{"@type":"Service","name":"Site vitrine Premium"}},{"@type":"Offer","priceCurrency":"EUR","price":"1000","itemOffered":{"@type":"Service","name":"Boutique en ligne Basic"}},{"@type":"Offer","priceCurrency":"EUR","price":"1800","itemOffered":{"@type":"Service","name":"Boutique en ligne Standard"}},{"@type":"Offer","priceCurrency":"EUR","price":"3500","itemOffered":{"@type":"Service","name":"Boutique en ligne Premium"}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Logo Basic"}},{"@type":"Offer","priceCurrency":"EUR","price":"1200","itemOffered":{"@type":"Service","name":"Identité visuelle complète"}},{"@type":"Offer","priceCurrency":"EUR","price":"2500","itemOffered":{"@type":"Service","name":"Brand book avec logo animé"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Gestion de campagnes, mensuel, quel que soit le nombre de campagnes"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Configuration de campagne et mesure"}},{"@type":"Offer","priceCurrency":"EUR","price":"600","itemOffered":{"@type":"Service","name":"Stratégie SEO complète, mensuel"}},{"@type":"Offer","priceCurrency":"EUR","price":"450","itemOffered":{"@type":"Service","name":"Réseaux sociaux, 15 publications par mois"}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://visience.ro/fr/"},{"@type":"ListItem","position":2,"name":"Tarifs","item":"https://visience.ro/fr/tarifs/"}]}]}3:T15cf4,<style>
 .pr-hero {
   position: relative;
   padding: calc(var(--nav-h) + 90px) 0 80px;
@@ -577,7 +577,7 @@
     <div class="pr-sec__head rv">
       <h2 class="pr-sec__h2" id="site-h2">Combien coûte un <span class="acc">site vitrine ?</span></h2>
       <p class="pr-sec__lead">
-        Nous construisons des sites au design unique, d’un <strong>site d’une page à 200€</strong>, prêt en 2 jours, jusqu’à <strong>2.500€+ pour le Website Premium</strong>. Le forfait le plus choisi, Standard, coûte <strong>1.200€</strong>. Pour le site d’une page, le domaine et l’hébergement sont inclus la première année ; pour les autres s’ajoutent 15€ de domaine et 85 €/an d’hébergement.
+        Nous construisons des sites au design unique, d’une <strong>landing page de campagne à 500€</strong> jusqu’à <strong>2.500€+ pour le Website Premium</strong>. Le forfait le plus choisi, Standard, coûte <strong>1.200€</strong>. À chaque site s’ajoutent 15€ de domaine et 85 €/an d’hébergement.
       </p>
     </div>
 
@@ -585,22 +585,7 @@
       Vous cherchez à créer un <strong>site vitrine professionnel pour votre entreprise</strong> ? Nous réalisons des sites sous <strong>WordPress</strong>, optimisés pour les moteurs de recherche, avec un design personnalisé et un panneau d’administration simple à utiliser. Que vous vouliez une landing page rapide pour tester le marché ou un site complet avec blog, pages de services dédiées et animations interactives, toutes les options sont ci-dessous. <a href="#contact">Demander un devis personnalisé →</a>
     </p>
 
-    <div class="pr-grid cols-5 rv rv-d1">
-
-      <div class="pr-card compact">
-        <div class="pr-card__name">Site d’une page</div>
-        <div class="pr-card__price">200€</div>
-        <div class="pr-card__price-note">Coût unique · prêt en 2 jours</div>
-        <p class="pr-card__desc">Un site d’une page pour votre entreprise, avec le domaine et l’hébergement inclus la première année.</p>
-        <div class="pr-card__feats">
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Design à l’image de votre entreprise</span></div>
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Textes rédigés par nous</span></div>
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Formulaire + WhatsApp</span></div>
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Référencé sur Google</span></div>
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Domaine + hébergement, première année</span></div>
-        </div>
-        <a href="#contact" class="pr-card__cta">Demander</a>
-      </div>
+    <div class="pr-grid cols-4 rv rv-d1">
 
       <div class="pr-card compact">
         <div class="pr-card__name">Landing page de campagne</div>
@@ -664,7 +649,7 @@
     </div>
 
     <p class="pr-seo-intro rv rv-d2" style="margin-top:36px;text-align:center;font-size:14px">
-      <strong>Website Avancé</strong> — tarif sur demande, selon la complexité du projet. Coûts supplémentaires : <strong>15€</strong> domaine, <strong>85 €/an</strong> hébergement (inclus la première année pour le site d’une page).
+      <strong>Website Avancé</strong> — tarif sur demande, selon la complexité du projet. Coûts supplémentaires : <strong>15€</strong> domaine, <strong>85 €/an</strong> hébergement.
     </p>
 
   </div>
@@ -1690,7 +1675,7 @@
     <div class="rel-trans">
       <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Aucun tarif caché</span>
       <h2>C’est ça, notre différence.</h2>
-      <p>Visience est une agence de marketing et de web basée à Iași qui publie ses tarifs : 200€ un site d’une page, 500€ une landing page, à partir de 750€ un site vitrine, à partir de 1.000€ une boutique en ligne, 200€ par mois la gestion des campagnes Google et Meta, quel que soit leur nombre, à partir de 600€ par mois le SEO. Ce sont les chiffres des devis que nous envoyons, pas un point de départ pour négocier.</p>
+      <p>Visience est une agence de marketing et de web basée à Iași qui publie ses tarifs : 500€ une landing page, à partir de 750€ un site vitrine, à partir de 1.000€ une boutique en ligne, 200€ par mois la gestion des campagnes Google et Meta, quel que soit leur nombre, à partir de 600€ par mois le SEO. Ce sont les chiffres des devis que nous envoyons, pas un point de départ pour négocier.</p>
       <a href="/fr/portfolio/" class="rel-trans__link">Voir le portfolio <span aria-hidden="true">→</span></a>
     </div>
     <div class="rel-links">
@@ -1705,6 +1690,6 @@
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"oZ2t3vdziEIDL9RyZefLT"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"qsZaYob-h3L5ejKkelUiG"}
 4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
 7:null
