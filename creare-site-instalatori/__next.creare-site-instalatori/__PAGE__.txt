@@ -2,7 +2,7 @@
 6:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
 :HL["/_next/static/chunks/2225dsg-8gzx2.css","style"]
-2:T896,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-instalatori/#service","name":"Creare site pentru instalatori și firme de foraje","serviceType":"Creare site pentru instalatori și firme de foraje","description":"Site pentru instalatori și foraje: telefon la vedere, servicii pe pagini, zone deservite, recenzii. Exemple: Instalator Timișoara, Foraje și Puțuri.","url":"https://visience.ro/creare-site-instalatori/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"200","highPrice":"750","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-instalatori/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site pentru instalator?","acceptedAnswer":{"@type":"Answer","text":"750€ un site de până la 6 pagini, câte una pe serviciu. Campaniile costă 200€ pe lună, oricâte."}},{"@type":"Question","name":"Ce e cel mai important pe site-ul unui instalator?","acceptedAnswer":{"@type":"Answer","text":"Telefonul, pus sus și ușor de apăsat pe mobil, și o pagină pentru fiecare serviciu. Oamenii caută exact problema lor, de exemplu „desfundare canalizare” și orașul."}},{"@type":"Question","name":"Faceți site-uri și pentru firme de foraje?","acceptedAnswer":{"@type":"Answer","text":"Da. La Foraje și Puțuri am făcut site-ul, paginile pe zone și campaniile Google Ads."}},{"@type":"Question","name":"Merită reclame Google pentru urgențe?","acceptedAnswer":{"@type":"Answer","text":"Da, pentru căutările cu „urgent” sau „non-stop” în ele: omul vrea să sune pe loc. Campaniile costă 200€ pe lună, oricâte, iar bugetul de reclamă se plătește direct platformelor."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Site-uri pe domenii","item":"https://visience.ro/site-uri-pe-domenii/"},{"@type":"ListItem","position":3,"name":"Site pentru instalatori și foraje","item":"https://visience.ro/creare-site-instalatori/"}]}]}3:T2e85,<main id="main">
+2:T8da,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-instalatori/#service","name":"Creare site pentru instalatori și firme de foraje","serviceType":"Creare site pentru instalatori și firme de foraje","description":"Site pentru instalatori și foraje: telefon la vedere, servicii pe pagini, zone deservite, recenzii. Exemple: Instalator Timișoara, Foraje și Puțuri.","url":"https://visience.ro/creare-site-instalatori/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"200","highPrice":"750","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-instalatori/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site pentru instalator?","acceptedAnswer":{"@type":"Answer","text":"750€ un site de până la 6 pagini, câte una pe serviciu. Campaniile costă 200€ pe lună pe Google și 200€ pe lună pe Meta, oricâte pe fiecare platformă."}},{"@type":"Question","name":"Ce e cel mai important pe site-ul unui instalator?","acceptedAnswer":{"@type":"Answer","text":"Telefonul, pus sus și ușor de apăsat pe mobil, și o pagină pentru fiecare serviciu. Oamenii caută exact problema lor, de exemplu „desfundare canalizare” și orașul."}},{"@type":"Question","name":"Faceți site-uri și pentru firme de foraje?","acceptedAnswer":{"@type":"Answer","text":"Da. La Foraje și Puțuri am făcut site-ul, paginile pe zone și campaniile Google Ads."}},{"@type":"Question","name":"Merită reclame Google pentru urgențe?","acceptedAnswer":{"@type":"Answer","text":"Da, pentru căutările cu „urgent” sau „non-stop” în ele: omul vrea să sune pe loc. Campaniile Google costă 200€ pe lună, oricâte, iar bugetul de reclamă se plătește direct către Google."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Site-uri pe domenii","item":"https://visience.ro/site-uri-pe-domenii/"},{"@type":"ListItem","position":3,"name":"Site pentru instalatori și foraje","item":"https://visience.ro/creare-site-instalatori/"}]}]}3:T2f12,<main id="main">
 
 <section class="csi-hero" aria-labelledby="csi-h1">
   <div class="line-bg" aria-hidden="true">
@@ -35,7 +35,7 @@
     <div class="csi-hero__stats">
       <div class="csi-hero__stat"><span class="n">300€</span><span class="l">profil Google Business</span></div>
       <div class="csi-hero__stat"><span class="n">750€</span><span class="l">site cu servicii și zone</span></div>
-      <div class="csi-hero__stat"><span class="n">200€/lună</span><span class="l">campanii, oricâte</span></div>
+      <div class="csi-hero__stat"><span class="n">200€/lună</span><span class="l">campanii Google sau Meta, pe platformă</span></div>
       <div class="csi-hero__stat"><span class="n">3</span><span class="l">firme de instalații și foraje</span></div>
     </div>
   </div>
@@ -141,9 +141,9 @@
         <p class="csi-pr-card__desc">O singură pagină făcută pentru reclame, cu telefonul și formularul.</p>
       </div>
       <div class="csi-pr-card">
-        <div class="csi-pr-card__name">Campanii Google și Meta</div>
+        <div class="csi-pr-card__name">Campanii Google sau Meta</div>
         <div class="csi-pr-card__price">200€/lună</div>
-        <p class="csi-pr-card__desc">Oricâte campanii, cu raport lunar. Minim 3 luni.</p>
+        <p class="csi-pr-card__desc">Pe fiecare platformă, oricâte campanii, cu raport lunar. Pe amândouă: 400€/lună. Minim 3 luni.</p>
       </div>
     </div>
     <p class="csi-pr-note rv rv-d2">
@@ -161,7 +161,7 @@
     <div class="csi-faq rv">
       <details>
         <summary>Cât costă un site pentru instalator?</summary>
-        <p>750€ un site de până la 6 pagini, câte una pe serviciu. Campaniile costă 200€ pe lună, oricâte.</p>
+        <p>750€ un site de până la 6 pagini, câte una pe serviciu. Campaniile costă 200€ pe lună pe Google și 200€ pe lună pe Meta, oricâte pe fiecare platformă.</p>
       </details>
       <details>
         <summary>Ce e cel mai important pe site-ul unui instalator?</summary>
@@ -173,7 +173,7 @@
       </details>
       <details>
         <summary>Merită reclame Google pentru urgențe?</summary>
-        <p>Da, pentru căutările cu „urgent” sau „non-stop” în ele: omul vrea să sune pe loc. Campaniile costă 200€ pe lună, oricâte, iar bugetul de reclamă se plătește direct platformelor.</p>
+        <p>Da, pentru căutările cu „urgent” sau „non-stop” în ele: omul vrea să sune pe loc. Campaniile Google costă 200€ pe lună, oricâte, iar bugetul de reclamă se plătește direct către Google.</p>
       </details>
     </div>
   </div>
@@ -216,7 +216,7 @@
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"qsZaYob-h3L5ejKkelUiG"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wBSkL-u4O94_mY2wgLp6T"}
 4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2225dsg-8gzx2.css","precedence":"next"}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null

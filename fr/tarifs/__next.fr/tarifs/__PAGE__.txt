@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 5:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 6:"$Sreact.suspense"
-2:T8c3,{"@context":"https://schema.org","@graph":[{"@type":"OfferCatalog","@id":"https://visience.ro/fr/tarifs/#catalog","name":"Services et tarifs Visience","inLanguage":"fr","itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Landing page de campagne"}},{"@type":"Offer","priceCurrency":"EUR","price":"750","itemOffered":{"@type":"Service","name":"Site vitrine Basic, jusqu'à 6 pages"}},{"@type":"Offer","priceCurrency":"EUR","price":"1200","itemOffered":{"@type":"Service","name":"Site vitrine Standard, 10 pages avec SEO on-page complet"}},{"@type":"Offer","priceCurrency":"EUR","price":"2500","itemOffered":{"@type":"Service","name":"Site vitrine Premium"}},{"@type":"Offer","priceCurrency":"EUR","price":"1000","itemOffered":{"@type":"Service","name":"Boutique en ligne Basic"}},{"@type":"Offer","priceCurrency":"EUR","price":"1800","itemOffered":{"@type":"Service","name":"Boutique en ligne Standard"}},{"@type":"Offer","priceCurrency":"EUR","price":"3500","itemOffered":{"@type":"Service","name":"Boutique en ligne Premium"}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Logo Basic"}},{"@type":"Offer","priceCurrency":"EUR","price":"1200","itemOffered":{"@type":"Service","name":"Identité visuelle complète"}},{"@type":"Offer","priceCurrency":"EUR","price":"2500","itemOffered":{"@type":"Service","name":"Brand book avec logo animé"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Gestion de campagnes, mensuel, quel que soit le nombre de campagnes"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Configuration de campagne et mesure"}},{"@type":"Offer","priceCurrency":"EUR","price":"600","itemOffered":{"@type":"Service","name":"Stratégie SEO complète, mensuel"}},{"@type":"Offer","priceCurrency":"EUR","price":"450","itemOffered":{"@type":"Service","name":"Réseaux sociaux, 15 publications par mois"}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://visience.ro/fr/"},{"@type":"ListItem","position":2,"name":"Tarifs","item":"https://visience.ro/fr/tarifs/"}]}]}3:T15cf4,<style>
+2:T992,{"@context":"https://schema.org","@graph":[{"@type":"OfferCatalog","@id":"https://visience.ro/fr/tarifs/#catalog","name":"Services et tarifs Visience","inLanguage":"fr","itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Landing page de campagne"}},{"@type":"Offer","priceCurrency":"EUR","price":"750","itemOffered":{"@type":"Service","name":"Site vitrine Basic, jusqu'à 6 pages"}},{"@type":"Offer","priceCurrency":"EUR","price":"1200","itemOffered":{"@type":"Service","name":"Site vitrine Standard, 10 pages avec SEO on-page complet"}},{"@type":"Offer","priceCurrency":"EUR","price":"2500","itemOffered":{"@type":"Service","name":"Site vitrine Premium"}},{"@type":"Offer","priceCurrency":"EUR","price":"1000","itemOffered":{"@type":"Service","name":"Boutique en ligne Basic"}},{"@type":"Offer","priceCurrency":"EUR","price":"1800","itemOffered":{"@type":"Service","name":"Boutique en ligne Standard"}},{"@type":"Offer","priceCurrency":"EUR","price":"3500","itemOffered":{"@type":"Service","name":"Boutique en ligne Premium"}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Logo Basic"}},{"@type":"Offer","priceCurrency":"EUR","price":"1200","itemOffered":{"@type":"Service","name":"Identité visuelle complète"}},{"@type":"Offer","priceCurrency":"EUR","price":"2500","itemOffered":{"@type":"Service","name":"Brand book avec logo animé"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Gestion de campagnes Google Ads, mensuel, autant de campagnes que nécessaire"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Gestion de campagnes Meta Ads (Facebook et Instagram), mensuel, autant de campagnes que nécessaire"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Configuration de campagne et mesure"}},{"@type":"Offer","priceCurrency":"EUR","price":"600","itemOffered":{"@type":"Service","name":"Stratégie SEO complète, mensuel"}},{"@type":"Offer","priceCurrency":"EUR","price":"450","itemOffered":{"@type":"Service","name":"Réseaux sociaux, 15 publications par mois"}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://visience.ro/fr/"},{"@type":"ListItem","position":2,"name":"Tarifs","item":"https://visience.ro/fr/tarifs/"}]}]}3:T15db6,<style>
 .pr-hero {
   position: relative;
   padding: calc(var(--nav-h) + 90px) 0 80px;
@@ -978,7 +978,7 @@
     <div class="pr-sec__head rv">
       <h2 class="pr-sec__h2" id="ppc-h2">Combien coûte une <span class="acc">campagne Google Ads ?</span></h2>
       <p class="pr-sec__lead">
-        Gestion des campagnes Google &amp; Meta <strong>200 €/mois</strong>, quel que soit le nombre de campagnes (3 mois minimum), mise en place campagne &amp; tracking <strong>200€</strong> (offerte avec un contrat de 12 mois), remarketing <strong>200€</strong>, automatisations <strong>300€</strong>, Google Shopping <strong>100€</strong>. Le budget média se paie à part.
+        Gestion des campagnes <strong>200 €/mois par plateforme</strong>, Google Ads ou Meta (Facebook et Instagram), autant de campagnes que nécessaire sur chacune, les deux <strong>400 €/mois</strong> (3 mois minimum), mise en place campagne &amp; tracking <strong>200€</strong> (offerte avec un contrat de 12 mois), remarketing <strong>200€</strong>, automatisations <strong>300€</strong>, Google Shopping <strong>100€</strong>. Le budget média se paie à part.
       </p>
     </div>
 
@@ -989,13 +989,13 @@
     <div class="pr-grid cols-5 rv rv-d1">
 
       <div class="pr-card compact featured">
-        <span class="pr-card__badge">Un prix par mois</span>
-        <div class="pr-card__name">Gestion des campagnes Google &amp; Meta</div>
+        <span class="pr-card__badge">Un prix par plateforme</span>
+        <div class="pr-card__name">Gestion des campagnes Google ou Meta</div>
         <div class="pr-card__price">200 €<span style="font-size:14px;opacity:.7">/mois</span></div>
-        <div class="pr-card__price-note">quel que soit le nombre de campagnes · 3 mois minimum</div>
-        <p class="pr-card__desc">Nous gérons et optimisons vos campagnes Google Ads et Meta Ads, avec un focus sur les leads et les ventes réelles.</p>
+        <div class="pr-card__price-note">par plateforme, Google ou Meta · autant de campagnes que nécessaire · 3 mois minimum</div>
+        <p class="pr-card__desc">Nous gérons et optimisons vos campagnes Google Ads ou Meta Ads, avec un focus sur les leads et les ventes réelles. Les deux : 400 €/mois.</p>
         <div class="pr-card__feats">
-          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Google et Meta, autant de campagnes que nécessaire</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Par plateforme, autant de campagnes que nécessaire</span></div>
           <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Optimisation hebdomadaire</span></div>
           <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Créatives + textes des annonces</span></div>
           <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Rapport mensuel de performance</span></div>
@@ -1675,7 +1675,7 @@
     <div class="rel-trans">
       <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Aucun tarif caché</span>
       <h2>C’est ça, notre différence.</h2>
-      <p>Visience est une agence de marketing et de web basée à Iași qui publie ses tarifs : 500€ une landing page, à partir de 750€ un site vitrine, à partir de 1.000€ une boutique en ligne, 200€ par mois la gestion des campagnes Google et Meta, quel que soit leur nombre, à partir de 600€ par mois le SEO. Ce sont les chiffres des devis que nous envoyons, pas un point de départ pour négocier.</p>
+      <p>Visience est une agence de marketing et de web basée à Iași qui publie ses tarifs : 500€ une landing page, à partir de 750€ un site vitrine, à partir de 1.000€ une boutique en ligne, 200€ par mois et par plateforme la gestion des campagnes Google ou Meta, autant que nécessaire (400€ pour les deux), à partir de 600€ par mois le SEO. Ce sont les chiffres des devis que nous envoyons, pas un point de départ pour négocier.</p>
       <a href="/fr/portfolio/" class="rel-trans__link">Voir le portfolio <span aria-hidden="true">→</span></a>
     </div>
     <div class="rel-links">
@@ -1690,6 +1690,6 @@
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"qsZaYob-h3L5ejKkelUiG"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wBSkL-u4O94_mY2wgLp6T"}
 4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
 7:null

@@ -11,7 +11,7 @@
 ## Pagini principale
 - [Acasă](https://visience.ro/): agenție de marketing digital și web design din Iași
 - [Creare site Iași](https://visience.ro/creare-site-prezentare-iasi/): agenția de web design din Iași, cu prețuri publice și exemple din oraș
-- [Reclame online în Iași](https://visience.ro/reclame-online-iasi/): campanii Google, Facebook și Instagram pe cartiere, pe județ sau pe ieșenii plecați; 200€ pe lună, oricâte campanii
+- [Reclame online în Iași](https://visience.ro/reclame-online-iasi/): campanii Google, Facebook și Instagram pe cartiere, pe județ sau pe ieșenii plecați; 200€ pe lună pe platformă (Google sau Meta), oricâte campanii, 400€ pe amândouă
 - [Creare site de prezentare](https://visience.ro/creare-site-prezentare/): site-uri pentru firme, cu SEO tehnic și CMS editabil; variante locale pentru Iași, Bacău și București
 - [Creare magazin online](https://visience.ro/creare-magazin-online/): magazine WooCommerce și Shopify, de la 1.000€
 - [Marketing pentru dezvoltatori imobiliari](https://visience.ro/marketing-dezvoltatori-imobiliari/): brand de ansamblu, site de proiect cu planuri și prețuri, campanii Google & Meta, plan pe etape, de la autorizație până la ultimele unități din fiecare fază
@@ -19,7 +19,7 @@
 - [Prețuri publice pentru toate serviciile](https://visience.ro/preturi/)
 - [Preț site de prezentare](https://visience.ro/pret-site-de-prezentare/): de la 500€ la 2.500€, plus costurile an de an după lansare
 - [Preț magazin online](https://visience.ro/pret-magazin-online/): 1.000€, 1.800€ sau 3.500€, ce primești la fiecare și cât plătești pe an
-- [Preț administrare Google Ads](https://visience.ro/pret-administrare-google-ads/): 200€ pe lună, oricâte campanii pe Google și Meta, cu calcule pe bugete de 500€, 1.000€ și 2.000€
+- [Preț administrare Google Ads](https://visience.ro/pret-administrare-google-ads/): 200€ pe lună pentru Google Ads și 200€ pe lună pentru Meta, oricâte campanii pe fiecare platformă, cu calcule pe bugete de 500€, 1.000€ și 2.000€
 - [Portofoliu](https://visience.ro/portofoliu/)
 - [Blog](https://visience.ro/blog/): peste 100 de articole în română despre site-uri, SEO, reclame și marketing
 - [Contact](https://visience.ro/contact/): telefon, WhatsApp, email și formular
@@ -29,7 +29,7 @@
 - [Model de ofertă și specificații tehnice](https://visience.ro/oferta-site-fonduri-europene/): model de ofertă de preț pentru dosarul de finanțare, rând cu rând, și specificații tehnice neutre pentru site de prezentare, magazin online și promovare online
 - [Magazin online prin fonduri europene](https://visience.ro/magazin-online-fonduri-europene/): magazin online în proiect european: plată cu cardul, transport, pagini ANPC și SOL, accesibilitate, pagina proiectului; 1.000€ Basic, 1.800€ Standard, 3.500€ Premium
 - [Site și magazin pentru Start-Up Nation](https://visience.ro/site-start-up-nation/): site de prezentare, magazin online, domeniu și promovare pentru firmele din Start-Up Nation 2024; consultantul nu poate fi și furnizor; exemplu de ofertă
-- [Reclame Google și Facebook pentru proiect](https://visience.ro/reclame-fonduri-europene/): campanii Google și Meta pentru proiecte europene, 200€ pe lună oricâte campanii, raport lunar pentru decont, postări despre proiect cu emblema UE
+- [Reclame Google și Facebook pentru proiect](https://visience.ro/reclame-fonduri-europene/): campanii Google și Meta pentru proiecte europene, 200€ pe lună pe fiecare platformă, oricâte campanii, raport lunar pentru decont, postări despre proiect cu emblema UE
 - [Pagina proiectului și vizibilitatea](https://visience.ro/vizibilitate-proiect-fonduri-europene/): obligațiile din art. 50 al Regulamentului (UE) 2021/1060: descrierea proiectului pe site și pe rețelele sociale, afiș A3 sau placă, emblema UE, sancțiune de până la 3%
 
 ## Site-uri pe domenii
@@ -69,7 +69,7 @@
 - Creare magazin online — de la 1.000€
 - Branding și identitate vizuală — de la 1.200€ (logo de la 500€)
 - Social media management — de la 200€/lună (8 postări); strategie social media 300€
-- Management campanii Google & Meta Ads (PPC) — 200€/lună, oricâte campanii; setup 200€ (gratuit la contract pe 12 luni), remarketing 200€, automatizări 300€/secvență, Google Shopping 100€
+- Management campanii Google Ads sau Meta Ads (PPC) — 200€/lună pe platformă, oricâte campanii pe fiecare; pe amândouă 400€/lună; setup 200€ (gratuit la contract pe 12 luni), remarketing 200€, automatizări 300€/secvență, Google Shopping 100€
 - SEO și content marketing — de la 600€/lună
-- Marketing pentru dezvoltatori imobiliari — prețuri pe fiecare serviciu: brand de la 500€, site de la 750€, campanii 200€/lună oricâte, buget de reclame plătit direct platformelor
+- Marketing pentru dezvoltatori imobiliari — prețuri pe fiecare serviciu: brand de la 500€, site de la 750€, campanii 200€/lună pe platformă (Google sau Meta), oricâte campanii, buget de reclame plătit direct platformelor
 - Software și aplicații mobile — la cerere

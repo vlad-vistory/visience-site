@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
 9:I[68027,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"default",1]
-:HL["/_next/static/chunks/0soykg1_j0p1h.css","style"]
+:HL["/_next/static/chunks/2k97max921z0j.css","style"]
 :HL["/_next/static/media/0da9c7f357bd9d4d-s.p.1975l3y3401x_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/2094fb60fd9c8287-s.p.3qxy1tqak831c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/47fe1b7cd6e6ed85-s.p.3bh2vc0w-r-ll.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -34,7 +34,7 @@
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();0:{"P":null,"c":["","creare-site-mobila-la-comanda",""],"q":"","i":false,"f":[[["",{"children":["creare-site-mobila-la-comanda",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0soykg1_j0p1h.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1fkw942u-_dr5.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"qsZaYob-h3L5ejKkelUiG"}
+})();0:{"P":null,"c":["","creare-site-mobila-la-comanda",""],"q":"","i":false,"f":[[["",{"children":["creare-site-mobila-la-comanda",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2k97max921z0j.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1fkw942u-_dr5.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"wBSkL-u4O94_mY2wgLp6T"}
 c:I[36621,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 17:I[39756,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 18:I[37457,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
@@ -689,7 +689,7 @@ f:Tf55,<header class="nav" id="nav" role="banner">
 </footer>
 4:["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$b"}}],["$","$Lc",null,{"headerRo":"$d","footerRo":"$e","headerEn":"$f","footerEn":"$10","headerFr":"$11","footerFr":"$12","headerReclama":"<header class=\"nav nav--lp\" id=\"nav\" role=\"banner\">\r\n  <div class=\"wrap nav__in\">\r\n    <span class=\"nav__logo\">\r\n      <img class=\"nav__logo-img nav__logo-img--light\" src=\"/media/sigla-mark-visience-new-colors.avif\"\r\n           alt=\"Visience\" width=\"160\" height=\"30\" fetchpriority=\"high\">\r\n      <img class=\"nav__logo-img nav__logo-img--dark\" src=\"/media/sigla-visience-dark.avif\"\r\n           alt=\"\" aria-hidden=\"true\" width=\"160\" height=\"30\">\r\n    </span>\r\n\r\n    <div class=\"nlp\">\r\n      <a href=\"tel:+40771486499\" class=\"nlp__tel\" aria-label=\"Sună la 0771 486 499\">\r\n        <i class=\"fas fa-phone\" aria-hidden=\"true\"></i><span>0771 486 499</span>\r\n      </a>\r\n      <a href=\"https://wa.me/40771486499\" target=\"_blank\" rel=\"noopener\" class=\"nlp__wa\" aria-label=\"Scrie pe WhatsApp\">\r\n        <i class=\"fab fa-whatsapp\" aria-hidden=\"true\"></i><span>WhatsApp</span>\r\n      </a>\r\n    </div>\r\n  </div>\r\n</header>\r\n","footerReclama":"$13","children":"$L14"}],"$L15","$L16"]}]
 5:["$","$1","c",{"children":[null,["$","$L17",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
-19:T8e4,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-mobila-la-comanda/#service","name":"Creare site pentru mobilă la comandă","serviceType":"Creare site pentru mobilă la comandă","description":"Site pentru mobilă la comandă: lucrări pe camere, cereri de ofertă cu dimensiuni și poze, campanii pe oraș. Exemple: Artesano Mob, Iași Mobilier.","url":"https://visience.ro/creare-site-mobila-la-comanda/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"500","highPrice":"1200","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-mobila-la-comanda/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site pentru un atelier de mobilă la comandă?","acceptedAnswer":{"@type":"Answer","text":"750€ un site de până la 6 pagini, 1.200€ un site de până la 10 pagini, cu câte o pagină pe tip de mobilier și SEO complet. O pagină dedicată campaniilor costă 500€, iar campaniile 200€ pe lună, oricâte."}},{"@type":"Question","name":"Cum primesc cereri cu dimensiuni?","acceptedAnswer":{"@type":"Answer","text":"Formularul cere tipul de mobilă, dimensiunile aproximative, materialul și poze cu spațiul. Cererea ajunge pe e-mail, cu pozele atașate."}},{"@type":"Question","name":"Merită să pun prețuri pe site?","acceptedAnswer":{"@type":"Answer","text":"Un interval orientativ ajută: cine nu se încadrează nu mai cere ofertă, iar cine se încadrează vine mai hotărât. Hotărârea e a ta; site-ul merge și fără prețuri."}},{"@type":"Question","name":"Faceți și reclamele?","acceptedAnswer":{"@type":"Answer","text":"Da. La Artesano Mob ne ocupăm de site, de postări și de campaniile Google și Meta. Campaniile costă 200€ pe lună, oricâte."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Site-uri pe domenii","item":"https://visience.ro/site-uri-pe-domenii/"},{"@type":"ListItem","position":3,"name":"Site pentru mobilă la comandă","item":"https://visience.ro/creare-site-mobila-la-comanda/"}]}]}1a:T2f35,<main id="main">
+19:T95a,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-mobila-la-comanda/#service","name":"Creare site pentru mobilă la comandă","serviceType":"Creare site pentru mobilă la comandă","description":"Site pentru mobilă la comandă: lucrări pe camere, cereri de ofertă cu dimensiuni și poze, campanii pe oraș. Exemple: Artesano Mob, Iași Mobilier.","url":"https://visience.ro/creare-site-mobila-la-comanda/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"500","highPrice":"1200","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-mobila-la-comanda/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site pentru un atelier de mobilă la comandă?","acceptedAnswer":{"@type":"Answer","text":"750€ un site de până la 6 pagini, 1.200€ un site de până la 10 pagini, cu câte o pagină pe tip de mobilier și SEO complet. O pagină dedicată campaniilor costă 500€, iar campaniile 200€ pe lună pe Google și 200€ pe lună pe Meta, oricâte pe fiecare platformă."}},{"@type":"Question","name":"Cum primesc cereri cu dimensiuni?","acceptedAnswer":{"@type":"Answer","text":"Formularul cere tipul de mobilă, dimensiunile aproximative, materialul și poze cu spațiul. Cererea ajunge pe e-mail, cu pozele atașate."}},{"@type":"Question","name":"Merită să pun prețuri pe site?","acceptedAnswer":{"@type":"Answer","text":"Un interval orientativ ajută: cine nu se încadrează nu mai cere ofertă, iar cine se încadrează vine mai hotărât. Hotărârea e a ta; site-ul merge și fără prețuri."}},{"@type":"Question","name":"Faceți și reclamele?","acceptedAnswer":{"@type":"Answer","text":"Da. La Artesano Mob ne ocupăm de site, de postări și de campaniile Google și Meta. Campaniile costă 200€ pe lună pe fiecare platformă, oricâte, deci 400€ pe lună pe amândouă."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Site-uri pe domenii","item":"https://visience.ro/site-uri-pe-domenii/"},{"@type":"ListItem","position":3,"name":"Site pentru mobilă la comandă","item":"https://visience.ro/creare-site-mobila-la-comanda/"}]}]}1a:T2ff4,<main id="main">
 
 <section class="csi-hero" aria-labelledby="csi-h1">
   <div class="line-bg" aria-hidden="true">
@@ -722,7 +722,7 @@ f:Tf55,<header class="nav" id="nav" role="banner">
     <div class="csi-hero__stats">
       <div class="csi-hero__stat"><span class="n">750€</span><span class="l">site, de la</span></div>
       <div class="csi-hero__stat"><span class="n">500€</span><span class="l">pagină pentru campanii</span></div>
-      <div class="csi-hero__stat"><span class="n">200€/lună</span><span class="l">campanii, oricâte</span></div>
+      <div class="csi-hero__stat"><span class="n">200€/lună</span><span class="l">campanii Google sau Meta, pe platformă</span></div>
       <div class="csi-hero__stat"><span class="n">3</span><span class="l">ateliere în portofoliu</span></div>
     </div>
   </div>
@@ -828,9 +828,9 @@ f:Tf55,<header class="nav" id="nav" role="banner">
         <p class="csi-pr-card__desc">O singură pagină cu formular, făcută pentru reclame.</p>
       </div>
       <div class="csi-pr-card">
-        <div class="csi-pr-card__name">Campanii Google și Meta</div>
+        <div class="csi-pr-card__name">Campanii Google sau Meta</div>
         <div class="csi-pr-card__price">200€/lună</div>
-        <p class="csi-pr-card__desc">Oricâte campanii, cu raport lunar. Minim 3 luni.</p>
+        <p class="csi-pr-card__desc">Pe fiecare platformă, oricâte campanii, cu raport lunar. Pe amândouă: 400€/lună. Minim 3 luni.</p>
       </div>
     </div>
     <p class="csi-pr-note rv rv-d2">
@@ -848,7 +848,7 @@ f:Tf55,<header class="nav" id="nav" role="banner">
     <div class="csi-faq rv">
       <details>
         <summary>Cât costă un site pentru un atelier de mobilă la comandă?</summary>
-        <p>750€ un site de până la 6 pagini, 1.200€ un site de până la 10 pagini, cu câte o pagină pe tip de mobilier și SEO complet. O pagină dedicată campaniilor costă 500€, iar campaniile 200€ pe lună, oricâte.</p>
+        <p>750€ un site de până la 6 pagini, 1.200€ un site de până la 10 pagini, cu câte o pagină pe tip de mobilier și SEO complet. O pagină dedicată campaniilor costă 500€, iar campaniile 200€ pe lună pe Google și 200€ pe lună pe Meta, oricâte pe fiecare platformă.</p>
       </details>
       <details>
         <summary>Cum primesc cereri cu dimensiuni?</summary>
@@ -860,7 +860,7 @@ f:Tf55,<header class="nav" id="nav" role="banner">
       </details>
       <details>
         <summary>Faceți și reclamele?</summary>
-        <p>Da. La Artesano Mob ne ocupăm de site, de postări și de campaniile Google și Meta. Campaniile costă 200€ pe lună, oricâte.</p>
+        <p>Da. La Artesano Mob ne ocupăm de site, de postări și de campaniile Google și Meta. Campaniile costă 200€ pe lună pe fiecare platformă, oricâte, deci 400€ pe lună pe amândouă.</p>
       </details>
     </div>
   </div>
@@ -907,7 +907,7 @@ f:Tf55,<header class="nav" id="nav" role="banner">
 1d:[]
 7:"$W1d"
 8:["$","$1","h",{"children":[null,["$","$L1e",null,{"children":"$L1f"}],["$","div",null,{"hidden":true,"children":["$","$L20",null,{"children":["$","$21",null,{"name":"Next.Metadata","children":"$L22"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
-a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0soykg1_j0p1h.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2k97max921z0j.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 23:I[27961,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 24:I[11015,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 25:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]

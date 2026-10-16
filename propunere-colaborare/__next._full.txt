@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
 9:I[68027,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"default",1]
-:HL["/_next/static/chunks/0soykg1_j0p1h.css","style"]
+:HL["/_next/static/chunks/2k97max921z0j.css","style"]
 :HL["/_next/static/media/0da9c7f357bd9d4d-s.p.1975l3y3401x_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/2094fb60fd9c8287-s.p.3qxy1tqak831c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/47fe1b7cd6e6ed85-s.p.3bh2vc0w-r-ll.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -34,7 +34,7 @@
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();0:{"P":null,"c":["","propunere-colaborare",""],"q":"","i":false,"f":[[["",{"children":["propunere-colaborare",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0soykg1_j0p1h.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1fkw942u-_dr5.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"qsZaYob-h3L5ejKkelUiG"}
+})();0:{"P":null,"c":["","propunere-colaborare",""],"q":"","i":false,"f":[[["",{"children":["propunere-colaborare",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2k97max921z0j.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1fkw942u-_dr5.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"wBSkL-u4O94_mY2wgLp6T"}
 c:I[36621,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 17:I[39756,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 18:I[37457,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
@@ -699,7 +699,7 @@ f:Tf55,<header class="nav" id="nav" role="banner">
       </div>
       <div class="pb-bar__r">
         <div class="pb-count" id="pbCount">pagina <strong>1</strong> / 10</div>
-        <a class="pb-dl" href="/media/propunere/v3/Visience-Propunere-Colaborare-Marketing.pdf" download>
+        <a class="pb-dl" href="/media/propunere/v4/Visience-Propunere-Colaborare-Marketing.pdf" download>
           <svg width="15" height="15" viewBox="0 0 16 16" fill="none" aria-hidden="true">
             <path d="M8 1.5v9m0 0L4.5 7M8 10.5 11.5 7M2 13.5h12" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
           </svg>
@@ -711,16 +711,16 @@ f:Tf55,<header class="nav" id="nav" role="banner">
 
   <div class="pb-doc">
     <div class="pb-doc__in" id="pbDoc">
-      <img class="pb-sheet" src="/media/propunere/v3/p01.avif" width="1400" height="1982" alt="Propunere de colaborare Visience — pagina 1: marketing imobiliar de la prima postare la ultimul apartament vândut" fetchpriority="high">
-      <img class="pb-sheet" src="/media/propunere/v3/p02.avif" width="1400" height="1982" alt="Pagina 2: tot ce îi trebuie unui ansamblu rezidențial ca să se vândă, într-un singur loc" loading="lazy">
-      <img class="pb-sheet" src="/media/propunere/v3/p03.avif" width="1400" height="1982" alt="Pagina 3: toate lead-urile într-un singur loc, CRM inclus" loading="lazy">
-      <img class="pb-sheet" src="/media/propunere/v3/p04.avif" width="1400" height="1982" alt="Pagina 4: experiență reală în domeniul imobiliar, ansamblurile din portofoliu" loading="lazy">
-      <img class="pb-sheet" src="/media/propunere/v3/p05.avif" width="1400" height="1982" alt="Pagina 5: rezultate din conturile clienților, nu promisiuni" loading="lazy">
-      <img class="pb-sheet" src="/media/propunere/v3/p06.avif" width="1400" height="1982" alt="Pagina 6: cum arată pagina care aduce lead-urile" loading="lazy">
-      <img class="pb-sheet" src="/media/propunere/v3/p07.avif" width="1400" height="1982" alt="Pagina 7: cum lucrăm, de la brief la primele lead-uri" loading="lazy">
-      <img class="pb-sheet" src="/media/propunere/v3/p08.avif" width="1400" height="1982" alt="Pagina 8: prețuri pe fiecare serviciu — analiză de zonă, brand și website" loading="lazy">
-      <img class="pb-sheet" src="/media/propunere/v3/p09.avif" width="1400" height="1982" alt="Pagina 9: cât costă să aduci cumpărători — campanii, conținut, întreținere" loading="lazy">
-      <img class="pb-sheet" src="/media/propunere/v3/p10.avif" width="1400" height="1982" alt="Pagina 10: următorul ansamblu vândut complet poate fi al tău, date de contact" loading="lazy">
+      <img class="pb-sheet" src="/media/propunere/v4/p01.avif" width="1400" height="1982" alt="Propunere de colaborare Visience — pagina 1: marketing imobiliar de la prima postare la ultimul apartament vândut" fetchpriority="high">
+      <img class="pb-sheet" src="/media/propunere/v4/p02.avif" width="1400" height="1982" alt="Pagina 2: tot ce îi trebuie unui ansamblu rezidențial ca să se vândă, într-un singur loc" loading="lazy">
+      <img class="pb-sheet" src="/media/propunere/v4/p03.avif" width="1400" height="1982" alt="Pagina 3: toate lead-urile într-un singur loc, CRM inclus" loading="lazy">
+      <img class="pb-sheet" src="/media/propunere/v4/p04.avif" width="1400" height="1982" alt="Pagina 4: experiență reală în domeniul imobiliar, ansamblurile din portofoliu" loading="lazy">
+      <img class="pb-sheet" src="/media/propunere/v4/p05.avif" width="1400" height="1982" alt="Pagina 5: rezultate din conturile clienților, nu promisiuni" loading="lazy">
+      <img class="pb-sheet" src="/media/propunere/v4/p06.avif" width="1400" height="1982" alt="Pagina 6: cum arată pagina care aduce lead-urile" loading="lazy">
+      <img class="pb-sheet" src="/media/propunere/v4/p07.avif" width="1400" height="1982" alt="Pagina 7: cum lucrăm, de la brief la primele lead-uri" loading="lazy">
+      <img class="pb-sheet" src="/media/propunere/v4/p08.avif" width="1400" height="1982" alt="Pagina 8: prețuri pe fiecare serviciu — analiză de zonă, brand și website" loading="lazy">
+      <img class="pb-sheet" src="/media/propunere/v4/p09.avif" width="1400" height="1982" alt="Pagina 9: cât costă să aduci cumpărători — campanii, conținut, întreținere" loading="lazy">
+      <img class="pb-sheet" src="/media/propunere/v4/p10.avif" width="1400" height="1982" alt="Pagina 10: următorul ansamblu vândut complet poate fi al tău, date de contact" loading="lazy">
     </div>
   </div>
 
@@ -733,7 +733,7 @@ f:Tf55,<header class="nav" id="nav" role="banner">
       </p>
       <div class="pb-end__acts">
         <a href="/contact/" class="btn btn-solid">Programează un apel <span aria-hidden="true">→</span></a>
-        <a class="btn btn-ghost" href="/media/propunere/v3/Visience-Propunere-Colaborare-Marketing.pdf" download>Descarcă propunerea (PDF)</a>
+        <a class="btn btn-ghost" href="/media/propunere/v4/Visience-Propunere-Colaborare-Marketing.pdf" download>Descarcă propunerea (PDF)</a>
       </div>
       <div class="pb-end__meta">
         <span><a href="mailto:contact@visience.ro">contact@visience.ro</a></span>
@@ -787,7 +787,7 @@ f:Tf55,<header class="nav" id="nav" role="banner">
 1c:[]
 7:"$W1c"
 8:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":"$L1e"}],["$","div",null,{"hidden":true,"children":["$","$L1f",null,{"children":["$","$20",null,{"name":"Next.Metadata","children":"$L21"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
-a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0soykg1_j0p1h.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2k97max921z0j.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 22:I[27961,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 23:I[11015,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 24:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]

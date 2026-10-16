@@ -2,8 +2,8 @@
 7:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 8:"$Sreact.suspense"
 :HL["/_next/static/chunks/2225dsg-8gzx2.css","style"]
-2:T1280,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/pret-administrare-google-ads/#service","name":"Administrare Google Ads și Meta Ads","serviceType":"Administrare campanii Google Ads și Meta Ads","description":"Preț administrare Google Ads: 200€ pe lună, oricâte campanii, pe Google și Meta împreună, minim 3 luni. Bugetul de reclamă îl plătești direct la Google.","url":"https://visience.ro/pret-administrare-google-ads/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Prețuri pentru reclame Google și Meta","itemListElement":[{"@type":"Offer","name":"Management campanii Google și Meta","description":"Oricâte campanii, pe Google și Meta, minim 3 luni. Optimizare săptămânală, texte și creative pentru anunțuri, raport lunar.","price":"200","priceCurrency":"EUR","priceSpecification":{"@type":"UnitPriceSpecification","price":"200","priceCurrency":"EUR","unitText":"lună"}},{"@type":"Offer","name":"Setup campanie și tracking","description":"O singură dată, gratuit la contract pe 12 luni: cont publicitar, pixel, evenimente de conversie, GA4.","price":"200","priceCurrency":"EUR"},{"@type":"Offer","name":"Remarketing","description":"O singură dată: anunțuri pe Google și Facebook pentru vizitatorii care n-au cumpărat.","price":"200","priceCurrency":"EUR"},{"@type":"Offer","name":"Automatizări","description":"Pe secvență de e-mailuri: follow-up după cerere, coș abandonat.","price":"300","priceCurrency":"EUR","priceSpecification":{"@type":"UnitPriceSpecification","price":"300","priceCurrency":"EUR","unitText":"secvență"}},{"@type":"Offer","name":"Google Shopping","description":"O singură dată: Merchant Center, feed de produse și campanie.","price":"100","priceCurrency":"EUR"},{"@type":"Offer","name":"Landing page de campanie","description":"O singură dată: pagină pentru reclame, cu formular și tracking de conversii.","price":"500","priceCurrency":"EUR"}]}},{"@type":"FAQPage","@id":"https://visience.ro/pret-administrare-google-ads/#faq","mainEntity":[{"@type":"Question","name":"Cât costă administrarea Google Ads pe lună?","acceptedAnswer":{"@type":"Answer","text":"200€ pe lună, oricâte campanii, pe Google și pe Meta (Facebook + Instagram) împreună, minim 3 luni. Setup-ul de cont și tracking costă 200€ o dată și e gratuit la contract pe 12 luni. Bugetul de reclamă e separat și se plătește direct la Google și Meta."}},{"@type":"Question","name":"De ce minim 3 luni?","acceptedAnswer":{"@type":"Answer","text":"Pentru că prima lună e mai mult calibrare: testăm anunțuri și cuvinte-cheie, iar Google și Meta învață cui să arate reclama. Costul pe cerere se așază abia după aceea. O campanie oprită după o lună se oprește exact când începea să meargă."}},{"@type":"Question","name":"Pot să opresc oricând după 3 luni?","acceptedAnswer":{"@type":"Answer","text":"Da. După primele 3 luni, colaborarea merge din lună în lună și o oprești când vrei. Dacă ai ales contractul pe 12 luni, ca să ai setup-ul gratuit, mergem împreună până la capătul lui."}},{"@type":"Question","name":"Al cui e contul de Google Ads?","acceptedAnswer":{"@type":"Answer","text":"Al tău. Contul de Google Ads, contul de reclame Meta și pixelul sunt pe firma ta, iar noi primim acces de administrator. Dacă pleci, contul rămâne la tine, cu tot istoricul și cu toate conversiile."}},{"@type":"Question","name":"Cât buget minim îmi trebuie?","acceptedAnswer":{"@type":"Answer","text":"Recomandăm minim 500€ pe lună, plătiți direct la Google sau Meta, pe lângă cei 200€ de administrare. Cu mai puțin, reclamele merg, dar platformele strâng prea puține date ca să învețe cine cumpără."}},{"@type":"Question","name":"Faceți și doar Facebook?","acceptedAnswer":{"@type":"Answer","text":"Da. Putem rula doar pe Facebook și Instagram, doar pe Google sau pe amândouă. Administrarea costă tot 200€ pe lună, oricâte campanii ai."}},{"@type":"Question","name":"Ce se schimbă la preț dacă îmi cresc bugetul?","acceptedAnswer":{"@type":"Answer","text":"Nimic la onorariu. Cu 500€ sau cu 2.000€ buget pe lună, administrarea rămâne 200€. Crește doar suma pe care o plătești direct la Google și Meta."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Prețuri","item":"https://visience.ro/preturi/"},{"@type":"ListItem","position":3,"name":"Preț administrare Google Ads","item":"https://visience.ro/pret-administrare-google-ads/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"qsZaYob-h3L5ejKkelUiG"}
-6:T4844,<main id="main">
+2:T1463,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/pret-administrare-google-ads/#service","name":"Administrare Google Ads și Meta Ads","serviceType":"Administrare campanii Google Ads și Meta Ads","description":"Preț administrare Google Ads: 200€ pe lună, oricâte campanii, minim 3 luni. Meta costă tot 200€, deci 400€ pe amândouă. Bugetul de reclamă e separat.","url":"https://visience.ro/pret-administrare-google-ads/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Prețuri pentru reclame Google și Meta","itemListElement":[{"@type":"Offer","name":"Management campanii Google Ads","description":"Oricâte campanii pe Google, minim 3 luni. Optimizare săptămânală, texte și creative pentru anunțuri, raport lunar.","price":"200","priceCurrency":"EUR","priceSpecification":{"@type":"UnitPriceSpecification","price":"200","priceCurrency":"EUR","unitText":"lună"}},{"@type":"Offer","name":"Management campanii Meta Ads","description":"Oricâte campanii pe Facebook și Instagram, minim 3 luni. Optimizare săptămânală, texte și creative pentru anunțuri, raport lunar.","price":"200","priceCurrency":"EUR","priceSpecification":{"@type":"UnitPriceSpecification","price":"200","priceCurrency":"EUR","unitText":"lună"}},{"@type":"Offer","name":"Setup campanie și tracking","description":"O singură dată, gratuit la contract pe 12 luni: cont publicitar, pixel, evenimente de conversie, GA4.","price":"200","priceCurrency":"EUR"},{"@type":"Offer","name":"Remarketing","description":"O singură dată: anunțuri pe Google și Facebook pentru vizitatorii care n-au cumpărat.","price":"200","priceCurrency":"EUR"},{"@type":"Offer","name":"Automatizări","description":"Pe secvență de e-mailuri: follow-up după cerere, coș abandonat.","price":"300","priceCurrency":"EUR","priceSpecification":{"@type":"UnitPriceSpecification","price":"300","priceCurrency":"EUR","unitText":"secvență"}},{"@type":"Offer","name":"Google Shopping","description":"O singură dată: Merchant Center, feed de produse și campanie.","price":"100","priceCurrency":"EUR"},{"@type":"Offer","name":"Landing page de campanie","description":"O singură dată: pagină pentru reclame, cu formular și tracking de conversii.","price":"500","priceCurrency":"EUR"}]}},{"@type":"FAQPage","@id":"https://visience.ro/pret-administrare-google-ads/#faq","mainEntity":[{"@type":"Question","name":"Cât costă administrarea Google Ads pe lună?","acceptedAnswer":{"@type":"Answer","text":"200€ pe lună pentru Google Ads, oricâte campanii, minim 3 luni. Pentru Meta (Facebook și Instagram) e tot 200€ pe lună, iar pe amândouă platformele 400€ pe lună. Setup-ul de cont și tracking costă 200€ o dată și e gratuit la contract pe 12 luni. Bugetul de reclamă e separat și se plătește direct la Google și Meta."}},{"@type":"Question","name":"De ce minim 3 luni?","acceptedAnswer":{"@type":"Answer","text":"Pentru că prima lună e mai mult calibrare: testăm anunțuri și cuvinte-cheie, iar Google și Meta învață cui să arate reclama. Costul pe cerere se așază abia după aceea. O campanie oprită după o lună se oprește exact când începea să meargă."}},{"@type":"Question","name":"Pot să opresc oricând după 3 luni?","acceptedAnswer":{"@type":"Answer","text":"Da. După primele 3 luni, colaborarea merge din lună în lună și o oprești când vrei. Dacă ai ales contractul pe 12 luni, ca să ai setup-ul gratuit, mergem împreună până la capătul lui."}},{"@type":"Question","name":"Al cui e contul de Google Ads?","acceptedAnswer":{"@type":"Answer","text":"Al tău. Contul de Google Ads, contul de reclame Meta și pixelul sunt pe firma ta, iar noi primim acces de administrator. Dacă pleci, contul rămâne la tine, cu tot istoricul și cu toate conversiile."}},{"@type":"Question","name":"Cât buget minim îmi trebuie?","acceptedAnswer":{"@type":"Answer","text":"Recomandăm minim 500€ pe lună, plătiți direct la Google sau Meta, pe lângă cei 200€ de administrare. Cu mai puțin, reclamele merg, dar platformele strâng prea puține date ca să învețe cine cumpără."}},{"@type":"Question","name":"Faceți și doar Facebook?","acceptedAnswer":{"@type":"Answer","text":"Da. Putem rula doar pe Facebook și Instagram, doar pe Google sau pe amândouă. Administrarea costă 200€ pe lună pe fiecare platformă, oricâte campanii ai: 200€ doar pe Meta, 400€ pe amândouă."}},{"@type":"Question","name":"Ce se schimbă la preț dacă îmi cresc bugetul?","acceptedAnswer":{"@type":"Answer","text":"Nimic la onorariu. Cu 500€ sau cu 2.000€ buget pe lună, administrarea rămâne 200€ pe platformă. Crește doar suma pe care o plătești direct la Google și Meta."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Prețuri","item":"https://visience.ro/preturi/"},{"@type":"ListItem","position":3,"name":"Preț administrare Google Ads","item":"https://visience.ro/pret-administrare-google-ads/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wBSkL-u4O94_mY2wgLp6T"}
+6:T4b44,<main id="main">
 
 <section class="csi-hero" aria-labelledby="csi-h1">
   <div class="line-bg" aria-hidden="true">
@@ -26,7 +26,7 @@
       <span class="acc">200€ pe lună</span>
     </h1>
 
-    <p class="csi-hero__lead">E unsprezece seara și ești tot în contul de Google Ads, că în timpul zilei n-ai când. Sau ai deschis factura de la agenție și ai văzut că onorariul a crescut odată cu bugetul. La noi, administrarea costă 200€ pe lună, oricâte campanii, pe Google și pe Meta (Facebook + Instagram) împreună, minim 3 luni. Bugetul de reclamă e separat și îl plătești direct la Google și Meta.</p>
+    <p class="csi-hero__lead">E unsprezece seara și ești tot în contul de Google Ads, că în timpul zilei n-ai când. Sau ai deschis factura de la agenție și ai văzut că onorariul a crescut odată cu bugetul. La noi, administrarea costă 200€ pe lună pentru Google Ads și 200€ pe lună pentru Meta (Facebook și Instagram), oricâte campanii pe fiecare platformă, minim 3 luni. Pe amândouă, 400€ pe lună. Bugetul de reclamă e separat și îl plătești direct la Google și Meta.</p>
 
     <div class="csi-hero__acts">
       <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
@@ -34,7 +34,7 @@
     </div>
 
     <div class="csi-hero__stats">
-      <div class="csi-hero__stat"><span class="n">200€</span><span class="l">pe lună, oricâte campanii</span></div>
+      <div class="csi-hero__stat"><span class="n">200€</span><span class="l">pe lună pe platformă, oricâte campanii</span></div>
       <div class="csi-hero__stat"><span class="n">0€</span><span class="l">setup la contract pe 12 luni</span></div>
       <div class="csi-hero__stat"><span class="n">500€</span><span class="l">buget minim recomandat pe lună</span></div>
       <div class="csi-hero__stat"><span class="n">Lunar</span><span class="l">raport cu cererile primite</span></div>
@@ -53,8 +53,8 @@
       <div class="csi-type">
         <span class="csi-type__n">01</span>
         <div>
-          <h3>Onorariul nostru: 200€ pe lună</h3>
-          <p>E plata pentru muncă. Construim campaniile, scriem textele, facem creativele, le urmărim în fiecare săptămână și îți trimitem raportul. Aceeași sumă, oricâte campanii și pe ambele platforme. Factura o primești de la noi.</p>
+          <h3>Onorariul nostru: 200€ pe lună pe platformă</h3>
+          <p>E plata pentru muncă. Construim campaniile, scriem textele, facem creativele, le urmărim în fiecare săptămână și îți trimitem raportul. Aceeași sumă oricâte campanii ai: 200€ pe Google, 200€ pe Meta, 400€ pe amândouă. Factura o primești de la noi.</p>
         </div>
       </div>
       <div class="csi-type">
@@ -77,7 +77,7 @@
   <div class="wrap">
     <div class="csi-head center rv">
       <h2 class="dd dd-lg">Prețurile pentru reclame, <span class="acc">serviciu cu serviciu</span></h2>
-      <p class="body-lg" style="margin-top:14px">Plata lunară e una singură. Restul sunt configurări pe care le plătești o dată, doar dacă îți trebuie.</p>
+      <p class="body-lg" style="margin-top:14px">Plata lunară e 200€ pentru fiecare platformă pe care rulăm. Restul sunt configurări pe care le plătești o dată, doar dacă îți trebuie.</p>
     </div>
     <div class="csi-tbl rv">
       <table>
@@ -85,7 +85,8 @@
           <tr><th>Serviciu</th><th>Preț</th><th>Ce intră</th></tr>
         </thead>
         <tbody>
-          <tr><td>Management campanii Google și Meta</td><td>200€ pe lună</td><td>Oricâte campanii, pe ambele platforme, minim 3 luni. Optimizare săptămânală, texte și creative pentru anunțuri, raport lunar.</td></tr>
+          <tr><td>Management campanii Google Ads</td><td>200€ pe lună</td><td>Oricâte campanii pe Google, minim 3 luni. Optimizare săptămânală, texte și creative pentru anunțuri, raport lunar.</td></tr>
+          <tr><td>Management campanii Meta (Facebook și Instagram)</td><td>200€ pe lună</td><td>Oricâte campanii pe Facebook și Instagram, minim 3 luni. Optimizare săptămânală, texte și creative pentru anunțuri, raport lunar. Pe amândouă platformele, 400€ pe lună.</td></tr>
           <tr><td>Setup campanie și tracking</td><td>200€ o dată, gratuit la contract pe 12 luni</td><td>Contul publicitar, pixelul, evenimentele de conversie și legătura cu GA4.</td></tr>
           <tr><td>Remarketing</td><td>200€ o dată</td><td>Anunțuri pe Google și Facebook pentru oamenii care ți-au văzut site-ul și au plecat fără să cumpere.</td></tr>
           <tr><td>Automatizări</td><td>300€ pe secvență</td><td>E-mailuri care pleacă singure: follow-up după o cerere, coș abandonat.</td></tr>
@@ -125,7 +126,7 @@
       </div>
     </div>
     <div class="csi-prose rv rv-d2" style="margin-top:40px">
-      <p><strong>Noi am ales suma fixă.</strong> Când îți spunem să scazi bugetul, să oprești o campanie care nu aduce cereri sau să muți banii de pe Facebook pe Google, sfatul nu ne atinge buzunarul. Onorariul rămâne 200€ oricum.</p>
+      <p><strong>Noi am ales suma fixă.</strong> Când îți spunem să scazi bugetul, să oprești o campanie care nu aduce cereri sau să muți banii de pe Facebook pe Google, sfatul nu ne atinge buzunarul. Onorariul rămâne 200€ pe platformă oricum.</p>
       <p>Dacă o campanie îți aduce cererile de care ai nevoie cu 500€ pe lună, n-avem niciun motiv s-o umflăm la 2.000€. La procent, motivul ar exista. Doar că n-ar fi al tău.</p>
       <p>Toate modelele, cu ce verifici la fiecare, sunt în articolul <a href="/blog/cat-costa-managementul-reclamelor-google-meta/">cât costă managementul reclamelor</a>.</p>
     </div>
@@ -137,7 +138,7 @@
   <div class="wrap">
     <div class="csi-head center rv">
       <h2 class="dd dd-lg">Cât plătești pe lună, <span class="acc">cu tot cu reclama</span></h2>
-      <p class="body-lg" style="margin-top:14px">Totalul e mereu bugetul tău plus 200€. Onorariul nu se mișcă atunci când crește bugetul.</p>
+      <p class="body-lg" style="margin-top:14px">Calculele de mai jos sunt pentru o platformă: bugetul tău plus 200€. Onorariul nu se mișcă atunci când crește bugetul.</p>
     </div>
     <div class="csi-pr rv rv-d1">
       <div class="csi-pr-card">
@@ -148,12 +149,12 @@
       <div class="csi-pr-card">
         <div class="csi-pr-card__name">Buget 1.000€</div>
         <div class="csi-pr-card__price">1.200€</div>
-        <p class="csi-pr-card__desc">Pe lună: 1.000€ la platforme, plus 200€ administrare, oricâte campanii pe Google și pe Meta.</p>
+        <p class="csi-pr-card__desc">Pe lună: 1.000€ la Google sau Meta, plus 200€ administrare, oricâte campanii pe platforma aleasă.</p>
       </div>
       <div class="csi-pr-card">
         <div class="csi-pr-card__name">Buget 2.000€</div>
         <div class="csi-pr-card__price">2.200€</div>
-        <p class="csi-pr-card__desc">Pe lună: 2.000€ la platforme, plus 200€ administrare. Bugetul s-a dublat, onorariul a rămas pe loc.</p>
+        <p class="csi-pr-card__desc">Pe lună: 2.000€ la Google sau Meta, plus 200€ administrare. Bugetul s-a dublat, onorariul a rămas pe loc.</p>
       </div>
       <div class="csi-pr-card feat">
         <div class="csi-pr-card__name">Prima lună</div>
@@ -166,19 +167,19 @@
         <span class="csi-type__n">2.600€</span>
         <div>
           <h3>Anul 1, fără contract pe 12 luni</h3>
-          <p>200€ setup, plus 12 luni × 200€ administrare. Te angajezi doar pentru primele 3 luni.</p>
+          <p>200€ setup, plus 12 luni × 200€ administrare pe o platformă. Te angajezi doar pentru primele 3 luni.</p>
         </div>
       </div>
       <div class="csi-type">
         <span class="csi-type__n">2.400€</span>
         <div>
           <h3>Anul 1, cu contract pe 12 luni</h3>
-          <p>Setup-ul de 200€ nu-l mai plătești. Rămân 12 luni × 200€ administrare.</p>
+          <p>Setup-ul de 200€ nu-l mai plătești. Rămân 12 luni × 200€ administrare pe o platformă.</p>
         </div>
       </div>
     </div>
     <p class="csi-pr-note rv rv-d2">
-      În ambele cazuri, bugetul de reclamă vine peste. Cu 500€ pe lună, încă 6.000€ pe an, plătiți direct la Google și Meta.
+      În ambele cazuri, bugetul de reclamă vine peste. Cu 500€ pe lună, încă 6.000€ pe an, plătiți direct la Google sau Meta. Dacă rulăm pe Google și pe Meta, administrarea e 400€ pe lună, adică 4.800€ pe an.
     </p>
   </div>
 </section>
@@ -240,7 +241,7 @@
     <div class="csi-faq rv">
       <details>
         <summary>Cât costă administrarea Google Ads pe lună?</summary>
-        <p>200€ pe lună, oricâte campanii, pe Google și pe Meta (Facebook + Instagram) împreună, minim 3 luni. Setup-ul de cont și tracking costă 200€ o dată și e gratuit la contract pe 12 luni. Bugetul de reclamă e separat și se plătește direct la Google și Meta.</p>
+        <p>200€ pe lună pentru Google Ads, oricâte campanii, minim 3 luni. Pentru Meta (Facebook și Instagram) e tot 200€ pe lună, iar pe amândouă platformele 400€ pe lună. Setup-ul de cont și tracking costă 200€ o dată și e gratuit la contract pe 12 luni. Bugetul de reclamă e separat și se plătește direct la Google și Meta.</p>
       </details>
       <details>
         <summary>De ce minim 3 luni?</summary>
@@ -260,11 +261,11 @@
       </details>
       <details>
         <summary>Faceți și doar Facebook?</summary>
-        <p>Da. Putem rula doar pe Facebook și Instagram, doar pe Google sau pe amândouă. Administrarea costă tot 200€ pe lună, oricâte campanii ai.</p>
+        <p>Da. Putem rula doar pe Facebook și Instagram, doar pe Google sau pe amândouă. Administrarea costă 200€ pe lună pe fiecare platformă, oricâte campanii ai: 200€ doar pe Meta, 400€ pe amândouă.</p>
       </details>
       <details>
         <summary>Ce se schimbă la preț dacă îmi cresc bugetul?</summary>
-        <p>Nimic la onorariu. Cu 500€ sau cu 2.000€ buget pe lună, administrarea rămâne 200€. Crește doar suma pe care o plătești direct la Google și Meta.</p>
+        <p>Nimic la onorariu. Cu 500€ sau cu 2.000€ buget pe lună, administrarea rămâne 200€ pe platformă. Crește doar suma pe care o plătești direct la Google și Meta.</p>
       </details>
     </div>
   </div>

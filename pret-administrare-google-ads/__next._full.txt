@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
 9:I[68027,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"default",1]
-:HL["/_next/static/chunks/0soykg1_j0p1h.css","style"]
+:HL["/_next/static/chunks/2k97max921z0j.css","style"]
 :HL["/_next/static/media/0da9c7f357bd9d4d-s.p.1975l3y3401x_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/2094fb60fd9c8287-s.p.3qxy1tqak831c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/47fe1b7cd6e6ed85-s.p.3bh2vc0w-r-ll.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -34,7 +34,7 @@
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();0:{"P":null,"c":["","pret-administrare-google-ads",""],"q":"","i":false,"f":[[["",{"children":["pret-administrare-google-ads",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0soykg1_j0p1h.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1fkw942u-_dr5.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"qsZaYob-h3L5ejKkelUiG"}
+})();0:{"P":null,"c":["","pret-administrare-google-ads",""],"q":"","i":false,"f":[[["",{"children":["pret-administrare-google-ads",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2k97max921z0j.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1fkw942u-_dr5.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"wBSkL-u4O94_mY2wgLp6T"}
 c:I[36621,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 17:I[39756,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 18:I[37457,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
@@ -689,18 +689,18 @@ f:Tf55,<header class="nav" id="nav" role="banner">
 </footer>
 4:["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$b"}}],["$","$Lc",null,{"headerRo":"$d","footerRo":"$e","headerEn":"$f","footerEn":"$10","headerFr":"$11","footerFr":"$12","headerReclama":"<header class=\"nav nav--lp\" id=\"nav\" role=\"banner\">\r\n  <div class=\"wrap nav__in\">\r\n    <span class=\"nav__logo\">\r\n      <img class=\"nav__logo-img nav__logo-img--light\" src=\"/media/sigla-mark-visience-new-colors.avif\"\r\n           alt=\"Visience\" width=\"160\" height=\"30\" fetchpriority=\"high\">\r\n      <img class=\"nav__logo-img nav__logo-img--dark\" src=\"/media/sigla-visience-dark.avif\"\r\n           alt=\"\" aria-hidden=\"true\" width=\"160\" height=\"30\">\r\n    </span>\r\n\r\n    <div class=\"nlp\">\r\n      <a href=\"tel:+40771486499\" class=\"nlp__tel\" aria-label=\"Sună la 0771 486 499\">\r\n        <i class=\"fas fa-phone\" aria-hidden=\"true\"></i><span>0771 486 499</span>\r\n      </a>\r\n      <a href=\"https://wa.me/40771486499\" target=\"_blank\" rel=\"noopener\" class=\"nlp__wa\" aria-label=\"Scrie pe WhatsApp\">\r\n        <i class=\"fab fa-whatsapp\" aria-hidden=\"true\"></i><span>WhatsApp</span>\r\n      </a>\r\n    </div>\r\n  </div>\r\n</header>\r\n","footerReclama":"$13","children":"$L14"}],"$L15","$L16"]}]
 5:["$","$1","c",{"children":[null,["$","$L17",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
-19:T1280,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/pret-administrare-google-ads/#service","name":"Administrare Google Ads și Meta Ads","serviceType":"Administrare campanii Google Ads și Meta Ads","description":"Preț administrare Google Ads: 200€ pe lună, oricâte campanii, pe Google și Meta împreună, minim 3 luni. Bugetul de reclamă îl plătești direct la Google.","url":"https://visience.ro/pret-administrare-google-ads/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Prețuri pentru reclame Google și Meta","itemListElement":[{"@type":"Offer","name":"Management campanii Google și Meta","description":"Oricâte campanii, pe Google și Meta, minim 3 luni. Optimizare săptămânală, texte și creative pentru anunțuri, raport lunar.","price":"200","priceCurrency":"EUR","priceSpecification":{"@type":"UnitPriceSpecification","price":"200","priceCurrency":"EUR","unitText":"lună"}},{"@type":"Offer","name":"Setup campanie și tracking","description":"O singură dată, gratuit la contract pe 12 luni: cont publicitar, pixel, evenimente de conversie, GA4.","price":"200","priceCurrency":"EUR"},{"@type":"Offer","name":"Remarketing","description":"O singură dată: anunțuri pe Google și Facebook pentru vizitatorii care n-au cumpărat.","price":"200","priceCurrency":"EUR"},{"@type":"Offer","name":"Automatizări","description":"Pe secvență de e-mailuri: follow-up după cerere, coș abandonat.","price":"300","priceCurrency":"EUR","priceSpecification":{"@type":"UnitPriceSpecification","price":"300","priceCurrency":"EUR","unitText":"secvență"}},{"@type":"Offer","name":"Google Shopping","description":"O singură dată: Merchant Center, feed de produse și campanie.","price":"100","priceCurrency":"EUR"},{"@type":"Offer","name":"Landing page de campanie","description":"O singură dată: pagină pentru reclame, cu formular și tracking de conversii.","price":"500","priceCurrency":"EUR"}]}},{"@type":"FAQPage","@id":"https://visience.ro/pret-administrare-google-ads/#faq","mainEntity":[{"@type":"Question","name":"Cât costă administrarea Google Ads pe lună?","acceptedAnswer":{"@type":"Answer","text":"200€ pe lună, oricâte campanii, pe Google și pe Meta (Facebook + Instagram) împreună, minim 3 luni. Setup-ul de cont și tracking costă 200€ o dată și e gratuit la contract pe 12 luni. Bugetul de reclamă e separat și se plătește direct la Google și Meta."}},{"@type":"Question","name":"De ce minim 3 luni?","acceptedAnswer":{"@type":"Answer","text":"Pentru că prima lună e mai mult calibrare: testăm anunțuri și cuvinte-cheie, iar Google și Meta învață cui să arate reclama. Costul pe cerere se așază abia după aceea. O campanie oprită după o lună se oprește exact când începea să meargă."}},{"@type":"Question","name":"Pot să opresc oricând după 3 luni?","acceptedAnswer":{"@type":"Answer","text":"Da. După primele 3 luni, colaborarea merge din lună în lună și o oprești când vrei. Dacă ai ales contractul pe 12 luni, ca să ai setup-ul gratuit, mergem împreună până la capătul lui."}},{"@type":"Question","name":"Al cui e contul de Google Ads?","acceptedAnswer":{"@type":"Answer","text":"Al tău. Contul de Google Ads, contul de reclame Meta și pixelul sunt pe firma ta, iar noi primim acces de administrator. Dacă pleci, contul rămâne la tine, cu tot istoricul și cu toate conversiile."}},{"@type":"Question","name":"Cât buget minim îmi trebuie?","acceptedAnswer":{"@type":"Answer","text":"Recomandăm minim 500€ pe lună, plătiți direct la Google sau Meta, pe lângă cei 200€ de administrare. Cu mai puțin, reclamele merg, dar platformele strâng prea puține date ca să învețe cine cumpără."}},{"@type":"Question","name":"Faceți și doar Facebook?","acceptedAnswer":{"@type":"Answer","text":"Da. Putem rula doar pe Facebook și Instagram, doar pe Google sau pe amândouă. Administrarea costă tot 200€ pe lună, oricâte campanii ai."}},{"@type":"Question","name":"Ce se schimbă la preț dacă îmi cresc bugetul?","acceptedAnswer":{"@type":"Answer","text":"Nimic la onorariu. Cu 500€ sau cu 2.000€ buget pe lună, administrarea rămâne 200€. Crește doar suma pe care o plătești direct la Google și Meta."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Prețuri","item":"https://visience.ro/preturi/"},{"@type":"ListItem","position":3,"name":"Preț administrare Google Ads","item":"https://visience.ro/pret-administrare-google-ads/"}]}]}6:["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$19"}}],"$L1a"],["$L1b"],"$L1c"]}]
+19:T1463,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/pret-administrare-google-ads/#service","name":"Administrare Google Ads și Meta Ads","serviceType":"Administrare campanii Google Ads și Meta Ads","description":"Preț administrare Google Ads: 200€ pe lună, oricâte campanii, minim 3 luni. Meta costă tot 200€, deci 400€ pe amândouă. Bugetul de reclamă e separat.","url":"https://visience.ro/pret-administrare-google-ads/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Prețuri pentru reclame Google și Meta","itemListElement":[{"@type":"Offer","name":"Management campanii Google Ads","description":"Oricâte campanii pe Google, minim 3 luni. Optimizare săptămânală, texte și creative pentru anunțuri, raport lunar.","price":"200","priceCurrency":"EUR","priceSpecification":{"@type":"UnitPriceSpecification","price":"200","priceCurrency":"EUR","unitText":"lună"}},{"@type":"Offer","name":"Management campanii Meta Ads","description":"Oricâte campanii pe Facebook și Instagram, minim 3 luni. Optimizare săptămânală, texte și creative pentru anunțuri, raport lunar.","price":"200","priceCurrency":"EUR","priceSpecification":{"@type":"UnitPriceSpecification","price":"200","priceCurrency":"EUR","unitText":"lună"}},{"@type":"Offer","name":"Setup campanie și tracking","description":"O singură dată, gratuit la contract pe 12 luni: cont publicitar, pixel, evenimente de conversie, GA4.","price":"200","priceCurrency":"EUR"},{"@type":"Offer","name":"Remarketing","description":"O singură dată: anunțuri pe Google și Facebook pentru vizitatorii care n-au cumpărat.","price":"200","priceCurrency":"EUR"},{"@type":"Offer","name":"Automatizări","description":"Pe secvență de e-mailuri: follow-up după cerere, coș abandonat.","price":"300","priceCurrency":"EUR","priceSpecification":{"@type":"UnitPriceSpecification","price":"300","priceCurrency":"EUR","unitText":"secvență"}},{"@type":"Offer","name":"Google Shopping","description":"O singură dată: Merchant Center, feed de produse și campanie.","price":"100","priceCurrency":"EUR"},{"@type":"Offer","name":"Landing page de campanie","description":"O singură dată: pagină pentru reclame, cu formular și tracking de conversii.","price":"500","priceCurrency":"EUR"}]}},{"@type":"FAQPage","@id":"https://visience.ro/pret-administrare-google-ads/#faq","mainEntity":[{"@type":"Question","name":"Cât costă administrarea Google Ads pe lună?","acceptedAnswer":{"@type":"Answer","text":"200€ pe lună pentru Google Ads, oricâte campanii, minim 3 luni. Pentru Meta (Facebook și Instagram) e tot 200€ pe lună, iar pe amândouă platformele 400€ pe lună. Setup-ul de cont și tracking costă 200€ o dată și e gratuit la contract pe 12 luni. Bugetul de reclamă e separat și se plătește direct la Google și Meta."}},{"@type":"Question","name":"De ce minim 3 luni?","acceptedAnswer":{"@type":"Answer","text":"Pentru că prima lună e mai mult calibrare: testăm anunțuri și cuvinte-cheie, iar Google și Meta învață cui să arate reclama. Costul pe cerere se așază abia după aceea. O campanie oprită după o lună se oprește exact când începea să meargă."}},{"@type":"Question","name":"Pot să opresc oricând după 3 luni?","acceptedAnswer":{"@type":"Answer","text":"Da. După primele 3 luni, colaborarea merge din lună în lună și o oprești când vrei. Dacă ai ales contractul pe 12 luni, ca să ai setup-ul gratuit, mergem împreună până la capătul lui."}},{"@type":"Question","name":"Al cui e contul de Google Ads?","acceptedAnswer":{"@type":"Answer","text":"Al tău. Contul de Google Ads, contul de reclame Meta și pixelul sunt pe firma ta, iar noi primim acces de administrator. Dacă pleci, contul rămâne la tine, cu tot istoricul și cu toate conversiile."}},{"@type":"Question","name":"Cât buget minim îmi trebuie?","acceptedAnswer":{"@type":"Answer","text":"Recomandăm minim 500€ pe lună, plătiți direct la Google sau Meta, pe lângă cei 200€ de administrare. Cu mai puțin, reclamele merg, dar platformele strâng prea puține date ca să învețe cine cumpără."}},{"@type":"Question","name":"Faceți și doar Facebook?","acceptedAnswer":{"@type":"Answer","text":"Da. Putem rula doar pe Facebook și Instagram, doar pe Google sau pe amândouă. Administrarea costă 200€ pe lună pe fiecare platformă, oricâte campanii ai: 200€ doar pe Meta, 400€ pe amândouă."}},{"@type":"Question","name":"Ce se schimbă la preț dacă îmi cresc bugetul?","acceptedAnswer":{"@type":"Answer","text":"Nimic la onorariu. Cu 500€ sau cu 2.000€ buget pe lună, administrarea rămâne 200€ pe platformă. Crește doar suma pe care o plătești direct la Google și Meta."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Prețuri","item":"https://visience.ro/preturi/"},{"@type":"ListItem","position":3,"name":"Preț administrare Google Ads","item":"https://visience.ro/pret-administrare-google-ads/"}]}]}6:["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$19"}}],"$L1a"],["$L1b"],"$L1c"]}]
 1d:[]
 7:"$W1d"
 8:["$","$1","h",{"children":[null,["$","$L1e",null,{"children":"$L1f"}],["$","div",null,{"hidden":true,"children":["$","$L20",null,{"children":["$","$21",null,{"name":"Next.Metadata","children":"$L22"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
-a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0soykg1_j0p1h.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2k97max921z0j.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 23:I[27961,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 24:I[11015,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 26:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 14:["$","$L17",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
 15:["$","$L23",null,{}]
 16:["$","$L24",null,{}]
-25:T4844,<main id="main">
+25:T4b44,<main id="main">
 
 <section class="csi-hero" aria-labelledby="csi-h1">
   <div class="line-bg" aria-hidden="true">
@@ -723,7 +723,7 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0soykg1_j0p1h
       <span class="acc">200€ pe lună</span>
     </h1>
 
-    <p class="csi-hero__lead">E unsprezece seara și ești tot în contul de Google Ads, că în timpul zilei n-ai când. Sau ai deschis factura de la agenție și ai văzut că onorariul a crescut odată cu bugetul. La noi, administrarea costă 200€ pe lună, oricâte campanii, pe Google și pe Meta (Facebook + Instagram) împreună, minim 3 luni. Bugetul de reclamă e separat și îl plătești direct la Google și Meta.</p>
+    <p class="csi-hero__lead">E unsprezece seara și ești tot în contul de Google Ads, că în timpul zilei n-ai când. Sau ai deschis factura de la agenție și ai văzut că onorariul a crescut odată cu bugetul. La noi, administrarea costă 200€ pe lună pentru Google Ads și 200€ pe lună pentru Meta (Facebook și Instagram), oricâte campanii pe fiecare platformă, minim 3 luni. Pe amândouă, 400€ pe lună. Bugetul de reclamă e separat și îl plătești direct la Google și Meta.</p>
 
     <div class="csi-hero__acts">
       <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
@@ -731,7 +731,7 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0soykg1_j0p1h
     </div>
 
     <div class="csi-hero__stats">
-      <div class="csi-hero__stat"><span class="n">200€</span><span class="l">pe lună, oricâte campanii</span></div>
+      <div class="csi-hero__stat"><span class="n">200€</span><span class="l">pe lună pe platformă, oricâte campanii</span></div>
       <div class="csi-hero__stat"><span class="n">0€</span><span class="l">setup la contract pe 12 luni</span></div>
       <div class="csi-hero__stat"><span class="n">500€</span><span class="l">buget minim recomandat pe lună</span></div>
       <div class="csi-hero__stat"><span class="n">Lunar</span><span class="l">raport cu cererile primite</span></div>
@@ -750,8 +750,8 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0soykg1_j0p1h
       <div class="csi-type">
         <span class="csi-type__n">01</span>
         <div>
-          <h3>Onorariul nostru: 200€ pe lună</h3>
-          <p>E plata pentru muncă. Construim campaniile, scriem textele, facem creativele, le urmărim în fiecare săptămână și îți trimitem raportul. Aceeași sumă, oricâte campanii și pe ambele platforme. Factura o primești de la noi.</p>
+          <h3>Onorariul nostru: 200€ pe lună pe platformă</h3>
+          <p>E plata pentru muncă. Construim campaniile, scriem textele, facem creativele, le urmărim în fiecare săptămână și îți trimitem raportul. Aceeași sumă oricâte campanii ai: 200€ pe Google, 200€ pe Meta, 400€ pe amândouă. Factura o primești de la noi.</p>
         </div>
       </div>
       <div class="csi-type">
@@ -774,7 +774,7 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0soykg1_j0p1h
   <div class="wrap">
     <div class="csi-head center rv">
       <h2 class="dd dd-lg">Prețurile pentru reclame, <span class="acc">serviciu cu serviciu</span></h2>
-      <p class="body-lg" style="margin-top:14px">Plata lunară e una singură. Restul sunt configurări pe care le plătești o dată, doar dacă îți trebuie.</p>
+      <p class="body-lg" style="margin-top:14px">Plata lunară e 200€ pentru fiecare platformă pe care rulăm. Restul sunt configurări pe care le plătești o dată, doar dacă îți trebuie.</p>
     </div>
     <div class="csi-tbl rv">
       <table>
@@ -782,7 +782,8 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0soykg1_j0p1h
           <tr><th>Serviciu</th><th>Preț</th><th>Ce intră</th></tr>
         </thead>
         <tbody>
-          <tr><td>Management campanii Google și Meta</td><td>200€ pe lună</td><td>Oricâte campanii, pe ambele platforme, minim 3 luni. Optimizare săptămânală, texte și creative pentru anunțuri, raport lunar.</td></tr>
+          <tr><td>Management campanii Google Ads</td><td>200€ pe lună</td><td>Oricâte campanii pe Google, minim 3 luni. Optimizare săptămânală, texte și creative pentru anunțuri, raport lunar.</td></tr>
+          <tr><td>Management campanii Meta (Facebook și Instagram)</td><td>200€ pe lună</td><td>Oricâte campanii pe Facebook și Instagram, minim 3 luni. Optimizare săptămânală, texte și creative pentru anunțuri, raport lunar. Pe amândouă platformele, 400€ pe lună.</td></tr>
           <tr><td>Setup campanie și tracking</td><td>200€ o dată, gratuit la contract pe 12 luni</td><td>Contul publicitar, pixelul, evenimentele de conversie și legătura cu GA4.</td></tr>
           <tr><td>Remarketing</td><td>200€ o dată</td><td>Anunțuri pe Google și Facebook pentru oamenii care ți-au văzut site-ul și au plecat fără să cumpere.</td></tr>
           <tr><td>Automatizări</td><td>300€ pe secvență</td><td>E-mailuri care pleacă singure: follow-up după o cerere, coș abandonat.</td></tr>
@@ -822,7 +823,7 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0soykg1_j0p1h
       </div>
     </div>
     <div class="csi-prose rv rv-d2" style="margin-top:40px">
-      <p><strong>Noi am ales suma fixă.</strong> Când îți spunem să scazi bugetul, să oprești o campanie care nu aduce cereri sau să muți banii de pe Facebook pe Google, sfatul nu ne atinge buzunarul. Onorariul rămâne 200€ oricum.</p>
+      <p><strong>Noi am ales suma fixă.</strong> Când îți spunem să scazi bugetul, să oprești o campanie care nu aduce cereri sau să muți banii de pe Facebook pe Google, sfatul nu ne atinge buzunarul. Onorariul rămâne 200€ pe platformă oricum.</p>
       <p>Dacă o campanie îți aduce cererile de care ai nevoie cu 500€ pe lună, n-avem niciun motiv s-o umflăm la 2.000€. La procent, motivul ar exista. Doar că n-ar fi al tău.</p>
       <p>Toate modelele, cu ce verifici la fiecare, sunt în articolul <a href="/blog/cat-costa-managementul-reclamelor-google-meta/">cât costă managementul reclamelor</a>.</p>
     </div>
@@ -834,7 +835,7 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0soykg1_j0p1h
   <div class="wrap">
     <div class="csi-head center rv">
       <h2 class="dd dd-lg">Cât plătești pe lună, <span class="acc">cu tot cu reclama</span></h2>
-      <p class="body-lg" style="margin-top:14px">Totalul e mereu bugetul tău plus 200€. Onorariul nu se mișcă atunci când crește bugetul.</p>
+      <p class="body-lg" style="margin-top:14px">Calculele de mai jos sunt pentru o platformă: bugetul tău plus 200€. Onorariul nu se mișcă atunci când crește bugetul.</p>
     </div>
     <div class="csi-pr rv rv-d1">
       <div class="csi-pr-card">
@@ -845,12 +846,12 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0soykg1_j0p1h
       <div class="csi-pr-card">
         <div class="csi-pr-card__name">Buget 1.000€</div>
         <div class="csi-pr-card__price">1.200€</div>
-        <p class="csi-pr-card__desc">Pe lună: 1.000€ la platforme, plus 200€ administrare, oricâte campanii pe Google și pe Meta.</p>
+        <p class="csi-pr-card__desc">Pe lună: 1.000€ la Google sau Meta, plus 200€ administrare, oricâte campanii pe platforma aleasă.</p>
       </div>
       <div class="csi-pr-card">
         <div class="csi-pr-card__name">Buget 2.000€</div>
         <div class="csi-pr-card__price">2.200€</div>
-        <p class="csi-pr-card__desc">Pe lună: 2.000€ la platforme, plus 200€ administrare. Bugetul s-a dublat, onorariul a rămas pe loc.</p>
+        <p class="csi-pr-card__desc">Pe lună: 2.000€ la Google sau Meta, plus 200€ administrare. Bugetul s-a dublat, onorariul a rămas pe loc.</p>
       </div>
       <div class="csi-pr-card feat">
         <div class="csi-pr-card__name">Prima lună</div>
@@ -863,19 +864,19 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0soykg1_j0p1h
         <span class="csi-type__n">2.600€</span>
         <div>
           <h3>Anul 1, fără contract pe 12 luni</h3>
-          <p>200€ setup, plus 12 luni × 200€ administrare. Te angajezi doar pentru primele 3 luni.</p>
+          <p>200€ setup, plus 12 luni × 200€ administrare pe o platformă. Te angajezi doar pentru primele 3 luni.</p>
         </div>
       </div>
       <div class="csi-type">
         <span class="csi-type__n">2.400€</span>
         <div>
           <h3>Anul 1, cu contract pe 12 luni</h3>
-          <p>Setup-ul de 200€ nu-l mai plătești. Rămân 12 luni × 200€ administrare.</p>
+          <p>Setup-ul de 200€ nu-l mai plătești. Rămân 12 luni × 200€ administrare pe o platformă.</p>
         </div>
       </div>
     </div>
     <p class="csi-pr-note rv rv-d2">
-      În ambele cazuri, bugetul de reclamă vine peste. Cu 500€ pe lună, încă 6.000€ pe an, plătiți direct la Google și Meta.
+      În ambele cazuri, bugetul de reclamă vine peste. Cu 500€ pe lună, încă 6.000€ pe an, plătiți direct la Google sau Meta. Dacă rulăm pe Google și pe Meta, administrarea e 400€ pe lună, adică 4.800€ pe an.
     </p>
   </div>
 </section>
@@ -937,7 +938,7 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0soykg1_j0p1h
     <div class="csi-faq rv">
       <details>
         <summary>Cât costă administrarea Google Ads pe lună?</summary>
-        <p>200€ pe lună, oricâte campanii, pe Google și pe Meta (Facebook + Instagram) împreună, minim 3 luni. Setup-ul de cont și tracking costă 200€ o dată și e gratuit la contract pe 12 luni. Bugetul de reclamă e separat și se plătește direct la Google și Meta.</p>
+        <p>200€ pe lună pentru Google Ads, oricâte campanii, minim 3 luni. Pentru Meta (Facebook și Instagram) e tot 200€ pe lună, iar pe amândouă platformele 400€ pe lună. Setup-ul de cont și tracking costă 200€ o dată și e gratuit la contract pe 12 luni. Bugetul de reclamă e separat și se plătește direct la Google și Meta.</p>
       </details>
       <details>
         <summary>De ce minim 3 luni?</summary>
@@ -957,11 +958,11 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0soykg1_j0p1h
       </details>
       <details>
         <summary>Faceți și doar Facebook?</summary>
-        <p>Da. Putem rula doar pe Facebook și Instagram, doar pe Google sau pe amândouă. Administrarea costă tot 200€ pe lună, oricâte campanii ai.</p>
+        <p>Da. Putem rula doar pe Facebook și Instagram, doar pe Google sau pe amândouă. Administrarea costă 200€ pe lună pe fiecare platformă, oricâte campanii ai: 200€ doar pe Meta, 400€ pe amândouă.</p>
       </details>
       <details>
         <summary>Ce se schimbă la preț dacă îmi cresc bugetul?</summary>
-        <p>Nimic la onorariu. Cu 500€ sau cu 2.000€ buget pe lună, administrarea rămâne 200€. Crește doar suma pe care o plătești direct la Google și Meta.</p>
+        <p>Nimic la onorariu. Cu 500€ sau cu 2.000€ buget pe lună, administrarea rămâne 200€ pe platformă. Crește doar suma pe care o plătești direct la Google și Meta.</p>
       </details>
     </div>
   </div>
@@ -1009,5 +1010,5 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0soykg1_j0p1h
 1c:["$","$L26",null,{"children":["$","$21",null,{"name":"Next.MetadataOutlet","children":"$@27"}]}]
 1f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#FFFFFF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#111114","media":"(prefers-color-scheme: dark)"}]]
 28:I[27201,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"IconMark"]
-22:[["$","title","0",{"children":"Preț administrare Google Ads: 200€ pe lună | Visience"}],["$","meta","1",{"name":"description","content":"Preț administrare Google Ads: 200€ pe lună, oricâte campanii, pe Google și Meta împreună, minim 3 luni. Bugetul de reclamă îl plătești direct la Google."}],["$","link","2",{"rel":"canonical","href":"https://visience.ro/pret-administrare-google-ads/"}],["$","meta","3",{"property":"og:title","content":"Preț administrare Google Ads: 200€ pe lună — Visience"}],["$","meta","4",{"property":"og:description","content":"Administrare Google Ads și Meta Ads: 200€ pe lună, oricâte campanii. Bugetul de reclamă rămâne separat, plătit direct la Google și Meta."}],["$","meta","5",{"property":"og:url","content":"https://visience.ro/pret-administrare-google-ads/"}],["$","meta","6",{"property":"og:locale","content":"ro_RO"}],["$","meta","7",{"property":"og:image","content":"https://visience.ro/media/nise/zugravescu.avif"}],["$","meta","8",{"property":"og:image:alt","content":"Site pentru firma de renovări Zugrăvescu din Iași, realizat de Visience"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Agenție Marketing Digital & Web Design Iași | Visience"}],["$","meta","12",{"name":"twitter:description","content":"Branding, website-uri, magazine online, Google & Meta Ads, SEO. Prețuri publice, fără costuri ascunse."}],["$","meta","13",{"name":"twitter:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.04nd99rd6ooix.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/icon.png?icon.3v2r-pcu8x6vx.png","sizes":"192x192","type":"image/png"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2y52blaubq-q-.png","sizes":"180x180","type":"image/png"}],["$","$L28","17",{}]]
+22:[["$","title","0",{"children":"Preț administrare Google Ads: 200€ pe lună | Visience"}],["$","meta","1",{"name":"description","content":"Preț administrare Google Ads: 200€ pe lună, oricâte campanii, minim 3 luni. Meta costă tot 200€, deci 400€ pe amândouă. Bugetul de reclamă e separat."}],["$","link","2",{"rel":"canonical","href":"https://visience.ro/pret-administrare-google-ads/"}],["$","meta","3",{"property":"og:title","content":"Preț administrare Google Ads: 200€ pe lună — Visience"}],["$","meta","4",{"property":"og:description","content":"Administrare Google Ads sau Meta Ads: 200€ pe lună pe platformă, oricâte campanii. Pe amândouă, 400€. Bugetul de reclamă rămâne separat, plătit direct la Google și Meta."}],["$","meta","5",{"property":"og:url","content":"https://visience.ro/pret-administrare-google-ads/"}],["$","meta","6",{"property":"og:locale","content":"ro_RO"}],["$","meta","7",{"property":"og:image","content":"https://visience.ro/media/nise/zugravescu.avif"}],["$","meta","8",{"property":"og:image:alt","content":"Site pentru firma de renovări Zugrăvescu din Iași, realizat de Visience"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Agenție Marketing Digital & Web Design Iași | Visience"}],["$","meta","12",{"name":"twitter:description","content":"Branding, website-uri, magazine online, Google & Meta Ads, SEO. Prețuri publice, fără costuri ascunse."}],["$","meta","13",{"name":"twitter:image","content":"https://visience.ro/media/og-visience-v2.jpg"}],["$","link","14",{"rel":"icon","href":"/favicon.ico?favicon.04nd99rd6ooix.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","15",{"rel":"icon","href":"/icon.png?icon.3v2r-pcu8x6vx.png","sizes":"192x192","type":"image/png"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2y52blaubq-q-.png","sizes":"180x180","type":"image/png"}],["$","$L28","17",{}]]
 27:null
