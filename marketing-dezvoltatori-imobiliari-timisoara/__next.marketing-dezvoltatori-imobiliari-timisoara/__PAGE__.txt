@@ -1,0 +1,252 @@
+1:"$Sreact.fragment"
+7:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["/_next/static/chunks/2225dsg-8gzx2.css","style"]
+2:Tde5,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari-timisoara/#webpage","url":"https://visience.ro/marketing-dezvoltatori-imobiliari-timisoara/","name":"Marketing pentru dezvoltatori din Timișoara","description":"Marketing pentru ansambluri rezidențiale din Timișoara și împrejurimi: analiză de zonă, brand, site cu grila de apartamente, tur 3D, campanii, CRM și vânzare.","inLanguage":"ro-RO","dateModified":"2026-10-23","isPartOf":{"@id":"https://visience.ro/#website"},"about":{"@id":"https://visience.ro/marketing-dezvoltatori-imobiliari-timisoara/#service"}},{"@type":"Service","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari-timisoara/#service","name":"Marketing imobiliar pentru dezvoltatori din Timișoara","serviceType":"Marketing imobiliar pentru ansambluri rezidențiale","description":"Marketing pentru ansambluri rezidențiale din Timișoara și împrejurimi: analiză de zonă, brand, site cu grila de apartamente, tur 3D, campanii, CRM și vânzare.","url":"https://visience.ro/marketing-dezvoltatori-imobiliari-timisoara/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"City","name":"Timișoara"},{"@type":"AdministrativeArea","name":"Județul Timiș"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"200","highPrice":"2500","offerCount":"6"}},{"@type":"FAQPage","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari-timisoara/#faq","mainEntity":[{"@type":"Question","name":"Lucrați cu dezvoltatori din Timișoara?","acceptedAnswer":{"@type":"Answer","text":"Da. Lucrăm online, cu întâlniri video, iar campaniile le facem pe Timișoara sau pe zonele pe care le alegi. Proiectele imobiliare din portofoliu sunt în Iași, Botoșani și Bușteni."}},{"@type":"Question","name":"Cât costă marketingul pentru un ansamblu din Timișoara?","acceptedAnswer":{"@type":"Answer","text":"Aceleași prețuri ca peste tot, publice pe fiecare serviciu: analiză de zonă 800€, brand de la 500€, site de la 750€, tur virtual 3D de la 500€ pe apartament, campanii 200€ pe lună pe platformă. Bugetul de reclame se plătește separat, direct la Google și Meta."}},{"@type":"Question","name":"Am doar terenul lângă Timișoara. Cu ce începem?","acceptedAnswer":{"@type":"Answer","text":"Cu analiza de zonă, 800€: ansamblurile concurente din jur, cererea online și prețurile. Dacă trebuie să decizi ce construiești, raportul de validare comercială spune ce tipologii, câte apartamente și la ce preț se vând acolo."}},{"@type":"Question","name":"Vă ocupați și de vânzare?","acceptedAnswer":{"@type":"Answer","text":"Da, dacă vrei. Agenții sună fiecare cerere, programează vizionările și duc discuția până la antecontract, cu onorariu lunar și comision la vânzare, stabilite pe proiect."}},{"@type":"Question","name":"Ce rămâne al meu dacă ne oprim?","acceptedAnswer":{"@type":"Answer","text":"Tot: conturile de reclame, pixelul, CRM-ul cu toate cererile, site-ul, domeniul, fișierele de brand, randările și rapoartele. Totul e pe firma ta de la început."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Marketing pentru dezvoltatori","item":"https://visience.ro/marketing-dezvoltatori-imobiliari/"},{"@type":"ListItem","position":3,"name":"Timișoara","item":"https://visience.ro/marketing-dezvoltatori-imobiliari-timisoara/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"tjjfbqy-d9gjFj9hkqHuh"}
+6:T3723,<main id="main">
+
+<section class="csi-hero" aria-labelledby="csi-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="22%" x2="100%" y2="64%"/>
+      <line x1="0" y1="58%" x2="100%" y2="18%"/>
+      <line x1="24%" y1="0" x2="78%" y2="100%"/>
+      <line x1="66%" y1="0" x2="14%" y2="100%"/>
+    </svg>
+  </div>
+  <div class="wrap">
+    <nav class="csi-breadcrumbs" aria-label="Breadcrumbs">
+      <a href="/">Acasă</a><span class="sep">/</span>
+      <a href="/marketing-dezvoltatori-imobiliari/">Marketing pentru dezvoltatori</a><span class="sep">/</span>
+      <span>Timișoara</span>
+    </nav>
+
+    <h1 class="csi-hero__h1" id="csi-h1">
+      Marketing pentru dezvoltatori<br>
+      <span class="acc">din Timișoara</span>
+    </h1>
+
+    <p class="csi-hero__lead">Construiești în Timișoara sau în localitățile din jur, unde prețurile apartamentelor noi au crescut repede, iar ansamblurile noi se bat pe aceiași cumpărători. Facem analiza zonei, brandul, site-ul cu grila de apartamente, turul virtual 3D, campaniile Google și Meta și CRM-ul, cu prețuri publice pe fiecare serviciu. Dacă vrei, preluăm și vânzarea.</p>
+
+    <div class="csi-hero__acts">
+      <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+      <a href="#preturi" class="btn btn-ghost" style="border-color:rgba(255,255,255,.25);color:#fff">Vezi prețurile</a>
+    </div>
+
+    <div class="csi-hero__stats">
+      <div class="csi-hero__stat"><span class="n">8.200+</span><span class="l">lead-uri pentru dezvoltatori</span></div>
+      <div class="csi-hero__stat"><span class="n">400+</span><span class="l">apartamente vândute la Evergreen Towers</span></div>
+      <div class="csi-hero__stat"><span class="n">9</span><span class="l">proiecte imobiliare</span></div>
+      <div class="csi-hero__stat"><span class="n">800€</span><span class="l">analiza de zonă</span></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Ce facem <span class="acc">pentru un ansamblu</span></h2>
+      <p class="body-lg" style="margin-top:14px">Tot lanțul, de la teren la antecontract, cu o singură echipă și cu prețul fiecărui serviciu publicat.</p>
+    </div>
+    <div class="csi-grid csi-grid--3 rv rv-d1">
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-map-location-dot"></i></div>
+        <h3>Analiza zonei</h3>
+        <p>Ansamblurile concurente din jurul terenului, cererea online și prețurile afișate, într-un document scris. 800€.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-pen-nib"></i></div>
+        <h3>Numele și brandul ansamblului</h3>
+        <p>Nume, logo și identitate pentru tot proiectul, folosite pe site, pe gard, în broșură și în reclame. De la 500€.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-table-cells-large"></i></div>
+        <h3>Site cu grila de apartamente</h3>
+        <p>O pagină pentru fiecare apartament, cu planul, suprafețele și formularul, plus grila cu ce e liber și ce e rezervat. De la 750€.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-cube"></i></div>
+        <h3>Tur virtual 3D și randări</h3>
+        <p>Apartamentul construit 3D după plan și mobilat, cu un tur care se deschide pe telefon. De la 500€ pe apartament.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-bullhorn"></i></div>
+        <h3>Campanii Google și Meta</h3>
+        <p>200€ pe lună pe platformă, oricâte campanii, cu raport lunar. Bugetul de reclame îl plătești direct la Google și Meta.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-users"></i></div>
+        <h3>CRM și, dacă vrei, vânzare</h3>
+        <p>Toate cererile într-un loc, urmărite până la antecontract. La cerere, agenții noștri sună cererile și programează vizionările.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream2">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Piața din Timișoara, <span class="acc">în cifre</span></h2>
+    </div>
+    <div class="csi-prose rv rv-d1">
+      <p>La începutul lui 2026, Indicele Imobiliare.ro dădea pentru Timișoara aproximativ <strong>2.131€ pe metru pătrat util</strong> la apartamentele noi, al patrulea oraș ca preț din țară. În martie 2026, apartamentele noi erau cu 11% mai scumpe decât cu un an înainte.</p>
+      <p>Când prețurile urcă repede, contează să vinzi din faza de proiect, cât lista de prețuri e încă atractivă. Pentru asta îți trebuie numele și site-ul ansamblului din timp, o listă de interesați strânsă înainte de lansare și campanii care pornesc odată cu autorizația.</p>
+      <p style="font-size:13px;color:var(--light)">Surse: Indicele Imobiliare.ro, ianuarie și martie 2026. Prețuri cerute, fără TVA.</p>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">De unde pornim, <span class="acc">după stadiul proiectului</span></h2>
+    </div>
+    <div class="csi-types rv rv-d1">
+      <div class="csi-type">
+        <div class="csi-type__n">01</div>
+        <div>
+          <h3>Ai terenul și decizi ce construiești</h3>
+          <p>Analiza de zonă îți arată ansamblurile concurente, cererea online și prețurile din jur. Pentru decizii mai mari, raportul de validare comercială spune ce tipologii, câte apartamente și la ce preț se vând acolo.</p>
+        </div>
+      </div>
+      <div class="csi-type">
+        <div class="csi-type__n">02</div>
+        <div>
+          <h3>Proiectezi sau aștepți autorizația</h3>
+          <p>Numele ansamblului, brandul, site-ul cu grila de apartamente, randările și turul virtual 3D. Strângem din timp lista de interesați, ca la lansare să ai deja cui vinde.</p>
+        </div>
+      </div>
+      <div class="csi-type">
+        <div class="csi-type__n">03</div>
+        <div>
+          <h3>Construiești și vinzi din șantier</h3>
+          <p>Campanii Google și Meta, pagini de ofertă, CRM pentru toate cererile, vizionări și zile ale porților deschise, cu raport în fiecare lună.</p>
+        </div>
+      </div>
+      <div class="csi-type">
+        <div class="csi-type__n">04</div>
+        <div>
+          <h3>Vinzi ultimele apartamente</h3>
+          <p>Reclame către cei care au văzut deja ansamblul, oferte pe apartamentele rămase și faza următoare pornită cu același brand.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Rezultate <span class="acc">din proiectele noastre</span></h2>
+      <p class="body-lg" style="margin-top:14px">Cifre de la dezvoltatori cu care lucrăm. Proiectele din portofoliu sunt în Iași, Botoșani și Bușteni.</p>
+    </div>
+    <div class="csi-prose rv rv-d1">
+      <p><strong>Evergreen Towers, Iași:</strong> peste 6.600 de lead-uri și peste 400 de apartamente vândute în 3 ani.<br><strong>Picolina Bucium, Iași:</strong> peste 1.000 de lead-uri în 5 luni.<br><strong>Armur Design, Iași:</strong> peste 600 de lead-uri în 5 luni și 10 case de 350.000€ vândute.<br><strong>Bucegii la Fereastră, Bușteni:</strong> site cu grila de apartamente, CRM și tur virtual 3D.</p>
+      <p>Evergreen Towers și Picolina au mers în colaborare cu Vistory. <a href="/marketing-dezvoltatori-imobiliari/#rezultate">Vezi toate proiectele</a>.</p>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white" id="preturi">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Cât costă, <span class="acc">pe fiecare serviciu</span></h2>
+      <p class="body-lg" style="margin-top:14px">Aceleași prețuri în orice oraș. Bugetul de reclame se plătește separat, direct la Google și Meta.</p>
+    </div>
+    <div class="csi-tbl rv rv-d1">
+      <table>
+        <thead>
+          <tr><th>Serviciu</th><th>Preț</th><th>Ce conține</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Analiză de zonă</td><td>800€</td><td>Concurența din jurul terenului, cererea și prețurile, într-un document scris.</td></tr>
+          <tr><td>Brand pentru ansamblu</td><td>de la 500€</td><td>Logo, paletă și identitate, până la brand book complet la 2.500€.</td></tr>
+          <tr><td>Site cu grila de apartamente</td><td>de la 750€</td><td>Basic 750€, Standard 1.200€, Premium 2.500€. CRM-ul și grila sunt incluse.</td></tr>
+          <tr><td>Tur virtual 3D și randări</td><td>de la 500€</td><td>Per apartament, mobilat în stilul ales, cu turul pe telefon.</td></tr>
+          <tr><td>Campanii Google sau Meta</td><td>200€ / lună</td><td>Pe platformă, oricâte campanii, minim 3 luni. Pe amândouă, 400€ pe lună.</td></tr>
+          <tr><td>SEO și Google Maps</td><td>600€ / lună</td><td>Căutările organice pentru zona ansamblului. Minim 6 luni.</td></tr>
+          <tr><td>Vânzare cu echipă de agenți</td><td>la cerere</td><td>Onorariu lunar și comision la vânzare, stabilite pe proiect.</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="fe-tbl-note rv rv-d2">Lista completă, cu toate serviciile, e pe <a href="/marketing-dezvoltatori-imobiliari/#preturi">pagina pentru dezvoltatori</a>.</p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Întrebări <span class="acc">frecvente</span></h2>
+    </div>
+    <div class="csi-faq rv">
+      <details>
+        <summary>Lucrați cu dezvoltatori din Timișoara?</summary>
+        <p>Da. Lucrăm online, cu întâlniri video, iar campaniile le facem pe Timișoara sau pe zonele pe care le alegi. Proiectele imobiliare din portofoliu sunt în Iași, Botoșani și Bușteni.</p>
+      </details>
+      <details>
+        <summary>Cât costă marketingul pentru un ansamblu din Timișoara?</summary>
+        <p>Aceleași prețuri ca peste tot, publice pe fiecare serviciu: analiză de zonă 800€, brand de la 500€, site de la 750€, tur virtual 3D de la 500€ pe apartament, campanii 200€ pe lună pe platformă. Bugetul de reclame se plătește separat, direct la Google și Meta.</p>
+      </details>
+      <details>
+        <summary>Am doar terenul lângă Timișoara. Cu ce începem?</summary>
+        <p>Cu analiza de zonă, 800€: ansamblurile concurente din jur, cererea online și prețurile. Dacă trebuie să decizi ce construiești, raportul de validare comercială spune ce tipologii, câte apartamente și la ce preț se vând acolo.</p>
+      </details>
+      <details>
+        <summary>Vă ocupați și de vânzare?</summary>
+        <p>Da, dacă vrei. Agenții sună fiecare cerere, programează vizionările și duc discuția până la antecontract, cu onorariu lunar și comision la vânzare, stabilite pe proiect.</p>
+      </details>
+      <details>
+        <summary>Ce rămâne al meu dacă ne oprim?</summary>
+        <p>Tot: conturile de reclame, pixelul, CRM-ul cu toate cererile, site-ul, domeniul, fișierele de brand, randările și rapoartele. Totul e pe firma ta de la început.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-cta" aria-labelledby="csi-cta-h">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="dd dd-lg csi-cta__h" id="csi-cta-h">Construiești în Timișoara?<br><span class="acc">Spune-ne unde e terenul.</span></h2>
+      <p class="csi-cta__p">Zona, stadiul proiectului și câte apartamente ai în plan. În 24 de ore îți spunem cu ce începem și cât costă fiecare serviciu.</p>
+      <div class="csi-cta__acts">
+        <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+        <a href="tel:+40771486499" class="btn btn-dark">+40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Pagini înrudite">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Toate prețurile noastre sunt publice, serviciu cu serviciu. Sunt aceleași cifre pe care le trecem în ofertă.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Alte orașe și servicii</div>
+      <div class="rel-links__grid">
+        <a href="/marketing-dezvoltatori-imobiliari-bucuresti/" class="rel-link"><span class="rel-link__name">București și Ilfov <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/marketing-dezvoltatori-imobiliari-cluj/" class="rel-link"><span class="rel-link__name">Cluj-Napoca <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/marketing-dezvoltatori-imobiliari-brasov/" class="rel-link"><span class="rel-link__name">Brașov <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/marketing-dezvoltatori-imobiliari-constanta/" class="rel-link"><span class="rel-link__name">Constanța <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/marketing-imobiliar-iasi/" class="rel-link"><span class="rel-link__name">Iași <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/tur-virtual-3d-apartamente/" class="rel-link"><span class="rel-link__name">Tur virtual 3D <span class="arr" aria-hidden="true">↗</span></span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+3:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$6"}}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2225dsg-8gzx2.css","precedence":"next"}]
+5:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

@@ -2,8 +2,8 @@
 7:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 8:"$Sreact.suspense"
 :HL["/_next/static/chunks/2225dsg-8gzx2.css","style"]
-2:Tdfe,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari-bucuresti/#webpage","url":"https://visience.ro/marketing-dezvoltatori-imobiliari-bucuresti/","name":"Marketing pentru dezvoltatori din București și Ilfov","description":"Marketing pentru ansambluri rezidențiale din București și Ilfov: analiză de zonă, brand, site cu grila de apartamente, tur 3D, campanii Google și Meta, CRM și vânzare.","inLanguage":"ro-RO","dateModified":"2026-10-23","isPartOf":{"@id":"https://visience.ro/#website"},"about":{"@id":"https://visience.ro/marketing-dezvoltatori-imobiliari-bucuresti/#service"}},{"@type":"Service","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari-bucuresti/#service","name":"Marketing imobiliar pentru dezvoltatori din București și Ilfov","serviceType":"Marketing imobiliar pentru ansambluri rezidențiale","description":"Marketing pentru ansambluri rezidențiale din București și Ilfov: analiză de zonă, brand, site cu grila de apartamente, tur 3D, campanii Google și Meta, CRM și vânzare.","url":"https://visience.ro/marketing-dezvoltatori-imobiliari-bucuresti/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"City","name":"București"},{"@type":"AdministrativeArea","name":"Județul Ilfov"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"200","highPrice":"2500","offerCount":"6"}},{"@type":"FAQPage","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari-bucuresti/#faq","mainEntity":[{"@type":"Question","name":"Lucrați cu dezvoltatori din București și Ilfov?","acceptedAnswer":{"@type":"Answer","text":"Da. Lucrăm online, cu întâlniri video, iar campaniile le facem pe București, pe Ilfov sau pe cartierele pe care le alegi. Proiectele imobiliare din portofoliu sunt în Iași, Botoșani și Bușteni."}},{"@type":"Question","name":"Cât costă o cerere pentru un ansamblu din București sau Ilfov?","acceptedAnswer":{"@type":"Answer","text":"Din Google Keyword Planner, în octombrie 2026, un click costa 0,1–5,4 lei pe căutările cu Tunari și Otopeni și 4,8–20,6 lei în Pipera. Estimăm 15–30€ pe o cerere venită din Google. În Iași, aceeași cerere costă de obicei mai puțin."}},{"@type":"Question","name":"Prețurile sunt aceleași ca în Iași?","acceptedAnswer":{"@type":"Answer","text":"Da, aceleași, publice pe fiecare serviciu. De obicei e mai mare doar bugetul de reclame, pentru că în București un click costă mai mult."}},{"@type":"Question","name":"Am doar terenul în Ilfov. Cu ce începem?","acceptedAnswer":{"@type":"Answer","text":"Cu analiza de zonă, 800€: ansamblurile concurente din jur, cererea online și prețurile. Dacă trebuie să decizi ce construiești, raportul de validare comercială spune ce tipologii, câte apartamente și la ce preț se vând acolo."}},{"@type":"Question","name":"Vă ocupați și de vânzare?","acceptedAnswer":{"@type":"Answer","text":"Da, dacă vrei. Agenții sună fiecare cerere, programează vizionările și duc discuția până la antecontract, cu onorariu lunar și comision la vânzare, stabilite pe proiect."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Marketing pentru dezvoltatori","item":"https://visience.ro/marketing-dezvoltatori-imobiliari/"},{"@type":"ListItem","position":3,"name":"București și Ilfov","item":"https://visience.ro/marketing-dezvoltatori-imobiliari-bucuresti/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"NcZG7HXShU9TQjOHJZ4ij"}
-6:T3733,<main id="main">
+2:Te05,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari-bucuresti/#webpage","url":"https://visience.ro/marketing-dezvoltatori-imobiliari-bucuresti/","name":"Marketing pentru dezvoltatori din București și Ilfov","description":"Marketing pentru ansambluri rezidențiale din București și Ilfov: analiză de zonă, brand, site cu grila de apartamente, tur 3D, campanii Google și Meta, CRM și vânzare.","inLanguage":"ro-RO","dateModified":"2026-10-23","isPartOf":{"@id":"https://visience.ro/#website"},"about":{"@id":"https://visience.ro/marketing-dezvoltatori-imobiliari-bucuresti/#service"}},{"@type":"Service","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari-bucuresti/#service","name":"Marketing imobiliar pentru dezvoltatori din București și Ilfov","serviceType":"Marketing imobiliar pentru ansambluri rezidențiale","description":"Marketing pentru ansambluri rezidențiale din București și Ilfov: analiză de zonă, brand, site cu grila de apartamente, tur 3D, campanii Google și Meta, CRM și vânzare.","url":"https://visience.ro/marketing-dezvoltatori-imobiliari-bucuresti/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"City","name":"București"},{"@type":"AdministrativeArea","name":"Județul Ilfov"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"200","highPrice":"2500","offerCount":"6"}},{"@type":"FAQPage","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari-bucuresti/#faq","mainEntity":[{"@type":"Question","name":"Lucrați cu dezvoltatori din București și Ilfov?","acceptedAnswer":{"@type":"Answer","text":"Da. Lucrăm online, cu întâlniri video, iar campaniile le facem pe București și Ilfov sau pe zonele pe care le alegi. Proiectele imobiliare din portofoliu sunt în Iași, Botoșani și Bușteni."}},{"@type":"Question","name":"Cât costă o cerere pentru un ansamblu din București sau Ilfov?","acceptedAnswer":{"@type":"Answer","text":"Din Google Keyword Planner, în octombrie 2026, un click pe căutările de apartamente noi a costat între 0,1 și 20,6 lei, după zonă. Estimăm 15–30€ pe o cerere venită din Google. În Iași, aceeași cerere costă de obicei mai puțin."}},{"@type":"Question","name":"Am doar terenul în Ilfov. Cu ce începem?","acceptedAnswer":{"@type":"Answer","text":"Cu analiza de zonă, 800€: ansamblurile concurente din jur, cererea online și prețurile. Dacă trebuie să decizi ce construiești, raportul de validare comercială spune ce tipologii, câte apartamente și la ce preț se vând acolo."}},{"@type":"Question","name":"Vă ocupați și de vânzare?","acceptedAnswer":{"@type":"Answer","text":"Da, dacă vrei. Agenții sună fiecare cerere, programează vizionările și duc discuția până la antecontract, cu onorariu lunar și comision la vânzare, stabilite pe proiect."}},{"@type":"Question","name":"Ce rămâne al meu dacă ne oprim?","acceptedAnswer":{"@type":"Answer","text":"Tot: conturile de reclame, pixelul, CRM-ul cu toate cererile, site-ul, domeniul, fișierele de brand, randările și rapoartele. Totul e pe firma ta de la început."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Marketing pentru dezvoltatori","item":"https://visience.ro/marketing-dezvoltatori-imobiliari/"},{"@type":"ListItem","position":3,"name":"București și Ilfov","item":"https://visience.ro/marketing-dezvoltatori-imobiliari-bucuresti/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"tjjfbqy-d9gjFj9hkqHuh"}
+6:T36d1,<main id="main">
 
 <section class="csi-hero" aria-labelledby="csi-h1">
   <div class="line-bg" aria-hidden="true">
@@ -88,6 +88,19 @@
 <section class="csi-sec bg-cream2">
   <div class="wrap">
     <div class="csi-head rv">
+      <h2 class="dd dd-lg">Cât costă o cerere <span class="acc">în București și Ilfov</span></h2>
+    </div>
+    <div class="csi-prose rv rv-d1">
+      <p>În București un click pe Google costă mai mult decât în Iași, iar bugetul de reclame trebuie gândit de la început. Am verificat în Google Keyword Planner, în octombrie 2026: pe căutările de apartamente noi din București și Ilfov, un click a costat între 0,1 și 20,6 lei, după zonă.</p>
+      <p>Din cifrele astea estimăm <strong>15–30€ pe o cerere venită din Google</strong>. Pe Facebook și Instagram costul e de obicei mai mic, dar cererile se califică mai rar. De aceea măsurăm toată pâlnia: la un ansamblu din Iași, din 978 de cereri unice cam 9% au ajuns la vizionare și 9 la antecontract.</p>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
       <h2 class="dd dd-lg">De unde pornim, <span class="acc">după stadiul proiectului</span></h2>
     </div>
     <div class="csi-types rv rv-d1">
@@ -95,7 +108,7 @@
         <div class="csi-type__n">01</div>
         <div>
           <h3>Ai terenul și decizi ce construiești</h3>
-          <p>Analiza de zonă, 800€, îți arată ansamblurile concurente, cererea online și prețurile din jur. Pentru decizii mai mari, raportul de validare comercială spune ce tipologii, câte apartamente și la ce preț se vând acolo.</p>
+          <p>Analiza de zonă îți arată ansamblurile concurente, cererea online și prețurile din jur. Pentru decizii mai mari, raportul de validare comercială spune ce tipologii, câte apartamente și la ce preț se vând acolo.</p>
         </div>
       </div>
       <div class="csi-type">
@@ -124,20 +137,6 @@
 </section>
 
 
-<section class="csi-sec bg-white">
-  <div class="wrap">
-    <div class="csi-head rv">
-      <h2 class="dd dd-lg">Cât costă o cerere <span class="acc">în București și Ilfov</span></h2>
-    </div>
-    <div class="csi-prose rv rv-d1">
-      <p>În București un click pe Google costă mai mult decât în Iași, iar bugetul de reclame trebuie gândit de la început. Am verificat în Google Keyword Planner, în octombrie 2026, pe București și Ilfov:</p>
-      <p><strong>Tunari și Otopeni:</strong> între 100 și 1.000 de căutări pe lună, cu un click între 0,1 și 5,4 lei.<br><strong>Pipera:</strong> un click între 4,8 și 20,6 lei.</p>
-      <p>Din cifrele astea estimăm <strong>15–30€ pe o cerere venită din Google</strong>. Pe Facebook și Instagram costul e de obicei mai mic, dar cererile se califică mai rar. De aceea măsurăm toată pâlnia: la un ansamblu din Iași, din 978 de cereri unice cam 9% au ajuns la vizionare și 9 la antecontract.</p>
-    </div>
-  </div>
-</section>
-
-
 <section class="csi-sec bg-cream">
   <div class="wrap">
     <div class="csi-head rv">
@@ -156,7 +155,7 @@
   <div class="wrap">
     <div class="csi-head rv">
       <h2 class="dd dd-lg">Cât costă, <span class="acc">pe fiecare serviciu</span></h2>
-      <p class="body-lg" style="margin-top:14px">Aceleași prețuri ca în Iași. Bugetul de reclame se plătește separat, direct la Google și Meta.</p>
+      <p class="body-lg" style="margin-top:14px">Aceleași prețuri în orice oraș. Bugetul de reclame se plătește separat, direct la Google și Meta.</p>
     </div>
     <div class="csi-tbl rv rv-d1">
       <table>
@@ -187,15 +186,11 @@
     <div class="csi-faq rv">
       <details>
         <summary>Lucrați cu dezvoltatori din București și Ilfov?</summary>
-        <p>Da. Lucrăm online, cu întâlniri video, iar campaniile le facem pe București, pe Ilfov sau pe cartierele pe care le alegi. Proiectele imobiliare din portofoliu sunt în Iași, Botoșani și Bușteni.</p>
+        <p>Da. Lucrăm online, cu întâlniri video, iar campaniile le facem pe București și Ilfov sau pe zonele pe care le alegi. Proiectele imobiliare din portofoliu sunt în Iași, Botoșani și Bușteni.</p>
       </details>
       <details>
         <summary>Cât costă o cerere pentru un ansamblu din București sau Ilfov?</summary>
-        <p>Din Google Keyword Planner, în octombrie 2026, un click costa 0,1–5,4 lei pe căutările cu Tunari și Otopeni și 4,8–20,6 lei în Pipera. Estimăm 15–30€ pe o cerere venită din Google. În Iași, aceeași cerere costă de obicei mai puțin.</p>
-      </details>
-      <details>
-        <summary>Prețurile sunt aceleași ca în Iași?</summary>
-        <p>Da, aceleași, publice pe fiecare serviciu. De obicei e mai mare doar bugetul de reclame, pentru că în București un click costă mai mult.</p>
+        <p>Din Google Keyword Planner, în octombrie 2026, un click pe căutările de apartamente noi a costat între 0,1 și 20,6 lei, după zonă. Estimăm 15–30€ pe o cerere venită din Google. În Iași, aceeași cerere costă de obicei mai puțin.</p>
       </details>
       <details>
         <summary>Am doar terenul în Ilfov. Cu ce începem?</summary>
@@ -205,6 +200,10 @@
         <summary>Vă ocupați și de vânzare?</summary>
         <p>Da, dacă vrei. Agenții sună fiecare cerere, programează vizionările și duc discuția până la antecontract, cu onorariu lunar și comision la vânzare, stabilite pe proiect.</p>
       </details>
+      <details>
+        <summary>Ce rămâne al meu dacă ne oprim?</summary>
+        <p>Tot: conturile de reclame, pixelul, CRM-ul cu toate cererile, site-ul, domeniul, fișierele de brand, randările și rapoartele. Totul e pe firma ta de la început.</p>
+      </details>
     </div>
   </div>
 </section>
@@ -213,7 +212,7 @@
 <section class="csi-cta" aria-labelledby="csi-cta-h">
   <div class="wrap">
     <div class="rv">
-      <h2 class="dd dd-lg csi-cta__h" id="csi-cta-h">Construiești în București sau Ilfov?<br><span class="acc">Spune-ne unde e terenul.</span></h2>
+      <h2 class="dd dd-lg csi-cta__h" id="csi-cta-h">Construiești în București și Ilfov?<br><span class="acc">Spune-ne unde e terenul.</span></h2>
       <p class="csi-cta__p">Zona, stadiul proiectului și câte apartamente ai în plan. În 24 de ore îți spunem cu ce începem și cât costă fiecare serviciu.</p>
       <div class="csi-cta__acts">
         <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
@@ -233,14 +232,14 @@
       <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
     </div>
     <div class="rel-links">
-      <div class="rel-links__title">Mai departe</div>
+      <div class="rel-links__title">Alte orașe și servicii</div>
       <div class="rel-links__grid">
-        <a href="/marketing-dezvoltatori-imobiliari/" class="rel-link"><span class="rel-link__name">Marketing pentru dezvoltatori <span class="arr" aria-hidden="true">↗</span></span></a>
-        <a href="/analiza-de-zona/" class="rel-link"><span class="rel-link__name">Analiză de zonă <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/marketing-dezvoltatori-imobiliari-cluj/" class="rel-link"><span class="rel-link__name">Cluj-Napoca <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/marketing-dezvoltatori-imobiliari-timisoara/" class="rel-link"><span class="rel-link__name">Timișoara <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/marketing-dezvoltatori-imobiliari-brasov/" class="rel-link"><span class="rel-link__name">Brașov <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/marketing-dezvoltatori-imobiliari-constanta/" class="rel-link"><span class="rel-link__name">Constanța <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/marketing-imobiliar-iasi/" class="rel-link"><span class="rel-link__name">Iași <span class="arr" aria-hidden="true">↗</span></span></a>
         <a href="/tur-virtual-3d-apartamente/" class="rel-link"><span class="rel-link__name">Tur virtual 3D <span class="arr" aria-hidden="true">↗</span></span></a>
-        <a href="/marketing-imobiliar-iasi/" class="rel-link"><span class="rel-link__name">Marketing imobiliar Iași <span class="arr" aria-hidden="true">↗</span></span></a>
-        <a href="/blog/cand-incepi-marketingul-unui-proiect-imobiliar/" class="rel-link"><span class="rel-link__name">Când începi marketingul <span class="arr" aria-hidden="true">↗</span></span></a>
-        <a href="/preturi/" class="rel-link"><span class="rel-link__name">Toate prețurile <span class="arr" aria-hidden="true">↗</span></span></a>
       </div>
     </div>
   </div>
