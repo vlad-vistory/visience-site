@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 5:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 6:"$Sreact.suspense"
-2:T992,{"@context":"https://schema.org","@graph":[{"@type":"OfferCatalog","@id":"https://visience.ro/fr/tarifs/#catalog","name":"Services et tarifs Visience","inLanguage":"fr","itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Landing page de campagne"}},{"@type":"Offer","priceCurrency":"EUR","price":"750","itemOffered":{"@type":"Service","name":"Site vitrine Basic, jusqu'à 6 pages"}},{"@type":"Offer","priceCurrency":"EUR","price":"1200","itemOffered":{"@type":"Service","name":"Site vitrine Standard, 10 pages avec SEO on-page complet"}},{"@type":"Offer","priceCurrency":"EUR","price":"2500","itemOffered":{"@type":"Service","name":"Site vitrine Premium"}},{"@type":"Offer","priceCurrency":"EUR","price":"1000","itemOffered":{"@type":"Service","name":"Boutique en ligne Basic"}},{"@type":"Offer","priceCurrency":"EUR","price":"1800","itemOffered":{"@type":"Service","name":"Boutique en ligne Standard"}},{"@type":"Offer","priceCurrency":"EUR","price":"3500","itemOffered":{"@type":"Service","name":"Boutique en ligne Premium"}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Logo Basic"}},{"@type":"Offer","priceCurrency":"EUR","price":"1200","itemOffered":{"@type":"Service","name":"Identité visuelle complète"}},{"@type":"Offer","priceCurrency":"EUR","price":"2500","itemOffered":{"@type":"Service","name":"Brand book avec logo animé"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Gestion de campagnes Google Ads, mensuel, autant de campagnes que nécessaire"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Gestion de campagnes Meta Ads (Facebook et Instagram), mensuel, autant de campagnes que nécessaire"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Configuration de campagne et mesure"}},{"@type":"Offer","priceCurrency":"EUR","price":"600","itemOffered":{"@type":"Service","name":"Stratégie SEO complète, mensuel"}},{"@type":"Offer","priceCurrency":"EUR","price":"450","itemOffered":{"@type":"Service","name":"Réseaux sociaux, 15 publications par mois"}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://visience.ro/fr/"},{"@type":"ListItem","position":2,"name":"Tarifs","item":"https://visience.ro/fr/tarifs/"}]}]}3:T15db6,<style>
+2:T992,{"@context":"https://schema.org","@graph":[{"@type":"OfferCatalog","@id":"https://visience.ro/fr/tarifs/#catalog","name":"Services et tarifs Visience","inLanguage":"fr","itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Landing page de campagne"}},{"@type":"Offer","priceCurrency":"EUR","price":"750","itemOffered":{"@type":"Service","name":"Site vitrine Basic, jusqu'à 6 pages"}},{"@type":"Offer","priceCurrency":"EUR","price":"1200","itemOffered":{"@type":"Service","name":"Site vitrine Standard, 10 pages avec SEO on-page complet"}},{"@type":"Offer","priceCurrency":"EUR","price":"2500","itemOffered":{"@type":"Service","name":"Site vitrine Premium"}},{"@type":"Offer","priceCurrency":"EUR","price":"1000","itemOffered":{"@type":"Service","name":"Boutique en ligne Basic"}},{"@type":"Offer","priceCurrency":"EUR","price":"1800","itemOffered":{"@type":"Service","name":"Boutique en ligne Standard"}},{"@type":"Offer","priceCurrency":"EUR","price":"3500","itemOffered":{"@type":"Service","name":"Boutique en ligne Premium"}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Logo Basic"}},{"@type":"Offer","priceCurrency":"EUR","price":"1200","itemOffered":{"@type":"Service","name":"Identité visuelle complète"}},{"@type":"Offer","priceCurrency":"EUR","price":"2500","itemOffered":{"@type":"Service","name":"Brand book avec logo animé"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Gestion de campagnes Google Ads, mensuel, autant de campagnes que nécessaire"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Gestion de campagnes Meta Ads (Facebook et Instagram), mensuel, autant de campagnes que nécessaire"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Configuration de campagne et mesure"}},{"@type":"Offer","priceCurrency":"EUR","price":"600","itemOffered":{"@type":"Service","name":"Stratégie SEO complète, mensuel"}},{"@type":"Offer","priceCurrency":"EUR","price":"450","itemOffered":{"@type":"Service","name":"Réseaux sociaux, 15 publications par mois"}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://visience.ro/fr/"},{"@type":"ListItem","position":2,"name":"Tarifs","item":"https://visience.ro/fr/tarifs/"}]}]}3:T1657a,<style>
 .pr-hero {
   position: relative;
   padding: calc(var(--nav-h) + 90px) 0 80px;
@@ -1494,6 +1494,40 @@
   </div>
 </section>
 
+<section class="pr-sec bg-cream2" id="tur-3d" aria-labelledby="t3d-h2">
+  <div class="wrap">
+
+    <div class="pr-sec__head rv">
+      <h2 class="pr-sec__h2" id="t3d-h2">Combien coûte une <span class="acc">visite virtuelle 3D ?</span></h2>
+      <p class="pr-sec__lead">
+        <strong>À partir de 500 €</strong> par appartement, avec les images 3D de chaque pièce.
+      </p>
+    </div>
+
+    <p class="pr-seo-intro rv">
+      Nous construisons l'appartement en 3D d'après le plan de l'architecte, nous le meublons dans le style choisi et nous en tirons les images de chaque pièce et une visite virtuelle que l'acheteur ouvre sur son téléphone. Pour les <strong>promoteurs immobiliers</strong>, les agences immobilières, les fabricants de meubles sur mesure et les architectes.
+    </p>
+
+    <div class="pr-grid rv rv-d1">
+      <div class="pr-card featured">
+        <span class="pr-card__badge">Par appartement</span>
+        <div class="pr-card__name">Visite virtuelle 3D et images 3D</div>
+        <div class="pr-card__price">500€</div>
+        <div class="pr-card__price-note">prix de départ, par appartement</div>
+        <p class="pr-card__desc">L'appartement meublé, vu avant d'être construit.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>L'appartement construit en 3D d'après le plan de l'architecte</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Meublé dans le style choisi, avec la liste des meubles</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Les images 3D de chaque pièce</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Une visite virtuelle qui s’ouvre sur téléphone</span></div>
+        </div>
+        <a href="#contact" class="pr-card__cta">Demander un devis</a>
+      </div>
+    </div>
+
+  </div>
+</section>
+
 
 <section class="pr-sec bg-cream" style="padding:50px 0">
   <div class="wrap">
@@ -1690,6 +1724,6 @@
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wBSkL-u4O94_mY2wgLp6T"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"3mtG-GfNSYU7cXx4h-V0a"}
 4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
 7:null

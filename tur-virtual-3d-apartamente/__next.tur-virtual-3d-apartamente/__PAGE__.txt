@@ -1,0 +1,259 @@
+1:"$Sreact.fragment"
+7:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["/_next/static/chunks/2225dsg-8gzx2.css","style"]
+2:Td80,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://visience.ro/tur-virtual-3d-apartamente/#webpage","url":"https://visience.ro/tur-virtual-3d-apartamente/","name":"Tur virtual 3D și randări pentru fiecare apartament","description":"Apartamentul construit în 3D după planul arhitectului, mobilat în stilul ales: randări pentru fiecare cameră și tur virtual pe telefon. De la 500€ pe apartament.","inLanguage":"ro-RO","dateModified":"2026-10-23","isPartOf":{"@id":"https://visience.ro/#website"},"about":{"@id":"https://visience.ro/tur-virtual-3d-apartamente/#service"}},{"@type":"Service","@id":"https://visience.ro/tur-virtual-3d-apartamente/#service","name":"Tur virtual 3D și randări pentru apartamente","serviceType":"Tur virtual 3D și randări 3D de interior","description":"Apartamentul construit în 3D după planul arhitectului, mobilat în stilul ales: randări pentru fiecare cameră și tur virtual pe telefon. De la 500€ pe apartament.","url":"https://visience.ro/tur-virtual-3d-apartamente/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"Offer","price":"500","priceCurrency":"EUR","description":"De la 500€ pe apartament: apartamentul construit 3D după plan, mobilat în stilul ales, randări pentru fiecare cameră și tur virtual pe telefon.","priceSpecification":{"@type":"PriceSpecification","minPrice":"500","priceCurrency":"EUR"}}},{"@type":"FAQPage","@id":"https://visience.ro/tur-virtual-3d-apartamente/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un tur virtual 3D pentru un apartament?","acceptedAnswer":{"@type":"Answer","text":"De la 500€ pe apartament, cu randări pentru fiecare cameră. Prețul final depinde de suprafață, de numărul de camere și de câte variante de stil vrei."}},{"@type":"Question","name":"Ce vă trebuie ca să începeți?","acceptedAnswer":{"@type":"Answer","text":"Planul apartamentului cu cote, finisajele (parchet, gresie, uși, ferestre) și stilul de mobilier. Dacă ai randări de fațadă sau poze din zonă, le folosim pentru ce se vede pe geam."}},{"@type":"Question","name":"Se poate face înainte să existe blocul?","acceptedAnswer":{"@type":"Answer","text":"Da, e făcut tocmai pentru vânzarea din faza de proiect. Cumpărătorul vede apartamentul mobilat înainte să înceapă construcția."}},{"@type":"Question","name":"Turul merge pe telefon?","acceptedAnswer":{"@type":"Answer","text":"Da. Se deschide dintr-un link, în browser, pe telefon sau pe calculator. Nu trebuie instalată nicio aplicație."}},{"@type":"Question","name":"Pot alege mobila?","acceptedAnswer":{"@type":"Answer","text":"Da, stilul și piesele, cameră cu cameră. Putem folosi mobilă care se găsește în magazine, iar lista pieselor, cu prețuri, o primești."}},{"@type":"Question","name":"Unde pun turul?","acceptedAnswer":{"@type":"Answer","text":"Pe site, pe pagina fiecărui apartament, în postări și în reclame. Linkul se trimite și pe WhatsApp, direct cumpărătorului."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Marketing pentru dezvoltatori","item":"https://visience.ro/marketing-dezvoltatori-imobiliari/"},{"@type":"ListItem","position":3,"name":"Tur virtual 3D","item":"https://visience.ro/tur-virtual-3d-apartamente/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"3mtG-GfNSYU7cXx4h-V0a"}
+6:T31a6,<main id="main">
+
+<section class="csi-hero" aria-labelledby="csi-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="22%" x2="100%" y2="64%"/>
+      <line x1="0" y1="58%" x2="100%" y2="18%"/>
+      <line x1="24%" y1="0" x2="78%" y2="100%"/>
+      <line x1="66%" y1="0" x2="14%" y2="100%"/>
+    </svg>
+  </div>
+  <div class="wrap">
+    <nav class="csi-breadcrumbs" aria-label="Breadcrumbs">
+      <a href="/">Acasă</a><span class="sep">/</span>
+      <a href="/marketing-dezvoltatori-imobiliari/">Marketing pentru dezvoltatori</a><span class="sep">/</span>
+      <span>Tur virtual 3D</span>
+    </nav>
+
+    <h1 class="csi-hero__h1" id="csi-h1">
+      Tur virtual 3D și randări<br>
+      <span class="acc">pentru fiecare apartament</span>
+    </h1>
+
+    <p class="csi-hero__lead">Cumpărătorul primește un plan cu cote și nu-și dă seama unde încape canapeaua sau cât de mare e dormitorul. Construim apartamentul în 3D după planul arhitectului, îl mobilăm în stilul pe care îl alegi și facem din el randări pentru fiecare cameră și un tur virtual prin care omul se plimbă de pe telefon. Pornește de la 500€ pe apartament.</p>
+
+    <div class="csi-hero__acts">
+      <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+      <a href="https://tur-virtual.vercel.app/?apt=1.3" class="btn btn-ghost" target="_blank" rel="noopener" style="border-color:rgba(255,255,255,.25);color:#fff">Încearcă turul demo</a>
+    </div>
+
+    <div class="csi-hero__stats">
+      <div class="csi-hero__stat"><span class="n">500€</span><span class="l">de la, pe apartament</span></div>
+      <div class="csi-hero__stat"><span class="n">3D</span><span class="l">construit după plan</span></div>
+      <div class="csi-hero__stat"><span class="n">1 link</span><span class="l">turul merge pe telefon</span></div>
+      <div class="csi-hero__stat"><span class="n">8.200+</span><span class="l">lead-uri pentru dezvoltatori</span></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Ce primești <span class="acc">pentru fiecare apartament</span></h2>
+      <p class="body-lg" style="margin-top:14px">Un singur lucru construit o dată, folosit peste tot: pe site, în broșură, în reclame și în discuția cu cumpărătorul.</p>
+    </div>
+    <div class="csi-grid csi-grid--3 rv rv-d1">
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-cube"></i></div>
+        <h3>Apartamentul în 3D, după plan</h3>
+        <p>Pereții, ușile, ferestrele și înălțimea camerelor, luate din planul arhitectului. Suprafețele sunt cele pe care le vinzi.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-couch"></i></div>
+        <h3>Mobilat în stilul ales</h3>
+        <p>Nordic, modern sau clasic, cu mobilă care se găsește în magazine. Primești și lista pieselor, cu prețuri, pentru cumpărătorul care vrea apartamentul exact așa.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-images"></i></div>
+        <h3>Randări pentru fiecare cameră</h3>
+        <p>Living, bucătărie, dormitoare, baie și balcon, gata de pus pe site, în broșură, în postări și în reclame.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-mobile-screen"></i></div>
+        <h3>Tur virtual pe telefon</h3>
+        <p>Cumpărătorul se plimbă prin apartament dintr-un link, pe telefon sau pe calculator, fără să instaleze nimic.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-mountain-sun"></i></div>
+        <h3>Ce se vede pe geam</h3>
+        <p>Pe ferestre se vede ce e în jur: muntele, parcul sau orașul, după locul ansamblului. Omul știe din prima ce vede de acasă.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-link"></i></div>
+        <h3>Pe site și în reclame</h3>
+        <p>Turul intră pe pagina apartamentului de pe site, iar linkul îl trimiți pe WhatsApp sau îl pui în reclame.</p>
+      </div>
+    </div>
+    <div class="rv rv-d2" style="text-align:center;margin-top:34px">
+      <a href="https://tur-virtual.vercel.app/?apt=1.3" class="btn btn-ghost" target="_blank" rel="noopener">Încearcă turul demo →</a>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream2">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Pentru cine <span class="acc">e făcut</span></h2>
+    </div>
+    <div class="csi-types rv rv-d1">
+      <div class="csi-type">
+        <div class="csi-type__n">01</div>
+        <div>
+          <h3>Dezvoltatori imobiliari</h3>
+          <p>Vinzi din faza de proiect, când blocul încă nu există. Turul arată apartamentul gata mobilat, cameră cu cameră.</p>
+        </div>
+      </div>
+      <div class="csi-type">
+        <div class="csi-type__n">02</div>
+        <div>
+          <h3>Agenții imobiliare</h3>
+          <p>Apartamentele goale arată locuite, cu mobila potrivită pentru fiecare cameră.</p>
+        </div>
+      </div>
+      <div class="csi-type">
+        <div class="csi-type__n">03</div>
+        <div>
+          <h3>Mobilă la comandă și amenajări</h3>
+          <p>Clientul vede cum arată camera amenajată înainte să comande.</p>
+        </div>
+      </div>
+      <div class="csi-type">
+        <div class="csi-type__n">04</div>
+        <div>
+          <h3>Arhitecți și constructori</h3>
+          <p>Prezinți proiectul înainte să înceapă lucrarea, cu fiecare cameră mobilată.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Cum lucrăm, <span class="acc">de la plan la tur</span></h2>
+    </div>
+    <div class="csi-steps rv rv-d1">
+      <div class="csi-step">
+        <div class="csi-step__n">01</div>
+        <h3>Ne trimiți planul</h3>
+        <p>Planul apartamentului cu cote, finisajele dorite și, dacă le ai, randările de fațadă.</p>
+      </div>
+      <div class="csi-step">
+        <div class="csi-step__n">02</div>
+        <h3>Alegi stilul</h3>
+        <p>Stabilim stilul și mobila, cameră cu cameră.</p>
+      </div>
+      <div class="csi-step">
+        <div class="csi-step__n">03</div>
+        <h3>Construim și mobilăm</h3>
+        <p>Facem apartamentul în 3D, îl mobilăm și îți trimitem primele randări.</p>
+      </div>
+      <div class="csi-step">
+        <div class="csi-step__n">04</div>
+        <h3>Primești turul și randările</h3>
+        <p>Turul pe un link, gata de pus pe site, și randările pentru fiecare cameră.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream" id="preturi">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Cât costă, <span class="acc">pe fiecare serviciu</span></h2>
+      <p class="body-lg" style="margin-top:14px">Turul se plătește o dată, pe apartament. Restul serviciilor pentru ansamblu au prețul lor, publicat.</p>
+    </div>
+    <div class="csi-tbl rv rv-d1">
+      <table>
+        <thead>
+          <tr><th>Serviciu</th><th>Preț</th><th>Ce conține</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Tur virtual 3D și randări, un apartament</td><td>de la 500€</td><td>Apartamentul construit după plan, mobilat în stilul ales, randări pentru fiecare cameră și turul virtual pe telefon.</td></tr>
+          <tr><td>Site cu grila de apartamente</td><td>750€</td><td>Website Basic pentru ansamblu, cu turul pus pe pagina fiecărui apartament.</td></tr>
+          <tr><td>Reclame Google sau Meta</td><td>200€ / lună</td><td>Pe platformă, oricâte campanii. Randările intră în anunțuri.</td></tr>
+          <tr><td>Foto, video și dronă</td><td>la cerere</td><td>Coordonăm fotograful și filmările pe șantier.</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="fe-tbl-note rv rv-d2">Prețul turului depinde de suprafață, de numărul de camere și de câte variante de stil vrei. Îl stabilim după ce vedem planul. <a href="/marketing-dezvoltatori-imobiliari/#preturi">Vezi toate prețurile pentru dezvoltatori</a>.</p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Întrebări <span class="acc">frecvente</span></h2>
+    </div>
+    <div class="csi-faq rv">
+      <details>
+        <summary>Cât costă un tur virtual 3D pentru un apartament?</summary>
+        <p>De la 500€ pe apartament, cu randări pentru fiecare cameră. Prețul final depinde de suprafață, de numărul de camere și de câte variante de stil vrei.</p>
+      </details>
+      <details>
+        <summary>Ce vă trebuie ca să începeți?</summary>
+        <p>Planul apartamentului cu cote, finisajele (parchet, gresie, uși, ferestre) și stilul de mobilier. Dacă ai randări de fațadă sau poze din zonă, le folosim pentru ce se vede pe geam.</p>
+      </details>
+      <details>
+        <summary>Se poate face înainte să existe blocul?</summary>
+        <p>Da, e făcut tocmai pentru vânzarea din faza de proiect. Cumpărătorul vede apartamentul mobilat înainte să înceapă construcția.</p>
+      </details>
+      <details>
+        <summary>Turul merge pe telefon?</summary>
+        <p>Da. Se deschide dintr-un link, în browser, pe telefon sau pe calculator. Nu trebuie instalată nicio aplicație.</p>
+      </details>
+      <details>
+        <summary>Pot alege mobila?</summary>
+        <p>Da, stilul și piesele, cameră cu cameră. Putem folosi mobilă care se găsește în magazine, iar lista pieselor, cu prețuri, o primești.</p>
+      </details>
+      <details>
+        <summary>Unde pun turul?</summary>
+        <p>Pe site, pe pagina fiecărui apartament, în postări și în reclame. Linkul se trimite și pe WhatsApp, direct cumpărătorului.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-cta" aria-labelledby="csi-cta-h">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="dd dd-lg csi-cta__h" id="csi-cta-h">Ai planurile apartamentelor?<br><span class="acc">Cere oferta pentru tur.</span></h2>
+      <p class="csi-cta__p">Trimite-ne planul unui apartament și stilul pe care îl vrei. Îți spunem prețul și ce primești, în 24 de ore.</p>
+      <div class="csi-cta__acts">
+        <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+        <a href="tel:+40771486499" class="btn btn-dark">+40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Pagini înrudite">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Toate prețurile noastre sunt publice, serviciu cu serviciu. Sunt aceleași cifre pe care le trecem în ofertă.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Mai departe</div>
+      <div class="rel-links__grid">
+        <a href="/marketing-dezvoltatori-imobiliari/" class="rel-link"><span class="rel-link__name">Marketing pentru dezvoltatori <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/analiza-de-zona/" class="rel-link"><span class="rel-link__name">Analiză de zonă <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-agentie-imobiliara/" class="rel-link"><span class="rel-link__name">Site pentru agenție imobiliară <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-mobila-la-comanda/" class="rel-link"><span class="rel-link__name">Site pentru mobilă la comandă <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/marketing-imobiliar-iasi/" class="rel-link"><span class="rel-link__name">Marketing imobiliar Iași <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/pret-site-de-prezentare/" class="rel-link"><span class="rel-link__name">Preț site de prezentare <span class="arr" aria-hidden="true">↗</span></span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+3:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$6"}}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2225dsg-8gzx2.css","precedence":"next"}]
+5:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null
