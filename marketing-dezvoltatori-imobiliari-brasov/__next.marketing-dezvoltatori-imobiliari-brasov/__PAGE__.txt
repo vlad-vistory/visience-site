@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 7:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 8:"$Sreact.suspense"
-:HL["/_next/static/chunks/2225dsg-8gzx2.css","style"]
-2:Td16,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari-brasov/#webpage","url":"https://visience.ro/marketing-dezvoltatori-imobiliari-brasov/","name":"Marketing pentru dezvoltatori din Brașov","description":"Marketing pentru ansambluri rezidențiale din Brașov și zona de munte: analiză de zonă, brand, site cu grila de apartamente, tur 3D, campanii, CRM și vânzare.","inLanguage":"ro-RO","dateModified":"2026-10-23","isPartOf":{"@id":"https://visience.ro/#website"},"about":{"@id":"https://visience.ro/marketing-dezvoltatori-imobiliari-brasov/#service"}},{"@type":"Service","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari-brasov/#service","name":"Marketing imobiliar pentru dezvoltatori din Brașov","serviceType":"Marketing imobiliar pentru ansambluri rezidențiale","description":"Marketing pentru ansambluri rezidențiale din Brașov și zona de munte: analiză de zonă, brand, site cu grila de apartamente, tur 3D, campanii, CRM și vânzare.","url":"https://visience.ro/marketing-dezvoltatori-imobiliari-brasov/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"City","name":"Brașov"},{"@type":"AdministrativeArea","name":"Județul Brașov"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"200","highPrice":"2500","offerCount":"6"}},{"@type":"FAQPage","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari-brasov/#faq","mainEntity":[{"@type":"Question","name":"Lucrați cu dezvoltatori din Brașov?","acceptedAnswer":{"@type":"Answer","text":"Da. Lucrăm online, cu întâlniri video, iar campaniile le facem pe Brașov sau pe zonele pe care le alegi. Proiectele imobiliare din portofoliu sunt în Iași, Botoșani și Bușteni."}},{"@type":"Question","name":"Ați lucrat pentru ansambluri de la munte?","acceptedAnswer":{"@type":"Answer","text":"Da, pentru Bucegii la Fereastră, un ansamblu din Bușteni, pe Valea Prahovei: site cu grila de apartamente, CRM și tur virtual 3D."}},{"@type":"Question","name":"Am doar terenul lângă Brașov. Cu ce începem?","acceptedAnswer":{"@type":"Answer","text":"Cu analiza de zonă, 800€: ansamblurile concurente din jur, cererea online și prețurile. Dacă trebuie să decizi ce construiești, raportul de validare comercială spune ce tipologii, câte apartamente și la ce preț se vând acolo."}},{"@type":"Question","name":"Vă ocupați și de vânzare?","acceptedAnswer":{"@type":"Answer","text":"Da, dacă vrei. Agenții sună fiecare cerere, programează vizionările și duc discuția până la antecontract, cu onorariu lunar și comision la vânzare, stabilite pe proiect."}},{"@type":"Question","name":"Ce rămâne al meu dacă ne oprim?","acceptedAnswer":{"@type":"Answer","text":"Tot: conturile de reclame, pixelul, CRM-ul cu toate cererile, site-ul, domeniul, fișierele de brand, randările și rapoartele. Totul e pe firma ta de la început."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Marketing pentru dezvoltatori","item":"https://visience.ro/marketing-dezvoltatori-imobiliari/"},{"@type":"ListItem","position":3,"name":"Brașov","item":"https://visience.ro/marketing-dezvoltatori-imobiliari-brasov/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"tjjfbqy-d9gjFj9hkqHuh"}
-6:T363e,<main id="main">
+:HL["/_next/static/chunks/2e20r-1ylhx8v.css","style"]
+2:Td27,{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari-brasov/#webpage","url":"https://visience.ro/marketing-dezvoltatori-imobiliari-brasov/","name":"Marketing pentru dezvoltatori din Brașov","description":"Marketing pentru ansambluri rezidențiale din Brașov și zona de munte: analiză de zonă, brand, site cu grila de apartamente, tur 3D, campanii, CRM și vânzare.","inLanguage":"ro-RO","dateModified":"2026-10-23","isPartOf":{"@id":"https://visience.ro/#website"},"about":{"@id":"https://visience.ro/marketing-dezvoltatori-imobiliari-brasov/#service"}},{"@type":"Service","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari-brasov/#service","name":"Marketing imobiliar pentru dezvoltatori din Brașov","serviceType":"Marketing imobiliar pentru ansambluri rezidențiale","description":"Marketing pentru ansambluri rezidențiale din Brașov și zona de munte: analiză de zonă, brand, site cu grila de apartamente, tur 3D, campanii, CRM și vânzare.","url":"https://visience.ro/marketing-dezvoltatori-imobiliari-brasov/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"City","name":"Brașov"},{"@type":"AdministrativeArea","name":"Județul Brașov"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"200","highPrice":"2500","offerCount":"6"}},{"@type":"FAQPage","@id":"https://visience.ro/marketing-dezvoltatori-imobiliari-brasov/#faq","mainEntity":[{"@type":"Question","name":"Lucrați cu dezvoltatori din Brașov?","acceptedAnswer":{"@type":"Answer","text":"Da. Lucrăm online, cu întâlniri video, iar campaniile le facem pe Brașov sau pe zonele pe care le alegi. Proiectele imobiliare din portofoliu sunt în Iași, Botoșani și Bușteni."}},{"@type":"Question","name":"Ați lucrat pentru ansambluri de la munte?","acceptedAnswer":{"@type":"Answer","text":"Da, pentru Bucegii la Fereastră, un ansamblu din Bușteni, pe Valea Prahovei: site cu grila de apartamente, CRM și tur virtual 3D."}},{"@type":"Question","name":"Am doar terenul lângă Brașov. Cu ce începem?","acceptedAnswer":{"@type":"Answer","text":"Cu analiza de zonă, 800€: ansamblurile concurente din jur, cererea online și prețurile. Dacă trebuie să decizi ce construiești, raportul de validare comercială, de la 2.500€, spune ce tipologii, câte apartamente și la ce preț se vând acolo."}},{"@type":"Question","name":"Vă ocupați și de vânzare?","acceptedAnswer":{"@type":"Answer","text":"Da, dacă vrei. Agenții sună fiecare cerere, programează vizionările și duc discuția până la antecontract, cu onorariu lunar și comision la vânzare, stabilite pe proiect."}},{"@type":"Question","name":"Ce rămâne al meu dacă ne oprim?","acceptedAnswer":{"@type":"Answer","text":"Tot: conturile de reclame, pixelul, CRM-ul cu toate cererile, site-ul, domeniul, fișierele de brand, randările și rapoartele. Totul e pe firma ta de la început."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Marketing pentru dezvoltatori","item":"https://visience.ro/marketing-dezvoltatori-imobiliari/"},{"@type":"ListItem","position":3,"name":"Brașov","item":"https://visience.ro/marketing-dezvoltatori-imobiliari-brasov/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4xR14WbKNwPLKaGnf_eTI"}
+6:T45dd,<main id="main">
 
 <section class="csi-hero" aria-labelledby="csi-h1">
   <div class="line-bg" aria-hidden="true">
@@ -40,6 +40,68 @@
       <div class="csi-hero__stat"><span class="n">800€</span><span class="l">analiza de zonă</span></div>
     </div>
   </div>
+</section>
+
+
+<section class="sqs sqs--dev" id="dezvoltatori" aria-labelledby="dev-h">
+  <div class="port-head">
+    <div class="rv">
+      <h2 class="dd dd-lg" id="dev-h">Site-uri pentru <span class="acc">ansambluri rezidențiale</span></h2>
+    </div>
+    <div class="pf-cta__acts">
+      <a href="/marketing-dezvoltatori-imobiliari/#rezultate" class="btn btn-solid">Vezi rezultatele <span style="margin-left:4px">→</span></a>
+    </div>
+    <div class="port-nav" role="group" aria-label="Navigare slider ansambluri">
+      <button class="pnb" id="devPrev" aria-label="Anterior" disabled>
+        <svg width="15" height="15" viewBox="0 0 15 15" fill="none"><path d="M9.5 3L5 7.5l4.5 4.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+      <button class="pnb" id="devNext" aria-label="Următor">
+        <svg width="15" height="15" viewBox="0 0 15 15" fill="none"><path d="M5.5 3L10 7.5 5.5 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+    </div>
+  </div>
+
+  <div class="port-wrap" id="devWrap" tabindex="0" role="region" aria-label="Site-uri pentru ansambluri rezidențiale">
+    <div class="port-track" id="devTrack">
+
+      <a class="sq-card" href="https://www.bucegii-la-fereastra.ro/" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/v2/bucegii-la-fereastra.avif" alt="Bucegii la Fereastră — site realizat de Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Bucegii la Fereastră</span>
+      </a>
+
+      <a class="sq-card" href="https://www.evergreentowers.ro/" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/v2/evergreen-towers.avif" alt="Evergreen Towers — site realizat de Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Evergreen Towers</span>
+      </a>
+
+      <a class="sq-card" href="https://picolina.ro/" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/v3/picolina-b.avif" alt="Picolina Bucium — site realizat de Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Picolina Bucium</span>
+      </a>
+
+      <a class="sq-card" href="https://armurdesign.ro/" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/v3/armur-design.avif" alt="Armur Design — site realizat de Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Armur Design</span>
+      </a>
+
+      <a class="sq-card" href="https://vlaicu87.ro/" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/v2/vlaicu87.avif" alt="Vlaicu87 — site realizat de Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Vlaicu87</span>
+      </a>
+
+      <a class="sq-card" href="https://www.lapis-residence.ro/" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/v2/lapis-residence.avif" alt="Lapis Residence — site realizat de Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Lapis Residence</span>
+      </a>
+
+      <a class="sq-card" href="https://www.alfapark.ro/" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/v2/alfa-park-residence.avif" alt="Alfa Park Residence — site realizat de Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Alfa Park Residence</span>
+      </a>
+
+    </div>
+  </div>
+  <div class="port-dots" id="devDots" aria-hidden="true"></div>
 </section>
 
 
@@ -109,7 +171,7 @@
         <div class="csi-type__n">01</div>
         <div>
           <h3>Ai terenul și decizi ce construiești</h3>
-          <p>Analiza de zonă îți arată ansamblurile concurente, cererea online și prețurile din jur. Pentru decizii mai mari, raportul de validare comercială spune ce tipologii, câte apartamente și la ce preț se vând acolo.</p>
+          <p>Analiza de zonă îți arată ansamblurile concurente, cererea online și prețurile din jur. Pentru decizii mai mari, raportul de validare comercială, de la 2.500€, spune ce tipologii, câte apartamente și la ce preț se vând acolo.</p>
         </div>
       </div>
       <div class="csi-type">
@@ -165,6 +227,7 @@
         </thead>
         <tbody>
           <tr><td>Analiză de zonă</td><td>800€</td><td>Concurența din jurul terenului, cererea și prețurile, într-un document scris.</td></tr>
+          <tr><td>Raport de validare comercială</td><td>de la 2.500€</td><td>Când încă decizi ce construiești: case sau apartamente, câte unități, la ce preț și dacă merită pornit.</td></tr>
           <tr><td>Brand pentru ansamblu</td><td>de la 500€</td><td>Logo, paletă și identitate, până la brand book complet la 2.500€.</td></tr>
           <tr><td>Site cu grila de apartamente</td><td>de la 750€</td><td>Basic 750€, Standard 1.200€, Premium 2.500€. CRM-ul și grila sunt incluse.</td></tr>
           <tr><td>Tur virtual 3D și randări</td><td>de la 500€</td><td>Per apartament, mobilat în stilul ales, cu turul pe telefon.</td></tr>
@@ -195,7 +258,7 @@
       </details>
       <details>
         <summary>Am doar terenul lângă Brașov. Cu ce începem?</summary>
-        <p>Cu analiza de zonă, 800€: ansamblurile concurente din jur, cererea online și prețurile. Dacă trebuie să decizi ce construiești, raportul de validare comercială spune ce tipologii, câte apartamente și la ce preț se vând acolo.</p>
+        <p>Cu analiza de zonă, 800€: ansamblurile concurente din jur, cererea online și prețurile. Dacă trebuie să decizi ce construiești, raportul de validare comercială, de la 2.500€, spune ce tipologii, câte apartamente și la ce preț se vând acolo.</p>
       </details>
       <details>
         <summary>Vă ocupați și de vânzare?</summary>
@@ -247,6 +310,6 @@
 </section>
 </main>
 3:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$6"}}]
-4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2225dsg-8gzx2.css","precedence":"next"}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2e20r-1ylhx8v.css","precedence":"next"}]
 5:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
 9:null

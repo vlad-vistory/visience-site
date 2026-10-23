@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 5:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 6:"$Sreact.suspense"
-2:T992,{"@context":"https://schema.org","@graph":[{"@type":"OfferCatalog","@id":"https://visience.ro/fr/tarifs/#catalog","name":"Services et tarifs Visience","inLanguage":"fr","itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Landing page de campagne"}},{"@type":"Offer","priceCurrency":"EUR","price":"750","itemOffered":{"@type":"Service","name":"Site vitrine Basic, jusqu'à 6 pages"}},{"@type":"Offer","priceCurrency":"EUR","price":"1200","itemOffered":{"@type":"Service","name":"Site vitrine Standard, 10 pages avec SEO on-page complet"}},{"@type":"Offer","priceCurrency":"EUR","price":"2500","itemOffered":{"@type":"Service","name":"Site vitrine Premium"}},{"@type":"Offer","priceCurrency":"EUR","price":"1000","itemOffered":{"@type":"Service","name":"Boutique en ligne Basic"}},{"@type":"Offer","priceCurrency":"EUR","price":"1800","itemOffered":{"@type":"Service","name":"Boutique en ligne Standard"}},{"@type":"Offer","priceCurrency":"EUR","price":"3500","itemOffered":{"@type":"Service","name":"Boutique en ligne Premium"}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Logo Basic"}},{"@type":"Offer","priceCurrency":"EUR","price":"1200","itemOffered":{"@type":"Service","name":"Identité visuelle complète"}},{"@type":"Offer","priceCurrency":"EUR","price":"2500","itemOffered":{"@type":"Service","name":"Brand book avec logo animé"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Gestion de campagnes Google Ads, mensuel, autant de campagnes que nécessaire"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Gestion de campagnes Meta Ads (Facebook et Instagram), mensuel, autant de campagnes que nécessaire"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Configuration de campagne et mesure"}},{"@type":"Offer","priceCurrency":"EUR","price":"600","itemOffered":{"@type":"Service","name":"Stratégie SEO complète, mensuel"}},{"@type":"Offer","priceCurrency":"EUR","price":"450","itemOffered":{"@type":"Service","name":"Réseaux sociaux, 15 publications par mois"}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://visience.ro/fr/"},{"@type":"ListItem","position":2,"name":"Tarifs","item":"https://visience.ro/fr/tarifs/"}]}]}3:T1657a,<style>
+2:T992,{"@context":"https://schema.org","@graph":[{"@type":"OfferCatalog","@id":"https://visience.ro/fr/tarifs/#catalog","name":"Services et tarifs Visience","inLanguage":"fr","itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Landing page de campagne"}},{"@type":"Offer","priceCurrency":"EUR","price":"750","itemOffered":{"@type":"Service","name":"Site vitrine Basic, jusqu'à 6 pages"}},{"@type":"Offer","priceCurrency":"EUR","price":"1200","itemOffered":{"@type":"Service","name":"Site vitrine Standard, 10 pages avec SEO on-page complet"}},{"@type":"Offer","priceCurrency":"EUR","price":"2500","itemOffered":{"@type":"Service","name":"Site vitrine Premium"}},{"@type":"Offer","priceCurrency":"EUR","price":"1000","itemOffered":{"@type":"Service","name":"Boutique en ligne Basic"}},{"@type":"Offer","priceCurrency":"EUR","price":"1800","itemOffered":{"@type":"Service","name":"Boutique en ligne Standard"}},{"@type":"Offer","priceCurrency":"EUR","price":"3500","itemOffered":{"@type":"Service","name":"Boutique en ligne Premium"}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Logo Basic"}},{"@type":"Offer","priceCurrency":"EUR","price":"1200","itemOffered":{"@type":"Service","name":"Identité visuelle complète"}},{"@type":"Offer","priceCurrency":"EUR","price":"2500","itemOffered":{"@type":"Service","name":"Brand book avec logo animé"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Gestion de campagnes Google Ads, mensuel, autant de campagnes que nécessaire"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Gestion de campagnes Meta Ads (Facebook et Instagram), mensuel, autant de campagnes que nécessaire"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Configuration de campagne et mesure"}},{"@type":"Offer","priceCurrency":"EUR","price":"600","itemOffered":{"@type":"Service","name":"Stratégie SEO complète, mensuel"}},{"@type":"Offer","priceCurrency":"EUR","price":"450","itemOffered":{"@type":"Service","name":"Réseaux sociaux, 15 publications par mois"}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://visience.ro/fr/"},{"@type":"ListItem","position":2,"name":"Tarifs","item":"https://visience.ro/fr/tarifs/"}]}]}3:T16ba6,<style>
 .pr-hero {
   position: relative;
   padding: calc(var(--nav-h) + 90px) 0 80px;
@@ -1463,9 +1463,9 @@
   <div class="wrap">
 
     <div class="pr-sec__head rv">
-      <h2 class="pr-sec__h2" id="az-h2">Combien coûte <span class="acc">l’étude de zone ?</span></h2>
+      <h2 class="pr-sec__h2" id="az-h2">Combien coûte <span class="acc">l’étude d’un projet immobilier ?</span></h2>
       <p class="pr-sec__lead">
-        <strong>800€</strong>, une seule fois, par projet. Déduite intégralement de la marque et du site si nous lançons le programme ensemble.
+        L’étude de zone coûte <strong>800€</strong>, une seule fois, et se déduit intégralement de la marque et du site si nous lançons le programme ensemble. Le rapport de validation commerciale démarre à <strong>2&nbsp;500€</strong>.
       </p>
     </div>
 
@@ -1488,6 +1488,21 @@
           <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Une heure d’échange sur les conclusions</span></div>
         </div>
         <a href="/fr/contact/" class="pr-card__cta">Voir le détail</a>
+      </div>
+      <div class="pr-card">
+        <div class="pr-card__name">Rapport de validation commerciale</div>
+        <div class="pr-card__price">2&nbsp;500€</div>
+        <div class="pr-card__price-note">prix de départ, par projet</div>
+        <p class="pr-card__desc">Ce qui vaut la peine d’être construit sur le terrain, combien de lots et à quel prix, avant la conception.</p>
+        <div class="pr-card__feats">
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Ce qui existe dans le secteur et ce qui va s’y construire</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Maisons ou appartements : ce qui se vend le mieux sur place</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Appels à 8–10 programmes concurrents, comme un acheteur</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Positionnement, prix et segments d’acheteurs</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Budget et calendrier marketing, avec les critères de lancement</span></div>
+          <div class="pr-card__feat"><span class="pr-card__feat-tick">✓</span><span>Une recommandation finale : lancer, ajuster ou attendre</span></div>
+        </div>
+        <a href="/fr/contact/" class="pr-card__cta">Demander le rapport</a>
       </div>
     </div>
 
@@ -1724,6 +1739,6 @@
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"tjjfbqy-d9gjFj9hkqHuh"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4xR14WbKNwPLKaGnf_eTI"}
 4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
 7:null

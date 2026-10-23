@@ -1,7 +1,8 @@
 1:"$Sreact.fragment"
-5:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
-6:"$Sreact.suspense"
-2:Tbb9,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/analiza-de-zona/#service","name":"Analiza de zonă pentru ansambluri rezidențiale","serviceType":"Cercetare de piață pentru dezvoltatori imobiliari","description":"Analiză a ansamblurilor concurente din raza de 2-3 km, a cererii online pe zonă și pe tipologie, cu recomandare scrisă pe mixul de tipologii, prețul de listă și momentul lansării.","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"url":"https://visience.ro/analiza-de-zona/","offers":{"@type":"Offer","price":"800","priceCurrency":"EUR","url":"https://visience.ro/analiza-de-zona/","availability":"https://schema.org/InStock"}},{"@type":"FAQPage","@id":"https://visience.ro/analiza-de-zona/#faq","mainEntity":[{"@type":"Question","name":"De unde luați datele pentru analiza de zonă?","acceptedAnswer":{"@type":"Answer","text":"Din surse publice: site-urile ansamblurilor din zonă, anunțurile lor, prețurile afișate, reclamele care rulează și datele de căutare online. Fiecare cifră din document are sursa lângă ea, iar unde nu există date publice și estimăm, scriem că estimăm."}},{"@type":"Question","name":"Ce se întâmplă dacă nu continui cu Visience după analiză?","acceptedAnswer":{"@type":"Answer","text":"Documentul rămâne al tău și îl poți folosi cu cine vrei, inclusiv cu altă agenție sau cu echipa ta internă. Nu are clauze care să te lege de noi."}},{"@type":"Question","name":"Faceți analiza și pentru ansambluri din afara Iașiului?","acceptedAnswer":{"@type":"Answer","text":"Da. Datele se strâng online, deci zona nu contează. Am lucrat pe proiecte din Iași, Botoșani și București. Dacă ansamblul e într-un oraș mic, cu puține proiecte concurente, spunem asta din start, pentru că analiza iese mai scurtă."}},{"@type":"Question","name":"Cât costă analiza de zonă?","acceptedAnswer":{"@type":"Answer","text":"De la 800€, o singură dată, per proiect. Dacă lansăm ansamblul împreună, cei 800€ se scad integral din costul brandului și al site-ului. Dacă intră mult mai multe ansambluri concurente în raza analizată sau vrei mai multe zone comparate, spunem înainte cât costă în plus."}},{"@type":"Question","name":"Când are sens analiza de zonă?","acceptedAnswer":{"@type":"Answer","text":"Când ai terenul, autorizația e obținută sau pe drum, nu ai fixat definitiv mixul de tipologii și nu ai publicat lista de prețuri. Nu mai are sens dacă ai turnat structura, prețurile sunt publicate și vânzarea a pornit."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Marketing dezvoltatori imobiliari","item":"https://visience.ro/marketing-dezvoltatori-imobiliari/"},{"@type":"ListItem","position":3,"name":"Analiza de zonă","item":"https://visience.ro/analiza-de-zona/"}]}]}3:T66f9,<style>
+6:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+2:Tf25,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/analiza-de-zona/#service","name":"Analiza de zonă pentru ansambluri rezidențiale","serviceType":"Cercetare de piață pentru dezvoltatori imobiliari","description":"Analiză a ansamblurilor concurente din raza de 2-3 km, a cererii online pe zonă și pe tipologie, cu recomandare scrisă pe mixul de tipologii, prețul de listă și momentul lansării.","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"url":"https://visience.ro/analiza-de-zona/","offers":[{"@type":"Offer","name":"Analiză de zonă","price":"800","priceCurrency":"EUR","url":"https://visience.ro/analiza-de-zona/","availability":"https://schema.org/InStock"},{"@type":"Offer","name":"Raport de validare comercială","price":"2500","priceCurrency":"EUR","description":"Preț de pornire, per proiect.","url":"https://visience.ro/analiza-de-zona/#raport","availability":"https://schema.org/InStock"}]},{"@type":"FAQPage","@id":"https://visience.ro/analiza-de-zona/#faq","mainEntity":[{"@type":"Question","name":"Care e diferența dintre analiza de zonă și raportul de validare?","acceptedAnswer":{"@type":"Answer","text":"Analiza de zonă, 800€, e pentru un proiect deja conturat: concurența din jur, cererea și prețurile, ca să fixezi lista de prețuri, mixul de tipologii și momentul lansării. Raportul de validare comercială, de la 2.500€, e pentru când ai doar terenul sau un proiect mare: spune dacă se vând mai bine case sau apartamente, câte unități și la ce preț, cu apeluri la ansamblurile concurente, bugetul de marketing și recomandarea dacă merită pornit."}},{"@type":"Question","name":"De unde luați datele pentru analiza de zonă?","acceptedAnswer":{"@type":"Answer","text":"Din surse publice: site-urile ansamblurilor din zonă, anunțurile lor, prețurile afișate, reclamele care rulează și datele de căutare online. Fiecare cifră din document are sursa lângă ea, iar unde nu există date publice și estimăm, scriem că estimăm."}},{"@type":"Question","name":"Ce se întâmplă dacă nu continui cu Visience după analiză?","acceptedAnswer":{"@type":"Answer","text":"Documentul rămâne al tău și îl poți folosi cu cine vrei, inclusiv cu altă agenție sau cu echipa ta internă. Nu are clauze care să te lege de noi."}},{"@type":"Question","name":"Faceți analiza și pentru ansambluri din afara Iașiului?","acceptedAnswer":{"@type":"Answer","text":"Da. Datele se strâng online, deci zona nu contează. Am lucrat pe proiecte din Iași, Botoșani și Bușteni. Dacă ansamblul e într-un oraș mic, cu puține proiecte concurente, spunem asta din start, pentru că analiza iese mai scurtă."}},{"@type":"Question","name":"Cât costă analiza de zonă?","acceptedAnswer":{"@type":"Answer","text":"De la 800€, o singură dată, per proiect. Dacă lansăm ansamblul împreună, cei 800€ se scad integral din costul brandului și al site-ului. Dacă intră mult mai multe ansambluri concurente în raza analizată sau vrei mai multe zone comparate, spunem înainte cât costă în plus."}},{"@type":"Question","name":"Când are sens analiza de zonă?","acceptedAnswer":{"@type":"Answer","text":"Când ai terenul, autorizația e obținută sau pe drum, nu ai fixat definitiv mixul de tipologii și nu ai publicat lista de prețuri. Nu mai are sens dacă ai turnat structura, prețurile sunt publicate și vânzarea a pornit."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Marketing dezvoltatori imobiliari","item":"https://visience.ro/marketing-dezvoltatori-imobiliari/"},{"@type":"ListItem","position":3,"name":"Analiza de zonă","item":"https://visience.ro/analiza-de-zona/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4xR14WbKNwPLKaGnf_eTI"}
+5:T71bd,<style>
 .az-page { background: var(--white); }
 
 .az-hero { padding: clamp(120px, 16vw, 180px) 0 clamp(56px, 8vw, 84px); background: var(--cream); }
@@ -549,12 +550,49 @@
     </div>
   </section>
 
-  <section class="az-sec az-sec--cream">
+  <section class="az-sec az-sec--cream" id="raport">
+    <div class="wrap">
+      <div class="az-liv rv">
+        <div>
+          <div class="az-sec__head" style="margin-bottom:28px">
+            <h2>Ai doar terenul? Pentru asta e raportul de validare comercială</h2>
+            <p>Analiza de zonă pornește de la un proiect deja conturat și îți spune la ce preț listezi și cui vinzi. Raportul pornește de la teren și răspunde la o întrebare mai mare: ce merită construit acolo și dacă merită pornit acum.</p>
+          </div>
+          <ul class="az-liv__list">
+            <li><strong>Zona</strong> — ce există în jur și ce urmează să se construiască</li>
+            <li><strong>Case sau apartamente</strong> — ce se cumpără mai mult în zonă</li>
+            <li><strong>Concurența, proiect cu proiect</strong>, plus apeluri ca potențial cumpărător la 8–10 ansambluri</li>
+            <li><strong>Poziționarea și prețurile</strong> de vânzare, pe fiecare tipologie</li>
+            <li><strong>Segmentele de cumpărători</strong> și cererea online din zonă</li>
+            <li><strong>Oportunitățile și riscurile</strong> comerciale ale proiectului</li>
+            <li><strong>Strategia de marketing, bugetul și calendarul</strong>, cu indicatorii după care decizi lansarea</li>
+            <li><strong>Recomandarea finală</strong> — continui, ajustezi sau amâni</li>
+          </ul>
+        </div>
+        <div class="az-price">
+          <div class="az-price__lbl">De la</div>
+          <div class="az-price__val">2.500€</div>
+          <p class="az-price__note">O singură dată, per proiect, cu hărți și tabele. Prețul final îl afli înainte să începem, după mărimea proiectului.</p>
+          <p class="az-price__deduce">
+            La un ansamblu de 10 milioane de euro, <strong>2.500€ înseamnă 0,025%</strong>
+            din valoarea lui. Un singur apartament care stă nevândut costă mai mult.
+          </p>
+          <a href="/contact/" class="btn btn-solid">Cere raportul</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="az-sec">
     <div class="wrap">
       <div class="az-sec__head rv">
         <h2>Ce ne întreabă cel mai des</h2>
       </div>
       <div class="az-faq rv rv-d2">
+        <div class="az-faq__i">
+          <h3>Care e diferența dintre analiza de zonă și raportul de validare?</h3>
+          <p>Analiza de zonă, 800€, e pentru un proiect deja conturat: concurența din jur, cererea și prețurile, ca să fixezi lista de prețuri, mixul de tipologii și momentul lansării. Raportul de validare comercială, de la 2.500€, e pentru când ai doar terenul sau un proiect mare: spune dacă se vând mai bine case sau apartamente, câte unități și la ce preț, cu apeluri la ansamblurile concurente, bugetul de marketing și recomandarea dacă merită pornit.</p>
+        </div>
         <div class="az-faq__i">
           <h3>De unde luați datele?</h3>
           <p>
@@ -575,7 +613,7 @@
           <h3>Faceți analiza și pentru ansambluri din afara Iașiului?</h3>
           <p>
             Da. Datele se strâng online, deci zona nu contează. Am lucrat pe proiecte
-            din Iași, Botoșani și București. Dacă ansamblul e într-un oraș mic, unde
+            din Iași, Botoșani și Bușteni. Dacă ansamblul e într-un oraș mic, unde
             sunt puține proiecte concurente, spunem asta din start, pentru că analiza
             iese mai scurtă.
           </p>
@@ -616,6 +654,6 @@
   </section>
 
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"tjjfbqy-d9gjFj9hkqHuh"}
-4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
-7:null
+3:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$5"}}]
+4:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

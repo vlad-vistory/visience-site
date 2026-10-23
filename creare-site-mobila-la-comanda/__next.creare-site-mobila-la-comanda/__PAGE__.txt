@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 6:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-:HL["/_next/static/chunks/2225dsg-8gzx2.css","style"]
+:HL["/_next/static/chunks/2e20r-1ylhx8v.css","style"]
 2:T95a,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-mobila-la-comanda/#service","name":"Creare site pentru mobilă la comandă","serviceType":"Creare site pentru mobilă la comandă","description":"Site pentru mobilă la comandă: lucrări pe camere, cereri de ofertă cu dimensiuni și poze, campanii pe oraș. Exemple: Artesano Mob, Iași Mobilier.","url":"https://visience.ro/creare-site-mobila-la-comanda/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"500","highPrice":"1200","offerCount":"4"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-mobila-la-comanda/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site pentru un atelier de mobilă la comandă?","acceptedAnswer":{"@type":"Answer","text":"750€ un site de până la 6 pagini, 1.200€ un site de până la 10 pagini, cu câte o pagină pe tip de mobilier și SEO complet. O pagină dedicată campaniilor costă 500€, iar campaniile 200€ pe lună pe Google și 200€ pe lună pe Meta, oricâte pe fiecare platformă."}},{"@type":"Question","name":"Cum primesc cereri cu dimensiuni?","acceptedAnswer":{"@type":"Answer","text":"Formularul cere tipul de mobilă, dimensiunile aproximative, materialul și poze cu spațiul. Cererea ajunge pe e-mail, cu pozele atașate."}},{"@type":"Question","name":"Merită să pun prețuri pe site?","acceptedAnswer":{"@type":"Answer","text":"Un interval orientativ ajută: cine nu se încadrează nu mai cere ofertă, iar cine se încadrează vine mai hotărât. Hotărârea e a ta; site-ul merge și fără prețuri."}},{"@type":"Question","name":"Faceți și reclamele?","acceptedAnswer":{"@type":"Answer","text":"Da. La Artesano Mob ne ocupăm de site, de postări și de campaniile Google și Meta. Campaniile costă 200€ pe lună pe fiecare platformă, oricâte, deci 400€ pe lună pe amândouă."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Site-uri pe domenii","item":"https://visience.ro/site-uri-pe-domenii/"},{"@type":"ListItem","position":3,"name":"Site pentru mobilă la comandă","item":"https://visience.ro/creare-site-mobila-la-comanda/"}]}]}3:T2ff4,<main id="main">
 
 <section class="csi-hero" aria-labelledby="csi-h1">
@@ -216,7 +216,7 @@
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"tjjfbqy-d9gjFj9hkqHuh"}
-4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2225dsg-8gzx2.css","precedence":"next"}]
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4xR14WbKNwPLKaGnf_eTI"}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2e20r-1ylhx8v.css","precedence":"next"}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null
