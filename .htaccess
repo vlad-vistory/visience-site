@@ -24,6 +24,9 @@ RewriteRule ^(post|page|category)-sitemap\.xml$ /sitemap.xml [R=301,L]
 # variantele scoase pe 14.10.2026 -> pretul site-ului de prezentare
 RewriteRule ^site-o-pagina/?$ /pret-site-de-prezentare/ [R=301,L]
 RewriteRule ^site-999-lei/?$ /pret-site-de-prezentare/ [R=301,L]
+RewriteRule ^proiecte/lapis-residence/?$ /marketing-dezvoltatori-imobiliari/ [R=301,L]
+RewriteRule ^en/projects/lapis-residence/?$ /en/real-estate-marketing/ [R=301,L]
+RewriteRule ^fr/projets/lapis-residence/?$ /fr/marketing-immobilier/ [R=301,L]
 
 # URL-urile vechi WordPress -> paginile noi (301)
 RewriteRule ^creare-sitede-prezentare/?$ /creare-site-prezentare/ [R=301,L]

@@ -601,11 +601,6 @@
 <priority>0.5</priority>
 </url>
 <url>
-<loc>https://visience.ro/proiecte/lapis-residence/</loc>
-<changefreq>yearly</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
 <loc>https://visience.ro/proiecte/4biz-properties/</loc>
 <changefreq>yearly</changefreq>
 <priority>0.5</priority>
@@ -786,11 +781,6 @@
 <priority>0.5</priority>
 </url>
 <url>
-<loc>https://visience.ro/en/projects/lapis-residence/</loc>
-<changefreq>yearly</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
 <loc>https://visience.ro/en/projects/4biz-properties/</loc>
 <changefreq>yearly</changefreq>
 <priority>0.5</priority>
@@ -967,11 +957,6 @@
 </url>
 <url>
 <loc>https://visience.ro/fr/projets/grand-beetle/</loc>
-<changefreq>yearly</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
-<loc>https://visience.ro/fr/projets/lapis-residence/</loc>
 <changefreq>yearly</changefreq>
 <priority>0.5</priority>
 </url>
