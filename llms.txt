@@ -63,7 +63,7 @@
 - Cameo Residence (complex rezidențial): identitate de proiect, materiale de vânzare tipărite, conținut pentru social media
 - Vlaicu 87 (proiect rezidențial): site cu planuri pe tipologii de apartamente și sistemul prin care cererile ajung în CRM
 - Lapis Residence și Onyx (Dealul Galata, Iași): campaniile Meta făcute de Visience, câte una pentru fiecare ofertă, cu machete în patru formate, remarketing și raport la final
-- Evergreen Towers, Picolina Bucium și Armur Design (Iași, în colaborare cu Vistory): campanii PPC, branding și social media
+- Picolina Bucium și Armur Design (Iași, în colaborare cu Vistory): campanii PPC, branding și social media
 - 4Biz Properties (consultanță imobiliară comercială): site, identitate și comunicare pe LinkedIn pentru birouri și spații industriale
 
 ## Ghiduri pentru dezvoltatori imobiliari

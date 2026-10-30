@@ -27,6 +27,9 @@ RewriteRule ^site-999-lei/?$ /pret-site-de-prezentare/ [R=301,L]
 RewriteRule ^proiecte/lapis-residence/?$ /marketing-dezvoltatori-imobiliari/ [R=301,L]
 RewriteRule ^en/projects/lapis-residence/?$ /en/real-estate-marketing/ [R=301,L]
 RewriteRule ^fr/projets/lapis-residence/?$ /fr/marketing-immobilier/ [R=301,L]
+RewriteRule ^proiecte/evergreen-towers/?$ /marketing-dezvoltatori-imobiliari/ [R=301,L]
+RewriteRule ^en/projects/evergreen-towers/?$ /en/real-estate-marketing/ [R=301,L]
+RewriteRule ^fr/projets/evergreen-towers/?$ /fr/marketing-immobilier/ [R=301,L]
 
 # URL-urile vechi WordPress -> paginile noi (301)
 RewriteRule ^creare-sitede-prezentare/?$ /creare-site-prezentare/ [R=301,L]

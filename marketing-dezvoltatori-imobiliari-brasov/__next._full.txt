@@ -34,7 +34,7 @@
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();0:{"P":null,"c":["","marketing-dezvoltatori-imobiliari-brasov",""],"q":"","i":false,"f":[[["",{"children":["marketing-dezvoltatori-imobiliari-brasov",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2k97max921z0j.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1fkw942u-_dr5.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"zb-kEVvN6KGtYu1aWGxL1"}
+})();0:{"P":null,"c":["","marketing-dezvoltatori-imobiliari-brasov",""],"q":"","i":false,"f":[[["",{"children":["marketing-dezvoltatori-imobiliari-brasov",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2k97max921z0j.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1fkw942u-_dr5.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"nMLl2kDeYRXFmjwpATGO4"}
 c:I[36621,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 17:I[39756,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 18:I[37457,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
@@ -702,7 +702,7 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2k97max921z0j
 14:["$","$L17",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
 15:["$","$L23",null,{}]
 16:["$","$L24",null,{}]
-25:T447f,<main id="main">
+25:T4293,<main id="main">
 
 <section class="csi-hero" aria-labelledby="csi-h1">
   <div class="line-bg" aria-hidden="true">
@@ -734,7 +734,7 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2k97max921z0j
 
     <div class="csi-hero__stats">
       <div class="csi-hero__stat"><span class="n">8.200+</span><span class="l">lead-uri pentru dezvoltatori</span></div>
-      <div class="csi-hero__stat"><span class="n">400+</span><span class="l">apartamente vândute la Evergreen Towers</span></div>
+      <div class="csi-hero__stat"><span class="n">10</span><span class="l">case de 350.000€ vândute la Armur Design</span></div>
       <div class="csi-hero__stat"><span class="n">9</span><span class="l">proiecte imobiliare</span></div>
       <div class="csi-hero__stat"><span class="n">800€</span><span class="l">analiza de zonă</span></div>
     </div>
@@ -766,11 +766,6 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2k97max921z0j
       <a class="sq-card" href="https://www.bucegii-la-fereastra.ro/" target="_blank" rel="noopener">
         <span class="sq-card__img"><img src="/media/tiles/v2/bucegii-la-fereastra.avif" alt="Bucegii la Fereastră — site realizat de Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Bucegii la Fereastră</span>
-      </a>
-
-      <a class="sq-card" href="https://www.evergreentowers.ro/" target="_blank" rel="noopener">
-        <span class="sq-card__img"><img src="/media/tiles/v2/evergreen-towers.avif" alt="Evergreen Towers — site realizat de Visience" width="720" height="900" loading="lazy"></span>
-        <span class="sq-card__name">Evergreen Towers</span>
       </a>
 
       <a class="sq-card" href="https://picolina.ro/" target="_blank" rel="noopener">
@@ -901,8 +896,8 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2k97max921z0j
       <p class="body-lg" style="margin-top:14px">Cifre de la dezvoltatori cu care lucrăm. Proiectele din portofoliu sunt în Iași, Botoșani și Bușteni.</p>
     </div>
     <div class="csi-prose rv rv-d1">
-      <p><strong>Evergreen Towers, Iași:</strong> peste 6.600 de lead-uri și peste 400 de apartamente vândute în 3 ani.<br><strong>Picolina Bucium, Iași:</strong> peste 1.000 de lead-uri în 5 luni.<br><strong>Armur Design, Iași:</strong> peste 600 de lead-uri în 5 luni și 10 case de 350.000€ vândute.<br><strong>Bucegii la Fereastră, Bușteni:</strong> site cu grila de apartamente, CRM și tur virtual 3D.</p>
-      <p>Evergreen Towers și Picolina au mers în colaborare cu Vistory. <a href="/marketing-dezvoltatori-imobiliari/#rezultate">Vezi toate proiectele</a>.</p>
+      <p><strong>Picolina Bucium, Iași:</strong> peste 1.000 de lead-uri în 5 luni.<br><strong>Armur Design, Iași:</strong> peste 600 de lead-uri în 5 luni și 10 case de 350.000€ vândute.<br><strong>Bucegii la Fereastră, Bușteni:</strong> site cu grila de apartamente, CRM și tur virtual 3D.</p>
+      <p>Picolina a mers în colaborare cu Vistory. <a href="/marketing-dezvoltatori-imobiliari/#rezultate">Vezi toate proiectele</a>.</p>
     </div>
   </div>
 </section>

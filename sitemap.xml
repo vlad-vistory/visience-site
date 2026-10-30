@@ -576,11 +576,6 @@
 <priority>0.5</priority>
 </url>
 <url>
-<loc>https://visience.ro/proiecte/evergreen-towers/</loc>
-<changefreq>yearly</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
 <loc>https://visience.ro/proiecte/picolina/</loc>
 <changefreq>yearly</changefreq>
 <priority>0.5</priority>
@@ -756,11 +751,6 @@
 <priority>0.5</priority>
 </url>
 <url>
-<loc>https://visience.ro/en/projects/evergreen-towers/</loc>
-<changefreq>yearly</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
 <loc>https://visience.ro/en/projects/picolina/</loc>
 <changefreq>yearly</changefreq>
 <priority>0.5</priority>
@@ -932,11 +922,6 @@
 </url>
 <url>
 <loc>https://visience.ro/fr/projets/im-design-studio/</loc>
-<changefreq>yearly</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
-<loc>https://visience.ro/fr/projets/evergreen-towers/</loc>
 <changefreq>yearly</changefreq>
 <priority>0.5</priority>
 </url>
