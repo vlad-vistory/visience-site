@@ -1,8 +1,7 @@
 1:"$Sreact.fragment"
-6:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
-7:"$Sreact.suspense"
-2:Tcb8,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/en/online-store/#service","name":"Online store development","serviceType":"E-commerce development","inLanguage":"en","provider":{"@type":"Organization","name":"Visience","url":"https://visience.ro/en/"},"areaServed":["US","RO","IT","FR","DE"],"offers":[{"@type":"Offer","priceCurrency":"USD","price":"1160","itemOffered":{"@type":"Service","name":"Online store Basic, up to 30 products"}},{"@type":"Offer","priceCurrency":"USD","price":"2100","itemOffered":{"@type":"Service","name":"Online store Standard, up to 200 products"}},{"@type":"Offer","priceCurrency":"USD","price":"4060","itemOffered":{"@type":"Service","name":"Online store Premium, enterprise integrations"}}]},{"@type":"FAQPage","@id":"https://visience.ro/en/online-store/#faq","mainEntity":[{"@type":"Question","name":"How long does an online store take to build?","acceptedAnswer":{"@type":"Answer","text":"A Basic store with up to 30 products usually takes 2 to 3 weeks. The Standard package takes 4 to 6 weeks. Premium stores with complex integrations can run 6 to 10 weeks."}},{"@type":"Question","name":"What platform do you build the stores on?","acceptedAnswer":{"@type":"Answer","text":"Mostly WooCommerce on WordPress. On request we also build on Shopify, PrestaShop or Webflow E-commerce, and we recommend the platform after understanding the business goals."}},{"@type":"Question","name":"What happens after the store launches?","acceptedAnswer":{"@type":"Answer","text":"You get 3 months of maintenance included, 6 months on Premium: plugin updates, bug fixes, weekly backups and technical support by email. After that you can move to a monthly maintenance plan."}},{"@type":"Question","name":"Will I be able to add products myself after launch?","acceptedAnswer":{"@type":"Answer","text":"Yes. The admin panel is straightforward and we run a 1 to 2 hour training session, included in Standard and Premium, so you can add products, change prices and handle orders yourself."}},{"@type":"Question","name":"Do you include hosting and the domain?","acceptedAnswer":{"@type":"Answer","text":"Hosting and the domain are not part of the store price, but we help choose and set them up. Expect around $15 a year for the domain and $100 to $230 a year for hosting that holds up under WooCommerce."}},{"@type":"Question","name":"Can I move my existing store off another platform?","acceptedAnswer":{"@type":"Answer","text":"Yes. We migrate stores from Shopify, Magento, BigCommerce, OpenCart and PrestaShop onto WooCommerce, keeping products, categories, orders and existing customers."}},{"@type":"Question","name":"Do you also run the marketing for the store?","acceptedAnswer":{"@type":"Answer","text":"Yes. After launch we can take on Google Ads or Meta Ads management at $230 a month per platform, any number of campaigns ($460 a month for both platforms), Google Shopping at $120, ongoing SEO at $700 a month and social media management from $230 a month."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visience.ro/en/"},{"@type":"ListItem","position":2,"name":"Online store","item":"https://visience.ro/en/online-store/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Zy54Kcv6G5FcYYcXIb4rO"}
-5:T9414,<style>
+5:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+2:Tc2a,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/en/online-store/#service","name":"Online store development","serviceType":"E-commerce development","inLanguage":"en","provider":{"@type":"Organization","name":"Visience","url":"https://visience.ro/en/"},"areaServed":["US","RO","IT","FR","DE"],"offers":[{"@type":"Offer","priceCurrency":"USD","price":"1160","itemOffered":{"@type":"Service","name":"Online store Basic"}},{"@type":"Offer","priceCurrency":"USD","price":"2100","itemOffered":{"@type":"Service","name":"Online store Standard"}},{"@type":"Offer","priceCurrency":"USD","price":"4060","itemOffered":{"@type":"Service","name":"Online store Premium"}}]},{"@type":"FAQPage","@id":"https://visience.ro/en/online-store/#faq","mainEntity":[{"@type":"Question","name":"How long does an online store take to build?","acceptedAnswer":{"@type":"Answer","text":"A Basic store usually takes 2 to 3 weeks. The Standard package takes 4 to 6 weeks. Premium stores with complex integrations can run 6 to 10 weeks."}},{"@type":"Question","name":"What platform do you build the stores on?","acceptedAnswer":{"@type":"Answer","text":"Mostly WooCommerce on WordPress. On request we also build on Shopify, PrestaShop or Webflow E-commerce, and we recommend the platform after understanding the business goals."}},{"@type":"Question","name":"What happens after the store launches?","acceptedAnswer":{"@type":"Answer","text":"On Standard and Premium, the first 3 months of maintenance are included: plugin updates, bug fixes, weekly backups and technical support by email. On Basic, maintenance is optional. After that you can move to a monthly maintenance plan."}},{"@type":"Question","name":"Will I be able to add products myself after launch?","acceptedAnswer":{"@type":"Answer","text":"Yes. The admin panel is straightforward and we run a 1 to 2 hour training session, included in Standard and Premium, so you can add products, change prices and handle orders yourself."}},{"@type":"Question","name":"Do you include hosting and the domain?","acceptedAnswer":{"@type":"Answer","text":"Hosting and the domain are not part of the store price. The domain adds $15 and hosting $100 a year."}},{"@type":"Question","name":"Can I move my existing store off another platform?","acceptedAnswer":{"@type":"Answer","text":"Yes. We migrate stores from Shopify, Magento, BigCommerce, OpenCart and PrestaShop onto WooCommerce, keeping products, categories, orders and existing customers."}},{"@type":"Question","name":"Do you also run the marketing for the store?","acceptedAnswer":{"@type":"Answer","text":"Yes. After launch we can take on Google Ads or Meta Ads management at $230 a month per platform, any number of campaigns ($460 a month for both platforms), Google Shopping at $120, ongoing SEO at $700 a month and social media management from $230 a month."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://visience.ro/en/"},{"@type":"ListItem","position":2,"name":"Online store","item":"https://visience.ro/en/online-store/"}]}]}3:T9158,<style>
 .shop-hero {
   position: relative;
   padding: calc(var(--nav-h) + 90px) 0 90px;
@@ -646,7 +645,7 @@
         The price of an <strong>online store</strong> comes down to how complex the features are, how many products you carry, which integrations you need (payments, fulfilment, ERP) and how much of the design is custom. For a basic WooCommerce store, prices start at <strong>$1,160</strong>; a standard store with the wider feature set sits at <strong>$2,100</strong>; and a premium store with complex integrations and a fully custom design runs to <strong>$4,060</strong> or above.
       </p>
       <p>
-        In every case, you get <strong>3 months of maintenance included</strong> after launch, so we can be sure the store runs properly. <a href="#prices">See the packages in detail below →</a>
+        On Standard and Premium, the first <strong>3 months of maintenance</strong> after launch are included. On Basic, maintenance is optional. <a href="#prices">See the packages in detail below →</a>
       </p>
 
       <h2>Why have Visience build your store?</h2>
@@ -679,18 +678,17 @@
       <div class="pkg rv">
         <div class="pkg__name">Store Basic</div>
         <div class="pkg__price">$1,160</div>
-        <div class="pkg__price-note">Starting package</div>
+        <div class="pkg__price-note">35 hours of work</div>
         <p class="pkg__desc">
-          A working WooCommerce store, right for small businesses that want to start selling online quickly, without a large outlay.
+          A working WooCommerce store with online payments and cash on delivery. Right for a business starting out.
         </p>
         <div class="pkg__feats">
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Up to 30 products</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Customised template design</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Online payments (card and transfer)</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Standard shipping calculator</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Responsive design (mobile + desktop)</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Basic on-page SEO</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>3 months of maintenance included</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Up to 6 dynamic pages</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Card, transfer, cash on delivery</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Shipping configured</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Interactive gallery</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>GDPR + consumer protection</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>SMTP + responsive design</span></div>
         </div>
         <a href="/en/contact/" class="btn btn-ghost" style="justify-content:center">Ask for a quote</a>
       </div>
@@ -699,39 +697,38 @@
         <span class="pkg__badge">Most chosen</span>
         <div class="pkg__name">Store Standard</div>
         <div class="pkg__price">$2,100</div>
-        <div class="pkg__price-note">For a growing business</div>
+        <div class="pkg__price-note">75 hours of work</div>
         <p class="pkg__desc">
-          A complete online store, with the advanced features, several integrations and a custom design. The best balance of what you get against what you pay.
+          A complete store with UX strategy, product suggestions, loyalty points, cart recovery email and on-page SEO.
         </p>
         <div class="pkg__feats">
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Up to 200 products</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Fully custom design</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Stripe, PayPal, Square or Authorize.net</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Carrier rates (UPS, FedEx, USPS, ShipStation)</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Advanced coupons &amp; promotions</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Technical SEO + schema.org markup</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Newsletter (Mailchimp / Klaviyo)</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>3 months maintenance + admin training</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Everything in Basic</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>2 rounds of design revisions</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Custom product template</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Product suggestions + bundles</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Loyalty points system</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Abandoned cart email</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>3 months of maintenance</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Website in 2 languages</span></div>
         </div>
         <a href="/en/contact/" class="btn btn-solid" style="justify-content:center">Ask for a quote</a>
       </div>
 
       <div class="pkg rv rv-d2">
         <div class="pkg__name">Store Premium</div>
-        <div class="pkg__price">$4,060+</div>
-        <div class="pkg__price-note">Enterprise build</div>
+        <div class="pkg__price">$4,060</div>
+        <div class="pkg__price-note">150 hours of work</div>
         <p class="pkg__desc">
-          An enterprise store with ERP/CRM integrations, deeper automation and priority support. For businesses moving real volume.
+          An enterprise build with a mega menu, live chat, a configurator for complex products and full SEO.
         </p>
         <div class="pkg__feats">
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Unlimited products</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Custom design + dedicated UX/UI</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>ERP and accounting sync (NetSuite, QuickBooks, Xero)</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Multi-currency &amp; multi-language</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Marketing automation &amp; abandoned cart</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Store SEO optimisation included</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Custom analytics dashboard</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>6 months maintenance &amp; priority support</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Everything in Standard</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>100% original design</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Mega menu with images</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Live chat built in</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Configurator for complex products</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Complete schema markup</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Visitor analysis</span></div>
         </div>
         <a href="/en/contact/" class="btn btn-ghost" style="justify-content:center">Ask for a quote</a>
       </div>
@@ -857,7 +854,7 @@
         </button>
         <div class="faq-a">
           <div class="faq-a-inner">
-            For a Basic store (up to 30 products), it usually takes <strong>2–3 weeks</strong>. For the Standard package, 4–6 weeks. Premium stores with complex integrations can run 6–10 weeks. The exact date is confirmed after the first call, once we know how involved your project is.
+            For a Basic store, it usually takes <strong>2–3 weeks</strong>. For the Standard package, 4–6 weeks. Premium stores with complex integrations can run 6–10 weeks. The exact date is confirmed after the first call, once we know how involved your project is.
           </div>
         </div>
       </div>
@@ -881,7 +878,7 @@
         </button>
         <div class="faq-a">
           <div class="faq-a-inner">
-            After launch you get <strong>3 months of maintenance included</strong> (6 months on Premium): plugin updates, bug fixes, weekly backups and technical support by email. After that you can move to a monthly maintenance plan or call us as and when something comes up.
+            On Standard and Premium, the first <strong>3 months of maintenance</strong> are included: plugin updates, bug fixes, weekly backups and technical support by email. On Basic, maintenance is optional. After that you can move to a monthly maintenance plan or call us as and when something comes up.
           </div>
         </div>
       </div>
@@ -905,7 +902,7 @@
         </button>
         <div class="faq-a">
           <div class="faq-a-inner">
-            Hosting and the domain are not part of the store price, but we help with the recommendation and the setup. As a rule, expect: <strong>domain</strong> around $15 a year, <strong>hosting</strong> that holds up under WooCommerce around $100–$230 a year. We recommend hosting built for e-commerce, so the speed stays where it needs to be.
+            Hosting and the domain are not part of the store price. The domain adds <strong>$15</strong> and hosting <strong>$100 a year</strong>.
           </div>
         </div>
       </div>
@@ -978,6 +975,6 @@
   </div>
 </section>
 </main>
-3:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$5"}}]
-4:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
-8:null
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-bzcSAAFT3CW9OU380l-W"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

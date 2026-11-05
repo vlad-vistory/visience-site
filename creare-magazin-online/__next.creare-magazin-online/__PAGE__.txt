@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 5:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 6:"$Sreact.suspense"
-2:Tc7f,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-magazin-online#service","name":"Creare magazin online","serviceType":"Dezvoltare magazin online e-commerce","description":"Creare magazine online pe WooCommerce, Shopify și PrestaShop, optimizate pentru conversie și SEO, cu integrări de plată, curierat și facturare. De la 1.000€.","provider":{"@type":"Organization","name":"Visience Creative Experience","url":"https://visience.ro/"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"1000","highPrice":"3500","offerCount":"3"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-magazin-online#faq","mainEntity":[{"@type":"Question","name":"Cât durează realizarea unui magazin online?","acceptedAnswer":{"@type":"Answer","text":"Depinde de numărul de produse și de integrările cerute. Termenul exact se confirmă în ofertă, după ce vedem lista de produse."}},{"@type":"Question","name":"Pe ce platformă realizați magazinele online?","acceptedAnswer":{"@type":"Answer","text":"Lucrăm preponderent pe WooCommerce (WordPress), iar la cerere și pe Shopify, PrestaShop sau Webflow E-commerce. Recomandăm platforma după analiza obiectivelor tale."}},{"@type":"Question","name":"Ce se întâmplă după lansarea magazinului?","acceptedAnswer":{"@type":"Answer","text":"Oferim 3 luni de mentenanță inclusă (6 luni pentru Premium): actualizări, corectarea erorilor, backup-uri și suport prin email. Ulterior poți alege un abonament lunar sau suport punctual."}},{"@type":"Question","name":"Voi putea adăuga singur produse după lansare?","acceptedAnswer":{"@type":"Answer","text":"Da. Magazinele au panou de administrare intuitiv și oferim un training de 1-2 ore (inclus în Standard și Premium) ca să poți adăuga produse, modifica prețuri și gestiona comenzi fără ajutorul nostru."}},{"@type":"Question","name":"Includeți și hosting-ul și domeniul?","acceptedAnswer":{"@type":"Answer","text":"Nu sunt incluse în preț, dar te ajutăm cu recomandări și configurare. Orientativ: domeniul ~10-15€/an, hosting performant pentru WooCommerce ~80-200€/an."}},{"@type":"Question","name":"Pot să-mi mut magazinul existent de pe altă platformă?","acceptedAnswer":{"@type":"Answer","text":"Da. Migrăm magazine de pe Gomag, Magento, OpenCart, PrestaShop sau alte platforme către WooCommerce, păstrând produse, categorii, comenzi și clienți. Costul depinde de volumul de date."}},{"@type":"Question","name":"Realizați și campanii de marketing pentru magazin?","acceptedAnswer":{"@type":"Answer","text":"Da. După lansare preluăm managementul campaniilor Google Ads și Meta Ads (200€/lună pe platformă, oricâte campanii; pe amândouă 400€/lună), Google Shopping (100€), SEO continuu (600€/lună) și social media management (de la 200€/lună)."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Creare magazin online","item":"https://visience.ro/creare-magazin-online"}]}]}3:Ta3e1,<style>
+2:Tc83,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-magazin-online#service","name":"Creare magazin online","serviceType":"Dezvoltare magazin online e-commerce","description":"Creare magazine online pe WooCommerce, Shopify și PrestaShop, optimizate pentru conversie și SEO, cu integrări de plată, curierat și facturare. De la 1.000€.","provider":{"@type":"Organization","name":"Visience Creative Experience","url":"https://visience.ro/"},"areaServed":[{"@type":"Country","name":"România"},{"@type":"City","name":"Iași"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"1000","highPrice":"3500","offerCount":"3"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-magazin-online#faq","mainEntity":[{"@type":"Question","name":"Cât durează realizarea unui magazin online?","acceptedAnswer":{"@type":"Answer","text":"Depinde de numărul de produse și de integrările cerute. Termenul exact se confirmă în ofertă, după ce vedem lista de produse."}},{"@type":"Question","name":"Pe ce platformă realizați magazinele online?","acceptedAnswer":{"@type":"Answer","text":"Lucrăm preponderent pe WooCommerce (WordPress), iar la cerere și pe Shopify, PrestaShop sau Webflow E-commerce. Recomandăm platforma după analiza obiectivelor tale."}},{"@type":"Question","name":"Ce se întâmplă după lansarea magazinului?","acceptedAnswer":{"@type":"Answer","text":"La Standard și Premium, primele 3 luni de mentenanță sunt incluse: actualizări, corectarea erorilor, backup-uri și suport prin email. La Basic, mentenanța e opțională, de la 100€ pe lună. Ulterior poți alege un abonament lunar sau suport punctual."}},{"@type":"Question","name":"Voi putea adăuga singur produse după lansare?","acceptedAnswer":{"@type":"Answer","text":"Da. Magazinele au panou de administrare intuitiv și oferim un training de 1-2 ore (inclus în Standard și Premium) ca să poți adăuga produse, modifica prețuri și gestiona comenzi fără ajutorul nostru."}},{"@type":"Question","name":"Includeți și hosting-ul și domeniul?","acceptedAnswer":{"@type":"Answer","text":"Nu intră în prețul magazinului. Se adaugă 15€ pentru domeniu și 85€ pe an pentru găzduire."}},{"@type":"Question","name":"Pot să-mi mut magazinul existent de pe altă platformă?","acceptedAnswer":{"@type":"Answer","text":"Da. Migrăm magazine de pe Gomag, Magento, OpenCart, PrestaShop sau alte platforme către WooCommerce, păstrând produse, categorii, comenzi și clienți. Costul depinde de volumul de date."}},{"@type":"Question","name":"Realizați și campanii de marketing pentru magazin?","acceptedAnswer":{"@type":"Answer","text":"Da. După lansare preluăm managementul campaniilor Google Ads și Meta Ads (200€/lună pe platformă, oricâte campanii; pe amândouă 400€/lună), Google Shopping (100€), SEO continuu (600€/lună) și social media management (de la 200€/lună)."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Creare magazin online","item":"https://visience.ro/creare-magazin-online"}]}]}3:Ta0fd,<style>
 .shop-hero {
   position: relative;
   padding: calc(var(--nav-h) + 90px) 0 90px;
@@ -645,7 +645,7 @@
         Prețul unui <strong>magazin online</strong> depinde de complexitatea funcționalităților, numărul de produse, integrările necesare (sisteme de plată, fulfillment, ERP) și nivelul de personalizare al designului. Pentru un magazin de bază pe WooCommerce, prețurile pornesc de la <strong>1.000€</strong>; magazinele standard cu funcționalități extinse se situează la <strong>1.800€</strong>; iar magazinele premium cu integrări complexe și design 100% personalizat pot ajunge la <strong>3.500€</strong> sau mai mult.
       </p>
       <p>
-        În toate cazurile, oferim <strong>3 luni de mentenanță inclusă</strong> după lansare, pentru a ne asigura că magazinul tău funcționează perfect. <a href="#preturi">Vezi pachetele detaliate de mai jos →</a>
+        La Standard și Premium, primele <strong>3 luni de mentenanță</strong> după lansare sunt incluse. La Basic, mentenanța e opțională și pornește de la 100€ pe lună. <a href="#preturi">Vezi pachetele detaliate de mai jos →</a>
       </p>
 
       <h2>De ce să alegi un magazin online creat de Visience?</h2>
@@ -713,18 +713,17 @@
       <div class="pkg rv">
         <div class="pkg__name">Magazin Basic</div>
         <div class="pkg__price">1.000€</div>
-        <div class="pkg__price-note">Pachet de pornire</div>
+        <div class="pkg__price-note">35 de ore de lucru</div>
         <p class="pkg__desc">
-          Magazin online WooCommerce funcțional, ideal pentru micile afaceri care vor să vândă online rapid și fără investiție mare.
+          Magazin WooCommerce funcțional cu plăți online și plata la livrare. Ideal pentru afaceri la început.
         </p>
         <div class="pkg__feats">
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Până la 30 de produse</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Design template personalizat</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Integrare plăți online (cu transfer)</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Calculator livrare standard</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Design responsive (mobil + desktop)</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>SEO on-page de bază</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>3 luni mentenanță inclusă</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Până la 6 pagini dinamice</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Plată cu cardul, transfer, ramburs</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Configurare transport</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Galerie interactivă</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>GDPR + protecție consumator</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>SMTP + design responsive</span></div>
         </div>
         <a href="/contact/" class="btn btn-ghost" style="justify-content:center">Solicită oferta</a>
       </div>
@@ -733,39 +732,38 @@
         <span class="pkg__badge">Cel mai ales</span>
         <div class="pkg__name">Magazin Standard</div>
         <div class="pkg__price">1.800€</div>
-        <div class="pkg__price-note">Pentru afaceri în creștere</div>
+        <div class="pkg__price-note">75 de ore de lucru</div>
         <p class="pkg__desc">
-          Magazin online complet, cu funcționalități avansate, integrări multiple și design personalizat. Cea mai bună variantă pentru raportul calitate/preț.
+          Magazin complet cu strategie UX, sugestii produse, puncte cadou, email recuperare coș și SEO on-site.
         </p>
         <div class="pkg__feats">
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Până la 200 de produse</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Design 100% personalizat</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Plăți Stripe / Netopia / EuPlătesc</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Integrare curieri (Sameday, FAN, Cargus)</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Cupoane &amp; promoții avansate</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>SEO tehnic + structurare schema.org</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Newsletter (Mailchimp / Klaviyo)</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>3 luni mentenanță + training admin</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Tot din Basic</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>2 revizii design</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Template produs personalizat</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Sugestii produse + pachete</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Sistem puncte cadou</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Email coș abandonat</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>3 luni mentenanță</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Website 2 limbi</span></div>
         </div>
         <a href="/contact/" class="btn btn-solid" style="justify-content:center">Solicită oferta</a>
       </div>
 
       <div class="pkg rv rv-d2">
         <div class="pkg__name">Magazin Premium</div>
-        <div class="pkg__price">3.500€+</div>
-        <div class="pkg__price-note">Soluție enterprise</div>
+        <div class="pkg__price">3.500€</div>
+        <div class="pkg__price-note">150 de ore de lucru</div>
         <p class="pkg__desc">
-          Magazin online enterprise cu integrări ERP/CRM, automatizări avansate și suport prioritar. Pentru afaceri cu volume mari.
+          Soluție enterprise cu mega meniu, chat live, configurator produse complexe și SEO complet.
         </p>
         <div class="pkg__feats">
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Produse nelimitate</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Design custom + UX/UI dedicat</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Integrare ERP (SAP / SmartBill / NextUp)</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Multi-currency &amp; multi-language</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Automatizări marketing &amp; abandon cart</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Optimizare SEO magazin inclusă</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Dashboard analytics personalizat</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>6 luni mentenanță &amp; suport prioritar</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Tot din Standard</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Design unic 100%</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Mega meniu cu imagini</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Chat live integrat</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Configurator produse complexe</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Schema markup complet</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Analiză vizitatori</span></div>
         </div>
         <a href="/contact/" class="btn btn-ghost" style="justify-content:center">Solicită oferta</a>
       </div>
@@ -891,7 +889,7 @@
         </button>
         <div class="faq-a">
           <div class="faq-a-inner">
-            Pentru un magazin Basic (până la 30 produse), durata medie este de <strong>2-3 săptămâni</strong>. Pentru pachetul Standard, 4-6 săptămâni. Magazinele Premium cu integrări complexe pot dura 6-10 săptămâni. Termenul exact se confirmă după prima consultare, în funcție de complexitatea proiectului tău.
+            Pentru un magazin Basic, durata medie este de <strong>2-3 săptămâni</strong>. Pentru pachetul Standard, 4-6 săptămâni. Magazinele Premium cu integrări complexe pot dura 6-10 săptămâni. Termenul exact se confirmă după prima consultare, în funcție de complexitatea proiectului tău.
           </div>
         </div>
       </div>
@@ -915,7 +913,7 @@
         </button>
         <div class="faq-a">
           <div class="faq-a-inner">
-            După lansare, oferim <strong>3 luni de mentenanță inclusă</strong> (6 luni pentru pachetul Premium): actualizări de plugin-uri, corectarea erorilor, backup-uri săptămânale și suport tehnic prin email. Ulterior, poți alege un abonament de mentenanță lunar sau să apelezi la noi punctual, după caz.
+            La Standard și Premium, primele <strong>3 luni de mentenanță</strong> sunt incluse: actualizări de plugin-uri, corectarea erorilor, backup-uri săptămânale și suport tehnic prin email. La Basic, mentenanța e opțională, de la 100€ pe lună. Ulterior, poți alege un abonament de mentenanță lunar sau să apelezi la noi punctual, după caz.
           </div>
         </div>
       </div>
@@ -939,7 +937,7 @@
         </button>
         <div class="faq-a">
           <div class="faq-a-inner">
-            Hosting-ul și domeniul nu sunt incluse în prețul magazinului, dar te ajutăm cu recomandări și configurarea lor. În general, costurile sunt: <strong>domeniul</strong> ~10-15€/an, <strong>hosting</strong> performant pentru WooCommerce ~80-200€/an. Recomandăm soluții optimizate de hosting partener care asigură viteza optimă pentru e-commerce.
+            Domeniul și găzduirea nu intră în prețul magazinului. Se adaugă <strong>15€</strong> pentru domeniu și <strong>85€ pe an</strong> pentru găzduire.
           </div>
         </div>
       </div>
@@ -1012,6 +1010,6 @@
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Zy54Kcv6G5FcYYcXIb4rO"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-bzcSAAFT3CW9OU380l-W"}
 4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
 7:null

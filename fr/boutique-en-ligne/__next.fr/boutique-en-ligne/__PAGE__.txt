@@ -1,8 +1,7 @@
 1:"$Sreact.fragment"
-6:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
-7:"$Sreact.suspense"
-2:Tcb4,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/fr/boutique-en-ligne/#service","name":"Création de boutique en ligne","serviceType":"E-commerce","inLanguage":"fr","provider":{"@type":"Organization","name":"Visience","url":"https://visience.ro/fr/"},"areaServed":["FR","BE","CH","LU","RO"],"offers":[{"@type":"Offer","priceCurrency":"EUR","price":"1000","itemOffered":{"@type":"Service","name":"Boutique Basic, jusqu'à 30 produits"}},{"@type":"Offer","priceCurrency":"EUR","price":"1800","itemOffered":{"@type":"Service","name":"Boutique Standard, jusqu'à 200 produits"}},{"@type":"Offer","priceCurrency":"EUR","price":"3500","itemOffered":{"@type":"Service","name":"Boutique Premium, intégrations avancées"}}]},{"@type":"FAQPage","@id":"https://visience.ro/fr/boutique-en-ligne/#faq","mainEntity":[{"@type":"Question","name":"Combien de temps prend la création d'une boutique ?","acceptedAnswer":{"@type":"Answer","text":"Pour une boutique Basic, jusqu'à 30 produits, comptez 2 à 3 semaines. Pour le pack Standard, 4 à 6 semaines. Les boutiques Premium avec intégrations complexes prennent 6 à 10 semaines."}},{"@type":"Question","name":"Sur quelle plateforme construisez-vous les boutiques ?","acceptedAnswer":{"@type":"Answer","text":"Principalement WooCommerce sur WordPress. Sur demande, également Shopify, PrestaShop ou Webflow E-commerce,选 selon les objectifs du projet."}},{"@type":"Question","name":"Que se passe-t-il après le lancement ?","acceptedAnswer":{"@type":"Answer","text":"Vous bénéficiez de 3 mois de maintenance inclus, 6 mois sur le Premium : mises à jour, correction des erreurs, sauvegardes hebdomadaires et support technique par e-mail."}},{"@type":"Question","name":"Pourrai-je ajouter des produits moi-même ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Le panneau d'administration est simple et une formation de 1 à 2 heures est incluse dans les packs Standard et Premium."}},{"@type":"Question","name":"L'hébergement et le nom de domaine sont-ils inclus ?","acceptedAnswer":{"@type":"Answer","text":"Non, mais nous vous aidons à les choisir et à les configurer. Comptez environ 15 € par an pour le domaine et 80 à 200 € par an pour un hébergement adapté à WooCommerce."}},{"@type":"Question","name":"Puis-je migrer ma boutique depuis une autre plateforme ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Nous migrons depuis Shopify, Magento, PrestaShop, OpenCart et d'autres vers WooCommerce, en conservant produits, catégories, commandes et clients."}},{"@type":"Question","name":"Gérez-vous aussi le marketing de la boutique ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Après le lancement nous pouvons prendre en charge la gestion Google Ads ou Meta Ads à 200 € par mois et par plateforme, autant de campagnes que nécessaire (400 € par mois pour les deux), Google Shopping à 100 €, le SEO continu à 600 € par mois et les réseaux sociaux à partir de 200 € par mois."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://visience.ro/fr/"},{"@type":"ListItem","position":2,"name":"Boutique en ligne","item":"https://visience.ro/fr/boutique-en-ligne/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Zy54Kcv6G5FcYYcXIb4rO"}
-5:T9cca,<style>
+5:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+2:Tc3b,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/fr/boutique-en-ligne/#service","name":"Création de boutique en ligne","serviceType":"E-commerce","inLanguage":"fr","provider":{"@type":"Organization","name":"Visience","url":"https://visience.ro/fr/"},"areaServed":["FR","BE","CH","LU","RO"],"offers":[{"@type":"Offer","priceCurrency":"EUR","price":"1000","itemOffered":{"@type":"Service","name":"Boutique Basic"}},{"@type":"Offer","priceCurrency":"EUR","price":"1800","itemOffered":{"@type":"Service","name":"Boutique Standard"}},{"@type":"Offer","priceCurrency":"EUR","price":"3500","itemOffered":{"@type":"Service","name":"Boutique Premium"}}]},{"@type":"FAQPage","@id":"https://visience.ro/fr/boutique-en-ligne/#faq","mainEntity":[{"@type":"Question","name":"Combien de temps prend la création d'une boutique ?","acceptedAnswer":{"@type":"Answer","text":"Pour une boutique Basic, comptez 2 à 3 semaines. Pour le pack Standard, 4 à 6 semaines. Les boutiques Premium avec intégrations complexes prennent 6 à 10 semaines."}},{"@type":"Question","name":"Sur quelle plateforme construisez-vous les boutiques ?","acceptedAnswer":{"@type":"Answer","text":"Principalement WooCommerce sur WordPress. Sur demande, également Shopify, PrestaShop ou Webflow E-commerce,选 selon les objectifs du projet."}},{"@type":"Question","name":"Que se passe-t-il après le lancement ?","acceptedAnswer":{"@type":"Answer","text":"Avec les formules Standard et Premium, les 3 premiers mois de maintenance sont inclus : mises à jour, correction des erreurs, sauvegardes hebdomadaires et support technique par e-mail. Avec la formule Basic, la maintenance est optionnelle."}},{"@type":"Question","name":"Pourrai-je ajouter des produits moi-même ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Le panneau d'administration est simple et une formation de 1 à 2 heures est incluse dans les packs Standard et Premium."}},{"@type":"Question","name":"L'hébergement et le nom de domaine sont-ils inclus ?","acceptedAnswer":{"@type":"Answer","text":"Non. Il faut ajouter 15 € pour le domaine et 85 € par an pour l'hébergement."}},{"@type":"Question","name":"Puis-je migrer ma boutique depuis une autre plateforme ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Nous migrons depuis Shopify, Magento, PrestaShop, OpenCart et d'autres vers WooCommerce, en conservant produits, catégories, commandes et clients."}},{"@type":"Question","name":"Gérez-vous aussi le marketing de la boutique ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Après le lancement nous pouvons prendre en charge la gestion Google Ads ou Meta Ads à 200 € par mois et par plateforme, autant de campagnes que nécessaire (400 € par mois pour les deux), Google Shopping à 100 €, le SEO continu à 600 € par mois et les réseaux sociaux à partir de 200 € par mois."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://visience.ro/fr/"},{"@type":"ListItem","position":2,"name":"Boutique en ligne","item":"https://visience.ro/fr/boutique-en-ligne/"}]}]}3:T99e5,<style>
 .shop-hero {
   position: relative;
   padding: calc(var(--nav-h) + 90px) 0 90px;
@@ -646,7 +645,7 @@
         Le prix d'une <strong>boutique en ligne</strong> dépend de la complexité des fonctionnalités, du nombre de produits, des intégrations nécessaires (paiement, logistique, ERP) et du niveau de personnalisation du design. Pour une boutique de base sur WooCommerce, les tarifs démarrent à <strong>1.000€</strong>&nbsp;; les boutiques standard, avec des fonctionnalités étendues, se situent autour de <strong>1.800€</strong>&nbsp;; les boutiques premium, avec des intégrations complexes et un design 100% sur mesure, peuvent atteindre <strong>3.500€</strong> ou plus.
       </p>
       <p>
-        Dans tous les cas, nous offrons <strong>3 mois de maintenance inclus</strong> après la mise en ligne, pour nous assurer que votre boutique tourne parfaitement. <a href="#prices">Voir les forfaits détaillés plus bas →</a>
+        Avec les formules Standard et Premium, les <strong>3 premiers mois de maintenance</strong> après la mise en ligne sont inclus. Avec la formule Basic, la maintenance est optionnelle. <a href="#prices">Voir les forfaits détaillés plus bas →</a>
       </p>
 
       <h2>Pourquoi choisir une boutique en ligne réalisée par Visience&nbsp;?</h2>
@@ -679,18 +678,17 @@
       <div class="pkg rv">
         <div class="pkg__name">Boutique Basic</div>
         <div class="pkg__price">1.000€</div>
-        <div class="pkg__price-note">Forfait de démarrage</div>
+        <div class="pkg__price-note">35 heures de travail</div>
         <p class="pkg__desc">
-          Boutique en ligne WooCommerce fonctionnelle, idéale pour les petites entreprises qui veulent vendre en ligne rapidement et sans gros investissement.
+          Boutique WooCommerce fonctionnelle, avec paiement en ligne et paiement à la livraison. Idéale pour une activité qui démarre.
         </p>
         <div class="pkg__feats">
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Jusqu'à 30 produits</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Thème personnalisé</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Paiement en ligne (et virement)</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Calcul des frais de livraison standard</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Design responsive (mobile + ordinateur)</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>SEO on-page de base</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>3 mois de maintenance inclus</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Jusqu’à 6 pages dynamiques</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Carte, virement, contre-remboursement</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Configuration de la livraison</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Galerie interactive</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>RGPD + protection du consommateur</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>SMTP + design responsive</span></div>
         </div>
         <a href="/fr/contact/" class="btn btn-ghost" style="justify-content:center">Demander un devis</a>
       </div>
@@ -699,39 +697,38 @@
         <span class="pkg__badge">Le plus choisi</span>
         <div class="pkg__name">Boutique Standard</div>
         <div class="pkg__price">1.800€</div>
-        <div class="pkg__price-note">Pour les entreprises en croissance</div>
+        <div class="pkg__price-note">75 heures de travail</div>
         <p class="pkg__desc">
-          Boutique en ligne complète, avec des fonctionnalités avancées, plusieurs intégrations et un design sur mesure. Le meilleur rapport qualité/prix.
+          Boutique complète avec stratégie UX, suggestions de produits, points cadeaux, e-mail de relance panier et SEO on-site.
         </p>
         <div class="pkg__feats">
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Jusqu'à 200 produits</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Design 100% sur mesure</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Paiements Stripe / PayPal / Mollie</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Transporteurs (Colissimo, Chronopost, Mondial Relay)</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Codes promo et promotions avancées</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>SEO technique + balisage schema.org</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Newsletter (Mailchimp / Klaviyo)</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>3 mois de maintenance + formation au back-office</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Tout le Basic</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>2 révisions du design</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Template produit personnalisé</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Suggestions de produits + packs</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Système de points cadeaux</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>E-mail panier abandonné</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>3 mois de maintenance</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Site en 2 langues</span></div>
         </div>
         <a href="/fr/contact/" class="btn btn-solid" style="justify-content:center">Demander un devis</a>
       </div>
 
       <div class="pkg rv rv-d2">
         <div class="pkg__name">Boutique Premium</div>
-        <div class="pkg__price">3.500€+</div>
-        <div class="pkg__price-note">Solution grands comptes</div>
+        <div class="pkg__price">3.500€</div>
+        <div class="pkg__price-note">150 heures de travail</div>
         <p class="pkg__desc">
-          Boutique en ligne d'envergure avec intégrations ERP/CRM, automatisations avancées et support prioritaire. Pour les activités à gros volumes.
+          Solution enterprise avec méga-menu, chat en direct, configurateur de produits complexes et SEO complet.
         </p>
         <div class="pkg__feats">
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Produits illimités</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Design sur mesure + UX/UI dédié</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Intégration ERP (SAP / Sage / Cegid)</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Multidevise et multilingue</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Automatisations marketing et paniers abandonnés</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Optimisation SEO de la boutique incluse</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Tableau de bord analytics personnalisé</span></div>
-          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>6 mois de maintenance et support prioritaire</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Tout le Standard</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Design 100% unique</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Méga-menu avec images</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Chat en direct intégré</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Configurateur de produits complexes</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Schema markup complet</span></div>
+          <div class="pkg__feat"><span class="pkg__feat-tick">✓</span><span>Analyse des visiteurs</span></div>
         </div>
         <a href="/fr/contact/" class="btn btn-ghost" style="justify-content:center">Demander un devis</a>
       </div>
@@ -857,7 +854,7 @@
         </button>
         <div class="faq-a">
           <div class="faq-a-inner">
-            Pour une boutique Basic (jusqu'à 30 produits), le délai moyen est de <strong>2 à 3 semaines</strong>. Pour le forfait Standard, 4 à 6 semaines. Les boutiques Premium avec des intégrations complexes peuvent demander 6 à 10 semaines. Le délai exact est confirmé après le premier rendez-vous, selon la complexité de votre projet.
+            Pour une boutique Basic, le délai moyen est de <strong>2 à 3 semaines</strong>. Pour le forfait Standard, 4 à 6 semaines. Les boutiques Premium avec des intégrations complexes peuvent demander 6 à 10 semaines. Le délai exact est confirmé après le premier rendez-vous, selon la complexité de votre projet.
           </div>
         </div>
       </div>
@@ -881,7 +878,7 @@
         </button>
         <div class="faq-a">
           <div class="faq-a-inner">
-            Après la mise en ligne, nous offrons <strong>3 mois de maintenance inclus</strong> (6 mois pour le forfait Premium)&nbsp;: mises à jour des extensions, correction des erreurs, sauvegardes hebdomadaires et support technique par e-mail. Ensuite, vous pouvez choisir un abonnement de maintenance mensuel ou faire appel à nous ponctuellement, selon vos besoins.
+            Avec les formules Standard et Premium, les <strong>3 premiers mois de maintenance</strong> sont inclus&nbsp;: mises à jour des extensions, correction des erreurs, sauvegardes hebdomadaires et support technique par e-mail. Avec la formule Basic, la maintenance est optionnelle. Ensuite, vous pouvez choisir un abonnement de maintenance mensuel ou faire appel à nous ponctuellement, selon vos besoins.
           </div>
         </div>
       </div>
@@ -905,7 +902,7 @@
         </button>
         <div class="faq-a">
           <div class="faq-a-inner">
-            L'hébergement et le nom de domaine ne sont pas compris dans le prix de la boutique, mais nous vous aidons pour le choix et la configuration. En général, les coûts sont les suivants&nbsp;: <strong>nom de domaine</strong> ~10-15€/an, <strong>hébergement</strong> performant pour WooCommerce ~80-200€/an. Nous recommandons des solutions d'hébergement partenaires optimisées, qui assurent la vitesse nécessaire à l'e-commerce.
+            L'hébergement et le nom de domaine ne sont pas compris dans le prix de la boutique. Il faut ajouter <strong>15€</strong> pour le domaine et <strong>85€ par an</strong> pour l'hébergement.
           </div>
         </div>
       </div>
@@ -978,6 +975,6 @@
   </div>
 </section>
 </main>
-3:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$5"}}]
-4:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
-8:null
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-bzcSAAFT3CW9OU380l-W"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null
