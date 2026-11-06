@@ -58,6 +58,7 @@
 - [Platformă de cursuri online](https://visience.ro/creare-platforma-cursuri-online/): lecții video, teste, certificate, abonamente; exemplu: Edu-Net Academy
 - [Site pentru agenție imobiliară](https://visience.ro/creare-site-agentie-imobiliara/): proprietăți cu filtre și hartă, cereri la agent; exemple: 4Biz Properties, Bucegii la Fereastră
 - [Site pentru avocat](https://visience.ro/creare-site-avocat/): arii de practică pe pagini, articole, programare; exemplu: Studio Legale Lunghini (Milano)
+- [Site pentru clinică stomatologică și de estetică](https://visience.ro/creare-site-clinica/): tratamente pe pagini, medicii clinicii, programare din orice pagină, texte în limitele regulilor de publicitate ale Colegiului Medicilor Stomatologi
 
 ## Proiecte imobiliare în portofoliu (Iași)
 - Cameo Residence (complex rezidențial): identitate de proiect, materiale de vânzare tipărite, conținut pentru social media
