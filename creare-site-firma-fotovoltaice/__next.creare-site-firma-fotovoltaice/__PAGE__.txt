@@ -1,0 +1,203 @@
+1:"$Sreact.fragment"
+6:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["/_next/static/chunks/2e20r-1ylhx8v.css","style"]
+2:Taa2,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-firma-fotovoltaice/#service","name":"Creare site pentru firmă de panouri fotovoltaice","serviceType":"Creare site pentru firmă de panouri fotovoltaice","description":"Site pentru firme de panouri fotovoltaice: lucrări cu puterea și locul, pagini pe zone, cerere de ofertă cu consumul și tipul acoperișului. De la 750€.","url":"https://visience.ro/creare-site-firma-fotovoltaice/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"750","highPrice":"2500","offerCount":"3"}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-firma-fotovoltaice/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site pentru o firmă de panouri fotovoltaice?","acceptedAnswer":{"@type":"Answer","text":"Un site pentru o firmă de fotovoltaice costă 750€, 1.200€ sau 2.500€, în funcție de numărul de pagini, de SEO și de design. Varianta de 2.500€ are design unic, trei variante pentru prima pagină și texte scrise pentru SEO."}},{"@type":"Question","name":"Pot primi cererile direct pe WhatsApp?","acceptedAnswer":{"@type":"Answer","text":"Da. Pe site punem butonul de WhatsApp lângă numărul de telefon, iar formularul de cerere de ofertă trimite datele pe e-mail."}},{"@type":"Question","name":"Putem scrie pe site despre programele de finanțare?","acceptedAnswer":{"@type":"Answer","text":"Da, pe o pagină separată, pe care o actualizăm când se schimbă condițiile. Un program de stat apare pe site doar cât timp este deschis."}},{"@type":"Question","name":"Ce informații trebuie să trimită firma?","acceptedAnswer":{"@type":"Answer","text":"Avem nevoie de lista serviciilor, de zonele în care montați, de fotografii de la lucrări cu puterea fiecărui sistem și de atestatul ANRE. Textele le scriem noi pe baza acestor informații."}},{"@type":"Question","name":"Cum aduc reclamele cereri de ofertă?","acceptedAnswer":{"@type":"Answer","text":"Reclamele de pe Google și Meta trimit oamenii pe pagina de campanie, unde completează formularul sau scriu pe WhatsApp. După trimitere ajung pe o pagină de mulțumire, care arată câte cereri a adus fiecare reclamă."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Site-uri pe domenii","item":"https://visience.ro/site-uri-pe-domenii/"},{"@type":"ListItem","position":3,"name":"Site pentru firmă de fotovoltaice","item":"https://visience.ro/creare-site-firma-fotovoltaice/"}]}]}3:T2bc5,<main id="main">
+
+<section class="csi-hero" aria-labelledby="csi-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="22%" x2="100%" y2="64%"/>
+      <line x1="0" y1="58%" x2="100%" y2="18%"/>
+      <line x1="24%" y1="0" x2="78%" y2="100%"/>
+      <line x1="66%" y1="0" x2="14%" y2="100%"/>
+    </svg>
+  </div>
+  <div class="wrap">
+    <nav class="csi-breadcrumbs" aria-label="Breadcrumbs">
+      <a href="/">Acasă</a><span class="sep">/</span>
+      <a href="/site-uri-pe-domenii/">Site-uri pe domenii</a><span class="sep">/</span>
+      <span>Site pentru firmă de fotovoltaice</span>
+    </nav>
+
+    <h1 class="csi-hero__h1" id="csi-h1">
+      Site pentru firmă de<br>
+      <span class="acc">panouri fotovoltaice</span>
+    </h1>
+
+    <p class="csi-hero__lead">Cine vrea panouri fotovoltaice compară de obicei mai multe firme înainte să ceară o ofertă. Se uită la lucrările făcute, la echipamente, la zona în care lucrează firma și la pașii până la racordare. Facem site-uri pentru firme de fotovoltaice în care aceste informații se găsesc ușor, iar cererea de ofertă vine cu datele de care ai nevoie pentru o primă estimare.</p>
+
+    <div class="csi-hero__acts" style="margin-bottom:0">
+      <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+      <a href="#preturi" class="btn btn-ghost" style="border-color:rgba(255,255,255,.25);color:#fff">Vezi prețurile</a>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Ce trebuie să aibă <span class="acc">site-ul firmei</span></h2>
+    </div>
+    <div class="csi-grid csi-grid--3 rv rv-d1">
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-solar-panel"></i></div>
+        <h3>Lucrările făcute, cu puterea și locul</h3>
+        <p>Fiecare lucrare apare cu puterea sistemului, localitatea, tipul acoperișului și fotografii de la montaj. Clientul vede că ai mai făcut lucrări ca a lui.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-building"></i></div>
+        <h3>Case, firme și baterii, separat</h3>
+        <p>Sistemele pentru case, sistemele pentru firme și bateriile au pagini separate, pentru că oamenii caută diferit și au întrebări diferite.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-file-invoice"></i></div>
+        <h3>Cerere de ofertă cu datele necesare</h3>
+        <p>Formularul cere consumul lunar sau valoarea facturii, județul și tipul acoperișului. Cererea ajunge la tine cu tot ce îți trebuie pentru o primă estimare.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-list-check"></i></div>
+        <h3>Pașii până la racordare</h3>
+        <p>O pagină explică ordinea lucrurilor: vizita, oferta, montajul, documentele pentru operatorul de distribuție și contractul de prosumator. Clientul știe de la început ce urmează.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-certificate"></i></div>
+        <h3>Atestatul și echipamentele</h3>
+        <p>Atestatul ANRE al firmei, mărcile de panouri și invertoare cu care lucrezi și garanțiile date de producători sunt trecute pe site.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-location-dot"></i></div>
+        <h3>Zonele în care montezi</h3>
+        <p>Orașele și județele în care lucrezi au pagini proprii, ca firma să apară când cineva caută panouri fotovoltaice în zona lui.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream2">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Schița <span class="acc">primei pagini</span></h2>
+      <p class="body-lg" style="margin-top:14px">Schița arată ordinea obișnuită a informațiilor pe calculator și pe telefon. Designul îl facem separat pentru fiecare firmă.</p>
+    </div>
+    <div class="csi-porto csi-porto--1 rv rv-d1">
+      <div class="csi-shot">
+        <div class="csi-shot__img">
+          <img src="/media/nise/fotovoltaice-schita.avif" alt="Schița primei pagini a unui site de firmă de panouri fotovoltaice, pe calculator și pe telefon, cu formular de cerere de ofertă și lucrări" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>Schița unui site de firmă de fotovoltaice</strong>Formularul de cerere de ofertă stă pe prima pagină, iar pe telefon butoanele pentru apel și WhatsApp rămân în partea de jos a ecranului.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white" id="preturi">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Cât costă, <span class="acc">pe fiecare serviciu</span></h2>
+      <p class="body-lg" style="margin-top:14px">Fiecare serviciu are prețul lui.</p>
+    </div>
+    <div class="csi-pr rv rv-d1">
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">Website Basic</div>
+        <div class="csi-pr-card__price">750€</div>
+        <p class="csi-pr-card__desc">Site-ul are până la 6 pagini, cu blog, galerie de lucrări, politică GDPR și cookie-uri.</p>
+      </div>
+      <div class="csi-pr-card feat">
+        <span class="csi-pr-card__badge">Recomandat</span>
+        <div class="csi-pr-card__name">Website Standard</div>
+        <div class="csi-pr-card__price">1.200€</div>
+        <p class="csi-pr-card__desc">Are tot ce are Basic, plus SEO on-site complet, 10 pagini pentru orașele în care montezi și 10 articole.</p>
+      </div>
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">Pagină pentru campanii</div>
+        <div class="csi-pr-card__price">500€</div>
+        <p class="csi-pr-card__desc">O singură pagină făcută pentru reclame, cu formularul de cerere de ofertă, telefonul și măsurarea cererilor.</p>
+      </div>
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">Campanii Google sau Meta</div>
+        <div class="csi-pr-card__price">200€/lună</div>
+        <p class="csi-pr-card__desc">Administrăm oricâte campanii pe o platformă, cu raport lunar. Pe amândouă costă 400€ pe lună, pe minim 3 luni.</p>
+      </div>
+    </div>
+    <p class="csi-pr-note rv rv-d2">
+      La orice site se adaugă domeniul, 15€, și găzduirea, 85€ pe an. Configurarea campaniilor este gratuită la un contract pe 12 luni, iar bugetul de reclamă se plătește separat. <a href="/preturi/">Vezi toate prețurile</a> sau <a href="/contact/">cere o ofertă</a>. Răspundem în 24 de ore.
+    </p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Întrebări <span class="acc">frecvente</span></h2>
+    </div>
+    <div class="csi-faq rv">
+      <details>
+        <summary>Cât costă un site pentru o firmă de panouri fotovoltaice?</summary>
+        <p>Un site pentru o firmă de fotovoltaice costă 750€, 1.200€ sau 2.500€, în funcție de numărul de pagini, de SEO și de design. Varianta de 2.500€ are design unic, trei variante pentru prima pagină și texte scrise pentru SEO.</p>
+      </details>
+      <details>
+        <summary>Pot primi cererile direct pe WhatsApp?</summary>
+        <p>Da. Pe site punem butonul de WhatsApp lângă numărul de telefon, iar formularul de cerere de ofertă trimite datele pe e-mail.</p>
+      </details>
+      <details>
+        <summary>Putem scrie pe site despre programele de finanțare?</summary>
+        <p>Da, pe o pagină separată, pe care o actualizăm când se schimbă condițiile. Un program de stat apare pe site doar cât timp este deschis.</p>
+      </details>
+      <details>
+        <summary>Ce informații trebuie să trimită firma?</summary>
+        <p>Avem nevoie de lista serviciilor, de zonele în care montați, de fotografii de la lucrări cu puterea fiecărui sistem și de atestatul ANRE. Textele le scriem noi pe baza acestor informații.</p>
+      </details>
+      <details>
+        <summary>Cum aduc reclamele cereri de ofertă?</summary>
+        <p>Reclamele de pe Google și Meta trimit oamenii pe pagina de campanie, unde completează formularul sau scriu pe WhatsApp. După trimitere ajung pe o pagină de mulțumire, care arată câte cereri a adus fiecare reclamă.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-cta" aria-labelledby="csi-cta-h">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="dd dd-lg csi-cta__h" id="csi-cta-h">Cere o ofertă<br><span class="acc">pentru firma ta</span></h2>
+      <p class="csi-cta__p">Scrie-ne ce sisteme montați, în ce zone lucrați și dacă aveți deja un site. Îți trimitem în 24 de ore o ofertă cu prețul fiecărui serviciu.</p>
+      <div class="csi-cta__acts">
+        <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+        <a href="tel:+40771486499" class="btn btn-dark">+40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Site-uri pe alte domenii și prețuri">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Toate prețurile noastre sunt publice, serviciu cu serviciu. Alegi în cunoștință de cauză, fără presiune.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Site-uri pe alte domenii</div>
+      <div class="rel-links__grid">
+        <a href="/creare-site-instalatori/" class="rel-link"><span class="rel-link__name">Site pentru instalatori și foraje <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-firma-constructii/" class="rel-link"><span class="rel-link__name">Site pentru firmă de construcții <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-magazin-online-rezervoare-gpl/" class="rel-link"><span class="rel-link__name">Magazin online rezervoare GPL <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-firma-productie/" class="rel-link"><span class="rel-link__name">Site pentru firmă de producție <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-clinica/" class="rel-link"><span class="rel-link__name">Site pentru clinică <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/site-uri-pe-domenii/" class="rel-link"><span class="rel-link__name">Toate domeniile <span class="arr" aria-hidden="true">↗</span></span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DbQaRGUvxzZHs03FayvkH"}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2e20r-1ylhx8v.css","precedence":"next"}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null
