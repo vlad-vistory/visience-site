@@ -46,6 +46,7 @@
 - [Site pentru patiserie](https://visience.ro/creare-site-patiserie/): catalog de torturi, formular de comandă, avans plătit online
 - [Magazin online pentru carmangerie](https://visience.ro/creare-site-carmangerie/): produse la kilogram, livrare pe zone, plată la livrare; exemplu: Carmangeria Evei (Călărași)
 - [Site pentru pensiune](https://visience.ro/creare-site-pensiune/): camere cu prețuri, rezervare directă, recenzii, două limbi; exemple: Casa Vatră, Castello di Bagnolo
+- [Site pentru hotel și sală de evenimente](https://visience.ro/creare-site-hotel/): camere pe tipuri, rezervare directă, săli cu locurile pe tip de așezare, pagini pentru nunți, botezuri și evenimente de firmă, cerere de ofertă pentru eveniment
 - [Magazin online pentru producători locali](https://visience.ro/creare-magazin-online-produse-locale/): povestea fermei, livrare pe zone, brand și etichetă; exemple: Cantina Malpaga, Carmangeria Evei, Mier
 - [Magazin online rezervoare GPL](https://visience.ro/creare-magazin-online-rezervoare-gpl/): catalog pe capacități, calculator de consum, montaj și ISCIR; exemple: Soluții Alpensam, Eco Tehno Star Impex
 - [Site pentru birou de arhitectură](https://visience.ro/creare-site-arhitectura/): portofoliu pe categorii, pagină pe proiect, două limbi; exemple: IM Design Studio, Amodelic, BTG România
