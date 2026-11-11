@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
 6:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-2:T119c,{"@context":"https://schema.org","@graph":[{"@type":"ProfessionalService","@id":"https://visience.ro/fr/#organization","name":"Visience Creative Experience","alternateName":"Visience","url":"https://visience.ro/fr/","inLanguage":"fr","description":"Studio de marketing digital et de web design. Branding, sites internet, boutiques en ligne, Google et Meta Ads, SEO et réseaux sociaux, avec des tarifs publiés.","areaServed":[{"@type":"Country","name":"France"},{"@type":"Country","name":"Belgique"},{"@type":"Country","name":"Suisse"},{"@type":"Country","name":"Roumanie"}],"address":{"@type":"PostalAddress","addressLocality":"Iași","addressCountry":"RO"},"email":"contact@visience.ro","telephone":"+40771486499","priceRange":"€€","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"]},{"@type":"OfferCatalog","@id":"https://visience.ro/fr/#services","name":"Services Visience","provider":{"@id":"https://visience.ro/fr/#organization"},"itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Création de site internet"}},{"@type":"Offer","priceCurrency":"EUR","price":"1000","itemOffered":{"@type":"Service","name":"Boutique en ligne","url":"https://visience.ro/fr/boutique-en-ligne/"}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Branding et identité visuelle"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Gestion des réseaux sociaux"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Publicité Google Ads, gestion mensuelle"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Publicité Meta Ads (Facebook et Instagram), gestion mensuelle"}},{"@type":"Offer","priceCurrency":"EUR","price":"600","itemOffered":{"@type":"Service","name":"SEO et content marketing"}},{"@type":"Offer","priceCurrency":"EUR","price":"60","itemOffered":{"@type":"Service","name":"Développement logiciel et applications"}}]},{"@type":"FAQPage","@id":"https://visience.ro/fr/#faq","mainEntity":[{"@type":"Question","name":"Combien coûte un site internet chez Visience ?","acceptedAnswer":{"@type":"Answer","text":"Un site vitrine standard démarre à 750 €, un site avancé à 1.200 € et un site premium au design sur mesure à 2.500 €. Le prix final dépend du nombre de pages, des fonctionnalités et du niveau de personnalisation."}},{"@type":"Question","name":"Combien coûte une boutique en ligne ?","acceptedAnswer":{"@type":"Answer","text":"Une boutique sur WooCommerce ou Shopify démarre à 1.000 € pour le pack Basic, 1.800 € pour le Standard et 3.500 € pour le Premium. Tous incluent les produits, les paiements en ligne et la livraison automatisée."}},{"@type":"Question","name":"Que comprend un projet de branding ?","acceptedAnswer":{"@type":"Answer","text":"Le logo, le ton de communication et l'identité visuelle pour le web et l'imprimé. Le pack Standard, avec brand book complet, démarre à 1.200 €, le Premium à 2.500 €."}},{"@type":"Question","name":"Combien coûtent les prestations SEO ?","acceptedAnswer":{"@type":"Answer","text":"Le SEO technique ponctuel est facturé 60 € de l'heure, et la stratégie SEO mensuelle démarre à 600 € par mois, sur six mois minimum. Pour une boutique en ligne, l'optimisation complète démarre à 1.500 €."}},{"@type":"Question","name":"Où travaille Visience ?","acceptedAnswer":{"@type":"Answer","text":"Visience est basée à Iași, en Roumanie, et travaille avec des clients en France, en Belgique, en Suisse, en Italie, en Allemagne et en Roumanie. Les projets se déroulent entièrement à distance."}},{"@type":"Question","name":"Sur quelles plateformes Visience construit-elle les sites ?","acceptedAnswer":{"@type":"Answer","text":"WordPress avec Oxygen Builder ou Elementor, Shopify, WooCommerce et Webflow, ainsi que des solutions sur mesure. La plateforme est choisie selon le projet."}},{"@type":"Question","name":"Combien de temps prend la création d'un site ?","acceptedAnswer":{"@type":"Answer","text":"En général 2 à 4 semaines, et 4 à 8 semaines pour un projet premium ou une boutique complexe, selon le volume de contenu et les fonctionnalités."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://visience.ro/fr/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"m7vBH2J71JF-MUX8wW8j0"}
-5:T26a7b,
+2:T119c,{"@context":"https://schema.org","@graph":[{"@type":"ProfessionalService","@id":"https://visience.ro/fr/#organization","name":"Visience Creative Experience","alternateName":"Visience","url":"https://visience.ro/fr/","inLanguage":"fr","description":"Studio de marketing digital et de web design. Branding, sites internet, boutiques en ligne, Google et Meta Ads, SEO et réseaux sociaux, avec des tarifs publiés.","areaServed":[{"@type":"Country","name":"France"},{"@type":"Country","name":"Belgique"},{"@type":"Country","name":"Suisse"},{"@type":"Country","name":"Roumanie"}],"address":{"@type":"PostalAddress","addressLocality":"Iași","addressCountry":"RO"},"email":"contact@visience.ro","telephone":"+40771486499","priceRange":"€€","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"]},{"@type":"OfferCatalog","@id":"https://visience.ro/fr/#services","name":"Services Visience","provider":{"@id":"https://visience.ro/fr/#organization"},"itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Création de site internet"}},{"@type":"Offer","priceCurrency":"EUR","price":"1000","itemOffered":{"@type":"Service","name":"Boutique en ligne","url":"https://visience.ro/fr/boutique-en-ligne/"}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Branding et identité visuelle"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Gestion des réseaux sociaux"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Publicité Google Ads, gestion mensuelle"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Publicité Meta Ads (Facebook et Instagram), gestion mensuelle"}},{"@type":"Offer","priceCurrency":"EUR","price":"600","itemOffered":{"@type":"Service","name":"SEO et content marketing"}},{"@type":"Offer","priceCurrency":"EUR","price":"60","itemOffered":{"@type":"Service","name":"Développement logiciel et applications"}}]},{"@type":"FAQPage","@id":"https://visience.ro/fr/#faq","mainEntity":[{"@type":"Question","name":"Combien coûte un site internet chez Visience ?","acceptedAnswer":{"@type":"Answer","text":"Un site vitrine standard démarre à 750 €, un site avancé à 1.200 € et un site premium au design sur mesure à 2.500 €. Le prix final dépend du nombre de pages, des fonctionnalités et du niveau de personnalisation."}},{"@type":"Question","name":"Combien coûte une boutique en ligne ?","acceptedAnswer":{"@type":"Answer","text":"Une boutique sur WooCommerce ou Shopify démarre à 1.000 € pour le pack Basic, 1.800 € pour le Standard et 3.500 € pour le Premium. Tous incluent les produits, les paiements en ligne et la livraison automatisée."}},{"@type":"Question","name":"Que comprend un projet de branding ?","acceptedAnswer":{"@type":"Answer","text":"Le logo, le ton de communication et l'identité visuelle pour le web et l'imprimé. Le pack Standard, avec brand book complet, démarre à 1.200 €, le Premium à 2.500 €."}},{"@type":"Question","name":"Combien coûtent les prestations SEO ?","acceptedAnswer":{"@type":"Answer","text":"Le SEO technique ponctuel est facturé 60 € de l'heure, et la stratégie SEO mensuelle démarre à 600 € par mois, sur six mois minimum. Pour une boutique en ligne, l'optimisation complète démarre à 1.500 €."}},{"@type":"Question","name":"Où travaille Visience ?","acceptedAnswer":{"@type":"Answer","text":"Visience est basée à Iași, en Roumanie, et travaille avec des clients en France, en Belgique, en Suisse, en Italie, en Allemagne et en Roumanie. Les projets se déroulent entièrement à distance."}},{"@type":"Question","name":"Sur quelles plateformes Visience construit-elle les sites ?","acceptedAnswer":{"@type":"Answer","text":"WordPress avec Oxygen Builder ou Elementor, Shopify, WooCommerce et Webflow, ainsi que des solutions sur mesure. La plateforme est choisie selon le projet."}},{"@type":"Question","name":"Combien de temps prend la création d'un site ?","acceptedAnswer":{"@type":"Answer","text":"En général 2 à 4 semaines, et 4 à 8 semaines pour un projet premium ou une boutique complexe, selon le volume de contenu et les fonctionnalités."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://visience.ro/fr/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wAia8_hBXSSIB10B2Frdx"}
+5:T27162,
 
 <div class="vis-home">
 
@@ -201,7 +201,7 @@
 <section class="sqs sqs--dev" id="developers" aria-labelledby="dev-h">
   <div class="port-head">
     <div class="rv">
-      <h2 class="dd dd-lg" id="dev-h">Promoteurs immobiliers</h2>
+      <h2 class="dd dd-lg" id="dev-h">Immobilier</h2>
     </div>
     <div class="pf-cta__acts">
       <a href="/fr/marketing-immobilier/" class="btn btn-solid">Ce que nous faisons pour les promoteurs <span style="margin-left:4px">→</span></a>
@@ -216,42 +216,61 @@
     </div>
   </div>
 
-  <div class="port-wrap" id="devWrap" tabindex="0" role="region" aria-label="Carrousel promoteurs immobiliers">
+  <div class="port-wrap" id="devWrap" tabindex="0" role="region" aria-label="Carrousel immobilier">
     <div class="port-track" id="devTrack">
+      <a class="sq-card" href="https://housevision.ro/" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/v3/house-vision.avif" alt="House Vision — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">House Vision</span>
+      </a>
 
       <a class="sq-card" href="https://www.bucegii-la-fereastra.ro/" target="_blank" rel="noopener">
         <span class="sq-card__img"><img src="/media/tiles/v2/bucegii-la-fereastra.avif" alt="Bucegii la Fereastră — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
         <span class="sq-card__name">Bucegii la Fereastră</span>
       </a>
 
+      <a class="sq-card" href="https://4biz.properties/" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/v2/4biz-properties.avif" alt="4Biz Properties — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">4Biz Properties</span>
+      </a>
+
       <a class="sq-card" href="https://vlaicu87.ro/" target="_blank" rel="noopener">
         <span class="sq-card__img"><img src="/media/tiles/v2/vlaicu87.avif" alt="Vlaicu87 — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
-        <span class="sq-card__name">Vlaicu87</span>
+        <span class="sq-card__name cv-row"><span>Vlaicu87</span><span class="cu-vistory">avec Vistory</span></span>
       </a>
 
       <a class="sq-card" href="https://cameoresidence.ro/" target="_blank" rel="noopener">
         <span class="sq-card__img"><img src="/media/tiles/v2/cameo-residence.avif" alt="Cameo Residence — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
-        <span class="sq-card__name">Cameo Residence</span>
+        <span class="sq-card__name cv-row"><span>Cameo Residence</span><span class="cu-vistory">avec Vistory</span></span>
+      </a>
+
+      <a class="sq-card" href="https://www.lapis-residence.ro/" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/v3/lapis-residence.avif" alt="Lapis Residence — campagnes Meta réalisées par Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Lapis Residence</span>
+      </a>
+
+      <a class="sq-card" href="https://www.onyx-residence.ro/" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/v3/onyx-residence.avif" alt="Onyx Residence — campagnes Meta réalisées par Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Onyx Residence</span>
       </a>
 
       <a class="sq-card" href="https://picolina.ro/" target="_blank" rel="noopener">
         <span class="sq-card__img"><img src="/media/tiles/v3/picolina-b.avif" alt="Picolina Bucium — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
-        <span class="sq-card__name">Picolina Bucium</span>
+        <span class="sq-card__name cv-row"><span>Picolina Bucium</span><span class="cu-vistory">avec Vistory</span></span>
       </a>
 
       <a class="sq-card" href="https://armurdesign.ro/" target="_blank" rel="noopener">
         <span class="sq-card__img"><img src="/media/tiles/v3/armur-design.avif" alt="Armur Design — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
-        <span class="sq-card__name">Armur Design</span>
+        <span class="sq-card__name cv-row"><span>Armur Design</span><span class="cu-vistory">avec Vistory</span></span>
       </a>
 
       <a class="sq-card" href="https://www.alfapark.ro/" target="_blank" rel="noopener">
         <span class="sq-card__img"><img src="/media/tiles/v2/alfa-park-residence.avif" alt="Alfa Park Residence — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
-        <span class="sq-card__name">Alfa Park Residence</span>
+        <span class="sq-card__name cv-row"><span>Alfa Park Residence</span><span class="cu-vistory">avec Vistory</span></span>
       </a>
 
       <a class="sq-card" href="https://2mtech.ro/" target="_blank" rel="noopener">
         <span class="sq-card__img"><img src="/media/tiles/v2/2m-tech.avif" alt="2M Tech — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
-        <span class="sq-card__name">2M Tech</span>
+        <span class="sq-card__name cv-row"><span>2M Tech</span><span class="cu-vistory">avec Vistory</span></span>
       </a>
 
     </div>

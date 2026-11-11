@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
 9:I[68027,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"default",1]
-:HL["/_next/static/chunks/2k97max921z0j.css","style"]
+:HL["/_next/static/chunks/0i9zakgbfo9ic.css","style"]
 :HL["/_next/static/media/0da9c7f357bd9d4d-s.p.1975l3y3401x_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/2094fb60fd9c8287-s.p.3qxy1tqak831c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/47fe1b7cd6e6ed85-s.p.3bh2vc0w-r-ll.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -33,7 +33,7 @@
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();0:{"P":null,"c":["","marketing-dezvoltatori-imobiliari",""],"q":"","i":false,"f":[[["",{"children":["marketing-dezvoltatori-imobiliari",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2k97max921z0j.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1fkw942u-_dr5.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"m7vBH2J71JF-MUX8wW8j0"}
+})();0:{"P":null,"c":["","marketing-dezvoltatori-imobiliari",""],"q":"","i":false,"f":[[["",{"children":["marketing-dezvoltatori-imobiliari",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0i9zakgbfo9ic.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1fkw942u-_dr5.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"wAia8_hBXSSIB10B2Frdx"}
 c:I[36621,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 17:I[39756,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 18:I[37457,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
@@ -694,14 +694,14 @@ f:Tf55,<header class="nav" id="nav" role="banner">
 1c:[]
 7:"$W1c"
 8:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":"$L1e"}],["$","div",null,{"hidden":true,"children":["$","$L1f",null,{"children":["$","$20",null,{"name":"Next.Metadata","children":"$L21"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
-a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2k97max921z0j.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0i9zakgbfo9ic.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 22:I[27961,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 23:I[11015,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 25:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 14:["$","$L17",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
 15:["$","$L22",null,{}]
 16:["$","$L23",null,{}]
-24:T13367,<style>
+24:T134db,<style>
 .dev-page { background: var(--cream); }
 
 .dev-section__head {
@@ -1803,7 +1803,7 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2k97max921z0j
           <span class="br-proj__b">
             <span class="br-proj__n">Cameo Residence</span>
             <span class="br-proj__p">Logo, website cu pagini per apartament, social media și campanii Meta.</span>
-            <span class="br-proj__m">Vezi proiectul →</span>
+            <span class="br-proj__m cv-row"><span>Vezi proiectul →</span><span class="cu-vistory">cu Vistory</span></span>
           </span>
         </a>
         <a class="br-proj__c" href="/proiecte/vlaicu87/">
@@ -1811,7 +1811,7 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2k97max921z0j
           <span class="br-proj__b">
             <span class="br-proj__n">Vlaicu87</span>
             <span class="br-proj__p">Cartier de case cu parc propriu. Branding de ansamblu și website.</span>
-            <span class="br-proj__m">Vezi proiectul →</span>
+            <span class="br-proj__m cv-row"><span>Vezi proiectul →</span><span class="cu-vistory">cu Vistory</span></span>
           </span>
         </a>
         <a class="br-proj__c" href="/proiecte/grand-beetle/">
@@ -1819,7 +1819,7 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2k97max921z0j
           <span class="br-proj__b">
             <span class="br-proj__n">Grand Beetle</span>
             <span class="br-proj__p">Identitate și website pentru un ansamblu nou din Iași.</span>
-            <span class="br-proj__m">Vezi proiectul →</span>
+            <span class="br-proj__m cv-row"><span>Vezi proiectul →</span><span class="cu-vistory">cu Vistory</span></span>
           </span>
         </a>
         <a class="br-proj__c" href="/proiecte/alfa-park-residence/">
@@ -1827,7 +1827,7 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2k97max921z0j
           <span class="br-proj__b">
             <span class="br-proj__n">Alfa Park Residence</span>
             <span class="br-proj__p">Website pentru vânzarea unităților, la Botoșani.</span>
-            <span class="br-proj__m">Vezi proiectul →</span>
+            <span class="br-proj__m cv-row"><span>Vezi proiectul →</span><span class="cu-vistory">cu Vistory</span></span>
           </span>
         </a>
         <a class="br-proj__c" href="/proiecte/picolina/">
@@ -1835,7 +1835,7 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2k97max921z0j
           <span class="br-proj__b">
             <span class="br-proj__n">Picolina Bucium</span>
             <span class="br-proj__p">Case și blocuri: brand, site, campanii și materiale de vânzare.</span>
-            <span class="br-proj__m">Vezi proiectul →</span>
+            <span class="br-proj__m cv-row"><span>Vezi proiectul →</span><span class="cu-vistory">cu Vistory</span></span>
           </span>
         </a>
         <a class="br-proj__c" href="/proiecte/armur-design/">
@@ -1843,7 +1843,7 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2k97max921z0j
           <span class="br-proj__b">
             <span class="br-proj__n">Armur Design</span>
             <span class="br-proj__p">Amenajări și construcții, cu ansamblul rezidențial Galata.</span>
-            <span class="br-proj__m">Vezi proiectul →</span>
+            <span class="br-proj__m cv-row"><span>Vezi proiectul →</span><span class="cu-vistory">cu Vistory</span></span>
           </span>
         </a>
         <a class="br-proj__c" href="/proiecte/4biz-properties/">
