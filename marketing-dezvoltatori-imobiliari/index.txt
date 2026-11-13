@@ -33,7 +33,7 @@
   if(p)apply(!!p.a,!!p.m);
   gtag('js',new Date());gtag('config','GT-MJWWD7S8');
   var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id=GT-MJWWD7S8';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);
-})();0:{"P":null,"c":["","marketing-dezvoltatori-imobiliari",""],"q":"","i":false,"f":[[["",{"children":["marketing-dezvoltatori-imobiliari",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0i9zakgbfo9ic.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1fkw942u-_dr5.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"wAia8_hBXSSIB10B2Frdx"}
+})();0:{"P":null,"c":["","marketing-dezvoltatori-imobiliari",""],"q":"","i":false,"f":[[["",{"children":["marketing-dezvoltatori-imobiliari",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0i9zakgbfo9ic.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1fkw942u-_dr5.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/24ag4weogx3og.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ro","className":"poppins_4a4fd412-module__BJHxKW__variable","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","as":"style","href":"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css';document.head.appendChild(l);})();"}}],["$","noscript",null,{"children":"$2"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{},null,false,null]},null,false,"$@7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"UXhWLam24kvCDzzE1Xphi"}
 c:I[36621,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 17:I[39756,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
 18:I[37457,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"default"]
@@ -701,7 +701,7 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0i9zakgbfo9ic
 14:["$","$L17",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L18",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
 15:["$","$L22",null,{}]
 16:["$","$L23",null,{}]
-24:T134db,<style>
+24:T137d1,<style>
 .dev-page { background: var(--cream); }
 
 .dev-section__head {
@@ -1448,7 +1448,7 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0i9zakgbfo9ic
 
 /* proiecte clicabile */
 .br-proj { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
-@media (min-width: 1200px) { .br-proj { grid-template-columns: repeat(4, 1fr); gap: 16px; } }
+@media (min-width: 1200px) { .br-proj { gap: 20px; } }
 .br-proj__c { display: block; text-decoration: none; background: var(--white); border-radius: 14px; overflow: hidden; transition: transform .3s, box-shadow .3s; }
 .br-sec--cream .br-proj__c { background: var(--white); }
 .br-proj__c:hover { transform: translateY(-4px); box-shadow: 0 18px 40px rgba(17,16,16,.12); }
@@ -1677,7 +1677,7 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0i9zakgbfo9ic
       <div class="dev-hero__stats">
         <div class="dev-hero__stat"><span class="num">8.200+</span><span class="lbl">lead-uri imobiliare</span></div>
         <div class="dev-hero__stat"><span class="num">12 ani</span><span class="lbl">experiență</span></div>
-        <div class="dev-hero__stat"><span class="num">9</span><span class="lbl">proiecte imobiliare</span></div>
+        <div class="dev-hero__stat"><span class="num">10</span><span class="lbl">proiecte imobiliare</span></div>
         <div class="dev-hero__stat"><span class="num">120+</span><span class="lbl">proiecte livrate</span></div>
       </div>
     </div>
@@ -1687,6 +1687,7 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0i9zakgbfo9ic
     <p class="dev-band__t">Ansambluri rezidențiale, dezvoltatori și firme de construcții</p>
     <div class="dev-band__m" id="devBanda">
       <div class="dev-band__tr">
+        <img src="/media/logo/banda/house-vision-v1.webp" alt="House Vision" width="378" height="104">
         <img src="/media/logo/banda/cameo-residence-v1.webp" alt="Cameo Residence" width="138" height="104">
         <img src="/media/logo/banda/vlaicu87-v1.webp" alt="Vlaicu87" width="336" height="104">
         <img src="/media/logo/banda/lapis-residence-v1.webp" alt="Lapis Residence" width="341" height="104">
@@ -1698,6 +1699,7 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0i9zakgbfo9ic
         <img src="/media/logo/banda/4biz-properties-v1.webp" alt="4Biz Properties" width="188" height="104">
         <img src="/media/logo/banda/im-design-studio-v1.webp" alt="IM Design Studio" width="358" height="104">
         <img src="/media/logo/banda/amodelic-v1.webp" alt="Amodelic" width="180" height="104">
+        <img src="/media/logo/banda/house-vision-v1.webp" aria-hidden="true" alt="" width="378" height="104">
         <img src="/media/logo/banda/cameo-residence-v1.webp" aria-hidden="true" alt="" width="138" height="104">
         <img src="/media/logo/banda/vlaicu87-v1.webp" aria-hidden="true" alt="" width="336" height="104">
         <img src="/media/logo/banda/lapis-residence-v1.webp" aria-hidden="true" alt="" width="341" height="104">
@@ -1790,6 +1792,14 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0i9zakgbfo9ic
         <p>Nu învățăm meserie pe proiectul tău. Am dus deja ansambluri rezidențiale și cartiere de case de la lansare la vânzare, cu brand, website, campanii și conținut care aduc cumpărători. Apasă pe oricare ca să vezi ce am făcut acolo.</p>
       </div>
       <div class="br-proj rv rv-d2">
+        <a class="br-proj__c" href="/proiecte/house-vision/">
+          <span class="br-proj__img"><img src="/media/tiles/v3/house-vision.avif" alt="House Vision — proiect Visience" width="720" height="900" loading="lazy"></span>
+          <span class="br-proj__b">
+            <span class="br-proj__n">House Vision</span>
+            <span class="br-proj__p">Case P+E în Miroslava. Site nou cu casele în 3D, CRM, social media și campanii.</span>
+            <span class="br-proj__m">Vezi proiectul →</span>
+          </span>
+        </a>
         <a class="br-proj__c" href="https://www.bucegii-la-fereastra.ro/" target="_blank" rel="noopener">
           <span class="br-proj__img"><img src="/media/tiles/v2/bucegii-la-fereastra.avif" alt="Bucegii la Fereastră — proiect Visience" width="720" height="900" loading="lazy"></span>
           <span class="br-proj__b">
@@ -1846,12 +1856,12 @@ a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0i9zakgbfo9ic
             <span class="br-proj__m cv-row"><span>Vezi proiectul →</span><span class="cu-vistory">cu Vistory</span></span>
           </span>
         </a>
-        <a class="br-proj__c" href="/proiecte/4biz-properties/">
+        <a class="br-proj__c" href="https://4biz.properties/" target="_blank" rel="noopener">
           <span class="br-proj__img"><img src="/media/tiles/v2/4biz-properties.avif" alt="4Biz Properties — proiect Visience" width="720" height="900" loading="lazy"></span>
           <span class="br-proj__b">
             <span class="br-proj__n">4Biz Properties</span>
             <span class="br-proj__p">Consultanță imobiliară comercială: site, identitate și campanii.</span>
-            <span class="br-proj__m">Vezi proiectul →</span>
+            <span class="br-proj__m">Vezi site-ul →</span>
           </span>
         </a>
       </div>
