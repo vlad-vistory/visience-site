@@ -1,0 +1,200 @@
+1:"$Sreact.fragment"
+7:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["/_next/static/chunks/2e20r-1ylhx8v.css","style"]
+:HL["/_next/static/chunks/010xdywdq905j.css","style"]
+2:Ta9a,{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://visience.ro/cine-iti-face-site-ul/#articol","headline":"Cine îți face site-ul: patru variante comparate","description":"Visience, un freelancer, Wix sau o agenție mare, comparate pe preț, SEO, GDPR și campanii. Plus ce intră în site-urile Basic, Standard și Premium.","url":"https://visience.ro/cine-iti-face-site-ul/","inLanguage":"ro-RO","datePublished":"2026-11-17","dateModified":"2026-11-17","author":{"@id":"https://visience.ro/#organization"},"publisher":{"@id":"https://visience.ro/#organization"},"about":[{"@type":"Thing","name":"Creare site"},{"@type":"Thing","name":"Comparație furnizori de site-uri"}]},{"@type":"ItemList","@id":"https://visience.ro/cine-iti-face-site-ul/#variante","name":"Variantele de site Visience","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Offer","name":"Website Basic","price":"750","priceCurrency":"EUR","url":"https://visience.ro/preturi/"}},{"@type":"ListItem","position":2,"item":{"@type":"Offer","name":"Website Standard","price":"1200","priceCurrency":"EUR","url":"https://visience.ro/preturi/"}},{"@type":"ListItem","position":3,"item":{"@type":"Offer","name":"Website Premium","price":"2500","priceCurrency":"EUR","url":"https://visience.ro/preturi/"}}]},{"@type":"FAQPage","@id":"https://visience.ro/cine-iti-face-site-ul/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un site făcut de Visience?","acceptedAnswer":{"@type":"Answer","text":"Un site costă 750€, 1.200€ sau 2.500€, în funcție de numărul de pagini, de SEO și de design. La orice site se adaugă domeniul, 15€, și găzduirea, 85€ pe an."}},{"@type":"Question","name":"De ce nu aș face site-ul singur, pe Wix?","acceptedAnswer":{"@type":"Answer","text":"Un constructor de site e potrivit dacă ai timp să lucrezi singur la el. Pornești de la un șablon, textele și SEO-ul le faci tu, iar site-ul rămâne pe platforma lor și nu se poate muta la alt furnizor."}},{"@type":"Question","name":"Ce variantă e potrivită pentru o firmă locală?","acceptedAnswer":{"@type":"Answer","text":"Pentru o firmă care vrea să apară în căutările din orașul ei, varianta Standard are SEO on-site complet și 10 pagini pentru orașe sau cartiere. Varianta Basic e potrivită pentru o prezentare simplă, cu până la 6 pagini."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Prețuri","item":"https://visience.ro/preturi/"},{"@type":"ListItem","position":3,"name":"Cine îți face site-ul","item":"https://visience.ro/cine-iti-face-site-ul/"}]}]}3:T3b0e,<main id="main">
+
+<section class="csi-hero" aria-labelledby="csi-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="22%" x2="100%" y2="64%"/>
+      <line x1="0" y1="58%" x2="100%" y2="18%"/>
+      <line x1="24%" y1="0" x2="78%" y2="100%"/>
+      <line x1="66%" y1="0" x2="14%" y2="100%"/>
+    </svg>
+  </div>
+  <div class="wrap">
+    <nav class="csi-breadcrumbs" aria-label="Breadcrumbs">
+      <a href="/">Acasă</a><span class="sep">/</span>
+      <a href="/preturi/">Prețuri</a><span class="sep">/</span>
+      <span>Cine îți face site-ul</span>
+    </nav>
+
+    <h1 class="csi-hero__h1" id="csi-h1">
+      Cine îți face site-ul<br>
+      <span class="acc">patru variante comparate</span>
+    </h1>
+
+    <p class="csi-hero__lead">Un site îl poți face cu Visience, cu un freelancer, singur pe o platformă ca Wix sau cu o agenție mare. Primul tabel arată ce primești în fiecare caz, iar al doilea arată ce intră în fiecare variantă de site făcută de noi.</p>
+
+    <div class="csi-hero__acts" style="margin-bottom:0">
+      <a href="#variante" class="btn btn-solid">Vezi variantele de site</a>
+      <a href="/contact/" class="btn btn-ghost" style="border-color:rgba(255,255,255,.25);color:#fff">Cere ofertă</a>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream" id="comparatie">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Patru feluri de a-ți face <span class="acc">site&#8209;ul</span></h2>
+    </div>
+    <div class="cmp-scurt rv">
+      <b>Pe scurt</b>
+      <p>Dacă vrei un site făcut pentru firma ta, cu prețul scris dinainte și cu reclamele în aceeași echipă, o agenție mică cu prețuri publice e varianta cea mai directă. Un constructor de site e mai ieftin la început, dar textele și SEO-ul le faci singur, iar site-ul nu se poate muta de pe platformă.</p>
+    </div>
+    <p class="cmp-upd">Actualizat pe 17 noiembrie 2026.</p>
+
+    <div class="cmp-wrap rv rv-d1">
+      <table class="cmp">
+        <caption class="sr-only">Comparație între Visience, un freelancer, un constructor de site folosit singur și o agenție mare</caption>
+        <thead>
+          <tr>
+            <th scope="col" style="text-align:left">Ce compari</th>
+            <th scope="col" class="cmp-noi">Visience</th>
+            <th scope="col">Freelancer</th>
+            <th scope="col">Constructor de site, făcut singur</th>
+            <th scope="col">Agenție mare</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><th scope="row">Prețul fiecărui serviciu e scris pe site</th>
+            <td class="cmp-noi"><span class="cmp-da" aria-label="da">✓</span></td><td class="cmp-txt">Depinde de persoană</td><td><span class="cmp-da" aria-label="da">✓</span></td><td class="cmp-txt">De obicei, la cerere</td></tr>
+          <tr><th scope="row">Designul e făcut pentru firma ta</th>
+            <td class="cmp-noi"><span class="cmp-da" aria-label="da">✓</span></td><td class="cmp-txt">Depinde de persoană</td><td class="cmp-txt">Pornești de la un șablon</td><td><span class="cmp-da" aria-label="da">✓</span></td></tr>
+          <tr><th scope="row">SEO on-site și date structurate pentru Google</th>
+            <td class="cmp-noi cmp-txt-da">✓ la Standard și Premium</td><td class="cmp-txt">Depinde de persoană</td><td class="cmp-txt">Le faci singur</td><td><span class="cmp-da" aria-label="da">✓</span></td></tr>
+          <tr><th scope="row">Politica GDPR și cookie-urile sunt incluse</th>
+            <td class="cmp-noi"><span class="cmp-da" aria-label="da">✓</span></td><td class="cmp-txt">Depinde de persoană</td><td class="cmp-txt">Le configurezi singur</td><td><span class="cmp-da" aria-label="da">✓</span></td></tr>
+          <tr><th scope="row">Cineva se ocupă de domeniu și de găzduire</th>
+            <td class="cmp-noi"><span class="cmp-da" aria-label="da">✓</span></td><td class="cmp-txt">Depinde de persoană</td><td><span class="cmp-da" aria-label="da">✓</span></td><td><span class="cmp-da" aria-label="da">✓</span></td></tr>
+          <tr><th scope="row">Site-ul se poate muta la alt furnizor</th>
+            <td class="cmp-noi"><span class="cmp-da" aria-label="da">✓</span></td><td class="cmp-txt">Depinde de cum e făcut</td><td><span class="cmp-nu" aria-label="nu">✕</span></td><td class="cmp-txt">Depinde de contract</td></tr>
+          <tr><th scope="row">Campaniile Google și Meta le face aceeași echipă</th>
+            <td class="cmp-noi"><span class="cmp-da" aria-label="da">✓</span></td><td class="cmp-txt">Rar</td><td><span class="cmp-nu" aria-label="nu">✕</span></td><td><span class="cmp-da" aria-label="da">✓</span></td></tr>
+          <tr><th scope="row">Vorbești cu același om, de la ofertă la lansare</th>
+            <td class="cmp-noi"><span class="cmp-da" aria-label="da">✓</span></td><td><span class="cmp-da" aria-label="da">✓</span></td><td><span class="cmp-nu" aria-label="nu">✕</span></td><td class="cmp-txt">Depinde de agenție</td></tr>
+        </tbody>
+      </table>
+      <p class="cmp-gliseaza">Glisează tabelul spre stânga pentru celelalte coloane.</p>
+    </div>
+    <p class="cmp-nota">Bifa arată că lucrul respectiv e inclus. Unde scrie „depinde”, răspunsul diferă de la un furnizor la altul, așa că merită întrebat înainte de contract.</p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white" id="variante">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Ce intră în fiecare <span class="acc">variantă de site</span></h2>
+      <p class="body-lg" style="margin-top:14px">Prețurile sunt cele de pe pagina de prețuri. La orice site se adaugă domeniul, 15€, și găzduirea, 85€ pe an.</p>
+    </div>
+
+    <div class="cmp-wrap rv rv-d1">
+      <table class="cmp">
+        <caption class="sr-only">Ce intră în site-urile Website Basic, Website Standard și Website Premium</caption>
+        <thead>
+          <tr>
+            <th scope="col" style="text-align:left">Ce primești</th>
+            <th scope="col">Website Basic<span class="cmp-pret">750€</span></th>
+            <th scope="col" class="cmp-noi">Website Standard<span class="cmp-pret">1.200€</span></th>
+            <th scope="col">Website Premium<span class="cmp-pret">2.500€</span></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><th scope="row">Ore de lucru</th><td class="cmp-txt">25 de ore</td><td class="cmp-noi cmp-txt-da">50 de ore</td><td class="cmp-txt">100 de ore</td></tr>
+          <tr class="cmp-grup"><th scope="rowgroup" colspan="4">Site-ul</th></tr>
+          <tr><th scope="row">Până la 6 pagini</th><td><span class="cmp-da" aria-label="da">✓</span></td><td class="cmp-noi"><span class="cmp-da" aria-label="da">✓</span></td><td><span class="cmp-da" aria-label="da">✓</span></td></tr>
+          <tr><th scope="row">Blog</th><td><span class="cmp-da" aria-label="da">✓</span></td><td class="cmp-noi"><span class="cmp-da" aria-label="da">✓</span></td><td><span class="cmp-da" aria-label="da">✓</span></td></tr>
+          <tr><th scope="row">Galerie interactivă</th><td><span class="cmp-da" aria-label="da">✓</span></td><td class="cmp-noi"><span class="cmp-da" aria-label="da">✓</span></td><td><span class="cmp-da" aria-label="da">✓</span></td></tr>
+          <tr><th scope="row">Politică GDPR și cookie-uri</th><td><span class="cmp-da" aria-label="da">✓</span></td><td class="cmp-noi"><span class="cmp-da" aria-label="da">✓</span></td><td><span class="cmp-da" aria-label="da">✓</span></td></tr>
+          <tr><th scope="row">Firewall și trimitere sigură a e-mailurilor</th><td><span class="cmp-da" aria-label="da">✓</span></td><td class="cmp-noi"><span class="cmp-da" aria-label="da">✓</span></td><td><span class="cmp-da" aria-label="da">✓</span></td></tr>
+          <tr><th scope="row">Hartă interactivă</th><td><span class="cmp-nu" aria-label="nu">✕</span></td><td class="cmp-noi"><span class="cmp-da" aria-label="da">✓</span></td><td><span class="cmp-da" aria-label="da">✓</span></td></tr>
+          <tr class="cmp-grup"><th scope="rowgroup" colspan="4">Google</th></tr>
+          <tr><th scope="row">SEO de bază</th><td><span class="cmp-da" aria-label="da">✓</span></td><td class="cmp-noi"><span class="cmp-da" aria-label="da">✓</span></td><td><span class="cmp-da" aria-label="da">✓</span></td></tr>
+          <tr><th scope="row">SEO on-site complet</th><td><span class="cmp-nu" aria-label="nu">✕</span></td><td class="cmp-noi"><span class="cmp-da" aria-label="da">✓</span></td><td><span class="cmp-da" aria-label="da">✓</span></td></tr>
+          <tr><th scope="row">10 pagini pentru orașe sau cartiere</th><td><span class="cmp-nu" aria-label="nu">✕</span></td><td class="cmp-noi"><span class="cmp-da" aria-label="da">✓</span></td><td><span class="cmp-da" aria-label="da">✓</span></td></tr>
+          <tr><th scope="row">Date structurate pentru Google</th><td><span class="cmp-nu" aria-label="nu">✕</span></td><td class="cmp-noi"><span class="cmp-da" aria-label="da">✓</span></td><td><span class="cmp-da" aria-label="da">✓</span></td></tr>
+          <tr><th scope="row">10 articole</th><td><span class="cmp-nu" aria-label="nu">✕</span></td><td class="cmp-noi"><span class="cmp-da" aria-label="da">✓</span></td><td><span class="cmp-da" aria-label="da">✓</span></td></tr>
+          <tr class="cmp-grup"><th scope="rowgroup" colspan="4">Design și strategie</th></tr>
+          <tr><th scope="row">Design după analiza concurenței</th><td><span class="cmp-nu" aria-label="nu">✕</span></td><td class="cmp-noi"><span class="cmp-da" aria-label="da">✓</span></td><td><span class="cmp-da" aria-label="da">✓</span></td></tr>
+          <tr><th scope="row">Strategie după analiza clienților</th><td><span class="cmp-nu" aria-label="nu">✕</span></td><td class="cmp-noi"><span class="cmp-nu" aria-label="nu">✕</span></td><td><span class="cmp-da" aria-label="da">✓</span></td></tr>
+          <tr><th scope="row">Trei variante de design pentru prima pagină</th><td><span class="cmp-nu" aria-label="nu">✕</span></td><td class="cmp-noi"><span class="cmp-nu" aria-label="nu">✕</span></td><td><span class="cmp-da" aria-label="da">✓</span></td></tr>
+          <tr><th scope="row">Animații la trecerea mouse-ului și la derulare</th><td><span class="cmp-nu" aria-label="nu">✕</span></td><td class="cmp-noi"><span class="cmp-nu" aria-label="nu">✕</span></td><td><span class="cmp-da" aria-label="da">✓</span></td></tr>
+          <tr><th scope="row">Texte scrise pentru SEO</th><td><span class="cmp-nu" aria-label="nu">✕</span></td><td class="cmp-noi"><span class="cmp-nu" aria-label="nu">✕</span></td><td><span class="cmp-da" aria-label="da">✓</span></td></tr>
+          <tr><th scope="row">Google Tag Manager</th><td><span class="cmp-nu" aria-label="nu">✕</span></td><td class="cmp-noi"><span class="cmp-nu" aria-label="nu">✕</span></td><td><span class="cmp-da" aria-label="da">✓</span></td></tr>
+        </tbody>
+      </table>
+      <p class="cmp-gliseaza">Glisează tabelul spre stânga pentru celelalte coloane.</p>
+    </div>
+    <p class="cmp-nota">Varianta Standard e cea aleasă cel mai des. Campaniile Google sau Meta costă 200€ pe lună pe fiecare platformă. <a href="/preturi/">Vezi toate prețurile</a>.</p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Întrebări <span class="acc">frecvente</span></h2>
+    </div>
+    <div class="csi-faq rv">
+      <details>
+        <summary>Cât costă un site făcut de Visience?</summary>
+        <p>Un site costă 750€, 1.200€ sau 2.500€, în funcție de numărul de pagini, de SEO și de design. La orice site se adaugă domeniul, 15€, și găzduirea, 85€ pe an.</p>
+      </details>
+      <details>
+        <summary>De ce nu aș face site-ul singur, pe Wix?</summary>
+        <p>Un constructor de site e potrivit dacă ai timp să lucrezi singur la el. Pornești de la un șablon, textele și SEO-ul le faci tu, iar site-ul rămâne pe platforma lor și nu se poate muta la alt furnizor.</p>
+      </details>
+      <details>
+        <summary>Ce variantă e potrivită pentru o firmă locală?</summary>
+        <p>Pentru o firmă care vrea să apară în căutările din orașul ei, varianta Standard are SEO on-site complet și 10 pagini pentru orașe sau cartiere. Varianta Basic e potrivită pentru o prezentare simplă, cu până la 6 pagini.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-cta" aria-labelledby="csi-cta-h">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="dd dd-lg csi-cta__h" id="csi-cta-h">Cere o ofertă<br><span class="acc">pentru site-ul tău</span></h2>
+      <p class="csi-cta__p">Spune-ne ce face firma ta și dacă ai deja un site. Îți trimitem în 24 de ore o ofertă cu prețul fiecărui serviciu.</p>
+      <div class="csi-cta__acts">
+        <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+        <a href="tel:+40771486499" class="btn btn-dark">+40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Prețuri și pagini înrudite">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Toate prețurile noastre sunt publice, serviciu cu serviciu. Alegi în cunoștință de cauză, fără presiune.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Pagini înrudite</div>
+      <div class="rel-links__grid">
+        <a href="/pret-site-de-prezentare/" class="rel-link"><span class="rel-link__name">Preț site de prezentare <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-prezentare/" class="rel-link"><span class="rel-link__name">Creare site de prezentare <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-magazin-online/" class="rel-link"><span class="rel-link__name">Creare magazin online <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/site-uri-pe-domenii/" class="rel-link"><span class="rel-link__name">Site-uri pe domenii <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/portofoliu/" class="rel-link"><span class="rel-link__name">Portofoliu <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/contact/" class="rel-link"><span class="rel-link__name">Contact <span class="arr" aria-hidden="true">↗</span></span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$3"}}]],["$L4","$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"qCEgy6eOAeJCHe-fx9rlM"}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2e20r-1ylhx8v.css","precedence":"next"}]
+5:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/010xdywdq905j.css","precedence":"next"}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null
