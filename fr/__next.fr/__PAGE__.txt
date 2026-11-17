@@ -1,1786 +1,8 @@
 1:"$Sreact.fragment"
 6:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-2:T119c,{"@context":"https://schema.org","@graph":[{"@type":"ProfessionalService","@id":"https://visience.ro/fr/#organization","name":"Visience Creative Experience","alternateName":"Visience","url":"https://visience.ro/fr/","inLanguage":"fr","description":"Studio de marketing digital et de web design. Branding, sites internet, boutiques en ligne, Google et Meta Ads, SEO et réseaux sociaux, avec des tarifs publiés.","areaServed":[{"@type":"Country","name":"France"},{"@type":"Country","name":"Belgique"},{"@type":"Country","name":"Suisse"},{"@type":"Country","name":"Roumanie"}],"address":{"@type":"PostalAddress","addressLocality":"Iași","addressCountry":"RO"},"email":"contact@visience.ro","telephone":"+40771486499","priceRange":"€€","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"]},{"@type":"OfferCatalog","@id":"https://visience.ro/fr/#services","name":"Services Visience","provider":{"@id":"https://visience.ro/fr/#organization"},"itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Création de site internet"}},{"@type":"Offer","priceCurrency":"EUR","price":"1000","itemOffered":{"@type":"Service","name":"Boutique en ligne","url":"https://visience.ro/fr/boutique-en-ligne/"}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Branding et identité visuelle"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Gestion des réseaux sociaux"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Publicité Google Ads, gestion mensuelle"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Publicité Meta Ads (Facebook et Instagram), gestion mensuelle"}},{"@type":"Offer","priceCurrency":"EUR","price":"600","itemOffered":{"@type":"Service","name":"SEO et content marketing"}},{"@type":"Offer","priceCurrency":"EUR","price":"60","itemOffered":{"@type":"Service","name":"Développement logiciel et applications"}}]},{"@type":"FAQPage","@id":"https://visience.ro/fr/#faq","mainEntity":[{"@type":"Question","name":"Combien coûte un site internet chez Visience ?","acceptedAnswer":{"@type":"Answer","text":"Un site vitrine standard démarre à 750 €, un site avancé à 1.200 € et un site premium au design sur mesure à 2.500 €. Le prix final dépend du nombre de pages, des fonctionnalités et du niveau de personnalisation."}},{"@type":"Question","name":"Combien coûte une boutique en ligne ?","acceptedAnswer":{"@type":"Answer","text":"Une boutique sur WooCommerce ou Shopify démarre à 1.000 € pour le pack Basic, 1.800 € pour le Standard et 3.500 € pour le Premium. Tous incluent les produits, les paiements en ligne et la livraison automatisée."}},{"@type":"Question","name":"Que comprend un projet de branding ?","acceptedAnswer":{"@type":"Answer","text":"Le logo, le ton de communication et l'identité visuelle pour le web et l'imprimé. Le pack Standard, avec brand book complet, démarre à 1.200 €, le Premium à 2.500 €."}},{"@type":"Question","name":"Combien coûtent les prestations SEO ?","acceptedAnswer":{"@type":"Answer","text":"Le SEO technique ponctuel est facturé 60 € de l'heure, et la stratégie SEO mensuelle démarre à 600 € par mois, sur six mois minimum. Pour une boutique en ligne, l'optimisation complète démarre à 1.500 €."}},{"@type":"Question","name":"Où travaille Visience ?","acceptedAnswer":{"@type":"Answer","text":"Visience est basée à Iași, en Roumanie, et travaille avec des clients en France, en Belgique, en Suisse, en Italie, en Allemagne et en Roumanie. Les projets se déroulent entièrement à distance."}},{"@type":"Question","name":"Sur quelles plateformes Visience construit-elle les sites ?","acceptedAnswer":{"@type":"Answer","text":"WordPress avec Oxygen Builder ou Elementor, Shopify, WooCommerce et Webflow, ainsi que des solutions sur mesure. La plateforme est choisie selon le projet."}},{"@type":"Question","name":"Combien de temps prend la création d'un site ?","acceptedAnswer":{"@type":"Answer","text":"En général 2 à 4 semaines, et 4 à 8 semaines pour un projet premium ou une boutique complexe, selon le volume de contenu et les fonctionnalités."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://visience.ro/fr/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"UXhWLam24kvCDzzE1Xphi"}
-5:T27162,
-
-<div class="vis-home">
-
-
-<!-- ══════ 1. HERO ══════ -->
-<section class="hero" aria-labelledby="hero-h">
-  <div class="hero__vid" aria-hidden="true">
-    <video class="hero__vid-el" autoplay muted loop playsinline preload="none"
-           poster="/media/fundal-visience-poster.jpg"
-           data-src="/media/fundal-visience.webm"></video>
-  </div>
-  <div class="hero__overlay" aria-hidden="true"></div>
-
-  <div class="wrap hero__content">
-    <h1 class="hero__hed" id="hero-h">
-      Agence de marketing<br>
-      <span class="hi">&amp;</span> création de sites web<br>
-      à <span class="acc">Iași.</span>
-    </h1>
-
-    <p class="hero__slogan">Nous ne faisons pas que des sites web. Nous transformons des entreprises.</p>
-
-    <div class="hero__bot">
-      <p class="hero__desc">
-        Nous construisons d’abord l’image qui fidélise : marque, site web, réseaux sociaux. Ensuite nous amplifions avec un marketing précis, qui amène de nouveaux clients en continu.
-      </p>
-      <div class="hero__acts">
-        <a href="#contact" class="btn btn-solid">Demandez une analyse gratuite</a>
-        <a href="#work" class="btn btn-dark">Voir les projets</a>
-        <a href="#reviews" class="btn btn-dark"><img class="ti-star" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Étoile avis Google" width="17" height="17" loading="lazy"><img class="ti-star" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Étoile avis Google" width="17" height="17" loading="lazy"><img class="ti-star" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Étoile avis Google" width="17" height="17" loading="lazy"><img class="ti-star" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Étoile avis Google" width="17" height="17" loading="lazy"><img class="ti-star" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Étoile avis Google" width="17" height="17" loading="lazy">Voir les avis</a>
-      </div>
-    </div>
-  </div>
-
-  <!-- Badge rotativ + play -->
-  <div class="hero__badge">
-    <button class="hero__play" id="heroPlay" type="button" aria-label="Lire la vidéo">
-      <svg class="hero__play-ic hero__play-ic--play" viewBox="0 0 14 16" aria-hidden="true"><path d="M1 1.5v13l12-6.5z" fill="currentColor"/></svg>
-      <svg class="hero__play-ic hero__play-ic--close" viewBox="0 0 14 14" aria-hidden="true"><path d="M2 2l10 10M12 2L2 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
-    </button>
-  </div>
-
-  <!-- Play mobil (sub hamburger) -->
-  <button class="hero__playm" id="heroPlayM" type="button" aria-label="Lire la vidéo">
-    <svg class="hero__playm-ic hero__playm-ic--play" viewBox="0 0 14 16" aria-hidden="true"><path d="M1 1.5v13l12-6.5z" fill="currentColor"/></svg>
-    <svg class="hero__playm-ic hero__playm-ic--close" viewBox="0 0 14 14" aria-hidden="true"><path d="M2 2l10 10M12 2L2 12" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
-  </button>
-</section>
-
-
-<!-- ══════ 2. TICKER ══════ -->
-<div class="ticker" aria-hidden="true">
-  <div class="tk-track">
-    <!-- secventa de servicii repetata (4 per jumatate); animatia muta -50% = o jumatate, loop continuu pe orice ecran -->
-    <div class="tk-item">Website<span class="tk-sep"></span></div>
-    <div class="tk-item">Branding<span class="tk-sep"></span></div>
-    <div class="tk-item">Social Media<span class="tk-sep"></span></div>
-    <div class="tk-item">Google Ads<span class="tk-sep"></span></div>
-    <div class="tk-item">SEO<span class="tk-sep"></span></div>
-    <div class="tk-item">Meta Ads<span class="tk-sep"></span></div>
-    <div class="tk-item">E-Commerce<span class="tk-sep"></span></div>
-    <div class="tk-item">Newsletter<span class="tk-sep"></span></div>
-    <div class="tk-item">Software<span class="tk-sep"></span></div>
-    <div class="tk-item">Website<span class="tk-sep"></span></div>
-    <div class="tk-item">Branding<span class="tk-sep"></span></div>
-    <div class="tk-item">Social Media<span class="tk-sep"></span></div>
-    <div class="tk-item">Google Ads<span class="tk-sep"></span></div>
-    <div class="tk-item">SEO<span class="tk-sep"></span></div>
-    <div class="tk-item">Meta Ads<span class="tk-sep"></span></div>
-    <div class="tk-item">E-Commerce<span class="tk-sep"></span></div>
-    <div class="tk-item">Newsletter<span class="tk-sep"></span></div>
-    <div class="tk-item">Software<span class="tk-sep"></span></div>
-    <div class="tk-item">Website<span class="tk-sep"></span></div>
-    <div class="tk-item">Branding<span class="tk-sep"></span></div>
-    <div class="tk-item">Social Media<span class="tk-sep"></span></div>
-    <div class="tk-item">Google Ads<span class="tk-sep"></span></div>
-    <div class="tk-item">SEO<span class="tk-sep"></span></div>
-    <div class="tk-item">Meta Ads<span class="tk-sep"></span></div>
-    <div class="tk-item">E-Commerce<span class="tk-sep"></span></div>
-    <div class="tk-item">Newsletter<span class="tk-sep"></span></div>
-    <div class="tk-item">Software<span class="tk-sep"></span></div>
-    <div class="tk-item">Website<span class="tk-sep"></span></div>
-    <div class="tk-item">Branding<span class="tk-sep"></span></div>
-    <div class="tk-item">Social Media<span class="tk-sep"></span></div>
-    <div class="tk-item">Google Ads<span class="tk-sep"></span></div>
-    <div class="tk-item">SEO<span class="tk-sep"></span></div>
-    <div class="tk-item">Meta Ads<span class="tk-sep"></span></div>
-    <div class="tk-item">E-Commerce<span class="tk-sep"></span></div>
-    <div class="tk-item">Newsletter<span class="tk-sep"></span></div>
-    <div class="tk-item">Software<span class="tk-sep"></span></div>
-    <div class="tk-item">Website<span class="tk-sep"></span></div>
-    <div class="tk-item">Branding<span class="tk-sep"></span></div>
-    <div class="tk-item">Social Media<span class="tk-sep"></span></div>
-    <div class="tk-item">Google Ads<span class="tk-sep"></span></div>
-    <div class="tk-item">SEO<span class="tk-sep"></span></div>
-    <div class="tk-item">Meta Ads<span class="tk-sep"></span></div>
-    <div class="tk-item">E-Commerce<span class="tk-sep"></span></div>
-    <div class="tk-item">Newsletter<span class="tk-sep"></span></div>
-    <div class="tk-item">Software<span class="tk-sep"></span></div>
-    <div class="tk-item">Website<span class="tk-sep"></span></div>
-    <div class="tk-item">Branding<span class="tk-sep"></span></div>
-    <div class="tk-item">Social Media<span class="tk-sep"></span></div>
-    <div class="tk-item">Google Ads<span class="tk-sep"></span></div>
-    <div class="tk-item">SEO<span class="tk-sep"></span></div>
-    <div class="tk-item">Meta Ads<span class="tk-sep"></span></div>
-    <div class="tk-item">E-Commerce<span class="tk-sep"></span></div>
-    <div class="tk-item">Newsletter<span class="tk-sep"></span></div>
-    <div class="tk-item">Software<span class="tk-sep"></span></div>
-    <div class="tk-item">Website<span class="tk-sep"></span></div>
-    <div class="tk-item">Branding<span class="tk-sep"></span></div>
-    <div class="tk-item">Social Media<span class="tk-sep"></span></div>
-    <div class="tk-item">Google Ads<span class="tk-sep"></span></div>
-    <div class="tk-item">SEO<span class="tk-sep"></span></div>
-    <div class="tk-item">Meta Ads<span class="tk-sep"></span></div>
-    <div class="tk-item">E-Commerce<span class="tk-sep"></span></div>
-    <div class="tk-item">Newsletter<span class="tk-sep"></span></div>
-    <div class="tk-item">Software<span class="tk-sep"></span></div>
-    <div class="tk-item">Website<span class="tk-sep"></span></div>
-    <div class="tk-item">Branding<span class="tk-sep"></span></div>
-    <div class="tk-item">Social Media<span class="tk-sep"></span></div>
-    <div class="tk-item">Google Ads<span class="tk-sep"></span></div>
-    <div class="tk-item">SEO<span class="tk-sep"></span></div>
-    <div class="tk-item">Meta Ads<span class="tk-sep"></span></div>
-    <div class="tk-item">E-Commerce<span class="tk-sep"></span></div>
-    <div class="tk-item">Newsletter<span class="tk-sep"></span></div>
-    <div class="tk-item">Software<span class="tk-sep"></span></div>
-  </div>
-</div>
-
-
-<!-- ══════ 3. TECH LOGOS STRIP ══════ -->
-<div class="tech-strip" aria-label="Les outils et les plateformes avec lesquels nous travaillons">
-  <p class="tech-strip__label">Nos outils</p>
-  <div class="tech-strip__logos">
-
-    <div class="tech-logo" title="Google Ads">
-      <i class="fa-brands fa-google" style="color: #4285F4; font-size: 28px;"></i>
-      <span>Google Ads</span>
-    </div>
-
-    <div class="tech-logo" title="Meta Ads">
-      <i class="fa-brands fa-meta" style="color: #0866FF; font-size: 28px;"></i>
-      <span>Meta Ads</span>
-    </div>
-
-    <div class="tech-logo" title="Instagram">
-      <i class="fa-brands fa-instagram" style="color: #E1306C; font-size: 28px;"></i>
-      <span>Instagram</span>
-    </div>
-
-    <div class="tech-logo" title="TikTok">
-      <i class="fa-brands fa-tiktok" style="color: #010101; font-size: 28px;"></i>
-      <span>TikTok</span>
-    </div>
-
-    <div class="tech-logo" title="LinkedIn">
-      <i class="fa-brands fa-linkedin" style="color: #0A66C2; font-size: 28px;"></i>
-      <span>LinkedIn</span>
-    </div>
-
-    <div class="tech-logo" title="Pinterest">
-      <i class="fa-brands fa-pinterest" style="color: #E60023; font-size: 28px;"></i>
-      <span>Pinterest</span>
-    </div>
-
-    <div class="tech-logo" title="WordPress">
-      <i class="fa-brands fa-wordpress" style="color: #21759B; font-size: 28px;"></i>
-      <span>WordPress</span>
-    </div>
-
-    <div class="tech-logo" title="Shopify">
-      <i class="fa-brands fa-shopify" style="color: #95BF47; font-size: 28px;"></i>
-      <span>Shopify</span>
-    </div>
-
-    <div class="tech-logo" title="Webflow">
-      <i class="fa-brands fa-webflow" style="color: #4353FF; font-size: 28px;"></i>
-      <span>Webflow</span>
-    </div>
-
-    <div class="tech-logo" title="Claude Code">
-      <svg viewBox="0 0 32 32" width="28" height="28" aria-hidden="true" style="display:block"><g fill="#D97757"><path d="M17.55 16.00L16.50 3.00L15.50 3.00L14.45 16.00Z"/><path d="M17.33 16.80L21.84 7.26L20.98 6.74L14.67 15.20Z"/><path d="M16.73 17.37L27.71 10.34L27.24 9.46L15.27 14.63Z"/><path d="M15.92 17.55L25.96 17.02L26.01 16.02L16.08 14.45Z"/><path d="M15.13 17.29L26.50 23.68L27.06 22.85L16.87 14.71Z"/><path d="M14.60 16.66L19.98 25.73L20.89 25.30L17.40 15.34Z"/><path d="M14.46 15.84L14.14 28.88L15.14 28.98L17.54 16.16Z"/><path d="M14.76 15.07L9.58 23.69L10.38 24.29L17.24 16.93Z"/><path d="M15.42 14.56L3.76 20.41L4.13 21.33L16.58 17.44Z"/><path d="M16.24 14.47L5.71 13.86L5.55 14.85L15.76 17.53Z"/><path d="M17.00 14.81L6.36 7.26L5.72 8.03L15.00 17.19Z"/><path d="M17.47 15.50L13.22 6.38L12.27 6.71L14.53 16.50Z"/></g></svg>
-      <span>Claude Code</span>
-    </div>
-
-    <div class="tech-logo tech-logo--own" title="V28 — notre CRM">
-      <span class="tech-logo__mark">V28</span>
-      <span><strong>V28</strong> · CRM maison</span>
-    </div>
-
-  </div>
-</div>
-
-
-<!-- ══════ 3b. DEZVOLTATORI IMOBILIARI ══════ -->
-<section class="sqs sqs--dev" id="developers" aria-labelledby="dev-h">
-  <div class="port-head">
-    <div class="rv">
-      <h2 class="dd dd-lg" id="dev-h">Immobilier</h2>
-    </div>
-    <div class="pf-cta__acts">
-      <a href="/fr/marketing-immobilier/" class="btn btn-solid">Ce que nous faisons pour les promoteurs <span style="margin-left:4px">→</span></a>
-    </div>
-    <div class="port-nav" role="group" aria-label="Navigation du carrousel promoteurs">
-      <button class="pnb" id="devPrev" aria-label="Précédent" disabled>
-        <svg width="15" height="15" viewBox="0 0 15 15" fill="none"><path d="M9.5 3L5 7.5l4.5 4.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
-      </button>
-      <button class="pnb" id="devNext" aria-label="Suivant">
-        <svg width="15" height="15" viewBox="0 0 15 15" fill="none"><path d="M5.5 3L10 7.5 5.5 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
-      </button>
-    </div>
-  </div>
-
-  <div class="port-wrap" id="devWrap" tabindex="0" role="region" aria-label="Carrousel immobilier">
-    <div class="port-track" id="devTrack">
-      <a class="sq-card" href="https://housevision.ro/" target="_blank" rel="noopener">
-        <span class="sq-card__img"><img src="/media/tiles/v3/house-vision.avif" alt="House Vision — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
-        <span class="sq-card__name">House Vision</span>
-      </a>
-
-      <a class="sq-card" href="https://www.bucegii-la-fereastra.ro/" target="_blank" rel="noopener">
-        <span class="sq-card__img"><img src="/media/tiles/v2/bucegii-la-fereastra.avif" alt="Bucegii la Fereastră — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
-        <span class="sq-card__name">Bucegii la Fereastră</span>
-      </a>
-
-      <a class="sq-card" href="https://4biz.properties/" target="_blank" rel="noopener">
-        <span class="sq-card__img"><img src="/media/tiles/v2/4biz-properties.avif" alt="4Biz Properties — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
-        <span class="sq-card__name">4Biz Properties</span>
-      </a>
-
-      <a class="sq-card" href="https://vlaicu87.ro/" target="_blank" rel="noopener">
-        <span class="sq-card__img"><img src="/media/tiles/v2/vlaicu87.avif" alt="Vlaicu87 — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
-        <span class="sq-card__name cv-row"><span>Vlaicu87</span><span class="cu-vistory">avec Vistory</span></span>
-      </a>
-
-      <a class="sq-card" href="https://cameoresidence.ro/" target="_blank" rel="noopener">
-        <span class="sq-card__img"><img src="/media/tiles/v2/cameo-residence.avif" alt="Cameo Residence — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
-        <span class="sq-card__name cv-row"><span>Cameo Residence</span><span class="cu-vistory">avec Vistory</span></span>
-      </a>
-
-      <a class="sq-card" href="https://www.lapis-residence.ro/" target="_blank" rel="noopener">
-        <span class="sq-card__img"><img src="/media/tiles/v3/lapis-residence.avif" alt="Lapis Residence — campagnes Meta réalisées par Visience" width="720" height="900" loading="lazy"></span>
-        <span class="sq-card__name">Lapis Residence</span>
-      </a>
-
-      <a class="sq-card" href="https://www.onyx-residence.ro/" target="_blank" rel="noopener">
-        <span class="sq-card__img"><img src="/media/tiles/v3/onyx-residence.avif" alt="Onyx Residence — campagnes Meta réalisées par Visience" width="720" height="900" loading="lazy"></span>
-        <span class="sq-card__name">Onyx Residence</span>
-      </a>
-
-      <a class="sq-card" href="https://picolina.ro/" target="_blank" rel="noopener">
-        <span class="sq-card__img"><img src="/media/tiles/v3/picolina-b.avif" alt="Picolina Bucium — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
-        <span class="sq-card__name cv-row"><span>Picolina Bucium</span><span class="cu-vistory">avec Vistory</span></span>
-      </a>
-
-      <a class="sq-card" href="https://armurdesign.ro/" target="_blank" rel="noopener">
-        <span class="sq-card__img"><img src="/media/tiles/v3/armur-design.avif" alt="Armur Design — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
-        <span class="sq-card__name cv-row"><span>Armur Design</span><span class="cu-vistory">avec Vistory</span></span>
-      </a>
-
-      <a class="sq-card" href="https://www.alfapark.ro/" target="_blank" rel="noopener">
-        <span class="sq-card__img"><img src="/media/tiles/v2/alfa-park-residence.avif" alt="Alfa Park Residence — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
-        <span class="sq-card__name cv-row"><span>Alfa Park Residence</span><span class="cu-vistory">avec Vistory</span></span>
-      </a>
-
-      <a class="sq-card" href="https://2mtech.ro/" target="_blank" rel="noopener">
-        <span class="sq-card__img"><img src="/media/tiles/v2/2m-tech.avif" alt="2M Tech — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
-        <span class="sq-card__name cv-row"><span>2M Tech</span><span class="cu-vistory">avec Vistory</span></span>
-      </a>
-
-    </div>
-  </div>
-  <div class="port-dots" id="devDots" aria-hidden="true"></div>
-</section>
-
-
-<!-- ══════ 3c. PARTENERII NOȘTRI ══════ -->
-<section class="sqs" id="partners" aria-labelledby="part-h">
-  <div class="port-head">
-    <div class="rv">
-      <h2 class="dd dd-lg" id="part-h">Nos partenaires</h2>
-    </div>
-    <div class="pf-cta__acts">
-      <a href="/fr/portfolio/" class="btn btn-solid">Voir le portfolio <span style="margin-left:4px">→</span></a>
-    </div>
-    <div class="port-nav" role="group" aria-label="Navigation du carrousel partenaires">
-      <button class="pnb" id="partPrev" aria-label="Précédent" disabled>
-        <svg width="15" height="15" viewBox="0 0 15 15" fill="none"><path d="M9.5 3L5 7.5l4.5 4.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
-      </button>
-      <button class="pnb" id="partNext" aria-label="Suivant">
-        <svg width="15" height="15" viewBox="0 0 15 15" fill="none"><path d="M5.5 3L10 7.5 5.5 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
-      </button>
-    </div>
-  </div>
-
-  <div class="port-wrap" id="partWrap" tabindex="0" role="region" aria-label="Carrousel partenaires">
-    <div class="port-track" id="partTrack">
-
-      <a class="sq-card" href="https://casavatra.ro/" target="_blank" rel="noopener">
-        <span class="sq-card__img"><img src="/media/tiles/v2/casa-vatra.fc383a.avif" alt="Casa Vatră — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
-        <span class="sq-card__name">Casa Vatră</span>
-      </a>
-
-      <a class="sq-card" href="https://carmangeriaevei.ro/" target="_blank" rel="noopener">
-        <span class="sq-card__img"><img src="/media/tiles/v2/carmangeria-evei.avif" alt="Carmangeria Evei — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
-        <span class="sq-card__name">Carmangeria Evei</span>
-      </a>
-
-      <a class="sq-card" href="https://solutiialpensam.ro/" target="_blank" rel="noopener">
-        <span class="sq-card__img"><img src="/media/tiles/v2/solutii-alpensam.avif" alt="Soluții Alpensam — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
-        <span class="sq-card__name">Soluții Alpensam</span>
-      </a>
-
-      <a class="sq-card" href="https://luciarosca.ro/" target="_blank" rel="noopener">
-        <span class="sq-card__img"><img src="/media/tiles/v2/lucia-rosca.avif" alt="Lucia Roșca — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
-        <span class="sq-card__name">Lucia Roșca</span>
-      </a>
-
-      <a class="sq-card" href="https://velomed.ro/" target="_blank" rel="noopener">
-        <span class="sq-card__img"><img src="/media/tiles/v2/velomed.avif" alt="Velomed — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
-        <span class="sq-card__name">Velomed</span>
-      </a>
-
-      <a class="sq-card" href="https://ecologica2000.eu/" target="_blank" rel="noopener">
-        <span class="sq-card__img"><img src="/media/tiles/v2/ecologica2000-italia.avif" alt="Ecologica 2000 — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
-        <span class="sq-card__name">Ecologica 2000</span>
-      </a>
-
-      <a class="sq-card" href="https://amodelic.com/" target="_blank" rel="noopener">
-        <span class="sq-card__img"><img src="/media/tiles/v2/amodelic.avif" alt="Amodelic — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
-        <span class="sq-card__name">Amodelic</span>
-      </a>
-
-    </div>
-  </div>
-  <div class="port-dots" id="partDots" aria-hidden="true"></div>
-</section>
-
-
-<!-- ══════ 4. MANIFESTO ══════ -->
-<section class="manifesto" aria-labelledby="mani-h">
-
-  <div class="line-bg" aria-hidden="true">
-    <svg width="100%" height="100%" preserveAspectRatio="none">
-      <line x1="0"   y1="15%" x2="100%" y2="45%"/>
-      <line x1="0"   y1="35%" x2="100%" y2="65%"/>
-      <line x1="0"   y1="55%" x2="100%" y2="85%"/>
-      <line x1="0"   y1="75%" x2="100%" y2="25%"/>
-      <line x1="20%" y1="0"   x2="80%"  y2="100%"/>
-      <line x1="60%" y1="0"   x2="10%"  y2="100%"/>
-      <line x1="0"   y1="90%" x2="100%" y2="10%"/>
-      <line x1="40%" y1="0"   x2="90%"  y2="100%"/>
-    </svg>
-  </div>
-
-  <div class="wrap">
-    <div class="manifesto__inner">
-
-      <div>
-        <h2 class="manifesto__headline rv rv-d1" id="mani-h">
-          Nous bâtissons d’abord<br>
-          <span class="hi">les fondations.</span><br>
-          Ensuite,<br>
-          <span class="box">la croissance.</span>
-        </h2>
-      </div>
-
-      <div class="rv rv-d2">
-        <p class="manifesto__body">
-          La plupart des agences lancent des publicités sans régler le problème de fond : l’image de l’entreprise. Nous faisons l’inverse. Nous construisons d’abord une marque cohérente, un site qui convertit et une présence sociale qui inspire confiance, et seulement ensuite nous lançons les publicités.
-        </p>
-
-        <div class="msteps">
-          <div class="mstep">
-            <div class="mstep__n">01</div>
-            <div>
-              <div class="mstep__t">Marque &amp; identité</div>
-              <div class="mstep__d">Logo, ton de communication, design visuel unifié. La base sur laquelle tout repose.</div>
-            </div>
-          </div>
-          <div class="mstep">
-            <div class="mstep__n">02</div>
-            <div>
-              <div class="mstep__t">Site web &amp; présence en ligne</div>
-              <div class="mstep__d">Des plateformes qui transforment les visiteurs en clients et les clients en fidèles.</div>
-            </div>
-          </div>
-          <div class="mstep">
-            <div class="mstep__n">03</div>
-            <div>
-              <div class="mstep__t">Réseaux sociaux &amp; contenu</div>
-              <div class="mstep__d">Une présence constante qui cultive la communauté et crée un attachement réel à la marque.</div>
-            </div>
-          </div>
-          <div class="mstep">
-            <div class="mstep__n">04</div>
-            <div>
-              <div class="mstep__t">Marketing payant &amp; SEO</div>
-              <div class="mstep__d">Des campagnes PPC et du SEO qui amènent du trafic qualifié, réglés précisément sur votre audience.</div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </div>
-</section>
-
-
-<!-- ══════ 5. STATS ══════ -->
-<section class="stats" aria-label="Statistiques">
-  <div class="wrap">
-
-    <!-- Paragraf SEO/AEO: fapte citabile, atribuite entității -->
-    <p class="stats__intro rv">
-      <strong>Visience Creative Experience</strong> est une agence de marketing digital basée à Iași, fondée il y a 12 ans. Au fil du temps, nous avons généré plus de <strong>8.200 leads</strong> sur des projets immobiliers, contribué à la vente de plus de <strong>1.000 appartements</strong> dans les projets que nous avons promus et livré plus de <strong>120 projets</strong> de branding, de web et de marketing pour des entreprises de Roumanie, d’Italie, de France et d’Allemagne.
-    </p>
-
-    <div class="stats__grid">
-
-      <div class="stt-cell rv">
-        <div class="stt-num">8.200+</div>
-        <div class="stt-lbl">Leads en immobilier</div>
-        <div class="stt-sub">issus des projets ci-dessous</div>
-        <div class="stt-cell__ill" aria-hidden="true">
-          <svg width="110" height="110" viewBox="0 0 110 110" fill="none">
-            <circle cx="55" cy="55" r="48" stroke="var(--acc)" stroke-width="6" opacity=".5"/>
-            <path d="M28 76 L42 50 L56 62 L70 36 L82 44" stroke="var(--acc)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity=".5"/>
-            <circle cx="82" cy="36" r="8" fill="var(--acc)" opacity=".5"/>
-          </svg>
-        </div>
-      </div>
-
-      <div class="stt-cell rv rv-d1">
-        <div class="stt-num">1000+</div>
-        <div class="stt-lbl">Appartements vendus</div>
-        <div class="stt-cell__ill" aria-hidden="true">
-          <svg width="100" height="100" viewBox="0 0 100 100" fill="none">
-            <rect x="10" y="42" width="22" height="48" rx="3" stroke="var(--acc)" stroke-width="5" opacity=".5"/>
-            <rect x="36" y="24" width="22" height="66" rx="3" stroke="var(--acc)" stroke-width="5" opacity=".5"/>
-            <rect x="62" y="54" width="22" height="36" rx="3" stroke="var(--acc)" stroke-width="5" opacity=".5"/>
-          </svg>
-        </div>
-      </div>
-
-      <div class="stt-cell rv rv-d2">
-        <div class="stt-num">120+</div>
-        <div class="stt-lbl">Projets livrés</div>
-        <div class="stt-cell__ill" aria-hidden="true">
-          <svg width="100" height="100" viewBox="0 0 100 100" fill="none">
-            <circle cx="50" cy="38" r="20" stroke="var(--acc)" stroke-width="5" opacity=".5"/>
-            <circle cx="26" cy="72" r="14" stroke="var(--acc)" stroke-width="4" opacity=".4"/>
-            <circle cx="74" cy="72" r="14" stroke="var(--acc)" stroke-width="4" opacity=".4"/>
-            <line x1="38" y1="54" x2="30" y2="62" stroke="var(--acc)" stroke-width="3" opacity=".4"/>
-            <line x1="62" y1="54" x2="70" y2="62" stroke="var(--acc)" stroke-width="3" opacity=".4"/>
-          </svg>
-        </div>
-      </div>
-
-      <div class="stt-cell rv rv-d3">
-        <div class="stt-num">12</div>
-        <div class="stt-lbl">Ans d’expérience</div>
-        <div class="stt-cell__ill" aria-hidden="true">
-          <svg width="100" height="100" viewBox="0 0 100 100" fill="none">
-            <circle cx="50" cy="50" r="36" stroke="var(--acc)" stroke-width="6" opacity=".5"/>
-            <line x1="50" y1="50" x2="50" y2="22" stroke="var(--acc)" stroke-width="5" stroke-linecap="round" opacity=".5"/>
-            <line x1="50" y1="50" x2="70" y2="60" stroke="var(--acc)" stroke-width="4" stroke-linecap="round" opacity=".4"/>
-            <circle cx="50" cy="50" r="5" fill="var(--acc)" opacity=".6"/>
-          </svg>
-        </div>
-      </div>
-
-    </div>
-  </div>
-</section>
-
-
-<!-- ══════ 6. CASE STUDIES ══════ -->
-<section class="cases" id="results" aria-labelledby="case-h">
-
-  <div class="line-bg" aria-hidden="true">
-    <svg width="100%" height="100%" preserveAspectRatio="none">
-      <line x1="0"   y1="20%" x2="100%" y2="60%"/>
-      <line x1="0"   y1="50%" x2="100%" y2="90%"/>
-      <line x1="0"   y1="80%" x2="100%" y2="30%"/>
-      <line x1="25%" y1="0"   x2="75%"  y2="100%"/>
-      <line x1="70%" y1="0"   x2="20%"  y2="100%"/>
-    </svg>
-  </div>
-
-  <div class="wrap">
-
-    <div class="cases__head rv">
-      <div>
-        <h2 class="dd dd-lg" id="case-h">Des chiffres réels,<br>des résultats réels</h2>
-      </div>
-      <p class="body-lg" style="max-width:320px">
-        Les chiffres ci-dessous sont des résultats confirmés issus de projets livrés, pas des estimations.
-      </p>
-    </div>
-
-    <div class="cases__list">
-
-      <!-- Case 2: Picolina -->
-      <article class="case-item rv">
-        <div class="case-item__ill">
-          <img src='/media/picolina-01-min.avif' alt="Ensemble résidentiel Picolina Bucium Residence Iași — branding et campagnes Visience" loading="lazy" style="object-fit: cover; height:100%">
-        </div>
-        <div class="case-item__body">
-          <div class="case-num">1.000+</div>
-          <div class="case-sub">Leads en immobilier · 5 mois</div>
-          <h3 class="case-title">Picolina Bucium Residence — Iași</h3>
-          <p class="case-desc">De zéro à une source constante de clients qualifiés. Branding complet, site dédié avec landing page optimisée et campagnes PPC en test continu.</p>
-          <p class="case-desc">En collaboration avec Vistory</p>
-          <div class="case-cpills">
-            <span class="cpill">Branding</span>
-            <span class="cpill">Website</span>
-            <span class="cpill">Facebook Ads</span>
-          </div>
-          <a href="https://picolina.ro" target="_blank" rel="noopener" class="btn btn-ghost" style="align-self:flex-start">picolina.ro ↗</a>
-        </div>
-      </article>
-
-      <!-- Case 3: Armur Design -->
-      <article class="case-item alt rv rv-d1" style="margin-top:3px">
-        <div class="case-item__ill">
-          <img src='/media/fewgfew.avif' alt="Ensemble de maisons premium Armur Design Galata Iași — réseaux sociaux et PPC Visience" loading="lazy" style="object-fit: cover; height:100%">
-        </div>
-        <div class="case-item__body">
-          <div class="case-num">600+</div>
-          <div class="case-sub">Leads · 5 mois · 10 maisons de 350K€</div>
-          <h3 class="case-title">Armur Design — Galata, Iași</h3>
-          <p class="case-desc">Gestion intensive des réseaux sociaux et campagnes PPC pour un ensemble de maisons individuelles premium. Stratégie complète pour un portefeuille de 3,5M€.</p>
-          <p class="case-desc">En collaboration avec Vistory</p>
-          <div class="case-cpills">
-            <span class="cpill">Social Media</span>
-            <span class="cpill">Google Ads</span>
-            <span class="cpill">Meta Ads</span>
-          </div>
-          <a href="https://armurdesign.ro" target="_blank" rel="noopener" class="btn btn-ghost" style="align-self:flex-start">armurdesign.ro ↗</a>
-        </div>
-      </article>
-
-    </div>
-  </div>
-</section>
-
-
-<!-- ══════ 7. SERVICES SLIDER ══════ -->
-<section class="services" id="services" aria-labelledby="svc-h">
-
-  <div class="wrap services__head rv">
-    <div>
-      <h2 class="dd dd-lg" id="svc-h">Services de marketing<br>et web design</h2>
-    </div>
-    <p class="body-lg services__sub">
-      Chaque service est réglé sur vos objectifs. Nous ne vendons pas de forfaits figés.
-      <strong>Et nous n’avons pas de prix cachés :</strong> vous voyez exactement ce que vous payez sur
-      <a href="/fr/tarifs/" style="color:var(--acc-deep);border-bottom:1px solid var(--acc)">la page tarifs</a>.
-    </p>
-    <div class="svc-nav" role="group" aria-label="Navigation du carrousel services">
-      <button class="svc-nb" id="svcPrev" aria-label="Précédent" disabled>
-        <svg width="15" height="15" viewBox="0 0 15 15" fill="none">
-          <path d="M9.5 3L5 7.5l4.5 4.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-        </svg>
-      </button>
-      <button class="svc-nb" id="svcNext" aria-label="Suivant">
-        <svg width="15" height="15" viewBox="0 0 15 15" fill="none">
-          <path d="M5.5 3L10 7.5 5.5 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-        </svg>
-      </button>
-    </div>
-  </div>
-
-  <div class="svc-wrap" id="svcWrap" tabindex="0" role="region" aria-label="Carrousel services">
-    <div class="svc-track" id="svcTrack">
-
-      <!-- ─── Card 1: Website de prezentare ─── -->
-      <div class="svc-card rv">
-        <div class="svc-card__diagram" aria-hidden="true">
-          <div class="sd">
-            <div class="sd-browser">
-              <div class="sd-browser__bar">
-                <span class="sd-dot"></span>
-                <span class="sd-dot"></span>
-                <span class="sd-dot"></span>
-                <span class="sd-url">visience.ro/a-propos</span>
-              </div>
-              <div class="sd-page">
-                <div class="sd-page__hero">
-                  <div class="sd-page__img"></div>
-                  <div class="sd-page__text">
-                    <div class="sd-bar sd-bar--ink"></div>
-                    <div class="sd-bar sd-bar--md"></div>
-                    <div class="sd-bar sd-bar--sm"></div>
-                  </div>
-                </div>
-                <div class="sd-page__cards">
-                  <div class="sd-page__card"></div>
-                  <div class="sd-page__card"></div>
-                  <div class="sd-page__card"></div>
-                </div>
-              </div>
-            </div>
-            <span class="sd-chip sd-chip--tl" style="--c:#21759B"><i class="fab fa-wordpress"></i></span>
-            <span class="sd-chip sd-chip--tr" style="--c:#92003B"><i class="fab fa-elementor"></i></span>
-            <span class="sd-chip sd-chip--br" style="--c:#4353FF"><i class="fab fa-webflow"></i></span>
-          </div>
-        </div>
-
-        <div class="svc-card__body">
-          <h3 class="svc-card__name">Site vitrine</h3>
-          <p class="svc-card__desc">Landing pages, sites d’entreprise et portfolios. CMS inclus, design responsive et SEO technique dès la construction. Pages À propos, Services, Contact, toutes alignées sur votre marque.</p>
-          <div class="svc-card__prices">
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Landing</span><span class="svc-price-pill__val">500€</span></div>
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Basic</span><span class="svc-price-pill__val">750€</span></div>
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Standard</span><span class="svc-price-pill__val">1.200€</span></div>
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Premium</span><span class="svc-price-pill__val">2.500€+</span></div>
-          </div>
-          <div class="svc-card__actions">
-            <a href="#contact" class="svc-card__cta">Demandez un devis <span class="svc-card__cta-arr">↗</span></a>
-            <a href="/fr/creation-site-internet/" class="svc-card__more">Voir les détails →</a>
-          </div>
-        </div>
-      </div>
-
-      <!-- ─── Card 2: Magazin Online ─── -->
-      <div class="svc-card rv">
-        <div class="svc-card__diagram" aria-hidden="true">
-          <div class="sd">
-            <div class="sd-browser">
-              <div class="sd-browser__bar">
-                <span class="sd-dot"></span>
-                <span class="sd-dot"></span>
-                <span class="sd-dot"></span>
-                <span class="sd-url">shop.visience.ro</span>
-              </div>
-              <div class="sd-browser__hero">
-                <div class="sd-bar sd-bar--ink"></div>
-                <div class="sd-bar sd-bar--md"></div>
-                <div class="sd-bar sd-bar--sm"></div>
-                <div class="sd-cta-fake">CTA</div>
-              </div>
-            </div>
-            <span class="sd-chip sd-chip--tl" style="--c:#21759B"><i class="fab fa-wordpress"></i></span>
-            <span class="sd-chip sd-chip--tr" style="--c:#95BF47"><i class="fab fa-shopify"></i></span>
-            <span class="sd-chip sd-chip--br"><i class="fas fa-cart-shopping"></i></span>
-          </div>
-        </div>
-
-        <div class="svc-card__body">
-          <h3 class="svc-card__name">Boutique en ligne</h3>
-          <p class="svc-card__desc">Des boutiques en ligne performantes sur WooCommerce ou Shopify, optimisées pour la conversion. Avec produits, paiement en ligne, livraison automatisée et intégration Google &amp; Meta Ads.</p>
-          <div class="svc-card__prices">
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Standard</span><span class="svc-price-pill__val">1.800€</span></div>
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Premium</span><span class="svc-price-pill__val">3.500€</span></div>
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Avancé</span><span class="svc-price-pill__val">sur demande</span></div>
-          </div>
-          <div class="svc-card__actions">
-            <a href="#contact" class="svc-card__cta">Demandez un devis <span class="svc-card__cta-arr">↗</span></a>
-            <a href="/fr/boutique-en-ligne/" class="svc-card__more">Voir les détails →</a>
-          </div>
-        </div>
-      </div>
-
-      <!-- ─── Card 3: Branding ─── -->
-      <div class="svc-card rv rv-d1">
-        <div class="svc-card__diagram" aria-hidden="true">
-          <div class="sd">
-            <div class="sd-mood">
-              <div class="sd-mood-cell sd-mood-typo">A<span>a</span></div>
-              <div class="sd-mood-cell sd-mood-palette">
-                <div class="sd-mood-palette__row">
-                  <span class="sd-sw" style="background:#111010"></span>
-                  <span class="sd-sw-line"></span>
-                </div>
-                <div class="sd-mood-palette__row">
-                  <span class="sd-sw" style="background:#9BC31A"></span>
-                  <span class="sd-sw-line"></span>
-                </div>
-                <div class="sd-mood-palette__row">
-                  <span class="sd-sw" style="background:#F5F5F7;border:1px solid var(--border)"></span>
-                  <span class="sd-sw-line"></span>
-                </div>
-                <div class="sd-mood-palette__row">
-                  <span class="sd-sw" style="background:#6B6560"></span>
-                  <span class="sd-sw-line"></span>
-                </div>
-              </div>
-              <div class="sd-mood-cell sd-mood-card">
-                <span>Brand</span>
-                <span class="sd-mood-card__divider"></span>
-                <span>Book</span>
-              </div>
-              <div class="sd-mood-cell sd-mood-logo">
-                <i class="fas fa-circle-half-stroke"></i>V
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="svc-card__body">
-          <h3 class="svc-card__name">Branding &amp; identité visuelle</h3>
-          <p class="svc-card__desc">Logo, brand book complet, identité visuelle pour l’online et l’offline. Des marques mémorables qui inspirent confiance et restent dans les esprits.</p>
-          <div class="svc-card__prices">
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Standard</span><span class="svc-price-pill__val">1.200€</span></div>
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Premium</span><span class="svc-price-pill__val">2.500€</span></div>
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">BrandBook</span><span class="svc-price-pill__val">complet</span></div>
-          </div>
-          <div class="svc-card__actions">
-            <a href="#contact" class="svc-card__cta">Demandez un devis <span class="svc-card__cta-arr">↗</span></a>
-            <a href="/fr/branding/" class="svc-card__more">Voir les détails →</a>
-          </div>
-        </div>
-      </div>
-
-      <!-- ─── Card 4: Social Media ─── -->
-      <div class="svc-card rv rv-d2">
-        <div class="svc-card__diagram" aria-hidden="true">
-          <div class="sd">
-            <div class="sd-feed">
-              <div class="sd-feed__head">
-                <div class="sd-feed__avatar">V</div>
-                <div class="sd-feed__name">
-                  <div class="sd-feed__name-bar"></div>
-                  <div class="sd-feed__name-sub"></div>
-                </div>
-              </div>
-              <div class="sd-feed__img">
-                <i class="fas fa-image"></i>
-              </div>
-              <div class="sd-feed__actions">
-                <i class="fas fa-heart heart"></i>
-                <i class="far fa-comment"></i>
-                <i class="far fa-paper-plane"></i>
-              </div>
-            </div>
-            <span class="sd-chip sd-chip--tl" style="--c:#0866FF"><i class="fab fa-facebook-f"></i></span>
-            <span class="sd-chip sd-chip--tr" style="--c:#E4405F"><i class="fab fa-instagram"></i></span>
-            <span class="sd-chip sd-chip--bl" style="--c:#000000"><i class="fab fa-tiktok"></i></span>
-            <span class="sd-chip sd-chip--br" style="--c:#0A66C2"><i class="fab fa-linkedin-in"></i></span>
-          </div>
-        </div>
-        <div class="svc-card__body">
-          <h3 class="svc-card__name">Social Media Management</h3>
-          <p class="svc-card__desc">Stratégie, contenu, publication et gestion complète des réseaux sociaux. Une présence constante qui construit une communauté et fidélise.</p>
-          <div class="svc-card__prices">
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Start</span><span class="svc-price-pill__val">200 €/mois</span></div>
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Standard</span><span class="svc-price-pill__val">450 €/mois</span></div>
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Full SMM</span><span class="svc-price-pill__val">700 €/mois</span></div>
-          </div>
-          <div class="svc-card__actions">
-            <a href="#contact" class="svc-card__cta">Demandez un devis <span class="svc-card__cta-arr">↗</span></a>
-            <a href="/fr/reseaux-sociaux/" class="svc-card__more">Voir les détails →</a>
-          </div>
-        </div>
-      </div>
-
-      <!-- ─── Card 5: PPC ─── -->
-      <div class="svc-card rv">
-        <div class="svc-card__diagram" aria-hidden="true">
-          <div class="sd">
-            <div class="sd-chart">
-              <div class="sd-chart__header">
-                <span class="sd-chart__title">Conversions</span>
-                <span class="sd-chart__trend">
-                  <i class="fas fa-arrow-trend-up"></i>
-                </span>
-              </div>
-              <div class="sd-chart__bars">
-                <div class="sd-chart__bar"></div>
-                <div class="sd-chart__bar"></div>
-                <div class="sd-chart__bar"></div>
-                <div class="sd-chart__bar"></div>
-                <div class="sd-chart__bar"></div>
-              </div>
-            </div>
-            <span class="sd-chip sd-chip--tl" style="--c:#4285F4"><i class="fab fa-google"></i></span>
-            <span class="sd-chip sd-chip--tr" style="--c:#0866FF"><i class="fab fa-meta"></i></span>
-          </div>
-        </div>
-        <div class="svc-card__body">
-          <h3 class="svc-card__name">PPC — Google &amp; Meta Ads</h3>
-          <p class="svc-card__desc">Campagnes de génération de leads, remarketing et Shopping réglées précisément sur votre audience. Focus sur les conversions, pas sur les clics vides. La gestion est facturée par plateforme, Google ou Meta. Les deux : 400 €/mois.</p>
-          <div class="svc-card__prices">
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Par plateforme</span><span class="svc-price-pill__val">200 €/mois</span></div>
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Remarketing</span><span class="svc-price-pill__val">200€</span></div>
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Shopping</span><span class="svc-price-pill__val">100€</span></div>
-          </div>
-          <div class="svc-card__actions">
-            <a href="#contact" class="svc-card__cta">Demandez un devis <span class="svc-card__cta-arr">↗</span></a>
-            <a href="/fr/google-meta-ads/" class="svc-card__more">Voir les détails →</a>
-          </div>
-        </div>
-      </div>
-
-      <!-- ─── Card 6: SEO ─── -->
-      <div class="svc-card rv rv-d1">
-        <div class="svc-card__diagram" aria-hidden="true">
-          <div class="sd">
-            <div class="sd-search">
-              <div class="sd-search__bar">
-                <i class="fas fa-magnifying-glass"></i>
-                <span class="sd-search__bar-text"></span>
-              </div>
-              <div class="sd-search__results">
-                <div class="sd-search__row top">
-                  <span class="sd-search__rank">1</span>
-                  <span class="sd-search__row-title"></span>
-                  <span class="sd-search__row-meta"></span>
-                </div>
-                <div class="sd-search__row">
-                  <span class="sd-search__row-title" style="width:60%"></span>
-                  <span class="sd-search__row-meta" style="width:75%"></span>
-                </div>
-                <div class="sd-search__row">
-                  <span class="sd-search__row-title" style="width:50%"></span>
-                  <span class="sd-search__row-meta" style="width:65%"></span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="svc-card__body">
-          <h3 class="svc-card__name">SEO &amp; Content Marketing</h3>
-          <p class="svc-card__desc">SEO technique, stratégie on-page &amp; off-page, netlinking de qualité, newsletter et email marketing. Visibilité organique sur le long terme.</p>
-          <div class="svc-card__prices">
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Technique</span><span class="svc-price-pill__val">60 €/heure</span></div>
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Stratégie</span><span class="svc-price-pill__val">600 €/mois</span></div>
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">SEO boutique</span><span class="svc-price-pill__val">1.500€</span></div>
-          </div>
-          <div class="svc-card__actions">
-            <a href="#contact" class="svc-card__cta">Demandez un devis <span class="svc-card__cta-arr">↗</span></a>
-            <a href="/fr/referencement/" class="svc-card__more">Voir les détails →</a>
-          </div>
-        </div>
-      </div>
-
-      <!-- ─── Card 7: Software ─── -->
-      <div class="svc-card rv rv-d2">
-        <div class="svc-card__diagram" aria-hidden="true">
-          <div class="sd">
-            <div class="sd-code">
-              <div class="sd-code__bar">
-                <span class="sd-dot"></span>
-                <span class="sd-dot"></span>
-                <span class="sd-dot"></span>
-                <span class="sd-code__file">app.tsx</span>
-              </div>
-              <div class="sd-code__lines">
-                <div class="sd-code__line">
-                  <span class="sd-code__num">1</span>
-                  <span class="sd-code__keyword">const</span>
-                  <span class="sd-code__var">visience</span>
-                  <span class="sd-code__plain">=</span>
-                  <span class="sd-code__string">'agency'</span>
-                </div>
-                <div class="sd-code__line">
-                  <span class="sd-code__num">2</span>
-                  <span class="sd-code__keyword">function</span>
-                  <span class="sd-code__var">build</span><span class="sd-code__plain">() {</span>
-                </div>
-                <div class="sd-code__line sd-code__indent">
-                  <span class="sd-code__num">3</span>
-                  <span class="sd-code__keyword">return</span>
-                  <span class="sd-code__string">&lt;App /&gt;</span>
-                </div>
-                <div class="sd-code__line">
-                  <span class="sd-code__num">4</span>
-                  <span class="sd-code__plain">}</span>
-                  <span class="sd-code__cursor"></span>
-                </div>
-              </div>
-            </div>
-            <span class="sd-chip sd-chip--tr" style="--c:#FF9900"><i class="fab fa-aws"></i></span>
-            <span class="sd-chip sd-chip--bl" style="--c:#9BC31A"><i class="fab fa-android"></i></span>
-            <span class="sd-chip sd-chip--br" style="--c:#000000"><i class="fab fa-apple"></i></span>
-          </div>
-        </div>
-        <div class="svc-card__body">
-          <h3 class="svc-card__name">Software &amp; App Development</h3>
-          <p class="svc-card__desc">Applications mobiles iOS &amp; Android, migration cloud, AI &amp; Data Solutions et automatisations RPA. Des solutions qui passent à l’échelle, quelle que soit la taille.</p>
-          <div class="svc-card__prices">
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Heure</span><span class="svc-price-pill__val">60 €/heure</span></div>
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Projet</span><span class="svc-price-pill__val">sur mesure</span></div>
-            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Conseil</span><span class="svc-price-pill__val">sur demande</span></div>
-          </div>
-          <div class="svc-card__actions">
-            <a href="#contact" class="svc-card__cta">Demandez un devis <span class="svc-card__cta-arr">↗</span></a>
-            <a href="/fr/developpement-logiciel/" class="svc-card__more">Voir les détails →</a>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </div>
-
-  <div class="svc-dots" id="svcDots" role="group" aria-label="Pages services" style="padding:0 var(--gut);margin-top:28px"></div>
-</section>
-
-
-<!-- ══════ SPECIALIZĂRI / NIȘĂ ══════ -->
-<section class="spec" id="focus" aria-labelledby="spec-h">
-  <div class="wrap">
-    <div class="spec__head rv">
-      <h2 class="dd dd-lg" id="spec-h">Ce sur quoi<br>nous sommes spécialisés</h2>
-      <p class="body-lg spec__sub">Notre niche principale, ce sont les projets résidentiels. À côté, nous menons du branding, des sites et des campagnes pour des entreprises du commerce et des services. Chaque direction a sa page, avec des prix publics.</p>
-    </div>
-
-    <div class="spec__grid">
-
-      <a class="spec-card rv" href="/fr/creation-site-internet/">
-        <div class="spec-card__ico"><i class="fas fa-window-maximize"></i></div>
-        <h3>Création de site vitrine</h3>
-        <p>Des sites d’entreprise et des landing pages qui transforment les visiteurs en clients. Design sur mesure, SEO technique et CMS éditable, du projet standard aux plateformes premium à 2.500€+.</p>
-        <span class="spec-card__cta">Voir le service <span class="spec-card__arr">↗</span></span>
-      </a>
-
-      <a class="spec-card rv rv-d1" href="/fr/boutique-en-ligne/">
-        <div class="spec-card__ico"><i class="fas fa-cart-shopping"></i></div>
-        <h3>Création de boutique en ligne</h3>
-        <p>Des boutiques WooCommerce et Shopify optimisées pour la conversion, avec paiement, livraison et SEO, du projet standard aux solutions premium à 3.500€.</p>
-        <span class="spec-card__cta">Voir le service <span class="spec-card__arr">↗</span></span>
-      </a>
-
-      <a class="spec-card spec-card--feat rv rv-d2" href="/fr/marketing-immobilier/">
-        <span class="spec-card__badge">Notre niche</span>
-        <div class="spec-card__ico"><i class="fas fa-building"></i></div>
-        <h3>Marketing immobilier</h3>
-        <p>Branding, site avec pages d’appartements et campagnes qui vendent des ensembles résidentiels. Plus de 1.000 appartements vendus.</p>
-        <span class="spec-card__cta">Voir le service <span class="spec-card__arr">↗</span></span>
-      </a>
-
-    </div>
-  </div>
-</section>
-
-
-<!-- ══════ 8. PORTFOLIO SLIDER ══════ -->
-<section class="portfolio" id="work" aria-labelledby="port-h">
-  <div class="port-head">
-    <div class="rv">
-      <h2 class="dd dd-lg" id="port-h">Quelques projets</h2>
-    </div>
-    <div class="pf-cta__acts">
-      <a href="/fr/portfolio/" class="btn btn-solid">Voir plus de projets <span style="margin-left:4px">→</span></a>
-    </div>
-    <div class="port-nav" role="group" aria-label="Navigation du carrousel">
-      <button class="pnb" id="pPrev" aria-label="Précédent" disabled>
-        <svg width="15" height="15" viewBox="0 0 15 15" fill="none"><path d="M9.5 3L5 7.5l4.5 4.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
-      </button>
-      <button class="pnb" id="pNext" aria-label="Suivant">
-        <svg width="15" height="15" viewBox="0 0 15 15" fill="none"><path d="M5.5 3L10 7.5 5.5 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
-      </button>
-    </div>
-  </div>
-
-  <div class="port-wrap" id="pWrap" tabindex="0" role="region" aria-label="Carrousel projets">
-    <div class="port-track" id="pTrack">
-
-      <!-- ══ Card 1: Vlaicu87 V1 ══ -->
-      <article class="pj-card pj-card--v1">
-        <div class="pj-card__vis">
-          <div class="pj-phone">
-            <video class="pj-phone__vid"
-                   poster="/media/vlaicu-placeholder.avif"
-                   data-src="/media/Vlaicu87-Vlaicu87-Google-Chrome-2026-05-15-23-26-11-3.webm"
-                   muted loop playsinline preload="none"></video>
-            <span class="pj-phone__play">
-              <i class="fa-regular fa-hand-pointer"></i>
-              Voir l’aperçu
-            </span>
-          </div>
-          <div class="pj-right">
-            <div class="pj-logo">
-              <img src="/media/vlaiculogo.avif"
-                   alt="Logo Vlaicu87 — ensemble résidentiel Iași" loading="lazy" width="1200" height="1200">
-            </div>
-            <div class="pj-social">
-              <img src="/media/vlaicusocial.avif"
-                   alt="Publication réseaux sociaux Vlaicu87 réalisée par Visience" loading="lazy" width="1200" height="1200">
-            </div>
-          </div>
-        </div>
-        <div class="pj-card__body">
-          <div class="pj-card__pills">
-            <span class="pj-pill pj-pill--svc">Site web</span>
-            <span class="pj-pill pj-pill--svc">Branding</span>
-            <span class="pj-pill pj-pill--svc">Google, Meta ads</span>
-            <span class="pj-pill pj-pill--svc">Présence en ligne</span>
-            <span class="pj-pill pj-pill--ind">Ensemble résidentiel</span>
-            <span class="pj-pill pj-pill--ind">B2C</span>
-          </div>
-          <h3 class="pj-card__title">Vlaicu87 — Quartier &amp; Parc</h3>
-          <div class="pj-card__foot">
-            <a href="https://vlaicu87.ro/" target="_blank" rel="noopener" class="pj-card__url">vlaicu87.ro ↗</a>
-            <span class="pj-card__collab">avec Vistory</span>
-          </div>
-        <a class="pj-card__more" href="/fr/projets/vlaicu87/">Voir le projet <span aria-hidden="true">→</span></a>
-        </div>
-      </article>
-
-      <!-- ══ Card 2: Amodelic V1 ══ -->
-      <article class="pj-card pj-card--v1">
-        <div class="pj-card__vis">
-          <div class="pj-phone">
-            <video class="pj-phone__vid"
-                   poster="/media/amodelic-placeholder.avif"
-                   data-src="/media/amodelic.webm"
-                   muted loop playsinline preload="none"></video>
-            <span class="pj-phone__play">
-              <i class="fa-regular fa-hand-pointer"></i>
-              Voir l’aperçu
-            </span>
-          </div>
-          <div class="pj-right">
-            <div class="pj-logo">
-              <img src="/media/amodelic-logo.avif"
-                   alt="Logo Amodelic — ingénierie et conseil" loading="lazy" width="1200" height="1200">
-            </div>
-            <div class="pj-social">
-              <img src="/media/amodelic-brand.avif"
-                   alt="Identité visuelle Amodelic réalisée par Visience" loading="lazy" width="1200" height="1200">
-            </div>
-          </div>
-        </div>
-        <div class="pj-card__body">
-          <div class="pj-card__pills">
-            <span class="pj-pill pj-pill--svc">Site web</span>
-            <span class="pj-pill pj-pill--svc">Branding</span>
-            <span class="pj-pill pj-pill--svc">Présence en ligne</span>
-            <span class="pj-pill pj-pill--ind">Ingénierie</span>
-            <span class="pj-pill pj-pill--ind">B2B</span>
-          </div>
-          <h3 class="pj-card__title">Amodelic — Ingénierie &amp; Conseil</h3>
-          <div class="pj-card__foot">
-            <a href="https://amodelic.com" target="_blank" rel="noopener" class="pj-card__url">amodelic.com ↗</a>
-          </div>
-        <a class="pj-card__more" href="/fr/projets/amodelic/">Voir le projet <span aria-hidden="true">→</span></a>
-        </div>
-      </article>
-
-      <!-- ══ Card 3: Casa Vatră V2 ══ -->
-      <article class="pj-card pj-card--v2">
-        <div class="pj-card__vis">
-          <div class="pj-phone">
-            <video class="pj-phone__vid"
-                   poster="/media/casa-vatra-placeholder.avif"
-                   data-src="/media/casa-vatra.webm"
-                   muted loop playsinline preload="none"></video>
-            <span class="pj-phone__play">
-              <i class="fa-regular fa-hand-pointer"></i>
-              Voir l’aperçu
-            </span>
-          </div>
-          <div class="pj-desktop">
-            <img src="/media/casa-vatra-desk.avif"
-                 alt="Site Casa Vatră — restaurant et hôtel, réalisé par Visience" loading="lazy" width="1898" height="949">
-          </div>
-        </div>
-        <div class="pj-card__body">
-          <div class="pj-card__pills">
-            <span class="pj-pill pj-pill--svc">Site web</span>
-            <span class="pj-pill pj-pill--svc">Menu</span>
-            <span class="pj-pill pj-pill--ind">Restaurant</span>
-            <span class="pj-pill pj-pill--ind">Hôtel</span>
-          </div>
-          <h3 class="pj-card__title">Casa Vatră — Restaurant &amp; Hôtel</h3>
-          <div class="pj-card__foot">
-            <a href="https://casavatra.ro" target="_blank" rel="noopener" class="pj-card__url">casavatra.ro ↗</a>
-          </div>
-        <a class="pj-card__more" href="/fr/projets/casa-vatra/">Voir le projet <span aria-hidden="true">→</span></a>
-        </div>
-      </article>
-
-      <!-- ══ Card 4: Carmangeria Evei V1 ══ -->
-      <article class="pj-card pj-card--v1">
-        <div class="pj-card__vis">
-          <div class="pj-phone">
-            <video class="pj-phone__vid"
-                   poster="/media/carmangeria-evei-placeholder.avif"
-                   data-src="/media/carmangeria-evei.webm"
-                   muted loop playsinline preload="none"></video>
-            <span class="pj-phone__play">
-              <i class="fa-regular fa-hand-pointer"></i>
-              Voir l’aperçu
-            </span>
-          </div>
-          <div class="pj-right">
-            <div class="pj-logo">
-              <img src="/media/carmangeria-evei-social-2.avif"
-                   alt="Logo Carmangeria Evei" loading="lazy" width="1200" height="1200">
-            </div>
-            <div class="pj-social">
-              <img src="/media/carmangeria-evei-social-1.avif"
-                   alt="Publication réseaux sociaux Carmangeria Evei réalisée par Visience" loading="lazy" width="1200" height="1200">
-            </div>
-          </div>
-        </div>
-        <div class="pj-card__body">
-          <div class="pj-card__pills">
-            <span class="pj-pill pj-pill--svc">Boutique en ligne</span>
-            <span class="pj-pill pj-pill--svc">Social Media</span>
-            <span class="pj-pill pj-pill--svc">Google, Meta ads</span>
-            <span class="pj-pill pj-pill--svc">Présence en ligne</span>
-            <span class="pj-pill pj-pill--ind">Boucherie</span>
-          </div>
-          <h3 class="pj-card__title">Carmangeria Evei</h3>
-          <div class="pj-card__foot">
-            <a href="https://carmangeriaevei.ro/" target="_blank" rel="noopener" class="pj-card__url">carmangeriaevei.ro ↗</a>
-          </div>
-        <a class="pj-card__more" href="/fr/projets/carmangeria-evei/">Voir le projet <span aria-hidden="true">→</span></a>
-        </div>
-      </article>
-
-      <!-- ══ Card 5: Cameo V1 ══ -->
-      <article class="pj-card pj-card--v1">
-        <div class="pj-card__vis">
-          <div class="pj-phone">
-            <video class="pj-phone__vid"
-                   poster="/media/cameo-placeholder.avif"
-                   data-src="/media/cameo.webm"
-                   muted loop playsinline preload="none"></video>
-            <span class="pj-phone__play">
-              <i class="fa-regular fa-hand-pointer"></i>
-              Voir l’aperçu
-            </span>
-          </div>
-          <div class="pj-right">
-            <div class="pj-logo">
-              <img src="/media/cameo-logo.avif"
-                   alt="Logo Cameo Residence — appartements modernes Iași" loading="lazy"
-                   width="1200" height="1200">
-            </div>
-            <div class="pj-social">
-              <img src="/media/cameo-social-media-post.avif"
-                   alt="Publication réseaux sociaux Cameo Residence réalisée par Visience" loading="lazy"
-                   width="1200" height="1200">
-            </div>
-          </div>
-        </div>
-        <div class="pj-card__body">
-          <div class="pj-card__pills">
-            <span class="pj-pill pj-pill--svc">Site web</span>
-            <span class="pj-pill pj-pill--svc">Branding</span>
-            <span class="pj-pill pj-pill--svc">Google, Meta ads</span>
-            <span class="pj-pill pj-pill--svc">Présence en ligne</span>
-            <span class="pj-pill pj-pill--ind">Ensemble résidentiel</span>
-            <span class="pj-pill pj-pill--ind">B2C</span>
-          </div>
-          <h3 class="pj-card__title">Cameo - Appartements modernes</h3>
-          <div class="pj-card__foot">
-            <a href="https://cameoresidence.ro/" target="_blank" rel="noopener" class="pj-card__url">cameoresidence.ro ↗</a>
-            <span class="pj-card__collab">avec Vistory</span>
-          </div>
-        <a class="pj-card__more" href="/fr/projets/cameo-residence/">Voir le projet <span aria-hidden="true">→</span></a>
-        </div>
-      </article>
-
-      <!-- ══ Card 6: Soluții Alpensam V1 ══ -->
-      <article class="pj-card pj-card--v1">
-        <div class="pj-card__vis">
-          <div class="pj-phone">
-            <video class="pj-phone__vid"
-                   poster="/media/alpensam-placeholder.avif"
-                   data-src="/media/solutii-alpensa.webm"
-                   muted loop playsinline preload="none"></video>
-            <span class="pj-phone__play">
-              <i class="fa-regular fa-hand-pointer"></i>
-              Voir l’aperçu
-            </span>
-          </div>
-          <div class="pj-right">
-            <div class="pj-logo">
-              <img src="/media/logo-solutii-alpensam.avif"
-                   alt="Logo Soluții Alpensam — réservoirs de propane" loading="lazy"
-                   width="1200" height="1200">
-            </div>
-            <div class="pj-social">
-              <img src="/media/alpensam-social-media.avif"
-                   alt="Publication réseaux sociaux Soluții Alpensam réalisée par Visience" loading="lazy"
-                   width="1200" height="1200">
-            </div>
-          </div>
-        </div>
-        <div class="pj-card__body">
-          <div class="pj-card__pills">
-            <span class="pj-pill pj-pill--svc">Boutique en ligne</span>
-            <span class="pj-pill pj-pill--svc">Branding</span>
-            <span class="pj-pill pj-pill--svc">Google, Meta ads</span>
-            <span class="pj-pill pj-pill--svc">Présence en ligne</span>
-            <span class="pj-pill pj-pill--ind">Réservoirs de propane</span>
-            <span class="pj-pill pj-pill--ind">B2C</span>
-          </div>
-          <h3 class="pj-card__title">Soluții Alpensam</h3>
-          <div class="pj-card__foot">
-            <a href="https://solutiialpensam.ro/" target="_blank" rel="noopener" class="pj-card__url">solutiialpensam.ro ↗</a>
-          </div>
-        <a class="pj-card__more" href="/fr/projets/solutii-alpensam/">Voir le projet <span aria-hidden="true">→</span></a>
-        </div>
-      </article>
-
-      <!-- ══ Card 7: 2M Tech V2 ══ -->
-      <article class="pj-card pj-card--v2">
-        <div class="pj-card__vis">
-          <div class="pj-phone">
-            <video class="pj-phone__vid"
-                   poster="/media/2m-tech-placeholder.avif"
-                   data-src="/media/2mtech.webm"
-                   muted loop playsinline preload="none"></video>
-            <span class="pj-phone__play">
-              <i class="fa-regular fa-hand-pointer"></i>
-              Voir l’aperçu
-            </span>
-          </div>
-          <div class="pj-desktop">
-            <img src="/media/2m-tech-desk.avif"
-                 alt="Site 2M Tech — construction et promotion immobilière, réalisé par Visience" loading="lazy" width="1898" height="949">
-          </div>
-        </div>
-        <div class="pj-card__body">
-          <div class="pj-card__pills">
-            <span class="pj-pill pj-pill--svc">Site web</span>
-            <span class="pj-pill pj-pill--ind">Complexe immobilier</span>
-            <span class="pj-pill pj-pill--ind">Construction</span>
-          </div>
-          <h3 class="pj-card__title">2M Tech — Construction et promotion immobilière</h3>
-          <div class="pj-card__foot">
-            <a href="https://2mtech.ro/" target="_blank" rel="noopener" class="pj-card__url">2mtech.ro ↗</a>
-            <span class="pj-card__collab">avec Vistory</span>
-          </div>
-        <a class="pj-card__more" href="/fr/projets/2m-tech/">Voir le projet <span aria-hidden="true">→</span></a>
-        </div>
-      </article>
-
-      <!-- ══ Card 8: Ecologica2000 V2 ══ -->
-      <article class="pj-card pj-card--v2">
-        <div class="pj-card__vis">
-          <div class="pj-phone">
-            <video class="pj-phone__vid"
-                   poster="/media/ecologica-placeholder.avif"
-                   data-src="/media/eco2000.webm"
-                   muted loop playsinline preload="none"></video>
-            <span class="pj-phone__play">
-              <i class="fa-regular fa-hand-pointer"></i>
-              Voir l’aperçu
-            </span>
-          </div>
-          <div class="pj-desktop">
-            <img src="/media/ecologica-desk.avif"
-                 alt="Site Ecologica2000 Italia — waste management, réalisé par Visience" loading="lazy" width="1898" height="949">
-          </div>
-        </div>
-        <div class="pj-card__body">
-          <div class="pj-card__pills">
-            <span class="pj-pill pj-pill--svc">Site web</span>
-            <span class="pj-pill pj-pill--ind">Waste Management</span>
-          </div>
-          <h3 class="pj-card__title">Ecologica2000 Italia — Waste Management</h3>
-          <div class="pj-card__foot">
-            <a href="https://ecologica2000.eu/" target="_blank" rel="noopener" class="pj-card__url">ecologica2000.eu ↗</a>
-          </div>
-        <a class="pj-card__more" href="/fr/projets/ecologica2000-italia/">Voir le projet <span aria-hidden="true">→</span></a>
-        </div>
-      </article>
-
-    </div>
-  </div>
-  <div class="port-dots" id="pDots" role="group" aria-label="Pages"></div>
-  <div class="port-loading" id="pLoading">Chargement…</div>
-</section>
-
-
-<!-- ══════ 9. WHY ══════ -->
-<section class="why" id="about" aria-labelledby="why-h">
-
-  <div class="line-bg" aria-hidden="true">
-    <svg width="100%" height="100%" preserveAspectRatio="none">
-      <line x1="0"   y1="10%" x2="100%" y2="50%"/>
-      <line x1="0"   y1="40%" x2="100%" y2="80%"/>
-      <line x1="0"   y1="70%" x2="100%" y2="20%"/>
-      <line x1="15%" y1="0"   x2="85%"  y2="100%"/>
-      <line x1="55%" y1="0"   x2="5%"   y2="100%"/>
-      <line x1="80%" y1="0"   x2="40%"  y2="100%"/>
-    </svg>
-  </div>
-
-  <div class="wrap">
-    <div class="why__inner">
-
-      <div class="why__left rv">
-        <div class="why__ill" aria-hidden="true">
-          <svg width="76" height="76" viewBox="0 0 76 76" fill="none">
-            <circle cx="38" cy="38" r="26" stroke="rgba(22,33,10,.3)" stroke-width="3"/>
-            <circle cx="38" cy="38" r="12" stroke="rgba(22,33,10,.4)" stroke-width="2"/>
-            <circle cx="38" cy="38" r="4" fill="var(--acc-ink)"/>
-            <line x1="38" y1="12" x2="38" y2="26" stroke="var(--acc-ink)" stroke-width="2.5" stroke-linecap="round" opacity=".7"/>
-            <line x1="38" y1="50" x2="38" y2="64" stroke="var(--acc-ink)" stroke-width="2.5" stroke-linecap="round" opacity=".7"/>
-            <line x1="12" y1="38" x2="26" y2="38" stroke="var(--acc-ink)" stroke-width="2.5" stroke-linecap="round" opacity=".7"/>
-            <line x1="50" y1="38" x2="64" y2="38" stroke="var(--acc-ink)" stroke-width="2.5" stroke-linecap="round" opacity=".7"/>
-          </svg>
-        </div>
-        <h2 class="dd dd-lg" id="why-h" style="margin-bottom:20px">
-          Nous ne sommes pas des fournisseurs.<br>
-          <span style="font-weight:300;color:var(--mid)">Nous sommes des partenaires.</span>
-        </h2>
-        <p class="body-lg" style="margin-bottom:32px">
-          Notre plus grande réussite, c’est quand nos clients grandissent. Nous investissons dans des relations de long terme et des stratégies claires.
-        </p>
-        <a href="#contact" class="btn btn-solid">Demandez une analyse gratuite</a>
-      </div>
-
-      <div class="why__list rv rv-d1">
-        <div class="why-row">
-          <div class="why-n">01</div>
-          <div>
-            <div class="why-t">Une stratégie sur mesure, sans modèles tout faits</div>
-            <div class="why-d">Chaque projet construit de zéro, adapté à votre secteur, à votre budget et à vos objectifs. Zéro copier-coller.</div>
-          </div>
-        </div>
-        <div class="why-row">
-          <div class="why-n">02</div>
-          <div>
-            <div class="why-t">Transparence totale dans les rapports</div>
-            <div class="why-d">Des rapports mensuels avec des chiffres clairs et des conclusions applicables. Vous savez exactement ce qui se passe avec votre budget.</div>
-          </div>
-        </div>
-        <div class="why-row">
-          <div class="why-n">03</div>
-          <div>
-            <div class="why-t">Une équipe interne complète</div>
-            <div class="why-d">Design, développement, copywriting, campagnes PPC. Tout sous le même toit, sans intermédiaires.</div>
-          </div>
-        </div>
-        <div class="why-row">
-          <div class="why-n">04</div>
-          <div>
-            <div class="why-t">Focus sur les conversions, pas sur les chiffres de façade</div>
-            <div class="why-d">Nous ne suivons pas les likes. Nous suivons les demandes, les ventes et le coût de chaque demande. Chaque décision est prise avec l’objectif final en tête.</div>
-          </div>
-        </div>
-        <div class="why-row">
-          <div class="why-n">05</div>
-          <div>
-            <div class="why-t">Un partenariat, pas une transaction</div>
-            <div class="why-d">Votre succès nous intéresse autant que vous. Chaque projet réussi devient notre recommandation suivante.</div>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </div>
-</section>
-
-
-<!-- ══════ 9b. RECENZII ══════ -->
-<section class="revs" id="reviews" aria-labelledby="revs-h">
-  <div class="wrap">
-    <div class="revs__head rv">
-      <h2 class="dd dd-lg" id="revs-h">Ce que nos clients<br>disent de nous</h2>
-      <p class="revs__lead">Ce sont tous des avis Google, écrits par des clients sur notre fiche d’entreprise. Nous ne pouvons ni les modifier, ni les supprimer, ni garder seulement ceux qui nous arrangent — vous pouvez les vérifier un par un, y compris l’entreprise derrière chaque nom.</p>
-    </div>
-
-    <div class="revs__grid rv rv-d1">
-      <figure class="rev-card">
-        <span class="rev-stars" aria-label="5 étoiles sur 5">★★★★★</span>
-        <blockquote class="rev-card__txt">Un partenaire solide, sur la durée. Je recommande.</blockquote>
-        <figcaption class="rev-card__who">
-          <span class="rev-card__nume">Dionisie Lefter</span>
-          <a class="rev-card__firma" href="https://velomed.ro/" target="_blank" rel="noopener noreferrer">Velomed &amp; Romold Invent</a>
-          <span class="rev-card__cand">Google · il y a 2 mois</span>
-        </figcaption>
-      </figure>
-      <figure class="rev-card">
-        <span class="rev-stars" aria-label="5 étoiles sur 5">★★★★★</span>
-        <blockquote class="rev-card__txt">Excellente collaboration avec Vlad !</blockquote>
-        <figcaption class="rev-card__who">
-          <span class="rev-card__nume">Dan Vatra</span>
-          <a class="rev-card__firma" href="https://casavatra.ro/" target="_blank" rel="noopener noreferrer">Casa Vatra</a>
-          <span class="rev-card__cand">Google · il y a 2 mois</span>
-        </figcaption>
-      </figure>
-      <figure class="rev-card">
-        <span class="rev-stars" aria-label="5 étoiles sur 5">★★★★★</span>
-        <blockquote class="rev-card__txt">Professionnalisme et qualité au plus haut niveau. Je recommande !</blockquote>
-        <figcaption class="rev-card__who">
-          <span class="rev-card__nume">Alpensam Edil</span>
-          <a class="rev-card__firma" href="https://solutiialpensam.ro/" target="_blank" rel="noopener noreferrer">Soluții Alpensam</a>
-          <span class="rev-card__cand">Google · il y a 2 mois</span>
-        </figcaption>
-      </figure>
-      <figure class="rev-card">
-        <span class="rev-stars" aria-label="5 étoiles sur 5">★★★★★</span>
-        <blockquote class="rev-card__txt" lang="en">I worked with Vlad from Visience on my clothing brand’s website in order to rebuild it in a more professional and modern way. […] I am very pleased with the outcome and recommend him as a great professional.</blockquote>
-        <figcaption class="rev-card__who">
-          <span class="rev-card__nume">Lucia Alexandra Roșca</span>
-          <a class="rev-card__firma" href="http://luciarosca.ro/" target="_blank" rel="noopener noreferrer">luciarosca.ro</a>
-          <span class="rev-card__cand">Google · il y a 3 ans</span>
-        </figcaption>
-      </figure>
-      <figure class="rev-card">
-        <span class="rev-stars" aria-label="5 étoiles sur 5">★★★★★</span>
-        <blockquote class="rev-card__txt">Je recommande.</blockquote>
-        <figcaption class="rev-card__who">
-          <span class="rev-card__nume">Aurelian Tirilă</span>
-          <a class="rev-card__firma" href="https://romold-invent.eu/" target="_blank" rel="noopener noreferrer">Romold Invent</a>
-          <span class="rev-card__cand">Google · il y a 2 mois</span>
-        </figcaption>
-      </figure>
-    </div>
-
-    <div class="revs__foot rv rv-d2">
-      <a class="btn btn-dark" href="https://maps.google.com/?cid=5233500846285127119" target="_blank" rel="noopener noreferrer">Voir tous les avis sur Google →</a>
-      <a class="btn btn-ghost" href="#work">Ou regardez les projets en ligne</a>
-    </div>
-  </div>
-</section>
-
-
-<!-- ══════ 10. TECH PILLS + MOCKUP-URI ══════ -->
-<section class="tech" id="platforms" aria-labelledby="tech-h">
-  <div class="wrap">
-    <div class="tech__inner">
-
-      <div class="rv">
-        <h2 class="dd dd-lg" id="tech-h" style="margin-bottom:14px">
-          Nous construisons sur<br>les bonnes plateformes
-        </h2>
-        <p class="body-lg">
-          WordPress, Shopify, Webflow, Elementor ou sur mesure : nous travaillons dans les écosystèmes que vous connaissez déjà.
-        </p>
-        <div class="tech__pills">
-          <div class="t-pill"><span class="t-dot"></span>WordPress</div>
-          <div class="t-pill"><span class="t-dot"></span>Oxygen Builder</div>
-          <div class="t-pill"><span class="t-dot"></span>Elementor</div>
-          <div class="t-pill"><span class="t-dot"></span>Shopify</div>
-          <div class="t-pill"><span class="t-dot"></span>WooCommerce</div>
-          <div class="t-pill"><span class="t-dot"></span>Webflow</div>
-          <div class="t-pill"><span class="t-dot"></span>Google Ads</div>
-          <div class="t-pill"><span class="t-dot"></span>Meta Ads</div>
-          <div class="t-pill"><span class="t-dot"></span>Klaviyo</div>
-          <div class="t-pill"><span class="t-dot"></span>Mailchimp</div>
-          <div class="t-pill"><span class="t-dot"></span>Pipedrive</div>
-        </div>
-      </div>
-
-      <div class="tech__vis rv rv-d2">
-
-        <!-- Cell 1: WordPress / CMS -->
-        <div class="tech-cell">
-          <div class="tc tc-cms">
-            <aside class="tc-cms__side">
-              <div class="tc-cms__wp"><i class="fab fa-wordpress"></i></div>
-              <div class="tc-cms__ni on"><i class="fas fa-gauge-high"></i></div>
-              <div class="tc-cms__ni"><i class="fas fa-file-lines"></i></div>
-              <div class="tc-cms__ni"><i class="fas fa-photo-film"></i></div>
-              <div class="tc-cms__ni"><i class="fas fa-puzzle-piece"></i></div>
-              <div class="tc-cms__ni"><i class="fas fa-gear"></i></div>
-            </aside>
-            <div class="tc-cms__main">
-              <div class="tc-cms__bar">
-                <span class="tc-cms__bar-icon"><i class="fab fa-wordpress-simple"></i></span>
-                <span class="tc-cms__bar-spacer"></span>
-                <span class="tc-cms__bar-btn">Publié ✓</span>
-              </div>
-              <div class="tc-cms__canvas">
-                <div class="tc-cms__block tc-cms__block--hero"></div>
-                <div class="tc-cms__block tc-cms__block--txt"></div>
-                <div class="tc-cms__block-cols">
-                  <div class="tc-cms__block"></div>
-                  <div class="tc-cms__block"></div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <!-- Cell 2: Shopify / WooCommerce -->
-        <div class="tech-cell">
-          <div class="tc tc-shop">
-            <div class="tc-shop__header">
-              <span class="tc-shop__logo">
-                <i class="fab fa-shopify"></i>Shop
-              </span>
-              <span class="tc-shop__cart">
-                <i class="fas fa-bag-shopping"></i>
-                <span class="tc-shop__badge">3</span>
-              </span>
-            </div>
-            <div class="tc-shop__grid">
-              <div class="tc-shop__prod">
-                <div class="tc-shop__img"></div>
-                <div class="tc-shop__info">
-                  <div class="tc-shop__name"></div>
-                  <div class="tc-shop__price"></div>
-                </div>
-              </div>
-              <div class="tc-shop__prod">
-                <div class="tc-shop__img" style="background:var(--acc);background-image:none"></div>
-                <div class="tc-shop__info">
-                  <div class="tc-shop__name"></div>
-                  <div class="tc-shop__price"></div>
-                </div>
-              </div>
-              <div class="tc-shop__prod">
-                <div class="tc-shop__img"></div>
-                <div class="tc-shop__info">
-                  <div class="tc-shop__name"></div>
-                  <div class="tc-shop__price"></div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <!-- Cell 3: Google Ads / Meta Ads -->
-        <div class="tech-cell">
-          <div class="tc tc-ads">
-            <span class="tc-ads__demo">exemple d’interface</span>
-            <div class="tc-ads__metrics">
-              <div class="tc-ads__metric">
-                <span class="tc-ads__metric-val" style="color:#4285F4">12.4K</span>
-                <span class="tc-ads__metric-lbl">Clicks</span>
-              </div>
-              <div class="tc-ads__metric">
-                <span class="tc-ads__metric-val">248</span>
-                <span class="tc-ads__metric-lbl">Conversions</span>
-              </div>
-              <div class="tc-ads__metric">
-                <span class="tc-ads__metric-val" style="color:#34A853">62</span>
-                <span class="tc-ads__metric-lbl">Leads</span>
-              </div>
-            </div>
-            <div class="tc-ads__chart">
-              <div class="tc-ads__bar" style="height:30%"></div>
-              <div class="tc-ads__bar" style="height:48%"></div>
-              <div class="tc-ads__bar" style="height:38%"></div>
-              <div class="tc-ads__bar" style="height:62%"></div>
-              <div class="tc-ads__bar tc-ads__bar--acc" style="height:55%"></div>
-              <div class="tc-ads__bar tc-ads__bar--acc" style="height:82%"></div>
-              <div class="tc-ads__bar tc-ads__bar--acc" style="height:96%"></div>
-            </div>
-            <div class="tc-ads__logos">
-              <span class="tc-ads__plat" style="--c:#4285F4">
-                <i class="fab fa-google"></i>Google Ads
-              </span>
-              <span class="tc-ads__plat" style="--c:#0866FF">
-                <i class="fab fa-meta"></i>Meta Ads
-              </span>
-            </div>
-          </div>
-        </div>
-
-        <!-- Cell 4: Email Marketing — Klaviyo / Mailchimp -->
-        <div class="tech-cell">
-          <div class="tc tc-email">
-            <div class="tc-email__window">
-              <div class="tc-email__chrome">
-                <span class="sd-dot"></span>
-                <span class="sd-dot"></span>
-                <span class="sd-dot"></span>
-                <span class="tc-email__chrome-from">newsletter@visience.ro</span>
-              </div>
-              <div class="tc-email__header">
-                <i class="fas fa-envelope-open-text"></i>
-                <span class="tc-email__header-txt"></span>
-              </div>
-              <div class="tc-email__body-rows">
-                <div class="tc-email__row"></div>
-                <div class="tc-email__row"></div>
-                <div class="tc-email__row"></div>
-              </div>
-              <div class="tc-email__cta">Voir l’offre →</div>
-            </div>
-          </div>
-        </div>
-
-      </div>
-
-    </div>
-  </div>
-</section>
-
-
-<!-- ══════ 11. FAQ — AEO (răspunsuri extractabile) ══════ -->
-<section class="faq" id="questions" aria-labelledby="faq-h">
-  <div class="wrap">
-    <div class="faq__head rv">
-      <h2 class="dd dd-lg" id="faq-h">Ce que veulent savoir<br>nos clients</h2>
-    </div>
-
-    <div class="faq__list rv rv-d1">
-
-      <details class="faq-item" open>
-        <summary class="faq-q">Combien coûte la création d’un site web chez Visience ?</summary>
-        <div class="faq-a">
-          Un site vitrine standard démarre à <strong>750€</strong>, un site avancé à <strong>1.200€</strong>, et un site premium avec design sur mesure à <strong>2.500€</strong>. Le prix final dépend du nombre de pages, des fonctionnalités et du niveau de personnalisation. Chaque devis est réglé sur vos objectifs, pas sur des forfaits figés.
-        </div>
-      </details>
-
-      <details class="faq-item">
-        <summary class="faq-q">Combien coûte une boutique en ligne ?</summary>
-        <div class="faq-a">
-          Une boutique en ligne sur WooCommerce ou Shopify démarre à <strong>1.000€</strong> pour le pack Basic, <strong>1.800€</strong> pour Standard et <strong>3.500€</strong> pour Premium. Toutes incluent les produits, le paiement en ligne, la livraison automatisée et la possibilité d’intégration avec Google et Meta Ads.
-        </div>
-      </details>
-
-      <details class="faq-item">
-        <summary class="faq-q">Que comprend un projet de branding ?</summary>
-        <div class="faq-a">
-          Un projet de branding comprend le logo, le ton de communication et l’identité visuelle pour l’online et l’offline. Le pack Standard, avec brand book complet, démarre à <strong>1.200€</strong>, et le Premium, avec BrandBook étendu et animation de logo, à <strong>2.500€</strong>.
-        </div>
-      </details>
-
-      <details class="faq-item">
-        <summary class="faq-q">Combien coûtent les prestations de SEO ?</summary>
-        <div class="faq-a">
-          Le SEO technique ponctuel est facturé <strong>60 €/heure</strong>, et la stratégie SEO mensuelle continue (on-page, off-page, contenu et netlinking) démarre à <strong>600 €/mois</strong>, avec un minimum de 6 mois. Pour les boutiques en ligne, l’optimisation SEO complète démarre à <strong>1.500€</strong>.
-        </div>
-      </details>
-
-      <details class="faq-item">
-        <summary class="faq-q">Dans quelles villes Visience travaille-t-elle ?</summary>
-        <div class="faq-a">
-          Visience a son siège à <strong>Iași</strong> et travaille avec des clients dans toute la Roumanie, dont Bucarest, Timișoara, Cluj-Napoca, Suceava et Bacău. Les projets se déroulent entièrement en ligne, sans besoin de présence physique.
-        </div>
-      </details>
-
-      <details class="faq-item">
-        <summary class="faq-q">Sur quelles plateformes Visience construit-elle les sites ?</summary>
-        <div class="faq-a">
-          Nous construisons sur <strong>WordPress</strong> (Oxygen Builder, Elementor), <strong>Shopify</strong>, <strong>WooCommerce</strong> et <strong>Webflow</strong>, ainsi que sur des solutions sur mesure. Nous choisissons la plateforme selon les besoins du projet et l’écosystème que le client connaît déjà.
-        </div>
-      </details>
-
-      <details class="faq-item">
-        <summary class="faq-q">Combien de temps prend la réalisation d’un site web ?</summary>
-        <div class="faq-a">
-          Cela dépend du nombre de pages et de la vitesse à laquelle nous recevons les textes et les photos. Le délai exact, nous vous le donnons dans le devis, après avoir vu le projet, et nous le tenons.<strong>2–4 semaines</strong>, et un projet premium ou une boutique en ligne complexe en <strong>4–8 semaines</strong>, selon le volume de contenu et les fonctionnalités.
-        </div>
-      </details>
-
-    </div>
-  </div>
-</section>
-
-
-<!-- ══════ 12. MARQUEE ══════ -->
-<div class="marquee-sec" aria-hidden="true">
-  <p class="mq-lbl">Clients représentatifs</p>
-  <div class="mq-wrap">
-    <div class="mq-fl"></div>
-    <div class="mq-fr"></div>
-    <div class="mq-track">
-      <div class="mq-item">
-        <span>Picolina Bucium</span><span class="mq-dot"></span>
-        <span>Armur Design</span><span class="mq-dot"></span>
-        <span>Casa Vatra</span><span class="mq-dot"></span>
-        <span>Amodelic</span><span class="mq-dot"></span>
-        <span>Euro Taxi Iași</span><span class="mq-dot"></span>
-        <span>Velomed</span><span class="mq-dot"></span>
-        <span>Grand Beetle</span>
-      </div>
-      <div class="mq-item" aria-hidden="true">
-        <span>Picolina Bucium</span><span class="mq-dot"></span>
-        <span>Armur Design</span><span class="mq-dot"></span>
-        <span>Casa Vatra</span><span class="mq-dot"></span>
-        <span>Amodelic</span><span class="mq-dot"></span>
-        <span>Euro Taxi Iași</span><span class="mq-dot"></span>
-        <span>Velomed</span><span class="mq-dot"></span>
-        <span>Grand Beetle</span>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-
-
-<!-- ══════ CONTACT FORM ══════ -->
-<section class="contact-sec" id="contact" aria-labelledby="cont-h">
-  <div class="wrap">
-    <div class="contact-sec__in">
-
-      <div class="rv">
-        <h2 class="dd dd-lg" id="cont-h" style="margin-bottom:16px">
-          Construisons ensemble<br>quelque chose de grand.
-        </h2>
-        <p class="body-lg" style="margin-bottom:28px">
-          Parlez-nous de votre projet. Vous recevez une analyse gratuite sous 24 heures maximum, sans engagement.
-        </p>
-        <div class="contact-feats">
-          <div class="cf-feat"><span class="cf-feat-dot">✓</span>Réponse sous 24 heures maximum</div>
-          <div class="cf-feat"><span class="cf-feat-dot">✓</span>Analyse gratuite de votre présence digitale</div>
-          <div class="cf-feat"><span class="cf-feat-dot">✓</span>Devis personnalisé sans obligation</div>
-        </div>
-        <div style="margin-top:26px">
-          <!-- Google Calendar Appointment Scheduling begin -->
-          <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
-          <script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
-          <script>
-          (function() {
-            var target = document.currentScript;
-            window.addEventListener('load', function() {
-              calendar.schedulingButton.load({
-                url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ0wXBGc681ISVmT6Qa807ODgCcpYCcigeyyMxXcnUVZbUupykCBGYV0J2VxzM1IjMA8LkwuHiyR?gv=true',
-                color: '#9BC31A',
-                label: "Réservez un appel",
-                target,
-              });
-            });
-          })();
-          </script>
-          <!-- end Google Calendar Appointment Scheduling -->
-        </div>
-      </div>
-
-      <div class="cf-box rv rv-d1">
-        <form action="/contact.php" method="post"
-              class="wpcf7-form init"
-              aria-label="Formulaire de contact"
-              novalidate
-              data-status="init">
-
-          <input type="hidden" name="pagina" value="fr-home">
-          <p style="position:absolute;left:-9999px" aria-hidden="true">
-            <label>Ne remplissez pas ce champ : <input type="text" name="adresa-web" tabindex="-1" autocomplete="off"></label>
-          </p>
-
-          <p>
-            <span class="wpcf7-form-control-wrap" data-name="your-email">
-              <input type="email" name="your-email" aria-label="Email" placeholder=" "
-                     size="40" maxlength="400"
-                     class="wpcf7-form-control wpcf7-email wpcf7-text wpcf7-validates-as-email"
-                     autocomplete="email" aria-invalid="false" value="">
-              <span class="floating-label">Email</span>
-            </span>
-            <span class="wpcf7-form-control-wrap" data-name="tel-626">
-              <input type="tel" name="tel-626" aria-label="Téléphone" placeholder=" "
-                     size="40" maxlength="400"
-                     class="wpcf7-form-control wpcf7-tel wpcf7-text wpcf7-validates-as-tel"
-                     aria-required="true" aria-invalid="false" value="">
-              <span class="floating-label">Téléphone <span style="color:var(--acc-deep)">*</span></span>
-            </span>
-            <span class="wpcf7-form-control-wrap" data-name="text-477">
-              <input type="text" name="text-477" aria-label="Détails du projet" placeholder=" "
-                     size="40" maxlength="400"
-                     class="wpcf7-form-control wpcf7-text"
-                     aria-invalid="false" value="">
-              <span class="floating-label">Détails du projet</span>
-            </span>
-          </p>
-          <p>
-            <span class="wpcf7-form-control-wrap" data-name="your-subject">
-              <input type="text" name="your-subject" aria-label="Quand vous contacter ?" placeholder=" "
-                     size="40" maxlength="400"
-                     class="wpcf7-form-control wpcf7-text"
-                     aria-invalid="false" value="">
-              <span class="floating-label">Quand vous contacter ?</span>
-            </span>
-          </p>
-          <p>
-            <input class="wpcf7-form-control wpcf7-submit has-spinner"
-                   type="submit" value="Envoyer le message">
-            <span class="wpcf7-spinner" aria-hidden="true"></span>
-          </p>
-          <div class="wpcf7-response-output" aria-hidden="true"></div>
-        </form>
-      </div>
-
-    </div>
-  </div>
-</section>
-
-
-</div><!-- /.vis-home -->
-
-
-<style>
+2:T119c,{"@context":"https://schema.org","@graph":[{"@type":"ProfessionalService","@id":"https://visience.ro/fr/#organization","name":"Visience Creative Experience","alternateName":"Visience","url":"https://visience.ro/fr/","inLanguage":"fr","description":"Studio de marketing digital et de web design. Branding, sites internet, boutiques en ligne, Google et Meta Ads, SEO et réseaux sociaux, avec des tarifs publiés.","areaServed":[{"@type":"Country","name":"France"},{"@type":"Country","name":"Belgique"},{"@type":"Country","name":"Suisse"},{"@type":"Country","name":"Roumanie"}],"address":{"@type":"PostalAddress","addressLocality":"Iași","addressCountry":"RO"},"email":"contact@visience.ro","telephone":"+40771486499","priceRange":"€€","sameAs":["https://www.facebook.com/visience.ro","https://www.instagram.com/visience.ro","https://www.tiktok.com/@visience.ro"]},{"@type":"OfferCatalog","@id":"https://visience.ro/fr/#services","name":"Services Visience","provider":{"@id":"https://visience.ro/fr/#organization"},"itemListElement":[{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Création de site internet"}},{"@type":"Offer","priceCurrency":"EUR","price":"1000","itemOffered":{"@type":"Service","name":"Boutique en ligne","url":"https://visience.ro/fr/boutique-en-ligne/"}},{"@type":"Offer","priceCurrency":"EUR","price":"500","itemOffered":{"@type":"Service","name":"Branding et identité visuelle"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Gestion des réseaux sociaux"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Publicité Google Ads, gestion mensuelle"}},{"@type":"Offer","priceCurrency":"EUR","price":"200","itemOffered":{"@type":"Service","name":"Publicité Meta Ads (Facebook et Instagram), gestion mensuelle"}},{"@type":"Offer","priceCurrency":"EUR","price":"600","itemOffered":{"@type":"Service","name":"SEO et content marketing"}},{"@type":"Offer","priceCurrency":"EUR","price":"60","itemOffered":{"@type":"Service","name":"Développement logiciel et applications"}}]},{"@type":"FAQPage","@id":"https://visience.ro/fr/#faq","mainEntity":[{"@type":"Question","name":"Combien coûte un site internet chez Visience ?","acceptedAnswer":{"@type":"Answer","text":"Un site vitrine standard démarre à 750 €, un site avancé à 1.200 € et un site premium au design sur mesure à 2.500 €. Le prix final dépend du nombre de pages, des fonctionnalités et du niveau de personnalisation."}},{"@type":"Question","name":"Combien coûte une boutique en ligne ?","acceptedAnswer":{"@type":"Answer","text":"Une boutique sur WooCommerce ou Shopify démarre à 1.000 € pour le pack Basic, 1.800 € pour le Standard et 3.500 € pour le Premium. Tous incluent les produits, les paiements en ligne et la livraison automatisée."}},{"@type":"Question","name":"Que comprend un projet de branding ?","acceptedAnswer":{"@type":"Answer","text":"Le logo, le ton de communication et l'identité visuelle pour le web et l'imprimé. Le pack Standard, avec brand book complet, démarre à 1.200 €, le Premium à 2.500 €."}},{"@type":"Question","name":"Combien coûtent les prestations SEO ?","acceptedAnswer":{"@type":"Answer","text":"Le SEO technique ponctuel est facturé 60 € de l'heure, et la stratégie SEO mensuelle démarre à 600 € par mois, sur six mois minimum. Pour une boutique en ligne, l'optimisation complète démarre à 1.500 €."}},{"@type":"Question","name":"Où travaille Visience ?","acceptedAnswer":{"@type":"Answer","text":"Visience est basée à Iași, en Roumanie, et travaille avec des clients en France, en Belgique, en Suisse, en Italie, en Allemagne et en Roumanie. Les projets se déroulent entièrement à distance."}},{"@type":"Question","name":"Sur quelles plateformes Visience construit-elle les sites ?","acceptedAnswer":{"@type":"Answer","text":"WordPress avec Oxygen Builder ou Elementor, Shopify, WooCommerce et Webflow, ainsi que des solutions sur mesure. La plateforme est choisie selon le projet."}},{"@type":"Question","name":"Combien de temps prend la création d'un site ?","acceptedAnswer":{"@type":"Answer","text":"En général 2 à 4 semaines, et 4 à 8 semaines pour un projet premium ou une boutique complexe, selon le volume de contenu et les fonctionnalités."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://visience.ro/fr/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Xyp9mEqmABKo3XcxZJONm"}
+5:T2715f,<style>
 /* ╔══════════════════════════════════════════════════
    ║  HERO — Video BG, dark overlay
    ╚══════════════════════════════════════════════════ */
@@ -4399,6 +2621,1781 @@ a.rev-card__firma:hover { text-decoration: underline; }
   .spec__grid { grid-template-columns: 1fr; max-width: 460px; margin: 0 auto; }
 }
 </style>
+
+<div class="vis-home">
+
+
+<!-- ══════ 1. HERO ══════ -->
+<section class="hero" aria-labelledby="hero-h">
+  <div class="hero__vid" aria-hidden="true">
+    <video class="hero__vid-el" autoplay muted loop playsinline preload="none"
+           poster="/media/fundal-visience-poster.jpg"
+           data-src="/media/fundal-visience.webm"></video>
+  </div>
+  <div class="hero__overlay" aria-hidden="true"></div>
+
+  <div class="wrap hero__content">
+    <h1 class="hero__hed" id="hero-h">
+      Agence de marketing<br>
+      <span class="hi">&amp;</span> création de sites web<br>
+      à <span class="acc">Iași.</span>
+    </h1>
+
+    <p class="hero__slogan">Nous ne faisons pas que des sites web. Nous transformons des entreprises.</p>
+
+    <div class="hero__bot">
+      <p class="hero__desc">
+        Nous construisons d’abord l’image qui fidélise : marque, site web, réseaux sociaux. Ensuite nous amplifions avec un marketing précis, qui amène de nouveaux clients en continu.
+      </p>
+      <div class="hero__acts">
+        <a href="#contact" class="btn btn-solid">Demandez une analyse gratuite</a>
+        <a href="#work" class="btn btn-dark">Voir les projets</a>
+        <a href="#reviews" class="btn btn-dark"><img class="ti-star" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Étoile avis Google" width="17" height="17" loading="lazy"><img class="ti-star" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Étoile avis Google" width="17" height="17" loading="lazy"><img class="ti-star" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Étoile avis Google" width="17" height="17" loading="lazy"><img class="ti-star" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Étoile avis Google" width="17" height="17" loading="lazy"><img class="ti-star" src="https://cdn.trustindex.io/assets/platform/Google/star/f.svg" alt="Étoile avis Google" width="17" height="17" loading="lazy">Voir les avis</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Badge rotativ + play -->
+  <div class="hero__badge">
+    <button class="hero__play" id="heroPlay" type="button" aria-label="Lire la vidéo">
+      <svg class="hero__play-ic hero__play-ic--play" viewBox="0 0 14 16" aria-hidden="true"><path d="M1 1.5v13l12-6.5z" fill="currentColor"/></svg>
+      <svg class="hero__play-ic hero__play-ic--close" viewBox="0 0 14 14" aria-hidden="true"><path d="M2 2l10 10M12 2L2 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+    </button>
+  </div>
+
+  <!-- Play mobil (sub hamburger) -->
+  <button class="hero__playm" id="heroPlayM" type="button" aria-label="Lire la vidéo">
+    <svg class="hero__playm-ic hero__playm-ic--play" viewBox="0 0 14 16" aria-hidden="true"><path d="M1 1.5v13l12-6.5z" fill="currentColor"/></svg>
+    <svg class="hero__playm-ic hero__playm-ic--close" viewBox="0 0 14 14" aria-hidden="true"><path d="M2 2l10 10M12 2L2 12" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+  </button>
+</section>
+
+
+<!-- ══════ 2. TICKER ══════ -->
+<div class="ticker" aria-hidden="true">
+  <div class="tk-track">
+    <!-- secventa de servicii repetata (4 per jumatate); animatia muta -50% = o jumatate, loop continuu pe orice ecran -->
+    <div class="tk-item">Website<span class="tk-sep"></span></div>
+    <div class="tk-item">Branding<span class="tk-sep"></span></div>
+    <div class="tk-item">Social Media<span class="tk-sep"></span></div>
+    <div class="tk-item">Google Ads<span class="tk-sep"></span></div>
+    <div class="tk-item">SEO<span class="tk-sep"></span></div>
+    <div class="tk-item">Meta Ads<span class="tk-sep"></span></div>
+    <div class="tk-item">E-Commerce<span class="tk-sep"></span></div>
+    <div class="tk-item">Newsletter<span class="tk-sep"></span></div>
+    <div class="tk-item">Software<span class="tk-sep"></span></div>
+    <div class="tk-item">Website<span class="tk-sep"></span></div>
+    <div class="tk-item">Branding<span class="tk-sep"></span></div>
+    <div class="tk-item">Social Media<span class="tk-sep"></span></div>
+    <div class="tk-item">Google Ads<span class="tk-sep"></span></div>
+    <div class="tk-item">SEO<span class="tk-sep"></span></div>
+    <div class="tk-item">Meta Ads<span class="tk-sep"></span></div>
+    <div class="tk-item">E-Commerce<span class="tk-sep"></span></div>
+    <div class="tk-item">Newsletter<span class="tk-sep"></span></div>
+    <div class="tk-item">Software<span class="tk-sep"></span></div>
+    <div class="tk-item">Website<span class="tk-sep"></span></div>
+    <div class="tk-item">Branding<span class="tk-sep"></span></div>
+    <div class="tk-item">Social Media<span class="tk-sep"></span></div>
+    <div class="tk-item">Google Ads<span class="tk-sep"></span></div>
+    <div class="tk-item">SEO<span class="tk-sep"></span></div>
+    <div class="tk-item">Meta Ads<span class="tk-sep"></span></div>
+    <div class="tk-item">E-Commerce<span class="tk-sep"></span></div>
+    <div class="tk-item">Newsletter<span class="tk-sep"></span></div>
+    <div class="tk-item">Software<span class="tk-sep"></span></div>
+    <div class="tk-item">Website<span class="tk-sep"></span></div>
+    <div class="tk-item">Branding<span class="tk-sep"></span></div>
+    <div class="tk-item">Social Media<span class="tk-sep"></span></div>
+    <div class="tk-item">Google Ads<span class="tk-sep"></span></div>
+    <div class="tk-item">SEO<span class="tk-sep"></span></div>
+    <div class="tk-item">Meta Ads<span class="tk-sep"></span></div>
+    <div class="tk-item">E-Commerce<span class="tk-sep"></span></div>
+    <div class="tk-item">Newsletter<span class="tk-sep"></span></div>
+    <div class="tk-item">Software<span class="tk-sep"></span></div>
+    <div class="tk-item">Website<span class="tk-sep"></span></div>
+    <div class="tk-item">Branding<span class="tk-sep"></span></div>
+    <div class="tk-item">Social Media<span class="tk-sep"></span></div>
+    <div class="tk-item">Google Ads<span class="tk-sep"></span></div>
+    <div class="tk-item">SEO<span class="tk-sep"></span></div>
+    <div class="tk-item">Meta Ads<span class="tk-sep"></span></div>
+    <div class="tk-item">E-Commerce<span class="tk-sep"></span></div>
+    <div class="tk-item">Newsletter<span class="tk-sep"></span></div>
+    <div class="tk-item">Software<span class="tk-sep"></span></div>
+    <div class="tk-item">Website<span class="tk-sep"></span></div>
+    <div class="tk-item">Branding<span class="tk-sep"></span></div>
+    <div class="tk-item">Social Media<span class="tk-sep"></span></div>
+    <div class="tk-item">Google Ads<span class="tk-sep"></span></div>
+    <div class="tk-item">SEO<span class="tk-sep"></span></div>
+    <div class="tk-item">Meta Ads<span class="tk-sep"></span></div>
+    <div class="tk-item">E-Commerce<span class="tk-sep"></span></div>
+    <div class="tk-item">Newsletter<span class="tk-sep"></span></div>
+    <div class="tk-item">Software<span class="tk-sep"></span></div>
+    <div class="tk-item">Website<span class="tk-sep"></span></div>
+    <div class="tk-item">Branding<span class="tk-sep"></span></div>
+    <div class="tk-item">Social Media<span class="tk-sep"></span></div>
+    <div class="tk-item">Google Ads<span class="tk-sep"></span></div>
+    <div class="tk-item">SEO<span class="tk-sep"></span></div>
+    <div class="tk-item">Meta Ads<span class="tk-sep"></span></div>
+    <div class="tk-item">E-Commerce<span class="tk-sep"></span></div>
+    <div class="tk-item">Newsletter<span class="tk-sep"></span></div>
+    <div class="tk-item">Software<span class="tk-sep"></span></div>
+    <div class="tk-item">Website<span class="tk-sep"></span></div>
+    <div class="tk-item">Branding<span class="tk-sep"></span></div>
+    <div class="tk-item">Social Media<span class="tk-sep"></span></div>
+    <div class="tk-item">Google Ads<span class="tk-sep"></span></div>
+    <div class="tk-item">SEO<span class="tk-sep"></span></div>
+    <div class="tk-item">Meta Ads<span class="tk-sep"></span></div>
+    <div class="tk-item">E-Commerce<span class="tk-sep"></span></div>
+    <div class="tk-item">Newsletter<span class="tk-sep"></span></div>
+    <div class="tk-item">Software<span class="tk-sep"></span></div>
+  </div>
+</div>
+
+
+<!-- ══════ 3. TECH LOGOS STRIP ══════ -->
+<div class="tech-strip" aria-label="Les outils et les plateformes avec lesquels nous travaillons">
+  <p class="tech-strip__label">Nos outils</p>
+  <div class="tech-strip__logos">
+
+    <div class="tech-logo" title="Google Ads">
+      <i class="fa-brands fa-google" style="color: #4285F4; font-size: 28px;"></i>
+      <span>Google Ads</span>
+    </div>
+
+    <div class="tech-logo" title="Meta Ads">
+      <i class="fa-brands fa-meta" style="color: #0866FF; font-size: 28px;"></i>
+      <span>Meta Ads</span>
+    </div>
+
+    <div class="tech-logo" title="Instagram">
+      <i class="fa-brands fa-instagram" style="color: #E1306C; font-size: 28px;"></i>
+      <span>Instagram</span>
+    </div>
+
+    <div class="tech-logo" title="TikTok">
+      <i class="fa-brands fa-tiktok" style="color: #010101; font-size: 28px;"></i>
+      <span>TikTok</span>
+    </div>
+
+    <div class="tech-logo" title="LinkedIn">
+      <i class="fa-brands fa-linkedin" style="color: #0A66C2; font-size: 28px;"></i>
+      <span>LinkedIn</span>
+    </div>
+
+    <div class="tech-logo" title="Pinterest">
+      <i class="fa-brands fa-pinterest" style="color: #E60023; font-size: 28px;"></i>
+      <span>Pinterest</span>
+    </div>
+
+    <div class="tech-logo" title="WordPress">
+      <i class="fa-brands fa-wordpress" style="color: #21759B; font-size: 28px;"></i>
+      <span>WordPress</span>
+    </div>
+
+    <div class="tech-logo" title="Shopify">
+      <i class="fa-brands fa-shopify" style="color: #95BF47; font-size: 28px;"></i>
+      <span>Shopify</span>
+    </div>
+
+    <div class="tech-logo" title="Webflow">
+      <i class="fa-brands fa-webflow" style="color: #4353FF; font-size: 28px;"></i>
+      <span>Webflow</span>
+    </div>
+
+    <div class="tech-logo" title="Claude Code">
+      <svg viewBox="0 0 32 32" width="28" height="28" aria-hidden="true" style="display:block"><g fill="#D97757"><path d="M17.55 16.00L16.50 3.00L15.50 3.00L14.45 16.00Z"/><path d="M17.33 16.80L21.84 7.26L20.98 6.74L14.67 15.20Z"/><path d="M16.73 17.37L27.71 10.34L27.24 9.46L15.27 14.63Z"/><path d="M15.92 17.55L25.96 17.02L26.01 16.02L16.08 14.45Z"/><path d="M15.13 17.29L26.50 23.68L27.06 22.85L16.87 14.71Z"/><path d="M14.60 16.66L19.98 25.73L20.89 25.30L17.40 15.34Z"/><path d="M14.46 15.84L14.14 28.88L15.14 28.98L17.54 16.16Z"/><path d="M14.76 15.07L9.58 23.69L10.38 24.29L17.24 16.93Z"/><path d="M15.42 14.56L3.76 20.41L4.13 21.33L16.58 17.44Z"/><path d="M16.24 14.47L5.71 13.86L5.55 14.85L15.76 17.53Z"/><path d="M17.00 14.81L6.36 7.26L5.72 8.03L15.00 17.19Z"/><path d="M17.47 15.50L13.22 6.38L12.27 6.71L14.53 16.50Z"/></g></svg>
+      <span>Claude Code</span>
+    </div>
+
+    <div class="tech-logo tech-logo--own" title="V28 — notre CRM">
+      <span class="tech-logo__mark">V28</span>
+      <span><strong>V28</strong> · CRM maison</span>
+    </div>
+
+  </div>
+</div>
+
+
+<!-- ══════ 3b. DEZVOLTATORI IMOBILIARI ══════ -->
+<section class="sqs sqs--dev" id="developers" aria-labelledby="dev-h">
+  <div class="port-head">
+    <div class="rv">
+      <h2 class="dd dd-lg" id="dev-h">Immobilier</h2>
+    </div>
+    <div class="pf-cta__acts">
+      <a href="/fr/marketing-immobilier/" class="btn btn-solid">Ce que nous faisons pour les promoteurs <span style="margin-left:4px">→</span></a>
+    </div>
+    <div class="port-nav" role="group" aria-label="Navigation du carrousel promoteurs">
+      <button class="pnb" id="devPrev" aria-label="Précédent" disabled>
+        <svg width="15" height="15" viewBox="0 0 15 15" fill="none"><path d="M9.5 3L5 7.5l4.5 4.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+      <button class="pnb" id="devNext" aria-label="Suivant">
+        <svg width="15" height="15" viewBox="0 0 15 15" fill="none"><path d="M5.5 3L10 7.5 5.5 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+    </div>
+  </div>
+
+  <div class="port-wrap" id="devWrap" tabindex="0" role="region" aria-label="Carrousel immobilier">
+    <div class="port-track" id="devTrack">
+      <a class="sq-card" href="https://housevision.ro/" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/v3/house-vision.avif" alt="House Vision — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">House Vision</span>
+      </a>
+
+      <a class="sq-card" href="https://www.bucegii-la-fereastra.ro/" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/v2/bucegii-la-fereastra.avif" alt="Bucegii la Fereastră — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Bucegii la Fereastră</span>
+      </a>
+
+      <a class="sq-card" href="https://4biz.properties/" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/v2/4biz-properties.avif" alt="4Biz Properties — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">4Biz Properties</span>
+      </a>
+
+      <a class="sq-card" href="https://vlaicu87.ro/" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/v2/vlaicu87.avif" alt="Vlaicu87 — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name cv-row"><span>Vlaicu87</span><span class="cu-vistory">avec Vistory</span></span>
+      </a>
+
+      <a class="sq-card" href="https://cameoresidence.ro/" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/v2/cameo-residence.avif" alt="Cameo Residence — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name cv-row"><span>Cameo Residence</span><span class="cu-vistory">avec Vistory</span></span>
+      </a>
+
+      <a class="sq-card" href="https://www.lapis-residence.ro/" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/v3/lapis-residence.avif" alt="Lapis Residence — campagnes Meta réalisées par Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Lapis Residence</span>
+      </a>
+
+      <a class="sq-card" href="https://www.onyx-residence.ro/" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/v3/onyx-residence.avif" alt="Onyx Residence — campagnes Meta réalisées par Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Onyx Residence</span>
+      </a>
+
+      <a class="sq-card" href="https://picolina.ro/" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/v3/picolina-b.avif" alt="Picolina Bucium — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name cv-row"><span>Picolina Bucium</span><span class="cu-vistory">avec Vistory</span></span>
+      </a>
+
+      <a class="sq-card" href="https://armurdesign.ro/" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/v3/armur-design.avif" alt="Armur Design — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name cv-row"><span>Armur Design</span><span class="cu-vistory">avec Vistory</span></span>
+      </a>
+
+      <a class="sq-card" href="https://www.alfapark.ro/" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/v2/alfa-park-residence.avif" alt="Alfa Park Residence — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name cv-row"><span>Alfa Park Residence</span><span class="cu-vistory">avec Vistory</span></span>
+      </a>
+
+      <a class="sq-card" href="https://2mtech.ro/" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/v2/2m-tech.avif" alt="2M Tech — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name cv-row"><span>2M Tech</span><span class="cu-vistory">avec Vistory</span></span>
+      </a>
+
+    </div>
+  </div>
+  <div class="port-dots" id="devDots" aria-hidden="true"></div>
+</section>
+
+
+<!-- ══════ 3c. PARTENERII NOȘTRI ══════ -->
+<section class="sqs" id="partners" aria-labelledby="part-h">
+  <div class="port-head">
+    <div class="rv">
+      <h2 class="dd dd-lg" id="part-h">Nos partenaires</h2>
+    </div>
+    <div class="pf-cta__acts">
+      <a href="/fr/portfolio/" class="btn btn-solid">Voir le portfolio <span style="margin-left:4px">→</span></a>
+    </div>
+    <div class="port-nav" role="group" aria-label="Navigation du carrousel partenaires">
+      <button class="pnb" id="partPrev" aria-label="Précédent" disabled>
+        <svg width="15" height="15" viewBox="0 0 15 15" fill="none"><path d="M9.5 3L5 7.5l4.5 4.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+      <button class="pnb" id="partNext" aria-label="Suivant">
+        <svg width="15" height="15" viewBox="0 0 15 15" fill="none"><path d="M5.5 3L10 7.5 5.5 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+    </div>
+  </div>
+
+  <div class="port-wrap" id="partWrap" tabindex="0" role="region" aria-label="Carrousel partenaires">
+    <div class="port-track" id="partTrack">
+
+      <a class="sq-card" href="https://casavatra.ro/" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/v2/casa-vatra.fc383a.avif" alt="Casa Vatră — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Casa Vatră</span>
+      </a>
+
+      <a class="sq-card" href="https://carmangeriaevei.ro/" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/v2/carmangeria-evei.avif" alt="Carmangeria Evei — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Carmangeria Evei</span>
+      </a>
+
+      <a class="sq-card" href="https://solutiialpensam.ro/" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/v2/solutii-alpensam.avif" alt="Soluții Alpensam — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Soluții Alpensam</span>
+      </a>
+
+      <a class="sq-card" href="https://luciarosca.ro/" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/v2/lucia-rosca.avif" alt="Lucia Roșca — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Lucia Roșca</span>
+      </a>
+
+      <a class="sq-card" href="https://velomed.ro/" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/v2/velomed.avif" alt="Velomed — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Velomed</span>
+      </a>
+
+      <a class="sq-card" href="https://ecologica2000.eu/" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/v2/ecologica2000-italia.avif" alt="Ecologica 2000 — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Ecologica 2000</span>
+      </a>
+
+      <a class="sq-card" href="https://amodelic.com/" target="_blank" rel="noopener">
+        <span class="sq-card__img"><img src="/media/tiles/v2/amodelic.avif" alt="Amodelic — projet réalisé par Visience" width="720" height="900" loading="lazy"></span>
+        <span class="sq-card__name">Amodelic</span>
+      </a>
+
+    </div>
+  </div>
+  <div class="port-dots" id="partDots" aria-hidden="true"></div>
+</section>
+
+
+<!-- ══════ 4. MANIFESTO ══════ -->
+<section class="manifesto" aria-labelledby="mani-h">
+
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0"   y1="15%" x2="100%" y2="45%"/>
+      <line x1="0"   y1="35%" x2="100%" y2="65%"/>
+      <line x1="0"   y1="55%" x2="100%" y2="85%"/>
+      <line x1="0"   y1="75%" x2="100%" y2="25%"/>
+      <line x1="20%" y1="0"   x2="80%"  y2="100%"/>
+      <line x1="60%" y1="0"   x2="10%"  y2="100%"/>
+      <line x1="0"   y1="90%" x2="100%" y2="10%"/>
+      <line x1="40%" y1="0"   x2="90%"  y2="100%"/>
+    </svg>
+  </div>
+
+  <div class="wrap">
+    <div class="manifesto__inner">
+
+      <div>
+        <h2 class="manifesto__headline rv rv-d1" id="mani-h">
+          Nous bâtissons d’abord<br>
+          <span class="hi">les fondations.</span><br>
+          Ensuite,<br>
+          <span class="box">la croissance.</span>
+        </h2>
+      </div>
+
+      <div class="rv rv-d2">
+        <p class="manifesto__body">
+          La plupart des agences lancent des publicités sans régler le problème de fond : l’image de l’entreprise. Nous faisons l’inverse. Nous construisons d’abord une marque cohérente, un site qui convertit et une présence sociale qui inspire confiance, et seulement ensuite nous lançons les publicités.
+        </p>
+
+        <div class="msteps">
+          <div class="mstep">
+            <div class="mstep__n">01</div>
+            <div>
+              <div class="mstep__t">Marque &amp; identité</div>
+              <div class="mstep__d">Logo, ton de communication, design visuel unifié. La base sur laquelle tout repose.</div>
+            </div>
+          </div>
+          <div class="mstep">
+            <div class="mstep__n">02</div>
+            <div>
+              <div class="mstep__t">Site web &amp; présence en ligne</div>
+              <div class="mstep__d">Des plateformes qui transforment les visiteurs en clients et les clients en fidèles.</div>
+            </div>
+          </div>
+          <div class="mstep">
+            <div class="mstep__n">03</div>
+            <div>
+              <div class="mstep__t">Réseaux sociaux &amp; contenu</div>
+              <div class="mstep__d">Une présence constante qui cultive la communauté et crée un attachement réel à la marque.</div>
+            </div>
+          </div>
+          <div class="mstep">
+            <div class="mstep__n">04</div>
+            <div>
+              <div class="mstep__t">Marketing payant &amp; SEO</div>
+              <div class="mstep__d">Des campagnes PPC et du SEO qui amènent du trafic qualifié, réglés précisément sur votre audience.</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<!-- ══════ 5. STATS ══════ -->
+<section class="stats" aria-label="Statistiques">
+  <div class="wrap">
+
+    <!-- Paragraf SEO/AEO: fapte citabile, atribuite entității -->
+    <p class="stats__intro rv">
+      <strong>Visience Creative Experience</strong> est une agence de marketing digital basée à Iași, fondée il y a 12 ans. Au fil du temps, nous avons généré plus de <strong>8.200 leads</strong> sur des projets immobiliers, contribué à la vente de plus de <strong>1.000 appartements</strong> dans les projets que nous avons promus et livré plus de <strong>120 projets</strong> de branding, de web et de marketing pour des entreprises de Roumanie, d’Italie, de France et d’Allemagne.
+    </p>
+
+    <div class="stats__grid">
+
+      <div class="stt-cell rv">
+        <div class="stt-num">8.200+</div>
+        <div class="stt-lbl">Leads en immobilier</div>
+        <div class="stt-sub">issus des projets ci-dessous</div>
+        <div class="stt-cell__ill" aria-hidden="true">
+          <svg width="110" height="110" viewBox="0 0 110 110" fill="none">
+            <circle cx="55" cy="55" r="48" stroke="var(--acc)" stroke-width="6" opacity=".5"/>
+            <path d="M28 76 L42 50 L56 62 L70 36 L82 44" stroke="var(--acc)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity=".5"/>
+            <circle cx="82" cy="36" r="8" fill="var(--acc)" opacity=".5"/>
+          </svg>
+        </div>
+      </div>
+
+      <div class="stt-cell rv rv-d1">
+        <div class="stt-num">1000+</div>
+        <div class="stt-lbl">Appartements vendus</div>
+        <div class="stt-cell__ill" aria-hidden="true">
+          <svg width="100" height="100" viewBox="0 0 100 100" fill="none">
+            <rect x="10" y="42" width="22" height="48" rx="3" stroke="var(--acc)" stroke-width="5" opacity=".5"/>
+            <rect x="36" y="24" width="22" height="66" rx="3" stroke="var(--acc)" stroke-width="5" opacity=".5"/>
+            <rect x="62" y="54" width="22" height="36" rx="3" stroke="var(--acc)" stroke-width="5" opacity=".5"/>
+          </svg>
+        </div>
+      </div>
+
+      <div class="stt-cell rv rv-d2">
+        <div class="stt-num">120+</div>
+        <div class="stt-lbl">Projets livrés</div>
+        <div class="stt-cell__ill" aria-hidden="true">
+          <svg width="100" height="100" viewBox="0 0 100 100" fill="none">
+            <circle cx="50" cy="38" r="20" stroke="var(--acc)" stroke-width="5" opacity=".5"/>
+            <circle cx="26" cy="72" r="14" stroke="var(--acc)" stroke-width="4" opacity=".4"/>
+            <circle cx="74" cy="72" r="14" stroke="var(--acc)" stroke-width="4" opacity=".4"/>
+            <line x1="38" y1="54" x2="30" y2="62" stroke="var(--acc)" stroke-width="3" opacity=".4"/>
+            <line x1="62" y1="54" x2="70" y2="62" stroke="var(--acc)" stroke-width="3" opacity=".4"/>
+          </svg>
+        </div>
+      </div>
+
+      <div class="stt-cell rv rv-d3">
+        <div class="stt-num">12</div>
+        <div class="stt-lbl">Ans d’expérience</div>
+        <div class="stt-cell__ill" aria-hidden="true">
+          <svg width="100" height="100" viewBox="0 0 100 100" fill="none">
+            <circle cx="50" cy="50" r="36" stroke="var(--acc)" stroke-width="6" opacity=".5"/>
+            <line x1="50" y1="50" x2="50" y2="22" stroke="var(--acc)" stroke-width="5" stroke-linecap="round" opacity=".5"/>
+            <line x1="50" y1="50" x2="70" y2="60" stroke="var(--acc)" stroke-width="4" stroke-linecap="round" opacity=".4"/>
+            <circle cx="50" cy="50" r="5" fill="var(--acc)" opacity=".6"/>
+          </svg>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<!-- ══════ 6. CASE STUDIES ══════ -->
+<section class="cases" id="results" aria-labelledby="case-h">
+
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0"   y1="20%" x2="100%" y2="60%"/>
+      <line x1="0"   y1="50%" x2="100%" y2="90%"/>
+      <line x1="0"   y1="80%" x2="100%" y2="30%"/>
+      <line x1="25%" y1="0"   x2="75%"  y2="100%"/>
+      <line x1="70%" y1="0"   x2="20%"  y2="100%"/>
+    </svg>
+  </div>
+
+  <div class="wrap">
+
+    <div class="cases__head rv">
+      <div>
+        <h2 class="dd dd-lg" id="case-h">Des chiffres réels,<br>des résultats réels</h2>
+      </div>
+      <p class="body-lg" style="max-width:320px">
+        Les chiffres ci-dessous sont des résultats confirmés issus de projets livrés, pas des estimations.
+      </p>
+    </div>
+
+    <div class="cases__list">
+
+      <!-- Case 2: Picolina -->
+      <article class="case-item rv">
+        <div class="case-item__ill">
+          <img src='/media/picolina-01-min.avif' alt="Ensemble résidentiel Picolina Bucium Residence Iași — branding et campagnes Visience" loading="lazy" style="object-fit: cover; height:100%">
+        </div>
+        <div class="case-item__body">
+          <div class="case-num">1.000+</div>
+          <div class="case-sub">Leads en immobilier · 5 mois</div>
+          <h3 class="case-title">Picolina Bucium Residence — Iași</h3>
+          <p class="case-desc">De zéro à une source constante de clients qualifiés. Branding complet, site dédié avec landing page optimisée et campagnes PPC en test continu.</p>
+          <p class="case-desc">En collaboration avec Vistory</p>
+          <div class="case-cpills">
+            <span class="cpill">Branding</span>
+            <span class="cpill">Website</span>
+            <span class="cpill">Facebook Ads</span>
+          </div>
+          <a href="https://picolina.ro" target="_blank" rel="noopener" class="btn btn-ghost" style="align-self:flex-start">picolina.ro ↗</a>
+        </div>
+      </article>
+
+      <!-- Case 3: Armur Design -->
+      <article class="case-item alt rv rv-d1" style="margin-top:3px">
+        <div class="case-item__ill">
+          <img src='/media/fewgfew.avif' alt="Ensemble de maisons premium Armur Design Galata Iași — réseaux sociaux et PPC Visience" loading="lazy" style="object-fit: cover; height:100%">
+        </div>
+        <div class="case-item__body">
+          <div class="case-num">600+</div>
+          <div class="case-sub">Leads · 5 mois · 10 maisons de 350K€</div>
+          <h3 class="case-title">Armur Design — Galata, Iași</h3>
+          <p class="case-desc">Gestion intensive des réseaux sociaux et campagnes PPC pour un ensemble de maisons individuelles premium. Stratégie complète pour un portefeuille de 3,5M€.</p>
+          <p class="case-desc">En collaboration avec Vistory</p>
+          <div class="case-cpills">
+            <span class="cpill">Social Media</span>
+            <span class="cpill">Google Ads</span>
+            <span class="cpill">Meta Ads</span>
+          </div>
+          <a href="https://armurdesign.ro" target="_blank" rel="noopener" class="btn btn-ghost" style="align-self:flex-start">armurdesign.ro ↗</a>
+        </div>
+      </article>
+
+    </div>
+  </div>
+</section>
+
+
+<!-- ══════ 7. SERVICES SLIDER ══════ -->
+<section class="services" id="services" aria-labelledby="svc-h">
+
+  <div class="wrap services__head rv">
+    <div>
+      <h2 class="dd dd-lg" id="svc-h">Services de marketing<br>et web design</h2>
+    </div>
+    <p class="body-lg services__sub">
+      Chaque service est réglé sur vos objectifs. Nous ne vendons pas de forfaits figés.
+      <strong>Et nous n’avons pas de prix cachés :</strong> vous voyez exactement ce que vous payez sur
+      <a href="/fr/tarifs/" style="color:var(--acc-deep);border-bottom:1px solid var(--acc)">la page tarifs</a>.
+    </p>
+    <div class="svc-nav" role="group" aria-label="Navigation du carrousel services">
+      <button class="svc-nb" id="svcPrev" aria-label="Précédent" disabled>
+        <svg width="15" height="15" viewBox="0 0 15 15" fill="none">
+          <path d="M9.5 3L5 7.5l4.5 4.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
+      <button class="svc-nb" id="svcNext" aria-label="Suivant">
+        <svg width="15" height="15" viewBox="0 0 15 15" fill="none">
+          <path d="M5.5 3L10 7.5 5.5 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
+    </div>
+  </div>
+
+  <div class="svc-wrap" id="svcWrap" tabindex="0" role="region" aria-label="Carrousel services">
+    <div class="svc-track" id="svcTrack">
+
+      <!-- ─── Card 1: Website de prezentare ─── -->
+      <div class="svc-card rv">
+        <div class="svc-card__diagram" aria-hidden="true">
+          <div class="sd">
+            <div class="sd-browser">
+              <div class="sd-browser__bar">
+                <span class="sd-dot"></span>
+                <span class="sd-dot"></span>
+                <span class="sd-dot"></span>
+                <span class="sd-url">visience.ro/a-propos</span>
+              </div>
+              <div class="sd-page">
+                <div class="sd-page__hero">
+                  <div class="sd-page__img"></div>
+                  <div class="sd-page__text">
+                    <div class="sd-bar sd-bar--ink"></div>
+                    <div class="sd-bar sd-bar--md"></div>
+                    <div class="sd-bar sd-bar--sm"></div>
+                  </div>
+                </div>
+                <div class="sd-page__cards">
+                  <div class="sd-page__card"></div>
+                  <div class="sd-page__card"></div>
+                  <div class="sd-page__card"></div>
+                </div>
+              </div>
+            </div>
+            <span class="sd-chip sd-chip--tl" style="--c:#21759B"><i class="fab fa-wordpress"></i></span>
+            <span class="sd-chip sd-chip--tr" style="--c:#92003B"><i class="fab fa-elementor"></i></span>
+            <span class="sd-chip sd-chip--br" style="--c:#4353FF"><i class="fab fa-webflow"></i></span>
+          </div>
+        </div>
+
+        <div class="svc-card__body">
+          <h3 class="svc-card__name">Site vitrine</h3>
+          <p class="svc-card__desc">Landing pages, sites d’entreprise et portfolios. CMS inclus, design responsive et SEO technique dès la construction. Pages À propos, Services, Contact, toutes alignées sur votre marque.</p>
+          <div class="svc-card__prices">
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Landing</span><span class="svc-price-pill__val">500€</span></div>
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Basic</span><span class="svc-price-pill__val">750€</span></div>
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Standard</span><span class="svc-price-pill__val">1.200€</span></div>
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Premium</span><span class="svc-price-pill__val">2.500€+</span></div>
+          </div>
+          <div class="svc-card__actions">
+            <a href="#contact" class="svc-card__cta">Demandez un devis <span class="svc-card__cta-arr">↗</span></a>
+            <a href="/fr/creation-site-internet/" class="svc-card__more">Voir les détails →</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- ─── Card 2: Magazin Online ─── -->
+      <div class="svc-card rv">
+        <div class="svc-card__diagram" aria-hidden="true">
+          <div class="sd">
+            <div class="sd-browser">
+              <div class="sd-browser__bar">
+                <span class="sd-dot"></span>
+                <span class="sd-dot"></span>
+                <span class="sd-dot"></span>
+                <span class="sd-url">shop.visience.ro</span>
+              </div>
+              <div class="sd-browser__hero">
+                <div class="sd-bar sd-bar--ink"></div>
+                <div class="sd-bar sd-bar--md"></div>
+                <div class="sd-bar sd-bar--sm"></div>
+                <div class="sd-cta-fake">CTA</div>
+              </div>
+            </div>
+            <span class="sd-chip sd-chip--tl" style="--c:#21759B"><i class="fab fa-wordpress"></i></span>
+            <span class="sd-chip sd-chip--tr" style="--c:#95BF47"><i class="fab fa-shopify"></i></span>
+            <span class="sd-chip sd-chip--br"><i class="fas fa-cart-shopping"></i></span>
+          </div>
+        </div>
+
+        <div class="svc-card__body">
+          <h3 class="svc-card__name">Boutique en ligne</h3>
+          <p class="svc-card__desc">Des boutiques en ligne performantes sur WooCommerce ou Shopify, optimisées pour la conversion. Avec produits, paiement en ligne, livraison automatisée et intégration Google &amp; Meta Ads.</p>
+          <div class="svc-card__prices">
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Standard</span><span class="svc-price-pill__val">1.800€</span></div>
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Premium</span><span class="svc-price-pill__val">3.500€</span></div>
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Avancé</span><span class="svc-price-pill__val">sur demande</span></div>
+          </div>
+          <div class="svc-card__actions">
+            <a href="#contact" class="svc-card__cta">Demandez un devis <span class="svc-card__cta-arr">↗</span></a>
+            <a href="/fr/boutique-en-ligne/" class="svc-card__more">Voir les détails →</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- ─── Card 3: Branding ─── -->
+      <div class="svc-card rv rv-d1">
+        <div class="svc-card__diagram" aria-hidden="true">
+          <div class="sd">
+            <div class="sd-mood">
+              <div class="sd-mood-cell sd-mood-typo">A<span>a</span></div>
+              <div class="sd-mood-cell sd-mood-palette">
+                <div class="sd-mood-palette__row">
+                  <span class="sd-sw" style="background:#111010"></span>
+                  <span class="sd-sw-line"></span>
+                </div>
+                <div class="sd-mood-palette__row">
+                  <span class="sd-sw" style="background:#9BC31A"></span>
+                  <span class="sd-sw-line"></span>
+                </div>
+                <div class="sd-mood-palette__row">
+                  <span class="sd-sw" style="background:#F5F5F7;border:1px solid var(--border)"></span>
+                  <span class="sd-sw-line"></span>
+                </div>
+                <div class="sd-mood-palette__row">
+                  <span class="sd-sw" style="background:#6B6560"></span>
+                  <span class="sd-sw-line"></span>
+                </div>
+              </div>
+              <div class="sd-mood-cell sd-mood-card">
+                <span>Brand</span>
+                <span class="sd-mood-card__divider"></span>
+                <span>Book</span>
+              </div>
+              <div class="sd-mood-cell sd-mood-logo">
+                <i class="fas fa-circle-half-stroke"></i>V
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="svc-card__body">
+          <h3 class="svc-card__name">Branding &amp; identité visuelle</h3>
+          <p class="svc-card__desc">Logo, brand book complet, identité visuelle pour l’online et l’offline. Des marques mémorables qui inspirent confiance et restent dans les esprits.</p>
+          <div class="svc-card__prices">
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Standard</span><span class="svc-price-pill__val">1.200€</span></div>
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Premium</span><span class="svc-price-pill__val">2.500€</span></div>
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">BrandBook</span><span class="svc-price-pill__val">complet</span></div>
+          </div>
+          <div class="svc-card__actions">
+            <a href="#contact" class="svc-card__cta">Demandez un devis <span class="svc-card__cta-arr">↗</span></a>
+            <a href="/fr/branding/" class="svc-card__more">Voir les détails →</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- ─── Card 4: Social Media ─── -->
+      <div class="svc-card rv rv-d2">
+        <div class="svc-card__diagram" aria-hidden="true">
+          <div class="sd">
+            <div class="sd-feed">
+              <div class="sd-feed__head">
+                <div class="sd-feed__avatar">V</div>
+                <div class="sd-feed__name">
+                  <div class="sd-feed__name-bar"></div>
+                  <div class="sd-feed__name-sub"></div>
+                </div>
+              </div>
+              <div class="sd-feed__img">
+                <i class="fas fa-image"></i>
+              </div>
+              <div class="sd-feed__actions">
+                <i class="fas fa-heart heart"></i>
+                <i class="far fa-comment"></i>
+                <i class="far fa-paper-plane"></i>
+              </div>
+            </div>
+            <span class="sd-chip sd-chip--tl" style="--c:#0866FF"><i class="fab fa-facebook-f"></i></span>
+            <span class="sd-chip sd-chip--tr" style="--c:#E4405F"><i class="fab fa-instagram"></i></span>
+            <span class="sd-chip sd-chip--bl" style="--c:#000000"><i class="fab fa-tiktok"></i></span>
+            <span class="sd-chip sd-chip--br" style="--c:#0A66C2"><i class="fab fa-linkedin-in"></i></span>
+          </div>
+        </div>
+        <div class="svc-card__body">
+          <h3 class="svc-card__name">Social Media Management</h3>
+          <p class="svc-card__desc">Stratégie, contenu, publication et gestion complète des réseaux sociaux. Une présence constante qui construit une communauté et fidélise.</p>
+          <div class="svc-card__prices">
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Start</span><span class="svc-price-pill__val">200 €/mois</span></div>
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Standard</span><span class="svc-price-pill__val">450 €/mois</span></div>
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Full SMM</span><span class="svc-price-pill__val">700 €/mois</span></div>
+          </div>
+          <div class="svc-card__actions">
+            <a href="#contact" class="svc-card__cta">Demandez un devis <span class="svc-card__cta-arr">↗</span></a>
+            <a href="/fr/reseaux-sociaux/" class="svc-card__more">Voir les détails →</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- ─── Card 5: PPC ─── -->
+      <div class="svc-card rv">
+        <div class="svc-card__diagram" aria-hidden="true">
+          <div class="sd">
+            <div class="sd-chart">
+              <div class="sd-chart__header">
+                <span class="sd-chart__title">Conversions</span>
+                <span class="sd-chart__trend">
+                  <i class="fas fa-arrow-trend-up"></i>
+                </span>
+              </div>
+              <div class="sd-chart__bars">
+                <div class="sd-chart__bar"></div>
+                <div class="sd-chart__bar"></div>
+                <div class="sd-chart__bar"></div>
+                <div class="sd-chart__bar"></div>
+                <div class="sd-chart__bar"></div>
+              </div>
+            </div>
+            <span class="sd-chip sd-chip--tl" style="--c:#4285F4"><i class="fab fa-google"></i></span>
+            <span class="sd-chip sd-chip--tr" style="--c:#0866FF"><i class="fab fa-meta"></i></span>
+          </div>
+        </div>
+        <div class="svc-card__body">
+          <h3 class="svc-card__name">PPC — Google &amp; Meta Ads</h3>
+          <p class="svc-card__desc">Campagnes de génération de leads, remarketing et Shopping réglées précisément sur votre audience. Focus sur les conversions, pas sur les clics vides. La gestion est facturée par plateforme, Google ou Meta. Les deux : 400 €/mois.</p>
+          <div class="svc-card__prices">
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Par plateforme</span><span class="svc-price-pill__val">200 €/mois</span></div>
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Remarketing</span><span class="svc-price-pill__val">200€</span></div>
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Shopping</span><span class="svc-price-pill__val">100€</span></div>
+          </div>
+          <div class="svc-card__actions">
+            <a href="#contact" class="svc-card__cta">Demandez un devis <span class="svc-card__cta-arr">↗</span></a>
+            <a href="/fr/google-meta-ads/" class="svc-card__more">Voir les détails →</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- ─── Card 6: SEO ─── -->
+      <div class="svc-card rv rv-d1">
+        <div class="svc-card__diagram" aria-hidden="true">
+          <div class="sd">
+            <div class="sd-search">
+              <div class="sd-search__bar">
+                <i class="fas fa-magnifying-glass"></i>
+                <span class="sd-search__bar-text"></span>
+              </div>
+              <div class="sd-search__results">
+                <div class="sd-search__row top">
+                  <span class="sd-search__rank">1</span>
+                  <span class="sd-search__row-title"></span>
+                  <span class="sd-search__row-meta"></span>
+                </div>
+                <div class="sd-search__row">
+                  <span class="sd-search__row-title" style="width:60%"></span>
+                  <span class="sd-search__row-meta" style="width:75%"></span>
+                </div>
+                <div class="sd-search__row">
+                  <span class="sd-search__row-title" style="width:50%"></span>
+                  <span class="sd-search__row-meta" style="width:65%"></span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="svc-card__body">
+          <h3 class="svc-card__name">SEO &amp; Content Marketing</h3>
+          <p class="svc-card__desc">SEO technique, stratégie on-page &amp; off-page, netlinking de qualité, newsletter et email marketing. Visibilité organique sur le long terme.</p>
+          <div class="svc-card__prices">
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Technique</span><span class="svc-price-pill__val">60 €/heure</span></div>
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Stratégie</span><span class="svc-price-pill__val">600 €/mois</span></div>
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">SEO boutique</span><span class="svc-price-pill__val">1.500€</span></div>
+          </div>
+          <div class="svc-card__actions">
+            <a href="#contact" class="svc-card__cta">Demandez un devis <span class="svc-card__cta-arr">↗</span></a>
+            <a href="/fr/referencement/" class="svc-card__more">Voir les détails →</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- ─── Card 7: Software ─── -->
+      <div class="svc-card rv rv-d2">
+        <div class="svc-card__diagram" aria-hidden="true">
+          <div class="sd">
+            <div class="sd-code">
+              <div class="sd-code__bar">
+                <span class="sd-dot"></span>
+                <span class="sd-dot"></span>
+                <span class="sd-dot"></span>
+                <span class="sd-code__file">app.tsx</span>
+              </div>
+              <div class="sd-code__lines">
+                <div class="sd-code__line">
+                  <span class="sd-code__num">1</span>
+                  <span class="sd-code__keyword">const</span>
+                  <span class="sd-code__var">visience</span>
+                  <span class="sd-code__plain">=</span>
+                  <span class="sd-code__string">'agency'</span>
+                </div>
+                <div class="sd-code__line">
+                  <span class="sd-code__num">2</span>
+                  <span class="sd-code__keyword">function</span>
+                  <span class="sd-code__var">build</span><span class="sd-code__plain">() {</span>
+                </div>
+                <div class="sd-code__line sd-code__indent">
+                  <span class="sd-code__num">3</span>
+                  <span class="sd-code__keyword">return</span>
+                  <span class="sd-code__string">&lt;App /&gt;</span>
+                </div>
+                <div class="sd-code__line">
+                  <span class="sd-code__num">4</span>
+                  <span class="sd-code__plain">}</span>
+                  <span class="sd-code__cursor"></span>
+                </div>
+              </div>
+            </div>
+            <span class="sd-chip sd-chip--tr" style="--c:#FF9900"><i class="fab fa-aws"></i></span>
+            <span class="sd-chip sd-chip--bl" style="--c:#9BC31A"><i class="fab fa-android"></i></span>
+            <span class="sd-chip sd-chip--br" style="--c:#000000"><i class="fab fa-apple"></i></span>
+          </div>
+        </div>
+        <div class="svc-card__body">
+          <h3 class="svc-card__name">Software &amp; App Development</h3>
+          <p class="svc-card__desc">Applications mobiles iOS &amp; Android, migration cloud, AI &amp; Data Solutions et automatisations RPA. Des solutions qui passent à l’échelle, quelle que soit la taille.</p>
+          <div class="svc-card__prices">
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Heure</span><span class="svc-price-pill__val">60 €/heure</span></div>
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Projet</span><span class="svc-price-pill__val">sur mesure</span></div>
+            <div class="svc-price-pill"><span class="svc-price-pill__lbl">Conseil</span><span class="svc-price-pill__val">sur demande</span></div>
+          </div>
+          <div class="svc-card__actions">
+            <a href="#contact" class="svc-card__cta">Demandez un devis <span class="svc-card__cta-arr">↗</span></a>
+            <a href="/fr/developpement-logiciel/" class="svc-card__more">Voir les détails →</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="svc-dots" id="svcDots" role="group" aria-label="Pages services" style="padding:0 var(--gut);margin-top:28px"></div>
+</section>
+
+
+<!-- ══════ SPECIALIZĂRI / NIȘĂ ══════ -->
+<section class="spec" id="focus" aria-labelledby="spec-h">
+  <div class="wrap">
+    <div class="spec__head rv">
+      <h2 class="dd dd-lg" id="spec-h">Ce sur quoi<br>nous sommes spécialisés</h2>
+      <p class="body-lg spec__sub">Notre niche principale, ce sont les projets résidentiels. À côté, nous menons du branding, des sites et des campagnes pour des entreprises du commerce et des services. Chaque direction a sa page, avec des prix publics.</p>
+    </div>
+
+    <div class="spec__grid">
+
+      <a class="spec-card rv" href="/fr/creation-site-internet/">
+        <div class="spec-card__ico"><i class="fas fa-window-maximize"></i></div>
+        <h3>Création de site vitrine</h3>
+        <p>Des sites d’entreprise et des landing pages qui transforment les visiteurs en clients. Design sur mesure, SEO technique et CMS éditable, du projet standard aux plateformes premium à 2.500€+.</p>
+        <span class="spec-card__cta">Voir le service <span class="spec-card__arr">↗</span></span>
+      </a>
+
+      <a class="spec-card rv rv-d1" href="/fr/boutique-en-ligne/">
+        <div class="spec-card__ico"><i class="fas fa-cart-shopping"></i></div>
+        <h3>Création de boutique en ligne</h3>
+        <p>Des boutiques WooCommerce et Shopify optimisées pour la conversion, avec paiement, livraison et SEO, du projet standard aux solutions premium à 3.500€.</p>
+        <span class="spec-card__cta">Voir le service <span class="spec-card__arr">↗</span></span>
+      </a>
+
+      <a class="spec-card spec-card--feat rv rv-d2" href="/fr/marketing-immobilier/">
+        <span class="spec-card__badge">Notre niche</span>
+        <div class="spec-card__ico"><i class="fas fa-building"></i></div>
+        <h3>Marketing immobilier</h3>
+        <p>Branding, site avec pages d’appartements et campagnes qui vendent des ensembles résidentiels. Plus de 1.000 appartements vendus.</p>
+        <span class="spec-card__cta">Voir le service <span class="spec-card__arr">↗</span></span>
+      </a>
+
+    </div>
+  </div>
+</section>
+
+
+<!-- ══════ 8. PORTFOLIO SLIDER ══════ -->
+<section class="portfolio" id="work" aria-labelledby="port-h">
+  <div class="port-head">
+    <div class="rv">
+      <h2 class="dd dd-lg" id="port-h">Quelques projets</h2>
+    </div>
+    <div class="pf-cta__acts">
+      <a href="/fr/portfolio/" class="btn btn-solid">Voir plus de projets <span style="margin-left:4px">→</span></a>
+    </div>
+    <div class="port-nav" role="group" aria-label="Navigation du carrousel">
+      <button class="pnb" id="pPrev" aria-label="Précédent" disabled>
+        <svg width="15" height="15" viewBox="0 0 15 15" fill="none"><path d="M9.5 3L5 7.5l4.5 4.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+      <button class="pnb" id="pNext" aria-label="Suivant">
+        <svg width="15" height="15" viewBox="0 0 15 15" fill="none"><path d="M5.5 3L10 7.5 5.5 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+    </div>
+  </div>
+
+  <div class="port-wrap" id="pWrap" tabindex="0" role="region" aria-label="Carrousel projets">
+    <div class="port-track" id="pTrack">
+
+      <!-- ══ Card 1: Vlaicu87 V1 ══ -->
+      <article class="pj-card pj-card--v1">
+        <div class="pj-card__vis">
+          <div class="pj-phone">
+            <video class="pj-phone__vid"
+                   poster="/media/vlaicu-placeholder.avif"
+                   data-src="/media/Vlaicu87-Vlaicu87-Google-Chrome-2026-05-15-23-26-11-3.webm"
+                   muted loop playsinline preload="none"></video>
+            <span class="pj-phone__play">
+              <i class="fa-regular fa-hand-pointer"></i>
+              Voir l’aperçu
+            </span>
+          </div>
+          <div class="pj-right">
+            <div class="pj-logo">
+              <img src="/media/vlaiculogo.avif"
+                   alt="Logo Vlaicu87 — ensemble résidentiel Iași" loading="lazy" width="1200" height="1200">
+            </div>
+            <div class="pj-social">
+              <img src="/media/vlaicusocial.avif"
+                   alt="Publication réseaux sociaux Vlaicu87 réalisée par Visience" loading="lazy" width="1200" height="1200">
+            </div>
+          </div>
+        </div>
+        <div class="pj-card__body">
+          <div class="pj-card__pills">
+            <span class="pj-pill pj-pill--svc">Site web</span>
+            <span class="pj-pill pj-pill--svc">Branding</span>
+            <span class="pj-pill pj-pill--svc">Google, Meta ads</span>
+            <span class="pj-pill pj-pill--svc">Présence en ligne</span>
+            <span class="pj-pill pj-pill--ind">Ensemble résidentiel</span>
+            <span class="pj-pill pj-pill--ind">B2C</span>
+          </div>
+          <h3 class="pj-card__title">Vlaicu87 — Quartier &amp; Parc</h3>
+          <div class="pj-card__foot">
+            <a href="https://vlaicu87.ro/" target="_blank" rel="noopener" class="pj-card__url">vlaicu87.ro ↗</a>
+            <span class="pj-card__collab">avec Vistory</span>
+          </div>
+        <a class="pj-card__more" href="/fr/projets/vlaicu87/">Voir le projet <span aria-hidden="true">→</span></a>
+        </div>
+      </article>
+
+      <!-- ══ Card 2: Amodelic V1 ══ -->
+      <article class="pj-card pj-card--v1">
+        <div class="pj-card__vis">
+          <div class="pj-phone">
+            <video class="pj-phone__vid"
+                   poster="/media/amodelic-placeholder.avif"
+                   data-src="/media/amodelic.webm"
+                   muted loop playsinline preload="none"></video>
+            <span class="pj-phone__play">
+              <i class="fa-regular fa-hand-pointer"></i>
+              Voir l’aperçu
+            </span>
+          </div>
+          <div class="pj-right">
+            <div class="pj-logo">
+              <img src="/media/amodelic-logo.avif"
+                   alt="Logo Amodelic — ingénierie et conseil" loading="lazy" width="1200" height="1200">
+            </div>
+            <div class="pj-social">
+              <img src="/media/amodelic-brand.avif"
+                   alt="Identité visuelle Amodelic réalisée par Visience" loading="lazy" width="1200" height="1200">
+            </div>
+          </div>
+        </div>
+        <div class="pj-card__body">
+          <div class="pj-card__pills">
+            <span class="pj-pill pj-pill--svc">Site web</span>
+            <span class="pj-pill pj-pill--svc">Branding</span>
+            <span class="pj-pill pj-pill--svc">Présence en ligne</span>
+            <span class="pj-pill pj-pill--ind">Ingénierie</span>
+            <span class="pj-pill pj-pill--ind">B2B</span>
+          </div>
+          <h3 class="pj-card__title">Amodelic — Ingénierie &amp; Conseil</h3>
+          <div class="pj-card__foot">
+            <a href="https://amodelic.com" target="_blank" rel="noopener" class="pj-card__url">amodelic.com ↗</a>
+          </div>
+        <a class="pj-card__more" href="/fr/projets/amodelic/">Voir le projet <span aria-hidden="true">→</span></a>
+        </div>
+      </article>
+
+      <!-- ══ Card 3: Casa Vatră V2 ══ -->
+      <article class="pj-card pj-card--v2">
+        <div class="pj-card__vis">
+          <div class="pj-phone">
+            <video class="pj-phone__vid"
+                   poster="/media/casa-vatra-placeholder.avif"
+                   data-src="/media/casa-vatra.webm"
+                   muted loop playsinline preload="none"></video>
+            <span class="pj-phone__play">
+              <i class="fa-regular fa-hand-pointer"></i>
+              Voir l’aperçu
+            </span>
+          </div>
+          <div class="pj-desktop">
+            <img src="/media/casa-vatra-desk.avif"
+                 alt="Site Casa Vatră — restaurant et hôtel, réalisé par Visience" loading="lazy" width="1898" height="949">
+          </div>
+        </div>
+        <div class="pj-card__body">
+          <div class="pj-card__pills">
+            <span class="pj-pill pj-pill--svc">Site web</span>
+            <span class="pj-pill pj-pill--svc">Menu</span>
+            <span class="pj-pill pj-pill--ind">Restaurant</span>
+            <span class="pj-pill pj-pill--ind">Hôtel</span>
+          </div>
+          <h3 class="pj-card__title">Casa Vatră — Restaurant &amp; Hôtel</h3>
+          <div class="pj-card__foot">
+            <a href="https://casavatra.ro" target="_blank" rel="noopener" class="pj-card__url">casavatra.ro ↗</a>
+          </div>
+        <a class="pj-card__more" href="/fr/projets/casa-vatra/">Voir le projet <span aria-hidden="true">→</span></a>
+        </div>
+      </article>
+
+      <!-- ══ Card 4: Carmangeria Evei V1 ══ -->
+      <article class="pj-card pj-card--v1">
+        <div class="pj-card__vis">
+          <div class="pj-phone">
+            <video class="pj-phone__vid"
+                   poster="/media/carmangeria-evei-placeholder.avif"
+                   data-src="/media/carmangeria-evei.webm"
+                   muted loop playsinline preload="none"></video>
+            <span class="pj-phone__play">
+              <i class="fa-regular fa-hand-pointer"></i>
+              Voir l’aperçu
+            </span>
+          </div>
+          <div class="pj-right">
+            <div class="pj-logo">
+              <img src="/media/carmangeria-evei-social-2.avif"
+                   alt="Logo Carmangeria Evei" loading="lazy" width="1200" height="1200">
+            </div>
+            <div class="pj-social">
+              <img src="/media/carmangeria-evei-social-1.avif"
+                   alt="Publication réseaux sociaux Carmangeria Evei réalisée par Visience" loading="lazy" width="1200" height="1200">
+            </div>
+          </div>
+        </div>
+        <div class="pj-card__body">
+          <div class="pj-card__pills">
+            <span class="pj-pill pj-pill--svc">Boutique en ligne</span>
+            <span class="pj-pill pj-pill--svc">Social Media</span>
+            <span class="pj-pill pj-pill--svc">Google, Meta ads</span>
+            <span class="pj-pill pj-pill--svc">Présence en ligne</span>
+            <span class="pj-pill pj-pill--ind">Boucherie</span>
+          </div>
+          <h3 class="pj-card__title">Carmangeria Evei</h3>
+          <div class="pj-card__foot">
+            <a href="https://carmangeriaevei.ro/" target="_blank" rel="noopener" class="pj-card__url">carmangeriaevei.ro ↗</a>
+          </div>
+        <a class="pj-card__more" href="/fr/projets/carmangeria-evei/">Voir le projet <span aria-hidden="true">→</span></a>
+        </div>
+      </article>
+
+      <!-- ══ Card 5: Cameo V1 ══ -->
+      <article class="pj-card pj-card--v1">
+        <div class="pj-card__vis">
+          <div class="pj-phone">
+            <video class="pj-phone__vid"
+                   poster="/media/cameo-placeholder.avif"
+                   data-src="/media/cameo.webm"
+                   muted loop playsinline preload="none"></video>
+            <span class="pj-phone__play">
+              <i class="fa-regular fa-hand-pointer"></i>
+              Voir l’aperçu
+            </span>
+          </div>
+          <div class="pj-right">
+            <div class="pj-logo">
+              <img src="/media/cameo-logo.avif"
+                   alt="Logo Cameo Residence — appartements modernes Iași" loading="lazy"
+                   width="1200" height="1200">
+            </div>
+            <div class="pj-social">
+              <img src="/media/cameo-social-media-post.avif"
+                   alt="Publication réseaux sociaux Cameo Residence réalisée par Visience" loading="lazy"
+                   width="1200" height="1200">
+            </div>
+          </div>
+        </div>
+        <div class="pj-card__body">
+          <div class="pj-card__pills">
+            <span class="pj-pill pj-pill--svc">Site web</span>
+            <span class="pj-pill pj-pill--svc">Branding</span>
+            <span class="pj-pill pj-pill--svc">Google, Meta ads</span>
+            <span class="pj-pill pj-pill--svc">Présence en ligne</span>
+            <span class="pj-pill pj-pill--ind">Ensemble résidentiel</span>
+            <span class="pj-pill pj-pill--ind">B2C</span>
+          </div>
+          <h3 class="pj-card__title">Cameo - Appartements modernes</h3>
+          <div class="pj-card__foot">
+            <a href="https://cameoresidence.ro/" target="_blank" rel="noopener" class="pj-card__url">cameoresidence.ro ↗</a>
+            <span class="pj-card__collab">avec Vistory</span>
+          </div>
+        <a class="pj-card__more" href="/fr/projets/cameo-residence/">Voir le projet <span aria-hidden="true">→</span></a>
+        </div>
+      </article>
+
+      <!-- ══ Card 6: Soluții Alpensam V1 ══ -->
+      <article class="pj-card pj-card--v1">
+        <div class="pj-card__vis">
+          <div class="pj-phone">
+            <video class="pj-phone__vid"
+                   poster="/media/alpensam-placeholder.avif"
+                   data-src="/media/solutii-alpensa.webm"
+                   muted loop playsinline preload="none"></video>
+            <span class="pj-phone__play">
+              <i class="fa-regular fa-hand-pointer"></i>
+              Voir l’aperçu
+            </span>
+          </div>
+          <div class="pj-right">
+            <div class="pj-logo">
+              <img src="/media/logo-solutii-alpensam.avif"
+                   alt="Logo Soluții Alpensam — réservoirs de propane" loading="lazy"
+                   width="1200" height="1200">
+            </div>
+            <div class="pj-social">
+              <img src="/media/alpensam-social-media.avif"
+                   alt="Publication réseaux sociaux Soluții Alpensam réalisée par Visience" loading="lazy"
+                   width="1200" height="1200">
+            </div>
+          </div>
+        </div>
+        <div class="pj-card__body">
+          <div class="pj-card__pills">
+            <span class="pj-pill pj-pill--svc">Boutique en ligne</span>
+            <span class="pj-pill pj-pill--svc">Branding</span>
+            <span class="pj-pill pj-pill--svc">Google, Meta ads</span>
+            <span class="pj-pill pj-pill--svc">Présence en ligne</span>
+            <span class="pj-pill pj-pill--ind">Réservoirs de propane</span>
+            <span class="pj-pill pj-pill--ind">B2C</span>
+          </div>
+          <h3 class="pj-card__title">Soluții Alpensam</h3>
+          <div class="pj-card__foot">
+            <a href="https://solutiialpensam.ro/" target="_blank" rel="noopener" class="pj-card__url">solutiialpensam.ro ↗</a>
+          </div>
+        <a class="pj-card__more" href="/fr/projets/solutii-alpensam/">Voir le projet <span aria-hidden="true">→</span></a>
+        </div>
+      </article>
+
+      <!-- ══ Card 7: 2M Tech V2 ══ -->
+      <article class="pj-card pj-card--v2">
+        <div class="pj-card__vis">
+          <div class="pj-phone">
+            <video class="pj-phone__vid"
+                   poster="/media/2m-tech-placeholder.avif"
+                   data-src="/media/2mtech.webm"
+                   muted loop playsinline preload="none"></video>
+            <span class="pj-phone__play">
+              <i class="fa-regular fa-hand-pointer"></i>
+              Voir l’aperçu
+            </span>
+          </div>
+          <div class="pj-desktop">
+            <img src="/media/2m-tech-desk.avif"
+                 alt="Site 2M Tech — construction et promotion immobilière, réalisé par Visience" loading="lazy" width="1898" height="949">
+          </div>
+        </div>
+        <div class="pj-card__body">
+          <div class="pj-card__pills">
+            <span class="pj-pill pj-pill--svc">Site web</span>
+            <span class="pj-pill pj-pill--ind">Complexe immobilier</span>
+            <span class="pj-pill pj-pill--ind">Construction</span>
+          </div>
+          <h3 class="pj-card__title">2M Tech — Construction et promotion immobilière</h3>
+          <div class="pj-card__foot">
+            <a href="https://2mtech.ro/" target="_blank" rel="noopener" class="pj-card__url">2mtech.ro ↗</a>
+            <span class="pj-card__collab">avec Vistory</span>
+          </div>
+        <a class="pj-card__more" href="/fr/projets/2m-tech/">Voir le projet <span aria-hidden="true">→</span></a>
+        </div>
+      </article>
+
+      <!-- ══ Card 8: Ecologica2000 V2 ══ -->
+      <article class="pj-card pj-card--v2">
+        <div class="pj-card__vis">
+          <div class="pj-phone">
+            <video class="pj-phone__vid"
+                   poster="/media/ecologica-placeholder.avif"
+                   data-src="/media/eco2000.webm"
+                   muted loop playsinline preload="none"></video>
+            <span class="pj-phone__play">
+              <i class="fa-regular fa-hand-pointer"></i>
+              Voir l’aperçu
+            </span>
+          </div>
+          <div class="pj-desktop">
+            <img src="/media/ecologica-desk.avif"
+                 alt="Site Ecologica2000 Italia — waste management, réalisé par Visience" loading="lazy" width="1898" height="949">
+          </div>
+        </div>
+        <div class="pj-card__body">
+          <div class="pj-card__pills">
+            <span class="pj-pill pj-pill--svc">Site web</span>
+            <span class="pj-pill pj-pill--ind">Waste Management</span>
+          </div>
+          <h3 class="pj-card__title">Ecologica2000 Italia — Waste Management</h3>
+          <div class="pj-card__foot">
+            <a href="https://ecologica2000.eu/" target="_blank" rel="noopener" class="pj-card__url">ecologica2000.eu ↗</a>
+          </div>
+        <a class="pj-card__more" href="/fr/projets/ecologica2000-italia/">Voir le projet <span aria-hidden="true">→</span></a>
+        </div>
+      </article>
+
+    </div>
+  </div>
+  <div class="port-dots" id="pDots" role="group" aria-label="Pages"></div>
+  <div class="port-loading" id="pLoading">Chargement…</div>
+</section>
+
+
+<!-- ══════ 9. WHY ══════ -->
+<section class="why" id="about" aria-labelledby="why-h">
+
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0"   y1="10%" x2="100%" y2="50%"/>
+      <line x1="0"   y1="40%" x2="100%" y2="80%"/>
+      <line x1="0"   y1="70%" x2="100%" y2="20%"/>
+      <line x1="15%" y1="0"   x2="85%"  y2="100%"/>
+      <line x1="55%" y1="0"   x2="5%"   y2="100%"/>
+      <line x1="80%" y1="0"   x2="40%"  y2="100%"/>
+    </svg>
+  </div>
+
+  <div class="wrap">
+    <div class="why__inner">
+
+      <div class="why__left rv">
+        <div class="why__ill" aria-hidden="true">
+          <svg width="76" height="76" viewBox="0 0 76 76" fill="none">
+            <circle cx="38" cy="38" r="26" stroke="rgba(22,33,10,.3)" stroke-width="3"/>
+            <circle cx="38" cy="38" r="12" stroke="rgba(22,33,10,.4)" stroke-width="2"/>
+            <circle cx="38" cy="38" r="4" fill="var(--acc-ink)"/>
+            <line x1="38" y1="12" x2="38" y2="26" stroke="var(--acc-ink)" stroke-width="2.5" stroke-linecap="round" opacity=".7"/>
+            <line x1="38" y1="50" x2="38" y2="64" stroke="var(--acc-ink)" stroke-width="2.5" stroke-linecap="round" opacity=".7"/>
+            <line x1="12" y1="38" x2="26" y2="38" stroke="var(--acc-ink)" stroke-width="2.5" stroke-linecap="round" opacity=".7"/>
+            <line x1="50" y1="38" x2="64" y2="38" stroke="var(--acc-ink)" stroke-width="2.5" stroke-linecap="round" opacity=".7"/>
+          </svg>
+        </div>
+        <h2 class="dd dd-lg" id="why-h" style="margin-bottom:20px">
+          Nous ne sommes pas des fournisseurs.<br>
+          <span style="font-weight:300;color:var(--mid)">Nous sommes des partenaires.</span>
+        </h2>
+        <p class="body-lg" style="margin-bottom:32px">
+          Notre plus grande réussite, c’est quand nos clients grandissent. Nous investissons dans des relations de long terme et des stratégies claires.
+        </p>
+        <a href="#contact" class="btn btn-solid">Demandez une analyse gratuite</a>
+      </div>
+
+      <div class="why__list rv rv-d1">
+        <div class="why-row">
+          <div class="why-n">01</div>
+          <div>
+            <div class="why-t">Une stratégie sur mesure, sans modèles tout faits</div>
+            <div class="why-d">Chaque projet construit de zéro, adapté à votre secteur, à votre budget et à vos objectifs. Zéro copier-coller.</div>
+          </div>
+        </div>
+        <div class="why-row">
+          <div class="why-n">02</div>
+          <div>
+            <div class="why-t">Transparence totale dans les rapports</div>
+            <div class="why-d">Des rapports mensuels avec des chiffres clairs et des conclusions applicables. Vous savez exactement ce qui se passe avec votre budget.</div>
+          </div>
+        </div>
+        <div class="why-row">
+          <div class="why-n">03</div>
+          <div>
+            <div class="why-t">Une équipe interne complète</div>
+            <div class="why-d">Design, développement, copywriting, campagnes PPC. Tout sous le même toit, sans intermédiaires.</div>
+          </div>
+        </div>
+        <div class="why-row">
+          <div class="why-n">04</div>
+          <div>
+            <div class="why-t">Focus sur les conversions, pas sur les chiffres de façade</div>
+            <div class="why-d">Nous ne suivons pas les likes. Nous suivons les demandes, les ventes et le coût de chaque demande. Chaque décision est prise avec l’objectif final en tête.</div>
+          </div>
+        </div>
+        <div class="why-row">
+          <div class="why-n">05</div>
+          <div>
+            <div class="why-t">Un partenariat, pas une transaction</div>
+            <div class="why-d">Votre succès nous intéresse autant que vous. Chaque projet réussi devient notre recommandation suivante.</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<!-- ══════ 9b. RECENZII ══════ -->
+<section class="revs" id="reviews" aria-labelledby="revs-h">
+  <div class="wrap">
+    <div class="revs__head rv">
+      <h2 class="dd dd-lg" id="revs-h">Ce que nos clients<br>disent de nous</h2>
+      <p class="revs__lead">Ce sont tous des avis Google, écrits par des clients sur notre fiche d’entreprise. Nous ne pouvons ni les modifier, ni les supprimer, ni garder seulement ceux qui nous arrangent — vous pouvez les vérifier un par un, y compris l’entreprise derrière chaque nom.</p>
+    </div>
+
+    <div class="revs__grid rv rv-d1">
+      <figure class="rev-card">
+        <span class="rev-stars" aria-label="5 étoiles sur 5">★★★★★</span>
+        <blockquote class="rev-card__txt">Un partenaire solide, sur la durée. Je recommande.</blockquote>
+        <figcaption class="rev-card__who">
+          <span class="rev-card__nume">Dionisie Lefter</span>
+          <a class="rev-card__firma" href="https://velomed.ro/" target="_blank" rel="noopener noreferrer">Velomed &amp; Romold Invent</a>
+          <span class="rev-card__cand">Google · il y a 2 mois</span>
+        </figcaption>
+      </figure>
+      <figure class="rev-card">
+        <span class="rev-stars" aria-label="5 étoiles sur 5">★★★★★</span>
+        <blockquote class="rev-card__txt">Excellente collaboration avec Vlad !</blockquote>
+        <figcaption class="rev-card__who">
+          <span class="rev-card__nume">Dan Vatra</span>
+          <a class="rev-card__firma" href="https://casavatra.ro/" target="_blank" rel="noopener noreferrer">Casa Vatra</a>
+          <span class="rev-card__cand">Google · il y a 2 mois</span>
+        </figcaption>
+      </figure>
+      <figure class="rev-card">
+        <span class="rev-stars" aria-label="5 étoiles sur 5">★★★★★</span>
+        <blockquote class="rev-card__txt">Professionnalisme et qualité au plus haut niveau. Je recommande !</blockquote>
+        <figcaption class="rev-card__who">
+          <span class="rev-card__nume">Alpensam Edil</span>
+          <a class="rev-card__firma" href="https://solutiialpensam.ro/" target="_blank" rel="noopener noreferrer">Soluții Alpensam</a>
+          <span class="rev-card__cand">Google · il y a 2 mois</span>
+        </figcaption>
+      </figure>
+      <figure class="rev-card">
+        <span class="rev-stars" aria-label="5 étoiles sur 5">★★★★★</span>
+        <blockquote class="rev-card__txt" lang="en">I worked with Vlad from Visience on my clothing brand’s website in order to rebuild it in a more professional and modern way. […] I am very pleased with the outcome and recommend him as a great professional.</blockquote>
+        <figcaption class="rev-card__who">
+          <span class="rev-card__nume">Lucia Alexandra Roșca</span>
+          <a class="rev-card__firma" href="http://luciarosca.ro/" target="_blank" rel="noopener noreferrer">luciarosca.ro</a>
+          <span class="rev-card__cand">Google · il y a 3 ans</span>
+        </figcaption>
+      </figure>
+      <figure class="rev-card">
+        <span class="rev-stars" aria-label="5 étoiles sur 5">★★★★★</span>
+        <blockquote class="rev-card__txt">Je recommande.</blockquote>
+        <figcaption class="rev-card__who">
+          <span class="rev-card__nume">Aurelian Tirilă</span>
+          <a class="rev-card__firma" href="https://romold-invent.eu/" target="_blank" rel="noopener noreferrer">Romold Invent</a>
+          <span class="rev-card__cand">Google · il y a 2 mois</span>
+        </figcaption>
+      </figure>
+    </div>
+
+    <div class="revs__foot rv rv-d2">
+      <a class="btn btn-dark" href="https://maps.google.com/?cid=5233500846285127119" target="_blank" rel="noopener noreferrer">Voir tous les avis sur Google →</a>
+      <a class="btn btn-ghost" href="#work">Ou regardez les projets en ligne</a>
+    </div>
+  </div>
+</section>
+
+
+<!-- ══════ 10. TECH PILLS + MOCKUP-URI ══════ -->
+<section class="tech" id="platforms" aria-labelledby="tech-h">
+  <div class="wrap">
+    <div class="tech__inner">
+
+      <div class="rv">
+        <h2 class="dd dd-lg" id="tech-h" style="margin-bottom:14px">
+          Nous construisons sur<br>les bonnes plateformes
+        </h2>
+        <p class="body-lg">
+          WordPress, Shopify, Webflow, Elementor ou sur mesure : nous travaillons dans les écosystèmes que vous connaissez déjà.
+        </p>
+        <div class="tech__pills">
+          <div class="t-pill"><span class="t-dot"></span>WordPress</div>
+          <div class="t-pill"><span class="t-dot"></span>Oxygen Builder</div>
+          <div class="t-pill"><span class="t-dot"></span>Elementor</div>
+          <div class="t-pill"><span class="t-dot"></span>Shopify</div>
+          <div class="t-pill"><span class="t-dot"></span>WooCommerce</div>
+          <div class="t-pill"><span class="t-dot"></span>Webflow</div>
+          <div class="t-pill"><span class="t-dot"></span>Google Ads</div>
+          <div class="t-pill"><span class="t-dot"></span>Meta Ads</div>
+          <div class="t-pill"><span class="t-dot"></span>Klaviyo</div>
+          <div class="t-pill"><span class="t-dot"></span>Mailchimp</div>
+          <div class="t-pill"><span class="t-dot"></span>Pipedrive</div>
+        </div>
+      </div>
+
+      <div class="tech__vis rv rv-d2">
+
+        <!-- Cell 1: WordPress / CMS -->
+        <div class="tech-cell">
+          <div class="tc tc-cms">
+            <aside class="tc-cms__side">
+              <div class="tc-cms__wp"><i class="fab fa-wordpress"></i></div>
+              <div class="tc-cms__ni on"><i class="fas fa-gauge-high"></i></div>
+              <div class="tc-cms__ni"><i class="fas fa-file-lines"></i></div>
+              <div class="tc-cms__ni"><i class="fas fa-photo-film"></i></div>
+              <div class="tc-cms__ni"><i class="fas fa-puzzle-piece"></i></div>
+              <div class="tc-cms__ni"><i class="fas fa-gear"></i></div>
+            </aside>
+            <div class="tc-cms__main">
+              <div class="tc-cms__bar">
+                <span class="tc-cms__bar-icon"><i class="fab fa-wordpress-simple"></i></span>
+                <span class="tc-cms__bar-spacer"></span>
+                <span class="tc-cms__bar-btn">Publié ✓</span>
+              </div>
+              <div class="tc-cms__canvas">
+                <div class="tc-cms__block tc-cms__block--hero"></div>
+                <div class="tc-cms__block tc-cms__block--txt"></div>
+                <div class="tc-cms__block-cols">
+                  <div class="tc-cms__block"></div>
+                  <div class="tc-cms__block"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Cell 2: Shopify / WooCommerce -->
+        <div class="tech-cell">
+          <div class="tc tc-shop">
+            <div class="tc-shop__header">
+              <span class="tc-shop__logo">
+                <i class="fab fa-shopify"></i>Shop
+              </span>
+              <span class="tc-shop__cart">
+                <i class="fas fa-bag-shopping"></i>
+                <span class="tc-shop__badge">3</span>
+              </span>
+            </div>
+            <div class="tc-shop__grid">
+              <div class="tc-shop__prod">
+                <div class="tc-shop__img"></div>
+                <div class="tc-shop__info">
+                  <div class="tc-shop__name"></div>
+                  <div class="tc-shop__price"></div>
+                </div>
+              </div>
+              <div class="tc-shop__prod">
+                <div class="tc-shop__img" style="background:var(--acc);background-image:none"></div>
+                <div class="tc-shop__info">
+                  <div class="tc-shop__name"></div>
+                  <div class="tc-shop__price"></div>
+                </div>
+              </div>
+              <div class="tc-shop__prod">
+                <div class="tc-shop__img"></div>
+                <div class="tc-shop__info">
+                  <div class="tc-shop__name"></div>
+                  <div class="tc-shop__price"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Cell 3: Google Ads / Meta Ads -->
+        <div class="tech-cell">
+          <div class="tc tc-ads">
+            <span class="tc-ads__demo">exemple d’interface</span>
+            <div class="tc-ads__metrics">
+              <div class="tc-ads__metric">
+                <span class="tc-ads__metric-val" style="color:#4285F4">12.4K</span>
+                <span class="tc-ads__metric-lbl">Clicks</span>
+              </div>
+              <div class="tc-ads__metric">
+                <span class="tc-ads__metric-val">248</span>
+                <span class="tc-ads__metric-lbl">Conversions</span>
+              </div>
+              <div class="tc-ads__metric">
+                <span class="tc-ads__metric-val" style="color:#34A853">62</span>
+                <span class="tc-ads__metric-lbl">Leads</span>
+              </div>
+            </div>
+            <div class="tc-ads__chart">
+              <div class="tc-ads__bar" style="height:30%"></div>
+              <div class="tc-ads__bar" style="height:48%"></div>
+              <div class="tc-ads__bar" style="height:38%"></div>
+              <div class="tc-ads__bar" style="height:62%"></div>
+              <div class="tc-ads__bar tc-ads__bar--acc" style="height:55%"></div>
+              <div class="tc-ads__bar tc-ads__bar--acc" style="height:82%"></div>
+              <div class="tc-ads__bar tc-ads__bar--acc" style="height:96%"></div>
+            </div>
+            <div class="tc-ads__logos">
+              <span class="tc-ads__plat" style="--c:#4285F4">
+                <i class="fab fa-google"></i>Google Ads
+              </span>
+              <span class="tc-ads__plat" style="--c:#0866FF">
+                <i class="fab fa-meta"></i>Meta Ads
+              </span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Cell 4: Email Marketing — Klaviyo / Mailchimp -->
+        <div class="tech-cell">
+          <div class="tc tc-email">
+            <div class="tc-email__window">
+              <div class="tc-email__chrome">
+                <span class="sd-dot"></span>
+                <span class="sd-dot"></span>
+                <span class="sd-dot"></span>
+                <span class="tc-email__chrome-from">newsletter@visience.ro</span>
+              </div>
+              <div class="tc-email__header">
+                <i class="fas fa-envelope-open-text"></i>
+                <span class="tc-email__header-txt"></span>
+              </div>
+              <div class="tc-email__body-rows">
+                <div class="tc-email__row"></div>
+                <div class="tc-email__row"></div>
+                <div class="tc-email__row"></div>
+              </div>
+              <div class="tc-email__cta">Voir l’offre →</div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<!-- ══════ 11. FAQ — AEO (răspunsuri extractabile) ══════ -->
+<section class="faq" id="questions" aria-labelledby="faq-h">
+  <div class="wrap">
+    <div class="faq__head rv">
+      <h2 class="dd dd-lg" id="faq-h">Ce que veulent savoir<br>nos clients</h2>
+    </div>
+
+    <div class="faq__list rv rv-d1">
+
+      <details class="faq-item" open>
+        <summary class="faq-q">Combien coûte la création d’un site web chez Visience ?</summary>
+        <div class="faq-a">
+          Un site vitrine standard démarre à <strong>750€</strong>, un site avancé à <strong>1.200€</strong>, et un site premium avec design sur mesure à <strong>2.500€</strong>. Le prix final dépend du nombre de pages, des fonctionnalités et du niveau de personnalisation. Chaque devis est réglé sur vos objectifs, pas sur des forfaits figés.
+        </div>
+      </details>
+
+      <details class="faq-item">
+        <summary class="faq-q">Combien coûte une boutique en ligne ?</summary>
+        <div class="faq-a">
+          Une boutique en ligne sur WooCommerce ou Shopify démarre à <strong>1.000€</strong> pour le pack Basic, <strong>1.800€</strong> pour Standard et <strong>3.500€</strong> pour Premium. Toutes incluent les produits, le paiement en ligne, la livraison automatisée et la possibilité d’intégration avec Google et Meta Ads.
+        </div>
+      </details>
+
+      <details class="faq-item">
+        <summary class="faq-q">Que comprend un projet de branding ?</summary>
+        <div class="faq-a">
+          Un projet de branding comprend le logo, le ton de communication et l’identité visuelle pour l’online et l’offline. Le pack Standard, avec brand book complet, démarre à <strong>1.200€</strong>, et le Premium, avec BrandBook étendu et animation de logo, à <strong>2.500€</strong>.
+        </div>
+      </details>
+
+      <details class="faq-item">
+        <summary class="faq-q">Combien coûtent les prestations de SEO ?</summary>
+        <div class="faq-a">
+          Le SEO technique ponctuel est facturé <strong>60 €/heure</strong>, et la stratégie SEO mensuelle continue (on-page, off-page, contenu et netlinking) démarre à <strong>600 €/mois</strong>, avec un minimum de 6 mois. Pour les boutiques en ligne, l’optimisation SEO complète démarre à <strong>1.500€</strong>.
+        </div>
+      </details>
+
+      <details class="faq-item">
+        <summary class="faq-q">Dans quelles villes Visience travaille-t-elle ?</summary>
+        <div class="faq-a">
+          Visience a son siège à <strong>Iași</strong> et travaille avec des clients dans toute la Roumanie, dont Bucarest, Timișoara, Cluj-Napoca, Suceava et Bacău. Les projets se déroulent entièrement en ligne, sans besoin de présence physique.
+        </div>
+      </details>
+
+      <details class="faq-item">
+        <summary class="faq-q">Sur quelles plateformes Visience construit-elle les sites ?</summary>
+        <div class="faq-a">
+          Nous construisons sur <strong>WordPress</strong> (Oxygen Builder, Elementor), <strong>Shopify</strong>, <strong>WooCommerce</strong> et <strong>Webflow</strong>, ainsi que sur des solutions sur mesure. Nous choisissons la plateforme selon les besoins du projet et l’écosystème que le client connaît déjà.
+        </div>
+      </details>
+
+      <details class="faq-item">
+        <summary class="faq-q">Combien de temps prend la réalisation d’un site web ?</summary>
+        <div class="faq-a">
+          Cela dépend du nombre de pages et de la vitesse à laquelle nous recevons les textes et les photos. Le délai exact, nous vous le donnons dans le devis, après avoir vu le projet, et nous le tenons.<strong>2–4 semaines</strong>, et un projet premium ou une boutique en ligne complexe en <strong>4–8 semaines</strong>, selon le volume de contenu et les fonctionnalités.
+        </div>
+      </details>
+
+    </div>
+  </div>
+</section>
+
+
+<!-- ══════ 12. MARQUEE ══════ -->
+<div class="marquee-sec" aria-hidden="true">
+  <p class="mq-lbl">Clients représentatifs</p>
+  <div class="mq-wrap">
+    <div class="mq-fl"></div>
+    <div class="mq-fr"></div>
+    <div class="mq-track">
+      <div class="mq-item">
+        <span>Picolina Bucium</span><span class="mq-dot"></span>
+        <span>Armur Design</span><span class="mq-dot"></span>
+        <span>Casa Vatra</span><span class="mq-dot"></span>
+        <span>Amodelic</span><span class="mq-dot"></span>
+        <span>Euro Taxi Iași</span><span class="mq-dot"></span>
+        <span>Velomed</span><span class="mq-dot"></span>
+        <span>Grand Beetle</span>
+      </div>
+      <div class="mq-item" aria-hidden="true">
+        <span>Picolina Bucium</span><span class="mq-dot"></span>
+        <span>Armur Design</span><span class="mq-dot"></span>
+        <span>Casa Vatra</span><span class="mq-dot"></span>
+        <span>Amodelic</span><span class="mq-dot"></span>
+        <span>Euro Taxi Iași</span><span class="mq-dot"></span>
+        <span>Velomed</span><span class="mq-dot"></span>
+        <span>Grand Beetle</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+<!-- ══════ CONTACT FORM ══════ -->
+<section class="contact-sec" id="contact" aria-labelledby="cont-h">
+  <div class="wrap">
+    <div class="contact-sec__in">
+
+      <div class="rv">
+        <h2 class="dd dd-lg" id="cont-h" style="margin-bottom:16px">
+          Construisons ensemble<br>quelque chose de grand.
+        </h2>
+        <p class="body-lg" style="margin-bottom:28px">
+          Parlez-nous de votre projet. Vous recevez une analyse gratuite sous 24 heures maximum, sans engagement.
+        </p>
+        <div class="contact-feats">
+          <div class="cf-feat"><span class="cf-feat-dot">✓</span>Réponse sous 24 heures maximum</div>
+          <div class="cf-feat"><span class="cf-feat-dot">✓</span>Analyse gratuite de votre présence digitale</div>
+          <div class="cf-feat"><span class="cf-feat-dot">✓</span>Devis personnalisé sans obligation</div>
+        </div>
+        <div style="margin-top:26px">
+          <!-- Google Calendar Appointment Scheduling begin -->
+          <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+          <script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+          <script>
+          (function() {
+            var target = document.currentScript;
+            window.addEventListener('load', function() {
+              calendar.schedulingButton.load({
+                url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ0wXBGc681ISVmT6Qa807ODgCcpYCcigeyyMxXcnUVZbUupykCBGYV0J2VxzM1IjMA8LkwuHiyR?gv=true',
+                color: '#9BC31A',
+                label: "Réservez un appel",
+                target,
+              });
+            });
+          })();
+          </script>
+          <!-- end Google Calendar Appointment Scheduling -->
+        </div>
+      </div>
+
+      <div class="cf-box rv rv-d1">
+        <form action="/contact.php" method="post"
+              class="wpcf7-form init"
+              aria-label="Formulaire de contact"
+              novalidate
+              data-status="init">
+
+          <input type="hidden" name="pagina" value="fr-home">
+          <p style="position:absolute;left:-9999px" aria-hidden="true">
+            <label>Ne remplissez pas ce champ : <input type="text" name="adresa-web" tabindex="-1" autocomplete="off"></label>
+          </p>
+
+          <p>
+            <span class="wpcf7-form-control-wrap" data-name="your-email">
+              <input type="email" name="your-email" aria-label="Email" placeholder=" "
+                     size="40" maxlength="400"
+                     class="wpcf7-form-control wpcf7-email wpcf7-text wpcf7-validates-as-email"
+                     autocomplete="email" aria-invalid="false" value="">
+              <span class="floating-label">Email</span>
+            </span>
+            <span class="wpcf7-form-control-wrap" data-name="tel-626">
+              <input type="tel" name="tel-626" aria-label="Téléphone" placeholder=" "
+                     size="40" maxlength="400"
+                     class="wpcf7-form-control wpcf7-tel wpcf7-text wpcf7-validates-as-tel"
+                     aria-required="true" aria-invalid="false" value="">
+              <span class="floating-label">Téléphone <span style="color:var(--acc-deep)">*</span></span>
+            </span>
+            <span class="wpcf7-form-control-wrap" data-name="text-477">
+              <input type="text" name="text-477" aria-label="Détails du projet" placeholder=" "
+                     size="40" maxlength="400"
+                     class="wpcf7-form-control wpcf7-text"
+                     aria-invalid="false" value="">
+              <span class="floating-label">Détails du projet</span>
+            </span>
+          </p>
+          <p>
+            <span class="wpcf7-form-control-wrap" data-name="your-subject">
+              <input type="text" name="your-subject" aria-label="Quand vous contacter ?" placeholder=" "
+                     size="40" maxlength="400"
+                     class="wpcf7-form-control wpcf7-text"
+                     aria-invalid="false" value="">
+              <span class="floating-label">Quand vous contacter ?</span>
+            </span>
+          </p>
+          <p>
+            <input class="wpcf7-form-control wpcf7-submit has-spinner"
+                   type="submit" value="Envoyer le message">
+            <span class="wpcf7-spinner" aria-hidden="true"></span>
+          </p>
+          <div class="wpcf7-response-output" aria-hidden="true"></div>
+        </form>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+</div><!-- /.vis-home -->
 3:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$5"}}]
 4:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null
