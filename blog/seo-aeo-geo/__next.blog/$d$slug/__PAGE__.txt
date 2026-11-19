@@ -1,0 +1,120 @@
+1:"$Sreact.fragment"
+d:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+:HL["/_next/static/chunks/28or4npab1wgt.css","style"]
+2:Tae7,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/seo-aeo-geo/#article","headline":"SEO, AEO și GEO: trei feluri de a apărea în căutările de azi","description":"Ce înseamnă SEO, AEO și GEO, unde apare firma ta în fiecare caz, ce obiecții au specialiștii și ce faci concret ca să fii găsit și recomandat de AI.","datePublished":"2026-11-19","dateModified":"2026-11-19","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/seo-aeo-geo/","articleSection":"SEO","image":"https://visience.ro/media/w-b7-seo-aeo-geo.avif"},{"@type":"FAQPage","@id":"https://visience.ro/blog/seo-aeo-geo/#faq","mainEntity":[{"@type":"Question","name":"Ce este AEO?","acceptedAnswer":{"@type":"Answer","text":"AEO vine de la „answer engine optimization” și înseamnă pregătirea paginilor ca să fie folosite în răspunsurile scrise deasupra rezultatelor Google sau în alte motoare care dau răspunsuri directe."}},{"@type":"Question","name":"Ce este GEO?","acceptedAnswer":{"@type":"Answer","text":"GEO vine de la „generative engine optimization” și înseamnă ca firma ta să fie recomandată pe nume de asistenții AI, ca ChatGPT, Gemini sau Perplexity, atunci când cineva le cere o recomandare."}},{"@type":"Question","name":"Mai are rost SEO-ul clasic?","acceptedAnswer":{"@type":"Answer","text":"Da. Google spune că paginile care apar în răspunsurile AI sunt alese din cele indexate în căutarea obișnuită, iar asistenții AI preiau informații tot de pe site-uri. Fără SEO, celelalte două nu au de unde să te găsească."}},{"@type":"Question","name":"Ce este fișierul llms.txt?","acceptedAnswer":{"@type":"Answer","text":"Este un fișier text pus la rădăcina site-ului, propus în 2024, care descrie pe scurt firma și paginile importante. Nu este un standard și nu toate motoarele îl citesc, dar se face ușor și nu strică nimic."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"SEO, AEO și GEO: trei feluri de a apărea în căutările de azi","item":"https://visience.ro/blog/seo-aeo-geo/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"SEO, AEO și GEO: trei feluri de a apărea în căutările de azi"}],["$","div",null,{"className":"blog-article__meta","children":["$L3","$L4","$L5"]}]]}],"$L6","$L7","$L8","$L9"]}]}]],["$La"],"$Lb"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-UGpSIWYU_JvT1xtnH8pL"}
+3:["$","span",null,{"className":"blog-article__cat","children":"SEO"}]
+4:["$","time",null,{"dateTime":"2026-11-19","children":"19 noiembrie 2026"}]
+5:["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]
+c:T264b,<style>
+.ag-sumar { border-left: 3px solid #9BC31A; padding: 4px 0 4px 22px; margin: 30px 0 34px; list-style: none; }
+.ag-sumar li { margin-bottom: 11px; }
+.ag-sursa { background: #F5F5F7; border-radius: 14px; padding: 18px 22px; margin: 26px 0; font-size: 15px; line-height: 1.65; }
+.ag-tab td:first-child { font-weight: 600; color: var(--ink); white-space: nowrap; }
+.ag-nota { background: #111010; color: #fff; border-radius: 14px; padding: 20px 24px; margin: 28px 0; font-size: 15px; line-height: 1.65; }
+.ag-nota b { color: #9BC31A; display: block; font-size: 11px; letter-spacing: .16em; text-transform: uppercase; margin-bottom: 7px; }
+</style>
+
+<p class="key-answer"><strong>SEO</strong> înseamnă să apari în lista de rezultate Google. <strong>AEO</strong> înseamnă să apari în răspunsul pe care Google îl scrie deasupra rezultatelor. <strong>GEO</strong> înseamnă să fii recomandat pe nume de ChatGPT, Gemini sau Perplexity. Toate trei pornesc de la același lucru: un site clar, cu informații verificabile, și o firmă despre care se vorbește și în afara site-ului ei.</p>
+
+<ul class="ag-sumar">
+  <li><b>SEO</b> aduce vizitatori din lista de linkuri și rămâne baza pentru celelalte două.</li>
+  <li><b>AEO</b> te pune în răspunsul scurt de sus, unde ajung paginile care răspund direct la întrebare.</li>
+  <li><b>GEO</b> te face să fii unul dintre cele două sau trei nume pe care un asistent AI le dă când cineva cere o recomandare.</li>
+</ul>
+
+<figure class="post-img">
+  <img src="/media/w-b7-seo-aeo-geo.avif" alt="SEO, AEO și GEO: apari în lista Google, apari în răspunsul AI de sus sau ești recomandat de asistenții AI" width="1200" height="1200" loading="eager">
+</figure>
+
+<div class="ag-sursa">Am pornit de la o postare publicată pe 12 noiembrie 2026 de Chase H. Dimond, un marketer american care lucrează cu magazine online. Postarea a strâns peste 3.000 de reacții, aproximativ 1.500 de distribuiri și aproape o sută de comentarii. Am citit descrierea, imaginea și comentariile, apoi am adaptat ideile pentru firmele din România. <a href="https://www.facebook.com/photo.php?fbid=10246241382555060" target="_blank" rel="noopener nofollow">Postarea originală</a> este în engleză.</div>
+
+<h2 id="ce-inseamna">Ce înseamnă fiecare</h2>
+<p>Cele trei denumiri descriu locul în care te găsește omul, nu trei meserii diferite. Tabelul de mai jos le pune una lângă alta.</p>
+<div class="tbl-wrap">
+<table class="ag-tab">
+  <thead>
+    <tr><th></th><th>SEO</th><th>AEO</th><th>GEO</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Unde apari</td><td>În lista de rezultate Google</td><td>În răspunsul scris deasupra rezultatelor</td><td>În răspunsul unui asistent AI, ca ChatGPT sau Gemini</td></tr>
+    <tr><td>Ce primește omul</td><td>Zece linkuri pe care le compară singur</td><td>Un răspuns scurt, cu câteva surse</td><td>Două sau trei nume recomandate</td></tr>
+    <tr><td>Ce contează</td><td>Paginile, viteza, legăturile de pe alte site-uri</td><td>Răspunsuri directe, întrebări frecvente, comparații</td><td>Recenzii, mențiuni în presă și pe forumuri, aceleași date peste tot</td></tr>
+    <tr><td>Cum verifici</td><td>Poziția și traficul din Search Console</td><td>Cauți întrebarea și vezi dacă ești printre surse</td><td>Pui întrebarea asistentului și vezi dacă îți dă numele</td></tr>
+  </tbody>
+</table>
+</div>
+
+<h2 id="drumul-clientului">Ce s-a schimbat în drumul clientului</h2>
+<p>Înainte, cine căuta o firmă scria în Google, deschidea câteva dintre cele zece rezultate și cerea o ofertă. Autorul postării spune că acum oamenii întreabă un asistent AI și au încredere în primul răspuns.</p>
+<figure>
+  <img src="/media/w-b7-drumul-clientului.avif" alt="Drumul clientului înainte și acum: de la căutarea pe Google la întrebarea pusă unui asistent AI, urmată de verificarea pe Google și în recenzii" width="1200" height="750" loading="lazy">
+</figure>
+<p>Unul dintre comentariile de sub postare nuanțează ideea. Omul cere asistentului o listă scurtă, apoi caută firmele în Google, citește recenziile și compară prețurile înainte să scrie cuiva. Drumul nu s-a scurtat, s-a lungit cu un pas. De aceea firma trebuie să fie găsită în ambele locuri, cu aceleași informații.</p>
+
+<h2 id="comentariile">Ce spun comentariile</h2>
+<p>Discuția de sub postare e utilă pentru că arată și obiecțiile, nu doar entuziasmul. Am adunat cele cinci idei care apar cel mai des.</p>
+<ol>
+  <li><b>Mulți spun că AEO și GEO sunt tot SEO.</b> Google spune același lucru în <a href="https://developers.google.com/search/docs/appearance/ai-features" target="_blank" rel="noopener">ghidul despre funcțiile AI din căutare</a>: ca să apari în răspunsurile AI nu ai nevoie de altceva decât de regulile obișnuite de SEO, iar pagina trebuie doar să fie indexată și să poată apărea cu fragment de text.</li>
+  <li><b>Denumirile nu sunt încă fixate.</b> Unii comentatori consideră că AEO și GEO sunt același lucru. Alții folosesc AIO sau „optimizare pentru căutare peste tot”. Pentru o firmă contează mai puțin cum se numește și mai mult ce se face.</li>
+  <li><b>Firmele mici se tem că rămân pe dinafară.</b> Dacă asistentul dă doar două nume, ceilalți opt nu mai primesc nicio vizită. Unii se așteaptă ca recomandările să devină, cu timpul, plătite.</li>
+  <li><b>Mențiunile devin noul link building.</b> Un comentariu observă că firme cu poziții medii în Google sunt totuși recomandate, pentru că apar des în recenzii, pe forumuri și în publicații de nișă.</li>
+  <li><b>Nu există o poziție de urmărit.</b> În Google vezi locul pe care îl ocupi. La un asistent AI trebuie să pui singur întrebările și să notezi dacă apari.</li>
+</ol>
+
+<h2 id="ce-faci">Ce faci concret, pe fiecare</h2>
+
+<h3>SEO, adică baza</h3>
+<ul>
+  <li>Faci câte o pagină pentru fiecare serviciu și, unde lucrezi în mai multe orașe, câte o pagină pentru fiecare oraș.</li>
+  <li>Verifici în Search Console că paginile sunt indexate și că site-ul se încarcă repede pe telefon.</li>
+  <li>Adaugi date structurate, ca Google să înțeleagă cine ești, unde ești și ce oferi.</li>
+</ul>
+
+<h3>AEO, adică răspunsul de sus</h3>
+<ul>
+  <li>Scrii răspunsul la întrebare în primele două propoziții ale paginii, apoi detaliile.</li>
+  <li>Pui pe fiecare pagină de serviciu întrebările pe care ți le pun clienții la telefon, cu răspunsuri scurte.</li>
+  <li>Faci pagini de comparație și pagini „cât costă”, cu tabele scrise ca text, nu ca imagini.</li>
+</ul>
+
+<h3>GEO, adică recomandarea pe nume</h3>
+<ul>
+  <li>Completezi profilul Google Business și ceri recenzii de la fiecare client mulțumit.</li>
+  <li>Folosești același nume, aceeași adresă și același telefon pe site, pe hartă, în anuarele de firme și pe rețelele sociale.</li>
+  <li>Cauți mențiuni în presa locală, în ghiduri de domeniu și pe site-urile partenerilor. Asistenții AI recomandă ce văd recomandat și în alte locuri.</li>
+</ul>
+
+<div class="ag-nota"><b>De reținut</b>Un asistent AI nu poate recomanda o firmă despre care nu găsește informații clare. Prețurile publice, serviciile scrise explicit și recenziile reale sunt exact informațiile pe care le preia.</div>
+
+<h2 id="cum-verifici">Cum verifici dacă asistenții AI te recomandă</h2>
+<ol>
+  <li>Scrii zece întrebări pe care le-ar pune un client, de exemplu „ce firmă de zugrăveli din Iași îmi recomanzi”.</li>
+  <li>Le pui o dată pe lună în ChatGPT, Gemini și Perplexity, apoi în Google, și notezi dacă apari și cu ce informații.</li>
+  <li>În Google Analytics urmărești vizitele venite de pe chatgpt.com, gemini.google.com și perplexity.ai.</li>
+  <li>Dacă asistentul spune ceva greșit despre firmă, corectezi informația pe site și în profilurile publice, pentru că de acolo o preia.</li>
+</ol>
+
+<h2 id="pe-visience">Ce am făcut pe visience.ro</h2>
+<p>Am aplicat aceleași reguli pe site-ul nostru. Toate prețurile sunt publice, pe <a href="/preturi/">pagina de prețuri</a>. Avem o <a href="/cine-iti-face-site-ul/">pagină care compară într-un tabel</a> patru feluri de a-ți face site-ul. Fiecare pagină de serviciu are întrebări frecvente și date structurate, iar site-ul are un fișier llms.txt, o propunere de format prin care asistenții AI pot afla mai ușor ce face firma. Dacă vrei același lucru pentru firma ta, găsești detaliile pe pagina de <a href="/optimizare-seo/">SEO</a> sau ne poți <a href="/contact/">scrie direct</a>.</p>
+
+<h2 id="intrebari">Întrebări frecvente</h2>
+
+<h3>Ce este AEO?</h3>
+<p>AEO vine de la „answer engine optimization” și înseamnă pregătirea paginilor ca să fie folosite în răspunsurile scrise deasupra rezultatelor Google sau în alte motoare care dau răspunsuri directe.</p>
+
+<h3>Ce este GEO?</h3>
+<p>GEO vine de la „generative engine optimization” și înseamnă ca firma ta să fie recomandată pe nume de asistenții AI, ca ChatGPT, Gemini sau Perplexity, atunci când cineva le cere o recomandare.</p>
+
+<h3>Mai are rost SEO-ul clasic?</h3>
+<p>Da. Google spune că paginile care apar în răspunsurile AI sunt alese din cele indexate în căutarea obișnuită, iar asistenții AI preiau informații tot de pe site-uri. Fără SEO, celelalte două nu au de unde să te găsească.</p>
+
+<h3>Ce este fișierul llms.txt?</h3>
+<p>Este un fișier text pus la rădăcina site-ului, propus în 2024, care descrie pe scurt firma și paginile importante. Nu este un standard și nu toate motoarele îl citesc, dar se face ușor și nu strică nimic.</p>
+6:["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$c"}}]
+7:["$","div",null,{"className":"parere","children":[["$","span",null,{"className":"parere__q","children":"Ți-a fost utilă pagina?"}],["$","div",null,{"className":"parere__btns","children":[["$","button",null,{"type":"button","data-nota":"da","children":"Da"}],["$","button",null,{"type":"button","data-nota":"partial","children":"Parțial"}],["$","button",null,{"type":"button","data-nota":"nu","children":"Nu"}]]}],["$","div",null,{"className":"parere__extra","hidden":true,"children":["$","form",null,{"children":[["$","textarea",null,{"rows":2,"placeholder":"Ce ai fi vrut să găsești aici? (opțional)"}],["$","button",null,{"className":"btn btn-solid","type":"submit","children":"Trimite"}]]}]}]]}]
+8:["$","div",null,{"className":"blog-author","children":[["$","span",null,{"className":"blog-author__ava","aria-hidden":"true","children":"V"}],["$","div",null,{"className":"blog-author__body","children":[["$","span",null,{"className":"blog-author__name","children":"Vlad Roman"}],["$","span",null,{"className":"blog-author__role","children":["Fondator Visience · ",["$","a",null,{"href":"https://www.linkedin.com/in/roman-vladut-constantin/","target":"_blank","rel":"noopener","className":"blog-author__link","children":"LinkedIn ↗"}]]}],["$","p",null,{"className":"blog-author__bio","children":"Conduce Visience, agenția de web design și marketing digital din Iași. Scrie despre creare de site-uri, SEO și cum își cresc afacerile mici și mijlocii prezența online."}]]}]]}]
+9:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/28or4npab1wgt.css","precedence":"next"}]
+b:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+f:null
