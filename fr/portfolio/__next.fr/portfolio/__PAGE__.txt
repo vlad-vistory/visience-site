@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:Tea5b,<style>
+2:Tef16,<style>
 /* PROJECT CARDS — pj-* (reused din home) */
 .pj-card {
   padding: 10px;
@@ -898,6 +898,19 @@
       <div class="pf-web-grid rv rv-d2">
 
         <div class="pf-web-card">
+          <a class="pf-web-card__link" href="https://cprint.ro/" target="_blank" rel="noopener" aria-label="Voir le site CPrint">
+            <div class="pf-web-card__img">
+            <img src="/media/tiles/v3/cprint.avif" alt="CPrint — projet réalisé par Visience" width="720" height="900" loading="lazy">
+          </div>
+            <div class="pf-web-card__body">
+              <h3 class="pf-web-card__title">CPrint</h3>
+              <span class="pf-web-card__more">Voir le site <span aria-hidden="true">→</span></span>
+            </div>
+          </a>
+          <a class="pf-web-card__url" href="https://cprint.ro/" target="_blank" rel="noopener">cprint.ro ↗</a>
+        </div>
+
+        <div class="pf-web-card">
           <a class="pf-web-card__link" href="/fr/projets/house-vision/" aria-label="Voir le projet House Vision">
             <div class="pf-web-card__img">
             <img src="/media/tiles/v3/house-vision.avif" alt="House Vision — projet réalisé par Visience" width="720" height="900" loading="lazy">
@@ -1271,6 +1284,14 @@
 
       <div class="pf-clients-grid rv rv-d2">
 
+        <a href="https://cprint.ro/" target="_blank" rel="noopener" class="pf-client-card">
+          <div class="pf-client-card__logo">
+            <img src="/media/cprint-logo.avif" alt="Logo CPrint, imprimerie et cadeaux personnalisés à Dorohoi" loading="lazy">
+          </div>
+          <h4 class="pf-client-card__name">CPrint</h4>
+          <p class="pf-client-card__desc">Imprimerie à Dorohoi qui réalise des cadeaux personnalisés</p>
+        </a>
+
         <a href="https://housevision.ro/" target="_blank" rel="noopener" class="pf-client-card">
           <div class="pf-client-card__logo">
             <img src="/media/house-vision-logo.avif" alt="Logo House Vision, maisons à étage à Miroslava" loading="lazy">
@@ -1430,6 +1451,6 @@
   </div>
 </section>
 </main>
-0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://visience.ro/fr/portfolio/#webpage\",\"url\":\"https://visience.ro/fr/portfolio/\",\"name\":\"Portfolio Visience\",\"description\":\"Une sélection de projets web, branding, réseaux sociaux et marketing réalisés par Visience pour des clients en Roumanie, en Italie, en France et en Allemagne.\",\"inLanguage\":\"fr\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Accueil\",\"item\":\"https://visience.ro/fr/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Portfolio\",\"item\":\"https://visience.ro/fr/portfolio/\"}]}]}"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"mOqqnhCJwiR3JScfduUNV"}
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://visience.ro/fr/portfolio/#webpage\",\"url\":\"https://visience.ro/fr/portfolio/\",\"name\":\"Portfolio Visience\",\"description\":\"Une sélection de projets web, branding, réseaux sociaux et marketing réalisés par Visience pour des clients en Roumanie, en Italie, en France et en Allemagne.\",\"inLanguage\":\"fr\"},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Accueil\",\"item\":\"https://visience.ro/fr/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Portfolio\",\"item\":\"https://visience.ro/fr/portfolio/\"}]}]}"}}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HYD3y-mX9kBxpOlSeW9dK"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
