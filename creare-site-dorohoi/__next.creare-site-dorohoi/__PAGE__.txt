@@ -1,0 +1,242 @@
+1:"$Sreact.fragment"
+7:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["/_next/static/chunks/2e20r-1ylhx8v.css","style"]
+2:T1457,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/creare-site-dorohoi/#service","name":"Creare site și logo în Dorohoi","serviceType":"Creare site de prezentare, magazin online și logo","description":"Creare site și logo în Dorohoi: site de prezentare de la 750€, logo de la 500€, magazin online de la 1.000€. Agenție din Iași, cu client în Dorohoi.","url":"https://visience.ro/creare-site-dorohoi/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"City","name":"Dorohoi"},{"@type":"Country","name":"România"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"300","highPrice":"3500","offerCount":"9"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Prețuri site, magazin online și logo","itemListElement":[{"@type":"Offer","name":"Landing page de campanie","price":"500","priceCurrency":"EUR","description":"O pagină pentru reclame, cu formular și măsurarea conversiilor.","itemOffered":{"@type":"Service","name":"Landing page de campanie"}},{"@type":"Offer","name":"Website Basic","price":"750","priceCurrency":"EUR","description":"Până la 6 pagini, blog, galerie, GDPR și cookies, SEO de bază.","itemOffered":{"@type":"Service","name":"Website Basic"}},{"@type":"Offer","name":"Website Standard","price":"1200","priceCurrency":"EUR","description":"Design după analiza concurenței, SEO on-site complet, 10 pagini pe orașe sau cartiere, 10 articole.","itemOffered":{"@type":"Service","name":"Website Standard"}},{"@type":"Offer","name":"Website Premium","price":"2500","priceCurrency":"EUR","description":"Trei variante de design pentru prima pagină, animații, analiza publicului, texte scrise pentru Google.","itemOffered":{"@type":"Service","name":"Website Premium"}},{"@type":"Offer","name":"Magazin online Basic","price":"1000","priceCurrency":"EUR","description":"Plată cu cardul, transfer și ramburs, transport configurat.","itemOffered":{"@type":"Service","name":"Magazin online Basic"}},{"@type":"Offer","name":"Logo Basic","price":"500","priceCurrency":"EUR","description":"Logo unic, o revizie, variantă monocromă și negativă, cu și fără slogan.","itemOffered":{"@type":"Service","name":"Logo Basic"}},{"@type":"Offer","name":"Branding Standard","price":"1200","priceCurrency":"EUR","description":"Trei variante de logo, trei revizii, identitate completă, carte de vizită, dosar și antet.","itemOffered":{"@type":"Service","name":"Branding Standard"}},{"@type":"Offer","name":"Branding Premium","price":"2500","priceCurrency":"EUR","description":"Tot din Standard, plus șase revizii, animația logo-ului, flyer, banner social și brand book complet.","itemOffered":{"@type":"Service","name":"Branding Premium"}},{"@type":"Offer","name":"Profil Google Business","price":"300","priceCurrency":"EUR","description":"Google Business creat și verificat, descriere și imagini optimizate, conturi social media configurate.","itemOffered":{"@type":"Service","name":"Profil Google Business"}}]}},{"@type":"FAQPage","@id":"https://visience.ro/creare-site-dorohoi/#faq","mainEntity":[{"@type":"Question","name":"Lucrați cu firme din Dorohoi, deși sunteți în Iași?","acceptedAnswer":{"@type":"Answer","text":"Da. În Dorohoi am refăcut magazinul online al tipografiei CPrint. Lucrăm la telefon, pe e-mail și prin apeluri video, de la prima discuție până la lansare."}},{"@type":"Question","name":"Cât costă un site pentru o firmă din Dorohoi?","acceptedAnswer":{"@type":"Answer","text":"500€ un landing page de campanie, 750€ Website Basic, 1.200€ Website Standard și 2.500€ Website Premium. Se adaugă domeniul, 15€, și găzduirea, 85€ pe an. Prețurile sunt aceleași pentru toate orașele."}},{"@type":"Question","name":"Cât costă un logo?","acceptedAnswer":{"@type":"Answer","text":"Logo Basic costă 500€, cu o revizie și toate variantele pentru tipar și online. Branding Standard costă 1.200€ și adaugă trei variante de logo, identitatea completă și cartea de vizită. Branding Premium costă 2.500€ și include brand book-ul complet și animația logo-ului."}},{"@type":"Question","name":"Pot să am și magazin online?","acceptedAnswer":{"@type":"Answer","text":"Da. Magazinul online costă 1.000€ varianta Basic, 1.800€ varianta Standard și 3.500€ varianta Premium. Adăugarea produselor se negociază separat."}},{"@type":"Question","name":"Ce plătesc în fiecare an după ce site-ul e gata?","acceptedAnswer":{"@type":"Answer","text":"Plătești domeniul și găzduirea, adică 100€ pe an. Mentenanța e opțională și pornește de la 100€ pe lună."}},{"@type":"Question","name":"Site-ul rămâne al meu?","acceptedAnswer":{"@type":"Answer","text":"Da. Site-ul e al tău din ziua livrării, fără chirie lunară. Plătești doar domeniul și găzduirea, 100€ pe an."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Servicii","item":"https://visience.ro/#servicii"},{"@type":"ListItem","position":3,"name":"Creare site Dorohoi","item":"https://visience.ro/creare-site-dorohoi/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"e1_aymowhrjQPMhQGB0EH"}
+6:T344c,<main id="main">
+
+<section class="csi-hero" aria-labelledby="csi-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="34%" x2="100%" y2="72%"/>
+      <line x1="0" y1="70%" x2="100%" y2="24%"/>
+      <line x1="26%" y1="0" x2="80%" y2="100%"/>
+      <line x1="74%" y1="0" x2="20%" y2="100%"/>
+    </svg>
+  </div>
+  <div class="wrap">
+    <nav class="csi-breadcrumbs" aria-label="Breadcrumbs">
+      <a href="/">Acasă</a><span class="sep">/</span>
+      <a href="/#servicii">Servicii</a><span class="sep">/</span>
+      <span>Creare site Dorohoi</span>
+    </nav>
+
+    <h1 class="csi-hero__h1" id="csi-h1">
+      Creare site și logo<br>
+      <span class="acc">în Dorohoi</span>
+    </h1>
+
+    <p class="csi-hero__lead">Facem site-uri de prezentare, magazine online și logo-uri pentru firmele din Dorohoi. Suntem o agenție din Iași și lucrăm cu clienții din Dorohoi la telefon, pe e-mail și prin apeluri video.</p>
+
+    <div class="csi-hero__acts">
+      <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+      <a href="#preturi" class="btn btn-ghost" style="border-color:rgba(255,255,255,.25);color:#fff">Vezi prețurile</a>
+    </div>
+
+    <div class="csi-hero__stats">
+      <div class="csi-hero__stat"><span class="n">750€</span><span class="l">site de prezentare, de la</span></div>
+      <div class="csi-hero__stat"><span class="n">500€</span><span class="l">logo, de la</span></div>
+      <div class="csi-hero__stat"><span class="n">120+</span><span class="l">proiecte livrate</span></div>
+      <div class="csi-hero__stat"><span class="n">12 ani</span><span class="l">experiență web design</span></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Clientul nostru <span class="acc">din Dorohoi</span></h2>
+    </div>
+    <div class="csi-porto csi-porto--1 rv rv-d1">
+      <a class="csi-shot" href="https://cprint.ro/" target="_blank" rel="noopener">
+        <div class="csi-shot__img">
+          <img src="/media/nise/cprint.avif" alt="Magazinul online CPrint, tipografie și cadouri personalizate din Dorohoi, realizat de Visience" loading="lazy" width="1200" height="750">
+        </div>
+        <div class="csi-shot__cap"><strong>CPrint, Dorohoi</strong>Magazin online refăcut pentru o tipografie care face cadouri personalizate, cu produsele pe categorii, căutare și coș de cumpărături. Firma urmărește comenzile dintr-un panou și anunță clientul la fiecare schimbare.<span class="csi-shot__url">cprint.ro ↗</span></div>
+      </a>
+    </div>
+    <div class="csi-prose rv rv-d2" style="margin-top:40px">
+      <p>Visience are sediul în Iași, nu în Dorohoi. Discuțiile, designul și predarea se fac online, așa că nu trebuie să faci niciun drum.</p>
+      <p>Tot în județul Botoșani am lucrat la site-ul <a href="/proiecte/alfa-park-residence/">Alfa Park Residence</a>, făcut cu Vistory pentru vânzarea unităților unui ansamblu. Restul proiectelor sunt în <a href="/portofoliu/">portofoliu</a>.</p>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream" id="preturi">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Prețul unui <span class="acc">site de prezentare</span></h2>
+      <p class="body-lg" style="margin-top:14px">Prețurile sunt aceleași pentru toate orașele. Diferă câte pagini are site-ul și cât lucrăm pe design.</p>
+    </div>
+    <div class="csi-pr rv rv-d1">
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">Landing page de campanie</div>
+        <div class="csi-pr-card__price">500€</div>
+        <p class="csi-pr-card__desc">O singură pagină pentru reclame, cu formular și măsurarea conversiilor.</p>
+      </div>
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">Website Basic</div>
+        <div class="csi-pr-card__price">750€</div>
+        <p class="csi-pr-card__desc">Până la 6 pagini, cu blog, galerie, paginile pentru GDPR și cookies și SEO de bază.</p>
+      </div>
+      <div class="csi-pr-card feat">
+        <span class="csi-pr-card__badge">Cel mai ales</span>
+        <div class="csi-pr-card__name">Website Standard</div>
+        <div class="csi-pr-card__price">1.200€</div>
+        <p class="csi-pr-card__desc">Design făcut după analiza concurenței, SEO on-site complet, 10 pagini pe orașe sau cartiere și 10 articole.</p>
+      </div>
+      <div class="csi-pr-card">
+        <div class="csi-pr-card__name">Website Premium</div>
+        <div class="csi-pr-card__price">2.500€</div>
+        <p class="csi-pr-card__desc">Trei variante de design pentru prima pagină, animații, analiza publicului și texte scrise pentru Google.</p>
+      </div>
+    </div>
+    <p class="csi-pr-note rv rv-d2">
+      Se adaugă domeniul, 15€, și găzduirea, 85€ pe an. Ce plătești în primul an și în următorii e pe pagina <a href="/pret-site-de-prezentare/">preț site de prezentare</a>.
+    </p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Prețul unui <span class="acc">logo</span></h2>
+      <p class="body-lg" style="margin-top:14px">Logo-ul îl primești în toate formatele, vectorial, PNG, JPG și PDF, cu variante pentru tipar și pentru online.</p>
+    </div>
+    <div class="csi-tbl rv rv-d1">
+      <table>
+        <thead>
+          <tr><th>Variantă</th><th>Preț</th><th>Ce primești</th></tr>
+        </thead>
+        <tbody>
+          <tr><td><strong>Logo Basic</strong></td><td>500€</td><td>Un logo unic, cu o revizie, variantă monocromă, variantă negativă și variante cu și fără slogan.</td></tr>
+          <tr><td><strong>Branding Standard</strong><br>recomandat</td><td>1.200€</td><td>Trei variante de logo, trei revizii, identitatea vizuală completă, cartea de vizită, dosarul și antetul pentru documente.</td></tr>
+          <tr><td><strong>Branding Premium</strong></td><td>2.500€</td><td>Tot ce are Standard, plus șase revizii, animația logo-ului ca video și GIF, un flyer, un banner pentru rețelele sociale și brand book-ul complet.</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="csi-pr-note rv rv-d2">
+      Logo-urile făcute de noi sunt în <a href="/portofoliu/#brand">portofoliu</a>, iar procesul e pe pagina <a href="/branding-identitate-vizuala/">branding și identitate vizuală</a>.
+    </p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream2">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Magazin online și <span class="acc">profil Google Business</span></h2>
+    </div>
+    <div class="csi-types rv rv-d1">
+      <div class="csi-type">
+        <span class="csi-type__n">01</span>
+        <div>
+          <h3>Magazin online, de la 1.000€</h3>
+          <p>Varianta Basic primește comenzi cu plată cu cardul, transfer sau ramburs și are transportul configurat. Standard costă 1.800€, iar Premium 3.500€. Detaliile sunt pe pagina <a href="/pret-magazin-online/">preț magazin online</a>.</p>
+        </div>
+      </div>
+      <div class="csi-type">
+        <span class="csi-type__n">02</span>
+        <div>
+          <h3>Profil Google Business, 300€</h3>
+          <p>Creăm și verificăm profilul de Google Business și îi optimizăm descrierea și imaginile. Configurăm și paginile de pe rețelele sociale, ca firma să arate la fel peste tot.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Cum lucrăm cu <span class="acc">firmele din Dorohoi</span></h2>
+    </div>
+    <div class="csi-steps rv rv-d1">
+      <div class="csi-step"><div class="csi-step__n">PASUL 01</div><h3>Discuția</h3><p>La telefon sau într-un apel video ne spui ce face firma și cui vinde. După discuție primești oferta.</p></div>
+      <div class="csi-step"><div class="csi-step__n">PASUL 02</div><h3>Designul</h3><p>Îți trimitem designul site-ului sau variantele de logo. Le comentezi și le aprobi înainte să mergem mai departe.</p></div>
+      <div class="csi-step"><div class="csi-step__n">PASUL 03</div><h3>Construcția</h3><p>Facem paginile, punem formularele și pregătim site-ul pentru Google.</p></div>
+      <div class="csi-step"><div class="csi-step__n">PASUL 04</div><h3>Lansarea</h3><p>Punem site-ul online și îți arătăm cum schimbi singur textele și pozele.</p></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Ce ne întreabă <span class="acc">firmele din Dorohoi</span></h2>
+    </div>
+    <div class="csi-faq rv">
+      <details>
+        <summary>Lucrați cu firme din Dorohoi, deși sunteți în Iași?</summary>
+        <p>Da. În Dorohoi am refăcut magazinul online al tipografiei CPrint. Lucrăm la telefon, pe e-mail și prin apeluri video, de la prima discuție până la lansare.</p>
+      </details>
+      <details>
+        <summary>Cât costă un site pentru o firmă din Dorohoi?</summary>
+        <p>500€ un landing page de campanie, 750€ Website Basic, 1.200€ Website Standard și 2.500€ Website Premium. Se adaugă domeniul, 15€, și găzduirea, 85€ pe an. Prețurile sunt aceleași pentru toate orașele.</p>
+      </details>
+      <details>
+        <summary>Cât costă un logo?</summary>
+        <p>Logo Basic costă 500€, cu o revizie și toate variantele pentru tipar și online. Branding Standard costă 1.200€ și adaugă trei variante de logo, identitatea completă și cartea de vizită. Branding Premium costă 2.500€ și include brand book-ul complet și animația logo-ului.</p>
+      </details>
+      <details>
+        <summary>Pot să am și magazin online?</summary>
+        <p>Da. Magazinul online costă 1.000€ varianta Basic, 1.800€ varianta Standard și 3.500€ varianta Premium. Adăugarea produselor se negociază separat.</p>
+      </details>
+      <details>
+        <summary>Ce plătesc în fiecare an după ce site-ul e gata?</summary>
+        <p>Plătești domeniul și găzduirea, adică 100€ pe an. Mentenanța e opțională și pornește de la 100€ pe lună.</p>
+      </details>
+      <details>
+        <summary>Site-ul rămâne al meu?</summary>
+        <p>Da. Site-ul e al tău din ziua livrării, fără chirie lunară. Plătești doar domeniul și găzduirea, 100€ pe an.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-cta" aria-labelledby="csi-cta-h">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="dd dd-lg csi-cta__h" id="csi-cta-h">Spune-ne ce face firma ta<br><span class="acc">și îți trimitem prețul.</span></h2>
+      <p class="csi-cta__p">Scrie-ne dacă ai nevoie de site, de magazin online sau de logo. Primești în 24 de ore oferta, cu suma scrisă pe fiecare serviciu.</p>
+      <div class="csi-cta__acts">
+        <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+        <a href="tel:+40771486499" class="btn btn-dark">+40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Site-uri, logo și prețuri">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Toate prețurile noastre sunt publice, serviciu cu serviciu. Alegi în cunoștință de cauză, fără presiune.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Mai departe</div>
+      <div class="rel-links__grid">
+        <a href="/pret-site-de-prezentare/" class="rel-link"><span class="rel-link__name">Preț site de prezentare <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/pret-magazin-online/" class="rel-link"><span class="rel-link__name">Preț magazin online <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/branding-identitate-vizuala/" class="rel-link"><span class="rel-link__name">Branding și identitate vizuală <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-prezentare-iasi/" class="rel-link"><span class="rel-link__name">Creare site în Iași <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-prezentare-bacau/" class="rel-link"><span class="rel-link__name">Creare site în Bacău <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/portofoliu/" class="rel-link"><span class="rel-link__name">Portofoliu <span class="arr" aria-hidden="true">↗</span></span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+3:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$6"}}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2e20r-1ylhx8v.css","precedence":"next"}]
+5:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

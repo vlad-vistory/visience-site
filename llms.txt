@@ -12,9 +12,14 @@
 - [Acasă](https://visience.ro/): agenție de marketing digital și web design din Iași
 - [Creare site Iași](https://visience.ro/creare-site-prezentare-iasi/): agenția de web design din Iași, cu prețuri publice și exemple din oraș
 - [Reclame online în Iași](https://visience.ro/reclame-online-iasi/): campanii Google, Facebook și Instagram pe cartiere, pe județ sau pe ieșenii plecați; 200€ pe lună pe platformă (Google sau Meta), oricâte campanii, 400€ pe amândouă
+- [Design grafic Iași](https://visience.ro/design-grafic-iasi/): flyere, broșuri, bannere și roll-up-uri, gata de tipar, cu prețuri publice
+- [Email marketing](https://visience.ro/email-marketing/): campanii lunare 300€ pe lună, automatizări de la 300€ pe secvență
 - [Creare site de prezentare](https://visience.ro/creare-site-prezentare/): site-uri pentru firme, cu SEO tehnic și CMS editabil; variante locale pentru Iași, Bacău și București
+- [Creare site și logo în Dorohoi](https://visience.ro/creare-site-dorohoi/): landing page 500€, site de prezentare de la 750€, logo de la 500€, magazin online de la 1.000€, cu un client din Dorohoi
 - [Creare magazin online](https://visience.ro/creare-magazin-online/): magazine WooCommerce și Shopify, de la 1.000€
+- [Creare magazin online București](https://visience.ro/creare-magazin-online-bucuresti/): magazine WooCommerce pentru firme din București, făcute online din Iași, de la 1.000€
 - [Marketing pentru dezvoltatori imobiliari](https://visience.ro/marketing-dezvoltatori-imobiliari/): brand de ansamblu, site de proiect cu planuri și prețuri, campanii Google & Meta, plan pe etape, de la autorizație până la ultimele unități din fiecare fază
+- [Branding imobiliar](https://visience.ro/branding-imobiliar/): nume, siglă și identitate pentru ansambluri rezidențiale, logo 500€, identitate completă 1.200€
 - [Marketing imobiliar în Iași](https://visience.ro/marketing-imobiliar-iasi/): varianta locală, cu proiecte din Iași și campanii pe diaspora
 - [Marketing pentru dezvoltatori din București și Ilfov](https://visience.ro/marketing-dezvoltatori-imobiliari-bucuresti/): aceleași servicii și prețuri, lucru online; cost estimat 15–30€ pe cerere din Google în București și Ilfov (Keyword Planner, octombrie 2026)
 - [Marketing pentru dezvoltatori din Cluj-Napoca](https://visience.ro/marketing-dezvoltatori-imobiliari-cluj/): aceleași servicii și prețuri, cu datele pieței locale
@@ -29,6 +34,8 @@
 - [Cine îți face site-ul](https://visience.ro/cine-iti-face-site-ul/): tabel care compară Visience, un freelancer, un site făcut singur pe Wix și o agenție mare, plus ce intră în Website Basic, Standard și Premium
 - [Preț magazin online](https://visience.ro/pret-magazin-online/): 1.000€, 1.800€ sau 3.500€, ce primești la fiecare și cât plătești pe an
 - [Preț administrare Google Ads](https://visience.ro/pret-administrare-google-ads/): 200€ pe lună pentru Google Ads și 200€ pe lună pentru Meta, oricâte campanii pe fiecare platformă, cu calcule pe bugete de 500€, 1.000€ și 2.000€
+- [Preț agenție de marketing](https://visience.ro/pret-agentie-marketing/): cât costă pe lună fiecare serviciu, reclame Google sau Meta 200€, 8 postări 200€, SEO 600€, email 300€; bugetul de reclamă se plătește separat
+- [Preț mentenanță site](https://visience.ro/pret-mentenanta-site/): de la 100€ pe lună, ce intră, diferența dintre găzduire și mentenanță
 - [Portofoliu](https://visience.ro/portofoliu/)
 - [Blog](https://visience.ro/blog/): peste 100 de articole în română despre site-uri, SEO, reclame și marketing
 - [Contact](https://visience.ro/contact/): telefon, WhatsApp, email și formular
@@ -75,6 +82,7 @@
 - [Cât costă promovarea unui ansamblu rezidențial](https://visience.ro/blog/cat-costa-promovarea-unui-ansamblu-rezidential/): cele 3 bugete separate și regula 1–3% din valoarea proiectului
 - [Când începi marketingul unui proiect imobiliar](https://visience.ro/blog/cand-incepi-marketingul-unui-proiect-imobiliar/): calendarul pe etape, de la autorizație la predare
 - [Cum vinzi apartamente înainte de finalizarea construcției](https://visience.ro/blog/cum-vinzi-apartamente-inainte-de-finalizarea-constructiei/): randări cu prețuri, progres de șantier, rezervare cu avans mic
+- [Google Ads pentru ansambluri rezidențiale](https://visience.ro/blog/google-ads-ansamblu-rezidential/): ce campanii se fac, cuvinte cheie, buget și măsurare
 
 ## Servicii și prețuri orientative
 - Tur virtual 3D și randări pentru apartamente — de la 500€ pe apartament: apartamentul construit 3D după plan, mobilat în stilul ales, randări pentru fiecare cameră și tur pe telefon (https://visience.ro/tur-virtual-3d-apartamente/)

@@ -1,0 +1,270 @@
+1:"$Sreact.fragment"
+7:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["/_next/static/chunks/2e20r-1ylhx8v.css","style"]
+2:T131d,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/pret-mentenanta-site/#service","name":"Mentenanță site","serviceType":"Mentenanță și administrare site","description":"Mentenanță site de la 100€ pe lună: actualizări WordPress, backup săptămânal, corectarea erorilor și suport pe email. Domeniul și găzduirea, 100€ pe an.","url":"https://visience.ro/pret-mentenanta-site/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"Offer","price":"100","priceCurrency":"EUR","description":"Mentenanță lunară, prețul de pornire pe lună."},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Prețuri mentenanță și intervenții pe site","itemListElement":[{"@type":"Offer","name":"Mentenanță lunară","price":"100","priceCurrency":"EUR","description":"De la 100€ pe lună: actualizări de WordPress și module, backup săptămânal, corectarea erorilor, mici modificări și suport tehnic prin email.","itemOffered":{"@type":"Service","name":"Mentenanță lunară"}},{"@type":"Offer","name":"Reparații și optimizări","price":"60","priceCurrency":"EUR","description":"60€ pe oră: viteză, formulare și pagini noi.","itemOffered":{"@type":"Service","name":"Reparații și optimizări"}},{"@type":"Offer","name":"Backup și migrare","price":"100","priceCurrency":"EUR","description":"De la 100€, o dată: copie completă a site-ului sau mutarea lui pe altă găzduire.","itemOffered":{"@type":"Service","name":"Backup și migrare"}},{"@type":"Offer","name":"Optimizare viteză","price":"100","priceCurrency":"EUR","description":"De la 100€, o dată.","itemOffered":{"@type":"Service","name":"Optimizare viteză"}},{"@type":"Offer","name":"Securizare site","price":"150","priceCurrency":"EUR","description":"Certificat SSL și protecție anti-spam pentru formulare.","itemOffered":{"@type":"Service","name":"Securizare site"}},{"@type":"Offer","name":"Google Analytics 4 și Search Console","price":"100","priceCurrency":"EUR","description":"Măsurarea vizitelor și legătura cu Google.","itemOffered":{"@type":"Service","name":"Google Analytics 4 și Search Console"}},{"@type":"Offer","name":"Tutorial video pentru administrare","price":"100","priceCurrency":"EUR","description":"Un video făcut pe site-ul clientului, pentru texte, poze și prețuri.","itemOffered":{"@type":"Service","name":"Tutorial video pentru administrare"}}]}},{"@type":"FAQPage","@id":"https://visience.ro/pret-mentenanta-site/#faq","mainEntity":[{"@type":"Question","name":"Cât costă mentenanța unui site pe lună?","acceptedAnswer":{"@type":"Answer","text":"De la 100€ pe lună. Intră actualizările de WordPress și ale modulelor, backup-ul săptămânal, corectarea erorilor, mici modificări și suportul tehnic prin email. Optimizarea vitezei, formularele noi și paginile noi se plătesc separat, cu 60€ pe oră."}},{"@type":"Question","name":"Care e diferența dintre găzduire și mentenanță?","acceptedAnswer":{"@type":"Answer","text":"Găzduirea e serverul pe care stă site-ul și costă 85€ pe an, iar domeniul încă 15€. Mentenanța e munca de după lansare, adică actualizările, backup-ul și corectarea erorilor. Găzduirea e obligatorie ca site-ul să fie online, iar mentenanța e opțională."}},{"@type":"Question","name":"Sunt obligat să iau mentenanță după ce site-ul e gata?","acceptedAnswer":{"@type":"Answer","text":"Nu. Obligatoriu plătești doar domeniul și găzduirea, adică 100€ pe an. Fără mentenanță, actualizările și backup-ul rămân în grija ta sau a cuiva pe care îl alegi."}},{"@type":"Question","name":"Ce se întâmplă dacă nu actualizez site-ul?","acceptedAnswer":{"@type":"Answer","text":"Platforma WordPress și modulele ei primesc des actualizări de securitate. Dacă nu sunt instalate, pot deveni o cale de atac spre site. De aceea cineva trebuie să le instaleze, chiar și fără abonament."}},{"@type":"Question","name":"Magazinul online are mentenanță inclusă?","acceptedAnswer":{"@type":"Answer","text":"La magazinul online Standard, de 1.800€, și la Premium, de 3.500€, primele 3 luni de mentenanță sunt incluse. La magazinul Basic, de 1.000€, mentenanța e opțională și pornește de la 100€ pe lună."}},{"@type":"Question","name":"Pot muta site-ul la altă firmă?","acceptedAnswer":{"@type":"Answer","text":"Da. Site-ul e al tău din ziua livrării. Mutarea pe altă găzduire o facem noi, de la 100€, sau o face cine vrei tu."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Prețuri","item":"https://visience.ro/preturi/"},{"@type":"ListItem","position":3,"name":"Preț mentenanță site","item":"https://visience.ro/pret-mentenanta-site/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"e1_aymowhrjQPMhQGB0EH"}
+6:T38bc,<main id="main">
+
+<section class="csi-hero" aria-labelledby="csi-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="26%" x2="100%" y2="60%"/>
+      <line x1="0" y1="62%" x2="100%" y2="20%"/>
+      <line x1="28%" y1="0" x2="74%" y2="100%"/>
+      <line x1="70%" y1="0" x2="18%" y2="100%"/>
+    </svg>
+  </div>
+  <div class="wrap">
+    <nav class="csi-breadcrumbs" aria-label="Breadcrumbs">
+      <a href="/">Acasă</a><span class="sep">/</span>
+      <a href="/preturi/">Prețuri</a><span class="sep">/</span>
+      <span>Preț mentenanță site</span>
+    </nav>
+
+    <h1 class="csi-hero__h1" id="csi-h1">
+      Preț mentenanță site:<br>
+      <span class="acc">de la 100€ pe lună</span>
+    </h1>
+
+    <p class="csi-hero__lead">Ținem site-ul la zi, facem backup în fiecare săptămână și intervenim când se strică ceva. Mentenanța e opțională, iar site-ul rămâne al tău și fără ea.</p>
+
+    <div class="csi-hero__acts">
+      <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+      <a href="#preturi" class="btn btn-ghost" style="border-color:rgba(255,255,255,.25);color:#fff">Vezi prețurile</a>
+    </div>
+
+    <div class="csi-hero__stats">
+      <div class="csi-hero__stat"><span class="n">100€</span><span class="l">pe lună, prețul de pornire</span></div>
+      <div class="csi-hero__stat"><span class="n">Săptămânal</span><span class="l">backup al site-ului</span></div>
+      <div class="csi-hero__stat"><span class="n">60€</span><span class="l">pe oră reparațiile și paginile noi</span></div>
+      <div class="csi-hero__stat"><span class="n">100€</span><span class="l">pe an domeniul și găzduirea</span></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Găzduirea și mentenanța <span class="acc">sunt costuri diferite</span></h2>
+    </div>
+    <div class="csi-types rv rv-d1">
+      <div class="csi-type">
+        <span class="csi-type__n">01</span>
+        <div>
+          <h3>Găzduirea costă 85€ pe an</h3>
+          <p>E serverul pe care stă site-ul. Împreună cu domeniul, de 15€, ajunge la 100€ pe an. Se plătește oricum, pentru că fără ele site-ul nu e online.</p>
+        </div>
+      </div>
+      <div class="csi-type">
+        <span class="csi-type__n">02</span>
+        <div>
+          <h3>Mentenanța pornește de la 100€ pe lună</h3>
+          <p>E munca de după lansare. Actualizăm WordPress și modulele, facem backup și corectăm erorile. Ne scrii pe email când ai o problemă sau vrei o mică modificare.</p>
+        </div>
+      </div>
+    </div>
+    <div class="csi-prose rv rv-d2" style="margin-top:40px">
+      <p>Mentenanța nu e obligatorie. Dacă n-o iei, site-ul merge mai departe, dar actualizările și backup-ul rămân în grija ta sau a cuiva pe care îl alegi tu.</p>
+      <p>Site-ul e al tău din ziua livrării, cu sau fără mentenanță la noi. Dacă vrei să-l administrezi singur, te învățăm, iar un tutorial video făcut pe site-ul tău costă 100€.</p>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream" id="preturi">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Prețurile pentru mentenanță <span class="acc">și intervenții</span></h2>
+      <p class="body-lg" style="margin-top:14px">Mentenanța se plătește lunar. Restul sunt lucrări pe care le plătești o dată, doar dacă îți trebuie.</p>
+    </div>
+    <div class="csi-tbl rv">
+      <table>
+        <thead>
+          <tr><th>Serviciu</th><th>Preț</th><th>Ce intră</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Mentenanță lunară</td><td>de la 100€ pe lună</td><td>Actualizări de WordPress și module, backup săptămânal, corectarea erorilor, mici modificări și suport tehnic prin email.</td></tr>
+          <tr><td>Reparații și optimizări</td><td>60€ pe oră</td><td>Viteză, formulare și pagini noi, plătite după orele lucrate.</td></tr>
+          <tr><td>Backup și migrare</td><td>de la 100€ o dată</td><td>O copie completă a site-ului sau mutarea lui pe altă găzduire.</td></tr>
+          <tr><td>Optimizare viteză</td><td>de la 100€ o dată</td><td>Site-ul se încarcă mai repede, mai ales pe telefon.</td></tr>
+          <tr><td>Securizare site</td><td>150€ o dată</td><td>Certificat SSL și protecție anti-spam pentru formulare.</td></tr>
+          <tr><td>Google Analytics 4 și Search Console</td><td>100€ o dată</td><td>Măsurarea vizitelor și legătura cu Google, ca să vezi câți oameni intră și de unde vin.</td></tr>
+          <tr><td>Tutorial video pentru administrare</td><td>100€ o dată</td><td>Un video făcut pe site-ul tău, ca să schimbi singur texte, poze și prețuri.</td></tr>
+          <tr><td>Domeniu și găzduire</td><td>100€ pe an</td><td>15€ domeniul și 85€ găzduirea, plătite în fiecare an.</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="csi-pr-note rv rv-d2">
+      Prețul de pornire pentru mentenanță e 100€ pe lună. <a href="/preturi/">Vezi toate prețurile</a> sau <a href="/contact/">cere o ofertă</a>. Răspundem în 24 de ore.
+    </p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Ce intră în <span class="acc">mentenanța lunară</span></h2>
+    </div>
+    <div class="csi-grid rv rv-d1">
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-arrows-rotate"></i></div>
+        <h3>Actualizări</h3>
+        <p>Ținem la zi WordPress, tema și modulele. La magazinele online actualizăm și WooCommerce.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-database"></i></div>
+        <h3>Backup săptămânal</h3>
+        <p>În fiecare săptămână facem o copie a site-ului, ca să-l putem readuce dacă se strică ceva.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-screwdriver-wrench"></i></div>
+        <h3>Corectarea erorilor</h3>
+        <p>Când o pagină nu se mai încarcă sau un formular nu mai trimite, intervenim noi.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-envelope"></i></div>
+        <h3>Suport pe email</h3>
+        <p>Ne scrii când ai o problemă sau vrei o mică modificare pe site.</p>
+      </div>
+    </div>
+    <div class="csi-prose rv rv-d2" style="margin-top:40px">
+      <p>Actualizările contează mai ales pe WordPress, unde platforma și modulele primesc des corecturi de securitate. Un site lăsat neactualizat devine mai ușor de atacat. Despre cine se poate ocupa de site după lansare am scris în <a href="/blog/dupa-ce-am-facut-site-cine-se-ocupa-de-el/">acest articol</a>.</p>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream2">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Cât plătești pe an, <span class="acc">cu și fără mentenanță</span></h2>
+    </div>
+    <div class="csi-types rv rv-d1">
+      <div class="csi-type">
+        <span class="csi-type__n">100€</span>
+        <div>
+          <h3>Pe an, fără mentenanță</h3>
+          <p>Plătești doar domeniul și găzduirea. Actualizările și backup-ul le faci tu sau cineva ales de tine.</p>
+        </div>
+      </div>
+      <div class="csi-type">
+        <span class="csi-type__n">1.300€</span>
+        <div>
+          <h3>Pe an, cu mentenanță</h3>
+          <p>100€ domeniul și găzduirea, plus 12 luni de mentenanță la prețul de pornire de 100€ pe lună.</p>
+        </div>
+      </div>
+    </div>
+    <div class="csi-prose rv rv-d2" style="margin:40px auto 0">
+      <p>La magazinul online Standard, de 1.800€, și la Premium, de 3.500€, primele 3 luni de mentenanță sunt incluse în preț. După ele poți continua cu mentenanța lunară sau ne chemi doar când ai nevoie. Calculul complet pe primul an e pe pagina cu <a href="/pret-magazin-online/">prețul unui magazin online</a>.</p>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Cine se poate ocupa <span class="acc">de site după lansare</span></h2>
+    </div>
+    <div class="csi-grid csi-grid--3 rv rv-d1">
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-user"></i></div>
+        <h3>Te ocupi singur</h3>
+        <p>Pe un site făcut în WordPress schimbi singur texte, poze și prețuri. Actualizările și backup-ul rămân tot în grija ta.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-laptop-code"></i></div>
+        <h3>Un programator, pe bucată</h3>
+        <p>Plătești doar intervențiile de care ai nevoie. Depinzi însă de cât de liber e omul când apare o problemă.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-calendar-check"></i></div>
+        <h3>Abonament la o agenție</h3>
+        <p>Actualizările, backup-ul și micile modificări le face cineva în fiecare lună. Costă mai mult decât dacă le faci singur.</p>
+      </div>
+    </div>
+    <div class="csi-prose rv rv-d2" style="margin-top:40px">
+      <p>Site-urile făcute de noi pot fi administrate în oricare dintre cele trei feluri. Dacă vrei să te ocupi singur, te învățăm cum, iar dacă vrei să ni-l lași nouă, alegi mentenanța lunară.</p>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Întrebări <span class="acc">frecvente</span></h2>
+    </div>
+    <div class="csi-faq rv">
+      <details>
+        <summary>Cât costă mentenanța unui site pe lună?</summary>
+        <p>De la 100€ pe lună. Intră actualizările de WordPress și ale modulelor, backup-ul săptămânal, corectarea erorilor, mici modificări și suportul tehnic prin email. Optimizarea vitezei, formularele noi și paginile noi se plătesc separat, cu 60€ pe oră.</p>
+      </details>
+      <details>
+        <summary>Care e diferența dintre găzduire și mentenanță?</summary>
+        <p>Găzduirea e serverul pe care stă site-ul și costă 85€ pe an, iar domeniul încă 15€. Mentenanța e munca de după lansare, adică actualizările, backup-ul și corectarea erorilor. Găzduirea e obligatorie ca site-ul să fie online, iar mentenanța e opțională.</p>
+      </details>
+      <details>
+        <summary>Sunt obligat să iau mentenanță după ce site-ul e gata?</summary>
+        <p>Nu. Obligatoriu plătești doar domeniul și găzduirea, adică 100€ pe an. Fără mentenanță, actualizările și backup-ul rămân în grija ta sau a cuiva pe care îl alegi.</p>
+      </details>
+      <details>
+        <summary>Ce se întâmplă dacă nu actualizez site-ul?</summary>
+        <p>Platforma WordPress și modulele ei primesc des actualizări de securitate. Dacă nu sunt instalate, pot deveni o cale de atac spre site. De aceea cineva trebuie să le instaleze, chiar și fără abonament.</p>
+      </details>
+      <details>
+        <summary>Magazinul online are mentenanță inclusă?</summary>
+        <p>La magazinul online Standard, de 1.800€, și la Premium, de 3.500€, primele 3 luni de mentenanță sunt incluse. La magazinul Basic, de 1.000€, mentenanța e opțională și pornește de la 100€ pe lună.</p>
+      </details>
+      <details>
+        <summary>Pot muta site-ul la altă firmă?</summary>
+        <p>Da. Site-ul e al tău din ziua livrării. Mutarea pe altă găzduire o facem noi, de la 100€, sau o face cine vrei tu.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-cta" aria-labelledby="csi-cta-h">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="dd dd-lg csi-cta__h" id="csi-cta-h">Site-ul ținut la zi,<br><span class="acc">de la 100€ pe lună.</span></h2>
+      <p class="csi-cta__p">Trimite-ne adresa site-ului și ce vrei să facem lunar. Primești în 24 de ore o ofertă cu prețul și cu tot ce intră în el.</p>
+      <div class="csi-cta__acts">
+        <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+        <a href="tel:+40771486499" class="btn btn-dark">+40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Prețuri și articole despre site">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Toate prețurile noastre sunt publice, serviciu cu serviciu. Alegi în cunoștință de cauză, fără presiune.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Mai departe, despre site</div>
+      <div class="rel-links__grid">
+        <a href="/pret-site-de-prezentare/" class="rel-link"><span class="rel-link__name">Preț site de prezentare <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/pret-magazin-online/" class="rel-link"><span class="rel-link__name">Preț magazin online <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/blog/dupa-ce-am-facut-site-cine-se-ocupa-de-el/" class="rel-link"><span class="rel-link__name">Cine se ocupă de site după lansare <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/blog/ce-costuri-sunt-implicate-in-crearea-si-intretinerea-unui-website/" class="rel-link"><span class="rel-link__name">Costurile unui site după lansare <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/blog/merita-wordpress-in-2026/" class="rel-link"><span class="rel-link__name">Merită WordPress în 2026? <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/preturi/" class="rel-link"><span class="rel-link__name">Toate prețurile <span class="arr" aria-hidden="true">↗</span></span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+3:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$6"}}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2e20r-1ylhx8v.css","precedence":"next"}]
+5:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

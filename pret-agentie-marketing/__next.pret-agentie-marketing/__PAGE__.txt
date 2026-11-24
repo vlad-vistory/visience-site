@@ -1,0 +1,256 @@
+1:"$Sreact.fragment"
+7:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["/_next/static/chunks/2e20r-1ylhx8v.css","style"]
+2:T1486,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/pret-agentie-marketing/#service","name":"Servicii de marketing digital","serviceType":"Agenție de marketing digital","description":"Cât costă o agenție de marketing pe lună: reclame Google sau Meta 200€, 8 postări 200€, SEO 600€, email 300€. Bugetul de reclamă se plătește separat.","url":"https://visience.ro/pret-agentie-marketing/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Prețuri lunare de marketing","itemListElement":[{"@type":"Offer","name":"Campanii Google Ads","price":"200","priceCurrency":"EUR","description":"Pe lună, oricâte campanii pe Google, minim 3 luni. Bugetul de reclamă se plătește separat.","itemOffered":{"@type":"Service","name":"Campanii Google Ads"}},{"@type":"Offer","name":"Campanii Meta (Facebook și Instagram)","price":"200","priceCurrency":"EUR","description":"Pe lună, oricâte campanii pe Facebook și Instagram, minim 3 luni.","itemOffered":{"@type":"Service","name":"Campanii Meta (Facebook și Instagram)"}},{"@type":"Offer","name":"8 postări pe lună","price":"200","priceCurrency":"EUR","description":"Pe lună, texte și grafică pe brandul firmei.","itemOffered":{"@type":"Service","name":"8 postări pe lună"}},{"@type":"Offer","name":"15 postări pe lună","price":"450","priceCurrency":"EUR","description":"Pe lună, cu story-uri, cercetarea hashtagurilor și raport lunar.","itemOffered":{"@type":"Service","name":"15 postări pe lună"}},{"@type":"Offer","name":"Social media complet","price":"700","priceCurrency":"EUR","description":"Pe lună, 30 de postări pe mai multe platforme și administrarea conturilor.","itemOffered":{"@type":"Service","name":"Social media complet"}},{"@type":"Offer","name":"Strategie SEO","price":"600","priceCurrency":"EUR","description":"Pe lună, minim 6 luni, cu raport lunar.","itemOffered":{"@type":"Service","name":"Strategie SEO"}},{"@type":"Offer","name":"Campanii de email","price":"300","priceCurrency":"EUR","description":"Pe lună, calendar, design, text, segmentare și testare.","itemOffered":{"@type":"Service","name":"Campanii de email"}},{"@type":"Offer","name":"Mentenanța site-ului","price":"100","priceCurrency":"EUR","description":"De la 100€ pe lună: actualizări, backup și mici modificări.","itemOffered":{"@type":"Service","name":"Mentenanța site-ului"}}]}},{"@type":"FAQPage","@id":"https://visience.ro/pret-agentie-marketing/#faq","mainEntity":[{"@type":"Question","name":"Cât costă o agenție de marketing pe lună?","acceptedAnswer":{"@type":"Answer","text":"La Visience, onorariul pornește de la 200€ pe lună pentru un serviciu, de exemplu reclame pe o platformă sau 8 postări. Strategia SEO costă 600€ pe lună, campaniile de email 300€ pe lună, iar social media complet 700€ pe lună. Bugetul de reclamă se plătește separat, direct la Google și Meta."}},{"@type":"Question","name":"Bugetul de reclamă intră în prețul agenției?","acceptedAnswer":{"@type":"Answer","text":"Nu. Bugetul îl plătești direct la Google și Meta, de pe cardul tău, iar noi facturăm doar munca. Recomandăm un buget de cel puțin 500€ pe lună."}},{"@type":"Question","name":"Cât costă promovarea pe Facebook și Instagram?","acceptedAnswer":{"@type":"Answer","text":"Administrarea reclamelor pe Facebook și Instagram costă 200€ pe lună, oricâte campanii, pe minim 3 luni, plus bugetul de reclamă. Postările costă 200€ pe lună pentru 8, 450€ pentru 15 și 700€ pentru 30. La 700€ pe lună ne ocupăm și de administrarea conturilor."}},{"@type":"Question","name":"Cât costă promovarea unui site pe Google?","acceptedAnswer":{"@type":"Answer","text":"Reclamele Google Ads costă 200€ pe lună administrarea, plus bugetul plătit la Google. Strategia SEO costă 600€ pe lună, pe cel puțin 6 luni, și aduce trafic organic, pentru care nu plătești buget de reclamă."}},{"@type":"Question","name":"Pot lua un singur serviciu?","acceptedAnswer":{"@type":"Answer","text":"Da. Fiecare serviciu are prețul lui și îl poți lua separat, fără să cumperi un pachet. Poți adăuga sau opri servicii pe parcurs, după perioada minimă a fiecăruia."}},{"@type":"Question","name":"Care e durata minimă a colaborării?","acceptedAnswer":{"@type":"Answer","text":"La campaniile Google și Meta, durata minimă e de 3 luni, pentru că prima lună e în mare parte calibrare. La strategia SEO e de 6 luni, pentru că pozițiile în Google cresc în timp."}},{"@type":"Question","name":"Al cui rămâne contul de reclame?","acceptedAnswer":{"@type":"Answer","text":"Al tău. Contul de Google Ads, contul de reclame Meta și pixelul sunt pe firma ta, iar noi primim acces de administrator. Dacă pleci, rămân la tine cu tot istoricul."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Prețuri","item":"https://visience.ro/preturi/"},{"@type":"ListItem","position":3,"name":"Preț agenție de marketing","item":"https://visience.ro/pret-agentie-marketing/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"e1_aymowhrjQPMhQGB0EH"}
+6:T3c7a,<main id="main">
+
+<section class="csi-hero" aria-labelledby="csi-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="26%" x2="100%" y2="62%"/>
+      <line x1="0" y1="64%" x2="100%" y2="20%"/>
+      <line x1="30%" y1="0" x2="72%" y2="100%"/>
+      <line x1="70%" y1="0" x2="18%" y2="100%"/>
+    </svg>
+  </div>
+  <div class="wrap">
+    <nav class="csi-breadcrumbs" aria-label="Breadcrumbs">
+      <a href="/">Acasă</a><span class="sep">/</span>
+      <a href="/preturi/">Prețuri</a><span class="sep">/</span>
+      <span>Preț agenție de marketing</span>
+    </nav>
+
+    <h1 class="csi-hero__h1" id="csi-h1">
+      Cât costă o agenție de marketing:<br>
+      <span class="acc">de la 200€ pe lună</span>
+    </h1>
+
+    <p class="csi-hero__lead">La noi plătești fiecare serviciu separat, la prețul scris pe site. Bugetul de reclamă nu trece prin noi și îl plătești direct la Google și Meta.</p>
+
+    <div class="csi-hero__acts">
+      <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+      <a href="#preturi" class="btn btn-ghost" style="border-color:rgba(255,255,255,.25);color:#fff">Vezi prețurile</a>
+    </div>
+
+    <div class="csi-hero__stats">
+      <div class="csi-hero__stat"><span class="n">200€</span><span class="l">pe lună, reclame pe o platformă</span></div>
+      <div class="csi-hero__stat"><span class="n">200€</span><span class="l">pe lună, 8 postări</span></div>
+      <div class="csi-hero__stat"><span class="n">600€</span><span class="l">pe lună, strategie SEO</span></div>
+      <div class="csi-hero__stat"><span class="n">300€</span><span class="l">pe lună, campanii de email</span></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white" id="preturi">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Prețurile lunare, <span class="acc">serviciu cu serviciu</span></h2>
+      <p class="body-lg" style="margin-top:14px">Nu avem pachete. Iei doar serviciile de care ai nevoie și le poți opri separat.</p>
+    </div>
+    <div class="csi-tbl rv">
+      <table>
+        <thead>
+          <tr><th>Serviciu</th><th>Preț</th><th>Ce intră</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Campanii Google Ads</td><td>200€ pe lună</td><td>Oricâte campanii pe Google, cu minim 3 luni de colaborare. Optimizăm săptămânal, scriem anunțurile și îți trimitem un raport în fiecare lună.</td></tr>
+          <tr><td>Campanii Meta (Facebook și Instagram)</td><td>200€ pe lună</td><td>Oricâte campanii pe Facebook și Instagram, cu minim 3 luni de colaborare. Pe Google și Meta împreună, administrarea costă 400€ pe lună.</td></tr>
+          <tr><td>8 postări pe lună</td><td>200€ pe lună</td><td>Textele și grafica postărilor sunt făcute pe brandul tău.</td></tr>
+          <tr><td>15 postări pe lună</td><td>450€ pe lună</td><td>Pe lângă postări primești story-uri, cercetarea hashtagurilor și un raport lunar.</td></tr>
+          <tr><td>Social media complet</td><td>700€ pe lună</td><td>Primești 30 de postări pe mai multe platforme, iar noi administrăm conturile și răspundem comunității.</td></tr>
+          <tr><td>Strategie SEO</td><td>600€ pe lună</td><td>Colaborarea durează minim 6 luni. Lucrăm cuvintele cheie, paginile site-ului, linkurile și conținutul, iar lunar primești raportul.</td></tr>
+          <tr><td>Campanii de email</td><td>300€ pe lună</td><td>Facem calendarul lunar, designul și textul fiecărui email, segmentăm lista și testăm variante.</td></tr>
+          <tr><td>Mentenanța site-ului</td><td>de la 100€ pe lună</td><td>Ținem site-ul la zi, facem backup și mici modificări.</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="csi-pr-note rv rv-d2">
+      Bugetul de reclamă nu intră în niciuna dintre sumele de mai sus. <a href="/preturi/">Vezi toate prețurile</a> sau <a href="/contact/">cere o ofertă</a>. Răspundem în 24 de ore.
+    </p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Ce se plătește <span class="acc">o singură dată</span></h2>
+    </div>
+    <div class="csi-tbl rv rv-d1">
+      <table>
+        <thead>
+          <tr><th>Serviciu</th><th>Preț</th><th>Ce intră</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Strategie de social media</td><td>300€</td><td>Analizăm publicul, stabilim vocea brandului și facem calendarul editorial pe 12 luni.</td></tr>
+          <tr><td>Strategie de marketing pe 2 ani</td><td>1.000€</td><td>Planul pornește de la analiza pieței și a concurenței și recomandă canalele, bugetul pe fiecare canal și calendarul pe 24 de luni.</td></tr>
+          <tr><td>Optimizarea prezenței online</td><td>300€</td><td>Creăm și verificăm profilul Google Business și punem în ordine descrierile și conturile de social media.</td></tr>
+          <tr><td>Setup campanie și tracking</td><td>200€, gratuit la contract pe 12 luni</td><td>Configurăm contul publicitar, pixelul, conversiile și legătura cu Google Analytics 4.</td></tr>
+          <tr><td>Landing page de campanie</td><td>500€</td><td>Facem o pagină pentru reclame, cu formular și măsurarea conversiilor.</td></tr>
+          <tr><td>Concurs sau campanie de fidelizare</td><td>500€ pe campanie</td><td>Ne ocupăm de la concept și grafică până la raportul final.</td></tr>
+          <tr><td>Research influenceri</td><td>100€</td><td>Primești lista influencerilor potriviți, cu prețurile lor și cifrele audienței.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Cât costă <span class="acc">promovarea online</span></h2>
+    </div>
+    <div class="csi-grid csi-grid--3 rv rv-d1">
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fab fa-google"></i></div>
+        <h3>Reclame pe Google</h3>
+        <p>Administrarea costă 200€ pe lună, la care se adaugă bugetul plătit direct la Google, de la 500€ pe lună. Reclamele aduc oameni pe site cât timp rulează bugetul.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-magnifying-glass"></i></div>
+        <h3>SEO</h3>
+        <p>Strategia SEO costă 600€ pe lună, pe cel puțin 6 luni. Traficul organic crește în timp și nu depinde de un buget de reclamă.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-hashtag"></i></div>
+        <h3>Social media</h3>
+        <p>Prețul promovării pe social media pornește de la 200€ pe lună pentru 8 postări. Reclamele pe Facebook și Instagram se plătesc separat, 200€ pe lună plus bugetul.</p>
+      </div>
+    </div>
+    <div class="csi-prose rv rv-d2" style="margin-top:40px">
+      <p>Onorariul lunar pornește de la 200€ pentru un singur serviciu de marketing. Dacă iei reclame pe Google și Meta, social media complet, SEO și email, ajunge la 2.000€ pe lună, fără bugetul de reclamă.</p>
+      <p>Ce variantă ți se potrivește depinde de unde își caută clienții tăi furnizorii. Îți spunem în ofertă de la ce canal are sens să pornești.</p>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream2">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Două facturi <span class="acc">separate</span></h2>
+    </div>
+    <div class="csi-types rv rv-d1">
+      <div class="csi-type">
+        <span class="csi-type__n">01</span>
+        <div>
+          <h3>Onorariul agenției</h3>
+          <p>Plătești munca, adică strategia, campaniile, textele, grafica și rapoartele. Factura o primești de la noi, cu fiecare serviciu pe rândul lui.</p>
+        </div>
+      </div>
+      <div class="csi-type">
+        <span class="csi-type__n">02</span>
+        <div>
+          <h3>Bugetul de reclamă</h3>
+          <p>Sunt banii pe care Google și Meta îi iau pentru afișări și clickuri. Pleacă direct de pe cardul tău, iar factura vine de la platformă.</p>
+        </div>
+      </div>
+    </div>
+    <div class="csi-prose rv rv-d2" style="margin-top:40px">
+      <p>Conturile de reclame, pixelul și profilul Google Business sunt pe numele firmei tale. Noi lucrăm în ele cu acces de administrator, iar dacă pleci, totul rămâne la tine.</p>
+      <p>Cât buget de reclamă are sens la început am scris în articolul despre <a href="/blog/buget-minim-reclame-firma-mica/">bugetul minim pentru reclame</a>.</p>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Cum compari <span class="acc">ofertele agențiilor</span></h2>
+    </div>
+    <div class="csi-steps rv rv-d1">
+      <div class="csi-step"><div class="csi-step__n">01</div><h3>Ce intră în preț</h3><p>Cere lista lucrurilor făcute în fiecare lună. O sumă fără listă nu se poate compara cu nimic.</p></div>
+      <div class="csi-step"><div class="csi-step__n">02</div><h3>Ce nu intră</h3><p>Verifică dacă textele, grafica și bugetul de reclamă sunt în ofertă sau vin separat.</p></div>
+      <div class="csi-step"><div class="csi-step__n">03</div><h3>Cui plătești</h3><p>Bugetul de reclamă trebuie să plece direct la Google și Meta. Când trece prin agenție, nu mai vezi cât s-a cheltuit pe reclame.</p></div>
+      <div class="csi-step"><div class="csi-step__n">04</div><h3>Al cui e contul</h3><p>Contul de reclame și istoricul lui trebuie să fie pe firma ta. Altfel, la plecare pornești de la zero.</p></div>
+    </div>
+    <div class="csi-prose rv rv-d2" style="margin-top:40px">
+      <p>Pe larg despre alegere am scris în <a href="/blog/agentie-iasi-cu-preturi-publicate/">ce agenție are prețuri publicate</a> și în <a href="/blog/de-ce-agentiile-nu-isi-publica-preturile/">de ce agențiile nu își publică prețurile</a>.</p>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Întrebări <span class="acc">frecvente</span></h2>
+    </div>
+    <div class="csi-faq rv">
+      <details>
+        <summary>Cât costă o agenție de marketing pe lună?</summary>
+        <p>La Visience, onorariul pornește de la 200€ pe lună pentru un serviciu, de exemplu reclame pe o platformă sau 8 postări. Strategia SEO costă 600€ pe lună, campaniile de email 300€ pe lună, iar social media complet 700€ pe lună. Bugetul de reclamă se plătește separat, direct la Google și Meta.</p>
+      </details>
+      <details>
+        <summary>Bugetul de reclamă intră în prețul agenției?</summary>
+        <p>Nu. Bugetul îl plătești direct la Google și Meta, de pe cardul tău, iar noi facturăm doar munca. Recomandăm un buget de cel puțin 500€ pe lună.</p>
+      </details>
+      <details>
+        <summary>Cât costă promovarea pe Facebook și Instagram?</summary>
+        <p>Administrarea reclamelor pe Facebook și Instagram costă 200€ pe lună, oricâte campanii, pe minim 3 luni, plus bugetul de reclamă. Postările costă 200€ pe lună pentru 8, 450€ pentru 15 și 700€ pentru 30. La 700€ pe lună ne ocupăm și de administrarea conturilor.</p>
+      </details>
+      <details>
+        <summary>Cât costă promovarea unui site pe Google?</summary>
+        <p>Reclamele Google Ads costă 200€ pe lună administrarea, plus bugetul plătit la Google. Strategia SEO costă 600€ pe lună, pe cel puțin 6 luni, și aduce trafic organic, pentru care nu plătești buget de reclamă.</p>
+      </details>
+      <details>
+        <summary>Pot lua un singur serviciu?</summary>
+        <p>Da. Fiecare serviciu are prețul lui și îl poți lua separat, fără să cumperi un pachet. Poți adăuga sau opri servicii pe parcurs, după perioada minimă a fiecăruia.</p>
+      </details>
+      <details>
+        <summary>Care e durata minimă a colaborării?</summary>
+        <p>La campaniile Google și Meta, durata minimă e de 3 luni, pentru că prima lună e în mare parte calibrare. La strategia SEO e de 6 luni, pentru că pozițiile în Google cresc în timp.</p>
+      </details>
+      <details>
+        <summary>Al cui rămâne contul de reclame?</summary>
+        <p>Al tău. Contul de Google Ads, contul de reclame Meta și pixelul sunt pe firma ta, iar noi primim acces de administrator. Dacă pleci, rămân la tine cu tot istoricul.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-cta" aria-labelledby="csi-cta-h">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="dd dd-lg csi-cta__h" id="csi-cta-h">Prețurile sunt pe site.<br><span class="acc">Oferta vine în 24 de ore.</span></h2>
+      <p class="csi-cta__p">Spune-ne ce vinzi și unde vrei clienți. Primești o ofertă cu fiecare serviciu și fiecare sumă scrise separat.</p>
+      <div class="csi-cta__acts">
+        <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+        <a href="tel:+40771486499" class="btn btn-dark">+40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Prețuri și servicii de marketing">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Toate prețurile noastre sunt publice, serviciu cu serviciu. Alegi în cunoștință de cauză, fără presiune.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Mai departe, despre servicii</div>
+      <div class="rel-links__grid">
+        <a href="/pret-administrare-google-ads/" class="rel-link"><span class="rel-link__name">Preț administrare Google Ads <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/social-media-management/" class="rel-link"><span class="rel-link__name">Social media <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/optimizare-seo/" class="rel-link"><span class="rel-link__name">Optimizare SEO <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/email-marketing/" class="rel-link"><span class="rel-link__name">Email marketing <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/pret-mentenanta-site/" class="rel-link"><span class="rel-link__name">Preț mentenanță site <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/blog/cat-costa-administrarea-social-media/" class="rel-link"><span class="rel-link__name">Cât costă administrarea social media <span class="arr" aria-hidden="true">↗</span></span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+3:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$6"}}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2e20r-1ylhx8v.css","precedence":"next"}]
+5:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

@@ -1,0 +1,269 @@
+1:"$Sreact.fragment"
+7:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["/_next/static/chunks/2e20r-1ylhx8v.css","style"]
+2:Tfba,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/design-grafic-iasi/#service","name":"Design grafic Iași","serviceType":"Design grafic pentru tipar și online","description":"Design grafic în Iași: flyer de la 300€, broșură de 5 pagini 300€, bannere și roll-up-uri la 50€ pe oră. Fișiere gata de tipar, în CMYK, la 300 dpi.","url":"https://visience.ro/design-grafic-iasi/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":[{"@type":"City","name":"Iași"},{"@type":"Country","name":"România"}],"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"50","highPrice":"600","offerCount":"5"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Prețuri design grafic","itemListElement":[{"@type":"Offer","name":"Flyer mediu","price":"300","priceCurrency":"EUR","description":"Flyer față-verso sau pliant, cu designul făcut pe identitatea firmei.","itemOffered":{"@type":"Service","name":"Flyer mediu"}},{"@type":"Offer","name":"Flyer premium","price":"600","priceCurrency":"EUR","description":"Flyer cu ilustrații desenate special și textele scrise de noi.","itemOffered":{"@type":"Service","name":"Flyer premium"}},{"@type":"Offer","name":"Broșură de prezentare 5 pagini","price":"300","priceCurrency":"EUR","description":"Broșură de 5 pagini, 15€ pentru fiecare pagină în plus.","itemOffered":{"@type":"Service","name":"Broșură de prezentare 5 pagini"}},{"@type":"Offer","name":"Pachet de materiale print","price":"500","priceCurrency":"EUR","description":"De la 500€: set de materiale coordonate pentru brand sau pentru un eveniment.","itemOffered":{"@type":"Service","name":"Pachet de materiale print"}},{"@type":"Offer","name":"Design grafic la comandă","price":"50","priceCurrency":"EUR","description":"50€ pe oră: cărți de vizită, postere, bannere, roll-up-uri.","itemOffered":{"@type":"Service","name":"Design grafic la comandă"}}]}},{"@type":"FAQPage","@id":"https://visience.ro/design-grafic-iasi/#faq","mainEntity":[{"@type":"Question","name":"Cât costă un flyer?","acceptedAnswer":{"@type":"Answer","text":"Un flyer față-verso sau pliant costă 300€. Flyerul cu ilustrații desenate special și cu textele scrise de noi costă 600€. Primești fișierele pregătite pentru tipar, în CMYK, cu bleed și la 300 dpi."}},{"@type":"Question","name":"Cât costă o broșură de prezentare?","acceptedAnswer":{"@type":"Answer","text":"300€ pentru o broșură de 5 pagini. Fiecare pagină în plus costă 15€, deci o broșură de 8 pagini ajunge la 345€."}},{"@type":"Question","name":"Cât costă un banner sau un roll-up?","acceptedAnswer":{"@type":"Answer","text":"Bannerele, roll-up-urile, posterele și cărțile de vizită nu au preț fix și se fac cu tariful de 50€ pe oră. Un set coordonat de materiale pentru brand sau pentru un eveniment pornește de la 500€."}},{"@type":"Question","name":"În ce format primesc fișierele?","acceptedAnswer":{"@type":"Answer","text":"Pentru tipar primești PDF în CMYK, cu bleed și la 300 dpi. Pentru online primești un PDF interactiv, bun de trimis pe email sau de pus pe site."}},{"@type":"Question","name":"Lucrați doar cu firme din Iași?","acceptedAnswer":{"@type":"Answer","text":"Nu. Avem sediul în Iași, pe Bulevardul Nicolae Iorga 18, dar lucrăm cu firme din toată țara și din străinătate. Propunerile, modificările și fișierele finale circulă online."}},{"@type":"Question","name":"Pot comanda materiale grafice dacă firma nu are logo?","acceptedAnswer":{"@type":"Answer","text":"Da, dar materialele arată unitar abia când firma are o identitate. Logo-ul costă 500€, iar Branding Standard, de 1.200€, include și cartea de vizită, dosarul și antetul pentru documente."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Design grafic Iași","item":"https://visience.ro/design-grafic-iasi/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"e1_aymowhrjQPMhQGB0EH"}
+6:T3b53,<main id="main">
+
+<section class="csi-hero" aria-labelledby="csi-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="16%" x2="100%" y2="70%"/>
+      <line x1="0" y1="68%" x2="100%" y2="12%"/>
+      <line x1="18%" y1="0" x2="84%" y2="100%"/>
+      <line x1="80%" y1="0" x2="8%" y2="100%"/>
+    </svg>
+  </div>
+  <div class="wrap">
+    <nav class="csi-breadcrumbs" aria-label="Breadcrumbs">
+      <a href="/">Acasă</a><span class="sep">/</span>
+      <a href="/#servicii">Servicii</a><span class="sep">/</span>
+      <span>Design grafic Iași</span>
+    </nav>
+
+    <h1 class="csi-hero__h1" id="csi-h1">
+      Design grafic<br>
+      <span class="acc">în Iași</span>
+    </h1>
+
+    <p class="csi-hero__lead">Facem flyere, broșuri, bannere, roll-up-uri și grafică pentru rețelele sociale, cu fișierele gata de tipar. Flyerul pornește de la 300€, iar lucrările fără preț fix costă 50€ pe oră.</p>
+
+    <div class="csi-hero__acts">
+      <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+      <a href="#preturi" class="btn btn-ghost" style="border-color:rgba(255,255,255,.25);color:#fff">Vezi prețurile</a>
+    </div>
+
+    <div class="csi-hero__stats">
+      <div class="csi-hero__stat"><span class="n">50€</span><span class="l">pe oră lucrările la comandă</span></div>
+      <div class="csi-hero__stat"><span class="n">300€</span><span class="l">flyer față-verso sau pliant</span></div>
+      <div class="csi-hero__stat"><span class="n">300€</span><span class="l">broșură de 5 pagini</span></div>
+      <div class="csi-hero__stat"><span class="n">300 dpi</span><span class="l">fișiere CMYK, gata de tipar</span></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">O agenție de design <span class="acc">din Iași</span></h2>
+    </div>
+    <div class="csi-prose rv rv-d1">
+      <p>Visience are sediul în Iași, pe Bulevardul Nicolae Iorga 18. De 12 ani lucrăm pentru firme din oraș și din toată țara, la branding, site-uri, campanii și materialele lor grafice.</p>
+      <p>Cele mai multe lucruri le rezolvăm la telefon, pe WhatsApp și pe email. Propunerile, modificările și fișierele finale circulă online, așa că lucrăm la fel și cu clienții din alte orașe.</p>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream" id="preturi">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Prețurile pentru <span class="acc">design grafic</span></h2>
+      <p class="body-lg" style="margin-top:14px">Materialele cu preț fix au suma scrisă mai jos. Celelalte se plătesc după orele lucrate, cu 50€ pe oră.</p>
+    </div>
+    <div class="csi-tbl rv">
+      <table>
+        <thead>
+          <tr><th>Material</th><th>Preț</th><th>Ce primești</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Flyer mediu</td><td>300€</td><td>Flyer față-verso sau pliant, cu designul făcut pe identitatea firmei tale.</td></tr>
+          <tr><td>Flyer premium</td><td>600€</td><td>Flyer cu ilustrații desenate special pentru tine și cu textele scrise de noi.</td></tr>
+          <tr><td>Broșură de prezentare</td><td>300€ pentru 5 pagini</td><td>Broșura firmei, a serviciilor sau a unui proiect. Fiecare pagină în plus costă 15€.</td></tr>
+          <tr><td>Pachet de materiale print</td><td>de la 500€</td><td>Un set de materiale coordonate pentru brand sau pentru un eveniment.</td></tr>
+          <tr><td>Cărți de vizită, postere, bannere, roll-up-uri</td><td>50€ pe oră</td><td>Lucrări fără preț fix, plătite după orele lucrate.</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="csi-pr-note rv rv-d2">
+      Toate materialele vin cu fișiere pregătite pentru tipografie și cu un PDF pentru trimis online. <a href="/preturi/">Vezi toate prețurile</a> sau <a href="/contact/">cere o ofertă</a>.
+    </p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Materiale pentru <span class="acc">tipar și online</span></h2>
+    </div>
+    <div class="csi-grid csi-grid--3 rv rv-d1">
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-file-lines"></i></div>
+        <h3>Flyere și pliante</h3>
+        <p>Pentru oferte, evenimente sau pentru împărțit în magazin. Față-verso sau pliate, de la 300€.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-book-open"></i></div>
+        <h3>Broșuri de prezentare</h3>
+        <p>Firma, serviciile sau proiectele tale, pe 5 pagini sau mai multe. De la 300€ pentru 5 pagini.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-flag"></i></div>
+        <h3>Bannere și roll-up-uri</h3>
+        <p>Pentru târguri, evenimente, vitrină sau șantier. Le facem cu tariful de 50€ pe oră.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-address-card"></i></div>
+        <h3>Cărți de vizită și papetărie</h3>
+        <p>Cărți de vizită, dosare și antet pentru documente. Le primești și în pachetul Branding Standard, de 1.200€.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-image"></i></div>
+        <h3>Postere și afișe</h3>
+        <p>Pentru evenimente, lansări sau pentru spațiul firmei. Le facem cu tariful de 50€ pe oră.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-hashtag"></i></div>
+        <h3>Grafică pentru rețele sociale</h3>
+        <p>Postări și bannere pentru Facebook și Instagram. Pachetul de 8 postări pe lună costă 200€.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream2">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Lucrări <span class="acc">făcute de noi</span></h2>
+    </div>
+    <div class="csi-porto csi-porto--3 rv rv-d1">
+      <a class="csi-shot" href="/portofoliu/">
+        <div class="csi-shot__img" style="aspect-ratio:1/1">
+          <img src="/media/amodelic-brand.avif" alt="Broșură de prezentare cu identitatea Amodelic, firmă de proiectare și consultanță" loading="lazy" width="1844" height="1413">
+        </div>
+        <div class="csi-shot__cap"><strong>Amodelic, proiectare și consultanță</strong>Identitatea firmei aplicată pe o broșură de prezentare</div>
+      </a>
+      <a class="csi-shot" href="/portofoliu/">
+        <div class="csi-shot__img" style="aspect-ratio:1/1">
+          <img src="/media/cameo-brand-board.avif" alt="Identitatea vizuală Cameo Residence: logo, paletă de culori și tipografie" loading="lazy" width="1200" height="1200">
+        </div>
+        <div class="csi-shot__cap"><strong>Cameo Residence, ansamblu rezidențial</strong>Logo, paletă de culori și tipografie<span class="csi-shot__url"><span class="cu-vistory">cu Vistory</span></span></div>
+      </a>
+      <a class="csi-shot" href="/portofoliu/">
+        <div class="csi-shot__img" style="aspect-ratio:1/1">
+          <img src="/media/cameo-social-media-post.avif" alt="Postare Cameo Residence despre încălzirea în pardoseală" loading="lazy" width="590" height="595">
+        </div>
+        <div class="csi-shot__cap"><strong>Cameo Residence, rețele sociale</strong>Postare despre încălzirea în pardoseală din apartamente<span class="csi-shot__url"><span class="cu-vistory">cu Vistory</span></span></div>
+      </a>
+      <a class="csi-shot" href="/portofoliu/">
+        <div class="csi-shot__img" style="aspect-ratio:1/1">
+          <img src="/media/carmangeria-evei-social-1.avif" alt="Postare pentru Carmangeria Evei, cu sigla peste fotografia produselor din vitrină" loading="lazy" width="983" height="946">
+        </div>
+        <div class="csi-shot__cap"><strong>Carmangeria Evei, carne și afumături</strong>Postare pentru Facebook și Instagram</div>
+      </a>
+      <a class="csi-shot" href="/portofoliu/">
+        <div class="csi-shot__img" style="aspect-ratio:1/1">
+          <img src="/media/alpensam-social-media.avif" alt="Banner Soluții Alpensam, furnizor de rezervoare de propan" loading="lazy" width="799" height="675">
+        </div>
+        <div class="csi-shot__cap"><strong>Soluții Alpensam, rezervoare de propan</strong>Banner pentru rețelele sociale</div>
+      </a>
+      <a class="csi-shot" href="/brosura/">
+        <div class="csi-shot__img" style="aspect-ratio:1/1">
+          <img src="/media/brosura/p01.avif" alt="Coperta broșurii de prezentare Visience" loading="lazy" width="1400" height="1982" style="object-position:top">
+        </div>
+        <div class="csi-shot__cap"><strong>Broșura Visience</strong>Broșura noastră de prezentare, pe care o poți răsfoi pe site</div>
+      </a>
+    </div>
+    <div class="rv rv-d2" style="text-align:center;margin-top:34px">
+      <a href="/portofoliu/" class="btn btn-ghost">Vezi tot portofoliul →</a>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">De la brief <span class="acc">la fișierul de tipar</span></h2>
+    </div>
+    <div class="csi-steps rv rv-d1">
+      <div class="csi-step"><div class="csi-step__n">PASUL 01</div><h3>Brief</h3><p>Ne spui ce material îți trebuie, unde va fi folosit și ce trebuie să scrie pe el.</p></div>
+      <div class="csi-step"><div class="csi-step__n">PASUL 02</div><h3>Propunere</h3><p>Îți trimitem designul și îl ajustăm după observațiile tale.</p></div>
+      <div class="csi-step"><div class="csi-step__n">PASUL 03</div><h3>Fișiere de tipar</h3><p>Pregătim fișierele în CMYK, cu bleed și la 300 dpi, cum le cere tipografia.</p></div>
+      <div class="csi-step"><div class="csi-step__n">PASUL 04</div><h3>Varianta digitală</h3><p>Primești și un PDF interactiv, bun de trimis pe email sau de pus pe site.</p></div>
+    </div>
+    <div class="csi-prose rv rv-d2" style="margin-top:40px">
+      <p>Dacă firma nu are încă logo sau o identitate clară, începem cu ele, pentru că materialele arată unitar doar când pornesc de la același brand. Logo-ul costă 500€, iar restul pachetelor sunt pe pagina de <a href="/branding-identitate-vizuala/">branding și identitate vizuală</a>.</p>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Întrebări <span class="acc">frecvente</span></h2>
+    </div>
+    <div class="csi-faq rv">
+      <details>
+        <summary>Cât costă un flyer?</summary>
+        <p>Un flyer față-verso sau pliant costă 300€. Flyerul cu ilustrații desenate special și cu textele scrise de noi costă 600€. Primești fișierele pregătite pentru tipar, în CMYK, cu bleed și la 300 dpi.</p>
+      </details>
+      <details>
+        <summary>Cât costă o broșură de prezentare?</summary>
+        <p>300€ pentru o broșură de 5 pagini. Fiecare pagină în plus costă 15€, deci o broșură de 8 pagini ajunge la 345€.</p>
+      </details>
+      <details>
+        <summary>Cât costă un banner sau un roll-up?</summary>
+        <p>Bannerele, roll-up-urile, posterele și cărțile de vizită nu au preț fix și se fac cu tariful de 50€ pe oră. Un set coordonat de materiale pentru brand sau pentru un eveniment pornește de la 500€.</p>
+      </details>
+      <details>
+        <summary>În ce format primesc fișierele?</summary>
+        <p>Pentru tipar primești PDF în CMYK, cu bleed și la 300 dpi. Pentru online primești un PDF interactiv, bun de trimis pe email sau de pus pe site.</p>
+      </details>
+      <details>
+        <summary>Lucrați doar cu firme din Iași?</summary>
+        <p>Nu. Avem sediul în Iași, pe Bulevardul Nicolae Iorga 18, dar lucrăm cu firme din toată țara și din străinătate. Propunerile, modificările și fișierele finale circulă online.</p>
+      </details>
+      <details>
+        <summary>Pot comanda materiale grafice dacă firma nu are logo?</summary>
+        <p>Da, dar materialele arată unitar abia când firma are o identitate. Logo-ul costă 500€, iar Branding Standard, de 1.200€, include și cartea de vizită, dosarul și antetul pentru documente.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-cta" aria-labelledby="csi-cta-h">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="dd dd-lg csi-cta__h" id="csi-cta-h">Design grafic în Iași,<br><span class="acc">cu prețul scris dinainte.</span></h2>
+      <p class="csi-cta__p">Spune-ne ce material îți trebuie și unde îl folosești. Primești în 24 de ore o ofertă cu fiecare sumă scrisă separat.</p>
+      <div class="csi-cta__acts">
+        <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+        <a href="tel:+40771486499" class="btn btn-dark">+40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Branding, social media și prețuri">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Toate prețurile noastre sunt publice, serviciu cu serviciu. Alegi în cunoștință de cauză, fără presiune.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Mai departe, despre design</div>
+      <div class="rel-links__grid">
+        <a href="/branding-identitate-vizuala/" class="rel-link"><span class="rel-link__name">Branding și identitate vizuală <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/social-media-management/" class="rel-link"><span class="rel-link__name">Social media management <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-site-prezentare-iasi/" class="rel-link"><span class="rel-link__name">Creare site în Iași <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/blog/practic-vs-frumusete-in-design-de-pliante/" class="rel-link"><span class="rel-link__name">Practic și frumos în designul de pliante <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/blog/construind-o-identitate-distinctiva-un-chestionar-cuprinzator-pentru-designul-de-logo/" class="rel-link"><span class="rel-link__name">Înainte să comanzi un logo <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/preturi/" class="rel-link"><span class="rel-link__name">Toate prețurile <span class="arr" aria-hidden="true">↗</span></span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+3:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$6"}}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2e20r-1ylhx8v.css","precedence":"next"}]
+5:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

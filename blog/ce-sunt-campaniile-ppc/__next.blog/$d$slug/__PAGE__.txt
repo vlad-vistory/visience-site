@@ -1,0 +1,127 @@
+1:"$Sreact.fragment"
+b:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+c:"$Sreact.suspense"
+:HL["/_next/static/chunks/28or4npab1wgt.css","style"]
+2:Tb29,{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://visience.ro/#author-vlad","name":"Vlad Roman","jobTitle":"Fondator Visience","worksFor":{"@id":"https://visience.ro/#organization"},"sameAs":["https://www.linkedin.com/in/roman-vladut-constantin/"],"description":"Fondatorul Visience, agenția de web design și marketing digital din Iași, cu 12 ani de experiență în creare de site-uri, SEO și marketing."},{"@type":"Article","@id":"https://visience.ro/blog/ce-sunt-campaniile-ppc/#article","headline":"Ce sunt campaniile PPC și cum funcționează plata pe click","description":"Ce înseamnă PPC, unde rulează campaniile, cum se stabilește prețul unui click în Google, ce sunt CPC, CPM și CPA și cât plătești de fapt pe lună.","datePublished":"2026-11-24","dateModified":"2026-11-24","inLanguage":"ro-RO","author":{"@id":"https://visience.ro/#author-vlad"},"publisher":{"@id":"https://visience.ro/#organization"},"mainEntityOfPage":"https://visience.ro/blog/ce-sunt-campaniile-ppc/","articleSection":"Reclame & campanii"},{"@type":"FAQPage","@id":"https://visience.ro/blog/ce-sunt-campaniile-ppc/#faq","mainEntity":[{"@type":"Question","name":"Ce înseamnă PPC?","acceptedAnswer":{"@type":"Answer","text":"PPC vine de la „pay per click” și înseamnă publicitate online pentru care plătești când cineva dă click pe anunț. Cele mai folosite campanii PPC sunt cele din Google Ads, care apar în căutări, la produse, pe site-uri partenere și pe YouTube."}},{"@type":"Question","name":"Reclamele pe Facebook sunt tot campanii PPC?","acceptedAnswer":{"@type":"Answer","text":"În vorbirea obișnuită, da, pentru că sunt reclame plătite și măsurabile. Tehnic, Meta taxează implicit pe o mie de afișări, iar plata pe click se poate alege doar la unele obiective de campanie."}},{"@type":"Question","name":"Cât costă o campanie PPC?","acceptedAnswer":{"@type":"Answer","text":"Costul are două părți. Bugetul de reclamă, pe care îl recomandăm de la 500€ pe lună, se plătește direct la Google sau la Meta. Administrarea costă la noi 200€ pe lună pe platformă, oricâte campanii, minim 3 luni."}},{"@type":"Question","name":"În cât timp se văd rezultatele unei campanii PPC?","acceptedAnswer":{"@type":"Answer","text":"Vizitele apar din primele zile, dar campania are nevoie de câteva săptămâni de calibrare. De aceea lucrăm pe minim 3 luni, iar costul pe cerere se judecă după această perioadă."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://visience.ro/blog/"},{"@type":"ListItem","position":3,"name":"Ce sunt campaniile PPC și cum funcționează plata pe click","item":"https://visience.ro/blog/ce-sunt-campaniile-ppc/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","main",null,{"className":"blog-article","children":["$","div",null,{"className":"wrap blog-article__in","children":[["$","nav",null,{"className":"blog-bc","aria-label":"Breadcrumbs","children":[["$","a",null,{"href":"/","children":"Acasă"}],["$","span",null,{"className":"sep","children":"/"}],["$","a",null,{"href":"/blog/","children":"Blog"}],["$","span",null,{"className":"sep","children":"/"}],["$","span",null,{"children":"Articol"}]]}],["$","header",null,{"className":"blog-article__head","children":[["$","h1",null,{"children":"Ce sunt campaniile PPC și cum funcționează plata pe click"}],"$L3"]}],"$L4","$L5","$L6","$L7"]}]}]],["$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"e1_aymowhrjQPMhQGB0EH"}
+3:["$","div",null,{"className":"blog-article__meta","children":[["$","span",null,{"className":"blog-article__cat","children":"Reclame & campanii"}],["$","time",null,{"dateTime":"2026-11-24","children":"24 noiembrie 2026"}],["$","span",null,{"className":"blog-article__author","children":"de Vlad Roman · Fondator Visience"}]]}]
+a:T2e02,<style>
+.pp-sumar { border-left: 3px solid #9BC31A; padding: 4px 0 4px 22px; margin: 30px 0 34px; list-style: none; }
+.pp-sumar li { margin-bottom: 11px; }
+.pp-tab td:first-child { font-weight: 600; color: var(--ink); }
+.pp-nota { background: #111010; color: #fff; border-radius: 14px; padding: 20px 24px; margin: 28px 0; font-size: 15px; line-height: 1.65; }
+.pp-nota b { color: #9BC31A; display: block; font-size: 11px; letter-spacing: .16em; text-transform: uppercase; margin-bottom: 7px; }
+</style>
+
+<p class="key-answer"><strong>PPC</strong> vine de la „pay per click” și înseamnă reclamă online pentru care plătești când cineva dă click pe anunț, nu când îl vede. Cele mai cunoscute campanii PPC sunt cele din Google Ads, care apar în căutări, la produse, pe site-uri partenere și pe YouTube. Pe Facebook și Instagram plata se face de regulă pe afișări, dar campaniile se gândesc la fel.</p>
+
+<ul class="pp-sumar">
+  <li>Bugetul de reclamă îl plătești direct la Google sau la Meta, iar administrarea campaniilor se plătește separat.</li>
+  <li>Prețul unui click se stabilește la fiecare căutare, printr-o licitație în care contează și calitatea anunțului, nu doar suma oferită.</li>
+  <li>Rezultatul se judecă după cererile și vânzările aduse, nu după numărul de clickuri.</li>
+</ul>
+
+<h2 id="ce-inseamna">Ce înseamnă PPC</h2>
+<p>PPC este un model de plată, nu o platformă. Plătești pentru interacțiunea cu anunțul, adică pentru click, iar afișările în sine nu te costă nimic. În română se spune la fel de des „campanii plătite”, „reclame pe Google” sau „campanii Google Ads”.</p>
+<p>Diferența față de un banner clasic stă în control. Alegi pentru ce căutări sau pentru ce public apare anunțul, cât ești dispus să plătești pe click și cât poți cheltui pe zi. În cont vezi oricând câți bani au plecat și pe ce.</p>
+
+<h2 id="unde-ruleaza">Unde rulează campaniile PPC</h2>
+<p>Termenul PPC se folosește pentru toate rețelele de mai jos, chiar dacă la unele plata se face pe afișare.</p>
+<div class="tbl-wrap">
+<table class="pp-tab">
+  <thead><tr><th>Rețeaua</th><th>Unde apare anunțul</th><th>Cum plătești</th></tr></thead>
+  <tbody>
+    <tr><td>Google Search</td><td>Anunțul apare deasupra și sub rezultatele căutării, marcat ca sponsorizat.</td><td>Plătești când omul dă click pe anunț.</td></tr>
+    <tr><td>Google Shopping</td><td>Produsul apare cu poză, preț și numele magazinului, din lista de produse trimisă în Merchant Center.</td><td>Plătești când omul dă click pe produs.</td></tr>
+    <tr><td>Display</td><td>Anunțurile cu imagine apar pe site-uri și în aplicații partenere cu Google.</td><td>Plătești pe click sau pe o mie de afișări, după cum setezi campania.</td></tr>
+    <tr><td>YouTube</td><td>Reclama video rulează înainte, în timpul sau lângă clipuri.</td><td>Plătești pe vizionare sau pe afișări, în funcție de tipul campaniei.</td></tr>
+    <tr><td>Facebook și Instagram</td><td>Anunțul apare în feed, în stories și în reels, la publicul ales de tine.</td><td>Meta taxează implicit pe o mie de afișări, iar plata pe click se poate alege doar la unele obiective.</td></tr>
+  </tbody>
+</table>
+</div>
+<p>Google mai are campaniile Performance Max, care pun același set de anunțuri în toate rețelele lui, inclusiv în Gmail și pe hărți. Ele merg bine când contul are deja destule conversii din care algoritmul să învețe.</p>
+
+<h2 id="licitatia">Cum se stabilește prețul unui click în Google</h2>
+<p>La fiecare căutare, Google ține o licitație între firmele care vor să apară pentru cuvintele respective. Ordinea anunțurilor nu o decide doar suma oferită. Google calculează pentru fiecare anunț un clasament, numit Ad Rank, din mai multe lucruri.</p>
+<ul>
+  <li>Prima este suma maximă pe care ești dispus s-o plătești pe click, setată de tine sau de strategia automată de licitare.</li>
+  <li>A doua este calitatea anunțului, adică cât de legat e de căutare, cât de probabil e să primească click și cât de utilă e pagina pe care ajunge omul.</li>
+  <li>Contează și contextul căutării, cum sunt locul, ora, dispozitivul și celelalte anunțuri care concurează în acel moment.</li>
+  <li>Google estimează și efectul extensiilor, cum sunt numărul de telefon, linkurile spre alte pagini sau adresa firmei.</li>
+</ul>
+<p>De cele mai multe ori plătești mai puțin decât suma maximă setată. Prețul real al click-ului este cât îți trebuie ca să treci de anunțul aflat sub tine în clasament. Un anunț bun, legat de o pagină care răspunde la căutare, poate sta mai sus decât al unui concurent care oferă mai mult pe click.</p>
+<p>Din acest motiv, munca la textul anunțului și la pagina pe care ajunge omul scade prețul fiecărui click.</p>
+
+<h2 id="cpc-cpm-cpa">CPC, CPM și CPA</h2>
+<div class="tbl-wrap">
+<table class="pp-tab">
+  <thead><tr><th>Prescurtarea</th><th>Ce înseamnă</th><th>Când contează</th></tr></thead>
+  <tbody>
+    <tr><td>CPC, cost pe click</td><td>Este suma plătită, în medie, pentru un click pe anunț.</td><td>Contează în căutări și la Shopping, unde plata se face pe click.</td></tr>
+    <tr><td>CPM, cost pe o mie de afișări</td><td>Este suma plătită pentru o mie de afișări ale anunțului, indiferent de clickuri.</td><td>Contează pe Facebook, Instagram, YouTube și Display, unde reclama se plătește des pe afișare.</td></tr>
+    <tr><td>CPA, cost pe acțiune</td><td>Este bugetul împărțit la numărul de cereri, comenzi sau apeluri aduse de campanie.</td><td>Contează la orice campanie, pentru că arată cât te costă un client, nu o vizită.</td></tr>
+  </tbody>
+</table>
+</div>
+<p>CPA-ul este de obicei o țintă, nu felul în care ești taxat. Poți cere platformei să liciteze astfel încât să atingă un anumit cost pe cerere, dar factura vine tot pe click sau pe afișare. Cum urmărești aceste cifre de la o lună la alta am scris în articolul despre <a href="/blog/campaniile-ppc-de-succes-cum-sa-masori-eficienta-si-sa-obtii-cele-mai-bune-rezultate/">măsurarea campaniilor PPC</a>.</p>
+
+<div class="pp-nota"><b>De reținut</b>Un cost pe click mic nu înseamnă o campanie bună. Dacă oamenii dau click, dar nu cer ofertă, plătești ieftin pentru vizite care nu aduc nimic. Cifra care decide este costul pe cerere și, mai departe, costul pe client.</div>
+
+<h2 id="cat-platesti">Ce plătești de fapt pe lună</h2>
+<p>O campanie PPC are două costuri separate. Primul este bugetul de reclamă, pe care îl plătești direct la Google sau la Meta, de pe cardul firmei, iar factura o primești de la ei. Al doilea este onorariul celui care face și urmărește campaniile.</p>
+<div class="tbl-wrap">
+<table class="pp-tab">
+  <thead><tr><th>Serviciul</th><th>Cât costă la noi</th></tr></thead>
+  <tbody>
+    <tr><td>Administrarea campaniilor Google Ads</td><td>200€ pe lună, oricâte campanii, minim 3 luni</td></tr>
+    <tr><td>Administrarea campaniilor Meta, pe Facebook și Instagram</td><td>200€ pe lună, oricâte campanii, minim 3 luni</td></tr>
+    <tr><td>Configurarea contului, a conversiilor și a legăturii cu GA4</td><td>200€ o dată, gratuit la contract pe 12 luni</td></tr>
+    <tr><td>Remarketing pe Google și Facebook</td><td>200€ o dată</td></tr>
+    <tr><td>Google Shopping, cu Merchant Center și lista de produse</td><td>100€ o dată</td></tr>
+    <tr><td>Landing page de campanie</td><td>500€ o dată</td></tr>
+  </tbody>
+</table>
+</div>
+<p>Bugetul de reclamă pe care îl recomandăm pornește de la 500€ pe lună. Pe o singură platformă, cu acest buget, ajungi la 700€ pe lună, din care 500€ merg la Google sau la Meta și 200€ la administrare.</p>
+<p>Cum alegi bugetul de pornire am scris în articolul despre <a href="/blog/buget-minim-reclame-firma-mica/">bugetul minim pentru reclame</a>. De ce administrarea are o sumă fixă, nu un procent din buget, găsești pe pagina cu <a href="/pret-administrare-google-ads/">prețul administrării Google Ads</a>, iar celelalte moduri de plată sunt comparate în <a href="/blog/cat-costa-managementul-reclamelor-google-meta/">cât costă managementul reclamelor</a>.</p>
+
+<h2 id="ppc-sau-seo">Când alegi PPC și când alegi SEO</h2>
+<p>PPC aduce vizite din primele zile în care rulează campania, iar vizitele se opresc odată cu bugetul. SEO urcă site-ul în rezultatele obișnuite, unde click-ul nu se plătește, dar efectul se vede abia după câteva luni. Cele două nu se exclud, iar multe firme pornesc cu reclame cât timp lucrează la SEO.</p>
+<ul>
+  <li>PPC se potrivește când lansezi ceva nou, când ai o ofertă cu termen sau când vrei să afli repede dacă un serviciu se cere.</li>
+  <li>SEO se potrivește când poți aștepta câteva luni, pentru că o pagină bine poziționată aduce vizite fără să plătești fiecare click.</li>
+  <li>SEO e mai potrivit și pentru întrebările pe care oamenii le pun înainte să cumpere, unde un articol clar câștigă încrederea mai bine decât un anunț.</li>
+</ul>
+<p>Strategia SEO lunară costă la noi 600€ pe lună, pe minim 6 luni, iar detaliile sunt pe pagina de <a href="/optimizare-seo/">optimizare SEO</a>.</p>
+
+<h2 id="cum-incepi">Cum pornești prima campanie PPC</h2>
+<ol>
+  <li>Măsurarea se pune la punct înainte de primul ban cheltuit. Formularul, apelul și mesajul pe WhatsApp trebuie să apară în cont ca o conversie, altfel nu știi ce campanie aduce cereri.</li>
+  <li>Omul trebuie să ajungă pe o pagină care răspunde exact la anunț, nu pe prima pagină a site-ului. Diferența e explicată în articolul despre <a href="/blog/landing-page-dupa-click-reclama/">landing page</a>.</li>
+  <li>La început alegi un singur serviciu și o singură zonă. O campanie mică, bine țintită, învață mai repede decât cinci campanii cu bugetul împărțit între ele.</li>
+  <li>Cuvintele-cheie negative se adaugă din prima săptămână. Căutări ca „gratis”, „angajare” sau „second hand” consumă buget fără să aducă clienți.</li>
+  <li>Rezultatele se judecă după primele trei luni. Prima lună e mai mult calibrare, iar costul pe cerere se așază abia după aceea.</li>
+</ol>
+
+<h2 id="intrebari">Întrebări frecvente</h2>
+
+<h3>Ce înseamnă PPC?</h3>
+<p>PPC vine de la „pay per click” și înseamnă publicitate online pentru care plătești când cineva dă click pe anunț. Cele mai folosite campanii PPC sunt cele din Google Ads, care apar în căutări, la produse, pe site-uri partenere și pe YouTube.</p>
+
+<h3>Reclamele pe Facebook sunt tot campanii PPC?</h3>
+<p>În vorbirea obișnuită, da, pentru că sunt reclame plătite și măsurabile. Tehnic, Meta taxează implicit pe o mie de afișări, iar plata pe click se poate alege doar la unele obiective de campanie.</p>
+
+<h3>Cât costă o campanie PPC?</h3>
+<p>Costul are două părți. Bugetul de reclamă, pe care îl recomandăm de la 500€ pe lună, se plătește direct la Google sau la Meta. Administrarea costă la noi 200€ pe lună pe platformă, oricâte campanii, minim 3 luni.</p>
+
+<h3>În cât timp se văd rezultatele unei campanii PPC?</h3>
+<p>Vizitele apar din primele zile, dar campania are nevoie de câteva săptămâni de calibrare. De aceea lucrăm pe minim 3 luni, iar costul pe cerere se judecă după această perioadă.</p>
+
+<h2 id="mai-departe">Mai departe</h2>
+<p>Cum lucrăm pe fiecare platformă găsești pe pagina de <a href="/google-meta-ads/">campanii Google și Meta</a>. Dacă ai deja campanii pornite și vrei să afli dacă aduc clienți, citește <a href="/blog/cum-masor-daca-reclamele-aduc-clienti/">cum măsori dacă reclamele aduc clienți reali</a>.</p>
+4:["$","div",null,{"className":"blog-prose","dangerouslySetInnerHTML":{"__html":"$a"}}]
+5:["$","div",null,{"className":"parere","children":[["$","span",null,{"className":"parere__q","children":"Ți-a fost utilă pagina?"}],["$","div",null,{"className":"parere__btns","children":[["$","button",null,{"type":"button","data-nota":"da","children":"Da"}],["$","button",null,{"type":"button","data-nota":"partial","children":"Parțial"}],["$","button",null,{"type":"button","data-nota":"nu","children":"Nu"}]]}],["$","div",null,{"className":"parere__extra","hidden":true,"children":["$","form",null,{"children":[["$","textarea",null,{"rows":2,"placeholder":"Ce ai fi vrut să găsești aici? (opțional)"}],["$","button",null,{"className":"btn btn-solid","type":"submit","children":"Trimite"}]]}]}]]}]
+6:["$","div",null,{"className":"blog-author","children":[["$","span",null,{"className":"blog-author__ava","aria-hidden":"true","children":"V"}],["$","div",null,{"className":"blog-author__body","children":[["$","span",null,{"className":"blog-author__name","children":"Vlad Roman"}],["$","span",null,{"className":"blog-author__role","children":["Fondator Visience · ",["$","a",null,{"href":"https://www.linkedin.com/in/roman-vladut-constantin/","target":"_blank","rel":"noopener","className":"blog-author__link","children":"LinkedIn ↗"}]]}],["$","p",null,{"className":"blog-author__bio","children":"Conduce Visience, agenția de web design și marketing digital din Iași. Scrie despre creare de site-uri, SEO și cum își cresc afacerile mici și mijlocii prezența online."}]]}]]}]
+7:["$","div",null,{"className":"blog-article__cta","children":[["$","p",null,{"children":"Vrei un site, un magazin online sau o strategie de marketing pentru afacerea ta? La noi vezi de la început cât costă — fără prețuri ascunse."}],["$","div",null,{"className":"blog-article__cta-acts","children":[["$","a",null,{"href":"/contact/","className":"btn btn-solid","children":"Cere ofertă"}],["$","a",null,{"href":"/preturi/","className":"btn btn-ghost","children":"Vezi prețurile"}],["$","a",null,{"href":"/blog/","className":"btn btn-ghost","children":"Toate articolele"}]]}]]}]
+8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/28or4npab1wgt.css","precedence":"next"}]
+9:["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]
+d:null

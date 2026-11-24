@@ -1,0 +1,234 @@
+1:"$Sreact.fragment"
+7:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["/_next/static/chunks/2e20r-1ylhx8v.css","style"]
+2:Te7b,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/email-marketing/#service","name":"Email marketing","serviceType":"Email marketing și automatizări de email","description":"Email marketing: 300€ pe lună pentru campanii, cu texte, design, segmentare și teste A/B. Automatizări de la 300€ pe secvență, în Mailchimp, Brevo sau Klaviyo.","url":"https://visience.ro/email-marketing/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"100","highPrice":"300","offerCount":"3"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Prețuri email marketing","itemListElement":[{"@type":"Offer","name":"Management campanii email","price":"300","priceCurrency":"EUR","description":"300€ pe lună: calendar lunar de campanii, texte și design, segmentarea listei de abonați, testare A/B și raport lunar.","itemOffered":{"@type":"Service","name":"Management campanii email"}},{"@type":"Offer","name":"Automatizări email","price":"300","priceCurrency":"EUR","description":"De la 300€ pe secvență: emailuri automate pentru clienți noi, fidelizare și coș abandonat, cu segmentare și raportare.","itemOffered":{"@type":"Service","name":"Automatizări email"}},{"@type":"Offer","name":"Integrare newsletter pe site","price":"100","priceCurrency":"EUR","description":"Formularul de abonare de pe site, legat de platforma de email.","itemOffered":{"@type":"Service","name":"Integrare newsletter pe site"}}]}},{"@type":"FAQPage","@id":"https://visience.ro/email-marketing/#faq","mainEntity":[{"@type":"Question","name":"Cât costă email marketingul pe lună?","acceptedAnswer":{"@type":"Answer","text":"300€ pe lună pentru managementul campaniilor, cu calendarul lunar, textele, designul, segmentarea listei, testarea A/B și raportul lunar. Automatizările se plătesc separat, de la 300€ pe secvență de emailuri."}},{"@type":"Question","name":"Ce este o automatizare de email?","acceptedAnswer":{"@type":"Answer","text":"Este o serie de emailuri care pleacă singure atunci când clientul face o acțiune, de exemplu se abonează, cumpără sau lasă produse în coș. O configurăm o singură dată, apoi trimite mesajele fără să le mai pornească cineva manual."}},{"@type":"Question","name":"Ce platformă de email folosiți?","acceptedAnswer":{"@type":"Answer","text":"Lucrăm cu Mailchimp, Brevo și Klaviyo. Toate trei permit segmentarea listei, testarea A/B și emailuri automate."}},{"@type":"Question","name":"Pot trimite emailuri tuturor clienților din baza mea de date?","acceptedAnswer":{"@type":"Answer","text":"Doar celor care și-au dat acordul să primească emailuri de marketing de la tine. Fiecare email are un link de dezabonare, iar cine se dezabonează iese din listă."}},{"@type":"Question","name":"Magazinul online are emailul pentru coșul abandonat?","acceptedAnswer":{"@type":"Answer","text":"La magazinul online Standard, de 1.800€, și la Premium, de 3.500€, emailul pentru coșul abandonat e inclus. La magazinul Basic îl poți adăuga ca automatizare, de la 300€ pe secvență."}},{"@type":"Question","name":"Puteți pune un formular de abonare pe site?","acceptedAnswer":{"@type":"Answer","text":"Da. Integrarea newsletterului pe site costă 100€, o singură dată. Formularul are bifa de acord și trimite abonații direct în platforma de email."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Email marketing","item":"https://visience.ro/email-marketing/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"e1_aymowhrjQPMhQGB0EH"}
+6:T3160,<main id="main">
+
+<section class="csi-hero" aria-labelledby="csi-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="20%" x2="100%" y2="66%"/>
+      <line x1="0" y1="56%" x2="100%" y2="16%"/>
+      <line x1="22%" y1="0" x2="80%" y2="100%"/>
+      <line x1="68%" y1="0" x2="12%" y2="100%"/>
+    </svg>
+  </div>
+  <div class="wrap">
+    <nav class="csi-breadcrumbs" aria-label="Breadcrumbs">
+      <a href="/">Acasă</a><span class="sep">/</span>
+      <a href="/#servicii">Servicii</a><span class="sep">/</span>
+      <span>Email marketing</span>
+    </nav>
+
+    <h1 class="csi-hero__h1" id="csi-h1">
+      Email marketing:<br>
+      <span class="acc">300€ pe lună</span>
+    </h1>
+
+    <p class="csi-hero__lead">Planificăm, scriem și trimitem campaniile de email ale firmei tale în fiecare lună. Automatizările, care trimit singure emailul potrivit, pornesc de la 300€ pe secvență.</p>
+
+    <div class="csi-hero__acts">
+      <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+      <a href="#preturi" class="btn btn-ghost" style="border-color:rgba(255,255,255,.25);color:#fff">Vezi prețurile</a>
+    </div>
+
+    <div class="csi-hero__stats">
+      <div class="csi-hero__stat"><span class="n">300€</span><span class="l">pe lună campaniile de email</span></div>
+      <div class="csi-hero__stat"><span class="n">300€</span><span class="l">pe secvență automată, prețul de pornire</span></div>
+      <div class="csi-hero__stat"><span class="n">100€</span><span class="l">formularul de abonare pe site</span></div>
+      <div class="csi-hero__stat"><span class="n">Lunar</span><span class="l">raport cu rezultatele</span></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Campanii lunare <span class="acc">și emailuri automate</span></h2>
+    </div>
+    <div class="csi-types rv rv-d1">
+      <div class="csi-type">
+        <span class="csi-type__n">01</span>
+        <div>
+          <h3>Campaniile lunare costă 300€ pe lună</h3>
+          <p>Sunt newsletterele cu oferte, produse noi și noutăți despre firmă. Facem calendarul lunii, scriem textele, facem designul și trimitem campaniile, apoi primești raportul.</p>
+        </div>
+      </div>
+      <div class="csi-type">
+        <span class="csi-type__n">02</span>
+        <div>
+          <h3>Automatizările pornesc de la 300€ pe secvență</h3>
+          <p>Sunt emailuri care pleacă singure când clientul face ceva: se abonează, cumpără sau lasă produse în coș. Le configurăm o dată, apoi merg fără să le mai trimită cineva manual.</p>
+        </div>
+      </div>
+    </div>
+    <div class="csi-prose rv rv-d2" style="margin-top:40px">
+      <p>Campaniile țin legătura cu oamenii care te cunosc deja. Automatizările trimit mesajul imediat după o acțiune a clientului, de exemplu după ce a pus produse în coș și n-a terminat comanda.</p>
+      <p>Trimitem emailurile prin Mailchimp, Brevo sau Klaviyo. Designul e făcut să se citească bine și pe telefon, și pe calculator.</p>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream" id="preturi">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Prețurile pentru <span class="acc">email marketing</span></h2>
+    </div>
+    <div class="csi-tbl rv">
+      <table>
+        <thead>
+          <tr><th>Serviciu</th><th>Preț</th><th>Ce intră</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Management campanii email</td><td>300€ pe lună</td><td>Calendarul lunar al campaniilor, textele și designul, segmentarea listei de abonați, testare A/B și raport lunar.</td></tr>
+          <tr><td>Automatizări email</td><td>de la 300€ pe secvență</td><td>O secvență completă de emailuri care pornesc singure, de exemplu pentru clienții noi, pentru fidelizare sau pentru coșul abandonat. Intră și segmentarea, și raportarea.</td></tr>
+          <tr><td>Integrare newsletter pe site</td><td>100€ o dată</td><td>Formularul de abonare de pe site, legat de platforma de email.</td></tr>
+          <tr><td>Email pentru coșul abandonat</td><td>inclus la magazinul Standard</td><td>La magazinul online Standard, de 1.800€, și la Premium, de 3.500€, emailul pentru coșul abandonat face parte din magazin.</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="csi-pr-note rv rv-d2">
+      <a href="/preturi/">Vezi toate prețurile</a> sau <a href="/contact/">cere o ofertă</a>. Răspundem în 24 de ore.
+    </p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">O lună de campanii, <span class="acc">pas cu pas</span></h2>
+    </div>
+    <div class="csi-steps rv rv-d1">
+      <div class="csi-step"><div class="csi-step__n">PLANIFICARE</div><h3>Calendarul campaniilor</h3><p>Stabilim ce trimitem în luna următoare și cui: oferte, produse noi sau noutăți despre firmă.</p></div>
+      <div class="csi-step"><div class="csi-step__n">SCRIERE</div><h3>Text și design</h3><p>Scriem emailul și îl facem să arate bine pe telefon și pe calculator.</p></div>
+      <div class="csi-step"><div class="csi-step__n">TRIMITERE</div><h3>Segmentare și testare</h3><p>Împărțim lista pe grupuri și testăm două variante ale aceluiași email, ca să vedem care funcționează mai bine.</p></div>
+      <div class="csi-step"><div class="csi-step__n">LUNAR</div><h3>Raport</h3><p>Primești rezultatele fiecărei campanii și ce schimbăm în luna următoare.</p></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream2">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Secvențe care <span class="acc">pleacă singure</span></h2>
+    </div>
+    <div class="csi-grid rv rv-d1">
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-hand"></i></div>
+        <h3>Client nou</h3>
+        <p>Câteva emailuri după prima comandă sau după înscriere, în care omul află cine ești și ce mai poate cumpăra de la tine.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-cart-shopping"></i></div>
+        <h3>Coș abandonat</h3>
+        <p>Un email către cel care a pus produse în coș și n-a terminat comanda, cu produsele pe care le-a lăsat acolo.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-reply"></i></div>
+        <h3>După o cerere de ofertă</h3>
+        <p>Un email trimis automat după ce cineva a completat formularul, ca să știe că cererea a ajuns.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-heart"></i></div>
+        <h3>Fidelizare</h3>
+        <p>Mesaje pentru clienții care au mai cumpărat, de exemplu o ofertă de ziua lor sau o reducere la a doua comandă.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Lista de abonați <span class="acc">și acordul lor</span></h2>
+    </div>
+    <div class="csi-prose rv rv-d1">
+      <p>Emailurile de marketing se trimit doar oamenilor care s-au abonat și și-au dat acordul. Fiecare email are la final un link de dezabonare, iar cine îl apasă iese din listă.</p>
+      <p>Dacă ai deja o listă de clienți, ne uităm întâi de unde vine și dacă oamenii au acceptat să primească emailuri de la tine. Pentru abonați noi punem pe site formularul de abonare, cu bifa de acord, la 100€.</p>
+      <p>Emailul merge cel mai bine împreună cu celelalte canale. Oamenii ajung pe listă din <a href="/social-media-management/">rețelele sociale</a> sau din <a href="/google-meta-ads/">campaniile Google și Meta</a>, iar emailul îi aduce înapoi pe site.</p>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Întrebări <span class="acc">frecvente</span></h2>
+    </div>
+    <div class="csi-faq rv">
+      <details>
+        <summary>Cât costă email marketingul pe lună?</summary>
+        <p>300€ pe lună pentru managementul campaniilor, cu calendarul lunar, textele, designul, segmentarea listei, testarea A/B și raportul lunar. Automatizările se plătesc separat, de la 300€ pe secvență de emailuri.</p>
+      </details>
+      <details>
+        <summary>Ce este o automatizare de email?</summary>
+        <p>Este o serie de emailuri care pleacă singure atunci când clientul face o acțiune, de exemplu se abonează, cumpără sau lasă produse în coș. O configurăm o singură dată, apoi trimite mesajele fără să le mai pornească cineva manual.</p>
+      </details>
+      <details>
+        <summary>Ce platformă de email folosiți?</summary>
+        <p>Lucrăm cu Mailchimp, Brevo și Klaviyo. Toate trei permit segmentarea listei, testarea A/B și emailuri automate.</p>
+      </details>
+      <details>
+        <summary>Pot trimite emailuri tuturor clienților din baza mea de date?</summary>
+        <p>Doar celor care și-au dat acordul să primească emailuri de marketing de la tine. Fiecare email are un link de dezabonare, iar cine se dezabonează iese din listă.</p>
+      </details>
+      <details>
+        <summary>Magazinul online are emailul pentru coșul abandonat?</summary>
+        <p>La magazinul online Standard, de 1.800€, și la Premium, de 3.500€, emailul pentru coșul abandonat e inclus. La magazinul Basic îl poți adăuga ca automatizare, de la 300€ pe secvență.</p>
+      </details>
+      <details>
+        <summary>Puteți pune un formular de abonare pe site?</summary>
+        <p>Da. Integrarea newsletterului pe site costă 100€, o singură dată. Formularul are bifa de acord și trimite abonații direct în platforma de email.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-cta" aria-labelledby="csi-cta-h">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="dd dd-lg csi-cta__h" id="csi-cta-h">Campaniile de email,<br><span class="acc">trimise în fiecare lună.</span></h2>
+      <p class="csi-cta__p">Spune-ne ce vinzi și câți abonați ai. Primești în 24 de ore o ofertă cu fiecare sumă scrisă separat.</p>
+      <div class="csi-cta__acts">
+        <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+        <a href="tel:+40771486499" class="btn btn-dark">+40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Servicii de marketing și prețuri">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Toate prețurile noastre sunt publice, serviciu cu serviciu. Alegi în cunoștință de cauză, fără presiune.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Mai departe, despre marketing</div>
+      <div class="rel-links__grid">
+        <a href="/social-media-management/" class="rel-link"><span class="rel-link__name">Social media management <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/google-meta-ads/" class="rel-link"><span class="rel-link__name">Campanii Google și Meta <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/pret-magazin-online/" class="rel-link"><span class="rel-link__name">Preț magazin online <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/creare-magazin-online/" class="rel-link"><span class="rel-link__name">Creare magazin online <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/blog/importanta-unui-newsletter-bine-configurat-in-wordpress-exemple-de-plugin-uri-si-tipuri-de-mailuri-pentru-clienti/" class="rel-link"><span class="rel-link__name">Newsletterul în WordPress <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/preturi/" class="rel-link"><span class="rel-link__name">Toate prețurile <span class="arr" aria-hidden="true">↗</span></span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+3:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$6"}}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2e20r-1ylhx8v.css","precedence":"next"}]
+5:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

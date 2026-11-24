@@ -1,0 +1,277 @@
+1:"$Sreact.fragment"
+7:I[97367,["/_next/static/chunks/1fkw942u-_dr5.js","/_next/static/chunks/24ag4weogx3og.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["/_next/static/chunks/2e20r-1ylhx8v.css","style"]
+2:T1097,{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://visience.ro/branding-imobiliar/#service","name":"Branding pentru proiecte imobiliare","serviceType":"Branding de ansamblu rezidențial","description":"Branding pentru ansambluri rezidențiale: nume, siglă, culori și brand book, aplicate pe site, șantier și reclame. Logo 500€, identitate completă 1.200€.","url":"https://visience.ro/branding-imobiliar/","provider":{"@id":"https://visience.ro/#organization"},"areaServed":{"@type":"Country","name":"România"},"offers":{"@type":"AggregateOffer","priceCurrency":"EUR","lowPrice":"500","highPrice":"2500","offerCount":"3"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Prețuri branding imobiliar","itemListElement":[{"@type":"Offer","name":"Logo","price":"500","priceCurrency":"EUR","description":"Siglă unică, o revizie, toate variantele pentru tipar și online.","itemOffered":{"@type":"Service","name":"Logo"}},{"@type":"Offer","name":"Branding Standard","price":"1200","priceCurrency":"EUR","description":"3 variante de logo, 3 revizii, identitate completă, carte de vizită, dosar și antet.","itemOffered":{"@type":"Service","name":"Branding Standard"}},{"@type":"Offer","name":"Branding Premium","price":"2500","priceCurrency":"EUR","description":"Tot din Standard, plus 6 revizii, brand book complet, animația siglei, flyer și banner pentru social media.","itemOffered":{"@type":"Service","name":"Branding Premium"}},{"@type":"Offer","name":"Broșură de prezentare","price":"300","priceCurrency":"EUR","description":"5 pagini, fiecare pagină în plus 15€.","itemOffered":{"@type":"Service","name":"Broșură de prezentare"}},{"@type":"Offer","name":"Analiză de zonă","price":"800","priceCurrency":"EUR","description":"Ansamblurile concurente, cererea online și prețurile din jur.","itemOffered":{"@type":"Service","name":"Analiză de zonă"}}]}},{"@type":"FAQPage","@id":"https://visience.ro/branding-imobiliar/#faq","mainEntity":[{"@type":"Question","name":"Cât costă brandingul pentru un ansamblu rezidențial?","acceptedAnswer":{"@type":"Answer","text":"Logo-ul costă 500€, identitatea vizuală completă 1.200€, iar varianta cu brand book și animația siglei 2.500€. Broșura de prezentare costă 300€ pentru 5 pagini, iar bannerele de șantier și celelalte materiale de tipar se fac la 50€ pe oră."}},{"@type":"Question","name":"Ce fișiere primesc la final?","acceptedAnswer":{"@type":"Answer","text":"Primești sigla în toate formatele necesare, vectorial, PNG, JPG și PDF, cu variante pentru tipar și pentru online. La Branding Premium primești și brand book-ul, cu regulile de folosire a siglei, a culorilor și a fonturilor."}},{"@type":"Question","name":"Faceți și numele ansamblului?","acceptedAnswer":{"@type":"Answer","text":"Da. Numele îl stabilim înainte de siglă, pornind de la zonă și de la cumpărătorii pe care îi cauți. Un nume ales bine se reține ușor și se găsește ușor pe Google."}},{"@type":"Question","name":"Are nevoie fiecare ansamblu de brandul lui?","acceptedAnswer":{"@type":"Answer","text":"De regulă, da, pentru că fiecare ansamblu are alt public și altă zonă. Firma de dezvoltare are însă nevoie de un brand propriu, pe care oamenii îl țin minte de la un proiect la altul."}},{"@type":"Question","name":"Ale cui sunt fișierele de brand?","acceptedAnswer":{"@type":"Answer","text":"Ale tale. Fișierele de brand, randările, accesele și rapoartele rămân la tine, chiar dacă nu mai lucrăm împreună."}},{"@type":"Question","name":"Faceți și site-ul și reclamele ansamblului?","acceptedAnswer":{"@type":"Answer","text":"Da. Facem și site-ul cu pagini pe tipuri de apartamente, campaniile Google și Meta și CRM-ul în care intră toate cererile. Toate serviciile sunt pe pagina de marketing pentru dezvoltatori imobiliari."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://visience.ro/"},{"@type":"ListItem","position":2,"name":"Dezvoltatori imobiliari","item":"https://visience.ro/marketing-dezvoltatori-imobiliari/"},{"@type":"ListItem","position":3,"name":"Branding imobiliar","item":"https://visience.ro/branding-imobiliar/"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"e1_aymowhrjQPMhQGB0EH"}
+6:T3c5d,<main id="main">
+
+<section class="csi-hero" aria-labelledby="csi-h1">
+  <div class="line-bg" aria-hidden="true">
+    <svg width="100%" height="100%" preserveAspectRatio="none">
+      <line x1="0" y1="30%" x2="100%" y2="70%"/>
+      <line x1="0" y1="66%" x2="100%" y2="24%"/>
+      <line x1="18%" y1="0" x2="80%" y2="100%"/>
+      <line x1="62%" y1="0" x2="22%" y2="100%"/>
+    </svg>
+  </div>
+  <div class="wrap">
+    <nav class="csi-breadcrumbs" aria-label="Breadcrumbs">
+      <a href="/">Acasă</a><span class="sep">/</span>
+      <a href="/marketing-dezvoltatori-imobiliari/">Dezvoltatori imobiliari</a><span class="sep">/</span>
+      <span>Branding imobiliar</span>
+    </nav>
+
+    <h1 class="csi-hero__h1" id="csi-h1">
+      Branding pentru<br>
+      <span class="acc">proiecte imobiliare</span>
+    </h1>
+
+    <p class="csi-hero__lead">Facem numele, sigla și identitatea vizuală a ansamblului, apoi le aplicăm pe site, pe șantier și în reclame. Brandul rămâne același de la primul banner până la ultimul apartament vândut.</p>
+
+    <div class="csi-hero__acts">
+      <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+      <a href="#proiecte" class="btn btn-ghost" style="border-color:rgba(255,255,255,.25);color:#fff">Vezi proiectele</a>
+    </div>
+
+    <div class="csi-hero__stats">
+      <div class="csi-hero__stat"><span class="n">500€</span><span class="l">logo pentru ansamblu</span></div>
+      <div class="csi-hero__stat"><span class="n">1.200€</span><span class="l">identitate vizuală completă</span></div>
+      <div class="csi-hero__stat"><span class="n">2.500€</span><span class="l">cu brand book și animație</span></div>
+      <div class="csi-hero__stat"><span class="n">8.200+</span><span class="l">lead-uri în proiecte imobiliare</span></div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Ce conține brandul <span class="acc">unui ansamblu</span></h2>
+    </div>
+    <div class="csi-grid rv rv-d1">
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-signature"></i></div>
+        <h3>Numele</h3>
+        <p>Numele ansamblului trebuie să se rețină ușor și să se potrivească cu zona și cu cumpărătorii pe care îi cauți.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-pen-nib"></i></div>
+        <h3>Sigla</h3>
+        <p>Sigla vine cu variante pentru fundal deschis și închis, pentru tipar și pentru online.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-palette"></i></div>
+        <h3>Culorile și fonturile</h3>
+        <p>Paleta și fonturile fac ca site-ul, bannerul de pe gard și reclama să arate ca același proiect.</p>
+      </div>
+      <div class="csi-card">
+        <div class="csi-card__ico"><i class="fas fa-book"></i></div>
+        <h3>Brand book</h3>
+        <p>Brand book-ul scrie regulile de folosire, ca tipografia sau agenția de vânzări să le aplice corect.</p>
+      </div>
+    </div>
+    <div class="csi-prose rv rv-d2" style="margin-top:40px">
+      <p>Un brand de proiect imobiliar începe cu un nume de companie bine ales, apoi cu un nume de ansamblu pe măsură. Oamenii țin minte firma, așa că la următorul proiect pornești cu notorietate, nu de la zero.</p>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream" id="proiecte">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Ansambluri cu brandul <span class="acc">făcut de noi</span></h2>
+    </div>
+    <div class="csi-grid rv rv-d1">
+      <a class="csi-shot" href="/proiecte/cameo-residence/">
+        <div class="csi-shot__img" style="aspect-ratio:4/5">
+          <img src="/media/tiles/v2/cameo-residence.avif" alt="Sigla Cameo Residence pe randarea ansamblului din Iași" loading="lazy" width="720" height="900">
+        </div>
+        <div class="csi-shot__cap"><strong>Cameo Residence</strong>Logo, website cu pagini pe apartament, social media și campanii Meta.<span class="csi-shot__url"><span class="cu-vistory">cu Vistory</span></span></div>
+      </a>
+      <a class="csi-shot" href="/proiecte/vlaicu87/">
+        <div class="csi-shot__img" style="aspect-ratio:4/5">
+          <img src="/media/tiles/v2/vlaicu87.avif" alt="Sigla Vlaicu87 pe randarea ansamblului" loading="lazy" width="720" height="900">
+        </div>
+        <div class="csi-shot__cap"><strong>Vlaicu87</strong>Branding de ansamblu și website.<span class="csi-shot__url"><span class="cu-vistory">cu Vistory</span></span></div>
+      </a>
+      <a class="csi-shot" href="/proiecte/picolina/">
+        <div class="csi-shot__img" style="aspect-ratio:4/5">
+          <img src="/media/tiles/v3/picolina-b.avif" alt="Sigla Picolina Bucium Residence pe randarea blocului" loading="lazy" width="720" height="900">
+        </div>
+        <div class="csi-shot__cap"><strong>Picolina Bucium</strong>Case și blocuri, cu brand, site, campanii și materiale de vânzare.<span class="csi-shot__url"><span class="cu-vistory">cu Vistory</span></span></div>
+      </a>
+      <a class="csi-shot" href="/proiecte/grand-beetle/">
+        <div class="csi-shot__img" style="aspect-ratio:4/5">
+          <img src="/media/tiles/v3/grand-beetle.avif" alt="Sigla Grand Beetle pe randarea ansamblului din Iași" loading="lazy" width="720" height="900">
+        </div>
+        <div class="csi-shot__cap"><strong>Grand Beetle</strong>Identitate și website pentru un ansamblu nou din Iași.<span class="csi-shot__url"><span class="cu-vistory">cu Vistory</span></span></div>
+      </a>
+    </div>
+    <div class="rv rv-d2" style="text-align:center;margin-top:34px">
+      <a href="/portofoliu/#brand" class="btn btn-ghost">Vezi toate siglele din portofoliu →</a>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Unde se aplică <span class="acc">brandul</span></h2>
+    </div>
+    <div class="csi-types rv rv-d1">
+      <div class="csi-type">
+        <span class="csi-type__n">01</span>
+        <div>
+          <h3>Site-ul ansamblului</h3>
+          <p>Site-ul are câte o pagină pentru fiecare tip de apartament, cu planuri, randări, preț și formular. Culorile și fonturile vin din brand.</p>
+        </div>
+      </div>
+      <div class="csi-type">
+        <span class="csi-type__n">02</span>
+        <div>
+          <h3>Șantierul</h3>
+          <p>Bannerele de pe gard și panourile de șantier sunt primul contact cu oamenii din zonă. Le pregătim pentru tipar, la dimensiunile cerute de tipografie.</p>
+        </div>
+      </div>
+      <div class="csi-type">
+        <span class="csi-type__n">03</span>
+        <div>
+          <h3>Materialele de vânzare</h3>
+          <p>Broșura de prezentare, flyerele și roll-up-ul ajung la vizionări și la târguri. Agenții de vânzări le dau mai departe cumpărătorilor.</p>
+        </div>
+      </div>
+      <div class="csi-type">
+        <span class="csi-type__n">04</span>
+        <div>
+          <h3>Social media și reclamele</h3>
+          <p>Postările și reclamele de pe Facebook, Instagram și Google folosesc aceleași culori și aceeași siglă. Omul care vede reclama recunoaște apoi bannerul de pe șantier.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream2" id="preturi">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Prețurile pentru <span class="acc">brandul ansamblului</span></h2>
+      <p class="body-lg" style="margin-top:14px">Sunt aceleași prețuri ca pe pagina de prețuri, fără pachete.</p>
+    </div>
+    <div class="csi-tbl rv">
+      <table>
+        <thead>
+          <tr><th>Serviciu</th><th>Preț</th><th>Ce intră</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Logo</td><td>500€</td><td>Primești o siglă unică, cu o revizie, în toate variantele pentru tipar și online.</td></tr>
+          <tr><td>Branding Standard</td><td>1.200€</td><td>Propunem 3 variante de logo, cu 3 revizii, și facem identitatea completă, cu carte de vizită, dosar și antet pentru documente.</td></tr>
+          <tr><td>Branding Premium</td><td>2.500€</td><td>Pe lângă Standard, ai 6 revizii, brand book complet, animația siglei în video și GIF, un flyer și un banner pentru social media.</td></tr>
+          <tr><td>Broșură de prezentare</td><td>300€</td><td>Broșura are 5 pagini, iar fiecare pagină în plus costă 15€.</td></tr>
+          <tr><td>Design grafic și print</td><td>50€ pe oră</td><td>Facem bannerele de șantier, flyerele și roll-up-urile la tarif orar.</td></tr>
+          <tr><td>Analiză de zonă</td><td>800€</td><td>Analizăm ansamblurile concurente, cererea online și prețurile din jur. Suma se scade integral din costul brandului și al site-ului dacă lansăm ansamblul împreună.</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="csi-pr-note rv rv-d2">
+      Site-ul ansamblului se plătește separat și pornește de la 750€. Toate serviciile pentru dezvoltatori sunt pe pagina de <a href="/marketing-dezvoltatori-imobiliari/">marketing imobiliar</a>.
+    </p>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-white">
+  <div class="wrap">
+    <div class="csi-head rv">
+      <h2 class="dd dd-lg">Ordinea în care <span class="acc">lucrăm</span></h2>
+    </div>
+    <div class="csi-steps rv rv-d1">
+      <div class="csi-step"><div class="csi-step__n">PASUL 01</div><h3>Zona</h3><p>Ne uităm la ansamblurile din jur, la prețurile lor și la ce se caută online în zona ta.</p></div>
+      <div class="csi-step"><div class="csi-step__n">PASUL 02</div><h3>Numele și mesajul</h3><p>Stabilim numele, cui vorbește ansamblul și ce îl deosebește de cele vecine.</p></div>
+      <div class="csi-step"><div class="csi-step__n">PASUL 03</div><h3>Sigla și identitatea</h3><p>Propunem variantele de siglă, culorile și fonturile, apoi le ajustăm după revizii.</p></div>
+      <div class="csi-step"><div class="csi-step__n">PASUL 04</div><h3>Aplicarea</h3><p>Aplicăm brandul pe site, pe bannerele de șantier, în broșură și în primele reclame.</p></div>
+    </div>
+    <div class="csi-prose rv rv-d2" style="margin-top:40px">
+      <p>Brandul se face cel mai bine în faza de proiectare, înainte de primul banner pe gard. Așa strângi din timp lista de interesați, iar la lansare ai deja cui vinde. Despre momentul potrivit am scris în <a href="/blog/cand-incepi-marketingul-unui-proiect-imobiliar/">când începi marketingul unui proiect imobiliar</a>.</p>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-sec bg-cream">
+  <div class="wrap">
+    <div class="csi-head center rv">
+      <h2 class="dd dd-lg">Întrebări <span class="acc">frecvente</span></h2>
+    </div>
+    <div class="csi-faq rv">
+      <details>
+        <summary>Cât costă brandingul pentru un ansamblu rezidențial?</summary>
+        <p>Logo-ul costă 500€, identitatea vizuală completă 1.200€, iar varianta cu brand book și animația siglei 2.500€. Broșura de prezentare costă 300€ pentru 5 pagini, iar bannerele de șantier și celelalte materiale de tipar se fac la 50€ pe oră.</p>
+      </details>
+      <details>
+        <summary>Ce fișiere primesc la final?</summary>
+        <p>Primești sigla în toate formatele necesare, vectorial, PNG, JPG și PDF, cu variante pentru tipar și pentru online. La Branding Premium primești și brand book-ul, cu regulile de folosire a siglei, a culorilor și a fonturilor.</p>
+      </details>
+      <details>
+        <summary>Faceți și numele ansamblului?</summary>
+        <p>Da. Numele îl stabilim înainte de siglă, pornind de la zonă și de la cumpărătorii pe care îi cauți. Un nume ales bine se reține ușor și se găsește ușor pe Google.</p>
+      </details>
+      <details>
+        <summary>Are nevoie fiecare ansamblu de brandul lui?</summary>
+        <p>De regulă, da, pentru că fiecare ansamblu are alt public și altă zonă. Firma de dezvoltare are însă nevoie de un brand propriu, pe care oamenii îl țin minte de la un proiect la altul.</p>
+      </details>
+      <details>
+        <summary>Ale cui sunt fișierele de brand?</summary>
+        <p>Ale tale. Fișierele de brand, randările, accesele și rapoartele rămân la tine, chiar dacă nu mai lucrăm împreună.</p>
+      </details>
+      <details>
+        <summary>Faceți și site-ul și reclamele ansamblului?</summary>
+        <p>Da. Facem și site-ul cu pagini pe tipuri de apartamente, campaniile Google și Meta și CRM-ul în care intră toate cererile. Toate serviciile sunt pe pagina de <a href="/marketing-dezvoltatori-imobiliari/">marketing pentru dezvoltatori imobiliari</a>.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+
+<section class="csi-cta" aria-labelledby="csi-cta-h">
+  <div class="wrap">
+    <div class="rv">
+      <h2 class="dd dd-lg csi-cta__h" id="csi-cta-h">Cere o ofertă pentru<br><span class="acc">brandul ansamblului</span></h2>
+      <p class="csi-cta__p">Spune-ne unde construiești și în ce fază ești. Primești în 24 de ore o ofertă cu fiecare serviciu scris separat.</p>
+      <div class="csi-cta__acts">
+        <a href="/contact/" class="btn btn-solid">Cere ofertă</a>
+        <a href="tel:+40771486499" class="btn btn-dark">+40 771 486 499</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="rel-strip" aria-label="Marketing imobiliar și branding">
+  <div class="wrap rel-strip__in">
+    <div class="rel-trans">
+      <span class="rel-trans__badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fără prețuri ascunse</span>
+      <h2>Vezi exact cât plătești.</h2>
+      <p>Toate prețurile noastre sunt publice, serviciu cu serviciu. Alegi în cunoștință de cauză, fără presiune.</p>
+      <a href="/preturi/" class="rel-trans__link">Vezi toate prețurile <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="rel-links">
+      <div class="rel-links__title">Mai departe, pentru dezvoltatori</div>
+      <div class="rel-links__grid">
+        <a href="/marketing-dezvoltatori-imobiliari/" class="rel-link"><span class="rel-link__name">Marketing pentru dezvoltatori <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/analiza-de-zona/" class="rel-link"><span class="rel-link__name">Analiza de zonă <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/branding-identitate-vizuala/" class="rel-link"><span class="rel-link__name">Branding și identitate vizuală <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/tur-virtual-3d-apartamente/" class="rel-link"><span class="rel-link__name">Tur virtual 3D <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/blog/cat-costa-un-site-pentru-un-complex-rezidential/" class="rel-link"><span class="rel-link__name">Cât costă un site de ansamblu <span class="arr" aria-hidden="true">↗</span></span></a>
+        <a href="/design-grafic-iasi/" class="rel-link"><span class="rel-link__name">Design grafic <span class="arr" aria-hidden="true">↗</span></span></a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+3:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$6"}}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2e20r-1ylhx8v.css","precedence":"next"}]
+5:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null
